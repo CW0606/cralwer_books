@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《读《山海经》》正文_读《山海经》 其一_陶渊明作品 - 维普阅读网</title>
+<meta name="keywords" content="读《山海经》,读《山海经》原文,读《山海经》阅读,读《山海经》 其一全文,陶渊明作品" />
+<meta name="description" content="读《山海经》原文阅读,读《山海经》 其一全文在线阅读,陶渊明作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-646.html";
+var nextpage="novel-read-646-7894.html";
+var indexpage = "novel-chapter-646.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-646.html">读《山海经》</a></strong>
+<strong><a href="novel-chapter-646.html">读《山海经》目录</a></strong>
+<span>读《山海经》 其一</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-646.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>读《山海经》 其一</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=陶渊明&amp;searchsubmit=yes"  target="_blank">陶渊明</a><span class="divide">|</span>发布时间：2014-10-15 21:26:42<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>孟夏草木长，绕屋树扶疏。<br/>众鸟欣有托，吾亦爱吾庐。<br/>既耕亦已种，时还读我书。<br/>穷巷隔深辙，颇回故人车。<br/>欢言酌春酒，摘我园中蔬。<br/>微雨从东来，好风与之俱。<br/>泛览《周王传》，流观《山海图》。<br/>俯仰终宇宙，不乐复何如。<br/><br/>【注释】<br/>(1)这旨诗自咏隐居耕读之乐，是组诗的序诗。初夏之季，耕种之余，饮酌春酒，观览图书的诗人的神情伴随着美妙的神话故事邀游宇宙，乐趣无穷。<br/>(2)盂夏：初夏，农历四月。扶疏：枝叶茂盛纷披的样子。《韩非子?扬权》：“为人君者，数披其木，毋使本枝扶疏。”<br/>(3)欣有托：因为有了依托而高兴。托：依托、指寄身之处。庐：住宅。<br/>(4)穷巷：僻巷。隔深辙：谓距离大路很远。隔：隔开，相距。辙：车辙，代指大路。颇回故人车：经常使老朋友的车子掉转回去。颇：很，这里指经常。回：回转。故人：熟人，老朋友。<br/>(5)周王传：指《穆夫子传》。山海图：指《山海经图》。《山海经》原有古图及汉代所传图，晋代郭璞曾为《山海经》作注，有图及赞。后原图均失，今所见图是清人补画。<br/>(6)俯仰：俯仰之间，形容时间很短。终穷，尽。<br/><br/>【译文】<br/>夏初草木竞生长，叶茂枝繁树绕屋。<br/>众鸟欢欣有住处，我也喜爱我茅庐。<br/>耕田播种事已毕，有空还家读我书。<br/>僻巷距离大道远，友朋无奈转回路。<br/>我心欢快饮春酒，摘取园中好菜疏。<br/>微雨濛濛东面来，好风与共使心舒。<br/>《穆天子传》泛观览，《山海经》中翻画图。<br/>顷刻邀游遍宇宙，我心不乐又何如？<br/><br/>【赏析】<br/>　　《读山海经》是陶渊明隐居时所写13首组诗的第一首。诗的前6句向人们描述：初夏之际，草木茂盛，鸟托身丛林而自有其乐，诗人寓居在绿树环绕的草庐，也自寻其趣，耕作之余悠闲地读起书来。情调显得是那样的安雅清闲，自然平和，体现出世间万物、包括诗人自身各得其所之妙。<br/><br/>　　接下来描写读书处所的环境。诗人居住在幽深僻远的村巷，与外界不相往来，即使是前来探访的老朋友，也只好驾车掉转而去。他独自高兴地酌酒而饮，采摘园中的蔬菜而食。没有了人世间的喧闹和干扰，是多么的自在与自得啊！初夏的阵阵和风伴着一场小雨从东而至，更使诗人享受到自然的清新与惬意。<br/><br/>　　诗的最后4句概述读书活动，抒发读书所感。诗人在如此清幽绝俗的草庐之中，一边泛读“周王传”，一边流览《山海经图》。“周王传”即《穆天子传》，记叙周穆王驾八骏游四海的神话故事；《山海经图》是依据《山海经》中的传说绘制的图。从这里的“泛览”、“流观”的读书方式可以看出，陶渊明并不是为了读书而读书，而只是把读书作为隐居的一种乐趣，一种精神寄托。所以诗人最后说，在低首抬头读书的顷刻之间，就能凭借着两本书纵览宇宙的种种奥妙，这难道还不快乐吗？难道还有比这更快乐的吗？ </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-646.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-646-7894.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-646.html" action-type="chapterComment" class="comment"><i></i>读《山海经》章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

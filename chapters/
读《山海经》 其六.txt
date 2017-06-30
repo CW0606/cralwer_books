@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《读《山海经》》正文_读《山海经》 其六_陶渊明作品 - 维普阅读网</title>
+<meta name="keywords" content="读《山海经》,读《山海经》原文,读《山海经》阅读,读《山海经》 其六全文,陶渊明作品" />
+<meta name="description" content="读《山海经》原文阅读,读《山海经》 其六全文在线阅读,陶渊明作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-646-7897.html";
+var nextpage="novel-read-646-7899.html";
+var indexpage = "novel-chapter-646.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-646.html">读《山海经》</a></strong>
+<strong><a href="novel-chapter-646.html">读《山海经》目录</a></strong>
+<span>读《山海经》 其六</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-646-7897.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>读《山海经》 其六</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=陶渊明&amp;searchsubmit=yes"  target="_blank">陶渊明</a><span class="divide">|</span>发布时间：2014-10-15 21:34:02<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>逍遥芜皋上，杳然望扶木。<br/>洪柯百万寻，森散复旸谷。<br/>灵人侍丹池，朝朝为日浴。<br/>神景一登天，何幽不见烛。<br/><br/>【注释】<br/>(1)这首诗吟咏日出之处和太阳的光辉，寄托向往光明之意。<br/>(2)芜皋：即无皋。《山海经?东山经》：“无皋之山，南望幼海，东望榑（fú扶）木。”沓然：遥远的样子。扶木：即搏木，亦作扶桑或搏桑。《山海经?大荒东经》：“汤谷上有扶木，一日方至，一日方出，皆载于乌。”《山海经?海外东经》：“汤谷上有扶桑，十日所浴。”郭璞注：“扶桑，木也。” 《淮南子?览冥训》：“朝发榑桑。”<br/>(3)洪柯：大树枝。寻：古代的长度单位，八尺为一寻。森散：枝叶舒展四布的样子。肠（yáng阳）谷：同“汤（yáng）谷”，日所从出处。见注(2)。（楚辞?天问》：“出自汤谷，次于蒙汜，自明及晦，所行几里？”《淮南?天文训》：“日出于肠谷，浴于咸池，拂于扶桑，是谓晨明。”《说文》：“旸，日出也。”<br/>(4)灵人：指羲（xī希）和，神话传说中太阳的母亲。《山海经?大荒南经调“东南海之外，甘水之间，有羲和之国，有女子名曰羲和? .羲和者，帝俊之妻，生十日。”丹池：即甘渊或咸他，太阳沐浴处。《山海经?大荒南经》：“有女子名曰羲和，方（为）日浴于甘渊。”《淮南子?天文训》：“日出于肠谷，浴于咸他。”<br/>(5)神景：指太阳。景：日光。何幽不见烛：什么阴暗的地方不被照亮。幽：阴暗。烛：照亮。<br/><br/>【译文】<br/>逍遥无皋之山上，<br/>远远望见木扶桑。<br/>巨大树枝百万丈，<br/>纷披正把肠谷挡。<br/>羲和服侍丹池旁，<br/>天天为日沐浴忙。<br/>一旦太阳升上天，<br/>何方阴暗不照亮！</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-646-7897.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-646-7899.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-646.html" action-type="chapterComment" class="comment"><i></i>读《山海经》章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

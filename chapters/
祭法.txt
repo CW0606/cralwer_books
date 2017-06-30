@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《礼记》正文_祭法_戴圣作品 - 维普阅读网</title>
+<meta name="keywords" content="礼记,礼记原文,礼记阅读,祭法全文,戴圣作品" />
+<meta name="description" content="礼记原文阅读,祭法全文在线阅读,戴圣作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-228-2887.html";
+var nextpage="novel-read-228-2889.html";
+var indexpage = "novel-chapter-228.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-228.html">礼记</a></strong>
+<strong><a href="novel-chapter-228.html">礼记目录</a></strong>
+<span>祭法</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-228-2887.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>祭法</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=戴圣&amp;searchsubmit=yes"  target="_blank">戴圣</a><span class="divide">|</span>发布时间：2014-08-18 22:47:05<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>祭法：有虞氏禘黄帝而郊喾，祖颛顼而宗尧。夏后氏亦禘黄帝而郊鲧，祖颛顼而宗禹。殷人禘喾而郊冥，祖契而宗汤。周人禘喾而郊稷，祖文王而宗武王。<br/><br/>　　燔柴于泰坛，祭天也；瘗埋于泰折，祭地也；用骍犊。埋少牢于泰昭，祭时也；相近于坎坛，祭寒暑也。王宫，祭日也；夜明，祭月也；幽宗，祭星也；雩宗，祭水旱也；四坎坛，祭四时也。山林、川谷、丘陵，能出云为风雨，见怪物，皆曰神。有天下者，祭百神。诸侯在其地则祭之，亡其地则不祭。<br/><br/>　　大凡生于天地之间者，皆曰命。其万物死，皆曰折；人死，曰鬼；此五代之所不变也。七代之所以更立者：禘、郊、宗、祖；其余不变也。<br/><br/>　　天下有王，分地建国，置都立邑，设庙祧坛墠而祭之，乃为亲疏多少之数。是故：王立七庙，一坛一墠，曰考庙，曰王考庙，曰皇考庙，曰显考庙，曰祖考庙；皆月祭之。远庙为祧，有二祧，享尝乃止。去祧为坛，去坛为墠。坛墠，有祷焉祭之，无祷乃止。去墠曰鬼。诸侯立五庙，一坛一墠。曰考庙，曰王考庙，曰皇考庙，皆月祭之；显考庙，祖考庙，享尝乃止。去祖为坛，去坛为墠。坛墠，有祷焉祭之，无祷乃止。去墠为鬼。大夫立三庙二坛，曰考庙，曰王考庙，曰皇考庙，享尝乃止。显考祖考无庙，有祷焉，为坛祭之。去坛为鬼。适士二庙一坛，曰考庙，曰王考庙，享尝乃止。皇考无庙，有祷焉，为坛祭之。去坛为鬼。官师一庙，曰考庙。王考无庙而祭之，去王考曰鬼。庶士庶人无庙，死曰鬼。<br/><br/>　　王为群姓立社，曰大社。王自为立社，曰王社。诸侯为百姓立社，曰国社。诸侯自立社，曰侯社。大夫以下，成群立社曰置社。<br/><br/>　　王为群姓立七祀：曰司命，曰中溜，曰国门，曰国行，曰泰厉，曰户，曰灶。王自为立七祀。诸侯为国立五祀，曰司命，曰中溜，曰国门，曰国行，曰公厉。诸侯自为立五祀。大夫立三祀：曰族厉，曰门，曰行。适士立二祀：曰门，曰行。庶士、庶人立一祀，或立户，或立灶。<br/><br/>　　王下祭殇五：适子、适孙、适曾孙、适玄孙、适来孙。诸侯下祭三，大夫下祭二，适士及庶人，祭子而止。<br/><br/>　　夫圣王之制祭祀也：法施于民则祀之，以死勤事则祀之，以劳定国则祀之，能御大菑则祀之，能捍大患则祀之。是故厉山氏之有天下也，其子曰农，能殖百谷；夏之衰也，周弃继之，故祀以为稷。共工氏之霸九州岛也，其子曰后土，能平九州岛，故祀以为社。帝喾能序星辰以着众；尧能赏均刑法以义终；舜勤众事而野死。鲧鄣洪水而殛死，禹能修鲧之功。黄帝正名百物以明民共财，颛顼能修之。契为司徒而民成；冥勤其官而水死。汤以宽治民而除其虐；文王以文治，武王以武功，去民之菑。此皆有功烈于民者也。及夫日月星辰，民所瞻仰也；山林川谷丘陵，民所取材用也。非此族也，不在祀典。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-228-2887.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-228-2889.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-228.html" action-type="chapterComment" class="comment"><i></i>礼记章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

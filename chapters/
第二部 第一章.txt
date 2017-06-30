@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《战争与和平》正文_第二部 第一章_列夫·托尔斯泰作品 - 维普阅读网</title>
+<meta name="keywords" content="战争与和平,战争与和平原文,战争与和平阅读,第二部 第一章全文,列夫·托尔斯泰作品" />
+<meta name="description" content="战争与和平原文阅读,第二部 第一章全文在线阅读,列夫·托尔斯泰作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1211-20593.html";
+var nextpage="novel-read-1211-20595.html";
+var indexpage = "novel-chapter-1211.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1211.html">战争与和平</a></strong>
+<strong><a href="novel-chapter-1211.html">战争与和平目录</a></strong>
+<span>第二部 第一章</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1211-20593.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第二部 第一章</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-28.html" target="blank">外国名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=列夫·托尔斯泰&amp;searchsubmit=yes"  target="_blank">列夫·托尔斯泰</a><span class="divide">|</span>发布时间：2015-03-05 20:28:12<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　 一八○五年十月间，俄国军队侵占了奥国大公管辖的几个大村庄和城市，一些新兵团又从俄国开来，驻扎在布劳瑙要塞附近的地方，因而加重了居民的负担。库图佐夫总司令的大本营也坐落在布劳瑙。<br/><br/>　　一八○五年十月十一日，刚刚抵达布劳瑙的步兵团在离城市半英里处扎营，听候总司令检阅军队。尽管地形和周围环境（果园、石砌的围墙、瓦房盖、远处望得见的山峦）与俄罗斯迥然不同，尽管非俄罗斯民众怀着好奇心观望着士兵，但是，这个兵团的外貌，却和俄罗斯中部任何地区任何一个准备接受检阅的俄国兵一模一样。<br/><br/>　　那天傍晚，在最近一次行军的路上，接到了一项关于总司令检阅行军中的兵团的命令。虽然团长不太明了命令中的措词，出现了应当怎样领会措词的问题：士兵是不是穿上行军的服装接受检阅？而在营长会议上，遵照以礼相待的准则，决定兵团的士兵穿上阅兵服接受检阅。于是在三十俄里的行军之后，士兵们目不交睫，彻夜缝补衣裳，洗濯污秽；副官和连长命令士兵报数，清除一部分人。次日清晨，这个兵团已经不是最近一次行军的前夜那样松松垮垮的乌合之众，而是一支拥有两千人众的排列整齐的军队，每个人都熟谙自己的位置和任务，每个人的每个纽扣和每根皮带都位于原处，洁净得闪闪发亮。而且不仅是外面穿的军装没有破烂不堪，如果总司令要察看军装里面，他就会看到每个人都穿着一件同样干净的衬衫，他也会发现每只背袋里都装有一定数量的物件，正像士兵们说的那样，“锥子、肥皂，应有尽有。”人人都认为，只有一件事令人心烦，那就是鞋子问题。士兵们的皮靴多半穿破了。但是这个缺点不能归咎于团长。虽然多次提出要求，奥国主管部门并没有把军需品拨给团长，而这个兵团走了一千俄里路了。<br/><br/>　　这个团长是个易于激动的、须眉均已苍白的渐近老境的将军，他体格结实，胸背之间的宽度大于左右两肩之间的宽度。他身穿一套新缝制的带有一溜溜褶痕的军装，镀金的肩章挺厚，好像没有压低他那肥胖的肩膀，而是使它隆起来。团长的那副样子，就像某人正在顺利地完成一项平生最庄严的事业似的。他在队列前面慢慢地走动，有点儿弯腰曲背，走动时微微发抖，看起来，这个团长非常欣赏自己的兵团，因为他居于一团之首而感到幸福，他把全部精力都投入这个兵团了。尽管如此，他那微微发抖的步态仿佛说明，他除开对军事颇感兴趣，对上流社会的生活方式和女性的兴趣在他灵魂深处也占有相当重要的地位。<br/><br/>　　“喂，老兄，米哈伊洛-米特里奇，”他把脸转向一个营长，说道（这营长微微一笑，向前移动一步，看上去他们都很走运），“夜里我们都挨责备了。可是，似乎还不错，我们的兵团不是劣等的……啊，不是吗？”<br/><br/>　　营长听懂了这句令人开心的讽刺话，笑起来了。<br/><br/>　　“就是在察里津草地举行阅兵式，也不会有人把我们赶出去的。”<br/><br/>　　“什么？”那团长说道。<br/><br/>　　这时候，在那分布着信号兵的直通城市的大道上，有两个骑马的人出现了，一个是副官，另一个是跟随身后的哥萨克。<br/><br/>　　副官是由总司令部派来向团长阐明昨天发布的命令中模糊不清的措词的，即是阐明，总司令意欲看见一个完全处于行军状态的兵团——穿军大衣，罩上外套，不作任何检阅准备。<br/><br/>　　前一天，奥国军事参议院有一名参议员由维也纳前来叩见库图佐夫，建议并要求俄国军队尽速与费迪南大公和马克的部队汇合，但是库图佐夫认为这种汇合并无裨益，所以，他在摆出可作为他的观点的佐证时，还试图请那位奥国将军目睹一下来自俄国的军队的凄惨情状。他愿意前来与兵团士兵会面，就是要臻达这个目的；因此，兵团的处境愈益恶劣，总司令就愈益高兴。尽管那个副官不熟悉详情，但他已向团长转达了非履行不可的总司令的要求，即是士兵必须穿军大衣，罩上外套，不然，总司令就会表示不满意的。<br/><br/>　　团长听了这些话后垂下头来，默不作声地耸耸肩膀，很激动地把两手一摊。<br/><br/>　　“胡作非为啊！”他说道。“米哈伊洛-米特里奇，我不是跟你说过，在行军中，就是要穿军大衣，”他指责营长，“唉呀！我的天！”他补充一句话，就很坚定地向前走去。“诸位，连长！”他用那惯于发口令的嗓音喊道。“上士！……他即将光临？”他流露出恭恭敬敬的神情面对前来的副官说道。看来是为他所提起的那人，他才面带这种表情的。<br/><br/>　　“我认为要过一个钟头。”<br/><br/>　　“还来得及换衣服吗？”<br/><br/>　　“将军，我不晓得……”<br/><br/>　　这个团长亲自走到了队列的前面，吩咐士兵们重新穿上军大衣。连长各自奔回连部，上士们开始忙碌起来了（一部分大衣未予缝补，不太完整），就在这一刹那间，那些原先既整齐而又肃静的四边形队列开始蠕动、松散，喧哗不已。士兵从四面八方来回奔走，一个个向前耸起肩膀，绕过头上取下行军用的背袋，脱下军大衣，抬起一双手伸进衣袖中。<br/><br/>　　过了半个钟头，一切恢复了原有的秩序，只有四边形队列已由黑色变成灰色的了。团长又用那微微发抖的步态走到兵团的前面，从远处望它一眼。<br/><br/>　　“这又是什么名堂？这是什么名堂？”他在停步之时喊，“第三连连长！……”<br/><br/>　　“传呼第三连连长去见将军，传呼连长去见将军，传呼第三连连长去见团长！……”一列列队伍都听见传呼的声音，一名副官跑去寻找那个磨磨蹭蹭的军官。<br/><br/>　　这些费劲传呼的声音越传越不对头，在传到被传者的耳鼓时，原话已经变成“将军被传到第三连”了。这名被传的军官从连部后面窜出来，他虽然是个已过中年的男人，不习惯于跑步，但他还是步履踉跄，磕磕绊绊地快步走到将军面前。上尉那种惶惑不安的神色，就像有人叫一个没有学会功课的学生回答问题似的。他那显然由于饮酒无度而发红的脸上现出了斑点，嘴巴撇得合不拢了。他走到团长近侧，放慢了脚步，当他气喘吁吁走到团长面前时，团长从头到脚把他打量一番。<br/><br/>　　“您很快要给士兵们换上长袍了！这是什么名堂？”团长喊道，他用下颔指了指第三连的队伍中的一个穿着与别人的军大衣截然不同的厂呢色军大衣的士兵，“您刚才呆在哪儿？预料总司令就要到了，而您擅自离开岗位，啊，不是吗？……我要教训您一顿，干嘛要让士兵们穿上卡萨金去接受检阅！<br/><br/>　　……啊，不是吗？<br/><br/>　　连长眼巴巴地望着首长，他把两个指头按在帽檐上，越按越紧，好像他认为这会儿只有按帽檐行礼才能得救似的。<br/><br/>　　“喂，您为什么不开腔？您这儿有一个装扮成匈牙利人的是谁呀？”团长带着严肃的神色，开玩笑说。<br/><br/>　　“大人……”<br/><br/>　　“喂，什么‘大人’？大人！大人！可是谁不知道‘大人’是什么。”<br/><br/>　　“大人，他是受降级处分的多洛霍夫……”上尉轻声地说道。<br/><br/>　　“怎么？他被贬为元帅，是不是？还是贬为士兵呢？士兵就应当像大家一样穿军装。”<br/><br/>　　“大人，您亲自准许他在行军时可以穿这种衣服。”<br/><br/>　　“我准许的么？我准许的么？你们这些年轻人总是这个样子，”团长有几分冷静地说道。“我准许的么？对你们随便说句什么话，你们就……怎么？”他怒气冲冲地说道，“请让士兵们穿着得体面一点……”<br/><br/>　　团长掉过头来望望副官，他又用那微微发抖的步态向兵团的队伍走去。可见他很喜欢大发脾气，在这个兵团的队伍中走了一阵之后，他想再找一个大发脾气的借口。他威吓一个军官，因为这个军官戴着尚未擦亮的奖章，又威吓另一个军官，因为他带的队伍不整齐，之后他就向第三连走去。<br/><br/>　　“你是怎——样站的？脚放在哪里？脚放在哪里？”离那个身穿浅蓝色军大衣的多洛霍夫莫约有五人间隔的地方，团长就用含有痛楚的嗓音喊道。<br/><br/>　　多洛霍夫把他那弯着的腿慢慢地伸直，用炯炯发亮的放肆无礼的目光朝将军的面孔瞥了一眼。<br/><br/>　　“干嘛要穿蓝色的军大衣？脱掉！……上士！给他换衣服……坏东西……”团长还没有把话说完，多洛霍夫就急急忙忙地说道：<br/><br/>　　“将军，我必须执行命令。但是，我不应该忍受……”<br/><br/>　　“在队伍里不要闲扯！……不要闲扯，不要闲扯！……”<br/><br/>　　“我不应该忍受屈辱。”多洛霍夫用那洪亮的嗓音把话说完了。<br/><br/>　　将军和士兵的视线相遇了。将军怒气冲冲地向下拉着那条系得紧紧的腰带，他沉默起来了。<br/><br/>　　“请您换换衣服吧，我请求您。”他走开时说道——</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1211-20593.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1211-20595.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1211.html" action-type="chapterComment" class="comment"><i></i>战争与和平章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

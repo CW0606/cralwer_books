@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《准风月谈》正文_看变戏法_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="准风月谈,准风月谈原文,准风月谈阅读,看变戏法全文,鲁迅作品" />
+<meta name="description" content="准风月谈原文阅读,看变戏法全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-551-7594.html";
+var nextpage="novel-read-551-7596.html";
+var indexpage = "novel-chapter-551.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-551.html">准风月谈</a></strong>
+<strong><a href="novel-chapter-551.html">准风月谈目录</a></strong>
+<span>看变戏法</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-551-7594.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>看变戏法</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-06 20:39:57<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　游光 <br/>　　我爱看“变戏法”。 <br/>　　他们是走江湖的，所以各处的戏法都一样。为了敛钱，一定有两种必要的东西：一只黑熊，一个小孩子。 <br/>　　黑熊饿得真瘦，几乎连动弹的力气也快没有了。自然，这是不能使它强壮的，因为一强壮，就不能驾驭。现在是半死不活，却还要用铁圈穿了鼻子，再用索子牵着做戏。有时给吃一点东西，是一小块水泡的馒头皮，但还将勺子擎得高高的，要它站起来，伸头张嘴，许多工夫才得落肚，而变戏法的则因此集了一些钱。 <br/>　　这熊的来源，中国没有人提到过。据西洋人的调查，说是从小时候，由山里捉来的；大的不能用，因为一大，就总改不了野性。但虽是小的，也还须“训练”，这“训练”的方法，是“打”和“饿”；而后来，则是因虐待而死亡。我以为这话是的确的，我们看它还在活着做戏的时候，就瘪得连熊气息也没有了，有些地方，竟称之为“狗熊”，其被蔑视至于如此。 <br/>　　孩子在场面上也要吃苦，或者大人踏在他肚子上，或者将他的两手扭过来，他就显出很苦楚，很为难，很吃重的相貌，要看客解救。六个，五个，再四个，三个……而变戏法的就又集了一些钱。 <br/>　　他自然也曾经训练过，这苦痛是装出来的，和大人串通的勾当，不过也无碍于赚钱。 <br/>　　下午敲锣开场，这样的做到夜，收场，看客走散，有化了钱的，有终于不化钱的。 <br/>　　每当收场，我一面走，一面想：两种生财家伙，一种是要被虐待至死的，再寻幼小的来；一种是大了之后，另寻一个小孩子和一只小熊，仍旧来变照样的戏法。 <br/>　　事情真是简单得很，想一下，就好像令人索然无味。然而我还是常常看。此外叫我看什么呢，诸君？ <br/>　　十月一日。 <br/>　　<br/>===============================================================<br/>　　　　　 <br/>　　（１）　本篇最初发表于一九三三年十月四日《申报·自由谈》。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-551-7594.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-551-7596.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-551.html" action-type="chapterComment" class="comment"><i></i>准风月谈章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

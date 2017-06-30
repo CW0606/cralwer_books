@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《二心集》正文_再来一条“顺”的翻译_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="二心集,二心集原文,二心集阅读,再来一条“顺”的翻译全文,鲁迅作品" />
+<meta name="description" content="二心集原文阅读,再来一条“顺”的翻译全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-534-6743.html";
+var nextpage="novel-read-534-6745.html";
+var indexpage = "novel-chapter-534.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-534.html">二心集</a></strong>
+<strong><a href="novel-chapter-534.html">二心集目录</a></strong>
+<span>再来一条“顺”的翻译</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-534-6743.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>再来一条“顺”的翻译</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 21:03:13<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>这“顺”的翻译出现的时候，是很久远了；而且是大文学家和大翻译理论家，谁都不屑注意的。但因为偶然在我所搜集的“顺译模范文大成”稿本里，翻到了这一条，所以就再来一下子。<br/>　　却说这一条，是出在中华民国十九年八月三日的《时报》②里的，在头号字的《针穿两手……》这一个题目之下，做着这样的文章：<br/>　　“被共党捉去以钱赎出由长沙逃出之中国商人，与从者二名，于昨日避难到汉，彼等主仆，均鲜血淋漓，语其友人曰，长沙有为共党作侦探者，故多数之资产阶级，于廿九日晨被捕，予等系于廿八夜捕去者，即以针穿手，以秤秤之，言时出其两手，解布以示其所穿之穴，尚鲜血淋漓。……（汉口二日电通电）”<br/>　　这自然是“顺”的，虽然略一留心，即容或会有多少可疑之点。譬如罢，其一，主人是资产阶级，当然要“鲜血淋漓”的了，二仆大概总是穷人，为什么也要一同“鲜血淋漓”的呢？其二，“以针穿手，以秤秤之”干什么，莫非要照斤两来定罪名么？但是，虽然如此，文章也还是“顺”的，因为在社会上，本来说得共党的行为是古里古怪；况且只要看过《玉历钞传》，就都知道十殿阎王的某一殿里，有用天秤来秤犯人的办法，③所以“以秤秤之”，也还是毫不足奇。只有秤的时候，不用称钩而用“针”，却似乎有些特别罢了。幸而，我在同日的一种日本文报纸《上海日报》④上，也偶然见到了电通社⑤的同一的电报，这才明白《时报》是因为译者不拘拘于“硬译”，而又要“顺”，所以有些不“信”了。<br/>　　倘若译得“信而不顺”一点，大略是应该这样的：“……彼等主仆，将为恐怖和鲜血所渲染之经验谈，语该地之中国人曰，共产军中，有熟悉长沙之情形者，……予等系于廿八日之半夜被捕，拉去之时，则在腕上刺孔，穿以铁丝，数人或数十人为一串。言时即以包着沁血之布片之手示之……”<br/>　　这才分明知道，“鲜血淋漓”的并非“彼等主仆”，乃是他们的“经验谈”，两位仆人，手上实在并没有一个洞。穿手的东西，日本文虽然写作“针金”，但译起来须是“铁丝”，不是“针”，针是做衣服的。至于“以秤秤之”，却连影子也没有。<br/>　　我们的“友邦”好友，顶喜欢宣传中国的古怪事情，尤其是“共党”的；四年以前，将“裸体游行”⑥说得像煞有介事，于是中国人也跟着叫了好几个月。其实是，警察用铁丝穿了殖民地的革命党的手，一串一串的牵去，是所谓“文明”国民的行为，中国人还没有知道这方法，铁丝也不是农业社会的产品。从唐到宋，因为迷信，对于“妖人”虽然曾有用铁索穿了锁骨，以防变化的法子，但久已不用，知道的人也几乎没有了。文明国人将自己们所用的文明方法，硬栽到中国来，不料中国人却还没有这样文明，连上海的翻译家也不懂，偏不用铁丝来穿，就只照阎罗殿上的办法，“秤”了一下完事。<br/>　　造谣的和帮助造谣的，一下子都显出本相来了。 ======================================<br/><br/><br/><br/>　　 本篇最初发表于一九三二年一月二十日《北斗》第二卷第一期，署名长庚。<br/>　　②《时报》获葆贤创办的报纸，一九○四年四月在上海创刊，一九三九年九月停刊。<br/>　　③《玉历钞传》全称《玉历至宝钞传》，题称宋代“淡痴道人梦中得授，弟子勿迷道人钞录传世”，是一部宣扬因果报应迷信思想的书，共八章。其中第二章《〈玉历〉之图像》中有用天秤称犯人的图像。<br/>　　④《上海日报》日本人办的日文报纸，一九○四年七月在上海创刊，原名《上海新报》，周刊，一九○五年三月改为日报。<br/>　　⑤电通社即日本电报通讯社，一九○一年在东京创办，一九三六年与新闻联合通讯社合并为同盟社。电通社于一九二○年在中国上海设立分社。<br/>　　⑥“裸体游行”一九二七年四月十二日《顺天时报》（日本帝国主义者在北京办的报纸）登载一则题为《打破羞耻——武汉街市妇人之裸体游行》的新闻，造谣诬蔑当时尚维持国共合作的武汉政府。当时中国一些反动报纸曾加以转载。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-534-6743.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-534-6745.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-534.html" action-type="chapterComment" class="comment"><i></i>二心集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

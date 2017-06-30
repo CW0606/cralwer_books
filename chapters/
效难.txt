@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《人物志》正文_效难_刘劭作品 - 维普阅读网</title>
+<meta name="keywords" content="人物志,人物志原文,人物志阅读,效难全文,刘劭作品" />
+<meta name="description" content="人物志原文阅读,效难全文在线阅读,刘劭作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-351-5271.html";
+var nextpage="novel-read-351-5273.html";
+var indexpage = "novel-chapter-351.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-351.html">人物志</a></strong>
+<strong><a href="novel-chapter-351.html">人物志目录</a></strong>
+<span>效难</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-351-5271.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>效难</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘劭&amp;searchsubmit=yes"  target="_blank">刘劭</a><span class="divide">|</span>发布时间：2014-09-05 22:15:39<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>盖知人之效有二难：有难知之难，有知之无由得效之难。<br/>　　何谓难知之难？人物精微，能神而明，其道甚难，固难知之难也。是以众人之察，不能尽备；故各自立度，以相观采：或相其形容，或候其动作，或揆其终始，或揆其拟象，或推其细微，或恐其过误，或循其所言，或稽其行事。八者游杂，故其得者少，所失者多。是故必有草创信形之误，又有居止变化之谬；故其接遇观人也，随行信名，失其中情。<br/>　　故浅美扬露，则以为有异。<br/>　　深明沉漠，则以为空虚。<br/>　　分别妙理，则以为离娄。<br/>　　口传甲乙，则以为义理。<br/>　　好说是非，则以为臧否。<br/>　　讲目成名，则以为人物。<br/>　　平道政事，则以为国体。<br/>　　犹听有声之类，名随其音。夫名非实，用之不效，故曰：名犹口进，而实从事退。中情之人，名不副实，用之有效；故名由众退，而实从事章。此草创之常失也。故必待居止，然后识之。<br/>　　故居视其所安，达视其所举，富视其所与，穷视其所为，贫视其所取。<br/>　　然后乃能知贤否。此又已试，非始相也。所以知质未足以知其略，且天下之人，不可得皆与游处。或志趣变易，随物而化：或未至而悬欲，或已至而易顾，或穷约而力行，或得志而从欲；此又居止之所失也。由是论之，能两得其要，是难知之难。　　何谓无由得效之难？上材已莫知，或所识在幼贱之中，未达而丧；或所识者，未拔而先没；或曲高和寡，唱不见赞；或身卑力微，言不见亮；或器非时好，不见信贵；或不在其位，无由得拔；或在其位，以有所屈迫。是以良材识真，万不一遇也；须识真在位识，百不一有也；以位势值可荐致之士，十不一合也。或明足识真，有所妨夺，不欲贡荐；或好贡荐，而不能识真。是故，知与不知，相与分乱于总猥之中；实知者患于不得达效，不知者亦自以为未识。所谓无由得效之难也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-351-5271.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-351-5273.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-351.html" action-type="chapterComment" class="comment"><i></i>人物志章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

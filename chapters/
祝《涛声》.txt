@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《南腔北调集》正文_祝《涛声》_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="南腔北调集,南腔北调集原文,南腔北调集阅读,祝《涛声》全文,鲁迅作品" />
+<meta name="description" content="南腔北调集原文阅读,祝《涛声》全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-543-7111.html";
+var nextpage="novel-read-543-7113.html";
+var indexpage = "novel-chapter-543.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-543.html">南腔北调集</a></strong>
+<strong><a href="novel-chapter-543.html">南腔北调集目录</a></strong>
+<span>祝《涛声》</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-543-7111.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>祝《涛声》</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-01 20:34:11<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>《涛声》的寿命有这么长，想起来实在有点奇怪的。 <br/><br/>　　大前年和前年，所谓作家也者，还有什么什么会，标榜着什么什么文学，到去年就渺渺茫茫了，今年是大抵化名办小报，卖消息；消息那里有这么多呢，于是造谣言。先前的所谓作家还会联成黑幕小说，现在是联也不会联了，零零碎碎的塞进读者的脑里去，使消息和秘闻之类成为他们的全部大学问。这功绩的褒奖是稿费之外，还有消息奖，“挂羊头卖狗肉”也成了过去的事，现在是在“卖人肉”了。于是不“卖人肉”的刊物及其作者们，便成为被卖的货色。这也是无足奇的，中国是农业国，而麦子却要向美国定购，独有出卖小孩，只要几百钱一斤，则古文明国中的文艺家，当然只好卖血，尼采说过：“我爱血写的书”（２）呀。 <br/><br/>　　然而《涛声》尚存，这就是我所谓“想起来实在有点奇怪”。 <br/><br/>　　这是一种幸运，也是一个缺点。看现在的景况，凡有敕准或默许其存在的，倒往往会被一部分人们摇头。有人批评过我，说，只要看鲁迅至今还活着，就足见不是一个什么好人。这是真的，自民元革命以至现在，好人真不知道被害死了多少了，不过谁也没有记一篇准账。这事实又教坏了我，因为我知道即使死掉，也不过给他们大卖消息，大造谣言，说我的被杀，其实是为了金钱或女人关系。所以，名列于该杀之林（３）则可，悬梁服毒，是不来的。 <br/><br/>　　《涛声》上常有赤膊打仗，拚死拚活的文章，这脾气和我很相反，并不是幸存的原因。我想，那幸运而且也是缺点之处，是在总喜欢引古证今，带些学究气。中国人虽然自夸“四千余年古国古”，可是十分健忘的，连民族主义文学家，也会认成吉斯汗为老祖宗（４），则不宜与之谈古也可见。上海的市侩们更不需要这些，他们感到兴趣的只是今天开奖，邻右争风；眼光远大的也不过要知道名公如何游山，阔人和谁要好之类；高尚的就看什么学界琐闻，文坛消息。总之，是已将生命割得零零碎碎了。 <br/><br/>　　这可以使《涛声》的销路不见得好，然而一面也使《涛声》长寿。文人学士是清高的，他们现在也更加聪明，不再恭维自己的主子，来着痕迹了。他们只是排好暗箭，拿定粪帚，监督着应该俯伏着的奴隶们，看有谁抬起头来的，就射过去，洒过去，结果也许会终于使这人被绑架或被暗杀，由此使民国的国民一律“平等”。《涛声》在销路上的不大出头，也正给它逃了暂时的性命，不过，也还是很难说，因为“不测之威”，也是古来就有的。 <br/><br/>　　我是爱看《涛声》的，并且以为这样也就好。然而看近来，不谈政治呀，仍谈政治呀，似乎更加不大安分起来，则我的那些忠告，对于“乌鸦为记”（５）的刊物，恐怕也不见得有效。 <br/><br/>　　那么，“祝”也还是“白祝”，我也只好看一张，算一张了。昔人诗曰，“丧乱死多门”（６），信夫！ <br/><br/>　　八月六日。 <br/><br/>　　十一月二十五日的《涛声》上，果然发出《休刊辞》来，开首道：“十一月二十日下午，本刊奉令缴还登记证，‘民亦劳止，汔可小康’（７）。我们准备休息一些时了。 <br/><br/>　　……”这真是康有为所说似的“不幸而吾言中”，岂不奇而不奇也哉。十二月三十一夜，补记。 <br/><br/>　　==========================================================================<br/><br/><br/>　　（１）本篇最初发表于一九三三年月十九日《涛声》第二卷第三十一期。 <br/><br/>　　（２）“我爱血写的书”参看本卷第２５页注（５）。（３）名列于该杀之林一九三三年一月，作者参加中国民权保障同盟，并被举为执行委员，因此招致国民党的忌恨。同年六月；该盟副会长杨杏佛遭暗杀，作者也被列入黑名单。 <br/><br/>　　（４）这里说的民族主义文学家，指黄震遐。参看《二心集·“民族主义文学”的任务和运命》。 <br/><br/>　　（５）“乌鸦为记”的刊物指《涛声》。它自第一卷第二十一期起，刊头上印有乌鸦的图案。 <br/><br/>　　（６）“丧乱死多门”语见唐代杜甫《白马》诗。（７）“民亦劳止，汔可小康”语见《诗经·大雅·民劳》。汔，庶几，差不多。 <br/><br/>　　上海的少女（１）　　在上海生活，穿时髦衣服的比土气的便宜。如果一身旧衣服，公共电车的车掌会不照你的话停车，公园看守会格外认真的检查入门券，大宅子或大客寓的门丁会不许你走正门。所以，有些人宁可居斗室，喂臭虫，一条洋服裤子却每晚必须压在枕头下，使两面裤腿上的折痕天天有棱角。 <br/><br/>　　然而更便宜的是时髦的女人。这在商店里最看得出：挑选不完，决断不下，店员也还是很能忍耐的。不过时间太长，就须有一种必要的条件，是带着一点风骚，能受几句调笑。否则，也会终于引出普通的白眼来。 <br/><br/>　　惯在上海生活了的女性，早已分明地自觉着这种自己所具的光荣，同时也明白着这种光荣中所含的危险。所以凡有时髦女子所表现的神气，是在招摇，也在固守，在罗致，也在抵御，像一切异性的亲人，也像一切异性的敌人，她在喜欢，也正在恼怒。这神气也传染了未成年的少女，我们有时会看见她们在店铺里购买东西，侧着头，佯嗔薄怒，如临大敌。自然，店员们是能像对于成年的女性一样，加以调笑的，而她也早明白着这调笑的意义。总之：她们大抵早熟了。 <br/><br/>　　然而我们在日报上，确也常常看见诱拐女孩，甚而至于凌辱少女的新闻。 <br/><br/>　　不但是《西游记》（２）里的魔王，吃人的时候必须童男和童女而已，在人类中的富户豪家，也一向以童女为侍奉，纵欲，鸣高，寻仙，采补的材料，恰如食品的餍足了普通的肥甘，就想乳猪芽茶一样。现在这现象并且已经见于商人和工人里面了，但这乃是人们的生活不能顺遂的结果，应该以饥民的掘食草根树皮为比例，和富户豪家的纵恣的变态是不可同日而语的。 <br/><br/>　　但是，要而言之，中国是连少女也进了险境了。 <br/><br/>　　这险境，更使她们早熟起来，精神已是成人，肢体却还是孩子。俄国的作家梭罗古勃曾经写过这一种类型的少女，说是还是小孩子，而眼睛却已经长大了。（３）然而我们中国的作家是另有一种称赞的写法的：所谓“娇小玲珑”者就是。八月十二日。 <br/><br/>　　==========================================================================<br/><br/><br/>　　（１）本篇最初发表于一九三三年九月十五日《申报月刊》第二卷第九号，署名洛文。 <br/><br/>　　（２）《西游记》长篇小说，明代吴承恩著，一百回。写唐僧（玄奘）在孙悟空等护送下到西天取经，沿途战胜妖魔险阻的故事。（３）梭罗古勃在长篇小说《小鬼》中，描写过一群早熟的少女。上海的儿童（１）　　上海越界筑路（２）的北四川路一带，因为打仗，去年冷落了大半年，今年依然热闹了，店铺从法租界搬回，电影院早经开始，公园左近也常见携手同行的爱侣，这是去年夏天所没有的。 <br/><br/>　　倘若走进住家的弄堂里去，就看见便溺器，吃食担，苍蝇成群的在飞，孩子成队的在闹，有剧烈的捣乱，有发达的骂詈，真是一个乱烘烘的小世界。但一到大路上，映进眼帘来的却只是轩昂活泼地玩着走着的外国孩子，中国的儿童几乎看不见了。但也并非没有，只因为衣裤郎当，精神萎靡，被别人压得像影子一样，不能醒目了。 <br/><br/>　　中国中流的家庭，教孩子大抵只有两种法。其一，是任其跋扈，一点也不管，骂人固可，打人亦无不可，在门内或门前是暴主，是霸王，但到外面，便如失了网的蜘蛛一般，立刻毫无能力。其二，是终日给以冷遇或呵斥，甚而至于打扑，使他畏葸退缩，仿佛一个奴才，一个傀儡，然而父母却美其名曰“听话”，自以为是教育的成功，待到放他到外面来，则如暂出樊笼的小禽，他决不会飞鸣，也不会跳跃。 <br/><br/>　　现在总算中国也有印给儿童看的画本了，其中的主角自然是儿童，然而画中人物，大抵倘不是带着横暴冥顽的气味，甚而至于流氓模样的，过度的恶作剧的顽童，就是钩头耸背，低眉顺眼，一副死板板的脸相的所谓“好孩子”。这虽然由于画家本领的欠缺，但也是取儿童为范本的，而从此又以作供给儿童仿效的范本。我们试一看别国的儿童画罢，英国沉着，德国粗豪，俄国雄厚，法国漂亮，日本聪明，都没有一点中国似的衰惫的气象。观民风是不但可以由诗文，也可以由图画，而且可以由不为人们所重的儿童画的。 <br/><br/>　　顽劣，钝滞，都足以使人没落，灭亡。童年的情形，便是将来的命运。我们的新人物，讲恋爱，讲小家庭，讲自立，讲享乐了，但很少有人为儿女提出家庭教育的问题，学校教育的问题，社会改革的问题。先前的人，只知道“为儿孙作马牛”，固然是错误的，但只顾现在，不想将来，“任儿孙作马牛”，却不能不说是一个更大的错误。 <br/><br/>　　八月十二日。 <br/><br/>　　==========================================================================<br/><br/><br/>　　（１）本篇最初发表于一九三三年九月十五日《申报月刊》第二卷第九号，署名洛文。 <br/><br/>　　（２）越界筑路指当时上海租界当局越出租界范围以外修筑马路的区域。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-543-7111.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-543-7113.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-543.html" action-type="chapterComment" class="comment"><i></i>南腔北调集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

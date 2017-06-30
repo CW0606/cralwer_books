@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孝经注疏》正文_卷四 孝治章第八_注 唐·李隆基，疏 宋·邢昺作品 - 维普阅读网</title>
+<meta name="keywords" content="孝经注疏,孝经注疏原文,孝经注疏阅读,卷四 孝治章第八全文,注 唐·李隆基，疏 宋·邢昺作品" />
+<meta name="description" content="孝经注疏原文阅读,卷四 孝治章第八全文在线阅读,注 唐·李隆基，疏 宋·邢昺作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1425-26376.html";
+var nextpage="novel-read-1425-26378.html";
+var indexpage = "novel-chapter-1425.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1425.html">孝经注疏</a></strong>
+<strong><a href="novel-chapter-1425.html">孝经注疏目录</a></strong>
+<span>卷四 孝治章第八</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1425-26376.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷四 孝治章第八</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=注 唐·李隆基，疏 宋·邢昺&amp;searchsubmit=yes"  target="_blank">注 唐·李隆基，疏 宋·邢昺</a><span class="divide">|</span>发布时间：2016-07-22 22:47:17<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p> [疏]正义曰：夫子述此明王以孝治天下也。前章明先王因天地、顺人情以为教。此章言明王由孝而治，故以名章，次《三才》之后也。<br/><br/>　<br/><br/>　　子曰：“昔者明王之以孝治天下也，言先代圣明之王，以至德要道化人，是为孝理。不敢遗小国之臣，而况於公侯伯子男乎？小国之臣，至卑者耳。主尚接之以礼，况於五等诸侯，是广敬也。故得万国之欢心，以事其先王。万国，举其多也。言行孝道，以理天下，皆得欢心，则各以其职来助祭也。<br/><br/>　　[疏]子曰至先王。<br/><br/>　　○正义曰：此章之首称“子曰”者，为事讫，更别起端首故也。言昔者圣明之王，能以孝道治於天下，大教接物，故不敢遗小国之臣，而况於五等之君乎？言必礼敬之。明王能如此，故得万国之欢心，谓各脩其德，尽其欢心而来助祭，以事其先王。经“先王”有六焉，一曰“先王有至德”，二曰“非先王之法服”，三曰“非先王之法言”，四曰“非先王之德行”，五曰“先王见教之”，此皆指先代行孝之王。此章云“以事其先王”，则指行孝王之祖考。<br/>　　○注言先至孝理。<br/>　　○正义曰：此释“孝治”之义也。《国语》云：“古曰在昔，昔曰先民。”《尚书·洪范》云：“睿作圣。”《左传》：“照临四方曰明。”“昔者”非当时代之名，“明王”则圣王之称也，是汎指前代圣王之有德者。经言“明王”，还指首章之“先王”也。以代言之，谓之先王；以圣明言之，则为明王。事义相同，故注以至德要道释之。<br/>　　○注小国至敬也。<br/>　　○正义曰：此依王注义也。五等诸侯，则公、侯、伯、子、男。旧解云：公者正也，言正行其事；侯者候也，言斥候而服事；伯者长也，为一国之长也；子者字也，言字爱於小人也；男者任也，言任王之职事也。爵则上皆胜下，若行事亦互相通。《舜典》曰：“辑五瑞。”孔安国曰：“舜敛公、侯、伯、子、男之瑞圭璧。”斯则尧舜之代已有五等诸侯也。《论语》云：“殷因於夏礼，周因於殷礼。”案《尚书·武成篇》云：“列爵惟五分，土惟三。”郑注《王制》云：“殷所因夏爵，三等之制也。是有公、侯、伯而无子、男。武王增之，总建五等。时九州界狭，故土惟三等，则《王制》云：‘公、侯方百里，伯七十里，子、男五十里。至周公摄政，斥大九州之界，增诸侯之大者地方五百里，侯四百里，伯三百里，子二百里，男百里。’”然据郑玄，夏、殷不建子、男，武王复增之也。案五等，公为上等，侯、伯为次等，子、男为下等，则小国之臣谓子、男卿、大夫，况此诸侯则至卑也。《曲礼》云：“列国之大夫，入天子之国，曰‘某士’。”诸侯言列国者，兼小大。是小国之卿、大夫有见天子之礼也。言虽至卑，尽来朝聘，则天子以礼接之。案《周礼·掌客》云：上公饔饩九牢，飧五牢；侯、伯饔饩七牢，飧四牢；子、男饔饩五牢，飧三牢：三等。其五等之介行人宰史，皆有飧、饔饩，唯上介有禽兽。其卿、大夫、士有特来聘问者，则待之如其为介时也。是待诸侯及其臣之礼，是皆广敬之道也。<br/>　　○注万国至祭也。<br/>　　○正义曰：云“万国，举其多也”者，此依魏注也。《诗》、《书》之言万国者多矣，亦犹言万方，是举多而言之，不必数满於万也。皇侃云：“《春秋》称‘禹会诸侯於涂山，执玉帛者万国’，言禹要服之内，地方七千里，而置九州。九州之中，有方百里、七十里、五十里之国，计有万国也。因引《王制》殷之诸侯有千七伯七十三国也。《孝经》称周诸侯有九千八百国，所以证万国为夏法也。”信如此说，则《周颂》云“绥万邦”，《六月》云“万邦为宪”，岂周之代复有万国乎？今不取也。云“言行孝道，以理天下，皆得欢心，则各以其职来助祭也”者，言明王能以孝道理於天下，则得诸侯之欢心，以事其先王也。各以其职来祭者，谓天下诸侯各以其所职贡来助天子之祭也。和者，《礼器》云：“大飨其王事与！”注云：“盛其馔与贡，谓祫祭先王。”又云：“三牲、鱼腊，四海九州之美味也。笾豆之荐，四时之和气也。”注云：“此馔，诸侯所献。”又云：“内金，示和也。”注云：“此所贡也，内之庭实先设之。金从革，性和，荆、杨二州贡金三品。”又云：“束帛加璧，尊德也。”注云：“贡享所执致命者，君子於玉比德焉。”又云：“龟为前列，先知也。”注云：“龟知事情者，陈於庭，在前。荆州纳锡大龟。”又云：“金次之，见情也。”注云：“金炤物。金有两义，先入后设。”又云：“丹、漆、丝、纊、竹、箭，与众共财也。”注云：“万民皆有此物，荆州贡丹，兖州贡漆、丝，豫州贡纊，杨州贡簜。”又云：“其馀无常货，各以国之所有，则致远物也。”注云：“其馀，谓九州之外夷服、镇服、蕃服之国。《周礼》九州之外谓之蕃国，世一见，各以其所贵宝为贽。周穆王征犬戎，得白狼白鹿，近之。”《大传》云：“遂率天下诸侯，执豆笾，骏奔走。”又《周颂》曰：“骏奔走在庙。”此皆助祭者也。<br/>　<br/><br/>　　治国者，不敢侮於鳏寡，而况於士民乎？理国，谓诸侯也。鳏寡，国之微者，君尚不敢轻侮，况知礼义之士乎？故得百姓之欢心，以事其先君。诸侯能行孝理，得所统之欢心，则皆恭事助其祭享也。<br/><br/>　　[疏]治国者至先君。<br/><br/>　　○正义曰：此说诸侯之孝治也。言诸侯以孝道治其国者，尚不敢轻侮於鳏夫寡妇，而况於知礼义之士民乎？亦言必不轻侮也。以此故得其国内百姓欢悦，以事其先君也。<br/>　　○注理国至士乎。<br/>　　○正义曰：云“理国，谓诸侯也”者，此依魏注也。案《周礼》云：“体国经野。”《诗》曰：“生此王国。”是其天子亦言国也。《易》曰：“先王以建万国，亲诸侯。”是诸侯之国。上言明王理天下，此言理国，故知诸侯之国也。云“鳏寡，国之微者，君尚不敢轻侮”者，案《王制》云：“老而无妻者谓之鳏。老而无夫者谓之寡。此天民之穷而无告者也。”则知鳏夫寡妇，是国之微贱者也。言微贱之者，国君尚不轻侮，况知礼义之士乎？释经之“士民”，《诗》云：“彼都人士。”《左传》曰：“多杀国士。”此皆况惜有知识之人，不必居官授职之士。旧解：士知义理。又曰：士，丈夫之美称。故注言“知礼义之士乎”，谓民中知礼义者。<br/>　　○注诸侯至享也。<br/>　　○正义曰：云“诸侯能行孝理，得所统之欢心”者，此言诸侯孝治其国，得百姓之欢心也。一国百姓，皆是君之所统理，故以所统言之。孔安国曰：“亦以相统理。”是也。云“则皆恭事助其祭享也”者，祭享谓四时及禘祫也。於此祭享之时，所统之人则皆恭其职事，献其所有，以助於君。故云助其祭享也。<br/>　<br/><br/>　　治家者，不敢失於臣妾，而况於妻子乎？理家，谓卿大夫。臣妾，家之贱者。妻子，家之贵者。故得人之欢心，以事其亲。卿大夫位以材进，受禄养亲，若能孝理其家，则得小大之欢心，助其奉养。<br/><br/>　　[疏]治家者至其亲。<br/><br/>　　○正义曰：说卿大夫之孝治也。言以孝道理治其家者，不敢失於其家臣妾贱者，而况於妻子之贵者乎？言必不失也。故得其家之欢心，以承事其亲也。<br/>　　○注理家至贵者。<br/>　　○正义曰：云“理家，谓卿大夫”者，此依郑注也。案下章云：“大夫有争臣三人，虽无道，不失其家。”《礼记·王制》曰“上大夫卿”，则知治家谓卿大夫。云“臣妾，家之贱”者，案《尚书·费誓》曰：“窃马牛，诱臣妾。”孔安国云：“诱偷奴婢。”既以臣妾为奴婢，是家之贱者也。云“妻子，家之贵”者，案《礼记》哀公问於孔子，孔子对曰：“妻者亲之主也，敢不敬与？子者亲之后也，敢不敬与？是妻、子家之贵者也。<br/>　　○注卿大夫至奉养。<br/>　　○正义曰：云“卿大夫位以材进”者，案《毛诗传》曰：“建邦能命，龟田能施，命作器能铭，使能造，命升高能赋，师旅能誓，山川能说，丧纪能诔，祭祀能语：君子能此九者，可谓有德音，可以为大夫。”是位以材进也。云“受禄养亲”者，若能孝理其家，则受其所禀之禄，以养其亲。云“若能孝理其家，则得小大之欢心”者，谓小大皆得其欢心。小谓臣妾，大谓妻子也。云“助其奉养”者，案《礼记·内则》称子事父母，妇事舅姑，日以“鸡初鸣，咸盥漱，以適父母、舅姑之所。问衣燠寒，饘、酏、酒、醴、芼、羹、菽、麦、蕡、稻、黍、粱、秫，唯所欲。枣、栗、饴、蜜以甘之。父母、舅姑必尝之而后退”。此皆奉养事亲也。天子诸侯继父而立，故言先王、先君也。大夫唯贤是授，居位之时，或有俸禄以逮於亲，故言其亲也。注顺经文，所以言助其奉养，此谓事亲生之义也。若亲以终没，亦当言助其祭祀也。明王言“不敢遗小国之臣”、诸侯言“不敢侮於鳏寡”、大夫言“不敢失於臣妾”者，刘炫云：“遗谓意不存录，侮谓忽慢其人，失谓不得其意。”小国之臣位卑，或简其礼，故云不敢遗也。鳏寡人中贱弱，或被人轻侮欺陵，故曰不敢侮也。臣妾营事产业，宜须得其心力，故云不敢失也。明王“况公侯伯子男”、诸侯“况士民”、卿大夫“况妻子”者，以王者尊贵，故况列国之贵者；谓侯差卑，故况国中之卑者，以五等皆贵，故况其卑也；大夫或事父母，故况家人之贵者也。<br/>　<br/><br/>　　夫然，故生则亲安之，祭则鬼享之，夫然者，上孝理皆得欢心，则存安其荣，没享其祭。是以天下和平，灾害不生，祸乱不作。上敬下欢，存安没享，人用和睦，以致太平，则灾害祸乱，无因而起。故明王之以孝治天下也如此。言明王以孝为理，则诸侯以下化而行之，故致如此福应。<br/><br/>　　[疏]夫然至如此。<br/><br/>　　○正义曰：此总结天子、诸侯、卿大夫之孝治也。言明王孝治其下，则诸侯以下各顺其教，皆治其国家也。如此各得欢心，亲若存则安其孝养，没则享其祭祀，故得和气降生，感动昭昧。是以普天之下，和睦太平，灾害之萌不生，祸乱之端不起。此谓明王之以孝治天下也，能致如此之美。<br/>　　○注夫然者至其祭。<br/>　　○正义曰：云“夫然者，然上孝理皆得欢心”者，此谓明王、诸侯、大夫能行孝治，皆得其欢心也。云“则存安其荣”者，释“生则亲安之”。云“没享其祭”者，释“祭则鬼享之”也。<br/>　　○注上敬至而起。<br/>　　○正义曰：此释“天下和平”，以皆由明王孝治之所致也。皇侃云：“天反时为灾，谓风雨不节；地反物为妖，妖即害物，谓水旱伤禾稼也。善则逢殃为祸，臣下反逆为乱也。”<br/>　　○注言明至福应。<br/>　　○正义曰：云“言明王以孝为理，则诸侯以下化而行之”者，案上文有明王、诸侯、大夫三等，而经独言明王孝治如此者，言由明王之故也，则诸侯以下奉而行之，而功归於明王也。云“故致如此福应”者，福，谓天下和平；应，谓灾害不生，祸乱不作。<br/>　<br/><br/>　　《诗》云：‘有觉德行，四国顺之。’”觉，大也。义取天子有大德行，则四方之国顺而行之。<br/><br/>　　[疏]诗云至顺之。<br/><br/>　　○正义曰：夫子述昔时明王孝治之义毕，乃引《大雅·抑篇》赞美之也。△言天子身有至大德行，使四方之国皆顺而行之。<br/>　　○注觉大至行之。<br/>　　○正义曰：云“觉，大也”，此依郑注也。故《诗笺》云：“有大德行，则天下顺从其化。”是以觉为大也。云“义取天子有大德行，则四方之国顺而行之”者，言引《诗》之大意如此也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1425-26376.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1425-26378.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1425.html" action-type="chapterComment" class="comment"><i></i>孝经注疏章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

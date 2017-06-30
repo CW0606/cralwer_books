@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《礼记》正文_奔丧_戴圣作品 - 维普阅读网</title>
+<meta name="keywords" content="礼记,礼记原文,礼记阅读,奔丧全文,戴圣作品" />
+<meta name="description" content="礼记原文阅读,奔丧全文在线阅读,戴圣作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-228-2898.html";
+var nextpage="novel-read-228-2900.html";
+var indexpage = "novel-chapter-228.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-228.html">礼记</a></strong>
+<strong><a href="novel-chapter-228.html">礼记目录</a></strong>
+<span>奔丧</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-228-2898.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>奔丧</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=戴圣&amp;searchsubmit=yes"  target="_blank">戴圣</a><span class="divide">|</span>发布时间：2014-08-18 22:49:32<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>奔丧之礼：始闻亲丧，以哭答使者，尽哀；问故，又哭尽哀。遂行，日行百里，不以夜行。唯父母之丧，见星而行，见星而舍。若未得行，则成服而后行。过国至竟，哭尽哀而止。哭辟市朝。望其国竟哭。至于家，入门左，升自西阶，殡东，西面坐，哭尽哀，括发袒，降堂东即位，西乡哭，成踊，袭绖于序东，绞带。反位，拜宾成踊，送宾，反位；有宾后至者，则拜之，成踊、送宾皆如初。众主人兄弟皆出门，出门哭止；阖门，相者告就次。于又哭，括发袒成踊；于三哭，犹括发袒成踊。三日，成服，拜宾、送宾皆如初。<br/><br/>　　奔丧者非主人，则主人为之拜宾送宾。奔丧者自齐衰以下，入门左中庭北面哭尽哀，免麻于序东，即位袒，与主人哭成踊。于又哭、三哭皆免袒，有宾则主人拜宾、送宾。丈夫妇人之待之也，皆如朝夕哭，位无变也。<br/><br/>　　奔母之丧，西面哭尽哀，括发袒，降堂东即位，西乡哭，成踊，袭免绖于序东，拜宾、送宾，皆如奔父之礼，于又哭不括发。妇人奔丧，升自东阶，殡东，西面坐，哭尽哀；东髽，即位，与主人拾踊。奔丧者不及殡，先之墓，北面坐，哭尽哀。主人之待之也，即位于墓左，妇人墓右，成踊尽哀括发，东即主人位，绖绞带，哭成踊，拜宾，反位，成踊，相者告事毕。遂冠归，入门左，北面哭尽哀，括发袒成踊，东即位，拜宾成踊。宾出，主人拜送；有宾后至者则拜之成踊；送宾如初。众主人兄弟皆出门，出门哭止，相者告就次。于又哭，括发成踊；于三哭，犹括发成踊。三日成服，于五哭，相者告事毕。为母所以异于父者，壹括发，其余免以终事，他如奔父之礼。<br/><br/>　　齐衰以下不及殡：先之墓，西面哭尽哀，免麻于东方，即位，与主人哭成踊，袭。有宾则主人拜宾、送宾；宾有后至者，拜之如初。相者告事毕。遂冠归，入门左，北面哭尽哀，免袒成踊，东即位，拜宾成踊，宾出，主人拜送。于又哭，免袒成踊；于三哭，犹免袒成踊。三日成服，于五哭，相者告事毕。<br/><br/>　　闻丧不得奔丧，哭尽哀；问故，又哭尽哀。乃为位，括发袒成踊，袭绖绞带即位，拜宾反位成踊。宾出，主人拜送于门外，反位；若有宾后至者，拜之成踊，送宾如初。于又哭，括发袒成踊，于三哭，犹括发袒成踊，三日成服，于五哭，拜宾送宾如初。若除丧而后归，则之墓，哭成踊，东括发袒绖，拜宾成踊，送宾反位，又哭尽哀，遂除，于家不哭。主人之待之也，无变于服，与之哭，不踊。自齐衰以下，所以异者，免麻。<br/><br/>　　凡为位，非亲丧，齐衰以下，皆即位哭尽哀，而东免绖，即位，袒、成踊、袭，拜宾反位，哭成踊，送宾反位，相者告就次。三日，五哭卒，主人出送宾；众主人兄弟皆出门，哭止。相者告事毕。成服拜宾。若所为位家远，则成服而往。齐衰，望乡而哭；大功，望门而哭；小功，至门而哭；缌麻，即位而哭。哭父之党于庙；母妻之党于寝；师于庙门外；朋友于寝门外；所识于野张帷。凡为位不奠。哭天子九，诸侯七，卿大夫五，士三。大夫哭诸侯，不敢拜宾。诸臣在他国，为位而哭，不敢拜宾。与诸侯为兄弟，亦为位而哭。凡为位者壹袒。所识者吊，先哭于家而后之墓，皆为之成踊，从主人北面而踊。凡丧，父在父为主；父没，兄弟同居，各主其丧。亲同，长者主之；不同，亲者主之。闻远兄弟之丧，既除丧而后闻丧，免袒成踊，拜宾则尚左手。无服而为位者，唯嫂叔；及妇人降而无服者麻。凡奔丧，有大夫至，袒，拜之，成踊而后袭；于士，袭而后拜之。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-228-2898.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-228-2900.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-228.html" action-type="chapterComment" class="comment"><i></i>礼记章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《史记三家注》正文_三皇本纪_ 裴骃 &#9642; 司马贞 &#9642; 张守节作品 - 维普阅读网</title>
+<meta name="keywords" content="史记三家注,史记三家注原文,史记三家注阅读,三皇本纪全文, 裴骃 &#9642; 司马贞 &#9642; 张守节作品" />
+<meta name="description" content="史记三家注原文阅读,三皇本纪全文在线阅读, 裴骃 &#9642; 司马贞 &#9642; 张守节作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1031-10638.html";
+var nextpage="novel-read-1031-10640.html";
+var indexpage = "novel-chapter-1031.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1031.html">史记三家注</a></strong>
+<strong><a href="novel-chapter-1031.html">史记三家注目录</a></strong>
+<span>三皇本纪</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1031-10638.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>三皇本纪</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt= 裴骃 &#9642; 司马贞 &#9642; 张守节&amp;searchsubmit=yes"  target="_blank"> 裴骃 &#9642; 司马贞 &#9642; 张守节</a><span class="divide">|</span>发布时间：2014-11-28 23:34:13<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>小司马氏　撰　并注<br/>　　小司马氏云：太史公作史记，古今君臣宜应上自开闢，下讫当代，以为一家之首尾。今阙三皇，而以五帝为首者，正以《大戴礼》有五帝德篇，又帝系皆叙自黄帝已下，故因以五帝本纪为首。其实三皇已还，载籍罕备。然君臣之始，教化之先，既论古史，不合全阙。近代皇甫谧作帝王代纪，徐整作三五历，皆论三皇以来事。斯亦近古之一证，今并采而集之作三皇本纪。虽复浅近，聊补阙云。<br/>　　太皞庖犧氏，风姓。代燧人氏，继天而王。母曰华胥。履大人迹于雷泽，而生庖犧于成纪。蛇身人首。按伏犧风姓，出《国语》。其华胥已下，出《帝王世纪》。然雷泽，泽名，即舜所渔之地，在济阴。成纪、亦地名，按天水有成纪县。有圣德。仰则观象于天，俯则观法于地，旁观鸟兽之文，与地之宜，近取诸身，远取诸物。始画八卦，以通神明之德，以类万物之情。造书契以代结绳之政。于是始制嫁娶，以俪皮为礼。按谯周《古史考》，伏犧制嫁娶，以俪皮为礼也。结网罟以教佃渔。故曰宓犧氏。按事出《汉书·历志》。宓，音伏。养犧牲以庖厨。故曰庖犧。【考证】《索隐》单本，以下无庖厨故曰四字。有龙瑞。以龙纪官。号曰龙师。作三十五弦之瑟。木德王。注春令。故《易》称帝出乎震，月令孟春其帝太皞。是也。按位在东方，象日之明，故称太皞。皞，明也。都于陈。东封太山。立一百一十一年崩。按皇甫谧，伏犧葬南郡，或曰，冢在山阳高平之西也。其后裔，当春秋时，有任、宿、须、句、颛臾，皆风姓之胤也。<br/>　　女娲氏亦风姓。蛇身人首。有神圣之德。代宓犧立。号曰女希氏。无革造。惟作笙簧。按礼明堂位及系本，皆云，女娲作笙簧。故《易》不载。不承五运。一曰。亦木德王。盖宓犧之后，已经数世。金木轮环，周而复始。特举女娲，以其功高而充三皇。故频木王也。当其末年也，诸侯有共工氏。任智刑，以强霸而不王。以水承木。【考证】各本，承作乘。今从单本。乃与祝融战，不胜而怒。乃头触不周山。崩。天柱折，地维缺。女娲乃炼五色石以补天，断鼇足以立四极，聚蘆灰以止滔水，以济冀州。按其事出《淮南子》也。天是地平天成，不改旧物。<br/>　　女娲氏没，神农氏作。按三皇说者不同，谯周以燧人为皇，宋均以祝融为皇，而郑玄依春秋纬，以女娲为皇，承伏犧，皇甫谧亦同，今依之为说也。炎帝神农氏，姜姓。母曰女登。有娲氏之女。为少典妃。感神龙而生炎帝。人身牛首。长于姜水。因以为姓。按《国语》，炎帝，黄帝皆少典之子，其母又皆有娲氏之女。据诸子及《古史考》，炎帝之后，凢八代，五百作年，轩辕氏代之。岂炎帝、黄帝，是昆弟而同母氏乎？皇甫谧以为少典有娲氏诸侯国号，然则姜姬二帝，同出少典氏，黄帝之母，又是神农母氏之后代女，所以同是有娲氏之女也。火德王。故曰炎帝。以火名官。斲木为耜，揉木为耒，耒耨之用，以教万人。始教耕。故号神农氏。于是作蜡祭，以赭鞭鞭草木。始尝百草，始有医药。又作五弦之瑟。教人日中为市，交易而退，各得其所。遂重八卦为六十四爻。初都陈，后居曲阜。按今淮阳有神农井。又《左传》，鲁有大庭氏之库，是也。立一百二十年崩。葬长沙。神农本起烈山。故左氏称，烈山氏之子曰柱。亦曰厲山氏。礼曰。厲山氏之有天下。是也。按郑玄云，厲山，神农所起，亦曰有烈山。皇甫谧曰，厲山今随之厲乡也。<br/>　　神农纳奔水氏之水曰听妃詙。为妃。生帝魁，魁生帝承，承生帝明，明生帝直，直生帝氂，氂生帝哀，哀生帝克，克生帝榆罔。凡八代，五百三十年。而轩辕氏兴焉。按神农之后凡八代，事见《帝王代纪》及《古史考》。然古典亡矣，况谯皇二氏，皆前闻君子，考按古书而为此说。岂至今鑿空乎？此纪示据以为说。其《易》称，神农氏没，即榆罔，榆罔犹袭神农之号也。【考证】生帝魁以下二十字，各本脱，今依单本。其后有州、甫、甘、许、戏、露、齐、纪、怡、向、申、吕。皆姜姓之后。并为诸侯。或分掌四岳。当周室，甫侯、申伯，为王贤相。齐、许列为诸侯。霸于中国。盖圣人德泽广大，故其祚胤繁昌久长云。<br/>　　一说，三皇谓天皇、地皇、人皇为三皇。既是开闢之初。君臣之始。图纬所载，不可全弃。故兼序之。<br/>　　天地初立，有天皇氏，十二头。澹泊无所施为，而俗自化。木德王。岁起攝提。兄弟十二人。立各一万八千岁。盖天地初立，神人首出行化，故其年世长久也。然言十二头者，非谓一人之身有十二头，盖古质，比之鸟兽头数故也。地皇十一头。火德王。姓十一人。兴于熊耳、龙门等山。亦各万八千岁。人皇九头。乘云车、驾六羽，出谷口。兄弟九人，分掌九州。各立城邑，凡一百五十世。合四万五千六百年。天皇已下，皆出《河图》及《三五历》也。<br/>　　自人皇已后有五龙氏，五龙氏，兄弟五人，并乘龙上下，故曰五龙氏也。燧人氏，按其君鑽燧出火，教人熟食，在伏犧氏前，谯周以为三皇之首也。大庭氏，栢皇氏，中央氏，卷须氏，栗陆氏，骊连氏，赫胥氏，尊盧氏，浑沌氏，昊英氏，有巢氏，朱襄氏，葛天氏，阴康氏，无怀氏，斯盖三皇已来有天下者之号，按皇甫谧以为大庭以下一十五君，皆袭庖犧之号。事不经见，难可依从。然按古封太山者，首有无怀氏，乃在太昊之前，岂得如谧所说？但载籍不纪，莫知姓、王年代、所都之处。而韩诗以为自古封太山禅梁甫者，万有余家。仲尼观之，不能尽识。管子亦曰。古封太山七十二家。夷吾所识十有二焉。首有无怀氏。【考证】单本，无无字。然则无怀之前，天皇已后，年纪悠邈，皇王何升而告。但古书亡矣。不可备论。岂得谓无帝王耶。故春秋纬称自开闢至于获麟，凡三百二十七万六千岁，分为十纪。凡世七万六百年。一曰九头纪。二曰五龙纪。三曰懾提纪。四曰合雒纪。五曰连通纪。六曰序命纪。七曰脩飞纪。八曰回提纪。九曰禅通纪。十曰流讫纪。盖流讫当黄帝时，制九纪之间。是以录于此补纪之也。<br/>　　【考证】赵翼曰：《大戴礼》五帝德，及《史迁》五帝本纪，皆专言五帝，而不言三皇。然三皇之号，见于周礼外史掌三皇五帝之书，不得言三代以前无此称也。第未有专指其名者，其见于秦博士所议，但云天皇、地皇、人皇而已。孔安国书序，乃以伏羲、神农、黄帝为三皇，少昊、颛顼、高辛、尧、舜为五帝。司马迁以黄帝入五帝之内，而无少昊。郑康成依运斗枢注《尚书》中候，乃以伏犧、女娲、神农为三皇。帝鸿、金天、高阳、高辛、唐虞为五帝。司马贞因之作三皇本纪，亦以伏犧、女娲、神农为三皇。孔颍达注《尚书》，最尊安国，故其驳郑注，谓女娲但修伏犧之道，无所改作，不得列三皇。既不数女娲，则不可不取黄帝为三皇。又曰：安国之意，以月令春曰太昊，夏曰炎帝，中央曰黄帝，依次为三皇；秋曰少昊，冬曰颛顼，自此以下，合之高辛、尧、舜，乃为五帝耳。然颍达又云：诸儒说三皇，或数燧人，或数祝融，以配犧农，其五帝皆自轩辕，不数少昊。帝繫本纪家语，又以少昊即黄帝子青阳。是颍达虽尊安国，亦未敢竟以黄帝入三皇之内，少昊列五帝之中，而显与《史记》相戾也。宋五峰胡氏，直断以孔子繫词所述，伏犧、神农、黄帝、尧、舜为五帝。元人胡一桂又从而引伸之，谓《孔子家语》自伏犧以下皆称帝，《易》大传春秋内外传，有黄帝炎帝之称，月令有帝太昊、帝炎帝、帝黄帝之文，可见太昊伏犧氏、炎帝神农氏、黄帝轩辕氏，本皆称帝，秦以前未尝列之于三皇也，其三皇之号，终不可泯，则仍以秦博士所谓天皇、地皇、人皇当之，而不必附会其人，此论较为直捷。然近日王西庄又谓繫辞以羲、农为上古圣人，皇帝、尧、舜为后世圣人，则羲、农宜为皇，黄帝宜为帝。惟三皇中少一人，则司马贞据康成说，以女娲充数，亦未为无据。西庄最尊郑学，故持论如此，要之去古愈远，载籍无考，传闻异词，讫无定论。愚按三皇之名既无定说，何问其事有无？司马贞为补本纪，非也，今录之《索隐序》后，以与史文区别。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1031-10638.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1031-10640.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1031.html" action-type="chapterComment" class="comment"><i></i>史记三家注章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

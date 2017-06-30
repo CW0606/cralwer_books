@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《九章》正文_九章·橘颂_屈原作品 - 维普阅读网</title>
+<meta name="keywords" content="九章,九章原文,九章阅读,九章·橘颂全文,屈原作品" />
+<meta name="description" content="九章原文阅读,九章·橘颂全文在线阅读,屈原作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-87-1957.html";
+var nextpage="novel-read-87-1959.html";
+var indexpage = "novel-chapter-87.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-87.html">九章</a></strong>
+<strong><a href="novel-chapter-87.html">九章目录</a></strong>
+<span>九章·橘颂</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-87-1957.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>九章·橘颂</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=屈原&amp;searchsubmit=yes"  target="_blank">屈原</a><span class="divide">|</span>发布时间：2014-08-02 20:36:44<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文<br/>后皇嘉树，橘徕服兮。<br/>受命不迁，生南国兮。<br/>深固难徙，更一志兮。<br/>绿叶素荣，纷其可喜兮。<br/>曾枝剡棘，圆果抟兮。<br/>青黄杂糅，文章烂兮。<br/>精色内白，类可任兮。<br/>纷缊宜修，姱而不丑兮。<br/>嗟尔幼志，有以异兮。<br/>独立不迁，岂不可喜兮。<br/>深固难徙，廓其无求兮。<br/>苏世独立，横而不流兮。<br/>闭心自慎，终不失过兮。<br/>秉德无私，参天地兮。<br/>愿岁并谢，与长友兮。<br/>淑离不淫，梗其有理兮。<br/>年岁虽少，可师长兮。<br/>行比伯夷，置以为像兮。<br/><br/>赏析<br/>南国多橘，楚地更可以称之为橘树的故乡了。《汉书》盛称“江陵千树橘”，可见早在汉代以前，楚地江陵即已以产橘而闻名遐迩。不过橘树的习性也奇：只有生长于南土，才能结出甘美的果实，倘要将它迁徙北地，就只能得到又苦又涩的枳实了。《晏子春秋》所记“橘生淮南则为橘，生于淮北则为枳”，说的就是这种情况。这不是一大缺憾吗?但在深深热爱故国乡土的屈原看来，这种“受命不迁，生南国兮”的秉性，正可与自己矢志不渝的爱国情志相通。所以在他遭谗被疏、赋闲郢都期间，即以南国的橘树作为砥砺志节的榜样，深情地写下了这首咏物名作——《橘颂》。<br/><br/>　　《橘颂》可分两节，第一节重在描述橘树俊逸动人的外美。开笔“后皇嘉树，橘徕服兮”等三句就不同凡响：一树坚挺的绿橘，突然升立在广袤的天地之间，它深深扎根于“南国”之土，任凭什么力量也无法使之迁徙。那凌空而立的意气，“受命不迁”的坚毅神采，顿令读者升起无限敬意！橘树是可敬的，同时又俊美可亲。诗人接着以精工的笔致，勾勒它充满生机的纷披“绿叶”，晕染它雪花般蓬勃开放的“素荣”；它的层层枝叶间虽也长有“剡棘”，但那只是为了防范外来的侵害；它所贡献给世人的，却有“精色内白”，光采照人的无数“圆果”！屈原笔下的南国之橘，正是如此“纷緼宜修”、如此堪托大任！本节虽以描绘为主，但从字里行间，人们却可强烈地感受到，诗人对祖国“嘉树”的一派自豪、赞美之情。<br/><br/>　　橘树之美好，不仅在于外在形态，更在于它的内在精神。本诗第二节，即从对橘树的外美描绘，转入对它内在精神的热情讴歌。屈原在《离骚》中，曾以“羌无实而容长”(外表好看，却无美好的内质)，表达过对“兰”、“椒”(喻指执掌朝政的谗佞之臣)等辈“委其美而从俗”的鄙弃。橘树却不是如此。它年岁虽少，即已抱定了“独立不迁”的坚定志向；它长成以后，更是“横而不流”、“淑离不淫”，表现出梗然坚挺的高风亮节；纵然面临百花“并谢”的岁暮，它也依然郁郁葱葱，决不肯向凛寒屈服。诗中的“愿岁并谢，与长友兮”一句，乃是沟通“物我”的神来之笔：它在颂橘中突然揽入诗人自己，并愿与橘树长相为友，面对严峻的岁月，这便顿使傲霜斗雪的橘树形象，与遭谗被废、不改操守的屈原自己叠印在了一起。而后思接千载，以“行比伯夷，置以为像兮”收结，全诗境界就一下得到了升华——在两位古今志士的遥相辉映中，前文所赞美的橘树精神，便全都流转、汇聚，成了身处逆境、不改操守的伟大志士精神之象征，而高高映印在历史天幕上了！<br/><br/>　　从现在所能见到的诗作看。《橘颂》堪称中国诗歌史上的第一首咏物诗。屈原巧妙地抓住橘树的生态和习性，运用类比联想，将它与人的精神、品格联系起来，给予热烈的赞美。借物抒志，以物写人，既沟通物我，又融汇古今，由此造出了清人林云铭所赞扬的“看来两段中句句是颂橘，句句不是颂橘，但见(屈)原与橘分不得是一是二，彼此互映，有镜花水月之妙”(《楚辞灯》)的奇特境界。从此以后，南国之橘便蕴含了志士仁人“独立不迁”、热爱祖国的丰富文化内涵，而永远为人们所歌咏和效法了。这一独特的贡献，无疑仅属于屈原，所以宋刘辰翁又称屈原为千古“咏物之祖”。　(潘啸龙)</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-87-1957.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-87-1959.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-87.html" action-type="chapterComment" class="comment"><i></i>九章章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

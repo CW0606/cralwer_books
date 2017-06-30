@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《集外集拾遗补编》正文_致《近代美术史潮论》的读者诸君_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="集外集拾遗补编,集外集拾遗补编原文,集外集拾遗补编阅读,致《近代美术史潮论》的读者诸君全文,鲁迅作品" />
+<meta name="description" content="集外集拾遗补编原文阅读,致《近代美术史潮论》的读者诸君全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-542-7256.html";
+var nextpage="novel-read-542-7258.html";
+var indexpage = "novel-chapter-542.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-542.html">集外集拾遗补编</a></strong>
+<strong><a href="novel-chapter-542.html">集外集拾遗补编目录</a></strong>
+<span>致《近代美术史潮论》的读者诸君</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-542-7256.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>致《近代美术史潮论》的读者诸君</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-01 21:19:47<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>《近代美术史潮论》的读者诸君：在现在的中国，文学和艺术，也还是一种所谓文艺家的食宿的窠。这也是出于不得已的。我一向并不想如顽皮的孩子一般，拿了一枝细竹竿，在老树上的崇高的窠边搅扰。 <br/><br/>　　关于绘画，我本来是外行，理论和派别之类，知道是知道一点的，但这并不足以除去外行的徽号，因为所知道的并不多。我所以翻译这书的原因，是起于前一年多，看见李小峰君在搜罗《北新月刊》的插画（２），于是想，在新艺术毫无根柢的国度里，零星的介绍，是毫无益处的，最好是有一些统系。其时适值这《近代美术史潮论》出版了，插画很多，又大抵是选出的代表之作。我便主张用这做插画，自译史论，算作图画的说明，使读者可以得一点头绪。此外，意识底地，是并无什么对于别方面的恶意的。 <br/><br/>　　这意见总算实行了。登载之后，就得到蒙着“革命文学家”面具的装作善意的警告，是一张信片（３），说我还是去创作好，不该滥译日本书。从前创造社所区分的“创作是处女，翻译是媒婆”之说（４），我是见过的，但意见不能相同，总以为处女并不妨去做媒婆——后来他们居然也兼做了——，倘不过是一个媒婆，更无须硬称处女。我终于并不藐视翻译。至于这一本书，自然决非不朽之作，但也自立统系，言之成理的，现在还不能抹杀他的存在。我所选译的书，这样的就够了，虽然并非不知道有伟大的歌德（５），尼采，马克斯，但自省才力，还不能移译他们的书，所以也没有附他们之书以传名于世的大志。 <br/><br/>　　抱着这样的小计画，译着这样的小册子，到目下总算登完了。但复看一回，又觉得很失望。人事是互相关连的，正如译文之不行一样，在中国，校对，制图，都不能令人满意。例如图画罢，将中国版和日本版，日本版和英德诸国版一比较，便立刻知道一国不如一国。三色版，中国总算能做了，也只两三家。这些独步的印刷局所制的色彩图，只看一张，是的确好看的，但倘将同一的图画看过几十张，便可以发见同一的色彩，浓淡却每张有些不同。从印画上，本来已经难于知道原画，只能仿佛的了，但在这样的印画上，又岂能得到“仿佛”。书籍既少，印刷又拙，在这样的环境里，要领略艺术的美妙，我觉得是万难做到的。力能历览欧陆画廊的幸福者，不必说了，倘只能在中国而偏要留心国外艺术的人，我以为必须看看外国印刷的图画，那么，所领会者，必较拘泥于“国货”的时候为更多。——这些话，虽然还是我被人骂了几年的“少看中国书”的老调（６），但我敢说，自己对于这主张，是有十分确信的。 <br/><br/>　　只要一比较，许多事便明白；看书和画，亦复同然。 <br/><br/>　　倘读者一时得不到好书，还要保存这小本子，那么，只要将译文拆出，照“插画目次”所指定的页数，插入图画去（希涅克（７）的《帆船》，本文并未提及，但“彩点画家”是说起的，这即其一例），订起来，也就成为一本书籍了。其次序如下： <br/><br/>　　（１）全书首页（２）序言（３）本文目次（４）插画目次（５）本文首页（６）本文还有一些误字，是要请读者自行改正的。现在举其重要者于下： <br/><br/>　　甲文字 <br/><br/>　　页行误正 <br/><br/>　　ⅩⅩ五樵探樵采 <br/><br/>　　１１十二造创创造 <br/><br/>　　１４一并永居而永居 <br/><br/>　　２３八ＡｕｔｏｎｉｏＡｎｔｏｎｉｏ２８二模样这样 <br/><br/>　　３２七在鲁在卢 <br/><br/>　　６１一前体前面 <br/><br/>　　６３三河内珂内 <br/><br/>　　６６八ＮａｇａｒｅｎｅｒＮａｚａｒｅｎｅｒ７４四他热化白热化 <br/><br/>　　８２八回此因此 <br/><br/>　　８６七质地开始科白开场９２五秦祀奉祀 <br/><br/>　　９５五间开勤洵开勒 <br/><br/>　　９５九一统一流 <br/><br/>　　１０９十二证明澄明 <br/><br/>　　１１４三煎煎熊熊 <br/><br/>　　１１５十二ｏＳｌｒｉｅＳéｌｒｉｅ１１６三说解误解 <br/><br/>　　１２５二恐*.恐怖 <br/><br/>　　１３０四冷潮冷嘲 <br/><br/>　　１３５二言要要将 <br/><br/>　　１３８四丰姿丰姿 <br/><br/>　　１３９六觉者观者 <br/><br/>　　１４５四去怎又怎 <br/><br/>　　１４６十正座玉座 <br/><br/>　　１４６十二多人物许多人物１４７一台库台座 <br/><br/>　　１５１一比外此外 <br/><br/>　　１５２一证明澄明 <br/><br/>　　１５８十一希鯩希勒 <br/><br/>　　１５９八ａｕｆａｕｆ－１６１九稳约隐约 <br/><br/>　　１７１十图桂圆柱 <br/><br/>　　１７７六ＶｉｎｅｅｎｔＶｉｎｃｅｎｔ１９７一ＲｏｍａｎｎｔｉｇｕｅＲｏｍａｎｔｉｑｕｅ１９７四Ｓｅ，ｓｅ <br/><br/>　　１９７四ｐａｒｔáｐａｒｔ１９７六ＩｌｎｏｕｓＩｌｎｏｕｓ１９７六ａｗａｕ <br/><br/>　　１９７九ｑｕｏｎｑｕ’ｏｎ１９８五Ｃｏｐｉｅ，Ｃｏｐｉé１９８六ｉｌｎ’éｌａｉｔｉｌｎ’ｅｔａｉｔ１９８十ｊáｉＪ’ａｉ１９８十二ｄéｎｄ’ｅｎ２００八ＳｏｕｔＳｏｎｔ２００九ｅｘｅｃｔｅｘａｃｔ２００九ｒéｃｕｌｔｅｒéｓｕｌｔｅ２００九ｓｏｕｔｓｏｎｔ２００十一ｄｏｖａｒａｔｄｅｖｒａｉｔ２０１一ｌｅｌａ <br/><br/>　　２０１四ＶｏｉｌａＶｏｉｌà乙插画题字 <br/><br/>　　误正 <br/><br/>　　萨昆尼的女人萨毗尼的女人托罗蔼庸庸托罗蔼雍 <br/><br/>　　康斯召不勒康斯台不勒穆纳：卢安大寺卢安大寺卢安大寺穆纳：卢安大寺凯尔凯尔波 <br/><br/>　　罗兰珊：女莱什：朝餐莱什：朝餐罗兰珊：女抄完校勘表，头昏眼花，不想再写什么废话了，就此“带住”，顺请 <br/><br/>　　文安罢。 <br/><br/>　　鲁迅。二月二十五日。 <br/><br/>　　==============================================================================<br/><br/><br/>　　（１）本篇最初发表于一九二九年三月一日上海《北新》半月刊第三卷第五号“通讯”栏，原无标题。 <br/><br/>　　《近代美术史潮论》，日本板垣鹰穗著，鲁迅译。该书介绍了欧洲近代美术发展的历史，内有插图一百四十幅。《北新》半月刊第二卷第五号（一九二八年一月）开始连载，译文于第二卷第二十二号（一九二八年十月）载完，插图于第三卷第六号（一九二九年三月）载完。后于一九二九年由北新书局出版单行本。 <br/><br/>　　（２）李小峰（１８９７—１９７１）江苏江阴人。北京大学哲学系毕业，新潮社和语丝社的成员。当时是上海北新书局的主持人。《北新月刊》，指《北新》半月刊，综合性刊物，上海北新书局编辑发行。一九二六年八月创刊。初为周刊，一九二七年十一月第二卷第一期起改为半月刊。一九三○年十二月出至第四卷第二十四期停刊。（３）这张信片的发信人自署“陈绍宋”，一九二八年一月三十一日寄自“麦拿里４１号创造社出版部”。其中说：“我以为你这一年来的工作太不切实了。比方你滥译日本人的著作或标点传奇，这些都是不忠实的工作。我劝你还是多创作，把昔日的勇气拿出来。……我今天听见成仿吾说，下期还要大骂你呢！所以我写此片通知你一声，以表我敬慕之微意焉耳。” <br/><br/>　　（４）“创作是处女，翻译是媒婆”郭沫若在《民铎》月刊第二卷第五号（一九二一年二月）发表的致李石岑函中说：“我觉得国内人士只注重媒婆，而不注重处子；只注重翻译，而不注重产生。”（５）歌德（Ｊ．Ｗ．ｖｏｕＧｏｅｔｈｅ，１７４９—１８３２）德国诗人、学者，著有诗剧《浮士德》、小说《少年维特之烦恼》等。（６）“少看中国书”参看《华盖集·青年必读书》。（７）希涅克（Ｐ．Ｓｉｇｎａｃ，１８６３—１９３５）法国点彩派主要画家之一。点彩派是十九世纪八十年代在法国兴起的新印象画派，其特点是用各种色点来组成画面形象。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-542-7256.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-542-7258.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-542.html" action-type="chapterComment" class="comment"><i></i>集外集拾遗补编章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

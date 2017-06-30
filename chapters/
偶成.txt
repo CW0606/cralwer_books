@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《准风月谈》正文_偶成_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="准风月谈,准风月谈原文,准风月谈阅读,偶成全文,鲁迅作品" />
+<meta name="description" content="准风月谈原文阅读,偶成全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-551-7624.html";
+var nextpage="novel-read-551-7626.html";
+var indexpage = "novel-chapter-551.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-551.html">准风月谈</a></strong>
+<strong><a href="novel-chapter-551.html">准风月谈目录</a></strong>
+<span>偶成</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-551-7624.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>偶成</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-06 21:04:24<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>苇索 <br/>　　善于治国平天下的人物，真能随处看出治国平天下的方法来，四川正有人以为长衣消耗布匹，派队剪除（２）；上海又有名公要来整顿茶馆（３）了，据说整顿之处，大略有三：一是注意卫生，二是制定时间，三是施行教育。 <br/>　　第一条当然是很好的；第二条，虽然上馆下馆，一一摇铃，好像学校里的上课，未免有些麻烦，但为了要喝茶，没有法，也不算坏。 <br/>　　最不容易是第三条。“愚民”的到茶馆来，是打听新闻，闲谈心曲之外，也来听听《包公案》（４）一类东西的，时代已远，真伪难明，那边妄言，这边妄听，所以他坐得下去。现在倘若改为“某公案”，就恐怕不相信，不要听；专讲敌人的秘史，黑幕罢，这边之所谓敌人，未必就是他们的敌人，所以也难免听得不大起劲。结果是茶馆主人遭殃，生意清淡了。 <br/>　　前清光绪初年，我乡有一班戏班，叫作“群玉班”，然而名实不符，戏做得非常坏，竟弄得没有人要看了。乡民的本领并不亚于大文豪，曾给他编过一支歌：　　“台上群玉班， <br/>　　台下都走散。 <br/>　　连忙关庙门， <br/>　　两边墙壁都爬塌（平声），连忙扯得牢， <br/>　　只剩下一担馄饨担。” <br/>　　看客的取舍，是没法强制的，他若不要看，连拖也无益。即如有几种刊物，有钱有势，本可以风行天下的了，然而不但看客有限，连投稿也寥寥，总要隔两月才出一本。讽刺已是前世纪的老人的梦呓（５），非讽刺的好文艺，好像也将是后世纪的青年的出产了。 <br/>　　六月十五日。<br/>===============================================================<br/><br/>　　　　　　　 <br/>　　（１）　本篇最初发表于一九三三年六月二十二日《申报·自由谈》。 <br/>　　（２）　派队剪除长衣的事，指当时四川军阀杨森的所谓“短衣运动”。《论语》半月刊第十八期（一九三三年六月一日）“古香斋”栏曾转载“杨森治下营山县长罗象翥禁穿长衫令”，其中说：“查自本军接防以来，业经军长通令戍区民众，齐着短服在案。……着自四月十六日起，由公安局派队，随带剪刀，于城厢内外梭巡，遇有玩视禁令，仍着长服者，立即执行剪衣，勿稍瞻徇。”参看本书《“滑稽”例解》。（３）　整顿茶馆　一九三三年六月十一日上海《大晚报》“星期谈屑”刊载署名“蓼”的《改良坐茶馆》一文，其中说对群众聚集的茶馆“不能淡然置之”，提示反动当局把茶馆变为对群众“输以教育”的场所，并提出“改良茶馆的设备”、“规定坐茶馆的时间”、“加以民众教育的设备”等办法。 <br/>　　（４）　《包公案》　又名《龙图公案》，明代公案小说，写宋代清官包拯断案的故事。 <br/>　　（５）　讽刺已是前世纪的老人的梦呓　一九三三年六月十一日《大晚报·火炬》登载法鲁的《到底要不要自由》一文，攻击鲁迅等写的杂文说：“讥刺嘲讽更已属另一年代的老人所发的呓语。” </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-551-7624.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-551-7626.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-551.html" action-type="chapterComment" class="comment"><i></i>准风月谈章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

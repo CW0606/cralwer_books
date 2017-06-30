@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《史通》正文_内篇 列传第六_刘知几作品 - 维普阅读网</title>
+<meta name="keywords" content="史通,史通原文,史通阅读,内篇 列传第六全文,刘知几作品" />
+<meta name="description" content="史通原文阅读,内篇 列传第六全文在线阅读,刘知几作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1030-10592.html";
+var nextpage="novel-read-1030-10594.html";
+var indexpage = "novel-chapter-1030.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1030.html">史通</a></strong>
+<strong><a href="novel-chapter-1030.html">史通目录</a></strong>
+<span>内篇 列传第六</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1030-10592.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>内篇 列传第六</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘知几&amp;searchsubmit=yes"  target="_blank">刘知几</a><span class="divide">|</span>发布时间：2014-11-28 23:04:27<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　夫纪传之兴，肇于《史》、《汉》。盖纪者，编年也；传者，列事也。编年者，历帝王之岁月，犹《春秋》之经；列事者，录人臣之行状，犹《春秋》之传。《春秋》则传以解经，《史》、《汉》则传以释纪。寻兹例草创，始自子长，而朴略犹存，区分未尽。如项王立传，而以本纪名，非惟羽僣之盗，不可同于天子；且推其序事，皆作传言，求谓之纪，不可得也。或曰："迁纪五帝、夏、殷，亦皆列事而已。子曾不之怪，何独尤于《项纪》哉？"对曰：不然。夫五帝之与夏、殷也，正朔相承，子孙递及，虽无年可著，纪亦何伤！如项羽者，事起秦余，身终汉始，殊夏氏之后羿，似黄帝之蚩尤。譬诸闰位，容可列纪；方之骈拇，难以成编。且夏、殷之纪，不引他事。夷、齐谏周，实当纣日，而析为列传，不入殷篇。《项纪》则上下同载，君臣交杂，纪名传体，所以成嗤。<br/><br/>　　夫纪传之不同，犹诗赋之有别，而后来继作，亦多所未详。案范晔《汉书》记后妃六宫，其实传也，而谓之为纪；陈寿《国志》载孙、刘二帝，其实纪也，而呼之曰传。考数家之所作，其未达纪传之情乎？苟上智犹且若斯，则中庸故可知矣。<br/><br/>　　又传之为体，大抵相同，而著作多方，有时而异。如二人行事，首尾相随，则有一传兼书，包括令尽。若陈馀、张耳合体成篇，陈胜、吴广相参并录是也。亦有事迹虽寡，名行可崇，寄在他篇，为其标冠。若商山四皓，事列王阳之首；庐江毛义，名在刘平之上是也。<br/><br/>　　自兹已后，史氏相承，述作虽多，斯道都废。其同于古者，唯有附出而已。寻附出之为义，攀列传以垂名，若纪季之入齐，颛臾之事鲁，皆附庸自托，得厕于朋流。然世之求名者，咸以附出为小。盖以其因人成事，不足称多故也。窃以书名竹素，岂限详略，但问其事竟如何耳。借如召平、纪信、沮授、陈容，或运一异谋，树一奇节，并能传之不朽，人到于今称之。岂假编名作传，然后播其遗烈也！嗟乎！自班、马以来，获书于国史者多矣。其间则有生无令闻，死无异迹，用使游谈者靡徵其事，讲习者罕记其名，而虚班史传，妄占篇目。若斯人者，可胜纪哉！古人以没而不朽为难，盖为此也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1030-10592.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1030-10594.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1030.html" action-type="chapterComment" class="comment"><i></i>史通章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

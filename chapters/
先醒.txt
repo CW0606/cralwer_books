@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《贾谊新书》正文_先醒_贾谊作品 - 维普阅读网</title>
+<meta name="keywords" content="贾谊新书,贾谊新书原文,贾谊新书阅读,先醒全文,贾谊作品" />
+<meta name="description" content="贾谊新书原文阅读,先醒全文在线阅读,贾谊作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-235-3459.html";
+var nextpage="novel-read-235-3461.html";
+var indexpage = "novel-chapter-235.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-235.html">贾谊新书</a></strong>
+<strong><a href="novel-chapter-235.html">贾谊新书目录</a></strong>
+<span>先醒</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-235-3459.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>先醒</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=贾谊&amp;searchsubmit=yes"  target="_blank">贾谊</a><span class="divide">|</span>发布时间：2014-08-21 21:05:39<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>怀王问于贾君曰：“人之谓知道者先生，何也？”贾君对曰：“此博号也。大者在人主，中者在卿大夫，下者在布衣之士。乃其正名，非为先生也，为先醒也。”彼世主不学道理，则嘿然惛于得失，不知治乱存亡之所由，忳忳然犹醉也。而贤主者，学问不倦，好道不厌，锐然独先达乎道理矣。故未治也，知所以治；未乱也，知所以乱；未安也，知所以安；未危也，知所以危。故昭然先寤乎所以存亡矣，故曰先醒。辟犹俱醉，而独先醒也。故世主有先醒者，有后醒者，有不醒者。<br/><br/>　　昔楚庄王即位，自静三年，以讲得失。乃退僻邪而进忠正，能者任事，而后在高位。内领国政治 ，而外施教百姓，富民恒一，路不拾遗，国无狱讼。当是时也，周室坏微，天子失制。宋郑无道，欺昧诸侯，庄王围宋伐郑。郑伯肉袒牵羊，奉簪而献国。庄王曰：“古之伐者，乱则整之，服则舍之，非利之也。”遂弗受。乃南与晋人战于两棠，大克晋人，会诸侯于汉阳，申天子之辟禁，而诸侯说服。庄王归，过申侯之邑。申侯进饭，日中而王不食，申侯请罪曰：“臣斋而具食甚洁，日中而不饭，臣敢请罪。”庄王喟然叹曰：“非子之罪也。吾闻之曰：‘其君贤君也，而又有师者，王；其君中君也，而有师者，伯；其君下君也，而群臣又莫若者，亡。’今我下君也，而群臣又莫若不谷，不谷恐亡无日也。吾闻之：‘世不绝贤。’天下有贤，而我独不得。若吾生者，何以食为？”故庄王战服大国，义从诸侯，戚然忧恐，圣智在身，而自错不肖，思得贤佐，日中忘饭，可谓明君矣。谓先寤所以存亡，此先醒也。<br/><br/>　　昔宋昭公出亡，至于境，喟然叹曰：“呜呼！吾知所以亡矣。吾被服而立，侍御者数百人，无不曰吾君丽者。吾发政举事，朝臣千人，无不曰吾君圣者。吾外内不闻吾过，吾是以至此。吾困宜矣。”于是革心易行，衣苴布，食疄(田改丰)馂，昼学道而夕讲之，二年美闻于宋，宋人车徒迎而复位，卒为贤君，谥为昭公。既亡矣，而乃寤所以存，此后醒者也。<br/><br/>　　昔者虢君骄恣自伐，谄谀亲贵，谏臣诘逐，政治踳乱，国人不服。晋师伐之，虢人不守。虢君出走，至于泽中，曰：“吾渴而欲饮。”其御乃进清酒。曰：“吾饥而欲食。”御进腶脯粱糗。虢君喜曰：“何给也？”御曰：“储之久矣。”曰：“何故储之？”对曰：“为君出亡而道饥渴也。”君曰：“知寡人亡邪？”对曰：“知之。”曰：“知之，何以不谏？”对曰：“君好谄谀，而恶至言，臣愿谏，恐先虢亡。”虢君作色而怒，御谢曰：“臣之言过也。”为闲，君曰：“吾之亡者诚何也？”其御曰：“君弗知耶？君之所以亡者，以大贤也。”虢君曰：“贤人之所以存也，乃亡，何也？”对曰：“天下之君皆不肖，夫疾吾君之独贤也，故亡。”虢君喜，据式而笑曰：“嗟！贤固若是苦耶？”遂徒行而于山中居，饥倦，枕御膝而卧，御以块自易，逃行而去，君遂饿死，为禽兽食。此已亡矣，犹不寤所以亡，此不醒者也。<br/><br/>　　故先醒者，当时而伯；后醒者，三年而复；不醒者，枕土而死，为虎狼食。呜呼 ，戒之哉！</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-235-3459.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-235-3461.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-235.html" action-type="chapterComment" class="comment"><i></i>贾谊新书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

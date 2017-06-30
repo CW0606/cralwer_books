@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《周礼》正文_天官冢宰·宰夫_周公旦作品 - 维普阅读网</title>
+<meta name="keywords" content="周礼,周礼原文,周礼阅读,天官冢宰·宰夫全文,周公旦作品" />
+<meta name="description" content="周礼原文阅读,天官冢宰·宰夫全文在线阅读,周公旦作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-34-811.html";
+var nextpage="novel-read-34-813.html";
+var indexpage = "novel-chapter-34.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-34.html">周礼</a></strong>
+<strong><a href="novel-chapter-34.html">周礼目录</a></strong>
+<span>天官冢宰·宰夫</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-34-811.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>天官冢宰·宰夫</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=周公旦&amp;searchsubmit=yes"  target="_blank">周公旦</a><span class="divide">|</span>发布时间：2014-07-20 16:40:28<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/>　　宰夫之职，掌治朝之法。以正王及三公、六卿、大夫、群吏之位，掌其禁令。叙群吏之治，以待宾客之令、诸臣之复、万民之逆。掌百官府之征令，辨其八职：一曰正，掌官法以治要。二曰师，掌官成以治凡。三曰司，掌官法以治目。四曰旅，掌官常以治数。五曰府，掌官契以治藏。六曰史，掌官书以赞治。七曰胥，掌官叙以治叙。八曰徒，掌官令以征令。掌治法，以考百官府、群都、县、鄙之治，乘其财用之出入。凡失财用物辟名者，以官刑诏冢宰而诛之。其足用长财善物者，赏之。以式法掌祭祀之戒具，与其荐羞，从大宰而□涤濯。凡礼事，赞小宰比官府之具。凡朝觐、会同、宾客，以牢礼之法，掌其牢礼、委积、膳献、饮食、客赐之飧牵，与其陈数。凡邦之吊事，掌其戒令，与其币器财用，凡所共者。大丧、小丧，掌小官之戒令，帅执事而治之。三公六卿之丧、与职丧，帅官有司而治之。凡诸大夫之丧，使其旅帅有司而治之。岁终，则令群吏正岁会。月终，则令正月要。旬终，则令正日成，而以考其治。治不以时举者，以告而诛之。正岁，则以法警戒群吏，令修宫中之职事，书其能者与其良者，而以告于上。<br/><br/>译文：<br/>　　宰夫的职责，掌管有关治朝的法令，以规正王及三公、六卿、大夫和群吏的朝位，监察他们是否违反禁令。<br/><br/>　　依尊卑安排群吏的职事，以待治理来朝宾客的小事，受理诸臣的奏事，以及民众的上书。<br/><br/>　　掌管[王对于]官府的征召和命令，分辨官府的八类职责[以备征令的下达]。一是正一级的职责，掌管官府的法规制度而审核一年的会计总账。二是师一级的职责，掌管官府的成事品式而审核一月的会计总账。三是司一级的职责，掌管官府的法规制度而审核每天的会计账目。四是旅一级的职责，掌管按照官吏的常职而[对官吏]的工作进度进行考核。五是府的职责，掌管书契而负责[文书、器物等的]收藏。六是史的职责，掌管官府文书[的起草]而协助治理。七是胥的职责，掌管依照官事的轻重缓急而指派徒属。八是徒的职责，负责根据官府的命令而供召呼役使。<br/><br/>　　掌管治法用以考核各官府、各采邑以及县、鄙的政绩，计算他们钱粮财物的收支情况，凡钱粮财物使用失当，以及造假账的，就要根据官刑报告冢宰加以惩罚。那些用度充足、能够增殖财物、能使物产精良的，就奖赏。<br/><br/>　　依照祭祀礼法负责祭祀时告诫有关官吏供给祭祀牲物，以及祭祀用的脯醢和各种食物，跟从大宰视察祭器是否洗涤干净。<br/><br/>　　凡举行礼仪的事，协助小宰检查校核各官府所准备的器物[是否符合要求]。<br/><br/>　　凡是朝觐、会同或有宾客到来，依照牢礼之法，负责供应牲肉和活牲、供应路途所需粮草和牲、供应宾客留居期间所需牲肉和禽鸟、供应燕礼和飨礼所需酒食、供应宾客初到时所赐便宴的用牲，以及[各种食品和器物]陈列的数量。<br/><br/>　　凡王国有吊唁[诸侯或大臣]的事，掌管[对前往吊唁的官吏]进行告诫和命令，负责供给所当用的币帛、明器、财物，以及凡所当供给的器物。<br/><br/>　　有大丧或小丧，负责对小官进行告诫和命令，率领有关官吏办理丧事。三公、六卿的丧事，与职丧一起率领有关官吏办理。凡是大夫的丧事，就使众下士率领有关官吏办理。<br/><br/>　　[夏历]年终就命令官吏们总结确定一年的会计文书，月终就命令总结确定当月的会计文书，旬终就命令总结确定本旬的会计文书，而用以考核官吏们的政绩。政令不按时施行的，就报告[冢宰]加以责罚。<br/><br/>　　[夏历]正月，就用法警戒官吏们，让他们做好王宫中的各项工作。记载他们当中的贤能者和优秀者，而用以报告上级。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-34-811.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-34-813.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-34.html" action-type="chapterComment" class="comment"><i></i>周礼章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

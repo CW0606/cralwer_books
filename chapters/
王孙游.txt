@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《王孙游》正文_王孙游_谢眺作品 - 维普阅读网</title>
+<meta name="keywords" content="王孙游,王孙游原文,王孙游阅读,王孙游全文,谢眺作品" />
+<meta name="description" content="王孙游原文阅读,王孙游全文在线阅读,谢眺作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-765.html";
+var nextpage="novel-chapter-765.html";
+var indexpage = "novel-chapter-765.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-765.html">王孙游</a></strong>
+<strong><a href="novel-chapter-765.html">王孙游目录</a></strong>
+<span>王孙游</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-765.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>王孙游</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=谢眺&amp;searchsubmit=yes"  target="_blank">谢眺</a><span class="divide">|</span>发布时间：2014-10-29 19:53:31<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/><br/>　　绿草蔓如丝，杂树红英发。<br/><br/>　　无论君不归，君归芳已歇。<br/><br/>【注释】<br/>①蔓：蔓延。<br/>②英：花。<br/>③无论：莫说。<br/>④歇：尽。<br/><br/>【译文】<br/>地上长满了如丝的绿草，树上开满了烂漫的红花，已是暮春时节了。莫说你不回来，即使回来，春天也过去了。<br/><br/>【赏析】<br/>　　这是一首乐府诗，《乐府诗集》收入“杂曲歌辞”一类。魏晋以来，文人创作乐府诗往往有一个特点：总是围绕着“古辞”（汉乐府）打转转，或拟古辞，或以古辞为引子生发开去（当然也有弃古辞于不顾而自铸伟辞的）。这种从古辞中寻找“母题”使创作上有所依傍的作法，已形成一个程式。南朝诗人写乐府诗虽然也依这一程式，但却出现另一种倾向，他们有时撇开汉乐府古辞，而直接上溯到《楚辞》中去寻找“母题”。比如，南齐王融和萧梁费昶都写过一首《思公子》，中心题旨就是采自《楚辞·九歌》：“风飒飒兮木萧萧，思公子兮徒离忧。”谢朓的这首诗也属于这种情况，其“母题”出于《楚辞·招隐士》：“王孙游兮不归，春草生兮萋萋。”也就是说，诗人的创作灵感获自《楚辞》，而所写内容则完全是现实生活中的感受。在古老的“母题”之中，贯注了活生生的现实内容。<br/>　　春天，绿草如丝，葱葱茸茸，蔓延大地，绘写出一派绿的世界；各种各样的树上，红花竞放，绚丽夺目。绿的氛围，红的点染，在鲜明的对比之中，烘托出一派生机勃勃的景象。窈窕少女，目睹此景，心伤离情，不禁怦然心动，情思缱绻，不无惆怅地发出了感叹：“无论君不归，君归芳已歇。”意谓：且不要说心上的人儿不回来，即使等到他回来，那绚丽的花朵早已凋谢了，那大好春光早已白白地流逝了，我那美妙的年华也早巳悄然飘去了。红颜难久持。这里，诗人不主要写少女如何急切地等待着情人，如何急不可耐，而是着重写她对于红花的珍惜，对于大好春色的留恋，由此描写出她思君、恋君的春一般的情愫，流露了“美人迟暮”的怅然之情。如此写来，就把主人公的心态从一般的少女怀春，从感情的倾诉和宣泄，升华到了一种对春的珍惜、对时的留恋的理性高度，渗透出一种强烈的时间意识和生命意识。这样，从景的描绘，到情的抒发，再到理性的升华，三者水乳交融般地融汇在一起了。所以，这是一首充满了生命意识的景、情、理俱佳的好诗。<br/>　　诗虽短小，艺术风格却颇具特色，体现了齐梁间诗歌创作雅俗结合的一种倾向。首先，从《楚辞》中生发出来的母题，显而易见带有文人的雅、艳色彩，暗示了它与文人文学的关系；但诗人却用南朝乐府民歌五言四句的诗歌形式，来表现这一古老“母题”，这便将原有华贵、雍雅的色彩悄悄褪去，淡化，使之在语言风格上呈现出清思婉转，风情摇曳的特色。其次，诗写春的景色逗引起春的情思，因景而生情，情景相生，短章逸韵，风姿绰约，这原是南朝乐府民歌的本色，是“俗”。然而在描写笔法上却颇具匠心，诗人在绿的氛围中缀以红花的点染，巧笔对比，着意渲染，流露出文人精心构制的痕迹，表现出“雅”。雅俗结合，创为佳构。另外，诗的用韵也值得一提。诗用仄韵，短促，急切，对表现出主人公惜春、惜时的时不我待的急切心情，起到很好的作用，呈现出语浅意深、韵短情长的艺术风貌。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-765.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-765.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-765.html" action-type="chapterComment" class="comment"><i></i>王孙游章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

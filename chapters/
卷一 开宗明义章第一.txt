@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孝经注疏》正文_卷一 开宗明义章第一_注 唐·李隆基，疏 宋·邢昺作品 - 维普阅读网</title>
+<meta name="keywords" content="孝经注疏,孝经注疏原文,孝经注疏阅读,卷一 开宗明义章第一全文,注 唐·李隆基，疏 宋·邢昺作品" />
+<meta name="description" content="孝经注疏原文阅读,卷一 开宗明义章第一全文在线阅读,注 唐·李隆基，疏 宋·邢昺作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1425-26369.html";
+var nextpage="novel-read-1425-26371.html";
+var indexpage = "novel-chapter-1425.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1425.html">孝经注疏</a></strong>
+<strong><a href="novel-chapter-1425.html">孝经注疏目录</a></strong>
+<span>卷一 开宗明义章第一</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1425-26369.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷一 开宗明义章第一</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=注 唐·李隆基，疏 宋·邢昺&amp;searchsubmit=yes"  target="_blank">注 唐·李隆基，疏 宋·邢昺</a><span class="divide">|</span>发布时间：2016-07-22 22:44:59<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　[疏]正义曰：开，张也。宗，本也。明，显也。义，理也。言此章开张一经之宗本，显明五孝之义理，故曰《开宗明义章》也。第，次也。一，数之始也。以此章总标，诸章以次结之，故为第一，冠诸章之首焉。案《孝经》遭秦坑焚之后，为河间颜芝所藏，初除挟书之律，芝子贞始出之。长孙氏及江翁、后仓、翼奉、张禹等所说皆十八章。及鲁恭王坏孔子宅，得古文二十二章，孔安国作传。刘向校经籍，比量二本，除其烦惑，以十八章为定，而不列名。又有荀昶集其录及诸家疏，并无章名，而《援神契》自《天子》至《庶人》五章，唯皇侃标其目而冠於章首。今郑注见章名，岂先有改除，近人追远而为之也？御注依古今集详议，儒官连状题其章名，重加商量，遂依所请。“章”者，明也，谓分析科段，使理章明。《说文》曰：“乐歌竟为一章，章字从音，从十。”谓从一至十，十，数之终。诸书言章者，盖因《风》、《雅》，凡有科段，皆谓之章焉。言天子、庶人虽列贵贱，而立身行道，无限高卑。故次首章先陈天子，等差其贵贱以至庶人，次及《三才》、《孝治》、《圣治》三章，并叙德教之所由生也。《纪孝行章》叙孝子事亲为先，与五刑相因，即夫孝始於事亲也。《广要道章》、《广扬名章》即先王有至德要道，扬名於后世也。扬名之上，因谏争之臣，从谏之君，必有应感。三章相次，不离於扬名。《事君章》即忠於事君也。《丧亲章》继於诸章之末，言孝子事亲之道纪也。皇侃以《开宗》及《纪孝行》、《丧亲》等三章通於贵贱。今案《谏争章》大夫已上皆有争臣，而士有争友，父有争子，亦该贵贱。则通於贵贱者有四焉。<br/><br/>　<br/><br/>　　仲尼居，仲尼，孔子字。居，谓闲居。曾子侍，曾子，孔子弟子。侍，谓侍坐。<br/><br/>　　[疏]仲尼居，曾子侍。正义曰：夫子以六经设教，随事表名。虽道由孝生，而孝纲未举，将欲开明其道，垂之来裔。以曾参之孝，先有重名，乃假因閒居，为之陈说。自摽已字，称“仲尼居”；呼参为子，称“曾子侍”。建此两句，以起师资问答之体，似若别有承受而记录之。<br/><br/>　　○注仲尼至閒居。<br/>　　○正义曰：云“仲尼，孔子字”者，案《家语》云：“孔子父叔梁纥，娶颜氏之女徵在。徵在既往庙见，以夫年长，惧不时有男，而私祷尼丘山以祈焉。孔子故名丘，字仲尼。夫伯仲者，长幼之次也。仲尼有兄字伯，故曰仲。”其名则案桓六年《左传》：“申繻曰：名有五，其三曰以类命为象。”杜注云：“若孔子首象尼丘，盖以孔子生而圩顶，象尼丘山，故名丘，字仲尼。”而刘瓛述张禹之义，以为仲者中也，尼者和也。言孔子有中和之德，故曰仲尼。殷仲文又云：“失子深敬孝道，故称表德之字。”及梁武帝又以丘为聚，以尼为和。今并不取。仲尼之先，殷之后也。案《史记·殷本纪》曰：“帝喾之子契为尧司徒，有功，尧封之於商，赐姓子氏。契后世孙汤灭夏而为天子，至汤裔孙有位无道。周武王杀之，封其庶兄微子启於宋。”案《家语》又《孔子世家》皆云：“孔子其先宋人也。宋襄公有子弗父何，长而当立，让其弟厉公。何生宋父周，周生世子胜，胜生正考父，正考父受命为宋卿，生孔父嘉。嘉别为公族，故其后以孔为氏。”或以为用乙配子，或以滴溜穿石，其言不经，今不取也。孔父嘉生木金父，木金父生皋夷父，皋夷父生防叔，避华氏之祸而奔鲁。防叔生伯夏，伯夏生叔梁纥，纥生孔子也。云“居，谓閒居”者，《古文孝经》云“仲尼閒居”，盖为乘閒居而坐，与《论语》云“居！吾语汝”义同，而与下章“居则致其敬”不同。<br/>　　○注曾子至侍坐。<br/>　　○正义曰：云“曾子，孔子弟子”者，案《史记·仲尼弟子传》称：“曾参，南武城人，字子舆，少孔子四十六岁。孔子以为能通孝道，故授之业，作《孝经》，死於鲁。”故知是仲尼弟子也。云“侍，谓侍坐”者，言侍孔子而坐也。案古文云“曾子侍坐”，故知侍谓侍坐也。卑者在尊侧曰侍，故经谓之侍。凡侍有坐有立，此曾子侍即侍坐也。《曲礼》有侍坐於先生，侍坐於所尊，侍坐於君子。据此而言，明侍坐於夫子也。<br/>　<br/><br/>　　子曰：“先王有至德要道，以顺天下，民用和睦，上下无怨。孝者，德之至、道之要也。言先代圣德之主，能顺天下人心，行此至要之化，则上下臣人，和睦无怨。汝知之乎？”曾子避席曰：“参不敏，何足以知之？”参，曾子名也。礼：师有问，避席起答。敏，达也。言参不达，何足知此至要之义？子曰：“夫孝，德之本也，人之行莫大於孝，故为德本。教之所由生也。言教从孝而生。复坐，吾语汝。曾参起对，故使复坐。<br/><br/>　　[疏]子曰至语汝。<br/><br/>　　○正义曰：“子”者，孔子自谓。案《公羊传》云：“子者，男子通称也。”古者谓师为子，故夫子以子自称。“曰”者，辞也。言先代圣帝明王，皆行至美之德、要约之道，以顺天下人心而教化之，天下之人，被服其教。用此之故，并自相和睦，上下尊卑，无相怨者。参，汝能知之乎？又假言参闻夫子之说，乃避所居之席，起而对曰：参性不聪敏，何足以知先王至德要道之言义？既叙曾子不知，夫子又为释之曰：夫孝，德行之根本也。释“先王有至德要道”。谓至德要道，元出於孝，孝为之本也。云“教之所生也”者，此释“以顺天下，民用和睦，上下无怨”。谓王教由孝而生也。孝道深广，非立可终，故使“复坐，吾语汝”也。<br/>　　○注孝者至无怨。<br/>　　○正义曰：云“孝者，德之至，道之要也”者，依王肃义，德以孝而至，道以孝而要，是道德不离於孝。殷仲文曰：“穷理之至，以一管众为要。”刘炫曰：“性未达，何足知？”言性未达，何足知至要之义者，谓自云性不达，何足知此先王至德要道之义也。<br/>　　○注人之至德本。<br/>　　○正义曰：此依郑注引其《圣治章》文也，言孝行最大，故为德之本也。德则至德也。<br/>　　○注言教从孝而生。<br/>　　○正义曰：此依韦注也。案《礼记·祭义》称曾子云：“众之本教曰孝。”《尚书》：“敬敷五教。”解者谓教父以义，教母以慈，教兄以友，教弟以恭，教子以孝。举此，则其余顺人之教皆可知也。<br/>　　○注曾参至复坐正义曰：此义已见於上。<br/>　<br/><br/>　　身体发肤，受之父母，不敢毁伤，孝之始也。父母全而生之，已当全而归之，故不敢毁伤。立身行道，扬名於后世，以显父母，孝之终也。言能立身行此孝道，自然名扬后世，光显其亲，故行孝以不毁为先，扬名为后。<br/><br/>　　[疏]身体至终也。<br/><br/>　　○正义曰：身谓躬也，体谓四支也，发谓毛发，肤谓皮肤。《礼运》曰：“四体既正，肤革充盈。”《诗》曰：“鬓发如云。”此则身体发肤之谓也。言为人子者，常须戒慎，战战兢兢，恐致毁伤，此行孝之始也。又言孝行非唯不毁而已，须成立其身，使善名扬於后代，以光荣其父母，此孝行之终也。若行孝道，不至扬名荣亲，则未得为立身也。<br/>　　○注父母至毁伤。<br/>　　○正义曰：云“父母全而生之，已当全而归之”者，此依郑注引《祭义》乐正子春之言也。言子之初生，受全体於父母，故当常自念虑，至死全而归之，若曾子“启手启足”之类是也。云“故不敢毁伤”者，毁谓亏辱，伤谓损伤。故夫子云：“不亏其体，不辱其身，可谓全矣。”及郑注《周礼》“禁杀戮”云“见血为伤”是也。<br/>　　○注言能至其后。正义曰：云“能言立身行此孝道”者，谓人将立其身，先须行此孝道也。其行孝道之事，则下文“始於事亲，中於事君”是也。云“自然名扬后世，光荣其亲”者，皇侃云：“若生能行孝，没而扬名，则身有德誉，乃能光荣其父母也。”因引《祭义》曰：“孝也者，国人称原然，曰：幸哉！有子如此。”又引《哀公问》称孔子对曰：“君子也者，人之成名也。百姓归之名，谓之君子之子。是使其亲为君子也。”此则扬名荣亲也。云“故行孝以不毁为先”者，全其身为孝子之始也。云“扬名为后”者，谓后行孝道为孝之终也。夫不敢毁伤，阖棺乃止，立身行道，弱冠须明经。虽言其始终，此略示有先后，非谓不敢毁伤唯在於始，立身独在於终也。明不敢毁伤，立身行道，从始至末，两行无怠。此於次有先后，非於事理有终始也。<br/>　<br/><br/>　　夫孝始於事亲，中於事君，终於立身。言行孝以事亲为始，事君为中。忠孝道著，乃能扬名荣亲，故曰终於立身也。<br/><br/>　　[疏]夫孝至立身。<br/><br/>　　○正义曰：夫为人子者，先能全身而后能行其道也。夫行道者，谓先能事亲而后能立其身。前言立身，末示其迹。其迹，始者在於内事其亲也；中者在於出事其主；忠孝皆备，扬名荣亲，是终於立身也。<br/>　　○注言行至身也。<br/>　　○正义曰：云“言行孝以事亲为始，事君为中”者，此释始於事亲，中於事君也。云“忠孝道著，乃能扬名荣亲，故曰终於立身也”者，此释终於立身也。然能事亲事君，理兼士庶，则终於立身，此通贵贱焉。郑玄以为“父母生之，是事亲为始。四十强而仕，是事君为中。七十致仕，是立身为终也”者，刘炫驳云：“若以始为在家，终为致仕，则兆庶皆能有始，人君所以无终。若以年七十者始为孝终，不致仕者皆为不立，则中寿之辈尽曰不终，颜子之流亦无所立矣。”<br/>　<br/><br/>　　《大雅》云：‘无念尔祖，聿脩厥德。’《诗·大雅》也。无念，念也。聿，述也。厥，其也。义取恒念先祖，述脩其德。<br/><br/>　　[疏]大雅至厥德。<br/><br/>　　○正义曰：夫子叙述立身行道扬名之义既毕，乃引《大雅·文王》之诗以结之。言凡为人子孙者，常念尔之先祖，常述修其功德也。<br/>　　○注诗大至其德。<br/>　　○正义曰：云“无念，念也”，“聿，述也”，此并《毛传》文；“厥，其也”，《释言》文。云“义取常念先祖，述脩其德”者，此依孔传也。谓述修先祖之德而行之。此经有十一章引《诗》及《书》。刘炫云：“夫子叙经，申述先王之道。《诗》、《书》之语，事有当其义者，则引而证之，示言不虚发也。七章不引者，或事义相违，或文势自足，则不引也。五经唯《传》引《诗》，而《礼》则杂引，《诗》、《书》及《易》并意及则引。若泛指，则云‘《诗》曰’、‘《诗》云’；若指四始之名，即云《国风》、《大雅》、《小雅》、《鲁颂》、《商颂》；若指篇名，即言‘《勺》曰’、‘《武》曰’：皆随所便而引之，无定例也。”郑注云：“雅者，正也。方始发章，以正为始。”亦无取焉。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1425-26369.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1425-26371.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1425.html" action-type="chapterComment" class="comment"><i></i>孝经注疏章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

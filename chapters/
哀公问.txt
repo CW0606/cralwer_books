@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《礼记》正文_哀公问_戴圣作品 - 维普阅读网</title>
+<meta name="keywords" content="礼记,礼记原文,礼记阅读,哀公问全文,戴圣作品" />
+<meta name="description" content="礼记原文阅读,哀公问全文在线阅读,戴圣作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-228-2891.html";
+var nextpage="novel-read-228-2893.html";
+var indexpage = "novel-chapter-228.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-228.html">礼记</a></strong>
+<strong><a href="novel-chapter-228.html">礼记目录</a></strong>
+<span>哀公问</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-228-2891.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>哀公问</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=戴圣&amp;searchsubmit=yes"  target="_blank">戴圣</a><span class="divide">|</span>发布时间：2014-08-18 22:48:00<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>哀公问于孔子曰：「大礼何如？君子之言礼，何其尊也？」孔子曰：「丘也小人，不足以知礼。」君曰：「否！吾子言之也。」孔子曰：「丘闻之：民之所由生，礼为大。非礼无以节事天地之神也，非礼无以辨君臣上下长幼之位也，非礼无以别男女父子兄弟之亲、昏姻疏数之交也；君子以此之为尊敬然。然后以其所能教百姓，不废其会节。有成事，然后治其雕镂文章黼黻以嗣。其顺之，然后言其丧算，备其鼎俎，设其豕腊，修其宗庙，岁时以敬祭祀，以序宗族。即安其居，节丑其衣服，卑其宫室，车不雕几，器不刻镂，食不贰味，以与民同利。昔之君子之行礼者如此。」<br/><br/>　　公曰：「今之君子胡莫行之也？」孔子曰：「今之君子，好实无厌，淫德不倦，荒怠傲慢，固民是尽，午其众以伐有道；求得当欲，不以其所。昔之用民者由前，今之用民者由后。今之君子莫为礼也。」<br/><br/>　　孔子侍坐于哀公，哀公曰：「敢问人道谁为大？」孔子愀然作色而对曰：「君之及此言也，百姓之德也！固臣敢无辞而对？人道，政为大。」公曰：「敢问何谓为政？」孔子对曰：「政者正也。君为正，则百姓从政矣。君之所为，百姓之所从也。君所不为，百姓何从？」公曰：「敢问为政如之何？」孔子对曰：「夫妇别，父子亲，君臣严。三者正，则庶物从之矣。」公曰：「寡人虽无似也，愿闻所以行三言之道，可得闻乎？」孔子对曰：「古之为政，爱人为大；所以治爱人，礼为大；所以治礼，敬为大；敬之至矣，大昏为大。大昏至矣！大昏既至，冕而亲迎，亲之也。亲之也者，亲之也。是故，君子兴敬为亲；舍敬，是遗亲也。弗爱不亲；弗敬不正。爱与敬，其政之本与！」<br/><br/>　　公曰：「寡人愿有言。然冕而亲迎，不已重乎？」孔子愀然作色而对曰：「合二姓之好，以继先圣之后，以为天地宗庙社稷之主，君何谓已重乎？」公曰：「寡人固！不固，焉得闻此言也。寡人欲问，不得其辞，请少进！」孔子曰：「天地不合，万物不生。大昏，万世之嗣也，君何谓已重焉！」孔子遂言曰：「内以治宗庙之礼，足以配天地之神明；出以治直言之礼，足以立上下之敬。物耻足以振之，国耻足以兴之。为政先礼。礼，其政之本与！」孔子遂言曰：「昔三代明王之政，必敬其妻子也，有道。妻也者，亲之主也，敢不敬与？子也者，亲之后也，敢不敬与？君子无不敬也，敬身为大。身也者，亲之枝也，敢不敬与？不能敬其身，是伤其亲；伤其亲，是伤其本；伤其本，枝从而亡。三者，百姓之象也。身以及身，子以及子，妃以及妃，君行此三者，则忾乎天下矣，大王之道也。如此，国家顺矣。」<br/><br/>　　公曰：「敢问何谓敬身？」孔子对曰：「君子过言，则民作辞；过动，则民作则。君子言不过辞，动不过则，百姓不命而敬恭，如是，则能敬其身；能敬其身，则能成其亲矣。」公曰：「敢问何谓成亲？」孔子对曰：「君子也者，人之成名也。百姓归之名，谓之君子之子。是使其亲为君子也，是为成其亲之名也已！」孔子遂言曰：「古之为政，爱人为大。不能爱人，不能有其身；不能有其身，不能安土；不能安土，不能乐天；不能乐天，不能成其身。」<br/><br/>　　公曰：「敢问何谓成身？」孔子对曰：「不过乎物。」公曰：「敢问君子何贵乎天道也？」孔子对曰：「贵其『不已』。如日月东西相从而不已也，是天道也；不闭其久，是天道也；无为而物成，是天道也；已成而明，是天道也。」公曰：「寡人蠢愚，冥烦子志之心也。」孔子蹴然辟席而对曰：「仁人不过乎物，孝子不过乎物。是故，仁人之事亲也如事天，事天如事亲，是故孝子成身。」公曰：「寡人既闻此言也，无如后罪何？」孔子对曰：「君之及此言也，是臣之福也。」</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-228-2891.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-228-2893.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-228.html" action-type="chapterComment" class="comment"><i></i>礼记章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

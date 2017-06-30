@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《黄帝内经》正文_第六十七篇 行针_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="黄帝内经,黄帝内经原文,黄帝内经阅读,第六十七篇 行针全文,佚名作品" />
+<meta name="description" content="黄帝内经原文阅读,第六十七篇 行针全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-58-1906.html";
+var nextpage="novel-read-58-1908.html";
+var indexpage = "novel-chapter-58.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-58.html">黄帝内经</a></strong>
+<strong><a href="novel-chapter-58.html">黄帝内经目录</a></strong>
+<span>第六十七篇 行针</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-58-1906.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第六十七篇 行针</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-07-29 22:31:28<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【本章要点】<br/>　　一、提出针刺后可出现六种不同反应的问题，进行探讨。<br/>　　二、阐明针刺后出现六种不同反应的原因，是在于各人体质的不同和气血的盛衰。<br/>　　三、最后指出针刺气逆（如晕针）与愈刺而病愈甚者与体质无关，完全是由于医疗作风的草率或技术上的错误造成的。<br/>　　【原文】<br/>　　黄帝问于岐伯曰：余闻九针于夫子，而行之于百姓，百姓之血气，各不同形，或神动而气先针行；或气与针相逢；或针已出，气独行；或数刺乃知；或发针而气逆；或数刺病益剧。凡此六者，各不同形，愿闻其方。<br/>　　岐伯曰：重阳之人，其神易动，其气易往也。黄帝曰：何谓重阳之人？岐伯曰：重阳之人，熇熇①高高，言语善疾，举足善高，心肺之脏气有余，阳气滑盛而扬，故神动而气先行。<br/>　　黄帝曰：重阳之人而神不先行者，何也？岐伯曰：此人颇有阴者也。黄帝曰：何以知其颇有阴者也。岐伯曰：多阳者，多喜；多阴者，多怒，数怒者，易解，故曰颇有阴。其阴阳之离合难，故其神不能先行也。<br/>　　黄帝曰：其气与针相逢，奈何？岐伯曰：阴阳和调，而血气淖泽滑利，故针入而气出，疾而相逢也。<br/>　　黄帝曰：针已出而气独行者，何气使然？岐伯曰：其阴气多而阳气少，阴气沉而阳气浮者内藏，故针已出，气乃随其后，故独行也。<br/>　　黄帝曰：数刺乃知，何气使然？岐伯曰：此人之多阴而少阳，其气沉而气往难，故数刺乃知也。<br/>　　黄帝曰：针入而气逆者，何气使然？岐伯曰：其气逆与其数刺病益甚者，非阴阳之气，浮沉之势也。此皆粗之所败，上②之所失，其形气无过焉。<br/>　　【注释】<br/>　　①熇熇：火热炽盛的意思。<br/>　　②上：这里是针刺的医生。<br/>　　【译文】<br/>　　黄帝向岐伯问道：我从你这里熟悉了九针，而施行于百姓，百姓的气血，各不相同。有的神气激昂，气行在针前；有的针和气同时相逢；有的在针拔出之后，气才独自行至；有的经过数次针刺后，才觉有气来；有的在针刺后，产生晕针等不良反应；有的针刺数次后，病情反而加重。以上这六种情况，在针刺时表现各不相同，我想听听其中的道理。<br/>　　岐伯说：阳气重的人，神易激动，气也就容易引发。黄帝说：怎样才能判断人是否阳气重？岐伯说：阳气重的人，火一样炽热，说话利索，趾高气昂，心肺的脏气有余，阳气滑盛激扬，所以神骚动而气先行。<br/>　　黄帝说：有的阳重的人，神气却并不见先行，这是为什么？岐伯说：这人很有些阴气罢了！黄帝说：怎么知道这人很有些阴气呢？岐伯说：多阳的人多乐观，多阴的人多恼怒，常发怒而又消解得快，所以说他很有“阴”的色彩，要他阴阳离合难，所以神气不能先行。<br/>　　黄帝说：那些气与针相逢的，又怎么样？岐伯说：阴阳和调，则气血润泽滑利，所以针入而气出，迅速地相逢。<br/>　　黄帝说：针拔出后气才独至的人，这是什么气的作用呢？岐伯说：这类人阴气多而阳气少，阴气深沉而阳气肤浅的人内藏不露，所以在针拔出后，阳气才慢慢出来，独自成行。<br/>　　黄帝说：针刺数次才有气感，这是什么气在作用呢？岐伯说：这样的人多阴而少阳，神气沉潜很难被激动，所以数次针刺后才有所感觉。<br/>　　黄帝说：针刺后出现晕针等现象，是什么气的作用呢？岐伯说：针刺后出现晕针以及针刺数次后病情加重的，与人体阴阳二气，及其或沉或浮之状无关，这都是由于疏忽造成的，是医生的失误，病人的形质神气并没有毛病。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-58-1906.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-58-1908.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-58.html" action-type="chapterComment" class="comment"><i></i>黄帝内经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

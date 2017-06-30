@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《厚黑学》正文_厚黑学自序_李宗吾作品 - 维普阅读网</title>
+<meta name="keywords" content="厚黑学,厚黑学原文,厚黑学阅读,厚黑学自序全文,李宗吾作品" />
+<meta name="description" content="厚黑学原文阅读,厚黑学自序全文在线阅读,李宗吾作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-519-6403.html";
+var nextpage="novel-read-519-6405.html";
+var indexpage = "novel-chapter-519.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-519.html">厚黑学</a></strong>
+<strong><a href="novel-chapter-519.html">厚黑学目录</a></strong>
+<span>厚黑学自序</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-519-6403.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>厚黑学自序</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=李宗吾&amp;searchsubmit=yes"  target="_blank">李宗吾</a><span class="divide">|</span>发布时间：2014-09-24 20:24:51<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>我于民国元年，曾写一文曰《厚黑学》，此后陆陆续续写了些文字，十六年汇刻一册，名曰《宗吾臆谈》，中有一文，曰《解决社会问题之我见》。十七年扩大之为一单行本，曰《社会问题之商榷》。近年复有些新感想，乃将历年所作文字，拆散之，连同新感想，用随笔体裁，融合写之，名曰《厚黑丛话》。自民国二十四年八月一日起，每日写一二段，在成都《华西日报》发表，以约有二万字为一卷，每两卷印一单行本，现已写满六卷。我本是闲着无事，随意写来消遣，究竟写若干长，写至何时止，我也无一定计划，如心中高兴，就长期写去，如不高兴，随时都可终止。惟文辞过于散漫，阅者未免生厌，而一般人所最喜欢者，是听我讲厚黑学，因将二十三年北平所印《厚黑学》单行本，略有点窜，重行付印，用供众览。<br/><br/><br/>　　许多人劝我把《宗吾臆谈》和《社会问题之商榷》重印，我觉得二书有许多地方，应该补充，叫我一一修改，又觉麻烦，因于丛话中，信笔写去，读者只读丛话，即无须再读二书，因二书的说法和应该补充之点，业已融化在丛话中了。<br/><br/><br/>　　十六年刊《宗吾臆谈》，李君澄波，周君雁翔，曾作有序。十七年刊《社会问题之商榷》，吴君毓江，郝君德，姚君勤如，杨君仔耘，均作有序。一并刊列卷首，聊作《厚黑丛话提要》，俾读者知道丛话内容之大概，苟无暇晷，即无须再读丛话。<br/><br/><br/>　　《宗吾臆谈》和《社会问题之商榷》，业已各检二本，寄存四川图书馆，因忆自非家中尚有数本，撮取来一并邮寄南京、北平及其他图书馆存储，借表现在所写《厚黑丛话》与昔年思想仍属一贯也。<br/><br/><br/>　　二十五年四月十二日李宗吾于成都<br/><br/><br/>　　一　绪 论　　<br/><br/><br/>　　我读中国历史，发现了许多罅漏，觉得一部二十四史的成败兴衰和史臣的论断，是完全相反的；律以圣贤所说的道理，也不符合。我很为诧异，心想古来成功的人，必定有特别的秘诀，出于史臣圣贤之外。我要寻它这个秘诀，苦求不得，后来偶然推想三国时候的人物，不觉恍然大悟，古人成功的秘诀，不过是脸厚心黑罢了。<br/><br/><br/>　　由此推寻下去，一部二十四史的兴衰成败，这四个字确可以包括无遗；我于是乎作一种诙谐的文字，题名《厚黑学》，分为三卷：上卷厚黑学，中卷厚黑经，下卷厚黑传习录。民国元年三月，在成都《公论日报》上披露出来。那个时候，这种议论，要算顶新奇了，读者哗然。中卷还未登完，我受了朋友的劝告就停止了。不料从此以后，“厚黑学”三字，竟洋溢乎四川，成为普通的名词；我到了一个地方，就有人请讲《厚黑学》，我就原原本本的从头细述。听者无不点头领会，每每叹息道：“我某事的失败，就是不讲厚黑学的缘故。”又有人说：“某人声威赫赫，就是由于《厚黑学》研究得好。”有时遇了不相识的人，彼此问了姓名，他就用一种很惊异的声调问我：“你是不是发明厚黑学的李某？”抑或旁人代为介绍道：“他就是发明厚黑学的李宗吾。”更可笑者：学生做国文的时候，竟有用这个名词的，其传播的普遍，也就可以想见了。<br/><br/><br/><br/>　　当初本是一种游戏的文字，不料会发生这种影响，我自己也十分诧异，心想这种议论，能受众人的欢迎，一定与心理学有关系。我于是继续研究下去，才知道厚黑学是渊源于性*恶说，与王阳明的“致良知”渊源于性*善说，是相等的。古人说：“仁义是天性*中固有之物。”我说：“厚黑是天性*中固有之物。”阳明说：“见父自然知孝，见兄自然知弟。”说得头头是道，确凿不移。我说：“小儿见了母亲口中的糕饼，自然会取来放在自己口中，在母亲怀中吃东西的时候，见他哥哥来了，自然会用手推他打他。”也说得头头是道，确凿不移。阳明讲学，受一般人欢迎，所以《厚黑学》也受一般人欢迎。<br/><br/><br/>　　有孟子的性*善说，就有荀子的性*恶说与之对抗，有王阳明的“致知良”三字，这“厚黑学”三字，也可与之对抗；究竟人性*是怎样做起的，我很想把他研究出来，寻些宋、元、明、清讲学的书来看，见他所说的道理，大都是支离穿凿，迂曲难通，令人烦闷欲死。我于是乎把这些书抛开，用研究物理学的方法来研究心理学，才知道心理学与力学是相通的。我们研究人性*，不能断定它是善是恶，犹之研究水火之性*质，不能断定它是善是恶一样。<br/><br/><br/>　　孟子的性*善说，荀子的性*恶说，俱是一偏之见，我所讲的《厚黑学》，自然是更偏了，其偏的程度，恰与王阳明“致知良”之说相等。读者如果不明了这个道理，认真厚黑起来，是终归要失败的，个中因由能把我著的《心理与力学》看一下，就自然明白了。但是我们虽不想实行厚黑，也须提防人在我们名下施行厚黑，所以他们的法术，我们不能不知道。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-519-6403.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-519-6405.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-519.html" action-type="chapterComment" class="comment"><i></i>厚黑学章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

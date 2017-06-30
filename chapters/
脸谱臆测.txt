@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《且介亭杂文》正文_脸谱臆测_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="且介亭杂文,且介亭杂文原文,且介亭杂文阅读,脸谱臆测全文,鲁迅作品" />
+<meta name="description" content="且介亭杂文原文阅读,脸谱臆测全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-544-7301.html";
+var nextpage="novel-read-544-7303.html";
+var indexpage = "novel-chapter-544.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-544.html">且介亭杂文</a></strong>
+<strong><a href="novel-chapter-544.html">且介亭杂文目录</a></strong>
+<span>脸谱臆测</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-544-7301.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>脸谱臆测</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-02 22:08:57<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>对于戏剧，我完全是外行。但遇到研究中国戏剧的文章，有时也看一看。近来的中国戏是否象征主义，或中国戏里有无象征手法的问题，我是觉得很有趣味的。 <br/><br/>　　伯鸿先生在《戏》周刊十一期（《中华日报》副刊）上，说起脸谱，承认了中国戏有时用象征的手法，“比如白表‘奸诈’，红表‘忠勇’，黑表‘威猛’，蓝表‘妖异’，金表‘神灵’之类，实与西洋的白表‘纯洁清净’，黑表‘悲哀’，红表‘热烈’，黄金色表‘光荣’和‘努力’”并无不同，这就是“色的象征”，虽然比较的单纯，低级。（２）这似乎也很不错，但再一想，却又生了疑问，因为白表奸诈，红表忠勇之类，是只以在脸上为限，一到别的地方，白就并不象征奸诈，红也不表示忠勇了。 <br/><br/>　　对于中国戏剧史，我又是完全的外行。我只知道古时候（南北朝）的扮演故事，是带假面的，（３）这假面上，大约一定得表示出这角色的特征，一面也是这角色的脸相的规定。古代的假面和现在的打脸的关系，好像还没有人研究过，假使有些关系，那么，“白表奸诈”之类，就恐怕只是人物的分类，却并非象征手法了。 <br/><br/>　　中国古来就喜欢讲“相人术”（４），但自然和现在的“相面”不同，并非从气色上看出祸福来，而是所谓“诚于中，必形于外”（５），要从脸相上辨别这人的好坏的方法。一般的人们，也有这一种意见的，我们在现在，还常听到“看他样子就不是好人”这一类话。这“样子”的具体的表现，就是戏剧上的“脸谱”。富贵人全无心肝，只知道自私自利，吃得白白胖胖，什么都做得出，于是白就表了奸诈。红表忠勇，是从关云长的“面如重枣”来的。“重枣”是怎样的枣子，我不知道，要之，总是红色的罢。在实际上，忠勇的人思想较为简单，不会神经衰弱，面皮也容易发红，倘使他要永远中立，自称“第三种人”，精神上就不免时时痛苦，脸上一块青，一块白，终于显出白鼻子来了。黑表威猛，更是极平常的事，整年在战场上驰驱，脸孔怎会不黑，擦着雪花膏的公子，是一定不肯自己出面去战斗的。 <br/><br/>　　士君子常在一门一门的将人们分类，平民也在分类，我想，这“脸谱”，便是优伶和看客公同逐渐议定的分类图。不过平民的辨别，感受的力量，是没有士君子那么细腻的。况且我们古时候戏台的搭法，又和罗马不同，（６）使看客非常散漫，表现倘不加重，他们就觉不到，看不清。这么一来，各类人物的脸谱，就不能不夸大化，漫画化，甚而至于到得后来，弄得希奇古怪，和实际离得很远，好像象征手法了。脸谱，当然自有它本身的意义的，但我总觉得并非象征手法，而且在舞台的构造和看客的程度和古代不同的时候，它更不过是一种赘疣，无须扶持它的存在了。然而用在别一种有意义的玩艺上，在现在，我却以为还是很有兴趣的。十月三十一日。 <br/><br/>　　==========================================================================<br/><br/><br/>　　（１）本篇在印入本书前未能发表，参看本书《附记》。（２）《戏》周刊第十一期（一九三四年十月二十八日）曾发表伯鸿的《苏联为什么邀梅兰芳去演戏（上）》一文，该文先引《申报》“读书问答”栏《梅兰芳与中国旧剧的前途（三）》文中的话说：“中国旧剧其取材大半是历史上的传说，其立论大体是‘劝善罚恶’的老套，这里面既不含有神秘的感情，也就用不着以观感的具体的符号来象征什么……即如那一般人认为最含有象征主义意味的脸谱，和那以马鞭代马的玩意儿，也只能说借以帮助观众对于剧情的理解，不能认为即是象征主义。”于是接着说：“这个是很正确的了。但是他因否定了中国旧戏是象征主义，同时否定了中国旧剧采用的一些‘象征手法’。比如白表‘奸诈’，红表‘忠勇’……因为‘色的象征’，还有‘音的象征’‘形的象征’，也经有意识或无意识地使用着……这一些都是象征的手法，不过多是比较单纯的低级的。” <br/><br/>　　（３）指南北朝时的歌舞戏《大面》。据《旧唐书·音乐志》载：“《大面》出于北齐。北齐兰陵王长恭，才武而面美，常著假面以对敌。尝击周师金墉城下，勇冠三军，齐人壮之，为此舞以效其指麾击刺之容，谓之《兰陵王入阵曲》。” <br/><br/>　　（４）“相人术”《左传》文公元年：“内史叔服来会葬；公孙敖闻其能相人也，见其二子焉。”又《汉书·艺文志》“形法”类著录有《相人》一书。 <br/><br/>　　（５）“诚于中，必形于外”语出《大学》：“人之视己，如见其肺肝然……此谓诚于中，形于外；故君子必慎其独也。”（６）古代罗马剧场，中间为圆形表演场地，周围环绕着台阶式的观众席，近似现代的体育场。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-544-7301.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-544-7303.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-544.html" action-type="chapterComment" class="comment"><i></i>且介亭杂文章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

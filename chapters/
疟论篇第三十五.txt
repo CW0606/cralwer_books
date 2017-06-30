@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《素问》正文_疟论篇第三十五_黄帝作品 - 维普阅读网</title>
+<meta name="keywords" content="素问,素问原文,素问阅读,疟论篇第三十五全文,黄帝作品" />
+<meta name="description" content="素问原文阅读,疟论篇第三十五全文在线阅读,黄帝作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-269-4616.html";
+var nextpage="novel-read-269-4618.html";
+var indexpage = "novel-chapter-269.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-269.html">素问</a></strong>
+<strong><a href="novel-chapter-269.html">素问目录</a></strong>
+<span>疟论篇第三十五</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-269-4616.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>疟论篇第三十五</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=黄帝&amp;searchsubmit=yes"  target="_blank">黄帝</a><span class="divide">|</span>发布时间：2014-08-30 14:34:18<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>黄帝问曰：夫痎疟皆生于风，其盖作有时者何也？<br/>岐伯对曰：疟之始发也，先起于毫毛，伸欠乃作，寒栗鼓颔，腰脊俱痛，寒去则内外皆热，头疼如破，渴欲冷饮。<br/>帝曰：何气使然？愿闻其道。<br/>岐伯曰：阴阳上下交争，虚实更作，阴阳相移也。<br/>阳并于阴，则阴实而阳虚，阳明虚则寒栗鼓颔也；巨阳虚则腰背头项疼；三阳俱虚则阴气胜，阴气胜则骨寒而痛；寒生于内，故中外皆寒；阳盛则外热，阴虚则内热，则喘而渴，故欲冷饮也。<br/>此皆得之夏伤于暑，热气盛，藏于皮肤之内，肠胃之外，皆荣气之所食也。<br/>此令人汗空疏，腠理开，因得秋气；汗出遇风，及得之以浴，水气舍于皮肤之内，与卫气并居。卫气者昼日行于阳，夜行于阴，此气得阳而外出，得阴而内薄，内外相薄，是以曰作。<br/>帝曰：其间日而作者何也？<br/>岐伯曰：其气之舍深，内薄于阴，阳气独发，阴邪内着，阴与阳争不得出，是以间日而作也。<br/>帝曰：善。其作日晏与其日早者何气使然？<br/>岐伯曰：邪气客于风府，循膂而下，卫气一日一夜大会于风府，其明日日下一节，故其作也晏。此先客于脊背也，每至于风府，则腠理开，腠理开，则邪气入，邪气入，则病作，以此日作稍益晏也；其出于风府日下一节，二十五日下至骶骨，二十六日入于脊内，注于伏膂之脉，其气上行，九日出于缺盆之中，其气日高，故作日益早也。<br/>其间日发者，由邪气内薄于五脏，横连募原也。其道远，其气深，其行迟，不能与卫气俱行，不得皆出。故间日乃作也。<br/>帝曰：夫子言卫气每至于风府，腠理乃发，发则邪气入，入则病作，今卫气日下一节，其气之发也，不当风府，其日作者奈何？<br/>岐伯曰：此邪气客于头项，循膂而下者也。故虚实不同，邪中异所，则不得当其风府也。故邪中于头项者，气至头项而病；中于背者，气至背而病；中于腰脊者，气至腰脊而病；中于手足者，气至手足而病。卫气之所在与邪气相合，则病作。故风无常府，卫气之所发必开其腠理，邪气之所合，则其府也。<br/>帝曰：善。夫风之与疟也，相似同类，而风独常在，疟得有时而休者何也？<br/>岐伯曰：风气留其处，故常在，疟气随经络，沉以内薄，故卫气应乃作。<br/>帝曰：疟先寒而后热者何也？<br/>岐伯曰：夏伤于大暑，其汗大出，腠理开发，因遇夏气凄沧之水寒，藏于腠理皮肤之中，秋伤于风，则病成矣。夫寒者，阴气也，风者，阳气也，先伤于寒而后伤于风，故先寒而后热也。病以时作，名曰寒疟。<br/>帝曰：先热而后寒者何也？<br/>岐伯曰：此先伤于风，而后伤于寒。故先热而后寒也。亦以时作，名曰温疟。<br/>其但热而不寒者，阴气先绝，阳气独发，则少气烦冤，手足热而欲呕，名曰瘅疟。<br/>帝曰：夫经言有余者泻之，不足者补之，今热为有余，寒为不足。夫疟者之寒，汤火不能温也，及其热，冰水不能寒也，此皆有余不足之类。当此之时，良工不能止，必须其自衰，乃刺之，其故何也？愿闻其说。<br/>岐伯曰：经言无刺熇熇之热，无刺浑浑之脉，无刺漉漉之汗，故为其病逆未可治也。<br/>夫疟之始发也，阳气并于阴，当是之时，阳虚而阴盛，外无气故先寒栗也。阴气逆极则复出之阳，阳与阴复并于外，则阴虚而阳实，故先热而渴。<br/>夫疟气者，并于阳则阳胜，并于阴则阴胜？阴胜则寒，阳胜则热。疟者，风寒之气不常也。病极则复。<br/>至病之发也，如火之热，如风雨不可当也。故经言曰：方其盛时，必毁，因其衰也，事必大昌，此之谓也。<br/>夫疟之未发也，阴未并阳，阳未并阴，因而调之，真气得安，邪气乃亡。故工不能治其已发为其气逆也。<br/>帝曰：善。攻之奈何？早晏何如？<br/>岐伯曰：疟之且发也，阴阳之且移也，必从四末始也。阳已伤，阴从之，故先其时紧束其处，令邪气不得入，阴气不得出，审候见之在孙络盛坚而血者，皆取之，此真往而未得并者也。<br/>帝曰：疟不发其应何如？<br/>岐伯曰：疟气者，必更盛更虚，当气之所在也。病在阳则热而脉躁，在阴则寒而脉静，极则阴阳俱衰，卫气相离，故病得休，卫气集则复病也。<br/>帝曰：时有间二日或至数日发，或渴或不渴，其故何也？<br/>岐伯曰：其间日者邪气与卫气客于六腑，而有时相失不能相得，故休数日乃作也。疟者阴阳更胜也，或甚或不甚，故或渴或不渴。<br/>帝曰：论言夏伤于暑，秋必病疟，今疟不必应者何也？<br/>岐伯曰：此应四时者也。其病异形者，反四时也。其以秋病者寒甚，以冬病者寒不甚，以春病者恶风，以夏病者多汗。<br/>帝曰：夫病温疟与寒疟，而皆安舍，舍于何脏？<br/>岐伯曰：温疟者，得之冬中于风，寒气藏于骨髓之中，至春则阳气大发，邪气不能自出，因遇大暑，脑髓烁，肌肉消，腠理发泄，或有所用力，邪气与汗皆出，此病藏于肾，其气先从内出之于外也。如是者，阴虚而阳盛，阳盛则热矣。衰则气复反入，入则阳虚，阳虚则寒矣。故先热而后寒，名曰温疟。<br/>帝曰：瘅疟何如？<br/>岐伯曰：瘅疟者肺素有热，气盛于身，厥逆上冲，中气实而不外泄，因有所用力，腠理开，风寒舍于皮肤之内，分肉之间而发，发则阳气盛，阳气盛而不衰则病矣。其气不及于阴，故但热而不寒，气内藏于心而外舍于分肉之间，令人消烁脱肉，故命曰瘅疟。<br/>帝曰：善。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-269-4616.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-269-4618.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-269.html" action-type="chapterComment" class="comment"><i></i>素问章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

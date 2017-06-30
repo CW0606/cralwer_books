@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《论衡》正文_卷二·无形篇_王充作品 - 维普阅读网</title>
+<meta name="keywords" content="论衡,论衡原文,论衡阅读,卷二·无形篇全文,王充作品" />
+<meta name="description" content="论衡原文阅读,卷二·无形篇全文在线阅读,王充作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-247-3805.html";
+var nextpage="novel-read-247-3807.html";
+var indexpage = "novel-chapter-247.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-247.html">论衡</a></strong>
+<strong><a href="novel-chapter-247.html">论衡目录</a></strong>
+<span>卷二·无形篇</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-247-3805.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷二·无形篇</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王充&amp;searchsubmit=yes"  target="_blank">王充</a><span class="divide">|</span>发布时间：2014-08-24 22:07:08<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>人禀元气於天，各受寿夭之命，以立长短之形，犹陶者用土为簋廉，冶者用铜为柈杅矣。器形已成，不可小大；人体已定，不可减增。用气为性，性成命定。体气与形骸相抱，生死与期节相须。形不可变化，命不可减加。以陶冶言之，人命短长，可得论也。<br/><br/>　　或难曰：“陶者用埴为簋廉，簋廉壹成，遂至毁败，不可复变。若夫冶者用铜为柈，杅虽已成器，犹可复烁。柈可得为尊，尊不可为簋。人禀气於天，虽各受寿夭之命，立以形体，如得善道神药，形可变化，命可加增。<br/><br/>　　曰：冶者变更成器，须先以火燔烁，乃可大小短长。人冀延年，欲比於铜器，宜有若炉炭之化乃易形形易寿亦可增。人何由变易其形，便如火烁铜器乎？《礼》曰：“水潦降，不献鱼鳖。”何则？雨水暴下，虫蛇变化，化为鱼鳖。离本真暂变之虫，臣子谨慎，故不敢献。人愿身之变，冀若虫蛇之化乎？夫虫蛇未化者，不若不化者。虫蛇未化，人不食也；化为鱼鳖，人则食之。食则寿命乃短，非所冀也。岁月推移，气变物类，虾蟆为鹑，雀为蜃蛤。人愿身之变，冀若鹑与蜃蛤鱼鳖之类也？人设捕蜃蛤，得者食之。虽身之不化，寿命不得长，非所冀也。鲁公牛哀寝疾，七日变而成虎。鲧殛羽山，化为黄能。愿身变者，冀牛哀之为虎，鲧之为能乎？则夫虎、能之寿，不能过人。天地之性，人最为贵。变人之形，更为禽兽，非所冀也。凡可冀者，以老翁变为婴兒，其次白发复黑，齿落复生，身气丁强，超乘不衰，乃可贵也。徒变其形，寿命不延，其何益哉？<br/><br/>　　且物之变，随气，若应政治，有所象为，非天所欲寿长之故，变易其形也，又非得神草珍药食之而变化也。人恆服药固寿，能增加本性，益其身年也。遭时变化，非天之正气、人所受之真性也。天地不变，日月不易，星辰不没，正也。人受正气，故体不变。时或男化为女，女化为男，由高岸为谷，深谷为陵也。应政为变，为政变，非常性也。汉兴，老父授张良书，已化为石。是以石之精，为汉兴之瑞也。犹河精为人持璧与秦使者，秦亡之征也。蚕食桑老，绩而为茧，茧又化而为蛾；蛾有两翼，变去蚕形。蛴螬化为复育，复育转而为蝉；蝉生两翼，不类蛴螬。凡诸命蠕蜚之类，多变其形，易其体。至人独不变者，禀得正也。生为婴兒，长为丈夫，老为父翁。从生至死，未尝变更者，天性然也。天性不变者，不可令复变；变者，不可不变。若夫变者之寿，不若不变者。人欲变其形，辄增益其年，可也；如徒变其形而年不增，则蝉之类也，何谓人愿之？<br/><br/>　　龙之为虫，一存一亡，一短一长。龙之为性也，变化斯须，辄复非常。由此言之，人，物也，受不变之形，形不可变更，年不可增减。传称高宗有桑谷之异。悔过反政，享福百年，是虚也。传言宋景公出三善言，荧惑却三舍，延年二十一载，是又虚也。又言秦缪公有明德，上帝赐之十九年，是又虚也。称赤松、王乔好道为仙，度世不死，是又虚也。假令人生立形谓之甲，终老至死，常守甲形。如好道为仙，未有使甲变为乙者也。夫形不可变更，年不可减增。何则？形、气、性，天也。形为春，气为夏。人以气为寿，形随气而动。气性不均，则於体不同。牛寿半马，马寿半人，然则牛马之形与人异矣。禀牛马之形，当自得牛马之寿；牛马之不变为人，则年寿亦短於人。世称高宗之徒，不言其身形变异。而徒言其增延年寿，故有信矣。<br/><br/>　　形之血气也，犹囊之贮粟米也。一石囊之高大，亦适一石。如损益粟米，囊亦增减。人以气为寿，气犹粟米，形犹囊也。增减其寿，亦当增减其身，形安得如故？如以人形与囊异，气与粟米殊，更以苞瓜喻之。苞瓜之汁，犹人之血也；其肌，犹肉也。试令人损益苞瓜之汁，令其形如故，耐为之乎？人不耐损益苞瓜之汁，天安耐增减人之年？人年不可增减，高宗之徒，谁益之者？而云增加。如言高宗之徒，形体变易，其年亦增，乃可信也。今言年增，不言其体变，未可信也。何则？人禀气於天，气成而形立，则命相须以至终死。形不可变化，年亦不可增加。以何验之？人生能行，死则僵仆，死则气减形消而坏。禀生人形，不可得变，其年安可增？人生至老，身变者，发与肤也。人少则发黑，老则发白，白久则黄。发之变，形非变也。人少则肤白，老则肤黑，黑久则黯，若有垢矣。发黄而肤为垢，故《礼》曰：“黄耇无疆。”发肤变异，故人老寿迟死，骨肉不可变更，寿极则死矣。五行之物，可变改者，唯土也。埏以为马，变以为人，是谓未入陶灶更火者也。如使成器，入灶更火，牢坚不可复变。今人以为天地所陶冶矣，形已成定，何可复更也？<br/><br/>　　图仙人之形，体生毛，臂变为翼，行於云则年增矣，千岁不死。此虚图也。世有虚语，亦有虚图。假使之然，蝉蛾之类，非真正人也。海外三十五国，有毛民羽民，羽则翼矣。毛羽之民土形所出，非言为道身生毛羽也。禹、益见西王母，不言有毛羽。不死之民，亦在外国，不言有毛羽。毛羽之民，不言之死；不死之民，不言毛羽。毛羽未可以效不死，仙人之有翼，安足以验长寿乎？</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-247-3805.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-247-3807.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-247.html" action-type="chapterComment" class="comment"><i></i>论衡章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

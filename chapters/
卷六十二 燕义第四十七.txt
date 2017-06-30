@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《礼记正义》正文_卷六十二 燕义第四十七_郑玄作品 - 维普阅读网</title>
+<meta name="keywords" content="礼记正义,礼记正义原文,礼记正义阅读,卷六十二 燕义第四十七全文,郑玄作品" />
+<meta name="description" content="礼记正义原文阅读,卷六十二 燕义第四十七全文在线阅读,郑玄作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1017-10305.html";
+var nextpage="novel-read-1017-10307.html";
+var indexpage = "novel-chapter-1017.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1017.html">礼记正义</a></strong>
+<strong><a href="novel-chapter-1017.html">礼记正义目录</a></strong>
+<span>卷六十二 燕义第四十七</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1017-10305.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷六十二 燕义第四十七</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=郑玄&amp;searchsubmit=yes"  target="_blank">郑玄</a><span class="divide">|</span>发布时间：2014-11-26 20:20:17<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　陆曰：“郑云：‘名《燕义》者，以记君与臣燕饮之礼，上下相报之义也。’”<br/><br/>　　[疏]正义曰：案郑《目录》云：“名曰《燕义》者，以其记君臣燕饮之礼，上下相尊之义。此於《别录》属《吉事》。”案《仪礼目录》云：“诸侯无事，若卿大夫有勤劳之功，与群臣燕饮以乐之。”勤劳，谓征伐、聘问。《诗》曰“吉甫燕喜”，是也。臣有王事之劳亦燕之，故《燕礼记》云“若有王事”是也。<br/><br/>　<br/><br/>　　古者周天子之官有庶子官。庶子官职诸侯、卿、大夫、士之庶子之卒，掌其戒令，与其教治，别其等，正其位。职，主也。庶子，犹诸子也。《周礼》诸子之官，司马之属也。卒，读皆为“倅”，诸子副代父者也。戒令，致於大子之事。教治，脩德学道。位，朝位也。○卒，依注音倅，七对反，又苍忽反，副也。治，直吏反，注及下同。别，彼列反。大子音泰，后“大子学”同。朝音直遥反。国有大事，则率国子而致於大子，唯所用之。若有甲兵之事，则授之以车甲，合其卒伍，置其有司，以军法治之，司马弗正。国子，诸子也。军法：百人为卒，五人为伍。弗，不也。国子属大子，司马虽有军事不赋也。○合如字，徐音閤。卒伍，子忽反，注同。伍音五。正音征。凡国之政事，国子存游卒，使之脩德学道，春合诸学，秋合诸射，以考其艺而进退之。游卒，未仕者也。学，大学也。射，射宫也。《燕礼》有庶子官，是以《义》载此以为说。○卒，七内反，注同。<br/><br/>　　[疏]“古者”至“退之”。○正义曰：此一节明诸侯与庶子燕饮之礼，从篇首至末，皆明燕饮之义。但燕饮之礼，有庶子官，故方说燕礼之初，先陈庶子之事。各随文解之。“周天子之官有庶子官”者，此明“庶子”之义也。谓作《记》之人在於周末，追述周初之事，故云“古者”。言周之天子，其下立官有庶子之官，天子谓之“诸子”，诸侯谓之“庶子”，其所职掌，诸子、庶子同也。故此《记》虽明诸侯庶子职掌，其所载之事皆《诸子职》文也。○“庶子官职诸侯、卿、大夫、士之庶子之卒”者，言此官职主诸侯及卿、大夫、士众庶之子副倅於父之事，所以官名“庶子”。○“掌其戒令”者，此等众子须有戒法政令，而庶子官掌之。○“与其教治”者，与，犹及也。教，谓教学。治，谓治身。言非但掌戒令而已，及其教治亦皆掌之。○“别其等”者，谓分别其贵贱之等。○“正其位”者，正其朝廷所立之位也。此《记》云“诸侯、卿、大夫、士之庶子之卒”，《周礼·诸子职》则云“掌国子之倅”，唯此为别。但《诸子职》总谓之“国子”，此云“诸侯、卿、大夫、士之庶子”者，是其適子也。谓之“庶”者，庶，众也。以其適子众多，故众谓之“庶子”，非適子庶弟而称庶子也。必知“適子”者，以其云“倅”，是副贰於父之言。故郑注《诸子职》云：“国子者，是公、卿、大夫、士之副贰。”又引《王》制云“王大子，王子，群后之大子，卿、大夫、元士之適子”是也。○注“职主”至“位也”。○正义曰：云“《周礼》诸子之官，司马之属也”者，案《周礼》，诸子，下大夫，属司马。云“卒，读皆为倅”者，以经云“庶子之卒”，下文云“国子存游卒”，以“卒”字非一，故云卒皆为倅。若旁置“人”者，是副倅之“倅”。若不置人者，则百人为卒之“卒”。故读“卒”从“倅”也。云“诸子副代父者也”，此诸適子皆副代於父，与父为倅，故称“倅”也。云“戒令，致於大子之事”者，则下文云：“国有大事，则率国子而致於大子。”其事非一，故云“戒令，致於大子之事”。云“位，朝位也”者，此等诸子虽未为官，皆从父尊卑以为等级，故有别其等、正其位也。“唯所用之”者，若国有大事之时，而进致诸子於大子，唯任大子随时所用也。○“合其卒伍，置其有司”者，言若国有甲兵之事，则庶子之官，付授以车甲，合会之以卒伍，置立之以有司。谓立其主将，使统领之，用军旅之法治理之。○“司马弗正”者，弗，不也。正，役也。以此等诸子既统属大子，随大子徵发，王家之事，司马不得征役之也。○“凡国之政事，国子存游卒”者，前经云“国有大事”，谓祭祀，或宿卫，又云“甲兵之事”。此经别云“国之政事”，则非大事与甲兵也。是国之寻常小小之政事，谓力役、士功、胥徒之属，不与干国子，唯民庶所为。“国子存游卒”，未仕者之中，不干其事也。○“使之脩德学道”者，既不与国子之寻常政事，但使之脩行其德，学习道艺也。○“春合诸学”者，谓仲春之时，合此诸子在於大学。○“秋合诸射”者，谓仲秋之时，合其诸子在於射宫，使之脩德学道，或容习射也。○“以考其艺而进退之”者，是庶子之官，考校其艺之高下，而进退其能否，能者进之，否者退之。○注“游卒”至“为说”。○正义曰：“游卒，未仕者也”，案《师氏职》云：“凡国之贵游子弟学焉。”郑注云：“贵游子弟，王公之子弟。游，无官司者。”则此游卒，是游逸以为副倅，故云“未仕者”。云“学，大学也”者，以《大胥》云“春释菜合舞”，《文王世子》云“春夏学干戈，秋冬学羽籥”，皆於东序。初教在东序，至合时则在周之大学，故云“学，大学也”。云“射，射宫也”，择士习射之宫也。又《周礼·大胥》云：“秋颁学合声。”其合声之时，则亦在大学。《文王世子》云：“凡大合乐，必遂养老。”郑云“春合舞，秋合声”。是养老在东序也，故知大合乐在东序。云“《燕礼》有庶子官，是以《义》载此以为说”者，案《燕礼》云：“主人升自西阶，献庶子于阼阶上。”又云：“庶子执烛。”是《燕礼》有庶子官也。以庶子於燕有事，是以《燕义》於此说庶子职掌，故云“载此以为说”也。<br/><br/>　<br/><br/>　　诸侯燕礼之义，君立阼阶之东南，南乡，尔卿，大夫皆少进，定位也。君席阼阶之上，居主位也。君独升立席上，西面特立，莫敢適之义也。定位者，为其始入踧蜡，揖而安定也。○乡，许亮反。適音敌，大历反，本亦作“敌”。为，于伪反，下文“为疑”同。踧，本亦作“蹴”，千六反。踖，子昔反，又积亦反。<br/><br/>　　[疏]“诸侯”至“义也”。○正义曰：此经说燕礼之初，君独升立於阼阶之上，明君尊莫敢敌之义也。皆引《燕礼》正经，记者以义说之。○“卿大夫皆少进，定位也”者，案《燕礼》：“卿大夫皆入门右，北面”，“君南乡，尔卿。卿西面，北上，尔大夫。大夫皆少进”，皆北面，所以然者，定群臣之位也。“定位”之语，是记者之辞也。○“君席阼阶之上，居主位也”者，居主位之语，亦记者辞也。“君独升立席上，西面特立，莫敢適之义也”者，“莫敢適”，言臣下莫敢与君敌匹而为礼，亦是记者之言也。<br/><br/>　<br/><br/>　　设宾主，饮酒之礼也。使宰夫为献主，臣莫敢与君亢礼也。不以公卿为宾，而以大夫为宾，为疑也，明嫌之义也。宾入中庭，君降一等而揖之，礼之也。设宾主者，饮酒致欢也。宰夫，主膳食之官也。天子使膳宰为主人。公，孤也。疑，自下上至之辞也。公卿尊矣，复以为宾，则尊与君大相近。○亢，苦浪反。使宰夫，本亦作“使膳夫”。上，时掌反。复，扶又反。大音泰，旧他佐反。近，附近之近。<br/><br/>　　[疏]“设宾”至“之也”。○正义曰：此经明《燕礼》臣莫敢亢君，君又屈而礼之也。○“而以大夫为宾，为疑也”者，公卿，朝臣之尊；宾又敌主之义。若以公卿为宾，疑其敌君之义，为其嫌疑，故所以使大夫为宾，明其远嫌之义也。○“君降一等而揖之，礼之也”，宾既至庭，君降阶一等而揖之，是以礼待於宾也，故云“礼之”。“礼之”亦记者辞也。○注“设宾”至“相近”。○正义曰：云“天子使膳宰为主人”者，《文王世子》文。云“公，孤也”者，此诸侯燕臣子之礼，而称“公”，故知是上公得置孤。孤止一人，而《燕礼》云“诸公”者，郑注彼云：“言‘诸’者，容牧有三监也。”云“疑，自下上至之辞也”，疑，拟也。是在下比拟於上，故云“自下上至之辞也”。云“尊与君大相近”，言公卿在朝，位与君相近。今若使为宾，被君所敬，则其尊与君大相逼近，故经云“以大夫为宾”，为其疑故也。<br/><br/>　<br/><br/>　　君举旅於宾，及君所赐爵，皆降，再拜稽首，升成拜，明臣礼也。君答拜之，礼无不答，明君上之礼也。臣下竭力尽能以立功於国，君必报之以爵禄，故臣下皆务竭力尽能以立功，是以国安而君宁。礼无不答，言上之不虚取於下也。上必明正道以道民，民道之而有功，然后取其什一，故上用足而下不匮也。是以上下和亲而不相怨也。和宁，礼之用也。此君臣上下之大义也。故曰：“燕礼者，所以明君臣之义也。”言圣人制礼，因事以讬政。臣再拜稽首，是其竭力也。君答拜之，是其报以禄惠也。○稽，徐本作“”，音启。以道音导，下同。什音十。匮，求位反。<br/><br/>　　[疏]“君举”至“义也”。○正义曰：此一经明《燕礼》臣尽礼於下、君答之於上、上下交欢而不相怨，明君臣之义也。○“君举礼於宾”者，谓举旅酬之酒以酬宾。○“及君所赐爵”者，特赐臣下之爵。○“皆降，再拜稽首，升成拜”者，谓宾受君之酬，及臣受君赐爵，皆降自西阶，再拜稽首。以受君恩，又升堂，更再拜稽首，以成拜也。故《燕礼》云：“公酬宾，宾降西阶下，再拜稽首。公命小臣辞，宾升成拜。”郑云：“升成拜，复再拜稽首也。”至礼杀之后，宾下堂，是欲拜。君则辞之，宾未拜也。宾乃升堂，再拜稽首。郑注云不言成拜者，以其下堂，未拜故也。《燕礼》云：“公卒觯，宾下拜，小臣辞。宾升，再拜稽首。”郑注云：“不言成拜者，为拜故下，宾未拜也。下不敢辄拜，礼杀也。”○“臣下竭力尽能以立功於国”者，案《燕礼》，君赐爵之时，再拜稽首，示竭力尽能立功於国也。○“君必报之以爵禄”者，以《燕礼》臣拜，君皆答之者，示君报之以爵禄也。○“礼无不答，言上之不虚取於下也”者，以《燕礼》凡臣之拜，君无不答拜之，示为上之道“不虚取於下”也，上必须报之也。○“上必明正道以道民，民道之而有功”者，上下必须相报，故在上明正教，以教道於民，民亦依君训道有功报上也。○“然后取其什一”者，前明君臣相报，此明君民上下相报。君既薄敛於上，民亦什一而税於下，故国家用足而下不匮乏，是上下和平亲睦，而不相怨恨也。○“和宁，礼之用也”者，“上下和亲”，是和也。“而不相怨”，是安宁也。和之与宁，礼之所用，以结成上文也。<br/><br/>　<br/><br/>　　席：小卿次上卿，大夫次小卿，士、庶子以次就位於下。献君，君举旅行酬，而后献卿。卿举旅行酬，而后献大夫。大夫举旅行酬，而后献士。士举旅行酬，而后献庶子。俎豆、牲体、荐羞，皆有等差，所以明贵贱也。牲体，俎实也。荐，谓脯醢也。羞，庶羞也。○差，初佳反，又初宜反。醢音海。<br/><br/>　　[疏]“席小”至“贱也”。○正义曰：此明尊卑上下席位之所，受献旅酬之差，贵贱先后之义。○“席，小卿次上卿”者，案《燕礼》，上卿在宾席之东，小卿在宾席之西，隔越於宾席，而云“次上卿”者，以俱南面东上，遥相次耳。○“大夫次小卿”者，案《燕礼》，大夫在小卿之西，故《燕礼》云：“辩献大夫，遂荐之。继宾以西，东上。”○“士庶子以次就位於下”者，《燕礼》於西阶上献士，既受献者立於阼阶下，西面北上。献庶子於阼阶上，既献立於阼阶下，故云“士庶子以次就位於下”也。○“献君，君举旅行酬”者，案《燕礼》，宰夫为主人酌以献宾，宾饮毕，酌以酢主人。主人饮毕，酌以献君。君饮毕，酌以酢主人。更爵以受酢于阼阶下，饮卒爵。主人又洗觚酬，主人先饮卒爵，酌以酬宾。宾受觚坐奠于荐东讫，小臣请媵爵者二人，媵爵阼阶下，皆北面媵爵于公。媵爵者先自饮毕。媵爵者洗象觯，酌奠于公席之前，公坐取所媵之觯以酬宾。宾於时下，再拜稽首，公命小臣辞。宾升，成拜。公立卒觯，宾乃受公虚爵，酌之，酬大夫于西阶上。众大夫相酬毕，奠虚觯于篚。”此是“献君，君举旅行酬”也。○“而后献卿，卿举旅行酬”者，案《燕礼》，主人洗，升，实散，献卿于西阶上。献卿毕，小臣又请媵爵者，公使二人媵爵，奠于公前。公又行一爵，若宾若长，唯公所酬，以旅于西阶上。大夫辩而止。此是为卿旅酬也。《燕礼》直云“卿”，不云小卿、大卿之异，则小卿、大卿俱同献也。○“而后献大夫，大夫举旅行酬”者，案《燕礼》，主人洗，献大夫于西阶上，大夫辩受献，乃纳工。献众工毕，公又举奠觯，唯公所赐，以旅于西阶上。此是献大夫，为大夫而旅酬也。○“而后献士，士举旅行酬”者，案《燕礼》，说屦，升堂坐之后，主人献士于西阶上。献士辩，又献旅食宾。媵觚于公，公坐取宾所媵觯，兴。唯公所赐。乃就席，坐行之，终於大夫。终受者兴，以酬士，士举旅于西阶上。此是献士为旅酬也。○“而后献庶子”者，庶子卑，不为之举旅，但无算爵之节，执爵者酌而旅之。○“俎豆、牲体、荐羞，皆有等差”者，公及卿、大夫、士等牲体、荐羞之节，皆有等差，但《燕礼》不载，无以言也。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1017-10305.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1017-10307.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1017.html" action-type="chapterComment" class="comment"><i></i>礼记正义章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

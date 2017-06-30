@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孔丛子》正文_荅问_孔鲋作品 - 维普阅读网</title>
+<meta name="keywords" content="孔丛子,孔丛子原文,孔丛子阅读,荅问全文,孔鲋作品" />
+<meta name="description" content="孔丛子原文阅读,荅问全文在线阅读,孔鲋作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-217-2410.html";
+var nextpage="novel-chapter-217.html";
+var indexpage = "novel-chapter-217.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-217.html">孔丛子</a></strong>
+<strong><a href="novel-chapter-217.html">孔丛子目录</a></strong>
+<span>荅问</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-217-2410.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>荅问</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=孔鲋&amp;searchsubmit=yes"  target="_blank">孔鲋</a><span class="divide">|</span>发布时间：2014-08-12 20:28:07<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>陈人有武臣谓子鲋曰、夫圣人者、诚高材美称也、吾谓圣人之知必见未形之前、功垂于身后立教而戾天弗犯、吐言而辩士不破也、子之先君可谓当之矣、然韩子立法、其所以异夫子之谓者纷如也、予每探其意而校其事、持久历远、遏奸劝善、韩氏未必非孔子未必得也、吾今而后乃知圣人无世不有、前圣后圣、法制固不一也、若韩非者、亦当世之圣人也、子鲋曰子信之为然是固未免凡俗也．今世人有言高者必以极天为称．言下者必以深渊为名．是资势之谈而无其实者也．好事而未凿也．必言经以自辅．援圣以自贤．欲以取信于群愚而度其说也．若诸子之书其义皆然．吾先君之所自志也．请略说一隅而君子审其信否焉．武臣曰诺．子鲋曰乃者赵韩共并知氏．赵襄子之行赏．先加具臣而后有功．韩非书云夫子善之．引以张本．然后难之．岂有不似哉．然实诈也．何以明其然．昔我先君以春秋哀公十六年四月巳丑卒．至二十七年．荀瑶与韩赵魏伐郑过东垣而还．是时夫子卒巳十一年矣．而晋四卿皆在也．后悼公十四年．知氏乃亡．此先后甚远．而韩非公称之曾无怍意．是则世多好事之徒皆非之罪也．故吾以是默口于小道塞耳于诸子久矣．而子立尺表以度天．植寸指以测渊．蒙大道而不悟．信诬说以疑圣．殆非所望也．武臣又手跪谢、施施而退、遂告人曰吾自以为学之博矣．而可否于孔氏．方知学不在多．要在精之也．陈王问太师曰、寡人不得为贤所推而得南面称孤．其幸多矣．今既赖二三君子．且又欲规久长之图．何施而可．荅曰信王之言．万世之福也．敢称古以对昔周代殷．乃兴灭继绝以为政首．今诚法之．则六国定不携．抑久长之本．王曰周存二代．别有三恪．其事云何．荅曰封夏殷之后以为二代．绍虞帝嗣备为三恪．恪敬也．礼之如宾客也．非谓特有二代别有三恪也．凡所以立二代者．备王道通三统也．王曰三统者何．荅曰各自用其正朔．二代与周．是谓三统．王曰六国之后君．吾不能封也．远世之王．于我何有．吾自举不及于周．又安能纯法之乎．<br/>陈王涉读国语言申生事、顾博士曰、始予信圣贤之道、乃今知其不诚也、先生以为何如、荅曰王何谓哉．王曰晋献惑听谗．而书又载骊姬夜泣公．而以信入其言．人之夫妇夜处幽室之中．莫能知其私焉．虽黔首犹然．况国君乎．予以是知其不信．乃好事者为之辞．将欲成其说以诬愚俗也．故使予并疑于圣人也．博士曰不然也．古者人君外朝则有国史．内朝则有女史．举则左史书之．言则右史书之．以无讳示后世．善以为式．恶以为戒．废而不记．史失其官．故凡若晋侯骊姬床第之私房中之事不得舍焉．若夫设教之言．驱群俗使人入道而不知其所以者也．今此皆书实事．累累若贯珠．可无疑矣．王曰先生真圣人之后风也．今幸得闻命．寡人无过焉．<br/><br/>陈王涉使周章为将西入关以诛秦、秦使将章邯拒之、陈王以秦国之乱也、有轻之之意、势若有余而不设敌备、博士太师谏、曰章邯、秦之名将周章非其敌也．今王使章霈然自得而不设备．臣窃惑焉．夫虽天之所舍．其祸福吉凶大者在天小者由人．今王不修人利以应天祥．若跌而不振．悔之无及也．王曰寡人之军．先生无累也．请先生息虑也．又谏曰臣闻兵法、无恃敌之不我攻．恃吾之不我攻也．今恃敌而不自恃．非良计也．王曰先生所言计策深妙．予不识也．先生休矣．巳而告人曰儒者可与守成．难与进取．信哉．博士他日复谏．曰臣闻国大兵众．无备难恃．一人善射百夫决拾．章邯枭将．卒皆死士也．周章若懦．使彼席卷来前．莫有当其锋者．王曰先生所称寡人昧昧焉．愿以人间近事喻之．答曰流俗之事．臣所不忍也．今王命之．敢不尽情．愿王察之也．臣昔在梁．梁人有阳由者．其力扛鼎．伎巧过人．骨腾肉飞．手搏●兽．国人惧之．然无治室之训．礼教不立．妻不畏惮．浸相泄渎．方乃积怒．妻坐于床答焉左手建杖．右手制其头．妻亦奋恚．因授以背．使杖击之．而自撮其阴．由乃仆地气绝而不能兴．邻人闻其凶凶也．窥而见之．趋而救之．妻愈戆忿．莫肯舍旃．或发其裳．然后乃放．夫以无敌之伎力而劣于女子之手者．何也．轻之无备故也．今王与秦角强弱．非若由之夫妻也．而轻秦过甚．臣是以惧．故区区之心．欲王备患之也．王曰譬类诚佳、然实不同也、弗听、周章果败而无后救、邯遂进兵击陈王、师大败、博士凡仕六旬、老于陈、将没、戒其弟子曰、鲁天下有仁义之国也．战国之世讲颂不衰．且先君之庙在焉．吾谓叔孙通处浊世而清其身学儒术而知权变．是今师也．宗于有道．必有令图．归必事焉． </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-217-2410.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-217.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-217.html" action-type="chapterComment" class="comment"><i></i>孔丛子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

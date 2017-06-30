@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《周礼》正文_秋官司寇·叙官_周公旦作品 - 维普阅读网</title>
+<meta name="keywords" content="周礼,周礼原文,周礼阅读,秋官司寇·叙官全文,周公旦作品" />
+<meta name="description" content="周礼原文阅读,秋官司寇·叙官全文在线阅读,周公旦作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-34-846.html";
+var nextpage="novel-read-34-848.html";
+var indexpage = "novel-chapter-34.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-34.html">周礼</a></strong>
+<strong><a href="novel-chapter-34.html">周礼目录</a></strong>
+<span>秋官司寇·叙官</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-34-846.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>秋官司寇·叙官</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=周公旦&amp;searchsubmit=yes"  target="_blank">周公旦</a><span class="divide">|</span>发布时间：2014-07-20 17:05:12<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/>　　惟王建国，辨方正位，体国经野，设官分职，设官分职，以为民极。乃立秋官司寇，使帅其属而掌邦禁，以佐王刑邦国。刑官之属：<br/><br/>　　大司寇，卿一人。小司寇，中大夫二人。士师，下大夫四人。乡士，上士八人、中士十有六人。旅，下士三十有二人、府六人、史十有二人、胥十有二人、徒百有二十人。 遂士，中士十有二人、府主人、史十有二人、胥十有二人、徒百有二十人。<br/><br/>　　县士，中士三十有二人、府八人、史十有六人、胥十有六人、徒百有六十人。<br/><br/>　　方士，中士十有六人、府八人、史十有六人、胥十有六人、徒百有六十人。 讶士，中士八人、府四人、史八人、胥八人、徒八十人。<br/><br/>　　朝士，中士六人、府三人、史六人、胥六人、徒六十人。<br/><br/>　　司民，中士六人、府三人、史六人、胥三人、徒三十人。<br/><br/>　　司刑，中士二人、府一人、史二人、胥二人、徒二十人。 司剌，下士二人、府二人、史二人、徒四人。 司约，下士二人、府一人、史二人、徒四人。<br/><br/>　　司盟，下士二人、府一人、史二人、徒四人。<br/><br/>　　职金，上士二人、下士四人、府二人、史四人、胥八人、徒八十人。 司厉，下士二人、史一人、徒十有二人。<br/><br/>　　犬人，下士二人、府一人、史二人、贾四人、徒十有六人。<br/><br/>　　司圜，中士六人、下士十有二人、府三人、史六人、胥十有六人、徒百有六十人。 掌囚，下士十有二人、府六人、史十有二人、徒百有二十人。<br/><br/>　　掌戮，下士二人、史一人、徒十有二人。 司隶，中士二人、下士十有二人、府五人、史十人、胥二十人、徒二百人。<br/><br/>　　罪隶，百有二十人。<br/><br/>　　蛮隶，百有二十人。<br/><br/>　　闽隶，百有二十人。 夷隶，百有二十人。 貉隶，百有二十人。<br/><br/>　　布宪，中士二人、下士四人、府二人、史四人、胥四人、徒四十人。<br/><br/>　　禁杀戮，下士二人、史一人、徒十有二人。<br/><br/>　　禁暴氏，下士六人、史三人、胥六人、徒六十人。<br/><br/>　　野庐氏，下士六人、胥十有二人、徒百有二十人。 蜡氏，下士四人、徒四十人。<br/><br/>　　雍氏，下士二人、徒八人。<br/><br/>　　萍氏，下士二人、徒八人。<br/><br/>　　司寤氏，下士二人、徒八人。<br/><br/>　　司烜氏，下士六人、徒十有二人。<br/><br/>　　条狼氏，下士六人、胥六人、徒六十人。 修闾氏，下士二人、史一人、徒十有二人。<br/><br/>　　冥氏，下士二人、徒八人。<br/><br/>　　庶氏，下士一人、徒四人。<br/><br/>　　穴氏，下士一人、徒四人。<br/><br/>　　翨氏，下士八人、徒二十人。<br/><br/>　　柞氏，下士二人、徒二十人。<br/><br/>　　薙蔟氏，下士一人、徒二人。<br/><br/>　　翦氏，下士一人、徒二人。 赤犮氏，下士一人、徒二人。<br/><br/>　　蝈氏，下士一人、徒二人。<br/><br/>　　壶涿氏，下士一人、徒二人。<br/><br/>　　庭氏，下士一人、徒二人。<br/><br/>　　衔枚氏，下士二人、徒八人。 伊耆氏，下士一人、徒二人。<br/><br/>　　大行人，中大夫二人。<br/><br/>　　小行人，下大夫四人。<br/><br/>　　司仪，上士八人、中士十有六人。<br/><br/>　　行夫，下士三十有二人、府四人、史八人、胥八人、徒八十人。 环人，中士四人、史四人、胥四人、徒四十人。<br/><br/>　　象胥，每翟，上士一人、中士二人、下士八人、徒二十人。 掌客，上士二人、下士四人、府一人、史二人、胥二人、徒二十人。<br/><br/>　　掌讶，中士八人、府二人、史四人、胥四人、徒四十人。<br/><br/>　　掌交，中士八人、府二人、史四人、徒三十有二人。<br/><br/>　　掌察，四方中士八人、史四人、徒十有六人。<br/><br/>　　掌货贿，下士十有六人、史四人、徒三十有二人。<br/><br/>　　朝大夫，每国上士二人、下士四人、府一人、史二人、庶子八人、徒二十人。<br/><br/>　　都则，中士一人、下士二人、府一人、史二人、庶子四人、徒八十人。<br/><br/>　　都士，中士二人、下士四人、府二人、史四人、胥四人、徒四十人。家士亦如之。<br/><br/>译文：<br/>　　王建立国都，辨别方向并确定[宗庙和朝廷的]位置，划分都城与郊野的界限。分设官职，用作民众的榜样。于是设立秋官司寇，让他率领下属，掌管天下的禁令，以辅佐王惩罚违法的诸侯国。<br/><br/>　　刑官的属官有：大司寇，由卿一人担任；小看]寇，由中大夫二人担任；士师，由下大夫四人担任；乡师，由上士八人担任；(还配有]中士十六人，众下士三十二人，府六人，史十二人，胥十二人，徒一百二十人。<br/><br/>　　遂士，由中士十二人担任，[还配有]府六人，史十二人，胥十二人，徒一百二十人。<br/><br/>　　县士，由中士三十二人担任，[还配有]府八人，史十六人，胥十六人，徒一百六十人。<br/><br/>　　方士，由中士十六人担任，[还配有]府八人，史十六人，胥十六人，徒一百六十人。<br/><br/>　　讶士，由中士八人担任，[还配有]府四人，史八人，胥八人，徒八十人。<br/><br/>　　朝土，由中士六人担任，[还配有]府三人，史六人，胥六人，徒六十人。<br/><br/>　　司民，由中士六人担任，[还配有]府三人，史六人，胥三人，徒三十人。<br/><br/>　　司刑，由中士二人担任，[还配有]府一人，史二人，胥二人，徒二十人。<br/><br/>　　司刺，由下士二人担任，[还配有]府一人，史二人，徒四人。<br/><br/>　　司约，由下土二人担任，[还配有]府一人，史二人，徒四人。<br/><br/>　　司盟，由下士二人担任，[还配有]府一人，史二人，徒四人。<br/><br/>　　职金，由上士二人担任，下士四人为副手，[还配有]府二人，史四人，胥八人，徒八十人。<br/><br/>　　司厉，由下士二人担任，[还配有]史一人，徒十有二人。<br/><br/>　　犬人，由下士二人担任，[还配有]府一人，史二人，贾四人，徒十六人。　<br/><br/>　　司圜，由中士六人担任，下士十二人为副手，[还配有]府三人，史六人，胥十六人，徒一百六十人。<br/><br/>　　掌囚，由下士十二人担任，[还配有]府六人，史十有二人，徒百有二十人。<br/><br/>　　掌戮，由下士二人担任，(还配有]史一人，徒十二人。<br/><br/>　　司隶，由中士二人担任，下士十二人为副手，[还配有]府五人，史十人，胥二十人，徒二百人。<br/><br/>　　罪隶，一百二十人。<br/><br/>　　蛮隶，一百二十人。<br/><br/>　　闽隶，一百二十人。<br/><br/>　　夷隶，一百二十人。<br/><br/>　　貉隶，一百二十人。<br/><br/>　　布宪，由中士二人担任，下士四人为副手，[还配有]府二人，史四人，胥四人，徒四十人。<br/><br/>　　禁杀戮，由下土二人担任，[还配有]史一人，徒十二人。<br/><br/>　　禁暴氏，由下士六人担任，[还配有]史三人，胥六人，徒六十人。<br/><br/>　　野庐氏，由下士六人担任，[还配有]胥十二人，徒一百二十人。<br/><br/>　　蜡氏，由下士四人担任，[还配有]徒四十人。<br/><br/>　　雍氏，由下士二人担任，[还配有]徒八人。<br/><br/>　　萍氏，由下士二人担任，[还配有]徒八人。<br/><br/>　　司寤氏，由下士二人担任，[还配有]徒八人。<br/><br/>　　司烜氏，由下士六人担任，[还配有]徒十六人。<br/><br/>　　条狼氏，由下士六(八)人担任，[还配有]胥六人，徒六十人。<br/><br/>　　修闾氏，由下士二人担任，[还配有]史一人，徒十二人。<br/><br/>　　冥氏，由下士二人担任，[还配有]徒八人。<br/><br/>　　庶氏，由下士一人担任，[还配有]徒四人。<br/><br/>　　穴氏，由下士一人担任，[还配有]徒四人。<br/><br/>　　翨氏，由下士二人担任，[还配有]徒八人。<br/><br/>　　柞氏，由下士八人担任，(还配有]徒二十人。<br/><br/>　　薙氏，由下士，[还配有]徒二十人。<br/><br/>　　薙蔟氏，由下士二人担任，(还配有]徒二人。<br/><br/>　　翦氏，由下士一人担任，[还配有]徒二人。<br/><br/>　　赤犮氏，由下士一人担任，[还配有]徒二人。<br/><br/>　　蝈氏，由下士一人担任，[还配有]徒二人。<br/><br/>　　壶涿氏，由下士一人担任，[还配有]徒二人。<br/><br/>　　庭氏，由下士一人担任，[还配有]徒二人。<br/><br/>　　衔枚氏，由下士二人担任。还配有]徒八人。<br/><br/>　　伊耆氏，由下士一人担任，[还配有]徒二人。<br/><br/>　　大行人，由中大夫二人担任；小行人，由下大夫四人担任；司仪，由上土八人担任，中士十六人为副手；行夫，由下士三十二人担任；[还配有]府四人，史八人，胥八人，徒八十人。 <br/><br/>　　环人．由中士四人担任，呸配有]史四人，胥四人，徒四十人。<br/><br/>　　象胥，每一少数民族设上士一人担任，中士二人为副手，[还配有]下士八人，徒二十人。<br/><br/>　　掌客，由上士二人担任，下士四人为副手，[还配有]府一人，史二人，胥二人，徒三(二)十人。<br/><br/>　　掌讶，由中土八人担任，[还配有]府二人，史四人，胥四人，徒四十人。<br/><br/>　　掌交，由中士八人担任，[还配有]府二人，史四人，徒三十二人。<br/><br/>　　掌察，四方共由中士八人担任，[还配有]史四人，徒十六人。<br/><br/>　　掌货贿，由下士十六人担任，[还配有]史四人，徒三十二人。 <br/><br/>　　朝大夫，每采邑[由王派]上士二人担任，下士四人为副手，(还配有]府一人，史二人，庶子八人，徒二十人。<br/><br/>　　都则，[每采邑]由中士一人担任，下士二人为副手，[还配有]府一人，史二人，庶子四人，徒八十人。<br/><br/>　　都士，(每都]由中士二人担任，下士四人为副手，[还配有]府二人，史四人，胥四人，徒四十人。家土的编制也是这样。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-34-846.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-34-848.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-34.html" action-type="chapterComment" class="comment"><i></i>周礼章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

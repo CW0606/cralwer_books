@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《史记三家注》正文_史记正义序_ 裴骃 &#9642; 司马贞 &#9642; 张守节作品 - 维普阅读网</title>
+<meta name="keywords" content="史记三家注,史记三家注原文,史记三家注阅读,史记正义序全文, 裴骃 &#9642; 司马贞 &#9642; 张守节作品" />
+<meta name="description" content="史记三家注原文阅读,史记正义序全文在线阅读, 裴骃 &#9642; 司马贞 &#9642; 张守节作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1031-10639.html";
+var nextpage="novel-read-1031-10641.html";
+var indexpage = "novel-chapter-1031.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1031.html">史记三家注</a></strong>
+<strong><a href="novel-chapter-1031.html">史记三家注目录</a></strong>
+<span>史记正义序</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1031-10639.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>史记正义序</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt= 裴骃 &#9642; 司马贞 &#9642; 张守节&amp;searchsubmit=yes"  target="_blank"> 裴骃 &#9642; 司马贞 &#9642; 张守节</a><span class="divide">|</span>发布时间：2014-11-28 23:34:25<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>诸王侍读宣议郎守右清道率府长史张守节上<br/>　　史记者，汉太史公司马迁作。迁生龙门，耕牧河山之阳，南游江、淮，讲学齐、鲁之郡，绍太史继春秋，括文鲁史，而包左氏、国语，采世本、战国策，而摭楚汉春秋，贯紬经传，旁搜史子，上起轩辕，下既天汉。作十二本纪，帝王兴废悉详。三十世家，君国存亡毕著。八书，赞阴阳礼乐。十表，定代系年封。七十列传，忠臣孝子之诚备矣。笔削冠于史籍，题目足以经邦。裴骃服其善序事理，辩而不华，质而不俚，其文直，其事核，不虚美，不隐恶，故谓之实录。自刘向、杨雄，皆称良史之才。况坟典湮灭，简册缺遗。比之春秋，言辞古质。方之两汉，文省理幽。守节涉学三十余年。六籍九流，地里苍雅，锐心观採评史汉，诠众训释而作正义。郡国城邑，委曲申明，古典幽微，窃控其美，索理永惬，次旧书之旨，兼音解注，引致旁通，凡成三十卷。名曰史记正义。发挥膏肓之辞，思济沧溟之海。未敢侔诸祕府，冀训诂而齐流。庶贻厥子孙，世畴兹史。于时岁次丙子开元二十四年八月，杀青斯竟。<br/>　　【考证】钱大昕曰：张守节《正义》，成于开元廿四年。小司马《索隐》前后序，则不著撰述之年，而《唐书·艺文志》注：贞开元润州别驾。是两人生于同时，而其书不相称引。司马长于驳辩，张长于地理，要皆龙门功臣，难以偏废。守节官诸王侍读宣议郎守右清道率府长史，《唐志》失书。小司马序自题国子博士弘文馆学士，而《唐志》云：润州别驾，殆终于别驾者与。《正义》、《索隐》两书，皆单行，不附于正史。今《索隐》，尚有汲古阁所刊单行之本。《正义》，旧本失传，卷帙次第，无可考矣。《四库全书提要》：是书据自序三十卷，晁公武、陈振孙二家所录则作二十卷。盖其标字列注，亦如《索隐》，后人散入句下，已非其书。至明代监本，採附《集解》、《索隐》之后，更多散节，失其本旨，地理脱十七条，故实注二十五条，音注脱二十三条，其他一两字之出入，殆千有余条，尤不可毛举。苟非震泽王氏刊本具存，无由知监本之妄删也。愚按我永正中有僧桃源者，著《史记桃源抄》，补记今本所删落正义，一千有余条，多者二三百字，少者亦十字二十字，皆震泽王氏刊本所无也。盖依僧幻云所录。幻云题《三注会刻本》云：吾邦有《索隐》本，有《正义》本，《索隐》与此注所载大同，至《正义》则此注所不载甚多，故标记诸栏外。东北大学，藏《史记》古活字本二种，一为庆长本，一为宽永本，栏外具补记正义，盖依桃源抄也。前田侯、爵书库，有博士家本《史记异字》五卷，所录《正义》，概与《桃源抄》合。今依此数本补订，以略复张氏之旧云。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1031-10639.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1031-10641.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1031.html" action-type="chapterComment" class="comment"><i></i>史记三家注章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

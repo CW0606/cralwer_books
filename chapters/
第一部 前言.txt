@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《蛙》正文_第一部 前言_莫言作品 - 维普阅读网</title>
+<meta name="keywords" content="蛙,蛙原文,蛙阅读,第一部 前言全文,莫言作品" />
+<meta name="description" content="蛙原文阅读,第一部 前言全文在线阅读,莫言作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-1248.html";
+var nextpage="novel-read-1248-22842.html";
+var indexpage = "novel-chapter-1248.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1248.html">蛙</a></strong>
+<strong><a href="novel-chapter-1248.html">蛙目录</a></strong>
+<span>第一部 前言</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-1248.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第一部 前言</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-23.html" target="blank">文学小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=莫言&amp;searchsubmit=yes"  target="_blank">莫言</a><span class="divide">|</span>发布时间：2015-03-26 22:13:03<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>尊敬的杉谷义人先生：<br/><br/>　　分别近月，但与您在我的故乡朝夕相处的情景，历历如在眼前。您不顾年迈体弱，跨海越国，到这落后、偏远的地方来与我和我故乡的文学爱好者畅谈文学，让我们深受感动。大年初二上午，在县招待所礼堂，您为我们做的题为《文学与生命》的长篇报告，已经根据录音整理成文字，如蒙允准，我们想在县文联的内部刊物《蛙鸣》上发表，使那天未能听您演讲的人们，也能领略您的语言风采并从中受到教益。<br/><br/>　　大年初一上午，我陪同您去拜访了我的当了五十多年妇科医生的姑姑。虽然因为她的语速太快和乡音浓重，使您没有完全听明白她说的话，但相信她一定给您留下了深刻的印象。您在初二上午的演讲中多次以我姑姑为例，来阐发您的文学观念。您说您的脑海里已经有了一个骑着自行车在结了冰的大河上疾驰的女医生形象，一个背着药箱、撑着雨伞、挽着裤脚、与成群结队的青蛙搏斗着前进的女医生的形象，一个手托婴儿、满袖血污、朗声大笑的女医生形象，一个口叼香烟、愁容满面、衣衫不整的女医生形象……您说这些形象时而合为一体，时而又各自分开，仿佛是一个人的一组雕像。您鼓励我们县的文学爱好者们能以我姑姑为素材写出感人的作品：小说、诗歌、戏剧。先生，创作的热情被您鼓动起来了，很多人跃跃欲试。县文化馆一位文友，已经动笔写作一部乡村妇科医生题材的小说。我不愿与他撞车，尽管我对姑姑的事迹了解得远比他多，但我还是把小说让给他写。先生，我想写一部以姑姑的一生为素材的话剧。初二日晚上在我家炕头上促膝倾谈时，您对法国作家萨特的话剧的高度评价和细致入微、眼光独到的分析，使我如醍醐灌顶、茅塞顿开！我要写，写出像《苍蝇》、《脏手》那样的优秀剧本，向伟大剧作家的目标勇猛奋进。我遵循着您的教导：不着急，慢慢来，像青蛙稳坐莲叶等待昆虫那样耐心；想好了下笔，像青蛙跃起捕虫那样迅疾。<br/><br/>　　在青岛机场，送您上飞机之前，您对我说，希望我用写信的方式，把姑姑的故事告诉您。姑姑的一生，虽然还没结束，但已经可以用“波澜壮阔”、“跌宕起伏”等大词儿来形容了。她的故事太多，我不知道这封信要写多长，那就请您原谅，请您允许，我信笔涂鸦，写到哪里算哪里，能写多长就写多长吧。在电脑时代，用纸、笔写信已经成为一种奢侈，当然也是乐趣，但愿您读我的信时，也能感受到一种古旧的乐趣。<br/><br/>　　顺便告诉您，我父亲打电话告诉我：正月二十五日那天，我家院子里那株因树形奇特而被您喻为“才华横溢”的老梅，绽放了红色的花朵。好多人都到我家去赏梅，我姑姑也去了。我父亲说那天下着毛茸茸的大雪，梅花的香气弥漫在雪花中，嗅之令人头脑清醒。<br/><br/>　　您的学生：蝌蚪<br/><br/>　　二OO二年三月二十一日北京</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-1248.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1248-22842.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1248.html" action-type="chapterComment" class="comment"><i></i>蛙章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

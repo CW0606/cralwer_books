@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孔子家语》正文_王言解_王肃作品 - 维普阅读网</title>
+<meta name="keywords" content="孔子家语,孔子家语原文,孔子家语阅读,王言解全文,王肃作品" />
+<meta name="description" content="孔子家语原文阅读,王言解全文在线阅读,王肃作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-349-5168.html";
+var nextpage="novel-read-349-5170.html";
+var indexpage = "novel-chapter-349.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-349.html">孔子家语</a></strong>
+<strong><a href="novel-chapter-349.html">孔子家语目录</a></strong>
+<span>王言解</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-349-5168.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>王言解</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王肃&amp;searchsubmit=yes"  target="_blank">王肃</a><span class="divide">|</span>发布时间：2014-09-05 21:36:12<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>孔子闲居，曾参侍。孔子曰：“参乎，今之君子，唯士与大夫之言可闻也。至于君子之言者，希也。于乎，吾以王言之，其不出户牖而化天下。”曾子起，下席而对曰：“敢问何谓王之言？”孔子不应，曾子曰：“侍夫子之闲也，难对，是以敢问。”孔子又不应。曾子肃然而惧，抠衣而退，负席而立。有顷，孔子叹息，顾谓曾子曰：“参，汝可语明王之道与？”曾子曰：“非敢以为足也，请因所闻而学焉。”子曰：“居，吾语汝。夫道者，所以明德也。德者，所以尊道也。是以非德道不尊，非道德不明。虽有国之良马，不以其道服乘之，不可以道里。虽有博地众民，不以其道治之，不可以致霸王。是故昔者明王内修七教，外行三至，七教修然后可以守，三至行然后可以征。明王之道，其守也则必折冲千里之外，其征则必还师衽席之上。故曰内修七教，而上不劳；外行三至，而财不费。此之谓明王之道也。”曾子曰：“不劳不费之谓明王，可得闻乎？”孔子曰：“昔者帝舜左禹而右皋陶，不下席而天下治，夫如此，何上之劳乎。政之不平，君之患也，令之不行，臣之罪也。若乃十一而税，用民之力，岁不过三日，入山泽以其时，而无征，关讥市●，皆不收赋，讥呵也讥异服识异言及市？皆不赋税古之法也此则生财之路，而明王节之，何财之费乎？”曾子曰：“敢问何谓七教？”孔子曰：“上敬老则下益孝，上尊齿则下益悌，上乐施则下益宽，上亲贤则下择友，上好德则下不隐，上恶贪则下耻争，上廉让则下耻节，此之谓七教。七教者，治民之本也。政教定，则本正也。凡上者，民之表也，表正则何物不正。是故人君先立仁于己，然后大夫忠而士信，民敦俗璞，璞悫愿貌男悫而女贞，六者，教之致也。布诸天下四方而不怨，纳诸寻常之室而不塞，等之以礼，立之以义，行之以顺，则民之弃恶，如汤之灌雪焉。”曾子曰：“道则至矣，弟子不足以明之。”孔子曰：“参以为姑止乎？又有焉。昔者明王之治民也，法必裂地以封之，分属以理之，然后贤民无所隐，暴民无所伏。使有司日省而时考之，进用贤良，退贬不肖，然则贤者悦而不肖者惧。哀鳏寡、养孤独、恤贫穷、诱孝悌、选才能。此七者修，则四海之内，无刑民矣。上之亲下也，如手足之于腹心。下之亲上也，如幼子之于慈母矣。上下相亲如此，故令则从，施则行，民怀其德，近者悦服，远者来附，政之致也。夫布指知寸，布手知尺，舒肘知寻，斯不远之则也。周制，三百步为里，千步为井，三井而埒，埒三而矩，此说里数不可以言井井自方里之名疑此误五十里而都封，百里而有国，乃为福积资求焉，恤行者有亡。是以蛮夷诸夏，虽衣冠不同，言语不合，莫不来宾。故曰无市而民不乏，无刑而民不乱。田猎罩弋，罩掩网弋缴射非以盈宫室也。征敛百姓，非以盈府库也。惨怛以补不足，礼节以损有余，多信而寡貌。其礼可守，其言可覆，其迹可履。如饥而食，如渴而饮。民之信之，如寒暑之必验。故视远若迩，非道迩也，见明德也。是故兵革不动而威，用利不施而亲，万民怀其惠，此之谓明王之守，折冲千里之外者也。”曾子曰：“敢问何谓三至？”孔子曰：“至礼不让而天下治，至赏不费而天下士悦，至乐无声而天下民和。明王笃行三至，故天下之君，可得而知，天下之士，可得而臣，天下之民，可得而用。”曾子曰：“敢问此义何谓？”孔子曰：“古者明王，必尽知天下良士之名，既知其名，又知其实，又知其数，及其所在焉。然后因天下之爵以尊之，此之谓至礼不让而天下治。因天下之禄以富天下之士，此之谓至赏不费而天下之士悦。如此，则天下之民，名誉兴焉，此之谓至乐无声而天下之民和。故曰：‘所谓天下之至仁者，能合天下之至亲也。所谓天下之至明者，能举天下之至贤者也。’此三者咸通，然后可以征。是故仁者莫大乎爱人，智者莫大乎知贤，贤政者莫大乎官能。有土之君，修此三者，则四海之内，供命而已矣。夫明王之所征，必道之所废者也，是故诛其君而改其政，吊其民而不夺其财。故明王之政，犹时雨之降，降至则民悦矣。是故行施弥博，得亲弥众此之谓还师衽席之上。”言安安而无忧</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-349-5168.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-349-5170.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-349.html" action-type="chapterComment" class="comment"><i></i>孔子家语章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

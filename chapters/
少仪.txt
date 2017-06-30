@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《礼记》正文_少仪_戴圣作品 - 维普阅读网</title>
+<meta name="keywords" content="礼记,礼记原文,礼记阅读,少仪全文,戴圣作品" />
+<meta name="description" content="礼记原文阅读,少仪全文在线阅读,戴圣作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-228-2881.html";
+var nextpage="novel-read-228-2883.html";
+var indexpage = "novel-chapter-228.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-228.html">礼记</a></strong>
+<strong><a href="novel-chapter-228.html">礼记目录</a></strong>
+<span>少仪</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-228-2881.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>少仪</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=戴圣&amp;searchsubmit=yes"  target="_blank">戴圣</a><span class="divide">|</span>发布时间：2014-08-18 22:45:47<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>闻始见君子者，辞曰：「某固愿闻名于将命者。」不得阶主。敌者曰：「某固愿见。」罕见曰：「闻名」。亟见曰：「朝夕」。瞽曰：「闻名」。适有丧者曰：「比」。童子曰：「听事」。适公卿之丧，则曰：「听役于司徒」。君将适他，臣如致金玉货贝于君，则曰：「致马资于有司」；敌者曰：「赠从者」。臣致禭于君，则曰：「致废衣于贾人」；敌者曰：「襚」。亲者兄弟不，以襚进。臣为君丧，纳货贝于君，则曰：「纳甸于有司」。赗马入庙门；赙马与其币，大白兵车，不入庙门。赙者既致命，坐委之，摈者举之。<br/><br/>　　主人无亲受也。受立，授立不坐。性之直者则有之矣。始入而辞，曰：「辞矣」。即席，曰：「可矣」。排阖说屦于户内者，一人而已矣。有尊长在则否。问品味曰：「子亟食于某乎？」问道艺曰：「子习于某乎？」、「子善于某乎？」不疑在躬，不度民械，不愿于大家，不訾重器。泛扫曰扫，扫席前曰拚；拚席不以鬣。执箕膺鬛。不贰问。问卜筮曰：「义与？志与？」义则可问，志则否。<br/><br/>　　尊长于己逾等，不敢问其年。燕见不将命。遇于道，见则面，不请所之。丧俟事不特吊。侍坐弗使，不执琴瑟，不画地，手无容，不翣也。寝则坐而将命。侍射则约矢，侍投则拥矢。胜则洗而以请，客亦如之。不角，不擢马。执君之乘车则坐。仆者右带剑，负良绥，申之面，拖诸幦，以散绥升，执辔然后步。请见不请退。朝廷曰退，燕游曰归，师役曰罢。侍坐于君子，君子欠伸，运笏，泽剑首，还屦，问日之蚤莫，虽请退可也。事君者量而后入，不入而后量；凡乞假于人，为人从事者亦然。然，故上无怨，而下远罪也。不窥密，不旁狎，不道旧故，不戏色。为人臣下者，有谏而无讪，有亡而无疾；颂而无谄，谏而无骄；怠则张而相之，废则扫而更之；谓之社稷之役。<br/><br/>　　毋拔来，毋报往，毋渎神，毋循枉，毋测未至。士依于德，游于艺；工依于法，游于说。毋訾衣服成器，毋身质言语。言语之美，穆穆皇皇；朝廷之美，济济翔翔；祭祀之美，齐齐皇皇；车马之美，匪匪翼翼；鸾和之美，肃肃雍雍。问国君之子长幼，长，则曰：「能从社稷之事矣」；幼，则曰：「能御」，「未能御」。问大夫之子长幼，长，则曰：「能从乐人之事矣」；幼，则曰：「能正于乐人」，未能正于乐人」。问士之子长幼，长，则曰：「能耕矣」；幼，则曰：「能负薪」、「未能负薪」。执玉执龟策不趋，堂上不趋，城上不趋。武车不式；介者不拜。<br/><br/>　　妇人吉事，虽有君赐，肃拜。为尸坐，则不手拜，肃拜；为丧主则不手拜。葛绖而麻带。取俎进俎不坐。执虚如执盈，入虚如有人。凡祭于室中堂上无跣，燕则有之。未尝不食新。<br/><br/>　　仆于君子，君子升下则授绥；始乘则式；君子下行，然后还立。乘贰车则式，佐车则否。贰车者，诸侯七乘，上大夫五乘，下大夫三乘。有贰车者之乘马服车不齿。观君子之衣服，服剑，乘马，弗贾。<br/><br/>　　其以乘壶酒，束修，一犬赐人，若献人，则陈酒执修以将命，亦曰乘壶酒，束修，一犬。其以鼎肉，则执以将命。其禽加于一双，则执一双以将命，委其余。犬则执绁；守犬，田犬，则授摈者，既受，乃问犬名。牛则执纼，马则执靮，皆右之。臣则左之。车则说绥，执以将命。甲若有以前之，则执以将命；无以前之，则袒櫜奉胄。哭则执盖。弓则以左手屈韣执拊。剑则启椟盖袭之，加夫桡与剑焉。笏、书、修、苞苴、弓、茵、席、枕、几、颖、杖、琴、瑟、戈有刃者椟、策、龠，其执之皆尚左手。刀却刃授颖。削授拊。凡有刺刃者，以授人则辟刃。<br/><br/>　　乘兵车，出先刃，入后刃，军尚左，卒尚右。宾客主恭，祭祀主敬，丧事主哀，会同主诩。军旅思险，隐情以虞。<br/><br/>　　燕侍食于君子，则先饭而后已；毋放饭，毋流歠；小饭而亟之；数�毋为口容。客自彻，辞焉则止。客爵居左，其饮居右；介爵、酢爵、僎爵皆居右。羞濡鱼者进尾；冬右腴，夏右鳍；祭膴。凡齐，执之以右，居之于左。赞币自左，诏辞自右。酌尸之仆，如君之仆。其在车则左执辔右受爵，祭左右轨范乃饮。凡羞有俎者，则于俎内祭。君子不食圂腴。小子走而不趋，举爵则坐祭立饮。凡洗必盥。牛羊之肺，离而不提心。凡羞有湇者，不以齐。为君子择葱薤，则绝其本末。羞首者，进喙祭耳。尊者以酌者之左为上尊。尊壶者面其鼻。饮酒者、禨者、醮者，有折俎不坐。未步爵，不尝羞。牛与羊鱼之腥，聂而切之为脍；麋鹿为菹，野豕为轩，皆聂而不切；麇为辟鸡，兔为宛脾，皆聂而切之。切葱若薤，实之酰以柔之。其有折俎者，取祭肺，反之，不坐；燔亦如之。尸则坐。<br/><br/>　　衣服在躬，而不知其名为罔。其未有烛而有后至者，则以在者告。道瞽亦然。凡饮酒为献主者，执烛抱燋，客作而辞，然后以授人。执烛不让，不辞，不歌。洗盥执食饮者勿气，有问焉，则辟咡而对。为人祭曰致福；为己祭而致膳于君子曰膳；祔练曰告。凡膳告于君子，主人展之，以授使者于阼阶之南，南面再拜稽首送；反命，主人又再拜稽首。其礼：大牢则以牛左肩、臂臑、折九个，少牢则以羊左肩七个，特豕则以豕左肩五个。国家靡敝，则车不雕几，甲不组縢，食器不刻镂，君子不履丝屦，马不常秣。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-228-2881.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-228-2883.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-228.html" action-type="chapterComment" class="comment"><i></i>礼记章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

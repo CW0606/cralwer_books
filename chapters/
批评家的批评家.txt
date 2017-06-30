@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《花边文学》正文_批评家的批评家_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="花边文学,花边文学原文,花边文学阅读,批评家的批评家全文,鲁迅作品" />
+<meta name="description" content="花边文学原文阅读,批评家的批评家全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-536-6812.html";
+var nextpage="novel-read-536-6814.html";
+var indexpage = "novel-chapter-536.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-536.html">花边文学</a></strong>
+<strong><a href="novel-chapter-536.html">花边文学目录</a></strong>
+<span>批评家的批评家</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-536-6812.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>批评家的批评家</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 21:22:17<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　 倪朔尔<br/><br/>　　情势也转变得真快，去年以前，是批评家和非批评家都批评文学，自然，不满的居多，但说好的也有。去年以来，却变了文学家和非文学家都翻了一个身，转过来来批评批评家了。<br/><br/>　　这一回可是不大有人说好，最彻底的是不承认近来有真的批评家。即使承认，也大大的笑他们胡涂。为什么呢？因为他们往往用一个一定的圈子向作品上面套（２），合就好，不合就坏。<br/><br/>　　但是，我们曾经在文艺批评史上见过没有一定圈子的批评家吗？都有的，或者是美的圈，或者是真实的圈，或者是前进的圈。没有一定的圈子的批评家，那才是怪汉子呢。办杂志可以号称没有一定的圈子，而其实这正是圈子，是便于遮眼的变戏法的手巾。譬如一个编辑者是唯美主义者罢，他尽可以自说并无定见，单在书籍评论上，就足够玩把戏。倘是一种所谓“为艺术的艺术”的作品，合于自己的私意的，他就选登一篇赞成这种主义的批评，或读后感，捧着它上天；要不然，就用一篇假急进的好像非常革命的批评家的文章，捺它到地里去。读者这就被迷了眼。但在个人，如果还有一点记性，却不能这么两端的，他须有一定的圈子。我们不能责备他有圈子，我们只能批评他这圈子对不对。<br/><br/>　　然而批评家的批评家会引出张献忠考秀才的古典来：先在两柱之间横系一条绳子，叫应考的走过去，太高的杀，太矮的也杀，于是杀光了蜀中的英才。（３）这么一比，有定见的批评家即等于张献忠，真可以使读者发生满心的憎恨。但是，评文的圈，就是量人的绳吗？论文的合不合，就是量人的长短吗？引出这例子来的，是诬陷，更不是什么批评。一月十七日。<br/><br/>　<br/>===============================================================<br/><br/><br/>　　（１）本篇最初发表于一九三四年一月二十一日《申报·自由谈》。<br/><br/>　　（２）用一个一定的圈子向作品上面套等论调，曾见于当时《现代》月刊所载的文章。如第四卷第三期（一九三四年一月）载刘莹姿《我所希望于新文坛上之批评家者》一文，说批评家“拿一套外国或本国的时髦圈子来套量作品的高低大小”，“这是充分地表明了我国新文坛尚无真挚伟大的批评家。”又第四卷第一期（一九三三年十一月）载苏汶《新的公式主义》一文中说：“友人张天翼君在他的短篇集《蜜蜂》的‘自题’里，对于近来的一些批评家，曾经说了几句很有趣的话，他说：‘他（指一位批评者——汶注）是不知从什么地方拿来了一个圈子，就拿这去套一切的文章。小了不合适，大了套不进：不行。恰恰套住：行。’”<br/><br/>　　（３）关于张献忠考秀才的说法，见清代彭遵泗的《蜀碧》一书：“贼诡称试士，于贡院前左右，设长绳离地四尺，按名序立，凡身过绳者，悉驱至西门外青羊宫杀之，前后近万人，笔砚委积如山。” </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-536-6812.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-536-6814.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-536.html" action-type="chapterComment" class="comment"><i></i>花边文学章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《集外集拾遗补编》正文_生理实验术要略_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="集外集拾遗补编,集外集拾遗补编原文,集外集拾遗补编阅读,生理实验术要略全文,鲁迅作品" />
+<meta name="description" content="集外集拾遗补编原文阅读,生理实验术要略全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-542-7218.html";
+var nextpage="novel-read-542-7220.html";
+var indexpage = "novel-chapter-542.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-542.html">集外集拾遗补编</a></strong>
+<strong><a href="novel-chapter-542.html">集外集拾遗补编目录</a></strong>
+<span>生理实验术要略</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-542-7218.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>生理实验术要略</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-01 21:05:02<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>一骨之有机及无机成分切兽骨作细片，煮之，则胶质出于水中，所余者为无机成分。或煅去其有机分亦可。 <br/><br/>　　用磷盐酸，浸骨片于中，历数日，则无机分溶解，所余者为有机成分。 <br/><br/>　　二横纹肌之纹 <br/><br/>　　取肌束一，切去其腱，次去肌膜，用针徐徐分析，逮得极细之糸（２），乃就显镜（三百倍）检之。无纹肌亦然。三食素（３）检出素（一）卵白质加密伦氏液（４），则成赤色。（密伦氏液制法：用汞一克，溶解于硝酸二克，次加水一倍，以漓薄之。）或先加苛性钾水溶液，次注入极薄之硫酸铜水溶液，则呈紫色。 <br/><br/>　　（二）含水炭素 <br/><br/>　　甲溶蒲萄糖于水，加菲林氏（Ｆｅｈｌｉｎｇ）液（５），则呈赭色。（菲林氏液制法：①硫酸铜二五克，加水一○○克；②酒石酸钠一克，苛性钠○·四克，加水一○○克。次取①一立方生密，②二·五立方生密，混合之即成。） <br/><br/>　　乙取蔗糖溶解于水，加硫酸少许，即成蒲萄糖。可用前术试之。 <br/><br/>　　丙取淀粉入水中，注入碘之酒精溶液，则呈蓝色。四唾之糖化作用 <br/><br/>　　取淀粉和水，纳试管中，煮令成糊。注以碘液，即成紫色。次又加水令薄，滴入唾液少许，置四十度温水中，当见紫色渐褪。若注入菲林氏液，即呈蒲萄糖之反应。五胃液之卵白消化作用煮卵白令凝，切作立方形，投人工胃液（取市肆所售沛普敦（６）二五克，加盐酸一○克，水二五○○克即成）中。加温（摄氏三十六、七度）至数十分时，当见立方之角，渐益浑同，知已成沛普敦，溶解于液。故加密伦氏液，则呈赤色。六膵液（７）之糖化作用取兽膵，置空气中一日，即浸于四十％之酒精中。数日后，滴以无水酒精，则其Ｓｔｅａｐｓｉｎ，Ｐｔｙａｌｉｎ，Ｔｒｙｐｓｉｎ（８）皆沉淀，是名Ｐａｎｃｒｅａｔｉｎ（９）。可用此试淀粉之糖化，术与第四则同。七膵液之脂肪分解作用用中性脂肪，（用肆中所售之阿列布油（１０），加重土水（１１），煮之令沸；逮冷，即浸诸以脱（１２）；数日以后，以脱中已函中性脂肪，可蒸发以脱而得之；若普通之脂肪，则其中已函脂酸，故不堪用）加Ｐａｎｃｒｅａｔｉｎ，并插入青色试纸（１３），则脂肪分解，成格里舍林（１４）及脂酸，故试纸转为赤色。八血之固体及液体成分用新血入玻璃管中，外围以水，（马血则不需此，）靖立良久，血汁及血轮（１５）二者，即渐离析。 <br/><br/>　　九糸素（１６）用新血入皿中，急搅以箸，则糸素渐多，绕于箸端。所余者为血清，不能凝固。糸素虽作赤色，以水涤之，即成纯白。 <br/><br/>　　十血轮 <br/><br/>　　（一）赤血轮作○·六五％之食盐水，滴于左手无名指背侧之端，取锐鍼贯水刺之，则血出即入水中，不触空气。乃置玻璃片上，以显镜检之，当见其浮游液中，均作镜状。次加水令淡，则展如板状。加盐令浓，则收缩如荔支。 <br/><br/>　　（二）白血轮用极细玻璃管，吸入新血，吹酒灯之火，封其两端，就显镜检之即见。 <br/><br/>　　十一血之循环 <br/><br/>　　用薄板或原纸一枚，大如掌，一侧作一小孔。次以Ｃｈｌｏ－ｒｏｆｏｒｍ（１７）醉蛙（须二十分时，或用针破其小脑亦可，）令卧于板，剖腹展其肠间膜，蒙于孔上，四围固定以针（或树刺），令不皱缩。乃就显镜视之，可见循环之状。赤血轮在中央，白血轮则循管壁。倘历时久，则宜略润以水，俾勿乾。十二呼出之气内含炭酸 <br/><br/>　　用新制石灰水，（旧者不可用；制法为浸生石灰于水，少顷，取上部之澄明者纳瓶中，加盖待用，）置器中。又取玻璃管一，一端入水，一端*ビ诳诖抵��虺蚊髦���*变白如乳，成炭酸石灰。（（ＨＯ）２Ｃａ＋ＣＯ２＝ＣＯ３Ｃａ＋Ｈ２Ｏ）十三生物失空气则死取鼠或小鸟入排气钟内，去其空气验之。 <br/><br/>　　十四脑及脊髓之作用用以脱醉蛙，取锯切开头骨，去其大脑。置半身于水，察其举止。当见姿势不失，其他器官，亦无障碍，而意志已亡，任置何处，决不自动，惟反其身，令腹向上，或直接加撄，乃运动耳。 <br/><br/>　　次去其小脑及延髓，则姿势顿失，呼吸亦止。然以脊髓尚在，故取火焚其足，则举足以避。或用醋酸滴于肤，亦举足欲除去之。此其反射作用也。 <br/><br/>　　次更以针纵贯脊髓，则上述作用，一切俱亡。（然因神经及肌肉未能即死，故直接加撄，亦尚呈反应，特甚微耳。）==============================================================================<br/><br/><br/>　　（１）本篇最初发表于一九一四年十月四日杭州《教育周报》，署名周树人。原为鲁迅在浙江两级师范学堂任生理学教员时所编讲义《人生象"隆返母铰迹�⒈硎本��*者修订，原无标点，有句读。（２）糸同丝。 <br/><br/>　　（３）食素日文名词，意为食物营养成分。 <br/><br/>　　（４）密伦氏液（Ｍｉｌｌｏｎ’ｓｒｅａｇｅｎｔ）鉴别酪氨酸（蛋白质的成分之一）的经典试剂，因其发明者法国化学家密伦（Ｎ．Ｍｉｌｌｏｎ，１８１２—１８６７）而得名。 <br/><br/>　　（５）菲林氏液（Ｆｅｈｌｉｎｇ’ｓｓｏｌｎｔｉｏｎ）鉴定、分析糖的经典试剂，因其发明者德国化学家斐林（Ｈ．ｖｏｎＦｅｈｌｉｎｇ，１８１２—１８８５）而得名。 <br/><br/>　　（６）沛普敦Ｐｅｐｔｏｎｅ的音译，即蛋白胨，又称消化蛋白质。（７）膵液即胰液。 <br/><br/>　　（８）Ｓｔｅａｐｓｉｎ胰脂酶。Ｐｔｙａｌｉｎ，唾液淀粉酶。Ｔｒｙｐｓｉｎ，胰蛋白酶。 <br/><br/>　　（９）Ｐａｎｃｒｅａｔｉｎ胰酶制剂。 <br/><br/>　　（１０）阿列布油（Ｏｌｉｖｅｏｉｌ）即橄榄油。（１１）重土水即钡盐（重晶石）。 <br/><br/>　　（１２）以脱Ｅｔｈｅｒ的音译，即乙醚。 <br/><br/>　　（１３）青色试纸即蓝色的石蕊试纸，在酸性溶液中则变为红色。 <br/><br/>　　（１４）格里舍林Ｇｌｉｃｅｒｉｎｅ的音译，即甘油。（１５）血汁即血浆，含有血清和纤维蛋白原。血轮，即血球。（１６）糸素指血浆中的纤维蛋白原。 <br/><br/>　　（１７）Ｃｈｌｏｒｏｆｏｒｍ音译哥罗芳，即三氯甲烷，一种麻醉剂。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-542-7218.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-542-7220.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-542.html" action-type="chapterComment" class="comment"><i></i>集外集拾遗补编章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

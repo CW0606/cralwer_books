@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《文心雕龙》正文_卷十八 论说_刘勰作品 - 维普阅读网</title>
+<meta name="keywords" content="文心雕龙,文心雕龙原文,文心雕龙阅读,卷十八 论说全文,刘勰作品" />
+<meta name="description" content="文心雕龙原文阅读,卷十八 论说全文在线阅读,刘勰作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-665-8499.html";
+var nextpage="novel-read-665-8501.html";
+var indexpage = "novel-chapter-665.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-665.html">文心雕龙</a></strong>
+<strong><a href="novel-chapter-665.html">文心雕龙目录</a></strong>
+<span>卷十八 论说</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-665-8499.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷十八 论说</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘勰&amp;searchsubmit=yes"  target="_blank">刘勰</a><span class="divide">|</span>发布时间：2014-10-20 20:52:13<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　圣哲彝训曰经，述经叙理曰论。论者，伦也；伦理无爽，则圣意不坠。昔仲尼微言，门人追记，故抑其经目，称为《论语》。盖群论立名，始于兹矣。自《论语》以前，经无“论”字。《六韬》二论，后人追题乎！<br/><br/>　　详观论体，条流多品∶陈政则与议说合契，释经则与传注参体，辨史则与赞评齐行，铨文则与叙引共纪。故议者宜言，说者说语，传者转师，注者主解，赞者明意，评者平理，序者次事，引者胤辞：八名区分，一揆宗论。论也者，弥纶群言，而研精一理者也。<br/><br/>　　是以庄周《齐物》，以论为名；不韦《春秋》，六论昭列。至石渠论艺，白虎通讲，述圣通经，论家之正体也。及班彪《王命》，严尤《三将》，敷述昭情，善入史体。魏之初霸，术兼名法。傅嘏、王粲，校练名理。迄至正始，务欲守文；何晏之徒，始盛玄论。于是聃周当路，与尼父争途矣。详观兰石之《才性》，仲宣之《去伐》，叔夜之《辨声》，太初之《本无》，辅嗣之《两例》，平叔之二论，并师心独见，锋颖精密，盖论之英也。至如李康《运命》，同《论衡》而过之；陆机《辨亡》，效《过秦》而不及，然亦其美矣。<br/><br/>　　次及宋岱、郭象，锐思于几神之区；夷甫、裴頠，交辨于有无之域；并独步当时，流声后代。然滞有者，全系于形用；贵无者，专守于寂寥。徒锐偏解，莫诣正理；动极神源，其般若之绝境乎？逮江左群谈，惟玄是务；虽有日新，而多抽前绪矣。至如张衡《讥世》，颇似俳说；孔融《孝廉》，但谈嘲戏；曹植《辨道》，体同书抄。言不持正，论如其已。<br/><br/>　　原夫论之为体，所以辨正然否。穷于有数，究于无形，钻坚求通，钩深取极；乃百虑之筌蹄，万事之权衡也。故其义贵圆通，辞忌枝碎，必使心与理合，弥缝莫见其隙；辞共心密，敌人不知所乘：斯其要也。是以论如析薪，贵能破理。斤利者，越理而横断；辞辨者，反义而取通；览文虽巧，而检迹知妄。唯君子能通天下之志，安可以曲论哉？<br/><br/>　　若夫注释为词，解散论体，杂文虽异，总会是同。若秦延君之注《尧典》，十馀万字；朱文公之解《尚书》，三十万言，所以通人恶烦，羞学章句。若毛公之训《诗》，安国之传《书》，郑君之释《礼》，王弼之解《易》，要约明畅，可为式矣。<br/><br/>　　说者，悦也；兑为口舌，故言资悦怿；过悦必伪，故舜惊谗说。说之善者∶伊尹以论味隆殷，太公以辨钓兴周，及烛武行而纾郑，端木出而存鲁：亦其美也。<br/><br/>　　暨战国争雄，辨士云涌；从横参谋，长短角势；转丸骋其巧辞，飞钳伏其精术。一人之辨，重于九鼎之宝；三寸之舌，强于百万之师。六印磊落以佩，五都隐赈而封。至汉定秦楚，辨士弭节。郦君既毙于齐镬，蒯子几入乎汉鼎；虽复陆贾籍甚，张释傅会，杜钦文辨，楼护唇舌，颉颃万乘之阶，抵戏公卿之席，并顺风以托势，莫能逆波而溯洄矣。<br/><br/>　　夫说贵抚会，弛张相随，不专缓颊，亦在刀笔。范雎之言疑事，李斯之止逐客，并顺情入机，动言中务，虽批逆鳞，而功成计合，此上书之善说也。至于邹阳之说吴梁，喻巧而理至，故虽危而无咎矣；敬通之说鲍邓，事缓而文繁，所以历骋而罕遇也。<br/><br/>　　凡说之枢要，必使时利而义贞，进有契于成务，退无阻于荣身。自非谲敌，则唯忠与信。披肝胆以献主，飞文敏以济辞，此说之本也。而陆氏直称“说炜晔以谲诳”，何哉？<br/><br/>　　赞曰∶<br/><br/>　　理形于言，叙理成论。词深人天，致远方寸。<br/><br/>　　阴阳莫忒，鬼神靡遁。说尔飞钳，呼吸沮劝。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-665-8499.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-665-8501.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-665.html" action-type="chapterComment" class="comment"><i></i>文心雕龙章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

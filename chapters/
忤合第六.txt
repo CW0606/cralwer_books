@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《鬼谷子》正文_忤合第六_鬼谷子作品 - 维普阅读网</title>
+<meta name="keywords" content="鬼谷子,鬼谷子原文,鬼谷子阅读,忤合第六全文,鬼谷子作品" />
+<meta name="description" content="鬼谷子原文阅读,忤合第六全文在线阅读,鬼谷子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-24-356.html";
+var nextpage="novel-read-24-358.html";
+var indexpage = "novel-chapter-24.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-24.html">鬼谷子</a></strong>
+<strong><a href="novel-chapter-24.html">鬼谷子目录</a></strong>
+<span>忤合第六</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-24-356.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>忤合第六</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鬼谷子&amp;searchsubmit=yes"  target="_blank">鬼谷子</a><span class="divide">|</span>发布时间：2014-07-19 00:37:39<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/><br/>　　凡趋合倍反，计有适合。化转环属，各有形势，反覆相求，因事为制。是以圣人居天地之间，立身、御世、施教、扬声、明名也；必因事物之会，观天时之宜，因知所多所少，以此先知之，与之转化。<br/>　　世无常贵，事无常师；圣人无常与，无不与；无所听，无不听；成于事而合于计谋，与之为主。合于彼而离于此，计谋不两忠，必有反忤；反于是，忤于彼；忤于此，反于彼。其术也，用之于天下，必量天下而与之；用之于国，必量国而与之；用之于家，必量家而与之；用之于身，必量身材气势而与之；大小进退，其用一也。必先谋虑计定，而后行之以飞箝之术。<br/>　　古之善背向者，乃协四海，包诸侯忤合之地而化转之，然后求合。故伊尹五就汤，五就桀，而不能所明，然后合于汤。吕尚三就文王，三入殷，而不能有所明，然后合于文王，此知天命之箝，故归之不疑也。<br/>　　非至圣达奥，不能御世；非劳心苦思，不能原事；不悉心见情，不能成名；材质不惠，不能用兵；忠实无实，不能知人；故忤合之道，己必自度材能知睿，量长短远近孰不知，乃可以进，乃可以退，乃可以纵，乃可以横。<br/>　　【注释】<br/>　　忤，相背；合，相向。合于此，必忤于彼。良臣须择主而事。<br/><br/>译文：<br/><br/>　　凡是有关联合或对抗的行动，都会有相应的计策。变化和转移就像铁环一样环连而无中断。然而，变化和转移又各有各的具体情形。彼此之间环转反复，互相依赖，需要根据实际情况进行控制。所以圣人生活在世界上，立身处世都是为了说教众人，扩大影响，宣扬名声。他们还必须根据事物之间的联系来考察天时，以便抓住有利时机。国家哪些方面有余，哪些方面不足，都要从这里出发去掌握，并设法促进事物向有利的方面转化。世界上的万事万物没有永远占领高贵地位的，世界上的万事万物也没有永远居于榜样地位的。圣人常常是无所不做，无所不听。办成要办的事，实现预定的计谋，都是为了自己的主人，合乎那一方的利益，就要背叛这一方的利益。凡是计谋不可能同时忠于两个对立的君主，必然违背某一方的意愿。合乎这一方的意愿，就要违背另一方的意愿；违背另一方的意愿，才可能合乎这一方的意愿。这就是“忤合”之术。如果把这种“忤合”之术运用到天下，必然要把全天下都放在忤合之中；如果把这种“忤合”之术用到某个国家，就必然把整个国家放在忤合之中；如果把这种“忤合”之术运用到某个家族，就必然要把整个家族都放在忤合之中；如果把这种“忤合”之术用到某一个人，就必然要把这个人的才能气势都放在忤合之中。总之，无论把这种“忤合”之术用在大的范围，还是用在小的范围，其功用是相同的。因此，无论在何时何地都要进行谋划、分析，计算准确了以后再实行“忤合”之术。<br/><br/>　　古代那些善于通过背离一方、趋向一方而横行天下的人。常常掌握四海之内的各种力量，控制各个诸侯，促成“忤合”转化的趋势，然后达成“合”于圣贤君主的目的。过去伊尹五次臣服商汤，五次臣服夏桀，其行动目的还未被世人所知，就决定一心臣服商汤王。吕尚三次臣服周文王，三次臣服殷纣王，其行动目的还未显露于世人，就最后归服了周文王。这就是懂得天命的制约，所以才能归顺一主而毫不犹豫。对于一个纵横家来说，如果没有高尚的品德，超人的智慧，不可能通晓深层的规律，就不可能驾驭天下；如果不肯用心苦苦思考，就不可能揭示事物的本来面目；如果不会全神贯注地考察事物的实际情况，就不可能功成名就；如果才能、胆量都不足，就不能统兵作战；如果只是愚忠呆实而无真知灼见，就不可能有察人之明。所以，“忤合”的规律是：要首先自我估量聪明才智，然后度量他人的优劣长短，分析在远近范围之内还比不上谁。只有在这样知己知彼以后，才能随心所欲，可以前进，可以后退；可以合纵，可以连横。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-24-356.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-24-358.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-24.html" action-type="chapterComment" class="comment"><i></i>鬼谷子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

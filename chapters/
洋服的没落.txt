@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《花边文学》正文_洋服的没落_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="花边文学,花边文学原文,花边文学阅读,洋服的没落全文,鲁迅作品" />
+<meta name="description" content="花边文学原文阅读,洋服的没落全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-536-6824.html";
+var nextpage="novel-read-536-6826.html";
+var indexpage = "novel-chapter-536.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-536.html">花边文学</a></strong>
+<strong><a href="novel-chapter-536.html">花边文学目录</a></strong>
+<span>洋服的没落</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-536-6824.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>洋服的没落</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 21:25:32<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>几十年来，我们常常恨着自己没有合意的衣服穿。清朝末年，带些革命色采的英雄不但恨辫子，也恨马褂和袍子，因为这是满洲服。一位老先生到日本去游历，看见那边的服装，高兴的了不得，做了一篇文章登在杂志上，叫作《不图今日重见汉官仪》（２）。他是赞成恢复古装的。<br/><br/>　　然而革命之后，采用的却是洋装，这是因为大家要维新，要便捷，要腰骨笔挺。少年英俊之徒，不但自己必洋装，还厌恶别人穿袍子。那时听说竟有人去责问樊山老人（３），问他为什么要穿满洲的衣裳。樊山回问道：“你穿的是那里的服饰呢？”少年答道：“我穿的是外国服。”樊山道：“我穿的也是外国服。”<br/><br/>　　这故事颇为传诵一时，给袍褂党扬眉吐气。不过其中是带一点反对革命的意味的，和近日的因为卫生，因为经济的大两样。后来，洋服终于和华人渐渐的反目了，不但袁世凯朝，就定袍子马褂为常礼服，（４）五四运动之后，北京大学要整饬校风，规定制服了，请学生们公议，那议决的也是：袍子和马褂！<br/><br/>　　这回的不取洋服的原因却正如林语堂先生所说，因其不合于卫生。（５）造化赋给我们的腰和脖子，本是可以弯曲的，弯腰曲背，在中国是一种常态，逆来尚须顺受，顺来自然更当顺受了。所以我们是最能研究人体，顺其自然而用之的人民。脖子最细，发明了砍头；膝关节能弯，发明了下跪；臀部多肉，又不致命，就发明了打屁股。违反自然的洋服，于是便渐渐的自然的没落了。<br/><br/>　　这洋服的遗迹，现在已只残留在摩登男女的身上，恰如辫子小脚，不过偶然还见于顽固男女的身上一般。不料竟又来了一道催命符，是镪水悄悄从背后洒过来了。（６）这怎么办呢？<br/><br/>　　恢复古制罢，自黄帝以至宋明的衣裳，一时实难以明白；学戏台上的装束罢，蟒袍玉带，粉底皂靴，坐了摩托车吃番菜，实在也不免有些滑稽。所以改来改去，大约总还是袍子马褂牢稳。虽然也是外国服，但恐怕是不会脱下的了——这实在有些稀奇。<br/><br/>　　四月二十一日。<br/><br/>　<br/>===============================================================<br/><br/><br/>　　（１）本篇最初发表于一九三四年四月二十五日《申报·自由谈》，署名士繇。<br/><br/>　　（２）《不图今日重见汉官仪》作者署名英伯，发表于一九○三年九月留日学生在东京办的《浙江潮》第七期。此题目原语出《后汉书·光武帝纪》：王莽被杀后，刘秀（即后来的汉光武帝）带了僚属到长安，当地吏士见到他们，“皆欢喜不自胜。老吏或垂涕曰：‘不图今日复见汉官威仪！’”按原语中“汉”指汉朝，英伯文中则指汉族。（３）樊山老人即樊增祥（１８４６—１９３１），号樊山，湖北恩施人，近代文人。“我穿的也是外国服”，据易宗夔《新世说·言语》记载，这是清代文学家王闿运的故事：“王壬甫硕学耆老，性好诙谑。辛亥之冬，民国成立，士夫争剪发辫，改用西式衣冠。适公八十初度，贺者盈门，公仍用前清冠服，客笑问之。公曰：‘予之冠服，固外国式；君辈衣服，讵中国式耶？若能优孟衣冠，方为光复汉族矣。’客亦无以难之。”（４）一九一二年十月，袁世凯政府曾下令定长袍马褂为男子常礼服。<br/><br/>　　（５）林语堂在一九三四年四月十六日《论语》第三十九期发表的《论西装》一文中说：“西装之所以成为一时风气而为摩登士女所乐从者，唯一的理由是一般人士震于西洋文物之名而好为效颦，在伦理上，美感上，卫生上是决无立足根据的。”<br/><br/>　　（６）据一九三四年四月十四日《新生》周刊第一卷第十期载：“杭（州）市发见摩登破坏铁血团，以硝镪水毁人摩登衣服，并发警告服用洋货的摩登士女书”。当时北京、上海等地都出现过这类事。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-536-6824.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-536-6826.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-536.html" action-type="chapterComment" class="comment"><i></i>花边文学章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

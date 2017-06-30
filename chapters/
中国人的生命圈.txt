@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《伪自由书》正文_中国人的生命圈_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="伪自由书,伪自由书原文,伪自由书阅读,中国人的生命圈全文,鲁迅作品" />
+<meta name="description" content="伪自由书原文阅读,中国人的生命圈全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-550-7511.html";
+var nextpage="novel-read-550-7513.html";
+var indexpage = "novel-chapter-550.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-550.html">伪自由书</a></strong>
+<strong><a href="novel-chapter-550.html">伪自由书目录</a></strong>
+<span>中国人的生命圈</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-550-7511.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>中国人的生命圈</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-04 21:20:54<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>“蝼蚁尚知贪生”，中国百姓向来自称“蚁民”，我为暂时保全自己的生命计，时常留心着比较安全的处所，除英雄豪杰之外，想必不至于讥笑我的罢。 <br/><br/>　　不过，我对于正面的记载，是不大相信的，往往用一种另外的看法。例如罢，报上说，北平正在设备防空，我见了并不觉得可靠；但一看见载着古物的南运（２），却立刻感到古城的危机，并且由这古物的行踪，推测中国乐土的所在。 <br/><br/>　　现在，一批一批的古物，都集中到上海来了，可见最安全的地方，到底也还是上海的租界上。 <br/><br/>　　然而，房租是一定要贵起来的了。 <br/><br/>　　这在“蚁民”，也是一个大打击，所以还得想想另外的地方。 <br/><br/>　　想来想去，想到了一个“生命圈”。这就是说，既非“腹地”，也非“边疆”（３），是介乎两者之间，正如一个环子，一个圈子的所在，在这里倒或者也可以“苟延性命于×世”（４）的。 <br/><br/>　　“边疆”上是飞机抛炸弹。据日本报，说是在剿灭“兵匪”；据中国报，说是屠戮了人民，村落市廛，一片瓦砾。“腹地”里也是飞机抛炸弹。据上海报，说是在剿灭“共匪”，他们被炸得一塌胡涂；“共匪”的报上怎么说呢，我们可不知道。但总而言之，边疆上是炸，炸，炸；腹地里也是炸，炸，炸。虽然一面是别人炸，一面是自己炸，炸手不同，而被炸则一。只有在这两者之间的，只要炸弹不要误行落下来，倒还有可免“血肉横飞”的希望，所以我名之曰“中国人的生命圈”。 <br/><br/>　　再从外面炸进来，这“生命圈”便收缩而为“生命线”；再炸进来，大家便都逃进那炸好了的“腹地”里面去，这“生命圈”便完结而为“生命○”（５）。 <br/><br/>　　其实，这预感是大家都有的，只要看这一年来，文章上不大见有“我中国地大物博，人口众多”的套话了，便是一个证据。而有一位先生，还在演说上自己说中国人是“弱小民族”哩。 <br/><br/>　　但这一番话，阔人们是不以为然的，因为他们不但有飞机，还有他们的“外国”！ <br/><br/>　　四月十日。 <br/>　<br/>===============================================================<br/><br/>　　（１）本篇最初发表于一九三三年四月十四日《申报·自由谈》，署名何家干。 <br/><br/>　　（２）古物的南运据一九三三年二月至四月间报载，国民党政府已将北平故宫博物院、历史语言研究所等所存古物近二万箱，分批南运到上海，存放于租界的仓库中。 <br/><br/>　　（３）“腹地”指江西等地区工农红军根据地。一九三三年二月至四月，蒋介石在第四次反革命“围剿”的后期，调集五十万兵力进攻中央革命根据地，并出动飞机滥肆轰炸。“边疆”，指当时热河一带。一九三三年三月日军占领承德后，又向冷口、古北口、喜峰口等地进迫，出动飞机狂炸，人民死伤惨重。 <br/><br/>　　（４）“苟延性命于×世”语出诸葛亮《前出师表》：“苟全性命于乱世，不求闻达于诸侯。” <br/><br/>　　（５）“生命○”即“生命零”，意思是存身之处完全没有了。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-550-7511.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-550-7513.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-550.html" action-type="chapterComment" class="comment"><i></i>伪自由书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

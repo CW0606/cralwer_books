@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《素问》正文_气穴论篇第五十八_黄帝作品 - 维普阅读网</title>
+<meta name="keywords" content="素问,素问原文,素问阅读,气穴论篇第五十八全文,黄帝作品" />
+<meta name="description" content="素问原文阅读,气穴论篇第五十八全文在线阅读,黄帝作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-269-4639.html";
+var nextpage="novel-read-269-4641.html";
+var indexpage = "novel-chapter-269.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-269.html">素问</a></strong>
+<strong><a href="novel-chapter-269.html">素问目录</a></strong>
+<span>气穴论篇第五十八</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-269-4639.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>气穴论篇第五十八</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=黄帝&amp;searchsubmit=yes"  target="_blank">黄帝</a><span class="divide">|</span>发布时间：2014-08-30 14:42:09<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>黄帝问曰：余闻气穴三百六十五，以应一岁，未知其所，愿卒闻之。岐伯稽首再拜对曰：窘乎哉问也！其非圣帝，孰能穷其道焉！因请溢意尽言其处。帝捧手逡巡而却曰：夫子之开余道也，目未见其处，耳未闻其数，而目以明，耳以聪矣。岐伯曰：此所谓圣人易语，良马易御也。帝曰：余非圣人之易语也，世言真数开人意，今余所访问者真数，发蒙解惑，未足以论也。然余愿闻夫子溢志尽言其处，令解其意，请藏之金匮，不敢复出。<br/>　　岐伯再拜而起曰：臣请言之，背与心相控而痛，所治天突与十椎及上纪，上纪者，胃脘也，下纪者，关元也。背胸邪系阴阳左右，如此其病前后痛濇，胸胁痛而不得息，不得卧，上气短气偏痛，脉满起，斜出尻脉，络胸胁支心贯鬲，上肩加天突，斜下肩交十椎下。<br/>　　藏俞五十穴，府俞七十二穴，热俞五十九穴，水俞五十七穴，头上五行行五，五五二十五穴，中两傍各五，凡十穴，大椎上两傍各一，凡二穴，目瞳子浮白二穴，两髀厌分中二穴，犊鼻二穴，耳中多所闻二穴，眉本二穴，完骨二穴，顶中央一穴，枕骨二穴，上关二穴，大迎二穴，下关二穴，天柱二穴，巨虚上下廉四穴，曲牙二穴，天突一穴，天府二穴，天牖二穴，扶突二穴，天窗二穴，肩解二穴，关元一穴，委阳二穴，肩贞二穴，瘖门一穴，齐一穴，胸俞十二穴，背俞二穴，膺俞十二穴，分肉二穴，踝上横二穴，阴阳蹻四穴，水俞在诸分，热俞在气穴，寒热俞在两骸厌中二穴，大禁二十五，在天府下五寸，凡三百六十五穴，针之所由行也。<br/>　　帝曰：余已知气穴之处，游针之居，愿闻孙络谿谷，亦有所应乎？岐伯曰：孙络三百六十五穴会，亦以应一岁，以溢奇邪，以通荣卫，荣卫稽留，卫散荣溢，气竭血著，外为发热，内为少气，疾写无怠，以通荣卫，见而写之，无问所会。<br/>　　帝曰：善。愿闻谿谷之会也。岐伯曰：肉之大会为谷，肉之小会为谿，肉分之间，谿谷之会，以行荣卫，以会大气。邪溢气壅，脉热肉败荣卫不行，必将为脓，内销骨髓，外破大膕，留于节湊，必将为败。积寒留舍，荣卫不居，卷肉缩筋，肋肘不得伸，内为骨痹，外为不仁，命曰不足，大寒留于谿谷也。谿谷三百六十五穴会，亦应一岁，其小痹淫溢，循脉往来，微针所及，与法相同。<br/>　　帝乃辟左右而起，再拜曰：今日发蒙解惑，藏之金匮，不敢复出，乃藏之金兰之室，署曰气穴所在。岐伯曰：孙络之脉别经者，其血盛而当写者，亦三百六十五脉，并注于络，传注十二络脉，非独十四络脉也，内解写于中者十脉。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-269-4639.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-269-4641.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-269.html" action-type="chapterComment" class="comment"><i></i>素问章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

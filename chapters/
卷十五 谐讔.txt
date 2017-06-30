@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《文心雕龙》正文_卷十五 谐讔_刘勰作品 - 维普阅读网</title>
+<meta name="keywords" content="文心雕龙,文心雕龙原文,文心雕龙阅读,卷十五 谐讔全文,刘勰作品" />
+<meta name="description" content="文心雕龙原文阅读,卷十五 谐讔全文在线阅读,刘勰作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-665-8496.html";
+var nextpage="novel-read-665-8498.html";
+var indexpage = "novel-chapter-665.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-665.html">文心雕龙</a></strong>
+<strong><a href="novel-chapter-665.html">文心雕龙目录</a></strong>
+<span>卷十五 谐讔</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-665-8496.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷十五 谐讔</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘勰&amp;searchsubmit=yes"  target="_blank">刘勰</a><span class="divide">|</span>发布时间：2014-10-20 20:51:42<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　芮良夫之诗云∶“自有肺肠，俾民卒狂。”夫心险如山，口壅若川，怨怒之情不一，欢谑之言无方。昔华元弃甲，城者发睅目之讴；臧纥丧师，国人造侏儒之歌；并嗤戏形貌，内怨为俳也。又蚕蟹鄙谚，狸首淫哇，苟可箴戒，载于礼典，故知谐辞讔言，亦无弃矣。<br/><br/>　　谐之言皆也，辞浅会俗，皆悦笑也。昔齐威酣乐，而淳于说甘酒；楚襄宴集，而宋玉赋好色。意在微讽，有足观者。及优旃之讽漆城，优孟之谏葬马，并谲辞饰说，抑止昏暴。是以子长编史，列传滑稽，以其辞虽倾回，意归义正也。但本体不雅，其流易弊。于是东方、枚皋，餔糟啜醨，无所匡正，而诋?曼媟弄，故其自称“为赋，乃亦俳也，见视如倡”，亦有悔矣。至魏人因俳说以著笑书，薛综凭宴会而发嘲调，虽抃笑衽席，而无益时用矣。然而懿文之士，未免枉辔；潘岳丑妇之属，束皙卖饼之类，尤而效之，盖以百数。魏晋滑稽，盛相驱扇，遂乃应瑒之鼻，方于盗削卵；张华之形，比乎握舂杵。曾是莠言，有亏德音，岂非溺者之妄笑，胥靡之狂歌欤？<br/><br/>　　讔者，隐也。遁辞以隐意，谲譬以指事也。昔还社求拯于楚师，喻眢井而称麦麹；叔仪乞粮于鲁人，歌珮玉而呼庚癸；伍举刺荆王以大鸟，齐客讥薛公以海鱼；庄姬托辞于龙尾，臧文谬书于羊裘。隐语之用，被于纪传。大者兴治济身，其次弼违晓惑。盖意生于权谲，而事出于机急，与夫谐辞，可相表里者也。汉世《隐书》，十有八篇，歆、固编文，录之赋末。<br/><br/>　　昔楚庄、齐威，性好隐语。至东方曼倩，尤巧辞述。但谬辞诋戏，无益规补。自魏代以来，颇非俳优，而君子嘲隐，化为谜语。谜也者，回互其辞，使昏迷也。或体目文字，或图象品物，纤巧以弄思，浅察以衒辞，义欲婉而正，辞欲隐而显。荀卿《蚕赋》，已兆其体。至魏文、陈思，约而密之。高贵乡公，博举品物，虽有小巧，用乖远大。观夫古之为隐，理周要务，岂为童稚之戏谑，搏髀而忭笑哉！然文辞之有谐讔，譬九流之有小说，盖稗官所采，以广视听。若效而不已，则髡朔之入室，旃孟之石交乎？<br/><br/>　　赞曰∶<br/><br/>　　古之嘲隐，振危释惫。虽有丝麻，无弃菅蒯。<br/><br/>　　会义适时，颇益讽诫。空戏滑稽，德音大坏。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-665-8496.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-665-8498.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-665.html" action-type="chapterComment" class="comment"><i></i>文心雕龙章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

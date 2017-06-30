@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孔子家语》正文_郊问_王肃作品 - 维普阅读网</title>
+<meta name="keywords" content="孔子家语,孔子家语原文,孔子家语阅读,郊问全文,王肃作品" />
+<meta name="description" content="孔子家语原文阅读,郊问全文在线阅读,王肃作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-349-5194.html";
+var nextpage="novel-read-349-5196.html";
+var indexpage = "novel-chapter-349.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-349.html">孔子家语</a></strong>
+<strong><a href="novel-chapter-349.html">孔子家语目录</a></strong>
+<span>郊问</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-349-5194.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>郊问</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王肃&amp;searchsubmit=yes"  target="_blank">王肃</a><span class="divide">|</span>发布时间：2014-09-05 21:46:39<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>定公问于孔子曰：“古之帝王必郊祀其祖以配天，何也？”孔子对曰：“万物本于天，人本乎祖，郊之祭也，大报本反始也，故以配上帝。天垂象，圣人则之，郊所以明天道也。”公曰：“寡人郊而莫同，何也？”孔子曰：“郊之祭也，迎长日之至也，周人始以日至之月冬日至而日长大报天而主日配以月，故周之始郊，其月以日至，其日用上辛，至于启蛰之月，则又祈谷于上帝，祈求也为农祈谷于上帝月令孟春之月乃以元日祈谷于上帝兼无仲冬大郊之事至于祈农与天子同故春秋传曰夫郊祀后稷以祈农事也是故启蛰而郊郊而后耕而说学者不知推经礼之指归皮肤妄说至乃颠倒神只变易时日迁改兆位良可痛心者也此二者天子之礼也。鲁无冬至，大郊之事降杀于天子，是以不同也。”公曰：“其言郊，何也？”孔子曰：“兆丘于南，所以就阳位也，于郊，故谓之郊焉。”兆丘于南谓之圆丘兆之于南郊也然则郊之名有三焉筑为圆丘以象天自然故谓之圆丘圆丘之人所造故谓之泰坛于南郊在南说学者谓南郊与圆丘异若是则诗易尚书谓不圜丘也又不通泰坛之名或乃谓周官圜丘虚妄之言皆不通典制也曰：“其牲器何如？”孔子曰：“上帝之牛角玺栗，必在涤三月，涤所以养生具后稷之牛唯具，别祀稷时牲亦刍之三月配天之时献故唯具之也所以别事天神与人鬼也，别彼列切牲用骍，尚赤也，用犊，贵诚也，犊质悫贵诚之美也扫地而祭于其质也，地圜丘之地扫焉而祭贵其质也器用陶匏，以象天地之性也，人之作物无可称之故取天地之性以自然也万物无可称之者，故因其自然之体也。”公曰：“天子之郊，其礼仪可得闻乎？”孔子对曰：“臣闻天子卜郊，则受命于祖庙，而作龟于祢宫，祢宫父庙也受祭天之命于祖而作龟于父庙尊祖亲考之义也。卜之日，王亲立于泽宫，以听誓命，受教谏之义也，泽宫宫也誓命祭天所行威仪也王亲受之故曰受教谏之义既卜，献命库门之内，所以诫百官也。将郊，则天子皮弁以听报，示民严上也。报白也王夙兴朝服以待白祭事后服衮郊之日，丧者不敢哭，凶服者不敢入国门，汜扫清路，行者必止，汜遍也清路以新土无复行之弗命而民听，敬之至也。以王恭敬事天故民化之不令而行之也天子大裘以黼之，被衮象天，大裘为黼文也言被之大裘其有象天之文故被之道路至大坛而脱之乘素车，贵其质也，旗十有二旒，龙章而设以日月，所以法天也，既至泰坛，王脱裘矣，服衮以临，燔柴戴冕，璪十有二旒，则天数也。臣闻之诵诗三百，不足以一献，祭群小祀一献之礼，不足以大飨，大飨祫祭天王大飨之礼，不足以大旅，大旅祭五帝也大旅具矣，不足以飨帝，飨帝祭天是以君子无敢轻议于礼者也。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-349-5194.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-349-5196.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-349.html" action-type="chapterComment" class="comment"><i></i>孔子家语章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《楚辞》正文_九辨_屈原作品 - 维普阅读网</title>
+<meta name="keywords" content="楚辞,楚辞原文,楚辞阅读,九辨全文,屈原作品" />
+<meta name="description" content="楚辞原文阅读,九辨全文在线阅读,屈原作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-257-4132.html";
+var nextpage="novel-read-257-4134.html";
+var indexpage = "novel-chapter-257.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-257.html">楚辞</a></strong>
+<strong><a href="novel-chapter-257.html">楚辞目录</a></strong>
+<span>九辨</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-257-4132.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>九辨</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=屈原&amp;searchsubmit=yes"  target="_blank">屈原</a><span class="divide">|</span>发布时间：2014-08-27 20:37:31<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>悲哉，秋之为气也！<br/>萧瑟兮草木摇落而变衰。<br/>憭栗兮若在远行，登山临水兮送将归。<br/>泬漻兮天高而气清，寂寥兮收潦而水清。<br/>憯悽增欷兮，薄寒之中人，<br/>怆怳懭悢兮，去故而就新。<br/>坎廪兮贫士失职而志不平，<br/>廓落兮羁旅而无友生，<br/>惆怅兮而私自怜！<br/>燕翩翩其辞归兮，蝉寂漠而无声。<br/>雁廱廱而南游兮，鹍鸡啁哳而悲鸣。<br/>独申旦而不寐兮，哀蟋蟀之宵征。<br/>时亹亹而过中兮，蹇淹留而无成。<br/>悲忧穷戚兮独处廓，有美一人兮心不绎。<br/>去乡离家兮来远客，超逍遥兮今焉薄！<br/>专思君兮不可化，君不知兮可奈何！<br/>蓄怨兮积思，心烦憺兮忘食事。<br/>原一见兮道余意，君之心兮与余异。<br/>车既驾兮朅而归，不得见兮心伤悲。<br/>倚结軨兮长太息，涕潺湲兮下霑轼。<br/>忼慨绝兮不得，中瞀乱兮迷惑。<br/>私自怜兮何极？心怦怦兮谅直。<br/>皇天平分四时兮，窃独悲此凛秋。<br/>白露既下百草兮，奄离披此梧楸。<br/>去白日之昭昭兮，袭长夜之悠悠。<br/>离芳蔼之方壮兮，余萎约而悲愁。<br/>秋既先戒以白露兮，冬又申之以严霜。<br/>收恢台之孟夏兮，然欿傺而沉藏。<br/>叶菸邑而无色兮，枝烦挐而交横。<br/>颜淫溢而将罢兮，柯仿佛而萎黄。<br/>萷櫹椮之可哀兮，形销铄而瘀伤。<br/>惟其纷糅而将落兮，恨其失时而无当。<br/>揽騑辔而下节兮，聊逍遥以相佯。<br/>岁忽忽而遒尽兮，恐余寿之弗将。<br/>悼余生之不时兮，逢此世之俇攘。<br/>澹容与而独倚兮，蟋蟀鸣此西堂。<br/>心怵惕而震荡兮，何所忧之多方。<br/>卬明月而太息兮，步列星而极明。<br/>窃悲夫蕙华之曾敷兮，纷旖旎乎都房。<br/>何曾华之无实兮，从风雨而飞飏！<br/>以为君独服此蕙兮，羌无以异于众芳。<br/>闵奇思之不通兮，将去君而高翔。<br/>心闵怜之惨悽兮，愿一见而有明。<br/>重无怨而生离兮，中结轸而增伤。<br/>岂不郁陶而思君兮？君之门以九重！<br/>猛犬狺狺而迎吠兮，关梁闭而不通。<br/>皇天淫溢而秋霖兮，后土何时而得漧？<br/>塊独守此无泽兮，仰浮云而永叹！<br/>何时俗之工巧兮？背绳墨而改错！<br/><br/>郤骐骥而不乘兮，策驽骀而取路。<br/>当世岂无骐骥兮，诚莫之能善御。<br/>见执辔者非其人兮，故駶跳而远去。<br/>凫雁皆唼夫梁藻兮，凤愈飘翔而高举。<br/>圜凿而方枘兮，吾固知其鉏铻而难入。<br/>众鸟皆有所登棲兮，凤独遑遑而无所集。<br/>原衔枚而无言兮，尝被君之渥洽。<br/>太公九十乃显荣兮，诚未遇其匹合。<br/>谓骐骥兮安归？谓凤皇兮安棲？<br/>变古易俗兮世衰，今之相者兮举肥。<br/>骐骥伏匿而不见兮，凤皇高飞而不下。<br/>鸟兽犹知怀德兮，何云贤士之不处？<br/>骥不骤进而求服兮，凤亦不贪餧而妄食。<br/>君弃远而不察兮，虽原忠其焉得？<br/>欲寂漠而绝端兮，窃不敢忘初之厚德。<br/>独悲愁其伤人兮，冯郁郁其何极？<br/>霜露惨悽而交下兮，心尚幸其弗济。<br/>霰雪雰糅其增加兮，乃知遭命之将至。<br/>原徼幸而有待兮，泊莽莽与野草同死。<br/>原自往而径游兮，路壅绝而不通。<br/>欲循道而平驱兮，又未知其所从。<br/>然中路而迷惑兮，自压桉而学诵。<br/>性愚陋以褊浅兮，信未达乎从容。<br/>窃美申包胥之气盛兮，恐时世之不固。<br/>何时俗之工巧兮？灭规矩而改凿！<br/>独耿介而不随兮，原慕先圣之遗教。<br/>处浊世而显荣兮，非余心之所乐。<br/>与其无义而有名兮，宁穷处而守高。<br/>食不媮而为饱兮，衣不苟而为温。<br/>窃慕诗人之遗风兮，原讬志乎素餐。<br/>蹇充倔而无端兮，泊莽莽而无垠。<br/>无衣裘以御冬兮，恐溘死不得见乎阳春。<br/>靓杪秋之遥夜兮，心缭悷而有哀。<br/>春秋逴逴而日高兮，然惆怅而自悲。<br/>四时递来而卒岁兮，阴阳不可与俪偕。<br/>白日晼晚其将入兮，明月销铄而减毁。<br/>岁忽忽而遒尽兮，老冉冉而愈弛。<br/>心摇悦而日幸兮，然怊怅而无冀。<br/>中憯恻之悽怆兮，长太息而增欷。<br/>年洋洋以日往兮，老嵺廓而无处。<br/>事亹亹而觊进兮，蹇淹留而踌躇。<br/>何氾滥之浮云兮？猋壅蔽此明月。<br/>忠昭昭而原见兮，然霠曀而莫达。<br/>原皓日之显行兮，云蒙蒙而蔽之。<br/>窃不自聊而原忠兮，或黕点而汙之。<br/>尧舜之抗行兮，瞭冥冥而薄天。<br/>何险巇之嫉妒兮？被以不慈之伪名。<br/>彼日月之照明兮，尚黯黮而有瑕。<br/>何况一国之事兮，亦多端而胶加。<br/>被荷裯之晏晏兮，然潢洋而不可带。<br/><br/>既骄美而伐武兮，负左右之耿介。<br/>憎愠惀之修美兮，好夫人之慷慨。<br/>众踥蹀而日进兮，美超远而逾迈。<br/>农夫辍耕而容与兮，恐田野之芜秽。<br/>事緜緜而多私兮，窃悼後之危败。<br/>世雷同而炫曜兮，何毁誉之昧昧！<br/>今修饰而窥镜兮，後尚可以竄藏。<br/>愿寄言夫流星兮，羌倏忽而难当。<br/>卒壅蔽此浮云，下暗漠而无光。<br/>尧舜皆有所举任兮，故高枕而自适。<br/>谅无怨于天下兮，心焉取此怵惕？<br/>乘骐骥之浏浏兮，驭安用夫强策？<br/>谅城郭之不足恃兮，虽重介之何益？<br/>邅翼翼而无终兮，忳惛惛而愁约。<br/>生天地之若过兮，功不成而无嶜。<br/>原沉滞而不见兮，尚欲布名乎天下。<br/>然潢洋而不遇兮，直怐愗而自苦。<br/>莽洋洋而无极兮，忽翱翔之焉薄？<br/>国有骥而不知乘兮，焉皇皇而更索？<br/>宁戚讴于车下兮，桓公闻而知之。<br/>无伯乐之相善兮，今谁使乎誉之？<br/>罔流涕以聊虑兮，惟著意而得之。<br/>纷纯纯之愿忠兮，妒被离而鄣之。<br/>原赐不肖之躯而别离兮，放游志乎云中。<br/>乘精气之抟抟兮，骛诸神之湛湛。<br/>骖白霓之習習兮，历群灵之丰丰。<br/>左硃雀之茇茇兮，右苍龙之躣躣。<br/>属雷师之阗阗兮，通飞廉之衙衙。<br/>前轻辌之锵锵兮，后辎乘之从从。<br/>载云旗之委蛇兮，扈屯骑之容容。<br/>计专专之不可化兮，原遂推而为臧。<br/>赖皇天之厚德兮，还及君之无恙！</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-257-4132.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-257-4134.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-257.html" action-type="chapterComment" class="comment"><i></i>楚辞章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

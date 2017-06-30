@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《针灸甲乙经》正文_经脉（下） _皇甫谧作品 - 维普阅读网</title>
+<meta name="keywords" content="针灸甲乙经,针灸甲乙经原文,针灸甲乙经阅读,经脉（下） 全文,皇甫谧作品" />
+<meta name="description" content="针灸甲乙经原文阅读,经脉（下） 全文在线阅读,皇甫谧作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-518-6320.html";
+var nextpage="novel-read-518-6322.html";
+var indexpage = "novel-chapter-518.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-518.html">针灸甲乙经</a></strong>
+<strong><a href="novel-chapter-518.html">针灸甲乙经目录</a></strong>
+<span>经脉（下） </span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-518-6320.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>经脉（下） </strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=皇甫谧&amp;searchsubmit=yes"  target="_blank">皇甫谧</a><span class="divide">|</span>发布时间：2014-09-23 21:20:35<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>三阳为经，二阳为维，一阳为游部。三阳者，太阳也，至手太阴而弦，浮而不沉，决以度，察以心，合之阴阳之论。二阳者，阳明也，至手太阴弦而沉急不鼓，炅至以病皆死。一阳者，少阳也，至手太阴上连人迎弦急悬不绝，此少阳之病也，搏阴则死。三阴者，六经之所主也，交于太阴，伏鼓不浮，上空至心。二阴至肺，其气归于膀胱，外连脾胃。一阴独至，经绝气浮不鼓，钩而滑。此六脉者，乍阴乍阳，交属相并，缪通五脏，合于阴阳。先至为主，后至为客。三阳为父，二阳为卫，一阳为纪；三阴为母，二阴为雌，一阴为独使。二阳一阴，阳明主脾（一本无脾字）病，不胜一阴，脉软而动，九窍皆沉。三阳一阴，太阳脉胜，一阴不能止，内乱五脏，外为惊骇。二阴二阳，病在肺，少阳（一作阴）脉沉，胜肺伤脾，故外伤四肢。二阴二阳皆交至，病在肾，骂詈妄行，癫疾为狂。二阴一阳，病出于肾，阴气客游于心，脘下空窍，堤闭塞不通，四支别离。一阴一阳代绝，此阴气至心，上下无常，出入不知，喉嗌干燥，病在土脾。二阳三阴，至阴皆在，阴不过阳，阳气不能止阴，阴阳并绝，浮为血瘕，沉为脓胕也。三阳独至者，是三阳并至，并至如风雨，上为癫疾，下为漏血病。三阳者，至阳也。积并则为惊，病起如风霹雳，九窍皆塞，阳气滂溢，嗌干喉塞。并于阴则上下无常，薄为肠澼。此谓三阳直心，坐不得起卧者，身重，三阳之病也。<br/><br/>　　黄帝问曰：脉有四时动奈何？岐伯对曰：六合之内，天地之变，阴阳之应，彼春之暖，为夏之暑，彼秋之忿，为冬之怒，四变之动，脉与之上下，以春应中规，夏应中矩，秋应中衡，冬应中权。是故冬至四十五日，阳气微上，阴气微下；夏至四十五日，阴气微上，阳气微下。阴阳有时，与脉为期，期而相失，如脉所分，分之有期，故知死时。微妙在脉，不可不察，察之有纪，从阴阳始。是故声合五音，色合五行，脉合阴阳。持脉有道，虚静为宝。春日浮，如鱼之游在波；夏日在肤，泛泛乎万物有余；秋日下肤，蛰虫将去；冬日在骨，蛰虫周密，君子居室。故曰知内者，按而纪之；知外者，终而始之，此六者，持脉之大法也。<br/><br/>　　赤脉之至也，喘而坚，诊曰，有积气在中，时害于食，名曰心痹，得之外疾，思虑而心虚，故邪从之。<br/><br/>　　白脉之至也，喘而浮，上虚下实，惊，为积气在胸中，喘而虚，名曰肺痹，寒热，得之醉而使内也。<br/><br/>　　黄脉之至也，大而虚，有积气在腹中，有厥气，名曰厥疝，女子同法，得之疾使四肢汗出当风。<br/><br/>　　青脉之至也，长而弦，左右弹，有积气在心下支胠，名曰肝痹，得之寒湿，与疝同法，腰痛足清头痛（一本云头脉紧）。<br/><br/>　　黑脉之至也，上坚而大，有积气在少腹与阴，名曰肾痹，得之沐浴，清水而卧。<br/><br/>　　形气有余，脉气不足死；脉气有余，形气不足生；形气相得，谓之可治。脉弱以滑，是有胃气，命曰易治，治之趋之，无后其时。形气相失，谓之难治；色夭不泽，谓之难已；脉实以坚，谓之益甚；脉逆四时，谓之不治。所谓逆四时者，春得肺脉，夏得肾脉，秋得心脉，冬得脾脉，其至皆悬绝沉涩者，名曰逆四时。未有脏形，于春夏而脉沉涩，秋冬而脉浮大，病热脉静，泄而脉大，脱血而脉实，病在中而脉实坚，病在外而脉不实坚者，皆为难治，名曰逆四时也。<br/><br/>　　曰：愿闻虚实之要？曰：气实形实，气虚形虚，此其常也，反此者病。谷盛气盛，谷虚气虚，此其常也，反此者病。脉实血实，脉虚血虚，此其常也，反此者病。气盛身寒气虚身热曰反，谷入多而气少曰反，谷不入而气多曰反，脉盛血少曰反，脉少血多曰反。气盛身寒，得之伤寒；气虚身热，得之伤暑。谷入多而气少者，得之有所脱血，湿居其下也；谷入少而气多者，邪在胃及与肺也。脉少血多者，饮中热也；脉大血少者，脉有风气，水浆不入，此谓反也。夫实者气入也，虚者气出也。气实者热也，气虚者寒也。入实者，左手开针孔也；入虚者，左手闭针孔也。<br/><br/>　　脉小色不夺者，新病也；脉不夺色夺者，久病也；脉与五色俱夺者，久病也；脉与五色俱不夺者，新病也。肝与肾脉并至，其色苍赤，当病毁伤，不见血，已见血，湿若中水也。尺内两傍则季胁也，尺外以候肾，尺里以候腹中。附上，左外以候肝，内以候鬲；右外以候胃，内以候脾。上附上，右外以候肺，内以候胸中；左外以候心，内以候膻中。前以候前，后以候后。上竟上者，胸喉中事也；下竟下者，少腹腰股膝胫中事也。粗大者，阴不足，阳有余，为热中也。<br/><br/>　　腹胀身热脉大（一作小），是一逆也。腹鸣而满，四肢清泄脉大者，是二逆也；血衄不止脉大者，是三逆也；咳且溲血脱形，脉小而劲者，是四逆也；咳脱形，身热脉小而疾者，是五逆也。如是者，不过十五日死矣。腹大胀，四末清，脱形泄甚，是一逆也；腹胀便（一作后）血，其脉大时绝，是二逆也；咳溲血，形肉脱，喘，是三逆也；呕血胸满引背，脉小而疾，是四逆也；咳呕腹胀，且飧泄，其脉绝，是五逆也。如是者，不及一时而死矣。工不察此者而刺之，是谓逆治。<br/><br/>　　治热病脉静汗已出，脉盛躁，是一逆也；病泄脉洪大，是二逆也；着痹不移，腘肉破，身热，脉偏绝，是三逆也；淫而夺形，身热色夭然白，及后下血衃，笃重，是四逆也；寒热夺形，脉坚搏，是五逆也。<br/><br/>　　五实死，五虚死。脉盛，皮热，腹胀，前后不通，闷瞀，是谓五实；脉细，皮寒，气少，泄利前后，饮食不入，是谓五虚。浆粥入胃，泄注止，则虚者活，身汗得后利，则实者活。此其候也。<br/><br/>　　心脉满大，痫痓筋挛。肝脉小急，痫痓筋挛。肝脉瞀闷，有所惊骇，脉不至若喑，不治自已。肾脉小急，肝脉小急，心脉小急，不鼓，皆为瘕。肾脉大急沉，肝脉大急沉，皆为疝。肝肾脉并沉为石水，并浮为风水，并虚为死，并小弦欲为惊。心脉揣（《素问》揣作搏，下同）滑急为心疝。肺脉沉揣为肺疝。三阳急为瘕。二阴急为痫厥（一本作二阴急为疝）。二阳急为惊。脾脉外鼓沉为肠澼，久自已。肝脉小缓为肠澼，易治。肾脉小揣沉肠澼下血，血湿（《素问》作温）身热者死。心肝澼亦下血，二脏同病者可治，其脉小沉涩为肠澼，其身热者死，热甚（《素》作热见）七日死。胃脉沉鼓涩，胃外鼓大，心脉小坚急，皆鬲偏枯。男子发左，女子发右。不喑舌转者，可治，三十日起。其从者，喑三岁起。年不满二十者三岁死。脉至而揣，衄血身有热者死。脉来悬钩浮者为热（《素》作常脉）。 脉至而揣名曰暴厥，暴厥者，不知与人言。脉至而数，使人暴惊，三四日自已。脉至浮合，浮合如数，一息十至以上，是经气予不足也，微见九十日死。脉至如火薪然，是心精予夺也，草干而死。脉至如丛棘（《素》作如散叶），是肝气予虚也，木叶落而死。脉至如省客，省客者脉寒（一本作塞）如故也，是肾气予不足也，悬去枣华而死。脉至如丸泥，是胃精予不足也，榆荚落而死。脉至如横格，是胆气予不足也，禾熟而死。脉至如弦缕，是胞精予不足也，病善言，下霜而死，不言可治。脉至如交棘（《素》作交漆）交棘者，左右傍至也，微见三十日而死。脉至如涌泉，浮鼓肌中，是太阳气予不足也，少气味，韭花生而死。脉至如颓土之状，按之不足，是肌气予不足也，五色见黑白，累发而死。脉至如悬雍。悬雍者，浮揣切之益大，是十二俞之气予不足也，水冻而死。脉至如偃刀。偃刀者，浮之小急，按之坚大，五脏寒热（《素》作菀热），寒热独并于肾，如此其人不得坐，立春而死。脉至如丸，滑不著（《素》作不直）手，丸滑不著者，按之不可得也，是大肠气予不足也，枣叶生而死。脉至如舂者，令人善恐，不欲坐卧，行立常听，是小肠气予不足也，季秋而死。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-518-6320.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-518-6322.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-518.html" action-type="chapterComment" class="comment"><i></i>针灸甲乙经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

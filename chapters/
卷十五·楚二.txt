@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《战国策》正文_卷十五·楚二_刘向作品 - 维普阅读网</title>
+<meta name="keywords" content="战国策,战国策原文,战国策阅读,卷十五·楚二全文,刘向作品" />
+<meta name="description" content="战国策原文阅读,卷十五·楚二全文在线阅读,刘向作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-262-4311.html";
+var nextpage="novel-read-262-4313.html";
+var indexpage = "novel-chapter-262.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-262.html">战国策</a></strong>
+<strong><a href="novel-chapter-262.html">战国策目录</a></strong>
+<span>卷十五·楚二</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-262-4311.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷十五·楚二</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘向&amp;searchsubmit=yes"  target="_blank">刘向</a><span class="divide">|</span>发布时间：2014-08-28 20:49:39<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>魏相翟强死<br/><br/>　　魏相翟强死。为甘茂谓楚王曰：“魏之几相者，公子劲也。劲也相魏，魏、秦之交必善。秦、魏之交完，则楚轻矣。故王不如与齐约，相甘茂于魏。齐王好高人以名，今为其行人请魏之相，齐必喜。魏氏不听，交恶于齐，齐魏之交恶，必争事楚。魏氏听，甘茂与樗里疾，贸首之雠也；而魏、秦之交必恶，又交重楚也。”<br/><br/>　　----------------------------------------<br/><br/>　　齐秦月攻楚<br/><br/>　　齐、秦约攻楚，楚令景翠以六城赂齐，太子为质。昭雎谓景翠曰：“秦恐，且因景鲤、苏厉而效地于楚。公出地以取齐，鲤于厉且以收地取秦，公事必败。公不如令王重赂景鲤、苏厉使入秦，秦恐，必不求地而合于楚。若齐不求，是公与约也。<br/><br/>　　----------------------------------------<br/><br/>　　术视伐楚<br/><br/>　　术视伐楚，楚令昭鼠以十万军汉中。昭雎胜秦于重丘，苏厉谓宛公昭鼠曰：“王欲昭雎之乘秦也，必分公之兵以益之。秦知公兵之分也，必出汉中。请为公令辛戎谓王曰：’秦兵且出汉中。’则公之兵全矣。”<br/><br/>　　----------------------------------------<br/><br/>　　四国伐楚<br/><br/>　　四国伐楚，楚令昭雎将以距秦。楚王欲击秦，昭侯不欲。桓臧为昭雎谓楚王曰：“雎战胜，三国恶楚之强也，恐秦之变而听楚也，必深攻楚以劲秦。秦王怒于战不胜，必悉起而击楚，是王与秦相罢，而以利三国也。战不胜秦，秦进兵而攻。不如益昭雎之兵，令之示秦必战。秦王恶与楚相弊而（令）[全]天下，秦可以少割而收（害）也。秦、楚之合,而（燕、赵）[韩、齐]、魏不敢不听，三国可定也。”<br/><br/>　　----------------------------------------<br/><br/>　　楚怀王拘张仪<br/><br/>　　楚怀王拘张仪，将欲杀之。靳尚为仪谓楚王曰：“拘张仪，秦王必怒。天下见楚之无秦也，楚必轻矣。”又谓王之幸夫人郑袖曰：“子亦自知且贱于王乎？”郑袖曰：“何也？”尚曰：“张仪者，秦王之忠信有功臣也。今楚拘之，秦王欲出之。秦王有爱女而美，又简择宫中佳丽好玩习音者，以欢从之；资之金玉宝器奉以上庸六县为汤沐邑，欲因张仪内之楚王。楚王必爱，秦女依强秦以为重，挟宝地以为资，势为王妻以临于楚。王惑于虞乐，必厚尊敬亲爱之而忘子，子益贱而日疏矣。”郑袖曰：“愿委之于公，为之奈何？”曰：“子何不急言王，出张子。张子得出，德子无已时，秦女必不来，而秦必重子。子内擅楚之贵，外结秦之交，畜张子以为用，子之子孙必为楚太子矣，此非布衣之利也。”郑袖遽说楚王出张子。<br/><br/>　　----------------------------------------<br/><br/>　　楚王将出张子<br/><br/>　　楚王将出张子，恐其败己也，靳尚谓楚王曰：“臣请随之。仪事王不善，臣请杀之。”楚小臣，靳尚之仇也，谓张旄曰：“以张仪之知，而有秦、楚之用，君必穷矣。君不如，使人微要靳尚而刺之，楚王必大怒仪也。彼仪穷，则子重矣。楚、秦相难，则魏无患矣。”张旄果令人要靳尚刺之。楚王大怒，秦构兵而战。秦、楚争事魏，张旄果大重。<br/><br/>　　----------------------------------------<br/><br/>　　秦败楚汉中<br/><br/>　　秦败楚汉中。楚王入秦，秦王留之。游腾为楚谓秦王曰：“王挟楚王，而与天下攻楚，则伤行矣；不与天下共攻之，则失利矣。王不如与之盟而归之。楚王畏，必不敢倍盟。王因与三国攻之，义也。”<br/><br/>　　----------------------------------------<br/><br/>　　楚襄王为太子之时<br/><br/>　　楚襄王为太子之时，质于齐。怀王薨，太子辞于齐王而归。齐王隘之：“予我东地五百里，乃归子。子不予我，不得归。<br/><br/>　　“太子曰：“臣有傅，请追而问傅。”傅慎子曰：“献之地，所以为身也。爱地不送死父，不义。臣故曰，献之便。”太子入，致命齐王曰：“敬献地五百里。”齐王归楚太子。<br/><br/>　　太子归，即位为王。齐使车五十乘，来取东地于楚。楚王告慎子曰：“齐使来求东地，为之奈何？”王明日朝群臣，皆令献其计。“上柱国子良入见。王曰：“寡人之得求反，王坟墓、复群臣、归社稷也，以东地五百里许齐。齐（令）[今]使来求地，为之奈何？”子良：“王不可不与也。王身出玉声，许强万乘之齐而不与，则不信，后不可以约结诸侯。请与而复攻之。与之信，攻之武。臣故曰与之。”<br/><br/>　　子良出，昭常入见。王曰：“齐使来求东地五百里，为之奈何？”昭常曰：“不可与也。万乘者，以地大为万乘。今去东地五百里，是去战国之半也，有万乘之号而无千乘之用也，不可。臣故曰勿与。常请守之。”<br/><br/>　　昭常出，景鲤入见。王曰：“齐使来求东地五百里，为之奈何？”景鲤曰：“不可与也。虽然，楚不能独守。王身出玉声，许万乘之强齐也而不与，负不义于天下。楚亦不能独守。臣请西索救于秦。”<br/><br/>　　景鲤出，慎子入，王以三大夫计告慎子曰：“子良见寡人曰：不可不与也，与而复攻之。常见寡人曰：不可与也，常请守之。鲤见寡人曰：“不可与也，虽然楚不能独守也，臣请索救于秦。寡人谁用于三子之计？”慎子对曰：“皆用之。”王怫然作色曰：“何谓也？”慎子曰：“臣请效其说，而王且见其诚然也。王发上柱国子良车五十乘，而北献地五百里于齐。发子良之明日，遣昭常为大司马，令往守东地。遣昭常之明日，遣景鲤车五十乘，西索救于秦。”王曰：“善。”乃遣子良北献地于其齐，遣子良之明日，立昭常为大司马，使守东地。又遣景鲤西索救于秦。<br/><br/>　　子良至齐，齐使人以甲受东地。昭常应齐使曰：“我典主东地，且与死生。悉五尺至六十，三十余万弊甲钝兵，愿承下尘。”齐王谓子良曰：“大夫来献地，今常守之何如？”子良曰：“臣身受命弊邑之王，是常矫也。王攻之。”齐王大兴兵，攻东地，伐昭常。未涉疆，秦以五十万临齐右壤。曰：“夫隘楚太子弗出，不仁；又欲夺之东地五百里，不义。其缩甲则可，不然，则愿待战。”齐王恐焉。乃请子良南道楚，西使秦，解齐患。士卒不用，东地复全。<br/><br/>　　----------------------------------------<br/><br/>　　女阿谓苏子<br/><br/>　　女阿谓苏子曰：“秦栖楚王，危太子者，公也。今楚王归，太子南，公必危。公不如令人谓太子曰：’苏子知太子之怨己也，必且务不利太子。太子不如善苏子，苏子必且为太子入矣。’”苏子乃令人谓太子。太子复请善于苏子。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-262-4311.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-262-4313.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-262.html" action-type="chapterComment" class="comment"><i></i>战国策章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

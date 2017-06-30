@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《灵枢》正文_五变第四十六_黄帝作品 - 维普阅读网</title>
+<meta name="keywords" content="灵枢,灵枢原文,灵枢阅读,五变第四十六全文,黄帝作品" />
+<meta name="description" content="灵枢原文阅读,五变第四十六全文在线阅读,黄帝作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-268-4704.html";
+var nextpage="novel-read-268-4706.html";
+var indexpage = "novel-chapter-268.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-268.html">灵枢</a></strong>
+<strong><a href="novel-chapter-268.html">灵枢目录</a></strong>
+<span>五变第四十六</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-268-4704.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>五变第四十六</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=黄帝&amp;searchsubmit=yes"  target="_blank">黄帝</a><span class="divide">|</span>发布时间：2014-08-30 22:11:25<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>黄帝问于少俞曰：余闻百疾之始期也，必生于风雨寒暑，循毫毛而入腠理，或复还，或留止，或为风肿汗出，或为消瘅，或为寒热，或为留痹，或为积聚，奇邪淫溢，不可胜数，愿闻其故。夫同时得病，或病此，或病彼，意者天之为人生风乎，何其异也？少俞曰：夫天之生风者，非以私百姓也，其行公平正直，犯者得之，避者得无殆，非求人而人自犯之。黄帝曰：一时遇风，同时得病，其病各异，愿闻其故。少俞曰：善乎哉问！请论以比匠人。匠人磨斧斤砺刀，削斲材木。木之阴阳，尚有坚脆，坚者不入，脆者皮弛，至其交节，而缺斤斧焉。夫一木之中，坚脆不同，坚者则刚，脆者易伤，况其材木之不同，皮之厚薄，汁之多少，而各异耶。夫木之蚤花先生叶者，遇春霜烈风，则花落而叶萎；久曝大旱，则脆木薄皮者，枝条汁少而叶萎；久阴淫雨，则薄皮多汁者，皮溃而漉；卒风暴起，则刚脆之木，枝折杌伤；秋霜疾风，则刚脆之木，根摇而叶落。凡此五者，各有所伤，况于人乎！黄帝曰：以人应木奈何？少俞答曰：木之所伤也，皆伤其枝，枝之刚脆而坚，未成伤也。人之有常病也，亦因其骨节、皮肤、腠理之不坚固者，邪之所舍也，故常为病也。<br/>　　　 黄帝曰：人之善病风厥漉汗者，何以候之？少俞答曰：肉不坚，腠理疏，则善病风。黄帝曰：何以候肉之不坚也？少俞答曰：腘肉不坚而无分理，理者粗理，粗理而皮不致者，腠理疏。此言其浑然者。<br/>　　　 黄帝曰：人之善病消瘅者，何以候之？少俞答曰：五藏皆柔弱者，善病消瘅。黄帝曰：何以知五藏之柔弱也？少俞答曰：夫柔弱者，必有刚强，刚强多怒，柔者易伤也。黄帝曰：何以候柔弱之与刚强？少俞答曰：此人薄皮肤，而目坚固以深者，长冲直扬，其心刚，刚则多怒，怒则气上逆，胸中畜积，血气逆留，臗皮充肌，血脉不行，转而为热，热则消肌肤，故为消瘅，此言其人暴刚而肌肉弱者也。<br/>　　　 黄帝曰：人之善病寒热者，何以候之？少俞答曰：小骨弱肉者，善病寒热。黄帝曰：何以候骨之小大、肉之坚脆、色之不一也？少俞答曰：颧骨者，骨之本也。颧大则骨大，颧小则骨小。皮肤薄而其肉无A2U0，其臂懦懦然，其地色殆然，不与其天同色，污然独异，此其候也。然后臂薄者，其髓不满，故善病寒热也。<br/>　　　 黄帝曰：何以候人之善病痹者？少俞答曰：粗理而肉不坚者，善病痹。黄帝曰：痹之高下有处乎？少俞答曰：欲知其高下者，各视其部。<br/>　　　 黄帝曰：人之善病肠中积聚者，何以候之？少俞答曰：皮肤薄而不泽，肉不坚而淖泽，如此则肠胃恶，恶则邪气留止，积聚乃伤。脾胃之间，寒温不次，邪气稍至，精积留止，大聚乃起。<br/>　　　 黄帝曰：余闻病形，已知之矣，愿闻其时。少俞答曰：先立其年，以知其时。时高则起，时下则殆，虽不陷下，当年有冲通，其病必起。是谓因形而生病，五变之纪也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-268-4704.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-268-4706.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-268.html" action-type="chapterComment" class="comment"><i></i>灵枢章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

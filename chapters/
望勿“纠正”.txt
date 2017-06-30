@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《热风》正文_望勿“纠正”_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="热风,热风原文,热风阅读,望勿“纠正”全文,鲁迅作品" />
+<meta name="description" content="热风原文阅读,望勿“纠正”全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-548-7401.html";
+var nextpage="novel-read-548-7403.html";
+var indexpage = "novel-chapter-548.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-548.html">热风</a></strong>
+<strong><a href="novel-chapter-548.html">热风目录</a></strong>
+<span>望勿“纠正”</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-548-7401.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>望勿“纠正”</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-04 20:00:24<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>汪原放（２）君已经成了古人了，他的标点和校正小说，虽然不免小谬误，但大体是有功于作者和读者的。谁料流弊却无穷，一班效颦（３）的便随手拉一部书，你也标点，我也标点，你也作序，我也作序，他也校改，这也校改，又不肯好好的做，结果只是糟蹋了书。 <br/><br/>　　《花月痕》（４）本不必当作宝贝书，但有人要标点付印，自然是各随各便。这书最初是木刻的，后有排印本；最后是石印，错字很多，现在通行的多是这一种。至于新标点本，则陶乐勤（５）君序云，“本书所取的原本，虽属佳品，可是错误尚多。余虽都加以纠正，然失检之处，势必难免。……”我只有错字很多的石印本，偶然对比了第二十五回中的三四叶，便觉得还是石印本好，因为陶君于石印本的错字多未纠正，而石印本的不错字儿却多纠歪了。 <br/><br/>　　“钗黛直是个子虚乌有，算不得什么。……” <br/><br/>　　这“直是个”就是“简直是一个”之意，而纠正本却改作“真是个”，便和原意很不相同了。 <br/><br/>　　“秋痕头上包着绉帕……突见痴珠，便含笑低声说道，‘我料得你挨不上十天，其实何苦呢？’“……痴珠笑道，‘往后再商量罢。’……” <br/><br/>　　他们俩虽然都沦落，但其时却没有什么大悲哀，所以还都笑。而纠正本却将两个“笑”字都改成“哭”字了。教他们一见就哭，看眼泪似乎太不值钱，况且“含哭”也不成话。 <br/><br/>　　我因此想到一种要求，就是印书本是美事，但若自己于意义不甚了然时，不可便以为是错的，而奋然“加以纠正”，不如“过而存之”，或者倒是并不错。 <br/><br/>　　我因此又起了一个疑问，就是有些人攻击译本小说“看不懂”，但他们看中国人自作的旧小说，当真看得懂么？一月二十八日。 <br/><br/>　　这一篇短文发表之后，曾记得有一回遇见胡适之先生，谈到汪先生的事，知道他很康健。胡先生还以为我那“成了古人”云云，是说他做过许多工作，已足以表见于世的意思。这实在使我“诚惶诚恐”，因为我本意实不如此，直白地说，就是说已经“死掉了”。可是直到那时候，我才知这先前所听到的竟是一种毫无根据的谣言。现在我在此敬向汪先生谢我的粗疏之罪，并且将旧文的第一句订正，改为：“汪原放君未经成了古人了。”一九二五年九月二十四日，身热头痛之际，书。 <br/><br/>　　==========================================================================<br/><br/><br/>　　（１）本篇最初发表于一九二四年一月二十八日《晨报副刊》，署名风声。 <br/><br/>　　（２）汪原放（１８９７—１９８０）安徽绩溪人。“五四”以后曾标点《红楼梦》，《水浒传》等小说，由上海亚东图书馆出版。<br/><br/>　　（３）效颦《庄子·天运》：“故西施病心而颦其里，其里之丑人见而美之，归亦捧心而颦其里，其里之富人见之，坚闭门而不出，贫人见之，挈妻子而去之走，彼知颦美，而不知颦之所以美。”后来把拙劣的模仿叫做效颦。 <br/><br/>　　（４）《花月痕》长篇小说，清末魏秀仁（子安）作，五十二回。内容系描写文士、妓女的故事。 <br/><br/>　　（５）陶乐勤江苏山人。他标点的《花月痕》一九二三年上海梁溪图书馆出版。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-548-7401.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-548-7403.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-548.html" action-type="chapterComment" class="comment"><i></i>热风章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

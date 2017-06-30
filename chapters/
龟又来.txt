@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《东莱五记》正文_龟又来_张炜作品 - 维普阅读网</title>
+<meta name="keywords" content="东莱五记,东莱五记原文,东莱五记阅读,龟又来全文,张炜作品" />
+<meta name="description" content="东莱五记原文阅读,龟又来全文在线阅读,张炜作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1353-24904.html";
+var nextpage="novel-read-1353-24906.html";
+var indexpage = "novel-chapter-1353.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1353.html">东莱五记</a></strong>
+<strong><a href="novel-chapter-1353.html">东莱五记目录</a></strong>
+<span>龟又来</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1353-24904.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>龟又来</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-23.html" target="blank">文学小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=张炜&amp;searchsubmit=yes"  target="_blank">张炜</a><span class="divide">|</span>发布时间：2015-05-06 22:39:57<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>很早以前，海边上常有一些孤寂的独居老人，这些人一般都是以海为生的人，上了年纪不能出海了，就专门留下来看守渔铺。这个营生年轻人做不了，因为他们熬不得这份孤寂。在春夏秋三个渔季，海边上热闹，吃的东西也多；到了漫长的冬天和初春这一段就不好过了，大雪封了海滩，这里除了个别禽鸟什么活物都没有，守铺的老人就得学会自己打发时间了。他们要赶在入冬前准备大量的柴火和吃的东西，还有其他一些杂七杂八的物件，因为大雪封地以后想出门都难。 <br/>　　这些看渔铺的老人十之八九是独身，也有的是喜好海上生活，不愿和家里人掺和。男人一个人过惯了，就特别听不得家里人的热闹。有的男人把孤单当成了福气，自己在海边听着海浪，看着日出日落，一过就是几十年。他们是海上的老把势，年纪比他们小的渔人都不敢逞能，因为海里的经验太复杂，需要一辈子的经历才能积累起来。平时打鱼吃饭是一回事，来了危急又是一回事。守铺子的老人大半都经历过几次劫难，他们遇事不慌，一肚子的主意都闷在心里。当年的海滩上十里左右就有一个渔铺，这是一两个村落合伙捕鱼的老窝，一年到头都得有人守住。遇上大风浪渔船出事的、打夜海的人上不了岸的、冲海贼打斗的，都需要一个有本事的老人出面摆平。那些平时诈诈唬唬的鱼老大，一到了紧急关头就没了主意。<br/>　　守铺子的老人自己也不知道更喜欢哪个季节。因为渔季年轻人多，他们在一起闹腾，还有买鱼卖鱼的一沓子事情，大伙儿在一块儿也挺充实的。可是那时候吵得慌，不安静，耳朵疼。只等人全走光了，船靠了岸，桨搬到一边，网具扔到铺子上，这才算是开始了真正的日子。老人搬出干鱼和各种酱菜，烈酒，还有除了渔铺哪里都没有的一些专门吃物，比如说剧毒河豚肉、大粒鱼籽、蛤和蛎腌制的酱。这些特别的吃物专属于看铺子的老人，是孤独换来的口福。奇怪的是十里之外的铺子主人并不轻易出来串门，一到冬天都爱缩在自己的火炉旁边。大概就为了保持一个完整的冬季吧，他们一个比一个更能熬得住。这些人都有一身翻毛大皮袄，脚上穿了生猪皮缝成的草窝鞋，它的名字很怪，只一个字：绑。穿了绑可以在冰天雪地里自由穿行，脚一点儿都不冷。大狗皮帽子护住头脸，哈着白汽去海边捡些浪印上的蛤和虾，那就是一顿好生活。 <br/>有人背后传言，说别看这些老家伙一个个表面上清苦，其实大雪天海滩上正是会友的好日子。他们说老人在渔季里交上了个把赶海的婆婆，她们专在冬天去会守铺子的男人，这时才叫僻静，两个人把铺门一关就过起了好日子，天天喝酒。这种情形实在是夸张了。有家口的老人，家里人少不了常来关照他们，送些吃的东西，走时却带走了更多的东西，这都是老人平时积攒起来的。家里人一来老人就驱赶，可是赶走了又来。他们不放心让年纪大的人独守在大海边上。可是那些没有家口的人就没有这些问题，他们仿佛不会生病也不会死，最后连多大年纪了也没人说得准。问一个守铺子的老人多大了，他会装模作样地掐掐手指头，说出的却是二十年前的年龄。 <br/>　　有个老人有家有口，年轻时打鱼，上了年纪不顾家里人劝阻，偏要留在海上守渔铺。当年的林子密野物多，半夜里只要海边没有打鱼人亮起的火把，就会听到沿海传出的鬼哭狼嚎声。那其实不过是野狸之类追逐打闹、再加上林木呼鸣的声音，是天籁的一种。有人就演绎说，这儿有一代代海上淹死的人，他们的魂灵流连不去，到了夜里就此起彼伏地呼叫，一个个鬼都开始想念家乡了。这些恐怖的情景在看守渔铺的老人那儿简直不值一提。只有冬夜，情形才为之一变：大雪大霜一降，仿佛能杀百噪，所有的声音都突然消失了。只要不是大风天，大海也会安安静静。老人说他们一辈子盼望的，就是这样的安静。这样的安静一年里只有四分之一多一点，所以异常珍贵。老人喜爱下棋，冬天里没有对手，就一个人在棋盘上摆弄子儿。 <br/>　　有一年秋末，几个年轻人在河口附近逮住了一只龟。这只龟中等大小，因为受了伤，前肢左上方有一道深深的割痕，所以没有及时逃脱。就在他们要烹杀这只龟时，老人赶到了。他劝说他们把龟放掉，却没有一个人听。没有办法，老人就从铺子里取出了一大笔积蓄，将受伤的龟买下来，然后用大背篓把龟背回去。一连多少天老人都照料它的饮食，还取了自制的草药给它疗伤。一个星期之后，这只龟完全康复了。它离开时，朝老人深深地磕了几个头。 <br/>　　从那年冬天开始，无论是多么大的风雪，总会有一个黑衣老人赶来与他下棋。这个黑衣老人看样子有七十多岁，长了一口细小坚硬的牙齿，能咬碎核桃壳。黑衣老人的棋艺一般，但也足以陪他玩儿了。他们闲了就扯一些海上事情，守渔铺的老人常常被对方异常丰富的海洋知识、五花八门的水上见闻所吸引。他们就这样成了好友。黑衣老人对自己的来路遮遮掩掩，他也就不再打听。有一天黑衣老人打起了瞌睡，不小心露出了左边肩膀，让他一眼看到了一处不小的伤疤。他马上想起了那只老龟。 <br/>　　一连七八年，那个黑衣老人都来和守铺的老人一起过冬。这一年老人的身体出了点儿毛病，从春天开始就剧烈咳喘，有人就通知了他的家里人。家里人要把老人接回村子，可是老人一定要坚持过了冬再说。家里人明白，他这样的境况，能不能过去这个冬天还是一个问题呢。他们差不多要抬上老人走了，老人硬是不同意。 <br/>　　可是这一年冬天的雪太大了。也许就是因为大雪的阻隔，那个黑衣老人第一次失约了，没有按时出现在渔铺里。老人病得不行了，他的老伴只好陪在这儿，为他端水端药。老人常常让老伴为他去门口张望一下，问有没有一个黑衣老头正往这边走?就这样整个冬天都过去了，老人再也挺不下去了。刚刚开春，老人就闭上了眼睛。这一天老伴正哭着，一个黑衣老人一边大咳一边推开了铺门，然后一下跪在了地上，大声说：我来晚了!我来晚了!我这个冬天害了一场大病，没能来陪他下棋啊。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1353-24904.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1353-24906.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1353.html" action-type="chapterComment" class="comment"><i></i>东莱五记章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

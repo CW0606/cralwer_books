@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《春思》正文_春思_皇甫冉作品 - 维普阅读网</title>
+<meta name="keywords" content="春思,春思原文,春思阅读,春思全文,皇甫冉作品" />
+<meta name="description" content="春思原文阅读,春思全文在线阅读,皇甫冉作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-1176.html";
+var nextpage="novel-chapter-1176.html";
+var indexpage = "novel-chapter-1176.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1176.html">春思</a></strong>
+<strong><a href="novel-chapter-1176.html">春思目录</a></strong>
+<span>春思</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-1176.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>春思</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=皇甫冉&amp;searchsubmit=yes"  target="_blank">皇甫冉</a><span class="divide">|</span>发布时间：2015-02-09 20:28:02<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　莺啼燕语报新年，马邑龙堆路几千。<br/>　　家住层城临汉苑，心随明月到胡天。<br/>　　机中锦字论长恨，楼上花枝笑独眠。<br/>　　为问元戎窦车骑，何时返旆勒燕然。<br/><br/>【注释】<br/>⑴马邑：秦所筑城名，今山西朔县，汉时曾与匈奴争夺此城。龙堆：白龙堆得简称，指沙漠。<br/>⑵层城：因京城分内外两层，故称。苑：这里指行宫。<br/>⑶“机中”一句：窦滔为苻坚秦州刺史，后谪龙沙，其妻苏蕙能文，颇思滔，乃织锦为回文旋图诗寄之。共八百四十字，纵横反覆，皆成文意。论：表露，倾吐。<br/>⑷“为问”二句：后汉窦宪为车骑将军，大破匈奴，遂登燕然山，命班固作铭，刻石而还。元戎：犹主将。返旆：犹班师。勒：刻。燕然：燕然山，即今蒙古人民共和国杭爱山。<br/><br/>【译文】<br/>莺歌燕语预报了临近新年，马邑龙堆是几千里的疆边。<br/>家住京城比邻着汉室宫苑，心随明月飞到边陲的胡天。<br/>织锦回文诉说思念的长恨，楼上花枝取笑我依然独眠。<br/>请问你主帅车骑将军窦宪，何时班师回朝刻石燕然山。<br/><br/>【赏析】<br/>　　这首诗题为《春思》，大意是写一位出征军人的妻子。在明媚的春日里对丈夫梦绕魂牵的思念，以及对反侵略战争早日胜利的盼望。盛唐是社会相对安定的时期，但边境战争却并未停息。前方将士与家乡亲人相互思念之情。仍然是诗人们吟咏的重要主题。这一类诗作总的来说具有较为深刻的社会意义，内容也较为充实。由于富有真情实感．其中不乏千古传涌的佳作。<br/>　　首联“莺啼燕语报新年，马邑龙堆路几千”，对比鲜明，动人心弦。“莺啼燕语”，这是和平宁静的象征；新年佳节，这是亲人团聚的时辰。但是，另一方面，在那遥远的边关，从征的亲人却不能享受这宁静，无法得到这温情。上句“莺啼燕语”四字，写得色彩浓丽，生意盎然。使下句“马邑龙堆”，更显得沉郁悲壮。诗人好似信笔而下，但震撼力却很强。<br/>　　良辰美景，未必便能带来欢乐；温柔乡里，最易惹动离情。“家住秦城邻汉苑”，秦城指咸阳，汉苑指长安。诗中的女主人公虽然目睹京畿的繁华与和平，却是“心随明月到胡天”，早巳飞到丈夫的身边。关河万里，能隔断人的形体，却隔不断心灵的呼唤，而作为心灵交通媒介的，大概只有那普照万方的明月了。<br/>为　　了寄托无穷的思念，女主人公纤纤擢素手，札札弄机杼，仿照古人故事，为远方的夫君织一幅锦字回文诗。回文诗循环可读，无始无终，思妇的离恨也缠绵不尽，地久天长。“机中锦字论长恨，楼上花枝笑独眠。”上句一个“论”字。下句一个“笑”字，都是拟人化的写法。锦字回文诗的内容。无非离情别恨。锦字诗有多长，恨便有多长，锦字诗无穷，恨也无穷。楼上花枝本无情，然而在诗人眼中。那花团锦簇的样子，很像是在嘲笑独眠之人。<br/>　　诗的结尾笔锋一转，提出一个意义深远的问题：“为问元戎窦车骑，何时返旆勒燕然？”不问别人而问元戎，因为他是军中主帅：你什么时候才能得胜班师，勒石而还？女主人公对亲人的思念是痛苦而深挚的，然而她也深明大义。她当然懂得，只有彻底战胜了敌人，才会有不光自己，同时也包括普天之下所有离散家庭的重新团聚。就这样，诗中女主人公将自己的命运和国家民族的命运统一起来，赋予了这首诗以比较积极的社会意义。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-1176.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-1176.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1176.html" action-type="chapterComment" class="comment"><i></i>春思章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

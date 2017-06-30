@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《论衡》正文_卷二十三·间时篇_王充作品 - 维普阅读网</title>
+<meta name="keywords" content="论衡,论衡原文,论衡阅读,卷二十三·间时篇全文,王充作品" />
+<meta name="description" content="论衡原文阅读,卷二十三·间时篇全文在线阅读,王充作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-247-3867.html";
+var nextpage="novel-read-247-3869.html";
+var indexpage = "novel-chapter-247.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-247.html">论衡</a></strong>
+<strong><a href="novel-chapter-247.html">论衡目录</a></strong>
+<span>卷二十三·间时篇</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-247-3867.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷二十三·间时篇</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王充&amp;searchsubmit=yes"  target="_blank">王充</a><span class="divide">|</span>发布时间：2014-08-24 22:22:35<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>世俗起土兴功，岁月有所食，所食之地，必有死者。假令太岁在子，岁食於酉，正月建寅，月食於巳，子、寅地兴功，则酉、巳之家见食矣。见食之家，作起厌胜，以五行之物，悬金木水火。假令岁月食西家，西家悬金；岁月食东家，东家悬炭。设祭祀以除其凶，或空亡徙以辟其殃。连相仿效，皆谓之然。如考实之，虚妄迷也。何以明之？<br/><br/>　　夫天地之神，用心等也。人民无状，加罪行罚，非有二心两意，前後相反也。移徙不避岁月，岁月恶其不避己之冲位，怒之也。今起功之家，亦动地体，无状之过，与移徙等。起功之家，当为岁所食，何故反令巳、酉之地受其咎乎？岂岁月之神怪移徙而〔不〕咎起功哉！用心措意，何其不平也。鬼神罪过人，犹县官谪罚民也。民犯刑罚多非一，小过宥罪，大恶犯辟，未有以无过受罪。无过而受罪，世谓之冤。今巳、酉之家，无过於月岁，子、〔寅〕起宅，空为见食，此则岁冤无罪也。且夫太岁在子，子宅直符，午宅为破，不须兴功起事，空居无为，犹被其害。今岁月所食，待子宅有为，巳、酉乃凶。太岁，岁月之神，用罚为害，动静殊致，非天从岁月神意之道也。<br/><br/>　　审论岁月之神，岁则太岁也，在天边际，立於子位。起室者在中国一州之内，假令扬州在东南，使如邹衍之言，天下为一州，又在东南，岁食於酉，食西羌之地，东南之地安得凶祸？假令岁在人民之间，西宅为酉地，则起功之家，宅中亦有酉地，何以不近食其宅中之酉地，而反食佗家乎！且食之者审谁也？如审岁月，岁月，天之从神，饮食与天同。天食不食人，故郊祭不以为牲。如非天神，亦不食人。天地之间，百神所食，圣人谓当与人等。推生事死，推人事鬼，故百神之祀皆用众物，无用人者。物食人者，虎与狼也。岁月之神，岂虎狼之精哉？仓卒之世，谷食乏匮，人民饥饿，自相啖食。岂其啖食死者，其精为岁月之神哉？岁月有神，日亦有神，岁食月食，日何不食？积日为月，积月为时，积时为岁，千五百三十九岁为一统，四千六百一十七岁为一元，增积相倍之数，分余终竟之名耳，安得鬼神之怪、祸福之验乎？如岁月终竟者宜有神，则四时有神，统元有神。月三日魄，八日弦，十五日望，与岁月终竟何异？岁月有神，魄与弦复有神也？一日之中，分为十二时，平旦寅，日出卯也。十二月建寅卯，则十二月时所加寅卯也。日加十二辰不食，月建十二辰独食，岂日加无神，月建独有哉？何故月建独食，日加不食乎！如日加无神，用时决事非也。如加时有神，独不食，非也。<br/><br/>　　神之口腹，与人等也。人饥则食，饱则止，不为起功乃一食也。岁月之神，起功乃食，一岁之中，兴功者希，岁月之神饥乎？仓卒之世，人民亡，室宅荒废，兴功者绝，岁月之神饿乎？且田与宅俱人所治，兴功用力，劳佚钧等。宅掘土而立木，田凿沟而起堤，堤与木俱立，掘与凿俱为。起宅，岁月食；治田，独不食。岂起宅时岁月饥，治田时饱乎？何事钧作同，饮食不等也？<br/><br/>　　说岁月食之家，必铨功之小大，立远近之步数。假令起三尺之功，食一步之内；起十丈之役，食一里之外。功有小大，祸有近远。蒙恬为秦筑长城，极天下之半，则其为祸宜以万数。案长城之造，秦民不多死。周公作雒，兴功至大，当时岁月宜多食。圣人知其审食，宜徙所食地，置於吉祥之位。如不知避，人民多凶，经传之文，贤圣宜有刺讥。今闻筑雒之民，四方和会，功成事毕，不闻多死。说岁月之家，殆虚非实也。且岁月审食，犹人口腹之饥必食也；且为巳、酉地有厌胜之故，畏一金刃，惧一死炭，同闭口不敢食哉！<br/><br/>　　如实畏惧，宜如其数。五行相胜，物气钧适。如〔泰〕山失火，沃以一杯之水；河决千里，塞以一掊之土，能胜之乎？非失五行之道，小大多少不能相当也。天地之性，人物之力，少不胜多，小不厌大。使三军持木杖，匹夫持一刃，伸力角气，匹夫必死。金性胜木，然而木胜金负者，木多而金寡也。积金如山，燃一炭火以燔烁之，金必不消。非失五行之道，金多火少，少多小大不钧也。五尺童子与孟贲争，童子不胜。非童子怯，力少之故也。狼众食人，人众食狼。敌力角气，能以小胜大者希；争强量功，能以寡胜众者鲜。天道人物，不能以小胜大者，少不能服多。以一刃之金，一炭之火，厌除凶咎，却岁之殃，如何也！</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-247-3867.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-247-3869.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-247.html" action-type="chapterComment" class="comment"><i></i>论衡章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

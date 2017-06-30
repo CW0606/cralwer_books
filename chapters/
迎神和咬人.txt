@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《花边文学》正文_迎神和咬人_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="花边文学,花边文学原文,花边文学阅读,迎神和咬人全文,鲁迅作品" />
+<meta name="description" content="花边文学原文阅读,迎神和咬人全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-536-6827.html";
+var nextpage="novel-read-536-6829.html";
+var indexpage = "novel-chapter-536.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-536.html">花边文学</a></strong>
+<strong><a href="novel-chapter-536.html">花边文学目录</a></strong>
+<span>迎神和咬人</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-536-6827.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>迎神和咬人</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 21:27:04<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>报载余姚的某乡，农民们因为旱荒，迎神求雨，看客有带帽的，便用刀棒乱打他一通。（２）这是迷信，但是有根据的。汉先儒董仲舒（３）先生就有祈雨法，什么用寡妇，关城门，乌烟瘴气，其古怪与道士无异，而未尝为今儒所订正。虽在通都大邑，现在也还有天师作法（４），长官禁屠（５），闹得沸反盈天，何尝惹出一点口舌？至于打帽，那是因为恐怕神看见还很有人悠然自得，不垂哀怜；一面则也憎恶他的不与大家共患难。<br/><br/>　　迎神，农民们的本意是在救死的——但可惜是迷信，——但除此之外，他们也不知道别一样。<br/><br/>　　报又载有一个六十多岁的老党员，出面劝阻迎神，被大家一顿打，终于咬断了喉管，死掉了。（６）这是妄信，但是也有根据的。《精忠说岳全传》（７）说张俊陷害忠良，终被众人咬死，人心为之大快。因此乡间就向来有一个传说，谓咬死了人，皇帝必赦，·因·为·怨·恨·而·至·于·咬，·则·被·咬·者·之·恶，·也·就·可·想·而·知·了。我不知道法律，但大约民国以前的律文中，恐怕也未必有这样的规定罢。<br/><br/>　　咬人，农民们的本意是在逃死的——但可惜是妄信，——但除此之外，他们也不知道别一样。<br/><br/>　　想救死，想逃死，适所以自速其死，哀哉！<br/><br/>　　自从由帝国成为民国以来，上层的改变是不少了，无教育的农民，却还未得到一点什么新的有益的东西，依然是旧日的迷信，旧日的讹传，在拚命的救死和逃死中自速其死。这回他们要得到“天讨”（８）。他们要骇怕，但因为不解“天讨”的缘故，他们也要不平。待到这骇怕和不平忘记了，就只有迷信讹传剩着，待到下一次水旱灾荒的时候，依然是迎神，咬人。<br/><br/>　　这悲剧何时完结呢？<br/><br/>　　八月十九日。<br/><br/>　　附记：<br/><br/>　　旁边加上黑点的三句，是印了出来的时候，全被删去了的。是总编辑，还是检查官的斧削，虽然不得而知，但在自己记得原稿的作者，却觉得非常有趣。他们的意思，大约是以为乡下人的意思——虽然是妄信——还不如不给大家知道，要不然，怕会发生流弊，有许多喉管也要危险的。<br/><br/>　　八月二十二日。<br/><br/>　<br/>===============================================================<br/><br/><br/><br/>　　（１）本篇最初发表于一九三四年八月二十二日《申报·自由谈》。<br/><br/>　　（２）一九三四年八月十九日《大晚报·社会一周间》载：“（浙江）余姚各乡，近因大旱，该区陡�镇农民五百余，吾客乡农民千余，联合举办迎神赛会祈雨。路经各处，均不准乡民戴帽，否则即用刀枪猛砍！”<br/><br/>　　（３）董仲舒（前１７９—前１０４）广川（今河北枣强）人，西汉经学家。曾任江都相和胶西王相。在他所著《春秋繁露》第七十四篇中有这样的话：“令吏民夫妇皆偶处。凡求雨之大体，丈夫欲藏匿，女子欲和而乐。”又《汉书·董仲舒传》：“仲舒治国，以《春秋》灾异之变推阴阳所以错行，故求雨，闭诸阳，纵诸阴，其止雨反是。”唐代颜师古注：“谓若闭南门，禁举火，及开北门，水洒人之类是也。”（４）天师作法一九三四年七月二十日至二十二日，上海一些所谓“慈善家”及僧人发起“全国各省市亢旱成灾区祈雨消灾大会”，由“第六十三代天师张瑞龄”作法求雨。天师，道教对该教创始人东汉张道陵的尊称，他的后裔中承袭道法的人，也相沿称为天师。（５）长官禁屠旧时每遇旱灾常有停宰牲畜以求雨的迷信活动，如一九三四年七月上海一些团体联合呈请市政府及江浙两省府下令“断屠一周”。<br/><br/>　　（６）一九三四年八月十六日《申报》载：“余姚陡�小学校长兼党部常委徐一清，因劝阻农民迎神祈雨，激动众怒。十二日晚五时，被千余农民殴毙，投入河中；嗣又打捞上岸，咬断喉管。”又同年八月十九日《大晚报·社会一周间》载：“据传徐氏现年六十三岁，民国元年加入国民党”，“徐极爱金钱，时借故向乡人索诈，凡船只经过陡�时，徐必向舟子索取现费若干。……徐之行为极为乡民所不满，此其惨死之远因云。”<br/><br/>　　（７）《精忠说岳全传》长篇小说，清代钱彩、金丰编订。张俊参与秦桧陷害岳飞被众人咬死的事，见该书第七十五回。（８）“天讨”语出《尚书·皋陶谟》：“天讨有罪。” </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-536-6827.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-536-6829.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-536.html" action-type="chapterComment" class="comment"><i></i>花边文学章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孝经注疏》正文_卷三 三才章第七_注 唐·李隆基，疏 宋·邢昺作品 - 维普阅读网</title>
+<meta name="keywords" content="孝经注疏,孝经注疏原文,孝经注疏阅读,卷三 三才章第七全文,注 唐·李隆基，疏 宋·邢昺作品" />
+<meta name="description" content="孝经注疏原文阅读,卷三 三才章第七全文在线阅读,注 唐·李隆基，疏 宋·邢昺作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1425-26375.html";
+var nextpage="novel-read-1425-26377.html";
+var indexpage = "novel-chapter-1425.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1425.html">孝经注疏</a></strong>
+<strong><a href="novel-chapter-1425.html">孝经注疏目录</a></strong>
+<span>卷三 三才章第七</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1425-26375.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷三 三才章第七</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=注 唐·李隆基，疏 宋·邢昺&amp;searchsubmit=yes"  target="_blank">注 唐·李隆基，疏 宋·邢昺</a><span class="divide">|</span>发布时间：2016-07-22 22:47:02<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p> [疏]正义曰：天地谓之二仪，兼人谓之三才。曾子见夫子陈说五等之孝既毕，乃发叹曰：“甚哉！孝之大也。”夫子因其叹美，乃为说天经、地义、人行之事，可教化於人，故以名章，次五孝之后。<br/><br/>　<br/><br/>　　曾子曰：“甚哉！孝之大也。”参闻行孝无限高卑，始知孝之为大也。子曰：“夫孝，天之经也，地之义也，民之行也。”经，常也。利物为义。孝为百行之首，人之常德，若三辰运天而有常，五土分地而为义也。天地之经，而民是则之。天有常明，地有常利，言人法则天地，亦以孝为常行也。则天之明，因地之利，以顺天下。是以其教不肃而成，其政不严而治。法天明以为常，因地利以行义，顺此以施政教，则不待严肃而成理也。<br/><br/>　　[疏]曾子曰至而治。<br/><br/>　　○正义曰：夫子述上从天子下至庶人五等之孝，后总以结之，语势将毕，欲以更明孝道之大，无以发端，特假曾子叹孝之大，更以弥大之义告之也，曰：夫孝，天之经，地之义，民之行。经，常也。人生天地之间，禀天地之气节，人之所法，是天地之常义也。圣人司牧黔庶，故须则天之常明，因依地之义利，以顺行於天下。是以其为教也，不待肃戒而成也；其为政也，不假威严而自理也。<br/>　　○注参闻至大也。<br/>　　○正义曰：高谓天子，卑谓庶人。言曾参既闻夫子陈说天子庶人皆当行孝，始知孝之为大也。<br/>　　○注经常至义也。<br/>　　○正义曰：云“经，常也。利物为义”者，“经，常”即书传通训也。《易·文言》曰“利物足以和义，是“利物为义”也。云“孝为百行之首，人之常德”者，郑注《论语》云：“孝为百行之本，言人之为行，莫先於孝。”案《周易》曰：“常其德，贞。”孝是人所常德也。云“若三辰运天”，谓日月星以时运转於天。《释名》云：“土者吐也，言吐生万物。”《周礼》：“五土十地之利，言孝为百行之首。”是人生有常之德，若日月星辰运行於天而有常，山川原隰分别土地而为利，则知贵贱虽别，必资孝以立身，皆贵法则於天地。然此经全与《左传》郑子大叔答赵简子问礼同，其异一两字而已。明孝之与礼，其义同。<br/>　　○注天有至行也。<br/>　　○正义曰：云“天有常明”者，谓日月星辰明临於下，纪於四时，人事则之，以“夙兴夜寐，无忝尔所生”。故下文云“则天之明”也。云“地有常利”者，谓山川原隰，动植物产，人事因之，以晨羞夕膳也，色养无违。故下文云“因地之利”也。此皆人能法则天地以为孝行者，故云：“亦以孝为常行也。”上云“天之经，地之义”，此云“天地之经”而不言“义”者，为地有利物之义，亦是天常也。若分而言之，则为义；合而言之，则为常也。<br/>　　○注法天至理也。<br/>　　○正义曰：云“法天明以为常，因地利以行义”者，上文云“夫孝，天之经，地之义”者，故云“法天明以为常”，释“天之明”也；“因地利以为义”，释“地之利”也。云“顺此以施政教，则不待严肃而成理也”者，经云“其教不肃而成，其政不严而治”，注则以政教相就而明之，严肃相连而释之，从便宜省也。《制旨》曰：“天无立极之统，无以常其明。地无立极之统，无以常其元缺十一字利。人无立身之本，无以常其德。然则三辰迭运，而一以经之者，天利之性也。五土分植，而一以宜之者，大顺之理也。百行殊涂，而一致之者，大中之要也。夫爱始於和，而敬生於顺。是以因和以教爱，则易知而有亲；因顺以教敬，则易从而有功。爱敬之化行，而礼乐之政备矣。圣人则天之明以为经，因地之利以行义。故能不待严肃而成可久可大之业焉。”<br/>　<br/><br/>　　先王见教之可以化民也。见因天地教化，民之易也。是故先之以博爱，而民莫遗其亲。君爱其亲，则人化之，无有遗其亲者。陈之於德义，而民兴行。陈说德义之美，为众所慕，则人起心而行之。先之以敬让，而民不争。君行敬让，则人化而不争。导之以礼乐，而民和睦。礼以检其迹，乐以正其心，则和睦矣。示之以好恶，而民知禁。示好以引之，示恶以止之，则人知有禁令，不敢犯也。<br/><br/>　　[疏]先王至知禁。<br/><br/>　　○正义曰：言先王见因天地之常，不肃不严之政教，可以率先化下人也。故须身行博爱之道，以率先之，则人渐其风教，无有遗其亲者。於是陈说德义之美，以顺教诲人，则人起心而行之也。先王又以身行敬让之道，以率先之，则人渐其德而不争竞也。又导之以礼乐之教，正其心迹，则人被其教，自和睦也。又示之以好者必爱之，恶者必讨之，则人见之，而知国有禁也。<br/>　　○注见因至易也。<br/>　　○正义曰：此依郑注也。言先王见天明地利，有益於人，因之以施化，行之甚易也。<br/>　　○注君爱至亲者。<br/>　　○正义曰：此依王注也。言君行博爱之道，则人化之，皆能行爱敬，无有遗忘其亲者，即《天子章》之“爱敬尽於事亲，而德义加於百姓”是也。<br/>　　○注陈说至行之。<br/>　　○正义曰：《易》称“君子进德脩业”。又《论语》云：“义以为质。”又《左传》说赵衰荐郤穀云：“说礼乐而敦《诗》、《书》，《诗》、《书》，义之府也；礼、乐，德之则也。德、义，利之本也。”且德义之利，是为政之本也。言大臣陈说德义之美，是天子所重，为群情所慕，则人起发心志而效行之。<br/>　　○注君行至不争。<br/>　　○正义曰：此依魏注也。案《礼记·乡饮酒义》云：“先礼而后财，则民作敬让而不争矣。”言君身先行敬让，则天下之人自息贪竞也。<br/>　　○注礼以至睦矣。<br/>　　○正义曰：此依魏注也。案《礼记》云：“乐由中出，礼自外作。”中，谓心在其中也；外，谓迹见於外也。由心以出者，宜听乐以正之；自迹以见者，当用礼以检之。检之谓检束也。言心迹不违於礼乐，则人当自和睦也。<br/>　　○注示好至犯也。<br/>　　○正义曰：云“示好以引之，示恶以止之”者，案《乐记》云：“先王之制礼乐也，将以教民平好恶而反人道之正也。”故示有好必赏之，令以引喻之，使其慕而归善也；示有恶必罚之，禁以惩止之，使其惧而不为也。云“则人知有禁令，不敢犯也”者，谓人知好恶，而不犯禁令也。<br/>　<br/><br/>　　《诗》云：‘赫赫师尹，民具尔瞻。’”赫赫，明盛貌也。尹氏为太师，周之三公也。义取大臣助君行化，人皆瞻之也。<br/><br/>　　[疏]诗云至尔瞻。<br/><br/>　　○正义曰：夫子既述先王以身率下，先及大臣助君行化之义毕，乃引《小雅·节南山》诗以证成之。赫赫，明盛之貌也，是太师尹氏也。言助君行化，为人模范，故人皆瞻之。<br/>　　○注赫赫至之也。<br/>　　○正义曰：“赫赫，明盛貌也。尹氏为太师，周之三公也”者，此《毛传》文。太师、太傅、太保，是周之三公。尹氏时为太师，故曰尹氏也。云“义取大臣助君行化，人皆瞻之也”者，引《诗》大意如此。孔安国曰：“具，皆也。尔，女也。古语或谓‘人具尔瞻’，则人皆瞻女也。”此章再言“先之”，是吾身行率先於物也；“陈之”“导之”“示之”，是大臣助君为政也。案《大载礼》云：“昔者舜左禹而右皋陶，不下席而天下大治。夫政之不中，君之过也。政之既中，令之不行，职事者之罪也。”后引《周礼》称三公无官属，与王同职，坐而论道。又案《尚书·益稷篇》称帝曰：“吁！臣哉邻哉，邻哉臣哉！”又曰：“臣作朕股肱耳目。”孔传曰：“言君臣道近，相须而成，言大体若身，君任股肱，臣戴元首之义也。”故《礼·缁衣》称“上好是物，下必有甚者矣。故上之好恶，不可不慎也，是民之表也。《诗》云：‘赫赫师尹，民具尔瞻。’《甫刑》曰：‘一人有庆，兆民赖之。”《缁衣》之引《诗》、《书》，是明下民从上之义。师尹，大臣也。一人，天子也。谓人君为政，有身行之者，有大臣助行之者。人之从上，非惟从君，亦从论道之大臣，故并引以结之也。此章上言先王，下引师尹，则知君臣同体，相须而成者，谓此也。皇侃以为无先王在上之诗，故断章引大师之什，今不敢也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1425-26375.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1425-26377.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1425.html" action-type="chapterComment" class="comment"><i></i>孝经注疏章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

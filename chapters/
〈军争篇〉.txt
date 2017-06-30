@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孙子略解》正文_〈军争篇〉_曹操作品 - 维普阅读网</title>
+<meta name="keywords" content="孙子略解,孙子略解原文,孙子略解阅读,〈军争篇〉全文,曹操作品" />
+<meta name="description" content="孙子略解原文阅读,〈军争篇〉全文在线阅读,曹操作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-348-5160.html";
+var nextpage="novel-read-348-5162.html";
+var indexpage = "novel-chapter-348.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-348.html">孙子略解</a></strong>
+<strong><a href="novel-chapter-348.html">孙子略解目录</a></strong>
+<span>〈军争篇〉</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-348-5160.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>〈军争篇〉</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=曹操&amp;searchsubmit=yes"  target="_blank">曹操</a><span class="divide">|</span>发布时间：2014-09-05 21:22:00<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>〔曹操曰：两军争胜。〕<br/>　　孙子曰：<br/>　　凡用兵之法：将受命於君，合军聚众，<br/>　　〔曹操曰：聚国人，结行伍，选部曲，起营陈也。〕交和而舍，<br/>　　〔曹操曰：军门为和门，左右门为旗门，以车为营曰辕门，以人为营曰人门，两军相对为交和。〕<br/>　　莫难於军争。〔曹操曰：从始受命，至於交和，军争为难也。〕<br/>　　军争之难者，以迂为直，以患为利。<br/>　　〔曹操曰：示以远，迩其道里，先敌至也。〕<br/>　　故迂其途，而诱之以利；後人发，先人至者：知迂直之计者也。<br/>　　〔曹操曰：迂其途者，示之远也。後人发，先人至者，明於度数，先知远近之计也。〕<br/>　　军争为利，军争为危。〔曹操曰：善者则以利，不善者则以危。〕<br/>　　举军而争利，则不及；<br/>　　〔曹操曰：迟不及也。〕<br/>　　委军而争利，则辎重捐。<br/>　　〔曹操曰：置辎重，则恐捐弃也。〕<br/>　　是故，絭甲而趋利，则日夜不处，〔曹操曰：不得休息。〕<br/>　　倍道兼行。百里而争利，则擒上将；劲者先，疲者後，则十一以至。<br/>　　〔曹操曰：百里争利，非也；三将军皆以为擒。〕<br/>　　五十里而争利，则蹶上将，法以半至。<br/>　　〔曹操曰：蹶，犹挫也。〕<br/>　　三十里而争利，则三分之二至。<br/>　　〔曹操曰：道近至者多，故无死败也。〕<br/>　　是故，军无辎重则亡，无粮食则亡，无委积则亡。<br/>　　〔曹操曰：无此三者，亡之道也。〕<br/>　　是故，不知诸侯之谋者，不能预交；<br/>　　〔曹操曰：不知敌情者，不能结交也。〕<br/>　　不知山林、险阻、沮泽之形者，不能行军；〔曹操曰：高而崇者为山，众树所聚者为林，坑堑者为险，一高一下者为阻，水草渐洳者<br/>　　为沮，众水所归而不流者为泽。不先知军之所据及山川之形者，则不能行师也。〕<br/>　　不用乡导者，不能得地利。<br/>　　故兵以诈立，以利动，以分合变者也。〔曹操曰：兵一分一合，以敌为变也。〕故其疾如风，<br/>　　〔曹操曰：击空虚也。〕<br/>　　其徐如林；<br/>　　〔曹操曰：不见利也。〕侵掠如火，<br/>　　〔曹操曰：疾也。〕<br/>　　不动如山；<br/>　　〔曹操曰：守也。〕<br/>　　难知如阴，<br/>　　动如雷霆；<br/>　　指向分众，<br/>　　〔曹操曰：因敌而制胜也。〕<br/>　　廓地分利；<br/>　　〔曹操曰：广地以分敌利也。〕<br/>　　悬权而动，<br/>　　〔曹操曰：量敌而动也。〕<br/>　　先知迂直之道者胜：此军争之法也。<br/>　　是故，《军政》曰：「言不相闻，故为鼓金；视不相见，故为旌旗。」是故，昼战多旌旗，夜战多鼓金。<br/>　　鼓金旌旗者，所以一民之耳目也。<br/>　　民既已专，则勇者不得独进，怯者不得独退：此用众之法也。三军可夺气，<br/>　　〔曹操曰：左氏言一鼓作气，再而衰，三而竭。〕<br/>　　将军可夺心。<br/>　　是故，朝气锐，昼气惰，暮气溃。故善用兵者，避其锐气，击其惰溃，此治气者也。以治待乱，以静待譁，此治心者也。<br/>　　以近待远，以佚待劳，以饱待饥，此治力者也。<br/>　　无邀整整之旗，无击堂堂之阵，此治变者也。<br/>　　〔曹操曰：正正，整齐也；堂堂，大也。〕<br/>　　故用兵：高陵勿向，饵兵勿食，穷寇勿迫，锐卒勿攻；<br/>　　背丘勿迎，佯北勿从，围师遗阙，<br/>　　〔曹操曰：《司马法》曰：「围其三面，阙其一面，所以示生路也。」〕<br/>　　归师勿遏，此用众之法也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-348-5160.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-348-5162.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-348.html" action-type="chapterComment" class="comment"><i></i>孙子略解章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

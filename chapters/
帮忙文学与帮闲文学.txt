@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《集外集拾遗》正文_帮忙文学与帮闲文学_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="集外集拾遗,集外集拾遗原文,集外集拾遗阅读,帮忙文学与帮闲文学全文,鲁迅作品" />
+<meta name="description" content="集外集拾遗原文阅读,帮忙文学与帮闲文学全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-541-6984.html";
+var nextpage="novel-read-541-6986.html";
+var indexpage = "novel-chapter-541.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-541.html">集外集拾遗</a></strong>
+<strong><a href="novel-chapter-541.html">集外集拾遗目录</a></strong>
+<span>帮忙文学与帮闲文学</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-541-6984.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>帮忙文学与帮闲文学</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-30 19:51:21<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　——十一月二十二日在北京大学第二院讲我四五年来未到这边，对于这边情形，不甚熟悉；我在上海的情形，也非诸君所知。所以今天还是讲帮闲文学与帮忙文学。<br/><br/>　　这当怎么讲？从五四运动后，新文学家很提倡小说；其故由当时提倡新文学的人看见西洋文学中小说地位甚高，和诗歌相仿佛；所以弄得像不看小说就不是人似的。但依我们中国的老眼睛看起来，小说是给人消闲的，是为酒余茶后之用。因为饭吃得饱饱的，茶喝得饱饱的，闲起来也实在是苦极的事，那时候又没有跳舞场：明末清初的时候，一份人家必有帮闲的东西存在的。那些会念书会下棋会画画的人，陪主人念念书，下下棋，画几笔画，这叫做帮闲，也就是篾片！所以帮闲文学又名篾片文学。小说就做着篾片的职务。汉武帝时候，只有司马相如不高兴这样，常常装病不出去。（２）至于究竟为什么装病，我可不知道。倘说他反对皇帝是为了卢布，我想大概是不会的，因为那个时候还没有卢布。大凡要亡国的时候，皇帝无事，臣子谈谈女人，谈谈酒，像六朝的南朝，开国的时候，这些人便做诏令，做敕，做宣言，做电报，——做所谓皇皇大文。主人一到第二代就不忙了，于是臣子就帮闲。所以帮闲文学实在就是帮忙文学。 <br/><br/>　　中国文学从我看起来，可以分为两大类：（一）廊庙文学，这就是已经走进主人家中，非帮主人的忙，就得帮主人的闲；与这相对的是（二）山林文学。唐诗即有此二种。如果用现代话讲起来，是“在朝”和“下野”。后面这一种虽然暂时无忙可帮，无闲可帮，但身在山林，而“心存魏阙”（３）。如果既不能帮忙，又不能帮闲，那么，心里就甚是悲哀了。 <br/><br/>　　中国是隐士和官僚最接近的。那时很有被聘的希望，一被聘，即谓之征君；开当铺，卖糖葫芦是不会被征的。我曾经听说有人做世界文学史，称中国文学为官僚文学。看起来实在也不错。一方面固然由于文字难，一般人受教育少，不能做文章，但在另一方面看起来，中国文学和官僚也实在接近。 <br/><br/>　　现在大概也如此。惟方法巧妙得多了，竟至于看不出来。今日文学最巧妙的有所谓为艺术而艺术派。这一派在五四运动时代，确是革命的，因为当时是向“文以载道”（４）说进攻的，但是现在却连反抗性都没有了。不但没有反抗性，而且压制新文学的发生。对社会不敢批评，也不能反抗，若反抗，便说对不起艺术。故也变成帮忙柏勒思（ｐｌｕｓ）（５）帮闲。为艺术而艺术派对俗事是不问的，但对于俗事如主张为人生而艺术的人是反对的，则如现代评论派（６），他们反对骂人，但有人骂他们，他们也是要骂的。他们骂骂人的人，正如杀杀人的一样——他们是刽子手。 <br/><br/>　　这种帮忙和帮闲的情形是长久的。我并不劝人立刻把中国的文物都抛弃了，因为不看这些，就没有东西看；不帮忙也不帮闲的文学真也太不多。现在做文章的人们几乎都是帮闲帮忙的人物。有人说文学家是很高尚的，我却不相信与吃饭问题无关，不过我又以为文学与吃饭问题有关也不打紧，只要能比较的不帮忙不帮闲就好。 <br/><br/><br/><br/>　　（１）本篇记录稿最初发表于一九三二年十二月十七日天津《电影与文艺》创刊号。收入本书的曾经鲁迅修订。 <br/><br/>　　（２）关于司马相如装病不出的事，据《史记·司马相如传》：“先缈诔远�浦�椤*常有消渴疾。与卓氏婚，饶于财。其进仕宦，未尝肯与公卿国家之事，常称病闲居，不慕官爵。” <br/><br/>　　（３）“心存魏阙”语出《庄子·让王》：“身在江海之上，心竞跷恒谥�隆！*魏阙，古代宫门上巍然高耸的楼观，后来用作朝廷的代称。 <br/><br/>　　（４）“文以载道”语出宋代周敦颐《通书·文辞》：“文所以缘酪病薄* <br/><br/>　　（５）柏勒思（Ｐｌｕｓ）英语：“加”的意思。（６）现代评论派指《现代评论》杂志（一九二四年十二月在北京创刊）的主要撰稿人胡适、陈西滢、徐志摩等。陈西滢在《现代评论》第三卷第五十三期（一九二五年十二月十二日）发表的《闲话》中标谤“绝不肆口嫚骂”。但实际上他们常对鲁迅和他们所反对的人进行种种攻击和谩骂。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-541-6984.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-541-6986.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-541.html" action-type="chapterComment" class="comment"><i></i>集外集拾遗章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

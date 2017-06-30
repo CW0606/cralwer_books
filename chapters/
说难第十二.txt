@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《韩非子》正文_说难第十二_韩非作品 - 维普阅读网</title>
+<meta name="keywords" content="韩非子,韩非子原文,韩非子阅读,说难第十二全文,韩非作品" />
+<meta name="description" content="韩非子原文阅读,说难第十二全文在线阅读,韩非作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-23-328.html";
+var nextpage="novel-read-23-330.html";
+var indexpage = "novel-chapter-23.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-23.html">韩非子</a></strong>
+<strong><a href="novel-chapter-23.html">韩非子目录</a></strong>
+<span>说难第十二</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-23-328.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>说难第十二</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=韩非&amp;searchsubmit=yes"  target="_blank">韩非</a><span class="divide">|</span>发布时间：2014-07-18 23:23:08<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　凡说之难，非吾知之有以说之之难也；又非吾辩之能明吾意之难也；又非吾敢横失而能尽之难也。凡说之难：在知所说之心，可以吾说当之。<br/>　　所说出于为名高者也，而说之以厚利，则见下节而遇卑贱，必弃远矣。所说出於厚利者也，而说之以名高，则见无心而远事情，必不收矣。所说阴为厚利而显为名高者也，而说之以名高，则阳收其身而实疏之；说之以厚利，则阴用其言显弃其身矣。此不可不察也。<br/>　　夫事以密成，语以泄败。未必其身泄之也，而语及所匿之事，如此者身危。彼显有所出事，而乃以成他故，说者不徒知所出而已矣，又知其所以为，如此者身危。规异事而当，知者揣之外而得之，事泄於外，必以为己也，如此者身危。周泽未渥也，而语极知，说行而有功则德忘，说不行而有败则见疑，如此者身危。贵人有过端，而说者明言礼义以挑其恶，如此者身危。贵人或得计而欲自以为功，说者与知焉，如此者身危。强以其所不能为，止以其所不能已，如此者身危。故与之论大人，则以为间己矣；与之论细人，则以为卖重；论其所爱，则以为藉资；论其所憎，则以为尝己也；径省其说，则以为不智而拙之；米盐博辩，则以为多而交之。略事陈意，则曰怯懦而不尽；虑事广肆，则曰草野而倨侮。此说之难，不可不知也。<br/>　　凡说之务，在知饰所说之所矜而灭其所耻。彼有私急也，必以公义示而强之。其意有下也，然而不能已，说者因为之饰其美而少其不为也。其心有高也，而实不能及，说者为之举其过而见其恶而多其不行也。有欲矜以智能，则为之举异事之同类者，多为之地；使之资说于我，而佯不知也以资其智。欲内相存之言，则必以美名明之，而微见其合於私利也。欲陈危害之事，则显其毁诽，而微见其合於私患也。誉异人与同行者，规异事与同计者。有与同污者，则必以大饰其无伤也；有与同败者，则必以明饰其无失也。彼自多其力，则毋以其难概之也；自勇其断，则无以其谪怒之；自智其计，则毋以其败穷之。大意无所拂悟，辞言无所系縻，然后极骋智辩焉。此道所得亲近不疑而得尽辞也。<br/>　　伊尹为宰，百里奚为虏，皆所以干其上也。此二人者，皆圣人也，然犹不能无役身以进，如此其污也。今以吾言为宰虏，而可以听用而振世，此非能仕之所耻也。夫旷日弥久，而周泽既渥，深计而不疑，引争而不罪，则明割利害以致其功，直指是非以饰其身。以此相持，此说之成也。<br/>　　昔者郑武公欲伐胡，故先以其女妻胡君以娱其意，因问於群臣：“吾欲用兵，谁可伐者？”大夫关其思对曰：“胡可伐。”武公怒而戮之，曰：“胡，兄弟之国也，子言伐之何也？”胡君闻之，以郑为亲己，遂不备郑，郑人袭胡，取之。宋有富人，天雨墙坏，其子曰：“不筑，必将有盗。”其邻人之父亦云。暮而果大亡其财。其家甚智其子，而疑邻人之父。此二人说者皆当矣，厚者为戮，薄者见疑，则非知之难也，处之则难也。故绕朝之言当矣，其为圣人于晋而为戮于秦也，此不可不察。<br/>　　昔者弥子瑕有宠於卫君。卫国之法：窃驾君车者罪刖。弥子瑕母病，人闻，有夜告弥子，弥子矫驾君车以出。君闻而贤之，曰：“孝哉！为母之故，忘其犯刖罪。”异日，与君游於果园，食桃而甘，不尽，以其半啗君。君曰：“爱我哉！忘其口味，以啗寡人。”及弥子色衰爱弛，得罪於君，君曰：“是固尝矫驾吾车，又尝啗我以馀桃。”故弥子之行未变於初也，而以前之所以见贤而后获罪者，爱憎之变也。故有爱於主，则智当而加亲；有憎于主，则智不当见罪而加疏。故谏说谈论之士，不可不察爱憎之主而后说焉。<br/>　　夫龙之为虫也，柔可狎而骑也；然其喉下有逆鳞径尺，若人有婴之者，则必杀人。人主亦有逆鳞，说者能无婴人主之逆鳞，则几矣！</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-23-328.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-23-330.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-23.html" action-type="chapterComment" class="comment"><i></i>韩非子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

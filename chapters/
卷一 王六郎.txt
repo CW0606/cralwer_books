@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《聊斋志异》正文_卷一 王六郎_蒲松龄作品 - 维普阅读网</title>
+<meta name="keywords" content="聊斋志异,聊斋志异原文,聊斋志异阅读,卷一 王六郎全文,蒲松龄作品" />
+<meta name="description" content="聊斋志异原文阅读,卷一 王六郎全文在线阅读,蒲松龄作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1254-23122.html";
+var nextpage="novel-read-1254-23124.html";
+var indexpage = "novel-chapter-1254.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1254.html">聊斋志异</a></strong>
+<strong><a href="novel-chapter-1254.html">聊斋志异目录</a></strong>
+<span>卷一 王六郎</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1254-23122.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷一 王六郎</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-18.html" target="blank">古典小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=蒲松龄&amp;searchsubmit=yes"  target="_blank">蒲松龄</a><span class="divide">|</span>发布时间：2015-03-30 21:29:21<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>许姓，家淄之北郭。业渔。每夜，携酒河上，饮且渔。饮则酹地，祝云：“河中溺鬼得饮。”以为常。他人渔，迄无所获；而许独满筐。<br/>　　<br/>　　一夕，方独酌，有少年来，徘徊其侧。让之饮，慨与同酌。既而终夜不获一鱼，意颇失。少年起曰：“请于下流为君驱之。”遂飘然去。少间，复返，曰：“鱼大至矣。”果闻唼呷有声。举网而得数头，皆盈尺。喜极，申谢。欲归，赠以鱼，不受，曰：“屡叨佳酝，区区何足云报。如不弃，要当以为常耳。”许曰：“方共一夕，何言屡也？如肯永顾，诚所甚愿；但愧无以为情。”询其姓字，曰：“姓王，无字；相见可呼王六郎。”遂别。<br/>　　<br/>　　明日，许货鱼，益沽酒。晚至河干，少年已先在，遂与欢饮。饮数杯，辄为许驱鱼。如是半载。忽告许曰：“拜识清扬，情逾骨肉。然相别有日矣。”语甚凄楚。惊问之。欲言而止者再，乃曰：“情好如吾两人，言之或勿讶耶？今将别，无妨明告：我实鬼也。素嗜酒。沈醉溺死，数年于此矣。前君之获鱼，独胜于他人者，皆仆之暗驱，以报酹奠耳。明日业满，当有代者，将往投生。相聚只今夕，故不能无感。”许初闻甚骇；然亲狎既久，不复恐怖。因亦欷歔，酌而言曰：“六郎饮此，勿戚也。相见遽违，良足悲恻；然业满劫脱，正宜相贺，悲乃不伦。”遂与畅饮。<br/>　　<br/>　　因问：“代者何人？”曰：“兄于河畔视之，亭午，有女子渡河而溺者，是也。”听村鸡既唱，洒涕而别。明日，敬伺河边，以觇其异。果有妇人抱婴儿来，及河而堕。儿抛岸上，扬手掷足而啼。妇沈浮者屡矣，忽淋淋攀岸以出，藉地少息，抱儿径去。当妇溺时，意良不忍，思欲奔救；转念是所以代六郎者，故止不救。及妇自出，疑其言不验。<br/>　　<br/>　　抵暮，渔旧处。少年复至，曰：“今又聚首，且不言别矣。”问其故。曰：“女子已相代矣；仆怜其抱中儿，代弟一人，遂残二命，故舍之。更代不知何期。或吾两人之缘未尽耶？”许感叹曰：“此仁人之心，可以通上帝矣。”由此相聚如初。数日，又来告别。许疑其复有代者。曰：“非也。前一念恻隐，果达帝天。今授为招远县邬镇土地，来朝赴任。倘不忘故交，当一往探，勿惮修阻。”许贺曰：“君正直为神，甚慰人心。但人神路隔，即不惮修阻，将复如何？”少年曰：“但往，勿虑。”再三叮咛而去。<br/>　　<br/>　　许归，即欲治装东下。妻笑曰：“此去数百里，即有其地，恐土偶不可以共语。”许不听，竟抵招远。问之居人，果有邬镇。寻至其处，息肩逆旅，问祠所在。主人惊曰：“得无客姓为许？”许曰：“然。何见知？”又曰：“得勿客邑为淄？”曰：“然。何见知？”主人不答，遽出。俄而丈夫抱子，媳女窥门，杂沓而来，环如墙堵。许益惊。众乃告曰：“数夜前，梦神言：淄川许友当即来，可助以资斧。祗候已久。”许亦异之。乃往祭于祠而祝曰：“别君后，寤寐不去心，远践曩约。又蒙梦示居人，感篆中怀。愧无腆物，仅有卮酒；如不弃，当如河上之饮。”祝毕，焚钱纸。俄见风起座后，旋转移时，始散。<br/>　　<br/>　　夜梦少年来，衣冠楚楚，大异平时。谢曰：“远劳顾问，喜泪交并。但任微职，不便会面，咫尺河山，甚怆于怀。居人薄有所赠，聊酬夙好。归如有期，尚当走送。”居数日，许欲归。众留殷恳，朝请暮邀，日更数主。许坚辞欲行。众乃折柬抱幞，争来致赆，不终朝，馈遗盈橐。苍头稚子毕集，祖送出村。歘有羊角风起，随行十余里。许再拜曰：“六郎珍重！勿劳远涉。君心仁爱，自能造福一方，无庸故人嘱也。”风盘旋久之，乃去。村人亦嗟讶而返。许归，家稍裕，遂不复渔。后见招远人问之，其灵验如响云。<br/>　　<br/>　　或言：即章丘石坑庄。未知孰是。<br/><br/>　　异史氏曰：“置身青云，无忘贫贱，此其所以神也。今日车中贵介，宁复识戴笠人哉？余乡有林下者，家綦贫。有童稚交，任肥秩。计投之必相周顾。竭力办装，奔涉千里，殊失所望；泻囊货骑，始得归。其族弟甚谐，作月令嘲之云：‘是月也，哥哥至，貂帽解，伞盖不张，马化为驴，靴始收声。’念此可为一笑。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1254-23122.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1254-23124.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1254.html" action-type="chapterComment" class="comment"><i></i>聊斋志异章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

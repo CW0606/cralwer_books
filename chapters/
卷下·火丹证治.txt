@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《颅囟经》正文_卷下·火丹证治_不着撰人作品 - 维普阅读网</title>
+<meta name="keywords" content="颅囟经,颅囟经原文,颅囟经阅读,卷下·火丹证治全文,不着撰人作品" />
+<meta name="description" content="颅囟经原文阅读,卷下·火丹证治全文在线阅读,不着撰人作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1009-9947.html";
+var nextpage="novel-read-1009-9949.html";
+var indexpage = "novel-chapter-1009.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1009.html">颅囟经</a></strong>
+<strong><a href="novel-chapter-1009.html">颅囟经目录</a></strong>
+<span>卷下·火丹证治</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1009-9947.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷下·火丹证治</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=不着撰人&amp;searchsubmit=yes"  target="_blank">不着撰人</a><span class="divide">|</span>发布时间：2014-11-23 22:19:17<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>黄帝问歧伯曰：“后生少稚，多被恶疾、丹毒二品，若何分之？”歧伯曰：“阳解百年、一十以上为毒，一十以下为丹。丹、毒一也，随其大、小分别之，治之有毒，至依方，万无一差。”<br/><br/>　　喻人间男女，皆遭丹毒，至依此枉死者，复何限哉！良由信邪师之语，仍被恐之。愚昧之人勿与下手，请依方用之。<br/><br/>　　今出此图，形状如后。<br/><br/>　　伊火丹，从两胁起。<br/><br/>　　神灶丹，从肚起。<br/><br/>　　尿灶丹，从踝起。<br/><br/>　　胡吹灶丹，从阴囊上起。<br/><br/>　　天火丹，从腹背、遍身起。<br/><br/>　　天雷丹，从头、项起。<br/><br/>　　熛火丹，从背、甲起。<br/><br/>　　胡漏灶丹，从脐中起。<br/><br/>　　废灶丹，从曲臂起。　　神气丹，从头、背上起。<br/><br/>　　土灶丹、从阴踝起。　　朱黄丹，赤豆色，遍身上起。<br/><br/>　　萤火丹，从耳起。<br/><br/>　　野灶丹，从背脊起。　　鬼火丹，从面上起。<br/><br/>　　伊火丹，从两胁起。<br/><br/>　　右用猪粪烧灰，并铁槽中泥，拌调涂之，日三。<br/><br/>　　神灶丹，从肚起。<br/><br/>　　右用土蜂窠、杏仁、腻粉、生油调涂，立差。<br/><br/>　　尿灶丹，从踝起。<br/><br/>　　右用屋四角头茅草，烧灰。使鸡子白调涂之。<br/><br/>　　胡吹灶丹，从阴囊上起。<br/><br/>　　右用水茄窠下泥，和苦酒涂之。<br/><br/>　　天火丹，从腹、背、遍身起。　　右用桦皮白末，和生油调涂之。亦用赤石脂、羊脂调涂之。<br/><br/>　　天雷丹，从头、项起。　　右用阴干葱赤末，拌脂涂。又用灶下土、鸡子白调涂。　　胡漏灶丹，从脐中起。　　右用屋漏水，调灶中土涂之。<br/><br/>　　废灶丹，从曲臂起。<br/><br/>　　右用屋四角茅草灰，鸡子白调涂之。<br/><br/>　　神气丹，从头、背上起。　　右用牯牛骨烧灰，羊脂涂之。　　土灶丹，从阴踝起。<br/><br/>　　右用屋四角茅草、灶横麻、及鸡子白调涂之。<br/><br/>　　朱黄丹，赤豆色，遍身上起。<br/><br/>　　右用慎火草捣汁，和酒调涂之。<br/><br/>　　萤火丹，从耳起。<br/><br/>　　右用慎火草捣汁涂之，生以醋调涂<br/><br/>　　野灶丹，从背脊起。<br/><br/>　　右用柔香茸蒴、赤小豆末，涂之，立差。<br/><br/>　　鬼火丹，从面上起。<br/><br/>　　右用灶下土，鸡子白调涂之，立差。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1009-9947.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1009-9949.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1009.html" action-type="chapterComment" class="comment"><i></i>颅囟经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

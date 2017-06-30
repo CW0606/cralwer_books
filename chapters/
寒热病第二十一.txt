@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《灵枢》正文_寒热病第二十一_黄帝作品 - 维普阅读网</title>
+<meta name="keywords" content="灵枢,灵枢原文,灵枢阅读,寒热病第二十一全文,黄帝作品" />
+<meta name="description" content="灵枢原文阅读,寒热病第二十一全文在线阅读,黄帝作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-268-4679.html";
+var nextpage="novel-read-268-4681.html";
+var indexpage = "novel-chapter-268.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-268.html">灵枢</a></strong>
+<strong><a href="novel-chapter-268.html">灵枢目录</a></strong>
+<span>寒热病第二十一</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-268-4679.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>寒热病第二十一</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=黄帝&amp;searchsubmit=yes"  target="_blank">黄帝</a><span class="divide">|</span>发布时间：2014-08-30 21:46:38<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>皮寒热者，不可附席，毛发焦，鼻槁腊，不得汗。取三阳之络，以补手太阴。肌寒热者，肌痛，毛发焦而后槁腊，不得汗。取三阳于下，以去其血者，补足太阴，以出其汗。骨寒热者，病无所安，汗注不休，齿未槁，取其少阴于阴股之络；齿己槁，死不治。骨厥亦然。骨痹，举节不用而痛，汗注烦心。取三阴之经，补之。身有所伤，血出多，及中风寒，若有所堕坠，四支懈惰不收，名曰体惰，取其小腹脐下三结交。三结交者，阳明、太阴也，脐下三寸关元也。厥痹者，厥气上及腹。取阴阳之络，视主病也，泻阳补阴经也。颈侧之动脉人迎。人迎，足阳明也，在婴筋之前。婴筋之后，手阳明也，名曰扶突。次脉，足少阳脉也，名曰天牖。次脉，足太阳也，名曰天柱。腋下动脉，臂太阴也，名曰天府。阳迎头痛胸满不得息，取之人迎。暴瘖气鞕，取扶突与舌本出血。暴聋气蒙，耳目不明，取天牖。暴挛痫眩，足不任身，取天柱。暴瘅内逆，肝肺相搏，血溢鼻口，取天府。此为天牖五部。臂阳明有入頄遍齿者，名曰大迎，下齿龋取之。臂恶寒补之，不恶寒泻之。足太阳有入頄遍齿者，名曰角孙，上齿龋取之，在鼻与頄前。方病之时，其脉盛，盛则泻之，虚则补之。一曰取之出鼻外。足阳明有夹鼻入于面者，名曰悬颅，属口，对入系目本，视有过着取之。损有余，益不足，反者益甚。足太阳有通项入于脑者，正属目本，名曰眼系，头目苦痛，取之在项中两筋间。入脑乃别。阴蹻、阳蹻，阴阳相交，阳入阴，阴出阳，交于目锐眦，阳气盛则瞋目，阴气盛则瞑目。热厥取足太阴、少阳，皆留之；寒厥取足阳明、少阴于足，皆留之。舌纵涎下，烦悗，取足少阴。振寒洒洒，鼓颔，不得汗出，腹胀烦悗，取手太阴。刺虚者，刺其去也；刺实者，刺其来也。春取络脉，夏取分腠，秋取气口，冬取经输。凡此四时，各以时为齐。络脉治皮肤，分腠治肌肉，气口治筋脉，经输治骨髓、五藏。身有五部：伏兔一；腓二，腓者，腨也；背三；五藏之腧四；项五。此五部有痈疽者死。病始手臂者，先取手阳明、太阴而汗出；病始头首者，先取项太阳而汗出；病始足胫者，先取足阳明而汗出。臂太阴可汗出，足阳明可汗出。故取阴而汗出甚者，止之于阳；取阳而汗出甚者，止之于阴。凡刺之害，中而不去则精泄，不中而去则致气；精泄则病甚而恇，致气则生为痈疽也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-268-4679.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-268-4681.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-268.html" action-type="chapterComment" class="comment"><i></i>灵枢章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

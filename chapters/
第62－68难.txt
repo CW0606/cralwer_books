@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《难经》正文_第62－68难_扁鹊作品 - 维普阅读网</title>
+<meta name="keywords" content="难经,难经原文,难经阅读,第62－68难全文,扁鹊作品" />
+<meta name="description" content="难经原文阅读,第62－68难全文在线阅读,扁鹊作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-35-866.html";
+var nextpage="novel-read-35-868.html";
+var indexpage = "novel-chapter-35.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-35.html">难经</a></strong>
+<strong><a href="novel-chapter-35.html">难经目录</a></strong>
+<span>第62－68难</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-35-866.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第62－68难</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=扁鹊&amp;searchsubmit=yes"  target="_blank">扁鹊</a><span class="divide">|</span>发布时间：2014-07-21 20:32:51<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　六十二难曰：脏井、荥有五，腑独有六者，何谓也？然：腑者，阳也。三焦行于诸阳，故置一俞，名曰原。腑有六者，亦与三焦共一气也。　　六十三难曰：《十变》言，五脏六腑荥，合，皆以井为始者，何也？然：井者，东方春也，万物之始生。诸蚑行喘息，蚏飞蠕动，当生之物，莫不以春生。故岁数始于春，日数始于甲，故以井为始也。　　六十四难曰：《十变》又言，阴井木，阳井金；阴荥火，阳荥水；阴俞土，阳俞木；阴经金，阳经火；阴合水，阳合土。阴阳皆不同，其意何也？然：是刚柔之事也。阴井乙木，阳井庚金。阳井庚，庚者，乙之刚也；阴井乙，乙者，庚之柔也。乙为木，故言阴井木也；庚为金，故言阳井金也。余皆仿此。<br/><br/>　　六十五难曰：经言，所出为井，所入为合，其法奈何？然：所出为井，井者，东方春也，万物之始生，故言所出为井也。所入为合，合者，北方冬也，阳气入藏，故言所入为合也。　　六十六难曰：经言，肺之原，出于太渊；心之原，出于太陵；肝之原，出于太冲，脾之原，出于大白；肾之原，出于太溪；少阴之原，出于兑骨；胆之原，出于丘墟；胃之原，出于冲阳；三焦之原，出于阳池；膀胱之原，出于京骨；大肠之原，出于合谷；小肠之原，出于腕骨。十二经皆以俞为原者，何也？然：五脏俞者，三焦之所行，气之所留止也。三焦所行之俞为原者，何也？然：脐下肾间动气者，人之生命也，十二经之根本也，故名曰原。三焦者，原气之别使也，主通行三气，经历于五脏六腑。原者，三焦之尊号也，故所止辄为原。五脏六腑之有病者，皆取其原也。　　六十七难曰：五脏募皆在阴，而俞皆在阳者；何谓也？然：阴病行阳，阳病行阴。故令募在阴，俞在阳。<br/><br/>　　六十八难曰：五脏六腑，皆有井、荥、俞、经、合，皆何所主？然：经言所出为井，所流为荥，所注为俞，所行为经，所入为合。井主心下满，荥主身热，俞主体重节痛，经主喘咳寒热，合主逆气而泄。此五脏六腑井、荥、俞、经、合所主病也。<br/><br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-35-866.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-35-868.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-35.html" action-type="chapterComment" class="comment"><i></i>难经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

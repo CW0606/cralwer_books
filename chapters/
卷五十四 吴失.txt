@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《抱朴子》正文_卷五十四 吴失_葛洪作品 - 维普阅读网</title>
+<meta name="keywords" content="抱朴子,抱朴子原文,抱朴子阅读,卷五十四 吴失全文,葛洪作品" />
+<meta name="description" content="抱朴子原文阅读,卷五十四 吴失全文在线阅读,葛洪作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-504-5874.html";
+var nextpage="novel-read-504-5876.html";
+var indexpage = "novel-chapter-504.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-504.html">抱朴子</a></strong>
+<strong><a href="novel-chapter-504.html">抱朴子目录</a></strong>
+<span>卷五十四 吴失</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-504-5874.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷五十四 吴失</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=葛洪&amp;searchsubmit=yes"  target="_blank">葛洪</a><span class="divide">|</span>发布时间：2014-09-20 23:02:48<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>抱朴子曰：吴之杪季，殊代同疾，知前疾之失於彼，不能改弦於此。鉴乱亡之未远，而蹑倾车之前轨，睹枳首之争草母，而忘同身之祸，笑虮虱之宴安，不觉事异而患等。见竞济之舟沈，而不知殊途而溺均也。余生於晋世所不见，余师郑君，具所亲悉，每诲之云：吴之晚世，尤剧之病，贤者不用，滓秽弃序，纪纲驰紊，吞舟多漏。贡举以厚货者在前，官人以党强者为右，匪富匪势，穷年无冀。德清行高者，怀英逸而抑沦；有才有力者，蹑云物以官跻。主昏於上，臣欺於下，不党不得，不竞不进，背公之俗弥剧，正直之道遂坏。於是斥鷃因惊风以凌霄，朽舟托迅波而电迈，鸳凤卷六翮於丛棘，鹢首滞潢污而不擢矣。秉维之佐，牧民之吏，非母後之亲，则阿谄之人也。进无补过拾遗之忠，退无听讼之干，虚谈则口吐冰霜，行己则浊於泥潦。莫愧尸禄之刺，莫畏致戎之祸，以毁誉为蚕织，以威福代稼穑。车服则光可以鉴，丰屋则群鸟爰止。叱吒疾於雷霆，祸福速於鬼神，势利倾於邦君，储积富乎公室。出饰翟黄之卫从，入游玉根之藻棁。僮仆成军，闭门为市，牛羊掩原隰，田池布千里。有鱼沧濯裘之俭，以窃赵宣平仲之名。内崇陶侃文信之訾，实有安昌董邓之污。虽造宾不沐嘉旨之俟，饥士不蒙升合之救，而金玉满堂，妓妾溢房，商贩千艘，腐谷万庾，园囿拟上林，馆第僭太极，梁肉余於犬马，积珍陷於帑藏。<br/>　　其接士也，无葭莩之薄；其自奉也，有尽理之厚。或有不开律令之篇卷，而窃大理之位；不识几案之所置，而处机要之职；不知五经之名目，而飨儒官之禄；不闲尺纸之寒暑，而坐著作之地。笔不狂简，而受驳议之荣；低眉垂翼，而充奏劾之选；不辩人物之精粗，而委以品藻之政；不知三才之军势，而轩昂节盖之下；屡为奔北之辱将，而不失前锋之显号；不别菠麦之同异，而忝叨顾问之近任。夫鱼质龙文，似是而非，遭水而喜，见獭即悲，虽临之以斧铖之威，诱之以倾城之宝，犹不能夺铅锋於犀兕，聘驽蹇以追风，非不忌重诛也，非不悦美赏也，体不可力，无自奈何，而欲与之辑熙百揆，弘济大务，犹托万钧於尺舟之上，求千锺於升合之中，绁刍狗而责卢鹊之效，构鸡驽而崇鹰扬之功，其不可用，亦较然矣！<br/>　　吴主不此之思，不加夕惕，佞谄凡庸，委以重任，危机急於弓广弩，亡徵著於日月，而自谓安於峙岳，唐虞可仰也。目力疲於绮粲，而不以览庶事之得失；耳聪尽於淫音，而不以证献言之邪正；谷帛靡於不争，而不以赈战士之冻馁；心神悦於爱媚，而不以念存亡之弘理。盖轻乎崇替之源，而忽乎宗庙之重者也。<br/>　　郑君又称，其师左先生隐居天柱，出不营禄利，不友诸侯，然心愿太平，窃忧桑梓，乃慨然永叹於蓬屋之下，告其门生曰：“汉必被耀，黄精载起，缵枢纽於太微，回紫盖於鹑首。联天理物，光宅东夏，惠风被於区外，玄泽洽乎宇内。重译接武，贡楛盈庭，荡荡巍巍，格於上下，承平守文，因循甚易，而五弦谧响，南风不咏，上不获恭己之逸，下不闻康哉之歌。飞龙翔而不集，渊虬蟠而不跃，驺虞翳於冥昧，朱华牙而未秀，阴阳相沴，寒燠缪节，七政告凶，陵谷易所，殷雷车訇磕。於龙潜之月，凝霜肃杀乎朱明之运。玉烛不照，沈醴不涌，郊声多垒，嘉生不遂夫岂他哉？诚由四凶不去，元凯不举，用者不贤，贤者不用也。<br/>　　“然高概远量，被褐怀玉，守静洁志，无欲於物，藏路渊洿，得意遗世，非礼不动，非时不见，困而无闷，穷而不悔，乐天任命，混一荣辱，进无悦色，退无戚容者，固有伏死乎雍瓦牖，安肯沽炫以进趋，揭其不赀之宝，以竞燕石之售哉！孔墨之道，昔曾不行，孟轲扬雄，亦居困否，有德无时，有自来耳。世无离朱，皂白混焉。时乏管青，骐蹇糅焉。砾积於金匮，瑾瑶委乎沟洫，匠石缅而遐沦，梓豫忽而莫识，已矣，悲夫！我生不辰，弗先弗後，将见吴土之化为晋哉，南民之变成北隶也。”言犹在耳，而孙氏舆榇。<br/>　　抱朴子闻之曰：二君之言，可为来戒。故录於篇，欲後代知有吴失国，匪降自天也。若苟讳国恶，纤芥不贬，则董狐无贵於直笔，贾谊将受讥於过秦乎！</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-504-5874.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-504-5876.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-504.html" action-type="chapterComment" class="comment"><i></i>抱朴子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

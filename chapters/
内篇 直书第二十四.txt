@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《史通》正文_内篇 直书第二十四_刘知几作品 - 维普阅读网</title>
+<meta name="keywords" content="史通,史通原文,史通阅读,内篇 直书第二十四全文,刘知几作品" />
+<meta name="description" content="史通原文阅读,内篇 直书第二十四全文在线阅读,刘知几作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1030-10610.html";
+var nextpage="novel-read-1030-10612.html";
+var indexpage = "novel-chapter-1030.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1030.html">史通</a></strong>
+<strong><a href="novel-chapter-1030.html">史通目录</a></strong>
+<span>内篇 直书第二十四</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1030-10610.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>内篇 直书第二十四</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘知几&amp;searchsubmit=yes"  target="_blank">刘知几</a><span class="divide">|</span>发布时间：2014-11-28 23:08:08<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　夫人禀五常，士兼百行，邪正有别，曲直不同。若邪曲者，人之所贱，而小人之道也；正直者，人之所贵，而君子之德也。然世多趋邪而弃正，不践君子之迹，而行由小人者，何哉？语曰："直如弦，死道边；曲如钩，反封侯。"故宁顺从以保吉，不违忤以受害也。况史之为务，申以劝诫，树之风声。其有贼臣逆子，淫乱君主，苟直书其事，不掩其瑕，则秽迹彰于一朝，恶名被于千载。言之若是，吁可畏乎！<br/><br/>　　夫为于可为之时则从，为于不可为之时则凶。如董狐之书法不隐，赵盾之为法受屈，彼我无忤，行之不疑，然后能成其良直，擅名今古。至若齐史之书崔弑，马迁之述汉非，韦昭仗正于吴朝，崔浩犯讳于魏国，或身膏斧钺，取笑当时；或书填坑窖，无闻后代。夫世事如此，而责史臣不能申其强项之风，励其匪躬之节，盖亦难矣。是以张俨发愤，私存《嘿记》之文；孙盛不平，窃撰辽东之本。以兹避祸，幸而获全。足以验世途之多隘，知实录之难遇耳。<br/><br/>　　然则历考前史，徵诸直词，虽古人糟粕，真伪相乱，而披沙拣金，有时获宝。案金行在历，史氏尤多。当宣、景开基之始，曹、马构纷之际，或列营渭曲，见屈武侯，或发仗云台，取伤成济。陈寿、王隐，咸杜口而无言，陆机、虞预，各栖毫而靡述。至习鉴齿，乃申以死葛走达之说，抽戈犯跸之言。历代厚诬，一朝如雪。考斯人之书事，盖近古之遗直欤？次有宋孝王《风俗传》、王劭《齐志》，其叙述当时，亦务在审实。案于时河朔王公，箕裘未陨；邺城将相，薪构仍存。而二子书其所讳，曾无惮色。刚亦不吐，其斯人欤？<br/><br/>　　盖列士徇名，壮夫重气，宁为兰摧玉折，不作瓦砾长存。若南、董之仗气直书，不避强御；韦、崔之肆情奋笔，无所阿容。虽周身之防有所不足，而遗芳余烈，人到於今称之。与夫王沈《魏书》，假回邪以窃位，董统《燕史》，持诌媚以偷荣，贯三光而洞九泉，曾未足喻其高下也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1030-10610.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1030-10612.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1030.html" action-type="chapterComment" class="comment"><i></i>史通章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

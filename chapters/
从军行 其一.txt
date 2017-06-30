@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《从军行》正文_从军行 其一_王昌龄作品 - 维普阅读网</title>
+<meta name="keywords" content="从军行,从军行原文,从军行阅读,从军行 其一全文,王昌龄作品" />
+<meta name="description" content="从军行原文阅读,从军行 其一全文在线阅读,王昌龄作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-876.html";
+var nextpage="novel-read-876-9372.html";
+var indexpage = "novel-chapter-876.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-876.html">从军行</a></strong>
+<strong><a href="novel-chapter-876.html">从军行目录</a></strong>
+<span>从军行 其一</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-876.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>从军行 其一</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王昌龄&amp;searchsubmit=yes"  target="_blank">王昌龄</a><span class="divide">|</span>发布时间：2014-11-09 19:20:37<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>烽火城西百尺楼，黄昏独上海风秋。<br/>更吹羌笛关山月，无那金闺万里愁。<br/><br/>【注释】<br/>①烽火：又称烽燧，古代边防报警的两种信号。白昼报警燃烟，称为燔燧，因常用薪草及狼粪，故又称狼烟；夜晚则燃火，称为“烽”。<br/>②海：指青海湖。<br/>③羌笛：羌族乐器，属横吹式管乐。关山月：乐府横吹曲名，内容多写戍边生活。<br/>④无那：无奈。金闺：古时称年轻女子的居室为闺房。<br/><br/>【译文】<br/>烽火城西面的楼高有百尺，<br/>黄昏时我独自登上戌楼，沐浴着青海湖来的秋风。<br/>羌笛吹奏《关山月》的乐曲被秋风从远处带来，<br/>无论如何也消除不了我对万里之外的妻子的思念。<br/><br/>【赏析】<br/>　　这组《从军行》共七首,每首描写一个场面."烽火城西百尺楼"这首写的是一位处于战斗空隙之中的唐军战士和他对远方妻子的怀念.<br/><br/>　　开头两句,诗人故意创造出一种松弛宁静的气氛:没有战事,戍楼孤影,夕阳西下,晚风轻拂.但这是边境上特有的暂时的平静,静谧中潜伏着肃杀和紧张.在这样的情景下,战士想家是极自然的.于是接下去写他吹起笛子,吹的是寄托着"伤离别"之情的《关山月》曲调.通过笛声,我们已体察到这位战士思念家乡亲人的感情.末句却从对面写来:不直说战士对妻子的思念有多苦多切,而说他想到妻子在万里之外因为挂念自己而忧愁伤心,夫妻两人对长久的别离、无望的等待都同样地无可奈何.这就把广大守边战士的苦闷心情典型地表达出来,并取得了令人感动和同情的艺术效果。<br/><br/>　　这一首，刻画了边疆戍卒怀乡思亲的深挚感情。<br/><br/>　　这首诗，笔法简洁而富蕴意，写法上很有特色。诗人巧妙地处理了叙事与抒情的关系。前三句叙事，描写环境，采用了层层深入、反复渲染的手法，创造气氛，为第四句抒情作铺垫，突出了抒情句的地位，使抒情句显得格外警拔有力。“烽火城西”，一下子就点明了这是在青海烽火城西的瞭望台上。荒寂的原野，四顾苍茫，只有这座百尺高楼，这种环境很容易引起人的寂寞之感。时令正值秋季，凉气侵人，正是游子思亲、思妇念远的季节。时间又逢黄昏，“鸡栖于埘，日之夕矣，羊牛下来。君子于役，如之何勿思!”(《诗经·王风·君子于役》)这样的时间常常触发人们思念于役在外的亲人。而此时此刻，久戍不归的征人恰恰独自走孤零零的戍楼上。天地悠悠，牢落无偶，思亲之情正随着青海湖方向吹来的阵阵秋风任意翻腾。上面所描写的，都是通过视觉所看到的环境，没有声音，还缺乏立体感。接着诗人写道：“更吹羌笛关山月”。在寂寥的环境中，传来了阵阵呜呜咽咽的笛声，就象亲人在呼唤，又象是游子的叹息。这缕缕笛声，恰似一根导火线，使边塞征人积郁在心中的思亲感情，再也控制不住，终于来了个大爆发，引出了诗的最后一句。这一缕笛声，对于“独坐”在孤楼之上的闻笛人来说是景，但这景又饱含着吹笛人所抒发的情，使环境更具体、内容更丰富了。诗人用这亦情亦景的句子，不露痕迹，完成了由景入情的转折过渡.<br/><br/>　　各句赏析：开头两句，诗人故意创造出一种松弛宁静的气氛：没有战事，戍楼孤影，夕阳西下，晚风轻拂。但这是边境上特有的暂时的平静，静谧中潜伏着肃杀和紧张。在这样的情景下，战士想家是极自然的。于是接下去写他吹起笛子，吹的是寄托着“伤离别”之情的《关山月》曲调。通过笛声，我们已体察到这位战士思念家乡亲人的感情。末句却从对面写来：不直说战士对妻子的思念有多苦多切，而说他想到妻子在万里之外因为挂念自己而忧愁伤心，夫妻两人对长久的别离、无望的等待都同样地无可奈何。这就把广大守边战士的苦闷心情典型地表达出来，并取得了令人感动和同情的艺术效果。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-876.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-876-9372.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-876.html" action-type="chapterComment" class="comment"><i></i>从军行章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

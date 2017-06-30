@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《庄子》正文_外篇·天运_庄子作品 - 维普阅读网</title>
+<meta name="keywords" content="庄子,庄子原文,庄子阅读,外篇·天运全文,庄子作品" />
+<meta name="description" content="庄子原文阅读,外篇·天运全文在线阅读,庄子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-39-996.html";
+var nextpage="novel-read-39-998.html";
+var indexpage = "novel-chapter-39.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-39.html">庄子</a></strong>
+<strong><a href="novel-chapter-39.html">庄子目录</a></strong>
+<span>外篇·天运</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-39-996.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>外篇·天运</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=庄子&amp;searchsubmit=yes"  target="_blank">庄子</a><span class="divide">|</span>发布时间：2014-07-22 21:05:48<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　“天其运乎？地其处乎？日月其争于所乎？孰主张是？孰维纲是？ 孰居无事推而行是？意者其有机缄而不得已乎？意者其运转而不能自 止邪？云者为雨乎？雨者为云乎？孰隆施是？孰居无事淫乐而劝是？ 风起北方，一西一东，有上仿徨。孰嘘吸是？孰居无事而披拂是？敢 问何故？”巫咸囗（左“礻”右“召”音ｓｈａｏ４）曰：“来，吾 语女。天有六极五常，帝王顺之则治，逆之则凶。九洛之事，治成德 备，临照下土，天下戴之，此谓上皇。”<br/><br/>　　商大宰荡问仁于庄子。庄子曰：“虎狼，仁也。”曰：“何谓也？ ”庄子曰：“父子相亲，何为不仁！”曰：“请问至仁。”庄子曰： “至仁无亲。”大宰曰：“荡闻之，无亲则不爱，不爱则不孝。谓至 仁不孝，可乎？”庄子曰：“不然，夫至仁尚矣，孝固不足以言之。 此非过孝之言也，不及孝之言也。夫南行者至于郢，北面而不见冥山 ，是何也？则去之远也。故曰：以敬孝易，以爱孝难；以爱孝易，而 忘亲难；忘亲易，使亲忘我难；使亲忘我易，兼忘天下难；兼忘天下 易，使天下兼忘我难。夫德遗尧、舜而不为也，利泽施于万世，天下 莫知也，岂直大息而言仁孝乎哉！夫孝悌仁义，忠信贞廉，此皆自勉 以役其德者也，不足多也。故曰：至贵，国爵并焉；至富，国财并焉 ；至愿，名誉并焉。是以道不渝。”<br/><br/>　　北门成问于黄帝曰：“帝张咸池之乐于洞庭之野，吾始闻之惧，复 闻之怠，卒闻之而惑，荡荡默默，乃不自得。”帝曰：“汝殆其然哉 ！吾奏之以人，徵之以天，行之以礼义，建之以大清。夫至乐者，先 应之以人事，顺之以天理，行之以五德，应之以自然。然后调理四时 ，太和万物。四时迭起，万物循生。一盛一衰，文武伦经。一清一浊 ，阴阳调和，流光其声。蛰虫始作，吾惊之以雷霆。其卒无尾，其始 无首。一死一生，一偾一起，所常无穷，而一不可待。汝故惧也。吾 又奏之以阴阳之和，烛之以日月之明。其声能短能长，能柔能刚，变 化齐一，不主故常。在谷满谷，在坑满坑。涂囗（左“谷”右“阝” ）守神，以物为量。其声挥绰，其名高明。是故鬼神守其幽，日月星 辰行其纪。吾止之于有穷，流之于无止。子欲虑之而不能知也，望之 而不能见也，逐之而不能及也。傥然立于四虚之道，倚于槁梧而吟： ‘目知穷乎所欲见，力屈乎所欲逐，吾既不及，已夫！’形充空虚， 乃至委蛇。汝委蛇，故怠。吾又奏之以无怠之声，调之以自然之命。 故若混逐丛生，林乐而无形，布挥而不曳，幽昏而无声。动于无方， 居于窈冥，或谓之死，或谓之生；或谓之实，或谓之荣。行流散徙， 不主常声。世疑之，稽于圣人。圣也者，达于情而遂于命也。天机不 张而五官皆备。此之谓天乐，无言而心说。故有焱氏为之颂曰：‘听 之不闻其声，视之不见其形，充满天地，苞裹六极。’汝欲听之而无 接焉，而故惑也。乐也者，始于惧，惧故祟；吾又次之以怠，怠故遁 ；卒之于惑，惑故愚；愚故道，道可载而与之俱也。”<br/><br/>　　孔子西游于卫，颜渊问师金曰：“以夫子之行为奚如？”师金曰： “惜乎！而夫子其穷哉！”颜渊曰：“何也？”师金曰：“夫刍狗之 未陈也，盛以箧衍，巾以文绣，尸祝齐戒以将之。及其已陈也，行者 践其首脊，苏者取而爨之而已。将复取而盛以箧衍，巾以文绣，游居 寝卧其下，彼不得梦，必且数眯焉。今而夫子亦取先王已陈刍狗，聚 弟子游居寝卧其下。故伐树于宋，削迹于卫，穷于商周，是非其梦邪 ？围于陈蔡之间，七日不火食，死生相与邻，是非其眯邪？夫水行莫 如用舟，而陆行莫如用车。以舟之可行于水也，而求推之于陆，则没 世不行寻常。古今非水陆与？周鲁非舟车与？今蕲行周于鲁，是犹推 舟于陆也！劳而无功，身必有殃。彼未知夫无方之传，应物而不穷者 也。且子独不见夫桔槔者乎？引之则俯，舍之则仰。彼，人之所引， 非引人者也。故俯仰而不得罪于人。故夫三皇五帝之礼义法度，不矜 于同而矜于治。故譬三皇五帝之礼义法度，其犹囗（左“木”右“且 ”）梨橘柚邪！其味相反而皆可于口。故礼义法度者，应时而变者也 。今取囗（“援”字以“犭”代“扌”）狙而衣以周公之服，彼必囗 （“龄”字以“乞”代“令”）啮挽裂，尽去而后慊。观古今之异， 犹囗狙之异乎周公也。故西施病心而颦其里，其里之丑人见之而美之 ，归亦捧心而颦其里。其里之富人见之，坚闭门而不出；贫人见之， 挈妻子而去之走。彼知颦美而不知颦之所以美。惜乎，而夫子其穷哉 ！”<br/><br/>　　孔子行年五十有一而不闻道，乃南之沛见老聃。老聃曰：“子来乎 ？吾闻子，北方之贤者也！子亦得道乎？”孔子曰：“未得也。”老 子曰：“子恶乎求之哉？”曰：“吾求之于度数，五年而未得也。” 老子曰：“子又恶乎求之哉？”曰：“吾求之于阴阳，十有二年而未 得也。”老子曰：“然，使道而可献，则人莫不献之于其君；使道而 可进，则人莫不进之于其亲；使道而可以告人，则人莫不告其兄弟； 使道而可以与人，则人莫不与其子孙。然而不可者，无它也，中无主 而不止，外无正而不行。由中出者，不受于外，圣人不出；由外入者 ，无主于中，圣人不隐。名，公器也，不可多取。仁义，先王之蘧庐 也，止可以一宿而不可久处。觏而多责。古之至人，假道于仁，托宿 于义，以游逍遥之虚，食于苟简之田，立于不贷之圃。逍遥，无为也 ；苟简，易养也；不贷，无出也。古者谓是采真之游。以富为是者， 不能让禄；以显为是者，不能让名。亲权者，不能与人柄，操之则栗 ，舍之则悲，而一无所鉴，以窥其所不休者，是天之戮民也。怨、恩 、取、与、谏、教、生杀八者，正之器也，唯循大变无所湮者为能用 之。故曰：正者，正也。其心以为不然者，天门弗开矣。”<br/><br/>　　孔子见老聃而语仁义。老聃曰：“夫播糠眯目，则天地四方易位矣 ；蚊虻囗（左“口”右上“先先”右下“日”音ｚａｎ４）肤，则通 昔不寐矣。夫仁义惨然，乃愤吾心，乱莫大焉。吾子使天下无失其朴 ，吾子亦放风而动，总德而立矣！又奚杰杰然若负建鼓而求亡子者邪 ！夫鹄不日浴而白，乌不日黔而黑。黑白之朴，不足以为辩；名誉之 观，不足以为广。泉涸，鱼相与处于陆，相囗（左“口”右“句”） 以湿，相濡以沫，不若相忘于江湖。”<br/><br/>　　孔子见老聃归，三日不谈。弟子问曰：“夫子见老聃，亦将何规哉 ？”孔子曰：“吾乃今于是乎见龙。龙，合而成体，散而成章，乘乎 云气而养乎阴阳。予口张而不能囗（左“口”右上“力”右中“力力 ”右下“月”音ｘｉｅ２）。予又何规老聃哉？”子贡曰：“然则人 固有尸居而龙见，雷声而渊默，发动如天地者乎？赐亦可得而观乎？ ”遂以孔子声见老聃。老聃方将倨堂而应，微曰：“予年运而往矣， 子将何以戒我乎？”子贡曰：“夫三皇五帝之治天下不同，其系声名 一也。而先生独以为非圣人，如何哉？”老聃曰：“小子少进！子何 以谓不同？”对曰：“尧授舜，舜授禹。禹用力而汤用兵，文王顺纣 而不敢逆，武王逆纣而不肯顺，故曰不同。”老聃曰：“小子少进， 余语汝三皇五帝之治天下：黄帝之治天下，使民心一。民有其亲死不 哭而民不非也。尧之治天下，使民心亲。民有为其亲杀其杀而民不非 也。舜之治天下，使民心竞。民孕妇十月生子，子生五月而能言，不 至乎孩而始谁，则人始有夭矣。禹之治天下，使民心变，人有心而兵 有顺，杀盗非杀人。自为种而‘天下’耳。是以天下大骇，儒墨皆起 。其作始有伦，而今乎妇女，何言哉！余语汝：三皇五帝之治天下， 名曰治之，而乱莫甚焉。三皇之知，上悖日月之明，下睽山川之精， 中堕四时之施。其知惨于蛎虿之尾，鲜规之兽，莫得安其性命之情者 ，而犹自以为圣人，不可耻乎？其无耻也！”子贡蹴蹴然立不安。<br/><br/>　　孔子谓老聃曰：“丘治《诗》、《书》、《礼》、《乐》、《易》 、《春秋》六经，自以为久矣，孰知其故矣，以奸者七十二君，论先 王之道而明周、召之迹，一君无所钩用。甚矣！夫人之难说也？道之 难明邪？”老子曰：“幸矣，子之不遇治世之君！夫六经，先王之陈 迹也，岂其所以迹哉！今子之所言，犹迹也。夫迹，履之所出，而迹 岂履哉！夫白囗（左上“臼”左下“儿”右“鸟”音ｙｉ４）之相视 ，眸子不运而风化；虫，雄鸣于上风，雌应于下风而风化。类自为雌 雄，故风化。性不可易，命不可变，时不可止，道不可壅。苟得于道 ，无自而不可；失焉者，无自而可。”孔子不出三月，复见，曰：“ 丘得之矣。乌鹊孺，鱼傅沫，细要者化，有弟而兄啼。久矣，夫丘不 与化为人！不与化为人，安能化人。”老子曰：“可，丘得之矣！”<br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-39-996.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-39-998.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-39.html" action-type="chapterComment" class="comment"><i></i>庄子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

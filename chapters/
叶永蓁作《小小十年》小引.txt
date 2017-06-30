@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《三闲集》正文_叶永蓁作《小小十年》小引_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="三闲集,三闲集原文,三闲集阅读,叶永蓁作《小小十年》小引全文,鲁迅作品" />
+<meta name="description" content="三闲集原文阅读,叶永蓁作《小小十年》小引全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-549-7448.html";
+var nextpage="novel-read-549-7450.html";
+var indexpage = "novel-chapter-549.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-549.html">三闲集</a></strong>
+<strong><a href="novel-chapter-549.html">三闲集目录</a></strong>
+<span>叶永蓁作《小小十年》小引</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-549-7448.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>叶永蓁作《小小十年》小引</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-04 20:40:35<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>这是一个青年的作者，以一个现代的活的青年为主角，描写他十年中的行动和思想的书。 <br/><br/>　　旧的传统和新的思潮，纷纭于他的一身，爱和憎的纠缠，感情和理智的冲突，缠绵和决撒的迭代，欢欣和绝望的起伏，都逐着这“小小十年”而开展，以形成一部感伤的书，个人的书。但时代是现代，所以从旧家庭所希望的“上进”而渡到革命，从交通不大方便的小县而渡到“革命策源地”的广州，从本身的婚姻不自由而渡到伟大的社会改革——但我没有发见其间的桥梁。 <br/><br/>　　一个革命者，将——而且实在也已经（！）——为大众的幸福斗争，然而独独宽恕首先压迫自己的亲人，将枪口移向四面是敌，但又四不见敌的旧社会；一个革命者，将为人我争解放，然而当失去爱人的时候，却希望她自己负责，并且为了革命之故，不愿自己有一个情敌，——志愿愈大，希望愈高，可以致力之处就愈少，可以自解之处也愈多。——终于，则甚至闪出了惟本身目前的刹那间为惟一的现实一流的阴影。在这里，是屹然站着一个个人主义者，遥望着集团主义的大纛，但在“重上征途”〔２〕之前，我没有发见其间的桥梁。释迦牟尼〔３〕出世以后，割肉喂鹰，投身饲虎的是小乘，渺渺茫茫地说教的倒算是大乘，总是发达起来，我想，那机微就在此。 <br/><br/>　　然而这书的生命，却正在这里。他描出了背着传统，又为世界思潮所激荡的一部分的青年的心，逐渐写来，并无遮瞒，也不装点，虽然间或有若干辩解，而这些辩解，却又正是脱去了自己的衣裳。至少，将为现在作一面明镜，为将来留一种记录，是无疑的罢。多少伟大的招牌，去年以来，在文摊上都挂过了，但不到一年，便以变相和无物，自己告发了全盘的欺骗，中国如果还会有文艺，当然先要以这样直说自己所本有的内容的著作，来打退骗局以后的空虚。因为文艺家至少是须有直抒己见的诚心和勇气的，倘不肯吐露本心，就更谈不到什么意识。 <br/><br/>　　我觉得最有意义的是渐向战场的一段，无论意识如何，总之，许多青年，从东江起，而上海，而武汉，而江西，为革命战斗了，其中的一部分，是抱着种种的希望，死在战场上，再看不见上面摆起来的是金交椅呢还是虎皮交椅。种种革命，便都是这样地进行，所以掉弄笔墨的，从实行者看来，究竟还是闲人之业。 <br/><br/>　　这部书的成就，是由于曾经革命而没有死的青年。我想，活着，而又在看小说的人们，当有许多人发生同感。 <br/><br/>　　技术，是未曾矫揉造作的。因为事情是按年叙述的，所以文章也倾泻而下，至使作者在《后记》里，不愿称之为小说〔４〕，但也自然是小说。我所感到累赘的只是说理之处过于多，校读时删节了一点，倘使反而损伤原作了，那便成了校者的责任。还有好像缺点而其实是优长之处，是语汇的不丰，新文学兴起以来，未忘积习而常用成语如我的和故意作怪而乱用谁也不懂的生语如创造社一流的文字，都使文艺和大众隔离，这部书却加以扫荡了，使读者可以更易于了解，然而从中作梗的还有许多新名词。 <br/><br/>　　通读了这部书，已经在一月之前了，因为不得不写几句，便凭着现在所记得的写了这些字。我不是什么社的内定的“斗争”的“批评家”之一员，只能直说自己所愿意说的话。我极欣幸能绍介这真实的作品于中国，还渴望看见“重上征途”以后之作的新吐的光芒。 <br/><br/>　　一九二九年七月二十八日，于上海，鲁迅记。 <br/><br/>　　<br/><br/><br/>　　〔１〕本篇最初发表于一九二九年八月十五日上海《春潮月刊》第一卷第八期。 <br/><br/>　　叶永蓁，浙江乐清人，第一次国内革命战争时期黄埔军校第五期学生，后为国民党军队的军官。《小小十年》是他的一部自传体长篇小说，一九二九年九月上海春潮书局出版。 <br/><br/>　　〔２〕“重上征途”《小小十年》的最后一章。<br/><br/>　　〔３〕释迦牟尼（Ｓａｋｙａｍｕｎｉ，约前５６５—前４８６）佛教创始人。相传是北天竺迦毗罗卫国（在今尼泊尔境内）净饭王的儿子，二十九岁时出家修行，后“悟道成佛”。 <br/><br/>　　〔４〕小说作者在《后记》中说：“写到这里，总算有好几万字了。但我也不知道究竟写了些什么。小说吗？不像！散文吗？不像！”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-549-7448.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-549-7450.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-549.html" action-type="chapterComment" class="comment"><i></i>三闲集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

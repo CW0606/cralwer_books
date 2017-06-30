@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《管子》正文_山权数_管仲作品 - 维普阅读网</title>
+<meta name="keywords" content="管子,管子原文,管子阅读,山权数全文,管仲作品" />
+<meta name="description" content="管子原文阅读,山权数全文在线阅读,管仲作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-43-1189.html";
+var nextpage="novel-read-43-1191.html";
+var indexpage = "novel-chapter-43.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-43.html">管子</a></strong>
+<strong><a href="novel-chapter-43.html">管子目录</a></strong>
+<span>山权数</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-43-1189.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>山权数</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=管仲&amp;searchsubmit=yes"  target="_blank">管仲</a><span class="divide">|</span>发布时间：2014-07-24 21:05:57<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　桓公问管子曰：“请问权数。”管子对曰：“天以时为权，地以财为权，人以力为权，君以令为权。失天之权，则人地之权亡。”桓公曰：“何为失天之权则人地之权亡？”管子对曰：“汤七年旱，禹五年水，民之无(米亶)卖子者。汤以庄山之金铸币，而赎民之无(米亶)卖子者；禹以历山之金铸币，而赎民之无�卖子者。故天权失，人地之权皆失也。故王者岁守十分之参，三年与少半成岁，三十一年而藏十一年与少半。藏三之一不足以伤民，而农夫敬事力作。故天毁埊，凶旱水泆，民无入于沟壑乞请者也。此守时以待天权之道也。”桓公曰：“善。吾欲行三权之数，为之奈何？”管子对曰：“梁山之阳綪�、夜石之币，天下无有。”管子曰：“以守国谷，岁守一分，以行五年，国谷之重什倍异日。”管子曰：“请立币，国铜以二年之粟顾之，立黔落。力重与天下调。彼重则见射，轻则见泄，故与天下调。泄者，失权也；见射者，失策也。不备天权，下相求备，准下阴相隶。此刑罚之所起而乱之之本也。故平则不平，民富则不如贫，委积则虚矣。此三权之失也已。”桓公曰：“守三权之数奈何？”管子对曰：“大丰则藏分，阨亦藏分。”桓公曰：“阨者，所以益也。何以藏分？”管子对曰：“隘则易益也，一可以为十，十可以为百。以阨守丰，阨之准数一上十，丰之策数十去九，则吾九为余。于数策丰，则三权皆在君，此之谓国权。”<br/><br/>　　桓公问于管子曰：“请问国制。”管子对曰：“国无制，地有量。”桓公曰，“何谓国无制，地有量？”管子对曰：“高田十石，间田五石，庸田三石，其余皆属诸荒田。地量百亩，一夫之力也。粟贾一，粟贾十，粟贾三十，粟贾百。其在流策者，百亩从中千亩之策也。然则百乘从千乘也，千乘从万乘也。故地有量，国无策。”桓公曰：“善。今欲为大国，大国欲为天下，不通权策，其无能者矣。”<br/><br/>　　桓公曰：“今行权奈何？”管子对曰：“君通于广狭之数，不以狭畏广；通于轻重之数，不以少畏多。此国策之大者也。”桓公曰：“善。盖天下，视海内，长誉而无止，为之有道乎？”管子对曰：“有。曰：轨守其数，准平其流，动于未形，而守事已成。物一也而十，是九为用。徐疾之数，轻重之策也，一可以为十，十可以为百。引十之半而藏四，以五操事，在君之决塞。”桓公曰：“何谓决塞？”管子曰：“君不高仁，则国不相被；君不高慈孝，则民简其亲而轻过。此乱之至也。则君请以国策十分之一者树表置高，乡之孝子聘之币，孝子兄弟众寡不与师旅之事。树表置高而高仁慈孝，财散而轻。乘轻而守之以策，则十之五有在上。运五如行事，如日月之终复。此长有天下之道，谓之准道。”<br/><br/>　　桓公问于管子曰：“请问教数。”管子对曰：“民之能明于农事者，置之黄金一斤，直食八石。民之能蕃育六畜者，置之黄金一斤，直食八石。民之能树艺者，置之黄金一斤，直食八石。民之能树瓜瓠荤菜百果使蕃衮者，置之黄金一斤，直食八石。民之能已民疾病者，置之黄金一斤，直食八石。民之知时：曰‘岁旦阨’，曰‘某谷不登’曰‘某谷丰’者，置之黄金一斤，直食八石。民之通于蚕桑，使蚕不疾病者，皆置之黄金一斤，直食八石。谨听其言而藏之官，使师旅之事无所与，此国策之者也。国用相靡而足，相困揲而（上次下吉），然后置四限高下，令之徐疾，驱屏万物，守之以策，有五官技。”桓公曰：“何谓五官技？”管子曰：“诗者所以记物也，时者所以记岁也，春秋者所以记成败也，行者道民之利害也，易者所以守凶吉成败也，卜者卜凶吉利害也。民之能此者皆一马之田，一金之衣。此使君不迷妄之数也。六家者，即见：其时，使豫先蚤闲之日受之，故君无失时，无失策，万物兴丰；无失利，远占得失，以为末教；诗，记人无失辞；行，殚道无失义；易，守祸福凶吉不相乱。此谓君棅。”<br/><br/>　　桓公问于管子曰：“权棅之数吾已得闻之矣，守国之固奈何？”曰：“能皆已官，时皆已官，得失之数，万物之终始，君皆已官之矣。其余皆以数行。”桓公曰：“何谓以数行？”管子对曰：“谷者民之司命也，智者民之辅也。民智而君愚，下富而君贫，下贫而君富，此之谓事名二。国机，徐疾而已矣。君道，度法而已矣。人心，禁缪而已矣。”桓公曰：“何谓度法？何谓禁缪？”管子对曰：“度法者，量人力而举功；禁缪者，非往而戒来。故祸不萌通而民无患咎。”桓公曰：“请闻心禁。”管子对曰：“晋有臣不忠于其君，虑杀其主，谓之公过。诸公过之家毋使得事君。此晋之过失也。齐之公过，坐立长差。恶恶乎来刑，善善乎来荣，戒也。此之谓国戒。”<br/><br/>　　桓公问管子曰：“轻重准施之矣，策尽于此乎？”管子曰：“未也，将御神用宝。”桓公曰：“何谓御神用宝？”管子对曰：“北郭有掘阙而得龟者，此检数百里之地也。”桓公曰：“何谓得龟百里之地？”管子对曰：“北郭之得龟者，令过之平盘之中。君请起十乘之使，百金之提，命北郭得龟之家曰：‘赐若服中大夫。’曰：‘东海之子类于龟，托舍于若。赐若大夫之服以终而身，劳若以百金。’之龟为无赀，而藏诸泰台，一日而衅之以四牛，立宝曰无赀。还四年，伐孤竹。丁氏之家粟可食三军之师行五月，召丁氏而命之曰；‘吾有无赀之宝于此。吾今将有大事，请以宝为质于子，以假子之邑粟。’丁氏北乡再拜，入粟，不敢受宝质。桓公命丁氏曰：‘寡人老矣，为子者不知此数。终受吾质！’丁氏归，革筑室，赋籍藏龟。还四年，伐孤竹，谓丁氏之粟中食三军五月之食。桓公立贡数：文行中七，年龟中四千金，黑白之子当千金。凡贡制，中二齐之壤策也，用贡：国危出宝，国安行流。”桓公曰：“何谓流？”管子对曰：“物有豫，则君失策而民失生矣。故善为天下者，操于二豫之外。”桓公曰：“何谓二豫之外？”管子对曰：“万乘之国，不可以无万金之蓄饰；千乘之国，不可以无千金之蓄饰；百乘之国，不可以无百金之蓄饰。以此与令进退，此之谓乘时。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-43-1189.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-43-1191.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-43.html" action-type="chapterComment" class="comment"><i></i>管子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

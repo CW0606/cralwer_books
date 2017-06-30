@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《三十六计》正文_第三十计 反客为主_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="三十六计,三十六计原文,三十六计阅读,第三十计 反客为主全文,佚名作品" />
+<meta name="description" content="三十六计原文阅读,第三十计 反客为主全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-232-3064.html";
+var nextpage="novel-read-232-3066.html";
+var indexpage = "novel-chapter-232.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-232.html">三十六计</a></strong>
+<strong><a href="novel-chapter-232.html">三十六计目录</a></strong>
+<span>第三十计 反客为主</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-232-3064.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第三十计 反客为主</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-08-19 22:48:36<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>本是客人却用主人的口气说话。后指在一定的场合下采取主动措施，以声势压倒别人。<br/>【原典】<br/>乘隙插足，扼其主机①，渐之进也②。<br/>【注释】<br/>①乘隙插足，扼其主机：把准时机插足进去，掌握他的要害关节之处。<br/>②渐之进也：语出《易经．渐》卦。（渐卦解释见前计②）本卦《彖》辞：“渐之进也。”意为渐就是渐进的意思。<br/>此计运用此理，是说乘隙插足，扼其主机。《易经．渐》卦上说的就是这个意思，要循序渐进。<br/>【按语】<br/>为人驱使者为奴，为人尊处者为客，不能立足者为暂客，能立足者为久客，客久而不能主事者为贱客，能主事则可渐握机要，而为主矣。故反客为主之局：第—步须争客位；第二步须乘隙；第三步须插足；第四足须握机；第五乃为主。为主，则并人之军矣；此渐进之阴谋也。如李渊书尊李密，密卒以败；汉高视势未敌项羽之先，卑事项羽。使其见信，而渐以侵其势，至垓下—役，—亡举之。<br/>【故事】<br/>反客为主<br/>　　春秋时，宋襄公因平定齐国内乱、成功地扶助齐世子昭为齐君侯，于是就有了主盟称霸的企图。他先约滕、曹、邾（音：朱）、郐（音：快）等小国盟会，第二年，又召集齐、楚盟会，楚成王十分看不惯宋襄公自以为霸、自不量力的高傲行为，但为了给宋襄公还以颜色，而答应参加盟会。宋公子目夷对襄公进谏道：“楚成王存心不良，他突然答应会盟，其中必有诈，君王你一定要严加防范为好。”，襄公怒色地说：“我是以仁义、守信为准则的，我是主盟者，如果我首先违反了同盟规定，那我以后还有什么脸面去面对众诸侯国呢。”，宋襄公屡次不听从目夷的良谏，简装前去赴会。而楚成王却事先安排一千名兵士假装文客，悄悄地尾随而行。等到众诸侯国国君一齐拜坛会盟时，只见楚成王一声号令，其一千兵甲脱掉外服、露出全身的作战铠甲，又纷纷拿出暗藏的刀剑，齐刹刹地从两旁杀出，令在场的君主们惊恐万分。楚成王下令捉住宋襄公，列数其数大罪状，反而夺了他的盟主之位，众诸侯君主迫于他的淫威，只得唯唯是婼。后来，幸好宋大夫公孙固同公子目夷等设计，才迫使楚成王释放了毫无价值的襄公。<br/><br/>大学生招聘<br/>　　大大小小的招聘会上，主人都是用人单位，以挑剔的目光选择人才；毕业生就是客人，要等待主人的挑选，听从主人的安排。河北大学新闻学院举行过一次“反招聘”活动，毕业生反客为主，更改了这种传统方式。<br/>　　这次“反招聘”活动的“主人”是河北大学新闻学院广告系的全体应届毕业生，参加招聘会的客人有Bestformulations、石家庄神威药业、保定金风帆集团等近40家用人单位。<br/>　　活动分为人才信息发布会和“反招聘”洽谈会两部分。在上午的信息发布会上，广告系的30个毕业生向用人单位展示了他们分赴北京、上海、广州、天津、石家庄、昆明、厦门等地的实习作品，并介绍了自己的特长，提出了就业意向和条件。下午的洽谈会上，用人单位向学生介绍了单位各自的状况和人才需求信息。双方在自由、轻松的气氛中进行了长时间的交流、谈判，最终有近10名学生与用人单位达成了就业意向。<br/>　　这次活动的主要策划人之一，广告班班长王宏宇谈到举办此次活动的目的时说，以前我也多次参加过人才交流会，几乎所有的招聘模式都一样，都分初试、笔试、面试几个步骤。整个过程要拖很长时间。假如单位在外地，还要花很多路费。有时候递上一份简历就没了下文，连展示自己的机会都没有。传统的招聘方式效率比较低，在一定程度上还是单向选择，而非真正意义上的双向选择。<br/>　　美国Bestformulations中国总部总裁杜先生在谈到传统招聘时也有同样的感受。他说每年企业都要为招聘新人花去很大精力，而且仅凭简历就淘汰很多人，这其中难免会埋没许多真正的人才。“反招聘”则给了用人单位和大学生双方更多的互相了解和交流的机会，交流形式也更直接更便捷，效率当然更高。他希望这种“反招聘”能在大专院校推广开来。<br/>　　河北大学学生处处长认为，这次活动是人才交流方式的一次创新，从形式上讲是人才市场由买方市场向卖方市场转化的一次大胆尝试。<br/><br/>林冲发怒杀王伦<br/>　　《水浒传》中，晁盖、吴用等人智劫生辰纲，又在石碣村大败官兵之后，便投奔了水泊梁山。<br/>　　不料，梁山寨主“白衣秀士”王伦嫉贤妒能，心胸狭窄，担心众豪杰入伙之后，危及自己所坐的第一把交椅，竟不愿意收留。<br/>　　梁山内的好汉林冲对王伦愤愤不平。“智多星”吴用窥破其中隐情，便决定唆使林冲火并王伦。<br/>　　次日，吴用在与林冲交谈中表示：既然王伦不愿收留，只好另投别处，劝林冲不必为“新兄弟”而与王伦翻脸。林冲是一个性情耿直的汉子，经吴用这么一激，反倒生出火并之意。那天，王伦以“粮少房稀”，“一洼之水难容众多真龙”为由，对晁盖、吴用等人下了逐客令。林冲再也按捺不住了，直言痛斥王伦笑里藏刀，言清行浊。吴用乘机劝林冲“不要火并”，并派人看住山寨的其他首领。林冲骂得兴起，顺势一刀斩了王伦，随即提议晁盖为山寨之主。晁盖表白自己“强宾不压主”，但盛情难却，还是坐上了山寨的头把交椅。<br/>　　吴用智激林冲杀了王伦，使晁盖等好汉从求人收留的宾客，一变而成为山寨的主人。这便是典型的反客为主。<br/><br/>宁王造反先发制人<br/>　　宁王朱宸濠的反叛行为被披露后，明武宗立即下旨搜查宁王在京的死党，并派大臣赴南昌宣读圣旨收撤宁藩。宁王派往京师打探情报的侦卒飞速回南昌报信。<br/>　　这时，朱宸濠正在宁王府开筵祝贺自己的生日，听到这个令人震惊的消息后立即召谋士刘养正等人商议对策。刘养正认为，事已至此，非常危急，要先发制人，利用祝贺生日之机，将江西官员一网打尽，然后，揭起反旗，夺取帝位。<br/>　　朱宸濠生日的第二天，诸官员陆续来到宁王府谢宴。拜见已毕，忽见府中出现许多披甲带刀的武士，大家正在惊愕之际，朱宸濠立于露台之上，宣布奉太后密诏，准备起兵入朝。众官见状，只好面面相觑，不敢有异词。惟有巡抚孙遂、按察司副使许逵出来表示反对，这二人当即被卫士捆绑起来，押出斩首。<br/>　　随后，朱宸濠命刘养正为右丞相，李士实为左丞相，并草拟檄文，传达四方。宁王的军队顺江攻下九江、南康等地，一时间，数城俱陷。明廷闻报，惊恐万分，急忙调兵遣将前去平叛。<br/>　　宁王朱宸濠在阴谋刚刚败露时，采取先发制人的手段，将江西官员一网打尽，并乘机起兵，使明廷在突然的事变之下，措手不及，一度陷于被动。<br/><br/>英荷争夺海上霸权<br/>　　17世纪中叶，英国正在向海上霸权的宝座冲刺时，又遇到了一个新的强大对手——荷兰。当时的荷兰处于资本主义发展的黄金时期，拥有近2万艘商船，被誉为“海上马车夫”。大英帝国不能容忍荷兰人对财富的聚敛和对英国海上霸权的挑衅。为牢固树立自己的霸主地位，夺取荷兰人的商业利益，英国准备与荷兰人进行一场生死较量。但是，由于荷兰人大都进行正当的海上运输和贸易，很少有侵犯英国利益的行为，英国一时找不到发动战争的借口。<br/>　　英国人终于精心策划出一条激怒荷兰人的计策。1651年10月9日，英国议会悍然通过《航海条例》，规定凡英国的进口产品只准英国船只或原生产国船只运送，出口产品只准英国船只运送。该条例实际剥夺了荷兰人经营海上运输的权力，激怒了“海上马车夫”。英、荷双方剑拔弩张，战争迫在眉睫。这正是英国希望出现的局面。由于英国对战争蓄谋已久，有充分的准备，而荷兰人是仓猝应战的，因此第一次英荷战争以荷兰失败而告终，荷兰被迫承认《航海条例》。从此，荷兰丧失了海上贸易的主宰地位，英国确立了海上霸权。<br/><br/>俾斯麦借火点烟<br/>　　1851年5月11日，法兰克福邦联议会来了一位新代表，他就是年仅36岁的俾斯麦。法兰克福邦联议会由各邦诸侯代表组成，为争取邦联的领导权，各邦诸侯代表们之间面和心不和。<br/>　　当时奥地利在各邦中势力最强大，而俾斯麦所代表的普鲁士势力相对较弱。在邦联议会中，他对奥地利人藐视一切的做法十分不满，想找机会对奥地利人提出挑战。<br/>　　在议会中有一个不成文的惯例，就是只有担任主席的奥地利人才有权吸烟。俾斯麦看不惯这种做法，在一次会议中，当主席抽出一支雪茄烟时，他也立即拿起一支烟，并向主席借火点燃，大模大样地抽了起来，以此表明普鲁士与奥地利是平起平坐的。当然，因两国实力相差悬殊，很难争取真正的平等，但俾斯麦这一举动令主席和其他各邦代表刮目相看。<br/>　　外交中的礼仪不仅仅是形式上的，它的背后往往有更深层的含义。开展外交活动，不能忽视这些礼仪的作用，要从细微处入手，争得外交上的主动地位。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-232-3064.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-232-3066.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-232.html" action-type="chapterComment" class="comment"><i></i>三十六计章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

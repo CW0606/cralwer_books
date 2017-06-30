@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《灵枢》正文_厥病第二十四_黄帝作品 - 维普阅读网</title>
+<meta name="keywords" content="灵枢,灵枢原文,灵枢阅读,厥病第二十四全文,黄帝作品" />
+<meta name="description" content="灵枢原文阅读,厥病第二十四全文在线阅读,黄帝作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-268-4682.html";
+var nextpage="novel-read-268-4684.html";
+var indexpage = "novel-chapter-268.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-268.html">灵枢</a></strong>
+<strong><a href="novel-chapter-268.html">灵枢目录</a></strong>
+<span>厥病第二十四</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-268-4682.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>厥病第二十四</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=黄帝&amp;searchsubmit=yes"  target="_blank">黄帝</a><span class="divide">|</span>发布时间：2014-08-30 21:49:22<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>厥头痛，面若肿起而烦心，取之足阳明、太阴。厥头痛，头脉痛，心悲善泣，视头动脉反盛者，刺尽去血，后调足厥阴。厥头痛，贞贞头重而痛，泻头上五行，行五；先取手少阴，后取足少阴。厥头痛，意善忘，按之不得，取头面左右动脉，后取足太阴。厥头痛，项先痛，腰脊为应，先取天柱，后取足太阳。厥头痛，头痛甚，耳前后脉涌有热，泻出其血，后取足少阳。真头痛，头痛甚，脑尽痛，手足寒至节，死不治。头痛不可取于腧者，有所击堕，恶血在于内，若肉伤，痛未已，可则刺，不可远取也。头痛不可刺者，大痹为恶，日作者，可令少愈，不可已。头半寒痛，先取手少阳、阳明，后取足少阳、阳明。厥心痛，与背相控，善瘛，如从后触其心，伛偻者，肾心痛也，先取京骨、昆仑，发狂不已，取然谷。厥心痛，腹胀胸满，心尤痛甚，胃心痛也，取之大都、太白。厥心痛，痛如以锥针刺其心，心痛甚者，脾心痛也，取之然谷、太溪。厥心痛，色苍苍如死状，终日不得太息，肝心痛也，取之行间、太冲。厥心痛，卧若徒居，心痛间，动作痛益甚，色不变，肺心痛也，取之鱼际、太渊。真心痛，手足清至节，心痛甚，旦发夕死，夕发旦死。心痛不可刺者，中有盛聚，不可取于腧。肠中有虫瘕及蛟蛕，皆不可取以小针。心肠痛，憹作痛，肿聚，往来上下行，痛有休止，腹热，喜渴涎出者，是蛟蛕也。以手聚按而坚持之，无令得移，以大针刺之，久持之，虫不动，乃出针也。恲腹憹痛，形中上者。耳聋无闻，取耳中。耳鸣，取耳前动脉。耳痛不可刺者，耳中有脓，若有干耵聍，耳无闻也。耳聋，取手小指次指爪甲上与肉交者，先取手，后取足。耳鸣，取手中指爪甲上，左取右，右取左，先取手，后取足。足髀不可举，侧而取之，在枢合中，以员利针，大针不可刺。病注下血，取曲泉。风痹淫泺，病不可已者，足如履冰，时如入汤中，股胫淫泺，烦心头痛，时呕时悗，眩已汗出，久则目眩，悲以喜恐，短气不乐，不出三年死也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-268-4682.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-268-4684.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-268.html" action-type="chapterComment" class="comment"><i></i>灵枢章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

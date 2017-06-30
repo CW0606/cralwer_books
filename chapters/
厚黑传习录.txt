@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《厚黑学》正文_厚黑传习录_李宗吾作品 - 维普阅读网</title>
+<meta name="keywords" content="厚黑学,厚黑学原文,厚黑学阅读,厚黑传习录全文,李宗吾作品" />
+<meta name="description" content="厚黑学原文阅读,厚黑传习录全文在线阅读,李宗吾作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-519-6406.html";
+var nextpage="novel-read-519-6408.html";
+var indexpage = "novel-chapter-519.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-519.html">厚黑学</a></strong>
+<strong><a href="novel-chapter-519.html">厚黑学目录</a></strong>
+<span>厚黑传习录</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-519-6406.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>厚黑传习录</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=李宗吾&amp;searchsubmit=yes"  target="_blank">李宗吾</a><span class="divide">|</span>发布时间：2014-09-24 20:25:44<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>有人问我道：“你发明厚黑学，为什么你做事每每失败，为什么你的学生的本领还比你大，你每每吃他们的亏？”我说：“此话差矣。凡是发明家，都不可登峰造极。儒教是孔子发明的，孔子登峰造极了，颜、曾、思、孟去学孔子，他们的学问，就比孔子低一层；周、程、朱、张去学颜、曾、思、孟，学问又低一层；后来学周、程、朱、张的，更低一层，愈趋愈下，其原因就是教主的本领太大了。西洋的科学则不然，发明的时候很粗浅，越研究越精深。发明蒸汽的人，只悟得汽冲壶盖之理；发明电气的人，只悟得死蛙运动之理。后人继续研究下去，造出种种的机械，有种种的用途，这是发明蒸汽、电气的人万万没想到的。可见西洋科学，是后人胜过前人，学生胜过先生；我的“厚黑学”与西洋科学相类。我只能讲点汽冲壶盖、死蛙运动，中间许多道理，还望后人研究，我的本领当然比学生小，遇着他们，当然失败；将来他们传授些学生出来，他们自己又被学生打败。一辈胜过一辈，厚黑学自然就昌明了！”<br/><br/><br/>　　又有人问道：“你把厚黑学讲得这样神妙，为什么不见你做出一些轰轰烈烈的事情？”我说道：“我试问：你们的孔夫子，究竟做出了多少轰轰烈烈的事情？”他讲的为政为邦，道千乘之国，究竟实行了几件？曾子著一部《大学》，专讲治国平天下，请问他治的国在哪里？平的天下在哪里？子思著了一部《中庸》，说了些中和位育的话，请问他中和位育的局面实际安在？你不去质问他们，反来质问我，明师难遇，至道难闻，这种‘无上甚深微妙法，百千万劫难遭遇。’的法子，你听了还要怀疑，未免自误。”<br/><br/><br/>　　我把厚黑学发表出来，一般人读了，都说道：“你这门学问，博大精深，难于领悟，请指示一条捷径。”我问他：“想做什么？”他说：“我想弄一个官来做，并且还要轰轰烈烈的做些事，一般人都认为是大政治家。”我于是传他求官六字真言，做官六字真言和办事二妙法。<br/><br/><br/>　　（一）求官六字真言<br/><br/><br/>　　求官六字真言：“空、贡、冲、捧、恐、送”。此六字俱是仄声，其意义如下：<br/><br/><br/>　　1．空,即空闲之意，分两种：一指事务而言，求官的人，定要把一切事放下，不工不商，不农不贾，书也不读，学也不教，一心一意，专门求官。二指时间而言，求官的人要有耐心，不能着急，今日不生效，明日又来，今年不生效，明年又来。<br/><br/><br/>　　2．贡,这个字是借用的，是四川的俗语，其意义等于钻营的钻字，“钻进钻出”可以说“贡进贡出”。求官要钻营，这是众人知道的，但是定义很不容易下。有人说：“贡字的定义，是有孔必钻。”我说：“错了！只说得一半，有孔才钻，无孔者其奈之何？”我下的定义是：“有孔必钻，无孔也要入。”有孔者扩而大之；无孔者，取出钻子，新开一孔。<br/><br/><br/>　　3．冲,普通所谓之“吹牛”，四川话是“冲帽壳子”。冲的工夫有两种：一是口头上，二是文字上的。口头上又分普通场所及上司的面前两种；文字上又分报章杂志及说贴条陈两种。<br/><br/>　　4．捧,就是捧场的捧字。戏台上魏忠贤出来了，那华歆的举动，便是绝好的模范。<br/><br/><br/>　　5．恐,是恐吓的意思，是及物动词。这个字的道理很精深，我不妨多说几句。官之为物，何等宝贵，岂能轻易予人？有人把捧字做到十二万分，还不生效，这就是少了恐字的工夫；凡是当权诸公，都有软处，只要寻着他的要害，轻轻点他一下，他就会大吃一惊，立刻把官送来。学者须知，恐字与捧字，是互相为用的，善恐者捧中有恐，旁观之人，看他在上司面前说的话，句句是阿谀逢迎，其实是暗击要害，上司听了，汗流浃背。善捧者恐之中有捧，旁观的人，看他傲骨棱棱，句句话责备上司，其实受之者满心欢喜，骨节皆酥。“神而明之，存乎其人”，“巧匠能予人规矩，不能予人巧”，此需求官之人细心体会。最要紧处，用恐字的时候，要有分寸，如用过度了，大人们老羞成怒，作起对来，岂不就与求官的宗旨大相违背？这又何苦？非到无可奈何之时，恐字不能轻用。<br/><br/><br/>　　6．送,即是送东西，分大小二种：大送，把银元钞票一包一包的拿去送；小送，如春茶、火肘及请吃馆子之类。所送的人分两种，一是手握取舍之权者，二是手无取舍之权而能予我以助力者。<br/><br/><br/>　　这六字做到了，包管字字发生奇效，所谓大人物，独坐而深思时，自言自语说：某人想做官，已经说了许多次（这是空字的效用），他和我有某种关系（这是贡字的效用），其人很有点才智（这是冲字的效用），对我很好（这是捧字的效用）。但此人有点歪才，如不安置，未必不捣乱（这是恐字的效用），想到这里，回头看见桌上黑压压地，或者白亮亮地堆了一大堆（这是送字的效用），也就无话可说，挂出牌来：某缺着某人担任。<br/><br/><br/>　　求官到此，可谓功行圆满了。于是走马上任，实行做官六字真言。<br/><br/> <br/><br/>　（二）做官六字真言<br/><br/><br/>　　做官六字真言：“空、恭、绷、凶、聋、弄”。此六字俱是平声，其意义如下：<br/><br/><br/>　　1．空，即空洞的意思。一是文字上，凡是批呈词、出文告，都是空空洞洞的，其中奥妙，我难细说，请到军政各机关，把壁上的文字读完，就可恍然大悟；二是办事上，随便办什么事情，都是活摇活动，东倒也可，西倒也可，有时办得雷厉风行，其实暗中藏有退路，如果见势不佳，就从那条路抽身走了，绝不会把自己牵连着。<br/><br/><br/>　　2．恭，就是卑躬折节，胁肩谄笑之类，分直接、间接两种，直接是指对上司而言，间接是指对上司的亲戚朋友、丁役及姨太太等类而言。<br/><br/><br/>　　3．绷，即俗语所谓绷劲，是恭字的反面字，指对下属及老百姓而言。分两种：一是仪表上，赫赫然大人物，凛然不可犯；二是言谈上，俨然腹有经纶，槃槃大才。恭字对饭甑子所在地而言，不必一定是上司；绷字对非饭甑子所在地而言，不必一定是下属和老百姓，有时甑子之权，不在上司，则对上司亦不妨绷；有时甑子之权，操诸下属或老百姓，又当改而为恭。此道原是活泼，运用之妙，存乎一心。<br/><br/><br/>　　4．凶，只要能达到我的目的，他人亡身灭家，卖儿贴妇，都不必顾忌；但有一层应当注意，凶字上面，定要蒙一层道德仁义。<br/><br/><br/>　　5．聋，就是耳聋：“笑骂由他笑骂，好官我自为之。”但，聋字中包含有瞎子的意义，文字上的谩骂，闭着眼睛不看。<br/><br/><br/>　　6．弄，即弄钱之弄，川省俗语读作平声。千里来龙，此处结穴，前面的十一个字，都是为了这个字而设的。弄字与求官之送字是对照的，有了送就有弄。这个弄字，最要注意，是要能够在公事上通得过才成功。有时通不过，就自己垫点腰包里的钱，也不妨；如果通得过，任他多少，也就不用客气了。<br/><br/><br/>　　以上十二个字，我不过粗举大纲，许多的精义，都没有发挥，有志于为官者可按门径，自行研究。<br/><br/><br/>　　（三）办事二妙法<br/><br/><br/>　　1．锯箭法。有人中了箭，请外科医生治疗，医生将箭杆锯下，即索谢礼。问他为什么不把箭头取出？他说：那是内科的事，你去寻内科好了。这是一段相传的故事。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-519-6406.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-519-6408.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-519.html" action-type="chapterComment" class="comment"><i></i>厚黑学章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

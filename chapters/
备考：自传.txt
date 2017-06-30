@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《集外集》正文_备考：自传_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="集外集,集外集原文,集外集阅读,备考：自传全文,鲁迅作品" />
+<meta name="description" content="集外集原文阅读,备考：自传全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-540-6929.html";
+var nextpage="novel-read-540-6931.html";
+var indexpage = "novel-chapter-540.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-540.html">集外集</a></strong>
+<strong><a href="novel-chapter-540.html">集外集目录</a></strong>
+<span>备考：自传</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-540-6929.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>备考：自传</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-30 19:25:36<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>鲁迅，以一八八一年生于浙江之绍兴城内姓周的一个大家族里。父亲是秀才；母亲姓鲁，乡下人，她以自修到能看文学作品的程度。家里原有祖遗的四五十亩田，但在父亲死掉之前，已经卖完了。这时我大约十三四岁，但还勉强读了三四年多的中国书。 <br/><br/>　　因为没有钱，就得寻不用学费的学校，于是去到南京，住了大半年，考进了水师学堂。不久，分在管轮班，我想，那就上不了舱面了，便走出，另考进了矿路学堂，在那里毕业，被送往日本留学。但我又变计，改而学医，学了两年，又变计，要弄文学了。于是看些文学书，一面翻译，也作些论文，设法在刊物上发表。直到一九一○年，我的母亲无法生活，这才回国，在杭州师范学校作助教，次年在绍兴中学作监学。一九一二年革命后，被任为绍兴师范学校校长。 <br/><br/>　　但绍兴革命军的首领是强盗出身，我不满意他的行为，他说要杀死我了，我就到南京，在教育部办事，由此进北京，做到社会教育司的第二科科长。一九一八年“文学革命”运动起，我始用“鲁迅”的笔名作小说，登在《新青年》上，以后就时时作些短篇小说和短评；一面也做北京大学，师范大学，女子师范大学的讲师。因为做评论，敌人就多起来，北京大学教授陈源开始发表这“鲁迅”就是我，由此弄到段祺瑞将我撤职，并且还要逮捕我。我只好离开北京，到厦门大学做教授；约有半年，和校长以及别的几个教授冲突了，便到广州，在中山大学做了教务长兼文科教授。 <br/><br/>　　又约半年，国民党北伐分明很顺利，厦门的有些教授就也到广州来了，不久就清党，我一生从未见过有这么杀人的，我就辞了职，回到上海，想以译作谋生。但因为加入自由大同盟，听说国民党在通缉我了，我便躲起来。此后又加入了左翼作家联盟，民权同盟。到今年，我的一九二六年以后出版的译作，几乎全被国民党所禁止。 <br/><br/>　　我的工作，除翻译及编辑的不算外，创作的有短篇小说集二本，散文诗一本，回忆记一本，论文集一本，短评八本，中国小说史略一本。 <br/><br/><br/><br/>　　（１）本篇最初发表于一九二五年六月十五日《语丝》周刊第三十一期，是应《阿Ｑ正传》俄译者王希礼之请而写的。其中《阿Ｑ正传》序》译成俄文后，收入一九二九年列宁格勒激浪出版社出版的《阿Ｑ正传》（俄文版鲁迅短篇小说选集）一书。（２）王希礼原名波·阿·瓦西里耶夫（G．Ａ．GHIJLMN，？—１９３７），苏联人。一九二五年是河南国民革命第二军俄国顾问团成员。（３）圣贤将人们分为十等《左传》昭公七年：“天有十日，人有十等。下所以事上，上所以共（供）神也。故王臣公，公臣大夫，大夫臣士，士臣皁（皂），皁臣舆，舆臣隶，隶臣僚，僚臣仆，仆臣台”。（４）青年批评家指成仿吾。他在《创造季刊》第二卷第二号（一九二四年二月）发表的《〈呐喊〉的评论》一文中说：“《阿Ｑ正传》为浅薄的纪实的传记”，“描写虽佳，而结构极坏”。（５）《阿Ｑ正传》发表后，曾出现这样一些评论：如张定璜的《鲁迅先生》说：“《呐喊》的作家的看法带点病态，所以他看的人生也带点病态，其实实在的人生并不如此。”（见一九二五年一月三十日《现代评论》一卷八期）冯文炳的《呐喊》说：“鲁迅君的刺笑的笔锋，随在可以碰见，……至于阿Ｑ，更要使人笑得不亦乐乎。”（见一九二四年四月十三日《晨报副刊》）周作人的《阿Ｑ正传》说：“《阿Ｑ正传》是一篇讽刺小说……因为他多是反语（ｉｒｏｎｙ），便是所谓冷的讽刺——‘冷嘲’。”（见一九二二年三月十九日《晨报副刊》）。（６）变故指鲁迅祖父周福清（介孚）因科场案入狱一事。（７）水师学堂即江南水师学堂，清政府一八九○年设立的一所海军学校。初分驾驶、管轮两科，不久增添鱼雷科。（８）机关科即管轮科，现称轮机农业。 <br/><br/>　　（９）矿路学堂即江南陆师学堂附设的矿务铁路学堂。（１０）东京的豫备学校指东京弘文学院，创办于一九○二年，是日本人嘉纳治五郎为中国留学生开设的补习日语和基础课的学校。（１１）日本的维新指发生于日本明治年间（１８６８—１９１２）的维新运动。在此以前，日本一部分学者曾大量输入和讲授西方医学，宣传西方科学技术，积极主张革新，对日本维新运动的兴起，曾起过一定的作用。 <br/><br/>　　（１２）俄日战争指一九○四年二月至一九○五年九月，沙皇俄国同日本帝国主义之间为争夺在我国东北地区和朝鲜的侵略权益而进行的一次帝国主义战争。 <br/><br/>　　（１３）小计画指和许寿裳、周作人等筹办《新生》杂志和译介被压迫民族文学等事。参看《呐喊·自序》、《〈域外小说集〉序》等。（１４）指周作人和他的妻子羽太信子等。 <br/><br/>　　（１５）一九一二年一月中华民国临时政府在南京成立，鲁迅应教育总长蔡元培之约赴教育部任职，同年五月随临时政府迁至北京，任社会教育司第二科科长。不久，第一科移交内务部，第二科改为第一科，一九一二年八月二十六日，鲁迅被委任为第一科科长。（１６）指收入本书的《斯巴达之魂》、《说鈤》和收入《坟》中的《人之历史》、《科学史教篇》、《文化偏至论》、《摩罗诗力说》等。（１７）本自传当作于一九三四年三、四月间。本文加注后重收入《集外集拾遗补编》。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-540-6929.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-540-6931.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-540.html" action-type="chapterComment" class="comment"><i></i>集外集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

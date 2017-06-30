@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《三闲集》正文_《吾国征俄战史之一页》_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="三闲集,三闲集原文,三闲集阅读,《吾国征俄战史之一页》全文,鲁迅作品" />
+<meta name="description" content="三闲集原文阅读,《吾国征俄战史之一页》全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-549-7429.html";
+var nextpage="novel-read-549-7431.html";
+var indexpage = "novel-chapter-549.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-549.html">三闲集</a></strong>
+<strong><a href="novel-chapter-549.html">三闲集目录</a></strong>
+<span>《吾国征俄战史之一页》</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-549-7429.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>《吾国征俄战史之一页》</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-04 20:21:54<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>大家都说要打俄国，〔２〕或者“愿为前驱”，或者“愿作后盾”，连中国文学所赖以不坠的新月书店〔３〕，也登广告出卖关于俄国的书籍两种，则举国之同仇敌忾也可知矣。自然，大势如此，执笔者也应当做点应时的东西，庶几不至于落伍。我于是在七月廿六日《新闻报》的《快活林》里，遇见一篇题作《吾国征俄战史之一页》的叙述详细而昏不可当的文章，可惜限于篇幅，只能摘抄：“……乃尝读史至元成吉思汗〔４〕。起自蒙古。入主中夏。开国以后。奄有钦察阿速诸部。命速不合征蔑里吉〔５〕。复引兵绕宽田吉思海。转战至太和岭〔６〕。洎太宗七年。又命速不台为前驱。随诸王拔都。皇子贵由。皇侄哥等〔７〕伐西域。十年乃大举征俄。直逼耶烈赞城〔８〕。而陷莫斯科。太祖长子术赤〔９〕遂于其地即汗位。可谓破前古未有之纪载矣。夫一代之英主。开创之际。战胜攻取。用其兵威。 <br/><br/>　　不难统一区宇。史册所叙。纵极铺张。要不过禹域以内。 <br/><br/>　　讫无西至流沙。举朔北辽绝之地而空之。不特唯是。犹复鼓其余勇。进逼欧洲内地。而有欧亚混一之势者。谓非吾国战史上最有光彩最有荣誉之一页得乎……”那结论是： <br/><br/>　　“……质言之。元时之兵锋。不仅足以扼欧亚之吭。 <br/><br/>　　而有席卷包举之气象。有足以壮吾国后人之勇气者。固自有在。余故备述之。以告应付时局而固边圉者。” <br/><br/>　　这只有这作者“清癯”先生是蒙古人，倒还说得过去。否则，成吉思汗“入主中夏”，术赤在墨斯科“即汗位”，那时咱们中俄两国的境遇正一样，就是都被蒙古人征服的。为什么中国人现在竟来硬霸“元人，为自己的先人，仿佛满脸光彩似的，去骄傲同受压迫的斯拉夫种的呢？ <br/><br/>　　倘照这样的论法，俄国人就也可以作“吾国征华史之一页”，说他们在元代奄有中国的版图。 <br/><br/>　　倘照这样的论法，则即使俄人此刻“入主中夏”，也就有“欧亚混一之势”，“有足以壮吾国后人”之后人“之勇气者”矣。 <br/><br/>　　嗟乎，赤俄未征，白痴已出，殊“非吾国战史上最有光彩最有荣誉之一页”也！ <br/><br/>　　七月二十八日。 <br/><br/>　　<br/><br/><br/>　　〔１〕本篇最初发表于一九二九年八月五日《语丝》第五卷第二十二期。 <br/><br/>　　〔２〕一九二九年七月，国民党以武力接收中苏合办的中东铁路，双方发生冲突，国民党藉此掀起“反俄运动”。 <br/><br/>　　〔３〕新月书店新月社的书店，一九二七年春成立于上海。该店为配合“反俄运动”，曾再版了署名世界室主人的《苏俄评论》和徐志摩的《自剖》（第三辑为《游俄》），并刊登宣传广告。<br/><br/>　　〔４〕成吉思汗（１１６２—１２２７）名铁木真，古代蒙古族的领袖，十三世纪初统一了蒙古族各部落，建立蒙古汗国，被拥戴为王，称成吉思汗，后被尊为元太祖。他曾将蒙古汗国的版图扩展到中亚地区和南俄。后来他的继承者们征服了俄罗斯，建立钦察汗国；又灭了南宋，建立元朝。 <br/><br/>　　〔５〕速不台（１１７６—１２４８）蒙古汗国大将。一二一六年春，成吉思汗命他征服蔑里吉。蔑里吉，通称蔑几乞，辽金时游牧于色楞格河流域的一个部落。 <br/><br/>　　〔６〕宽田吉思海今译里海。太和岭，今译高加索。<br/><br/>　　〔７〕拔都（１２０９—１２５６）蒙古汗国大将，成吉思汗之孙。贵由（１２０６—１２４８），元太宗窝阔台的长子，后被尊为元定宗。哥，即蒙哥（１２０８—１２５９），窝阔台的侄子，后被尊为元宪宗。 <br/><br/>　　〔８〕耶烈赞城今译梁赞，在莫斯科之南。 <br/><br/>　　〔９〕术赤（１１７７—１２２５）蒙古汗国大将，成吉思汗长子。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-549-7429.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-549-7431.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-549.html" action-type="chapterComment" class="comment"><i></i>三闲集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

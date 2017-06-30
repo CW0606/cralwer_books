@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《风声》正文_西风 第一章_麦家作品 - 维普阅读网</title>
+<meta name="keywords" content="风声,风声原文,风声阅读,西风 第一章全文,麦家作品" />
+<meta name="description" content="风声原文阅读,西风 第一章全文在线阅读,麦家作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1341-24785.html";
+var nextpage="novel-read-1341-24787.html";
+var indexpage = "novel-chapter-1341.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1341.html">风声</a></strong>
+<strong><a href="novel-chapter-1341.html">风声目录</a></strong>
+<span>西风 第一章</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1341-24785.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>西风 第一章</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-23.html" target="blank">文学小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=麦家&amp;searchsubmit=yes"  target="_blank">麦家</a><span class="divide">|</span>发布时间：2015-05-03 22:42:58<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>顾小梦！<br/>　　顾小梦！<br/>　　老人家像老鬼一样神奇地冒出来，让我的书稿难以结束——结束又开始。<br/>　　这是一段不愉快的经历。今年春节前，正是我的书稿（书名定为《新暗算》 ）紧锣密鼓地编发之际，某天下午，责任编辑阿彪突然给我挂来电话，懊恼地告诉我书出版不了了。我问为什么，他说有人指责我恶意歪曲史实，颠倒是非，玷污当事者的形象。我想跟他幽默一下，说： “这种事就像戒烟一样，我经历得多了。 ”阿彪并没有受我感染而放松下来说： “这一次不一样，对方来头很大，如果我们一意孤行出版，他们将把我们告上法庭。 ”我问他们是谁，阿彪说是一个姓 X的先生。我说我稿子里没有 X姓的先生啊，阿彪说就是顾小梦的后人。我头一下大了，因为这是我书稿的一个软肋：没有访到顾小梦。<br/>　　我曾想她在台湾也许看不到书，哪知道书未出版，她却已经先睹为快。 原来， 我无意中跟阿彪谈起过顾小梦及其后人的情况（有个儿子是名满当下中国的X大富豪） ，他们社长知情后很敏感，要求他把我的书稿作为重点选题上报相关部门审读。负责审读的同志鉴于顾小梦的富豪儿子是全国政协委员，跟高层有相当的交际，谨慎起见把审稿清样曲里拐弯地转到顾小梦手上，希望她过目给个意见。她的意见就是那样：不能出，你要出就上法庭。<br/>　　我两眼发黑……从采访到写完，这本小书折腾了我三年，悲惨的下场使我想起竞技场上的一句老话：倒下在离终点最近的地方。比李宁玉还惨！李宁玉虽然付出了宝贵的生命，但她是个胜者——生的光荣，死的伟大。我折腾三年，只换来一个词：白费心机。我突然想跟年轻人一样地骂人：我靠！<br/>　　别冲动，冲动是魔鬼。冲动会降低你的智商。我安慰自己，要心平气和，要动之以情，晓之以理。于是，我诚恳地书信一封，托负责审稿的同志给顾老转去——我想，他既然可以让书稿与老人家见面，一定也可以把我的信转过去。<br/>　　一个月。<br/>　　两个月。<br/>　　三个月……<br/>　　在我绝望之际，一天（今年两会期间） ，我突然接到一个陌生人的电话，自称是顾小梦的女儿，看过我的书稿，有些想法想跟我聊一聊。说真的，她没有恶意指责我，甚至对书稿前半部分给予高度肯定，只是强调后半部分严重失实。最后，她表示她母亲想见我一下，希望我去台湾。也许是怕我不去，她在电话里婉转地告诉我，她是新当选的全国政协委员，现在正在北京开会，上午某某某领导才接见过她。言下之意，我要重视她和她母亲的要求。殊不知，这正是我梦寐以求的。<br/>　　事情终于有了转机！<br/>　　于是，我以最快的速度去台湾，拜见了顾老人家。　半个多世纪过去了，昔日的美貌已无法在老人脸上捕捉到。人老了（八十六岁） ，似乎都变成了一个相貌，稀疏的银发，整齐的假牙，昏黄的眼珠，收不拢的目光……但老人家开口说话的声腔一下子让我把她和顾小梦联系在了一起。她说话直截了当，有股子得理不饶人的劲头。她对我说的第一句话就是凶巴巴的责问： “你为什么要颠倒黑白，恶意夸大李宁玉，把我写成汉奸！ ”声严色厉，怒气冲冲，断然没有一个古稀老者应有的慈祥。<br/>　　我想作点儿解释， 刚张口便被她挥手打断。 显然她积压了许多话要说，且似乎早在腹中预演过多次，一经开讲，如同在播放录音，铿锵道来，不绝于耳，前言后语有呼有应，根本不容我插嘴。我惊讶于她超常清楚的口齿和思维，这么高龄的人啦，但说话的声音、底气和遣词造句的用心、讲究，一点也不比我差。起码要给她减掉三十岁！我想。她一口气对我这样说道： “你虽然说写的是小说，可谁都看得出来，你说的就是这件事，这些人，就是我和李宁玉。是我但又不是真实的我！你去问问九泉之下的李宁玉，我是不是那样的？事实完全不是你说的那个样，那个情报根本不是李宁玉传出去的，而是我！你知道吗？！ ”<br/>　　是她？<br/>　　你相信吗？ 我不相信。<br/>　　我的不信虽没有说出口，但跃然写在脸上。<br/>　　“你不相信是不？”老人家看出我的疑义， “你认为我想抢功劳？我要想抢功劳会来台湾吗？应该留在大陆当英雄才是。我不要功劳，我只要事实，情报就是我传出去的，这是事实，我不允许你们颠倒黑白！ ”老人家又是朝我一顿连珠炮， “告诉我，年轻人，你为什么要这么诬蔑我？是谁让你这么说的？是不是姓潘的那个老不死！ ”<br/>　　她指的是潘老，我不敢否认。<br/>　　看我点头，顾老哼一声，狠狠地说： “这个老不死的，我猜就是他！他就想把什么好事都往李宁玉脸上贴，有金子都往自己人脸上贴！把他一家人都画成个大英雄，其他人都是汉奸、走狗。卑鄙！无耻！姓潘的，我还没死呢，你就敢这么胡说八道，我叫天劈你！你这个老骗子！老滑头！ ”<br/>　　老人家的情绪越来越激烈，话语中不时夹杂着骂人的脏话和发烫的感叹号。好在她女儿在场，及时劝阻，总算把她的愤怒平息下来。平静下来后，老人家把我的书稿找出来，丢在我面前，依然气咻咻地责问我： “你觉得你写的东西经得起推敲吗？你想过没有，当时那种情况下，肥原可能把李宁玉的尸体送出去吗？他为了抓老鬼能把我们几个大活人都关起来，凭什么对一具尸体大发慈悲？就算李宁玉通过以死作证，让肥原相信她不是老鬼，那种情况下也不可能把尸体送出去。为什么？没时间！晚上就要去抓人，谁有心思来管这事？不就是一具尸体嘛，放一天有什么要紧的？何况你自己也写了，肥原还搜查了她的尸体，干吗要搜查？就是不相信，起码是不完全相信。既然不相信，为什么要送尸体出去？难道不送出去肥原要吃官司不成？”<br/>　　“这……”我小心翼翼地说， “通过检查，发现李宁玉身上没藏情报……”<br/>　　“然后就信任了？”老人家一阵冷笑， “什么检查？就你写的那种检查吗？那种检查能证明李宁玉身上没有藏情报？笑话！她身上可以藏情报的地方多着呢，肚子里，子宫里，哪里不能藏？如果要彻底检查就必须开膛破肚，没一天时间根本检查不完！既然没有彻底检查就不会有彻底的相信，然后你再想想，你是作家，应该有这种判断力，既然无法彻底信任她，怎么可能把她的尸体送出去？万一她就是老鬼呢？那种情况下，一个重要的会议马上要开，大家都是很谨慎的，稍有风吹草动都可能改变计划。如果按你这么写，要那幅画干什么？不需要，只要能把尸体送出去，什么都不需要。我敢说，李宁玉的同志只要一见她的尸体，不管她在遗言中怎么说，病死也好，车祸也好，那个会议绝对要取消。你不想想，一个好好的人，在这种敏感的时候突然死了，你难道会一点警觉都没有？只要有一点警觉，会议就开不成，就要取消，必须取消！哪怕是搞错了也要取消，这就是地下工作。 ”<br/>　　老人的这一番话震动了我。<br/>　　震动是接二连三的。随后几天，老人家约我去了她建在乡下的别墅（离台北市区八十公里，有些证据珍藏在此）作全面访谈。毕竟年龄不饶人，每次她只能跟我谈一个半小时，其间她时而躺在杏仁色的贵妃榻上，时而坐在朱砂红的藤条椅上，时而慷慨激昂，时而娓娓道来，带我走进了六十六年前那个我自以为熟悉和了解的世界。但正如老人家所言：我所了解的其实还没有被蒙蔽的多……现在，我决定重新写这个故事，只是不知道会不会又有人来指责我不尊重历史。有时候，我真不知道，到底什么样的历史才是真实的。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1341-24785.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1341-24787.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1341.html" action-type="chapterComment" class="comment"><i></i>风声章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

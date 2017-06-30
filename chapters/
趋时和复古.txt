@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《花边文学》正文_趋时和复古_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="花边文学,花边文学原文,花边文学阅读,趋时和复古全文,鲁迅作品" />
+<meta name="description" content="花边文学原文阅读,趋时和复古全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-536-6815.html";
+var nextpage="novel-read-536-6817.html";
+var indexpage = "novel-chapter-536.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-536.html">花边文学</a></strong>
+<strong><a href="novel-chapter-536.html">花边文学目录</a></strong>
+<span>趋时和复古</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-536-6815.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>趋时和复古</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 21:23:15<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　康伯度<br/><br/>　　半农先生一去世，也如朱湘庐隐（２）两位作家一样，很使有些刊物热闹了一番。这情形，会延得多么长久呢，现在也无从推测。但这一死，作用却好像比那两位大得多：他已经快要被封为复古的先贤，可用他的神主来打“趋时”（３）的人们了。<br/><br/>　　这一打是有力的，因为他既是作古的名人，又是先前的新党，以新打新，就如以毒攻毒，胜于搬出生锈的古董来。然而笑话也就埋伏在这里面。为什么呢？就为了半农先生先就是一位以“趋时”而出名的人。<br/><br/>　　古之青年，心目中有了刘半农三个字，原因并不在他擅长音韵学，或是常做打油诗（４），是在他跳出鸳蝴派（５），骂倒王敬轩（６），为一个“文学革命”阵中的战斗者。然而那时有一部分人，却毁之为“趋时”。时代到底好像有些前进，光阴流过去，渐渐将这谥号洗掉了，自己爬上了一点，也就随和一些，于是终于成为干干净净的名人。但是，“人怕出名猪怕壮”，他这时也要成为包起来作为医治新的“趋时”病的药料了。这并不是半农先生独个的苦境，旧例着实有。广东举人多得很，为什么康有为（７）独独那么有名呢，因为他是公车上书的头儿，戊戌政变的主角，趋时；留英学生也不希罕，严复（８）的姓名还没有消失，就在他先前认真的译过好几部鬼子书，趋时；清末，治朴学（９）的不止太炎（１０）先生一个人，而他的声名，远在孙诒让（１１）之上者，其实是为了他提倡种族革命，趋时，而且还“造反”。后来“时”也“趋”了过来，他们就成为活的纯正的先贤。但是，晦气也夹屁股跟到，康有为永定为复辟的祖师，袁皇帝要严复劝进，孙传芳（１２）大帅也来请太炎先生投壶了。原是拉车前进的好身手，腿肚大，臂膊也粗，这回还是请他拉，拉还是拉，然而是拉车屁股向后，这里只好用古文，“呜呼哀哉，尚飨”（１３）了。<br/><br/>　　我并不在讥刺半农先生曾经“趋时”，我这里所用的是普通所谓“趋时”中的一部分：“前驱”的意思。他虽然自认“没落”（１４），其实是战斗过来的，只要敬爱他的人，多发挥这一点，不要七手八脚，专门把他拖进自己所喜欢的油或泥里去做金字招牌就好了。<br/><br/>　　八月十三日。<br/><br/>　<br/>===============================================================<br/><br/><br/><br/>　　（１）本篇最初发表于一九三四年八月十五日《申报·自由谈》。（２）朱湘（１９０４—１９３３）安徽太湖人，诗人。曾任安徽大学英文文学系主任。一九三三年十二月五日，因生活窘困投江自尽。著有诗集《草莽集》、《石门集》等。庐隐（１８９８—１９３４），本名黄英，福建闽侯人，女作家。一九三四年五月十三日死于难产。著有短篇小说集《海滨故人》、《灵海潮汐》等。<br/><br/>　　（３）“趋时”这是林语堂讥笑进步人士的话，见一九三四年七月二十日《人间世》第八期《时代与人》一文：“所以趋时虽然要紧，保持人的本位也一样要紧。”<br/><br/>　　（４）刘半农从一九三三年九月《论语》第二十五期开始连续发表打油诗《桐花芝豆堂诗集》，在《自序》中称自己“喜为打油之诗”。（５）鸳蝴派即鸳鸯蝴蝶派，参看本卷第１０７页注（９）。刘半农早期曾以“半侬”笔名为这一派刊物写稿。<br/><br/>　　（６）骂倒王敬轩一九一八年初，《新青年》为了推动文学革命运动，开展对复古派的斗争，曾由编者之一钱玄同化名王敬轩，把当时社会上反对新文化运动的论调集中起来，摹仿封建复古派的口吻写信给《新青年》编辑部；又由刘半农写了一封回信痛加批驳。两信同时发表在当年三月《新青年》第四卷第三号。<br/><br/>　　（７）康有为（１８５８—１９２７）字广厦，号长素，广东南海人，清末资产阶级改良主义维新运动的领袖。一八九五年，他联合在北京应试的各省举人一千三百余人向光绪皇帝上“万言书”，要求“变法维新”，改君主专制为君主立宪，史称“公车上书”（汉代用公家的车子递送应征进京的士人，后来就用“公车”作为举人入京应试的代称）。一八九八年（戊戌）六月，他和谭嗣同、梁启超等受光绪皇帝任用，参预政事，试行变法。同年九月，被以慈禧太后为代表的顽固派所镇压，维新运动遂告失败。以后康有为在海外组织保皇会，反对孙中山领导的民主革命运动；一九一七年又联络军阀张勋扶植清废帝溥仪复辟。（８）严复曾留学英国海军学校。一八九四年中日战争后，他主张变法维新，致力于西方自然科学和资产阶级社会科学思想的介绍，翻译过赫胥黎《天演论》、亚当斯密《原富》、穆勒《名学》和孟德斯鸠《法意》等，对当时中国思想界影响很大。辛亥革命后，他思想逐渐倒退。一九一五年参加“筹安会”，拥护袁世凯称帝。（９）朴学语出《汉书·儒林传》：“（倪）宽有俊材，初见武帝，语经学。上曰：‘吾始以《尚书》为朴学，弗好，及闻宽说，可观。’乃从宽问一篇。”后来称汉儒考据训诂之学为朴学，也称汉学。清代学者继承汉儒朴学，并有所发展。<br/><br/>　　（１０）太炎章炳麟（１８６９—１９３６），号太炎，浙江余杭人，清末革命家和学者。早期积极参加反对清王朝的斗争，是“光复会”的重要成员之一。辛亥革命以后，逐渐脱离现实斗争，思想趋向消沉。著有《章氏丛书》、《章氏丛书续编》等。<br/><br/>　　（１１）孙诒让（１８４８—１９０８）字仲容，浙江瑞安人，清末朴学家。著有《周礼正义》、《墨子闲诂》等。<br/><br/>　　（１２）孙传芳（１８８５—１９３５）山东历城人，北洋直系军阀。他盘踞东南五省时，为了提倡复古，于一九二六年八月六日在南京举行投壶仪式，曾邀请章太炎主持，但章未去。投壶，古代宴会时的一种娱乐，宾主依次把箭投入壶中，负者饮酒。<br/><br/>　　（１３）“呜呼哀哉，尚飨”这是旧时祭文中常用的结束语。用在这里表示完结的意思。<br/><br/>　　（１４）刘半农自认“没落”的话，见《半农杂文自序》（载一九三四年六月五日《人间世》第五期）：“要是有人根据了我文章中的某某数点而斥我为‘落伍’，为‘没落’，我是乐于承受的。”<br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-536-6815.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-536-6817.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-536.html" action-type="chapterComment" class="comment"><i></i>花边文学章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

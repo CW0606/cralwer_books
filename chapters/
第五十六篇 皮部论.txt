@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《黄帝内经》正文_第五十六篇 皮部论_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="黄帝内经,黄帝内经原文,黄帝内经阅读,第五十六篇 皮部论全文,佚名作品" />
+<meta name="description" content="黄帝内经原文阅读,第五十六篇 皮部论全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-58-1813.html";
+var nextpage="novel-read-58-1815.html";
+var indexpage = "novel-chapter-58.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-58.html">黄帝内经</a></strong>
+<strong><a href="novel-chapter-58.html">黄帝内经目录</a></strong>
+<span>第五十六篇 皮部论</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-58-1813.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第五十六篇 皮部论</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-07-29 22:05:24<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【题解】<br/>　　本篇论述了三阴、三阳经脉在皮肤上的分布，所以篇名为“皮部论”。其内容有十二经脉在皮部分属的部位、名称，及如何从皮部络脉颜色的变化诊断疾病;外邪侵袭人体，由表向里传变的次序。<br/>　　【原文】<br/>　　新校正云:按全元起本在第二卷。①<br/>　　黄帝问曰:余闻皮有分部，脉有经纪，筋有结络　，骨有度量，其所生病各异，别其分部，左右上下，阴阳所在，病之始终，愿闻其道。岐伯对曰:欲知皮部以经脉为纪者，诸经皆然。阳明之阳，名曰害蜚，上下同法，视其部中有浮络者，皆阳明之络也，其色多青则痛，多黑则痹，黄赤则热，多白则寒，五色皆见，则寒热也，络盛则入客于经，阳主外，阴主内。少阳之阳，名曰枢持，上下同法，视其部中有浮络者，皆少阳之络也，络盛则入客于经，故在阳者主内，在阴者主出，以渗于内，诸经皆然。太阳之阳，名曰关枢，上下同法，视其部中有浮络者，皆太阳之络也，络盛则入客于经。少阴之阴，名曰枢儒，上下同法，视其部中有浮络者，皆少阴之络也，络盛则入客于经，其入经也，从阳部注于经，其出者，从阴内注于骨。心主之阴，名曰害肩，上下同法，视其部中有浮络者，皆心主之络也，络盛则入客于经。太阴之阴，名曰关蛰，上下同法，视其部中有浮络者，皆太阴之络也，络盛则入客于经。凡十二经络脉者，皮之部也。是故百病之始生也，必先于皮毛，邪中之则腠理开，开则入客于络脉，留而不去，传入于经，留而不去，传入于府，廪于肠②③胃　。邪之始入于皮也，氵斥然起毫毛　，开腠理;其入于络也，则络脉盛色变;其入客于经也，则感虚乃陷下;其留下筋骨之间，寒多则筋挛骨痛，热多则筋弛骨消，肉烁?破，毛直而败。帝曰:夫子言皮之十二部，其生病皆何如?　岐伯曰:皮者脉之部也，邪客于皮则腠理开，开则邪入客于络脉，络脉满则注于经脉，经脉满则入舍于府藏也，故皮者有分部，不与而生大病也。帝曰:④善　。<br/>　　【注释】<br/>　　①结络:结，聚结;络，络属。<br/>　　②廪:王冰注:“积也，聚也”。<br/>　　③氵斥然:王冰注:“恶寒也”。<br/>　　④不与:《甲乙经》作“不愈”。<br/>　　【译文】<br/>　　黄帝问道，我听说人的皮肤上有十二经脉分属的部位，脉有经脉与络脉，筋有聚结与络属，骨有长短大小。它们所产生的疾病各不相同，根据经脉所分属的部位，来判断疾病上下左右病位、阴阳属性以及疾病起始与终结的各种情况。希望听您谈一谈其中的道理;岐伯回答说，想要知道皮肤的分属部位，应当以经脉为纲领，所有的经脉都是这样。阳明经的阳络叫害蜚，手足阳明经诊视方法相同，即观察它们所属的分部有浮络浮现，都属阳明经的络脉。如果这些络脉的颜色青色居多，为痛证;黑色居多，为痹证;黄红色，为热证;白色居多，为寒证;假若五色并现，为寒热兼挟的病证。络脉中的邪气盛满了就进入到经脉，因为络脉在外属阳，经脉在里属阴。少阳经的阳络叫枢持，手足少阳经的诊视方法相同，即观察它们所属的分部有浮络浮现，都属少阳经的络脉。络脉中的邪气盛满了，就进入到经脉。太阳经的阳络叫关枢，手足太阳经的诊视方法相同，即观察它们所属的分部有浮络浮现，都属太阳经的络脉，络脉中的邪气盛满了，就进入到经脉。少阴经的阴络叫枢儒，手足少阴经的诊视方法相同，即观察它们所属的分部有浮络浮现，都属少阴经的络脉，络脉中的邪气盛满了，就进入经脉。进入经脉则是从阳部注于到经的，其外出则是从阴注入骨。厥阴经的阴络叫害肩，手足厥阴经的诊视方法相同，即观察它们所属的分部有浮络浮现，都属厥阴经的络脉，络脉中的邪气盛满了，就进入经脉。太阴经的阴络叫关蛰，手足太阴经的诊视方法相同，即观察它们所属的分部有浮络浮现，都属太阴经的络脉，络脉中的邪气盛满了，就进入经脉。十二经脉都分属于皮肤的各个部分。正因为这样，所以说，许多疾病的产生，必然是先从皮毛开始，外邪伤了皮毛，肌肤腠理张开，肌肤腠理一张开，邪气就进入到络脉，邪气内留而不除，于是进入经脉;邪气内留而不除，于是便内传于腑，积留于肠胃。邪气刚伤及皮肤时，寒冷战栗，毫毛竖起，腠理开泄;邪气进入络脉的时候，络脉盛满，颜色改变;邪气进入经脉的时候，经脉气虚，经气内陷;邪气停留于筋骨之间的时候，如果寒盛便出现筋脉挛急，骨骼疼痛;如果热盛，于是筋弛缓骨痛，肌肉破裂败坏，皮毛枯槁。黄帝问道，先生所说的皮肤上的十二分部，它们发生病变后各是什么样子呢?　岐伯回答说，皮肤是络脉分属的部位，邪气侵袭皮肤时，肌肤腠理开泄，肌肤腠理开泄，邪气侵入络脉，络脉邪气盛满了，就内注于经脉，经脉邪气盛满了，就内藏于脏腑。所以说，皮肤分属于十二经脉，邪在皮肤时治疗不愈，就内传而成大病，黄帝说，讲得好。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-58-1813.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-58-1815.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-58.html" action-type="chapterComment" class="comment"><i></i>黄帝内经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

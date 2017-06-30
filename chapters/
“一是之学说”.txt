@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《热风》正文_“一是之学说”_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="热风,热风原文,热风阅读,“一是之学说”全文,鲁迅作品" />
+<meta name="description" content="热风原文阅读,“一是之学说”全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-548.html";
+var nextpage="novel-read-548-7392.html";
+var indexpage = "novel-chapter-548.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-548.html">热风</a></strong>
+<strong><a href="novel-chapter-548.html">热风目录</a></strong>
+<span>“一是之学说”</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-548.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>“一是之学说”</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-04 19:54:23<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>我从《学灯》上看见驳吴宓君《新文化运动之反应》（２）这一篇文章之后，才去寻《中华新报》（３）来看他的原文。 <br/><br/>　　那是一篇浩浩洋洋的长文，该有一万多字罢，——而且还有作者吴宓君的照相。记者又在论前介绍说，“泾阳吴宓君美国哈佛大学硕士现为国立东南大学西洋文学教授君既精通西方文学得其神髓而国学复涵养甚深近主撰学衡杂志以提倡实学为任时论崇之”。 <br/><br/>　　但这篇大文的内容是很简单的。说大意，就是新文化本也可以提倡的，但提倡者“当思以博大之眼光。宽宏之态度。肆力学术。深窥精研。观其全体。而贯通澈悟。然后平情衡理。执中驭物。造成一是之学说。融合中西之精华。以为一国一时之用。”而可恨“近年有所谓新文化运动者。本其偏激之主张。佐以宣传之良法。……加之喜新盲从者之多。”便忽而声势浩大起来。殊不知“物极必反。理有固然。”于是“近顷于新文化运动怀疑而批评之书报渐多”了。这就谓之“新文化运动之反应”。然而“又所谓反应者非反抗之谓……读者幸勿因吾论列于此。而遂疑其为不赞成新文化者”云。 <br/><br/>　　反应的书报一共举了七种，大体上都是“执中驭物”，宣传“正轨”的新文化的。现在我也来绍介一回：一《民心周报》，二《经世报》，三《亚洲学术杂志》，四《史地学报》，五《文哲学报》，六《学衡》，七《湘君》。（４）此外便是吴君对于这七种书报的“平情衡理”的批评（？）了。例如《民心周报》，“自发刊以至停版。除小说及一二来稿外。全用文言。不用所谓新式标点。即此一端。在新潮方盛之时。亦可谓砥柱中流矣。”至于《湘君》之用白话及标点，却又别有道理，那是“《学衡》本事理之真。故拒斥粗劣白话及英文标点。《湘君》求文艺之美。故兼用通妥白话及新式标点”的。总而言之，主张偏激，连标点也就偏激，那白话自然更不“通妥”了。即如我的白话，离通妥就很远；而我的标点则是“英文标点”（５）。 <br/><br/>　　但最“贯通澈悟”的是拉《经世报》来做“反应”，当《经世报》出版的时候，还没有“万恶孝为先”的谣言（６），而他们却早已发过许多崇圣的高论，可惜现在从日报变了月刊，实在有些萎缩现象了。至于“其于君臣之伦。另下新解”，“《亚洲学术杂志》议其牵强附会。必以君为帝王”，实在并不错，这才可以算得“新文化之反应”，而吴君又以为“则过矣”，那可是自己“则过矣”了。因为时代的关系，那时的君，当然是帝王而不是大总统。又如民国以前的议论，也因为时代的关系，自然多含革命的精神，《国粹学报》（７）便是其一，而吴君却怪他谈学术而兼涉革命，也就是过于“融合”了时间的先后的原因。 <br/><br/>　　此外还有一个太没见识处，就是遗漏了《长青》，《红》，《快活》，《礼拜六》（８）等近顷风起云涌的书报，这些实在都是“新文化运动的反应”，而且说“通妥白话”的。十一月三日。 <br/><br/>　　==========================================================================<br/><br/><br/>　　（１）本篇最初发表于一九二二年十一月三日《晨报副刊》，署名风声。 <br/><br/>　　（２）《学灯》当时研究系报纸上海《时事新报》的副刊，一九一八年三月四日创刊。驳吴宓的文章，指甫生写的《驳〈新文化运动之反应〉》一文，载一九二二年十月二十日《学灯》。吴宓（１８９４—１９７８），字雨僧，陕西泾阳人，曾留学美、英、法等国，先后任清华大学国学研究院主任、东南大学教授等。当时是反对新文化运动的守旧派人物之一。 <br/><br/>　　（３）《中华新报》当时政学系（杨永植、张群等政客组织的反动政治团体）的报纸，一九一五年十月创刊于上海。吴宓的《新文化运动之反应》，发表于一九二二年十月十日该报增刊。（４）《民心周报》一九一九年创刊，上海民心周报社编辑。《经世报》，月刊，一九一七年创刊，先为日刊，后于一九二二年改为月刊，北京经世报社编辑。《亚洲学术杂志》，月刊，一九二二年创刊，上海亚洲学术研究会编辑。《史地学报》，季刊，一九二一年创刊，南京高等师范学校史地研究会编辑。《文哲学报》，季刊，一九二二年创刊，南京高等师范学校文学哲学研究会编辑。《湘君》，季刊，一九二二年创刊，湖南长沙明德学校湘君社编辑。这些报刊大多是反对新文化运动，宣传复古主义的。 <br/><br/>　　（５）“英文标点”其实即国际通用的标点符号，也就是“新式标点”。“学衡派”等反对新文化运动，连“新式标点”也加以排斥，甚至把国际上各种文字都可以通用的标点符号说成是“英文标点”。作者在这里引用时加上引号，含有讽刺意味。 <br/><br/>　　（６）“万恶孝为先”的谣言《新青年》第八卷第六号（一九二一年四月）“什么话”栏载：“三月八日上海《中华新报》上说：‘陈独秀之禽兽学说，……开章明义即言废德仇孝，每到各校演说，必极力发挥“万恶孝为首，百善淫为先”之旨趣，青年子弟多具有好奇模效之性，一闻此说，无不倾耳谛听，模仿实行，……凡社会上嚣张浮浪之徒无不乐闻其说，谓父子为路人，谓奸合为天性，……陈独秀之学说，则诚滔天祸水，决尽藩篱，人心世道之忧，将历千万亿劫而不可复。’”陈独秀当时曾声明没有说过这类话。 <br/><br/>　　（７）《国粹学报》月刊，一九○五年一月创刊于上海，邓实编辑，一九一一年十二月停刊。主要撰稿人有章太炎、刘师培等。该志时常刊载明末遗民反清的文章，对当时反对清朝政府的革命运动，起过一些作用。 <br/><br/>　　（８）《长青》周刊，一九二二年九月创刊。《红》，即《红杂志》，周刊，一九二二年八月创刊。《快活》，旬刊，一九二二年一月创刊。《礼拜六》，周刊，一九一四年六月六日创刊。这些都是鸳鸯蝴蝶派在上海主办的文艺刊物。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-548.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-548-7392.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-548.html" action-type="chapterComment" class="comment"><i></i>热风章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

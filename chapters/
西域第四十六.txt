@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《盐铁论》正文_西域第四十六_桓宽作品 - 维普阅读网</title>
+<meta name="keywords" content="盐铁论,盐铁论原文,盐铁论阅读,西域第四十六全文,桓宽作品" />
+<meta name="description" content="盐铁论原文阅读,西域第四十六全文在线阅读,桓宽作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-255-4092.html";
+var nextpage="novel-read-255-4094.html";
+var indexpage = "novel-chapter-255.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-255.html">盐铁论</a></strong>
+<strong><a href="novel-chapter-255.html">盐铁论目录</a></strong>
+<span>西域第四十六</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-255-4092.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>西域第四十六</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=桓宽&amp;searchsubmit=yes"  target="_blank">桓宽</a><span class="divide">|</span>发布时间：2014-08-26 21:25:58<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>大夫曰：“往者，匈奴据河、山之险，擅田牧之利，民富兵强，行入为寇，则句注之内惊动，而上郡以南咸城。文帝时，虏入萧关，烽火通甘泉，群臣惧不知所出，乃请屯京师以备胡。胡西役大宛、康居之属，南与群羌通。先帝推让斥夺广饶之地，建张掖以西，隔绝羌、胡，瓜分其援。是以西域之国，皆内拒匈奴，断其右臂，曳剑而走，故募人田畜以广用，长城以南，滨塞之郡，马牛放纵，蓄积布野，未睹其计之所过。夫以弱越而遂意强吴，才地计众非钧也，主思臣谋，其往必矣。”<br/><br/>　　文学曰：“吴、越迫于江、海，三川循环之，处于五湖之间，地相迫，壤相次，其势易以相禽也。金鼓未闻，旌旗未舒，行军未定，兵以接矣。师无辎重之费，士无乏绝之劳，此所谓食于厨仓而战于门郊者也。今匈奴牧于无穷之泽，东西南北，不可穷极，虽轻车利马，不能得也，况负重嬴兵以求之乎？其势不相及也。茫茫乎若行九皋未知所止，皓皓乎若无网罗而渔江、海，虽及之，三军罢弊，适遗之饵也。故明王知其无所利，以为役不可数行，而权不可久张也，故诏公卿大夫、贤良、文学，所以复枉兴微之路。公卿宜思百姓之急，匈奴之害，缘圣主之心，定安平之业。今乃留心于末计，摧本议，不顺上意，未为尽于忠也。<br/><br/>　　大夫曰：“初，贰师不克宛而还也，议者欲使人主不遂忿，则西域皆瓦解而附于胡，胡得众国而益强。先帝绝奇听，行武威，还袭宛，宛举国以降，效其器物，致其宝马。乌孙之属骇胆，请为臣妾。匈奴失魄，奔走遁逃，虽未尽服，远处寒苦硗埆之地，壮者死于祁连、天山，其孤未复。故群臣议以为匈奴困于汉兵，折翅伤翼，可遂击服。会先帝弃群臣，以故匈奴不革。譬如为山，未成一篑而止，度功业而无继成之理，是弃与胡而资强敌也。辍几沮成，为主计若斯，亦未可谓尽忠也。”<br/><br/>　　文学曰：“有司言外国之事，议者皆徼一时之权，不虑其后。张骞言大宛之天马汗血，安息之真玉大鸟，县官既闻如甘心焉，乃大兴师伐宛，历数期而后克之。夫万里而攻人之国，兵未战而物故过半，虽破宛得宝马，非计也。当此之时，将卒方赤面而事四夷，师旅相望，郡国并发，黎人困苦，奸伪萌生，盗贼并起，守尉不能禁，城邑不能止。然后遣上大夫衣绣衣以兴击之。当此时，百姓元元，莫必其命，故山东豪杰，颇有异心。赖先帝圣灵斐然。其咎皆在于欲毕匈奴而远几也。为主计若此，可谓忠乎？”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-255-4092.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-255-4094.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-255.html" action-type="chapterComment" class="comment"><i></i>盐铁论章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

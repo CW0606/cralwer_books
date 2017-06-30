@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《花边文学》正文_做文章_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="花边文学,花边文学原文,花边文学阅读,做文章全文,鲁迅作品" />
+<meta name="description" content="花边文学原文阅读,做文章全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-536-6834.html";
+var nextpage="novel-chapter-536.html";
+var indexpage = "novel-chapter-536.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-536.html">花边文学</a></strong>
+<strong><a href="novel-chapter-536.html">花边文学目录</a></strong>
+<span>做文章</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-536-6834.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>做文章</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 21:28:43<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>沈括（２）的《梦溪笔谈》里，有云：“往岁士人，多尚对偶为文，穆修张景（３）辈始为平文，当时谓之‘古文’。穆张尝同造朝，待旦于东华门外，方论文次，适见有奔马，践死一犬，二人各记其事以较工拙。穆修曰：‘马逸，有黄犬，遇蹄而毙。’张景曰：‘有犬，死奔马之下。’时文体新变，二人之语皆拙涩，当时已谓之工，传之至今。”<br/><br/>　　骈文后起，唐虞三代是不骈的，称“平文”为“古文”便是这意思。由此推开去，如果古者言文真是不分（４），则称“白话文”为“古文”，似乎也无所不可，但和林语堂先生的指为“白话的文言”（５）的意思又不同。两人的大作，不但拙涩，主旨先就不一，穆说的是马踏死了犬，张说的是犬给马踏死了，究竟是着重在马，还是在犬呢？较明白稳当的还是沈括的毫不经意的文章：“有奔马，践死一犬。”<br/><br/>　　因为要推倒旧东西，就要着力，太着力，就要“做”，太“做”，便不但“生涩”，有时简直是“格格不吐”了，比早经古人“做”得圆熟了的旧东西还要坏。而字数论旨，都有些限制的“花边文学”之类，尤其容易生这生涩病。<br/><br/>　　太做不行，但不做，却又不行。用一段大树和四枝小树做一只凳，在现在，未免太毛糙，总得刨光它一下才好。但如全体雕花，中间挖空，却又坐不来，也不成其为凳子了。高尔基说，大众语是毛胚，加了工的是文学。（６）我想，这该是很中肯的指示了。<br/><br/>　　七月二十日。<br/>===============================================================<br/><br/><br/><br/>　　（１）本篇最初发表于一九三四年七月二十四日《申报·自由谈》。<br/><br/>　　（２）沈括（１０３１—１０９５）字存中，钱塘（今浙江杭州）人，北宋文学家和科学家。精于数学、天文学，并擅长音乐、医学、土木工程。著有《长兴集》等。《梦溪笔谈》二十六卷、《补笔谈》三卷、《续笔谈》一卷，是记他平日与宾友的言论以及遗闻旧典、文学、技艺等，因他晚年退居润州（今江苏镇江）梦溪园而命名。这里所引见该书第十四卷。<br/><br/>　　（３）穆修（９７９—１０３２）字伯长，郓州（今山东东平）人。张景（９７０—１０１８），字晦之，公安（今湖北公安）人。他们都是北宋古文家。<br/><br/>　　（４）古代言文不分是胡适等人的看法，胡适在一九二八年出版的《白话文学史》第一篇第一章中说：“我们研究古代文字，可以推知当战国的时候，中国的文体已不能与语体一致了。”按他的意思，战国以前文体与语体是合一的。鲁迅对此一向有不同看法，在《且介亭杂文·门外文谈》中曾说：“我的臆测，是以为中国的言文，一向就并不一致的，大原因便是字难写，只好节省些。当时的口语的摘要，是古人的文；古代的口语的摘要，是后人的古文。”<br/><br/>　　（５）“白话的文言”林语堂在一九三四年七月《论语》第四十五期发表的《一张字条的写法》一文中，以“语录式”为“白话的文言”，说它是“天然写法”，能够“达意”。<br/><br/>　　（６）见高尔基《我的文学修养》一文：“不要忘记了言语是民众所创造，将言语分为文学的和民众的两种，只不过是毛坯的言语和艺术家加过工的言语的区别。” </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-536-6834.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-536.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-536.html" action-type="chapterComment" class="comment"><i></i>花边文学章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

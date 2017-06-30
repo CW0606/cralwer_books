@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《北堂书钞》正文_●叙录_虞世南作品 - 维普阅读网</title>
+<meta name="keywords" content="北堂书钞,北堂书钞原文,北堂书钞阅读,●叙录全文,虞世南作品" />
+<meta name="description" content="北堂书钞原文阅读,●叙录全文在线阅读,虞世南作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-999-9604.html";
+var nextpage="novel-read-999-9606.html";
+var indexpage = "novel-chapter-999.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-999.html">北堂书钞</a></strong>
+<strong><a href="novel-chapter-999.html">北堂书钞目录</a></strong>
+<span>●叙录</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-999-9604.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>●叙录</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=虞世南&amp;searchsubmit=yes"  target="_blank">虞世南</a><span class="divide">|</span>发布时间：2014-11-20 20:11:00<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　隋书经籍志云书钞一百七十四卷旧唐书经籍志云北堂书钞一百七十三卷虞世南撰新唐书艺文志云北堂书钞一百七十三卷宋史艺文志云北堂书钞一百六十卷宋王尧臣等编崇文总目云书钞一百七十三卷虞世南撰「据钱侗辑释本」<br/><br/>　　宋王应麟玉海云隋志虞世南北堂书钞一百七十三卷崇文目同又中兴书目一百六十卷虞世南於省后堂集群书中可為文用者号北堂书钞分一百六十门又云二闕北堂书钞惟赵安仁家有本真宗命内侍取之嘉其好古手詔褎美<br/><br/>　　宋尤袤遂初堂书目云北堂书钞「无卷数」<br/><br/>　　宋晁昭德先生郡斋读书后志云北堂书钞一百七十三卷唐虞世南撰世南仕隋為秘书郎时钞经史百家之事以备用分八十部八百一类北堂者省之后堂世南钞书之所也家一百二十卷<br/><br/>　　宋陈振孙撰直斋书录解题云北堂书钞一百六十卷唐秘书监餘姚虞世南伯施撰其书成於隋世元马端临撰文献通考云北堂书钞一百七十三卷晁氏曰唐虞世南撰世南仕隋為秘书郎时钞经史百家之事以备用分八十部八百一类北堂者省之后堂世南钞书之所也家一百二十卷<br/><br/>　　明焦竑辑国史经籍志云北堂书钞百七十三卷虞世南撰明杨士奇编文渊阁书目云北堂书钞一部七册闕明叶盛辑菉竹堂书目云北堂书钞七册朱彝尊曝书亭集大唐类要跋云康熙己卯七月湖州书贾有以大唐类要百六十卷求售者反覆观之即虞氏北堂书钞也按新唐书志作一百七十三卷晁氏读书后志同而宋志止百六十卷是编地部至泥沙石而毕度非完书今世所行者出常熟陈禹謨锡玄氏删补至以贞观后事及五代十国之书杂入其中尽失其旧阅之令人生恚储书者多藏之而原书罕覯矣类要传写多讹舛然大略出於原书未易得也<br/><br/>　　钱曾撰读书敏求记云北堂书钞一百六十卷今行北堂书钞為吾乡陈抱中先生所刻搀乱增改惜无从订正闻嘉禾收藏家有原书蒐访十餘年而始？缮写精妙繙阅之心目朗然唐人类要大都為一己採用而作如白朴之类非若宋人取盈卷帙言？？谰詆欺殊不足援据也<br/><br/>　　黄丕烈辑季沧苇书目云陶九成古唐类苑一百六十卷抄本「按此书今归士礼居」<br/><br/>　　严可均铁桥漫稿书北堂书钞原本后云右北堂书钞一百六十卷明初写本未经陈禹謨改窜道光五年三月钱唐朱竹庵世杰以重价购得之至九年七月三日竹庵以余留意於此书也者遣书估持赠余与竹庵非素交不可徒受也偿以原值类书大种自修文殿御览新佚后以书钞為最古其得本最难王伯厚云二馆旧闕书钞惟赵安仁家有本真宗命内侍取之手詔褎美是北宋己极罕覯明中叶时常熟陈庄靖瓚得婿钞本其裔禹謨改补梓行明人习气好作聪明变乱旧章是谓刻书而书亡康熙中钱遵王得本有跋谓缮写精妙见读书敏求记朱锡鬯得大唐类要有跋见曝书亭集季沧苇得古唐类范见延陵书目嘉庆初古唐类范為吴县黄蕘圃所得散片两包未曾装册余屡借观卷首有季振宜印首尾有秀水朱氏潜采堂印每卷古唐类范四字俱挖补盖类范即类要类要即书钞书估作偽实是书钞原本也今蕘圃藏书半归汪厚斋汪即益美布商类范归汪与否余未知之阳湖孙渊如得书钞卷首有云章阁及纫佩斋收藏印不知何许人也渊如作跋尾别纸夹置卷首其书中用丹笔改字者王石华也卷首用墨笔录锡鬯类要跋者亦石华也书中校语用墨笔者余与洪均轩也己巳春吴山尊去官南不见是书求得副本余时寓渊如所倩二十人竭二十日力照写付之聊且竣事错误增多道光乙酉春常熟张月霄得本甲乙至壬癸十鉅册余未见之钱唐汪小米得本余亦未见今余得竹庵藏本其卷七有丹笔采余校语一条余校语在渊如藏本竹庵何因？见渊如弃世金陵祠屋藏书闻颇散失盖其本展转入钱唐矣欲访竹庵问之然亦何必问之渊如尝语余云物聚必散得古书画不加收藏名印而已此达观之言也统计千年来书钞在若存若亡之际就余闻见江浙间实有五本蕘圃一渊如一月霄一小米一余一后之有心人据余言而蒐访之不至断种书譔於隋时故隋志已著录作一百七十四卷唐志作一百七十三卷晁公武读书志同中书目及宋志立一百六十卷与今本同盖残闕矣今本起帝王部帝王总载类迄地部石类凡十九部八百五十二类而公武云八十部八百一类又云家本百二十卷牴牾如此因知宋世绝无善本故未能刻板以至前明偶存写本删割羼？？戉脱譌傎倒篇尠完章章尠完句世间难校之书此為第一嘉庆中渊如约王伯申略校伯申约钱既勤同校仅二十叶而輟业胡砚农助刻资二百金云将续寄四百金渊如属余校刻余竭八九月之力校刻卷百三十二起至卷百六十止砚农刻貲杳不续寄余遂輟业是时汉魏晋佚书辑本及章凤枝佚书辑本汇聚渊如所者不下七八百种假余两年之力庶可藏事而限於资斧未竣功今余老且病诸辑本皆不在手难复為力虽得竹庵藏本徒庋高阁馆蠹鱼耳沈思往事為之太息铁桥散人严可均书於武林之广润寺时？此本之三日也<br/><br/>　　又云此本目录前有宋湘芝湾名号两印卷百六十尾有宋湘印芝湾嘉应州人嘉己未进士卒官郡守癸亥春与余遇於广州不知何处何时得此本而复失之展转至常熟落书估顾荣昌手而售於竹庵以归於余二三十年间三易主矣余书屡聚屡散每册鈐余名印后之视余犹余之视芝湾也可均又书<br/><br/>　　又云是年九月余在睦州有武林书估以书钞新写本来求售者阅之字画端正误处皆空白是惯家钞本也其卷七亦采余校语益知渊如藏本必在钱唐因问云此新写本出谁家也书估答甚支梧越五年余复寓广润寺书估始吐其实渊如藏本早為何梦华元所得梦华弃世其子贫困去冬以售於秀水令陈振之振之闽人罢官本今入闽其新写本亦梦华家钞也先售去道光十四年六月九日可均又书<br/><br/>　　又书汪小米所藏北堂书钞原本后云余闻小米得原本书钞八九年矣今夏六月十三日始索观之纸洁字工有朱竹垞印盖曝书亭藏本后為钱遵王所得者也读书敏求记云闻嘉禾收藏家有原书蒐访十餘年而始得缮写精妙繙阅之心目朗然所谓嘉禾收藏家者即曝书亭也江浙有书钞原本五余见其四缮写精妙独此本耳故知即遵王所得也曝书亭集有大唐类要跋其本收藏未久落书页手改為古唐类范售於季沧苇嘉庆初蕘圃得之余屡借观每卷古唐类范四字俱挖补因疑先為大唐类要亦是挖补其本婿不及此精善道光甲午岁季夏可均「以上论原本」<br/><br/>　　明史艺文志云陈禹謨补注北堂书钞一百六十卷王鸿绪明史稿艺文志云陈禹謨补注北堂书钞一百六十卷宁波范氏天一阁书目云北堂书钞一百七十卷刊本唐虞世南撰钱谦益辑絳云楼书目云北堂书钞一百七十三卷世南原书久亡今所行乃后人偽造也金星軺文瑞楼藏书目录云北堂书钞一百六十卷唐姚江虞世南辑严可均铁桥漫槀书陈禹謨刻本北堂书钞后云世咸谓明中叶后刻书无善本是固然矣然未有肆行乱若陈刻书钞之甚者也书钞北宋时得本已难明代偶存婿钞本讹谬脱落篇尠完章章尠完句然而甚误之中往往有绝佳处所钞之书皆三代汉魏迄於宋齐其最晚者沈约宋书萧方等三十国春秋崔鸿十六国春秋魏收后魏书其诗赋颂则顏谢鲍為最晚陈隋字不钞钞者今世忘其本十盖八九其存者亦流俗写变残闕误譌不為典要故刻书钞可略校不能统校陈乃何人臆改之臆删之以他书易之甚且以贞观后事及五代十国之书补之是惑易之疾亟当沐以兰阳者也又有甚不可解者卷百三十九车总载类原本二百四十条陈仅用十七条卷百五十八穴类原本二百三十条陈仅用四十二条卷百六十石类原本百三十九条陈仅用三十三条窃疑陈所据原本视余所据原本闕讹尤甚不然陈虽失心病狂当不至此今陈刻亦渐稀罕收藏家率购以多金备四大类书之数余尝任校刊之役未获竣功恐原本终将断种可惜也陈名禹謨字锡玄号抱中常熟人嘉庆乙亥冬十月严可均书於冶城山馆「以上论陈本」<br/><br/>　　常熟瞿鏞铜剑楼藏书目录云北堂书钞一百六十卷云此永兴在隋时官秘书郎所作今世行本即王厚斋所云赵安仁家之本钱遵王所云嘉禾收藏家有原书寻访十餘年而始得者也旧藏爱曰庐张氏卷首有楝亭曹氏藏书朱记 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-999-9604.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-999-9606.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-999.html" action-type="chapterComment" class="comment"><i></i>北堂书钞章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

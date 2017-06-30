@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《集外集拾遗》正文_《何典》题记_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="集外集拾遗,集外集拾遗原文,集外集拾遗阅读,《何典》题记全文,鲁迅作品" />
+<meta name="description" content="集外集拾遗原文阅读,《何典》题记全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-541-6964.html";
+var nextpage="novel-read-541-6966.html";
+var indexpage = "novel-chapter-541.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-541.html">集外集拾遗</a></strong>
+<strong><a href="novel-chapter-541.html">集外集拾遗目录</a></strong>
+<span>《何典》题记</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-541-6964.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>《何典》题记</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-30 19:39:15<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>《何典》的出世，至少也该有四十七年了，有光绪五年的《申报馆书目续集》（２）可证。我知道那名目，却只在前两三年，向来也曾访求，但到底得不到。现在半农（３）加以校点，先示我印成的样本，这实在使我很喜欢。只是必须写一点序，却正如阿Ｑ之画圆圈，我的手不免有些发抖。我是最不擅长于此道的，虽然老朋友的事，也还是不会捧场，写出洋洋大文，俾于书，于店，于人，有什么涓埃之助。 <br/><br/>　　我看了样本，以为校勘有时稍迂，空格令人气闷（４），半农的士大夫气似乎还太多。至于书呢？那是，谈鬼物正像人间，用新典一如古典。三家村的达人穿了赤膊大衫向大成至圣先师拱手，甚而至于翻筋斗，吓得“子曰店”的老板昏厥过去；但到站直之后，究竟都还是长衫朋友。不过这一个筋斗，在那时，敢于翻的人的魄力，可总要算是极大的了。 <br/><br/>　　成语和死古典又不同，多是现世相的神髓，随手拈掇，自然使文字分外精神，又即从成语中，另外抽出思绪：既然从世相的种子出，开的也一定是世相的花。于是作者便在死的鬼画符的鬼打墙中，展示了活的人间相，或者也可以说是将活的人间相，都看作了死的鬼画符和鬼打墙。便是信口开河的地方，也常能令人仿佛有会于心，禁不住不很为难的苦笑。够了。并非博士般角色（５），何敢开头？难违旧友的面情，又该动手。应酬不免，圆滑有方；只作短文，庶无大过云尔。中华民国十五年五月二十五日，鲁迅谨撰。 <br/><br/><br/><br/>　　（１）本篇最初印入一九二六年六月北新书局出版的《何典》。《何典》，一部运用方言俗谚写成的带有讽刺而流于油滑的章回体小说，共十回，清光绪四年（１８７８）上海申报馆出版。编著者“过路人”，原名张南庄，清代上海人；评者“缠夹二先生”，原名陈得仁，清未长洲（今江苏吴县）人。 <br/><br/>　　（２）《申报馆书目续集》一八七九年上海申报馆印行，其中有关于《何典》一书的提要。 <br/><br/>　　（３）半农刘复（１８９１—１９３４），号半农，江苏江阴人。曾参加《新青年》编辑工作，是新文学运动初期重要作家之一。后留学法国，研究语音学，曾任北京大学教授、北平大学女子文理学院院长等职。著有诗集《扬鞭集》、《瓦釜集》、《半农杂文》等。（４）《何典》标点本出版时，刘半农将书中一些内容粗俗的文字删去，代以空格。后来此书再版时恢复了原样，因此刘半农在《关于〈何典〉的再版》中说：“‘空格令人气闷’这句话，现在已成过去”。（５）博士般角色指胡适。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-541-6964.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-541-6966.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-541.html" action-type="chapterComment" class="comment"><i></i>集外集拾遗章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

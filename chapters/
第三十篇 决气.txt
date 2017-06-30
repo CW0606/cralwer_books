@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《黄帝内经》正文_第三十篇 决气_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="黄帝内经,黄帝内经原文,黄帝内经阅读,第三十篇 决气全文,佚名作品" />
+<meta name="description" content="黄帝内经原文阅读,第三十篇 决气全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-58-1869.html";
+var nextpage="novel-read-58-1871.html";
+var indexpage = "novel-chapter-58.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-58.html">黄帝内经</a></strong>
+<strong><a href="novel-chapter-58.html">黄帝内经目录</a></strong>
+<span>第三十篇 决气</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-58-1869.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第三十篇 决气</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-07-29 22:22:41<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【题解】决，分别、辨别之意。本篇主要论述了将人体之气(主要是水谷精微之气)分为精、气、津、液、血、脉六种气，故以&quot;决气&quot;名篇。<br/>　　【原文】黄帝日余闻人有精、气、津、液、血、脉，余意以为一气耳，今乃辨为六名，余不知其所以然。岐伯日两神相搏，合而成形，常先身生，是谓精。何谓气岐伯日上焦开发，宣五谷味，熏肤、充身、泽毛，若雾露之溉，是谓气。何谓津?岐伯日腠理发泄，汗出溱溱[1]，是谓津。何谓液?岐伯日谷入气满，淖泽[2]注于骨，骨属屈伸，泄泽补益脑髓，皮肤润泽，是谓液。何谓血?岐伯日中焦受气，取汁变化而赤，是谓血。何谓脉?岐伯日壅遏[3]营气，令无所避，是谓脉。<br/>　　【提要】本段讨论了精、气、津、液、血、脉六气的生成及其功能特点，并以此作为六气的基本概念。<br/>　　【注释】 [1]溱音真，这里形容汗出很多的样子。<br/>　　[2]淖泽淖，音闹，泥沼，这里引申为满溢的意思。泽，即润泽之意。<br/>　　[3]壅遏指约束营血，使之行于一定的路径。<br/>　　【白话解】黄帝说我听说人体有精、气、津、液、血、脉的说法，我认为这些不过是一种气罢了，现在却把它分为六种，我不懂这是怎么回事。岐伯说男女交合之后，可以产生新的生命体，在形体出现以前，构成人体的基本物质，就叫做精。黄帝问什么是气?岐伯说上焦把饮食精微物质宣发布散到全身，可以温煦皮肤、充实形体、滋润毛发，就像雾露灌溉各种生物一样，这就叫做气。黄帝问什么是津?岐伯说肌腠疏泄太过，汗出过多。这样的汗就叫做津。黄帝问什么是液?岐伯说饮食入胃，水谷精微充满于周身，外溢部分输注于骨髓中，使关节曲伸灵活；渗出的部分可以补益脑髓，散布到皮肤，保持皮肤润泽的物质，就叫做液。黄帝问什么是血?岐伯说位于中焦的脾胃接纳饮食物，吸收其中的精微物质，经过气化变成红色的液体，这就叫做血。黄帝问什么是脉?岐伯说约束营血，使之不能向外流溢，就叫做脉。<br/>　　【按语】六气的化生，皆源于水谷精微。精虽禀受于先天，亦须后天之补充滋养；宗气则由上焦开发，&quot;宣五谷味&quot;而成津与液虽有阴阳清浊之分，但又皆赖&quot;谷入气满&quot;而化生；血则是&quot;中焦受气，取汁&quot;，经心神变化而成的赤色液体；脉的壅遏营气之力亦依赖于脾胃之气的供养和维持。故六气之名虽不同，但皆由一气所化，这充分反映了《内经》以脾胃为后天之本的理论特点。<br/>　　【原文】黄帝日六气者，有余不足，气之多少，脑髓之虚实，血脉之清浊，何以知之?岐伯日精脱者，耳聋；气脱者，目不明津脱者，腠理开，汗大泄；液脱者，骨属屈伸不利，色天叫，脑髓消，胫疫，耳数鸣；血脱者，色白，天然不泽，其脉空虚，此其候也。<br/>　　【提要】本段分别论述了六气耗损而致的证候特点。<br/>　　【注释】[1]色天指皮肤面色枯槁无华。<br/>　　【白话解】黄帝问上述精、气、津、液、血、脉六气的有余和不足各有什么表现?如何才能了解气的多少、脑髓的虚实、血脉的清浊呢?岐伯说精的大量耗损，会使人耳聋；气虚的，可使人的眼睛看不清东西；津虚的，腠理开泄，使人大量汗出；液虚的，四肢关节屈伸不利，面色枯槁没有光泽，脑髓不充满，小腿酸软，经常耳鸣；血虚的，面色苍白而不润泽；脉虚的，脉管空虚下陷，从这些就可以了解六气异常的表现。<br/>　　【按语】本段论述了六气耗夺的临床表现，由于六气同源而异名，所以在病理上也必然相互影响，因此单独出现的六气脱证在临床上很少见。例如&quot;津脱&quot;的病人，大汗伤津耗液，必兼血亏；同理血虚者兼液少；气脱者也常伴大失血等。治疗六气耗夺之病，也应分清主次，把握病机，急则治标，缓则治本，才能取得较好的疗效。<br/>　　【原文】黄帝日六气者，贵贱何如?岐伯日六气者，各有部主[1]也，其贵贱善恶，可为常主，然五谷与胃为大海也。<br/>　　【提要】本段指出六气虽各有所主之部，但均以水谷、胃为本。<br/>　　【注释】 [1]各有部主即六气各有所主之部，如肾主精、脾主津液、肺主气、心主脉等。<br/>　　【白话解】黄帝问六气对人体作用的重要性有何不同?岐伯说六气分别统领于各自的脏器，它们在人体中的重要性及功能的正常与否，都取决于其所归属的脏器的情况。但是，六气都是五谷精微所化生的，而这些精微物质又化生于胃，因此胃是六气化生的源泉。<br/>　　【按语】本段指出六气均有各自所主之部，同时进一步指出六气以水谷与胃为本，从而呼应篇首以一气分而为六，和则为一之论，一方面将六气理论纳入五脏系统中，另一方面则强调了胃于水谷精微物质在人体生命活动中的重要性。六气同源的观点，不仅进一步突出了中医&quot;整体观&quot;的学术思想，也为临床多途径治疗疾病开阔了思路。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-58-1869.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-58-1871.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-58.html" action-type="chapterComment" class="comment"><i></i>黄帝内经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

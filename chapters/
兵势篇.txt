@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孙子兵法》正文_兵势篇_孙武作品 - 维普阅读网</title>
+<meta name="keywords" content="孙子兵法,孙子兵法原文,孙子兵法阅读,兵势篇全文,孙武作品" />
+<meta name="description" content="孙子兵法原文阅读,兵势篇全文在线阅读,孙武作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-56-1648.html";
+var nextpage="novel-read-56-1650.html";
+var indexpage = "novel-chapter-56.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-56.html">孙子兵法</a></strong>
+<strong><a href="novel-chapter-56.html">孙子兵法目录</a></strong>
+<span>兵势篇</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-56-1648.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>兵势篇</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=孙武&amp;searchsubmit=yes"  target="_blank">孙武</a><span class="divide">|</span>发布时间：2014-07-28 20:56:34<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/>　　孙子曰：凡治众如治寡，分数是也；斗众如斗寡，形名是也；三军之众，可使必受敌而无败者，奇正是也；兵之所加，如以碫投卵者，虚实是也。<br/>　　凡战者，以正合，以奇胜。故善出奇者，无穷如天地，不竭如江河。终而复始，日月是也；死而复生，四时是也。声不过五，五声之变，不可胜听也；色不过五，五色之变，不可胜观也；味不过五，五味之变，不可胜尝也；战势不过奇正，奇正之变，不可胜穷也。奇正相生，如循环之无端，孰能穷之？<br/>　　激水之疾，至于漂石者，势也；鸷鸟之疾，至于毁折者，节也。是故善战者，其势险，其节短。势如彍弩，节如发机。纷纷纭纭，斗乱而不可乱也；浑浑沌沌，形圆而不可败也。<br/>　　乱生于治，怯生于勇，弱生于强。治乱，数也；勇怯，势也；强弱，形也。<br/>　　故善动敌者，形之，敌必从之；予之，敌必取之。以利动之，以卒待之。<br/>　　故善战者，求之于势，不责于人，故能择人而任势。任势者，其战人也，如转木石。木石之性，安则静，危则动，方则止，圆则行。故善战人之势，如转圆石于千仞之山者，势也。<br/><br/>译文：<br/>　　治理大军团就象治理小部队一样有效，是依靠合理的组织、结构、编制；指挥大军团作战就象指挥小部队作战一样到位，是依靠明确、高效的信号指挥系统；整个部队与敌对抗而不会失败，是依靠正确运用“奇正”的变化：攻击敌军，如同用石头砸鸡蛋一样容易，关键在于以实击虚。　<br/>　　大凡作战，都是以正兵作正面交战，而用奇兵去出奇制胜。善于运用奇兵的人，其战法的变化就象天地运行一样无穷无尽，象江海一样永不枯竭。象日月运行一样，终而复始；与四季更迭一样，去而复来。宫、商、角、徵、羽不过五音，然而五音的组合变化，永远也听不完；红、黄、蓝、白、黑不过五色，但五种色调的组合变化，永远看不完；酸、甜、苦、辣、咸不过五味，而五种味道的组合变化，永远也尝不完。战争中军事实力的运用不过“奇”、“正”两种，而“奇”、“正”的组合变化，永远无穷无尽。奇正相生、相互转化，就好比圆环旋绕，无始无终，谁能穷尽呢。<br/>　　湍急的流水所以能漂动大石，是因为使它产生巨大冲击力的势能；猛禽搏击雀鸟，一举可致对手于死地，是因为它掌握了最有利于爆发冲击力的时空位置，节奏迅猛。所以善于作战的指挥者，他所造成的态势是险峻的，进攻的节奏是短促有力的。“势险”就如同满弓待发的弩那样蓄势，“节短”正如搏动弩机那样突然。旌旗纷纷，人马纭纭，双方混战，战场上事态万端，但自己的指挥、组织、阵脚不能乱；混混沌吨，迷迷蒙蒙，两军搅作一团，但胜利在我把握之中。双方交战，一方之乱，是因为对方治军更严整：一方怯懦，是因为对方更勇敢；一方弱小，是因为对方更强大。军队治理有序或者混乱，在于其组织编制；士兵勇敢或者胆怯，在于部队所营造的态势和声势；军力强大或者弱小，在于部队日常训练所造就的内在实力。<br/>　　善于调动敌军的人，向敌军展示一种或真或假的军情，敌军必然据此判断而跟从；给予敌军一点实际利益作为诱饵，敌军必然趋利而来，从而听我调动。一方面用这些办法调动敌军，一方面要严阵以待。<br/>　　所以，善战者追求形成有利的“势”，而不是苛求士兵，因而能选择人才去适应和利用已形成的“势”。善于创造有利“势”的将领，指挥部队作战就象转动木头和石头。木石的性情是处于平坦地势上就静止不动，处于陡峭的斜坡上就滚动，方形容易静止，圆形容易滚动。所以， 善于指挥打仗的人所造就的“势”，就象让圆石从极高极陡的山上滚下来一样，来势凶猛。这就是所谓的“势”。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-56-1648.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-56-1650.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-56.html" action-type="chapterComment" class="comment"><i></i>孙子兵法章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

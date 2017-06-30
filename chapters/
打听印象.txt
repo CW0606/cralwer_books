@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《准风月谈》正文_打听印象_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="准风月谈,准风月谈原文,准风月谈阅读,打听印象全文,鲁迅作品" />
+<meta name="description" content="准风月谈原文阅读,打听印象全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-551-7534.html";
+var nextpage="novel-read-551-7580.html";
+var indexpage = "novel-chapter-551.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-551.html">准风月谈</a></strong>
+<strong><a href="novel-chapter-551.html">准风月谈目录</a></strong>
+<span>打听印象</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-551-7534.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>打听印象</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-06 20:17:23<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>桃椎　　<br/>　　五四运动以后，好像中国人就发生了一种新脾气，是：倘有外国的名人或阔人新到，就喜欢打听他对于中国的印象。罗素（２）到中国讲学，急进的青年们开会欢宴，打听印象。罗素道：“你们待我这么好，就是要说坏话，也不好说了。”急进的青年愤愤然，以为他滑头。 <br/>　　萧伯纳周游过中国，上海的记者群集访问，又打听印象。萧道：“我有什么意见，与你们都不相干。假如我是个武人，杀死个十万条人命，你们才会尊重我的意见。”（３）革命家和非革命家都愤愤然，以为他刻薄。 <br/>　　这回是瑞典的卡尔亲王（４）到上海了，记者先生也发表了他的印象：“……足迹所经，均蒙当地官民殷勤招待，感激之余，异常愉快。今次游览观感所得，对于贵国政府及国民，有极度良好之印象，而永远不能磨灭者也。”这最稳妥，我想，是不至于招出什么是非来的。 <br/>　　其实是，罗萧两位，也还不算滑头和刻薄的，假如有这么一个外国人，遇见有人问他印象时，他先反问道：“你先生对于自己中国的印象怎么样？”那可真是一篇难以下笔的文章。 <br/>　　我们是生长在中国的，倘有所感，自然不能算“印象”；但意见也好；而意见又怎么说呢？说我们像浑水里的鱼，活得胡里胡涂，莫名其妙罢，不像意见。说中国好得很罢，恐怕也难。这就是爱国者所悲痛的所谓“失掉了国民的自信”，然而实在也好像失掉了，向各人打听印象，就恰如求签问卜，自己心里先自狐疑着了的缘故。 <br/>　　我们里面，发表意见的固然也有的，但常见的是无拳无勇，未曾“杀死十万条人命”，倒是自称“小百姓”的人，所以那意见也无人“尊重”，也就是和大家“不相干”。至于有位有势的大人物，则在野时候，也许是很急进的罢，但现在呢，一声不响，中国“待我这么好，就是要说坏话，也不好说了”。看当时欢宴罗素，而愤愤于他那答话的由新潮社（５）而发迹的诸公的现在，实在令人觉得罗素并非滑头，倒是一个先知的讽刺家，将十年后的心思豫先说去了。 <br/>　　这是我的印象，也算一篇拟答案，是从外国人的嘴上抄来的。 <br/>　　九月二十日。 <br/>　　<br/><br/>===============================================================<br/>　　　　　 <br/>　　（１）　本篇最初发表于一九三三年九月二十四日《申报·自由谈》。 <br/>　　（２）　罗素（Ｂ．Ｒｕｓｓｅｌｌ，１８７２—１９７０）　英国哲学家。一九二○年曾来中国，在北京大学讲过学。 <br/>　　（３）　萧伯纳的话，见《论语》半月刊第十二期（一九三三年三月一日）载镜涵的《萧伯纳过沪谈话记》：“问我这句话有什么用——到处人家问我对于中国的印象，对于寺塔的印象。老实说——我有什么意见与你们都不相干——你们不会听我的指挥。假如我是个武人，杀死个十万条人命，你们才会尊重我的意见。” <br/>　　（４）　卡尔亲王（Ｃａｒｌ　Ｇｕｓｔａｖ　Ｏｓｋａｒ　Ｆｒｅｄｒｉｋ　Ｃｈｒｉｓｔｉａｎ）　当时瑞典国王古斯塔夫五世的侄子，一九三三年周游世界，八月来中国。下引他对记者的谈话，见一九三三年九月二十日《申报》。<br/>　　（５）　新潮社　北京大学部分学生和教员组织的一个具有进步倾向的社团。一九一八年底成立，主要成员有傅斯年、罗家伦、杨振声、周作人等。曾出版《新潮》月刊（一九一九年一月创刊）和《新潮丛书》。后来由于主要成员的变化，该社逐渐趋向右倾，无形解体；傅斯年、罗家伦等成为国民党政权在教育文化方面的骨干人物。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-551-7534.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-551-7580.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-551.html" action-type="chapterComment" class="comment"><i></i>准风月谈章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

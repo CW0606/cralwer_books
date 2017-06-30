@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《黄帝内经》正文_第五十四篇 天年_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="黄帝内经,黄帝内经原文,黄帝内经阅读,第五十四篇 天年全文,佚名作品" />
+<meta name="description" content="黄帝内经原文阅读,第五十四篇 天年全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-58-1893.html";
+var nextpage="novel-read-58-1895.html";
+var indexpage = "novel-chapter-58.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-58.html">黄帝内经</a></strong>
+<strong><a href="novel-chapter-58.html">黄帝内经目录</a></strong>
+<span>第五十四篇 天年</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-58-1893.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第五十四篇 天年</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-07-29 22:28:20<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【本章要点】<br/>　　一、说明胚胎的生长发育过程，并指出了“神”的形成以及长寿的根本条件。<br/>　　二、系统地叙述了人类生长至死亡过程的一般规律。<br/>　　三、说明人生不能终寿的因素——五脏皆不坚，使道不长。<br/>　　【原文】<br/>　　黄帝问于岐伯曰：愿闻人之始生，何气筑为基，何立而为楯，何失而死，何得而生？岐伯曰：以母①为基，以父为楯；失神②者死，得神者生也。<br/>　　黄帝曰：何者为神？岐伯曰：血气已和，营卫已通，五脏已成，神气舍心，魂魄毕具，乃成为人。<br/>　　黄帝曰：人之寿夭各不同，或夭寿，或卒死，或病久，愿闻其道。岐伯曰：五脏坚固，血脉和调，肌肉解利，皮肤致密，营卫之行，不失其常，呼吸微徐，气以度行，六腑化谷，津液布扬，各如其常，故能长久。<br/>　　黄帝曰：人之寿百岁而死，何以致之？岐伯曰：使道隧以长，基墙高以方，通调营卫，三部三里③起，骨高肉满，百岁乃得终。<br/>　　黄帝曰：其气之盛衰，以至其死，可得闻乎？岐伯曰：人生十岁，五脏始定，血气已通，其气在下④，故好走；二十岁，血气始盛肌肉方长，故好趋；三十岁，五脏大定，肌肉坚固，血脉盛满，故好步；四十岁，五脏六腑十二经脉，皆大盛以平定，腠理始疏，荣华颓落，发颇斑白，平盛不摇，故好坐；五十岁，肝气始衰，肝叶始薄，胆汁始减，目始不明；六十岁，心气始衰，若忧悲，血气懈惰，故好卧；七十岁，脾气虚，皮肤枯；八十岁，肺气衰，魄离，故言善误；九十岁，肾气焦，四脏经脉空虚；百岁，五脏皆虚，神气皆去，形骸独居而终矣。<br/>　　黄帝曰：其不能终寿而死者，何如？岐伯曰：其五脏皆不坚，使道不长，空外以张，喘息暴疾；又卑基墙薄，脉少血，其肉不石，数中风寒，血气虚，脉不通，真邪相攻，乱而相引⑤，故中寿而尽也。<br/>　　【注释】<br/>　　①母：人胚胎的生成需父母两精相和，这里的母是指母亲的阴血。<br/>　　②神：这里的神是指一切生物其生命力的综合表现。<br/>　　③三部三里：指面部的额头、鼻梁、下颌三处隆起的地方。<br/>　　④其气在下：气，指人体生长的气，藏于肾，自下而升。人生十岁，此气刚开始兴盛，是生长发育的开始，所以说其气在下。<br/>　　⑤真邪相攻，乱而相引：意思是正邪相互斗争，使气血紊乱，不能祛邪外出，反而引邪内入。<br/>　　【译文】<br/>　　黄帝问于岐伯说：我想了解一下人在生命开始时，是以什么作为基础？以什么作为捍卫呢？损失了什么就要死亡？得到了什么才能生存？岐伯说：以母亲的血为基础，以父亲的精为卫外功能，由父精母血结合而产生神气，失神气的就会死亡，有了神气才能维持生命。<br/>　　黄帝问：什么是神呢？岐伯说：当人体的血气和调，营气卫气的运行通畅，五脏形成之后，神气藏之于心，魂魄也都具备了，才能成为一个健全的人体。<br/>　　黄帝说：人的寿命长短各不相同，有中途夭亡的，有年老长寿的，有猝然死亡的，有的患病很久，希望听听它的道理。岐伯说：如果五脏强健，血脉调顺，肌肉之间通利无滞，皮肤固密，营卫的运行不失其常度，呼吸均匀徐缓，全身之气有规律的运行，六腑也能正常地消化饮食，使精微、津液能敷布周身，以营养人体，各脏腑功能正常，所以能够使生命维持长久而多寿。<br/>　　黄帝说：有些人可活到百岁而死，怎么会达到这样的长寿呢？岐伯说：长寿的人，他的鼻孔和人中深邃而长，面部的骨骼高厚而方正，营卫的循行通调无阻，面部的三庭耸起而不平陷，肌肉丰满，骨骼高起，这种壮健的形体，是能活到百岁而终其天年的象征。<br/>　　黄帝说：人的血气盛衰，以及从生到死这一过程的情况，可以讲给我听吗？岐伯说：人生长到十岁的时候，五脏开始发育到一定的健全程度，血气的运行畅通，其气在下，所以喜动而好走。人到二十岁，血气开始充盛，肌肉也正在发达，所以行动更为敏捷，走路也快。人到三十岁，五脏已经发育强健，全身的肌肉坚固，血气充盛，所以步履稳重，爱好从容不迫地行走。人到四十岁，五脏六腑十二经脉，都很健全已到了不能再继续盛长的程度，从此腠理开始疏松，颜面的荣华逐渐衰落，鬓发开始花白，经气由平定盛满已到了不能再向上发展的阶段，精力已不十分充沛，所以好坐。人到五十岁，肝气开始衰退，肝叶薄弱，胆汁也减少，所以两眼开始昏花。人到六十岁，心气开始衰弱，会经常忧愁悲伤，血气已衰，运行不利，形体惰懈，所以好卧。人到七十岁，脾气虚弱，皮肤干枯。人到八十岁时肺气衰弱，不能藏魄，言语也时常发生错误。人到九十岁，肾气也要枯竭了，其他四脏经脉的血气也都空虚了。到了百岁，五脏的经脉都已空虚，五脏所藏的神气都消失了，只有形骸存在而死亡。<br/>　　黄帝说：有人不能活到应该活到的岁数而死亡的，这是为什么呢？岐伯说：不能长寿的人，是他的五脏不坚固，鼻孔和人中沟不深邃，鼻孔向外开张着，呼吸急促疾速，或者面部之骨骼瘦小，脉管薄弱，脉中血少而不充盈，肌肉不坚实，肌腠松弛，再屡被风寒侵袭，血气更虚，血脉不通利，外邪就易于侵入，与真气相攻，真气败乱，促使他中年而死。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-58-1893.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-58-1895.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-58.html" action-type="chapterComment" class="comment"><i></i>黄帝内经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

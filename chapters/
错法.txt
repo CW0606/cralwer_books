@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《商君书》正文_错法_商鞅作品 - 维普阅读网</title>
+<meta name="keywords" content="商君书,商君书原文,商君书阅读,错法全文,商鞅作品" />
+<meta name="description" content="商君书原文阅读,错法全文在线阅读,商鞅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-50-1261.html";
+var nextpage="novel-read-50-1263.html";
+var indexpage = "novel-chapter-50.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-50.html">商君书</a></strong>
+<strong><a href="novel-chapter-50.html">商君书目录</a></strong>
+<span>错法</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-50-1261.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>错法</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=商鞅&amp;searchsubmit=yes"  target="_blank">商鞅</a><span class="divide">|</span>发布时间：2014-07-26 22:17:54<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　臣闻：古之明君错法而民无邪，举事而材自练，赏行而兵强。此三者，治之本也。夫错法而民无邪者，法明而民利之也。举事而材自练者，功分明；功分明，则民尽力；民尽力，则材自练。行赏而兵强者，爵禄之谓也。爵禄者，兵之实也。是故人君之出爵禄也，道明。道明，则国日强；道幽，则国日削。故爵禄之所道，存亡之机也。夫削国亡主非无爵禄也，其所道过也。<br/><br/>　　三王五霸，其所道不过爵禄，而功相万者，其所道明也。是以明君之使其臣也，用必出于其劳，赏必加于其功。功赏明，则民竞于功。为国而能使其民尽力以竞于功，则兵必强矣。<br/><br/>　　同列而相臣妾者，贫富之谓也；同实而相并兼者，强弱之谓也；有地而君，或强或弱者，乱治之谓也。苟有道，里地足容身，士民可致也；苟容市井，财货可聚也。有土者不可以言贫，有民者不可以言弱。地诚任，不患无财；民诚用，不畏强暴。德明教行，则能以民之有为己用矣。故明主者用非其有，使非其民。<br/><br/>　　明王之所贵，惟爵其实，爵其实而荣显之。不荣，则民不急列位；不显，则民不事爵；爵易得也，则民不贵上爵；列爵禄赏不道其门，则民不以死争位矣。人君而有好恶，故民可治也。人君不可以不审好恶。好恶者，赏罚之本也。夫人情好爵禄而恶刑罚，人君设二者以御民之志，而立所欲焉。夫民力尽而爵随之，功立而赏随之，人君能使其民信于此如明日月，则兵无敌矣。<br/><br/>　　人君有爵行而兵弱者，有禄行而国贫者，有法立而乱者。此三者，国之患也。故人君者先便请谒而后功力，则爵行而兵弱矣。民不死犯难而利禄可致也，则禄行而国贫矣。法无度数，而事日烦，则法立而治乱矣。是以明君之使其民也，使必尽力以规其功，功立而富贵随之，无私德也，故教流成。<br/><br/>　　如此，则臣忠、君明，治著而兵强矣。故凡明君之治也，任其力不任其德，是以不忧不劳，而功可立也。<br/><br/>　　度数已立，而法可修。故人君者不可不慎己也。夫离朱见秋豪百步之外，而不能以明目易人；乌获举千钧之重，而不能以多力易力。夫圣人之存体性，不可以易人，然而功可得者，法之谓也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-50-1261.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-50-1263.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-50.html" action-type="chapterComment" class="comment"><i></i>商君书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

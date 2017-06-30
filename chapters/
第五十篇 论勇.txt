@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《黄帝内经》正文_第五十篇 论勇_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="黄帝内经,黄帝内经原文,黄帝内经阅读,第五十篇 论勇全文,佚名作品" />
+<meta name="description" content="黄帝内经原文阅读,第五十篇 论勇全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-58-1889.html";
+var nextpage="novel-read-58-1891.html";
+var indexpage = "novel-chapter-58.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-58.html">黄帝内经</a></strong>
+<strong><a href="novel-chapter-58.html">黄帝内经目录</a></strong>
+<span>第五十篇 论勇</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-58-1889.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第五十篇 论勇</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-07-29 22:27:30<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【题解】因文中主要论述了勇敢与怯懦的表现、脏腑的相应变化，及其在诊断和治疗上的意义，故称为&quot;论勇&quot;。<br/>　　【原文】黄帝问于少俞日有人于此，并行并立，其年之长少等也，衣之厚薄均也，卒然遇烈风暴雨，或病或不病，或皆病，或皆不病，其故何也?少俞日帝问何急?黄帝日愿尽闻之。少俞日春青风，夏阳风，秋凉风，冬寒风。凡此四时之风者，其所病各不同形。<br/>　　黄帝日四时之风，病人如何?少俞日黄色薄皮弱肉者，不胜春之虚风；白色薄皮弱肉者，不胜夏之虚风青色薄皮弱肉，不胜秋之虚风；赤色薄皮弱肉，不胜冬之虚风也。黄帝日黑色不病乎?少俞日黑色而皮厚肉坚，固不伤于四时之风其皮薄而肉不坚，色不一者，长夏至而有虚风者，病矣。其皮厚而肌肉坚者，长夏至而有虚风，不病矣。其皮厚而肌肉坚者，必重感于寒，外内皆然，乃病。黄帝日善。<br/>　　【提要】人在同一环境中受病与否，其关键决定于体质的强弱。<br/>　　【注释】[1]色不一者肤色经常变化而没有一定的人。<br/>　　【白话解】黄帝问少俞道假如有这样一些人，他们的行为举止一样，共同行走或是站立，年龄大小一致，穿着衣服的。厚薄也相同。可是，突然遇到狂风暴雨等异常气候变化，有人生病，有人不生病，有时都发病，有时都不发病，这是为什么呢?少俞回答说您想先了解哪方面的情况呢?黄帝说所有的问题我都想知道。少俞说春季吹的是温风，夏季是热风，秋季是凉风，冬季是寒风。因为在四季分别感受不同风邪，所以发生疾病时就会有不同的证候。黄帝问四季不同的风邪分别侵袭人体，病人感受风邪会有什么区别呢?少俞回答说面色黄、皮肤薄、肌肉柔弱的人，脾气不足，经受不住春季风邪的侵袭；面色白、皮肤薄、肌肉柔弱的人；肺气不足，经受不住夏季风邪的侵袭；面色青、皮肤薄，肌肉柔弱的人，肝气不足，经受不住秋季风邪的侵袭。面色赤、皮肤薄、肌肉柔弱的人，心气不足，经受不住冬季风邪的侵袭。黄帝问面色黑的人，就不会感受风邪而发生疾病吗?少俞答面色黑而皮肤厚、肌肉坚实的人，肾气充盛，当然不会遭受风邪的侵袭。如果皮肤薄、肌肉不坚实、面色又不是始终保持黑色的人，到了长夏而感受风邪就会发生疾病。如果面色黑、皮肤厚、肌肉坚实者，即使在长夏遇到风邪，也不会发生疾病。面色黑、皮肤厚、肌肉坚实的人一定是寒邪已侵入体内，又感受风邪，外邪与内邪相结合才会生病。黄帝说讲得很好。<br/>　　【原文】黄帝日夫人之忍痛与不忍痛，非勇怯之分也。夫勇士之不忍痛者，见难则前，见痛则止；夫怯士之忍痛者，闻难则恐，遇痛不动。夫勇士之忍痛者，见难不恐，遇痛不动；夫怯士之不忍痛者，见难与痛，目转面哼，恐不能言，失气，惊，颜色变化，乍死乍生。余见其然也，不知其何由，愿闻其故。少俞日夫忍痛与不忍痛者，皮肤之薄厚，肌肉之坚脆，缓急之分也，非勇怯之谓也。<br/>　　黄帝日愿闻勇怯之所由然。少俞日勇士者，目深以固，长衡直扬，三焦理横，其心端直，其肝大以坚，其胆满以傍，怒则气盛而胸张，肝举而胆横，眦裂而目扬，毛起而面苍，此勇士之由然者也。<br/>　　黄帝日愿闻怯士之所由然。少俞日怯士者，目大而不减，阴阳相失，其焦理纵，髑骺短而小，肝系缓，其胆不满而纵，肠胃挺，胁下空，虽方大怒，气不能满其胸，肝肺虽举，气衰复下，故不能久怒，此怯士之所由然者也。<br/>　　【提要】忍痛与否不是勇怯的本质区别，勇怯的根本是在于内脏生理功能强弱的不同，其中又主要决定于肝胆的坚或脆。<br/>　　【注释】[1]目转面盼目转，系指因惊恐而头晕眼花。面盼，系指面部斜侧，惊恐不敢正视。<br/>　　【白话解】黄帝问道人体能否忍受疼痛，不是根据性格勇敢与怯懦来区分的。性格勇敢而不能忍耐疼痛者，遇到危难时可以挺身向前，可是感到疼痛时就会退缩不前；性格怯懦而能忍耐疼痛者，听到危难的事情就惊恐不安，遇到疼痛却能忍受而不动摇。勇敢而又能忍耐疼痛者，遇到危难不恐惧，碰到疼痛也能忍受。怯懦又不能耐受疼痛者，遇到危难和疼痛，就吓得头晕眼花，颜色变更，侧头而不敢正视，话也不敢说等表现出心神散乱，痛得死去活来。我看到这些情况，不知是什么原因，想了解一下其中的道理。少俞回答说能否忍耐疼痛，是根据皮肤的厚与薄，肌肉的坚实与脆弱，以及纵缓与紧密的不同，不是根据性格的勇敢和怯懦来区分。黄帝问我想了解人体性格的勇敢和怯懦，是从哪些形式表现出来的。少俞回答说勇敢的人，两目凹陷而目光坚定，眉毛竖起而长直，皮肤肌肉的纹理是横向的，心脏端正而向下垂直，肝脏大而坚实，胆囊充盈而增大。发怒时，怒气充满胸中而胸廓张大，肝气上升而胆气横溢，眼睛瞪得很大，目光逼人，毛发竖起，面色铁青等，这就是勇敢人的表现。黄帝又问性格怯懦的人有什么样的表现呢?少俞回答说怯懦的人，眼睛虽然很大却不凹陷，阴阳气血不协调，皮肤肌肉的纹理是竖向的，胸骨剑突短小，肝系松弛，胆囊不充盈，肠胃挺直，胁下空软，即使发怒时，怒气也不能充满胸中，肝肺虽然因怒气而暂时上举，但是随着怒气的衰减，肝肺又重新下降，所以不能长时间地发怒，这就是怯懦人的表现。<br/>　　【原文】黄帝日怯士之得酒，怒不避勇士者，何脏使然?少俞日酒者，水谷之精，熟谷之液也，其气懔悍，其入于胃中，则胃胀，气上逆，满于胸中，肝浮胆横，当是之时，固比于勇士，气衰则悔。与勇士同类，不知避之，名日酒悖[1]也。<br/>　　【提要】举例讲述了酒对人的性格与行为的影响。<br/>　　【注释】[1]酒悖由于酒而出现的反常表现。<br/>　　【白话解】黄帝问怯懦的人喝了酒以后发怒时与勇敢的人相似，是哪些脏腑发挥作用使他这样呢?少俞回答说酒是水谷的精华，由谷类酿造而成的液体，性质迅猛滑利。酒人胃后使胃胀大，气机上逆，壅滞胸中，使肝气上升，胆汁横逆。饮酒后，他的行为当然与勇敢的人相同，但是等到酒醒气衰以后，自己就会感到懊悔。这种人的表现虽然与勇敢的人非常相似，并不是有意识地按照勇敢人的行为去做，是酒在体内起的作用，所以称为酒悖。<br/>　　【按语】文中所述说明，人的勇怯虽与内脏器官及气机强弱有内在联系，但是性格上的差异，也不能看做是绝对的，社会实践的锻炼，精神意志的修养，同样对性格的改变有相当大的作用。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-58-1889.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-58-1891.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-58.html" action-type="chapterComment" class="comment"><i></i>黄帝内经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

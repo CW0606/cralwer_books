@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《针灸甲乙经》正文_针道_皇甫谧作品 - 维普阅读网</title>
+<meta name="keywords" content="针灸甲乙经,针灸甲乙经原文,针灸甲乙经阅读,针道全文,皇甫谧作品" />
+<meta name="description" content="针灸甲乙经原文阅读,针道全文在线阅读,皇甫谧作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-518-6328.html";
+var nextpage="novel-read-518-6330.html";
+var indexpage = "novel-chapter-518.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-518.html">针灸甲乙经</a></strong>
+<strong><a href="novel-chapter-518.html">针灸甲乙经目录</a></strong>
+<span>针道</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-518-6328.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>针道</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=皇甫谧&amp;searchsubmit=yes"  target="_blank">皇甫谧</a><span class="divide">|</span>发布时间：2014-09-23 21:23:04<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>夫针之要，易陈而难入。粗守形，上守神。神乎神，客在门。未睹其病，恶知其原。刺之微，在速迟。粗守关，上守机。机之不动，不离其空，空中之机，清静以微。其来不可逢，其往不可追。知机道者，不可挂以发。不知机者，叩之不发。知其往来，要与之期。粗之暗乎，妙哉上独有之也。往者为逆，来者为顺。明知逆顺，正行无问。迎而夺之，恶得无虚。追而济之，恶得无实。迎而随之，以意和之。针道毕矣。凡用针者，虚则实之，满则泄之，菀陈则除之，邪胜则虚之。《大要》曰：徐而疾则实，疾而徐则虚。言其实与虚，若有若无。察后与先，若存若亡。为虚为实，若得若失。虚实之要，九针最妙。补泻之时，以针为之。泻曰迎之。迎之意，必持而内之，放而出之。排扬出针，疾气得泄。按而引针，是谓内温。血不得散，气不得出。补曰随之。随之意，若忘之。若行若按，如蚊虻止。如留如环，去如绝弦。令左属右，其气故止。外门已闭，中气乃实。必无留血，急取诛之。持针之道，坚者为实，（《素问》注作宝）。正指直刺，无针左右。神在秋毫，属意病者，审视血脉，刺之无殆。方刺之时，心在悬阳，及与两衡（一作冲）。神属勿去，知病存亡。取血脉者，在俞横居。视之独满，切之独坚。夫气之在脉也，邪气在上，浊气在中，清气在下。故针陷脉则邪气出，针中脉则浊气出，针太深则邪反沉，病益甚。故曰皮肉筋脉，各有所处。病各有所舍，针各有所宜。各不同形，各以任其所宜。无实实虚虚，损不足，益有余，是为重病，病益甚。取五脉者死，取三脉者恇。夺阴者厥，夺阳者狂，针害毕矣。<br/><br/>　　知其所苦。鬲有上下，知其气之所。先得其道，布而涿之（《太素》作希而疏之），稍深而留之，故能徐入之。大热在上者，推而下之，从下上者，引而去之，视前痛者，常先取之。大寒在外，留而补之，入于中者，从合泻之。针所不为，灸之所宜。上气不足，推而扬之；下气不足，积而从之。阴阳皆虚，火自当之，厥而寒甚，骨廉陷下，寒过于膝，下陵三里，阴络所过，得之留止，寒入于中，推而行之，经陷下者，即火当之。结络坚紧，火之所治。不知其苦，两跷之下，男阳女阴，良工所禁，针论毕矣。凡刺虚者实之，满者泄之，此皆众工之所共知也。若夫法天则地，随应而动，和之若响，随之若影，道无鬼神，独来独往。凡刺之真，必先治神。五脏已定，九候已明，后乃存针。众脉所（《素》作不）见，众凶所（《素》作弗）闻。外内相得，无以形先。可玩往来，乃施于人。虚实之要，五虚勿近，五实勿远。至其当发，间不容瞚。手动若务，针耀而匀。静意视义，观适之变，是谓冥冥，莫知其形。见其乌乌，见其稷稷；从见其飞，不知其谁。伏如横弩，起若发机。刺虚者须其实，刺实者须其虚。经气已至，慎守勿失。深浅在志，远近若一。如临深渊，手如握虎，神无营于众物。<br/><br/>　　黄帝问曰：愿闻禁数？岐伯对曰：脏有要害，不可不察。肝生于左，肺藏于右。心部于表，肾治于里，脾为之使，胃为之市。膈肓之上，中有父母。七节之傍，中有志心（《素》作小心）。顺之有福，逆之有咎。泻必用方（《太素》作员）。切而转之，其气乃行。疾入徐出，邪气乃出。伸而迎之，摇大其穴，气出乃疾。补必用员（《太素》作方），外引其皮，令当其门。左引其枢，右推其肤，微旋而徐推之。必端以正，安以静，坚心无解，欲微以留，气下而疾出之。推其皮，盖其外门，真气乃存。用针之要，无忘养神。泻者以气方盛，以月方满，以日方温，以身方定，以息方吸而内针，乃复候其方吸而转针，乃复候其方呼而徐引针。补者行也。行者移也，刺必中其荥，复以吸排针也。必知形之肥瘦。营卫血气之衰盛。血气者，人之神，不可不谨养。形乎形，目瞑瞑。扪其所痛（《素》作问其所痛），索之于经，慧然在前，按之弗得，不知其情，故曰形。神乎神，耳不闻。目明心开而志光，慧然独觉，口弗能言，俱视独见，象若昏，昭然独明，若风吹云，故曰神。三部九候为之原，九针之论不必存。凡刺之而气不至，无问其数；刺之而气至乃去之，勿复针。针各有所宜，各不同形，各任其所为。刺之要，气至而效，效之信，若风吹云，昭 然于天，凡刺之道毕矣。节之交，凡三百六十五会。知其要者，一言而终；不知其要者，流散无穷。所言节者，神气之所游行出入也，非皮肉筋骨也。睹其色，察其目，知其散复。一其形，听其动静，知其邪正。右主推之，左持而御之，气至而去之。凡将用针，必先视脉气之剧易，乃可以治病。五脏之气已绝于内，而用针者反实其外，是谓重竭。重竭必死，其死也静，治之者辄反其气，取腑与膺。五脏之气已绝于外，而用针者反实其内，是谓逆厥。逆厥则必死，其死也躁，治之者反取四末。刺之害，中而不去则精泄；害中而去则致气；精泄则病甚而恇，致气则生为痈疡。刺针必肃，刺肿摇针，经刺勿摇，此刺之道也。刺诸热者，如手探汤；刺寒清者，如人不欲行。刺虚者，刺其去；刺实者，刺其来。刺上关者，■〈去欠〉不能欠；刺下关者，欠不能■〈去欠〉。刺犊鼻者，屈不能伸；刺内关者，伸不能屈。病高而内者，取之阴陵泉；病高而外者，取之阳陵泉。阴有阳疾者，取之下陵三里。正往无殆，下气乃止，不下复始矣。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-518-6328.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-518-6330.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-518.html" action-type="chapterComment" class="comment"><i></i>针灸甲乙经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

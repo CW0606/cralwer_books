@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《准风月谈》正文_“感旧”以后（下）_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="准风月谈,准风月谈原文,准风月谈阅读,“感旧”以后（下）全文,鲁迅作品" />
+<meta name="description" content="准风月谈原文阅读,“感旧”以后（下）全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-551-7518.html";
+var nextpage="novel-read-551-7520.html";
+var indexpage = "novel-chapter-551.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-551.html">准风月谈</a></strong>
+<strong><a href="novel-chapter-551.html">准风月谈目录</a></strong>
+<span>“感旧”以后（下）</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-551-7518.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>“感旧”以后（下）</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-05 21:38:45<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>丰之余 <br/>　　还要写一点。但得声明在先，这是由施蛰存先生的话所引起，却并非为他而作的。对于个人，我原稿上常是举出名字来，然而一到印出，却往往化为“某”字，或是一切阔人姓名，危险字样，生殖机关的俗语的共同符号“××”了。我希望这一篇中的有几个字，没有这样变化，以免误解。 <br/>　　我现在要说的是：说话难，不说亦不易。弄笔的人们，总要写文章，一写文章，就难免惹灾祸，黄河的水向薄弱的堤上攻，于是露臂膊的女人和写错字的青年，就成了嘲笑的对象了，他们也真是无拳无勇，只好忍受，恰如乡下人到上海租界，除了拚出被称为“阿木林”之外，没有办法一样。 <br/>　　然而有些是冤枉的，随手举一个例，就是登在《论语》二十六期上的刘半农（２）先生“自注自批”的《桐花芝豆堂诗集》这打油诗。北京大学招考，他是阅卷官，从国文卷子上发见一个可笑的错字，就来做诗，那些人被挖苦得真是要钻地洞，那些刚毕业的中学生。自然，他是教授，凡所指摘，都不至于不对的，不过我以为有些却还可有磋商的余地。集中有一个“自注”道—— <br/>　　“有写‘倡明文化’者，余曰：倡即‘娼’字，凡文化发达之处，娼妓必多，谓文化由娼妓而明，亦言之成理也。” <br/>　　娼妓的娼，我们现在是不写作“倡”的，但先前两字通用，大约刘先生引据的是古书。不过要引古书，我记得《诗经》里有一句“倡予和女”（３），好像至今还没有人解作“自己也做了婊子来应和别人”的意思。所以那一个错字，错而已矣，可笑可鄙却不属于它的。还有一句是——　　“幸‘萌科学思想之芽’。” <br/>　　“萌”字和“芽”字旁边都加着一个夹圈，大约是指明着可笑之处在这里的罢，但我以为“萌芽”，“萌蘖”，固然是一个名词，而“萌动”，“萌发”，就成了动词，将“萌”字作动词用，似乎也并无错误。 <br/>　　五四运动时候，提倡（刘先生或者会解作“提起婊子”来的罢）白话的人们，写错几个字，用错几个古典，是不以为奇的，但因为有些反对者说提倡白话者都是不知古书，信口胡说的人，所以往往也做几句古文，以塞他们的嘴。但自然，因为从旧垒中来，积习太深，一时不能摆脱，因此带着古文气息的作者，也不能说是没有的。 <br/>　　当时的白话运动是胜利了，有些战士，还因此爬了上去，但也因为爬了上去，就不但不再为白话战斗，并且将它踏在脚下，拿出古字来嘲笑后进的青年了。因为还正在用古书古字来笑人，有些青年便又以看古书为必不可省的工夫，以常用文言的作者为应该模仿的格式，不再从新的道路上去企图发展，打出新的局面来了。 <br/>　　现在有两个人在这里：一个是中学生，文中写“留学生”为“流学生”，错了一个字；一个是大学教授，就得意洋洋的做了一首诗，曰：“先生犯了弥天罪，罚往西洋把学流，应是九流加一等，面筋熬尽一锅油。”（４）我们看罢，可笑是在那一面呢？ <br/>　　十月十二日。 <br/>　　<br/>===============================================================<br/>　　　　　 <br/>　　（１）　本篇最初发表于一九三三年十月十六日《申报·自由谈》。<br/>　　（２）　刘半农（１８９１—１９３４）　名复，号半农，江苏江阴人，历任北京大学教授、北平大学女子文理学院院长等。他曾参加《新青年》编辑工作，是新文学运动初期重要作家之一。后留学法国，研究语音学，思想渐趋保守。著有《扬鞭集》、《瓦釜集》和《半农杂文》等。他的《桐花芝豆堂诗集》在《论语》半月刊上连续发表，下文所引诗及注，都出自集中的《阅卷杂诗》六首（载一九三三年十月一日《论语》第二十六期）。“有写‘倡明文化’者……”，系《杂诗》第一首的“自注”；“幸‘萌科学思想之芽’”，系《杂诗》第六首中的一句；“先生犯了弥天罪……”系《杂诗》的第二首。 <br/>　　（３）　倡予和女”　语见《诗经·郑风·萚兮》：“叔兮伯兮，倡予和女（汝）！” <br/>　　（４）　“先生犯了弥天罪”四句，据刘半农在这首诗的“自注”中说：“古时候九流，最远不出国境，今流往外洋，是加一等治罪矣。昔吴稚老言：外国为大油锅，留学生为油面筋，谓其去时小而归来大也。据此，流学生不特流而已也，且入油锅地狱焉，阿要痛煞！” </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-551-7518.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-551-7520.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-551.html" action-type="chapterComment" class="comment"><i></i>准风月谈章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

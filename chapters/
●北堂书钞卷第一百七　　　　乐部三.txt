@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《北堂书钞》正文_●北堂书钞卷第一百七　　　　乐部三_虞世南作品 - 维普阅读网</title>
+<meta name="keywords" content="北堂书钞,北堂书钞原文,北堂书钞阅读,●北堂书钞卷第一百七　　　　乐部三全文,虞世南作品" />
+<meta name="description" content="北堂书钞原文阅读,●北堂书钞卷第一百七　　　　乐部三全文在线阅读,虞世南作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-999-9713.html";
+var nextpage="novel-read-999-9715.html";
+var indexpage = "novel-chapter-999.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-999.html">北堂书钞</a></strong>
+<strong><a href="novel-chapter-999.html">北堂书钞目录</a></strong>
+<span>●北堂书钞卷第一百七　　　　乐部三</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-999-9713.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>●北堂书钞卷第一百七　　　　乐部三</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=虞世南&amp;searchsubmit=yes"  target="_blank">虞世南</a><span class="divide">|</span>发布时间：2014-11-20 21:05:32<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　隋祕书郎虞世南撰南海孔广陶校註舞篇三<br/><br/>　　○舞篇三<br/><br/>　　帝俊是始為舞「海内经云帝俊八子是始為舞○今案本钞歌篇引山海经同」阴康始教民舞「傅玄乐府杂诗云昔有林号曰阴康始教民舞涕气以扬之○王石华校林字涕字有误旁勒今案陈俞本删号曰以上涕气以下傅节子辑本删涕字餘同原钞」舞以导之「吕氏春秋云陶唐氏之始阴多滞伏阳道雍塞民气壅閼筋骨瑟缩故作舞以宣导之○今案陈本脱阳道句筋骨句考吕氏春秋仲夏纪阳作水壅作鬱」舞以宣情「阮籍乐论云故歌以叙志舞以宣情然后闻之以采章昭之以风雅播之以八音感之以太和○今案本钞乐篇引同陈本文之五字误作文彩昭作照感作成」舞以尽意「傅毅舞云歌以尽言舞以尽意○今案陈本严辑本同文选尽言作咏言」节八音而行八风「春秋左传云夫舞所以节八音而行八风杜预注云八音金石丝竹匏土革木也八风八方之风也以八音之器播八方之风手之舞之足之蹈之节其制而叙其情也○今案左传隐五年杜注叙作序餘同」<br/><br/>　　观其舞知其德「乐记云治民劳者其舞行缀远治民逸者其舞行缀短故观其舞知其德○今案礼记乐记同」隐公八悄「左传云公问羽数于眾仲对曰天子用八诸？用六大夫四士二夫舞所以节八音而行八风故自八以下公从之於是始用六悄也杜预注云悄舞行列○今案隐五年杜注无此文餘同」<br/><br/>　　以弓矢舞「周礼大司乐职云詔诸候以弓矢舞郑注云舞谓执弓挟矢揖攘进退之仪也○今案周礼攘作让餘同考攘即古让字详见惠氏九经古义」持于戚舞「五经通义云王者之乐有先后者各尚其德以舞得之先武乐持朱于玉戚而舞也○今案类聚四十一御览五百七十四引通义同」舞干羽「尚书大禹謨云苗民逆命帝乃诞敷文德舞于羽于两阶孔安国云于楯羽翳也皆舞者之所执也○今案虞书孔传同」舞云门以祀天神「周礼大司乐云奏黄鐘歌大吕舞云门以祀天神郑玄注云黄帝乐曰云门言其德如云之所出民得以有族类也天神谓五帝及日月星辰也○今案春官大司乐及注同」<br/><br/>　　舞咸池以祀地祇「周礼大司乐职云奏太簇歌应鐘舞咸池以祀地祇郑注咸池尧乐也尧能禪均刑法以仪民言其德无所不施也地祇所以祭於北郊谓神州之神及社稷也○今案春官大司乐祀作祭餘同」<br/><br/>　　舞大夏以祀山川「○今案周礼大司乐职祀作祭」舞大濩以享先妣「周礼大司乐云奏夷则歌小吕舞大濩以享先妣郑注云大濩汤乐也汤能以宽治民而除其灾言其德能使天下得其所也先妣姜嫄也履大人迹感神灵而生后稷是周之先母也周立庙自后稷為始祖為姜嫄无所配是以特立庙谓之閟宫閟神也○今案周礼春官大司乐注同」<br/><br/>　　舞大武以享先祖「周礼大司乐云奏无射歌夹鐘舞大武以享先祖郑注云大武武王乐也武王伐紂以除其害言其德能成武功也先祖谓先王先公○今案春官大司乐同」<br/><br/>　　兵舞山川「周礼舞师职云教兵舞帅而舞山川之祭祀谨案名山大川应所祭者兵舞也○王石华校武改舞补教字今案春官舞师职同谨案以下是永兴引申语」帗舞社稷「周礼舞师职云教帗舞帅而舞社稷之祭祀郑注云社五土之神稷五穀之神也○今案近本舞师注无此文」羽舞四方「周礼舞师职云教羽舞帅而舞四方之祭祀郑玄注曰羽析白羽為之形如帗也○今案周礼舞师注同」四时舞「汉书礼乐志云四时舞者孝文所作表天下之安和○今案汉书二十二及陈本表作示」五行舞「汉书礼乐志云高庙奏武德文始五行之舞孝文庙奏昭德五行之舞也○王石华校妙改庙今案汉书二十二同陈本作高祖庙王氏读书杂志据旧钞引但作高庙」盛德之舞「刘苍世祖登歌议云孝武功德□茂制盛德之舞○今案陈俞本脱功字制改作」昭德之舞「刘苍世祖登歌议云孝文躬行节俭制昭德之舞○今案陈俞本同」武始之舞「魏志明帝纪云时有奏武皇帝拨乱反正為魏太祖用武始之舞○王石华校或改武今案魏志卷三同」云翘之舞「魏名臣奏尚书卢毓云汉武有云翘育命之舞不知其所从来旧以祀天地今可兼以云翘祀圈丘以育命祀方泽○王石华校因原钞末二句讹脱不可读皆旁勒之严氏覆校云案此应是今可兼以云翘祀圈丘以六月命祀方泽二句今案严辑全魏文据书钞引魏名臣奏亦同因照订陈俞本脱尚书二字不知七字及今可以下二句」<br/><br/>　　咸熙之舞「魏志明帝纪云时有司奏文皇帝应天受命為魏高祖用咸熙之舞○今案魏志卷三同」持矛助生「五经通义云东夷之乐持矛舞助时生也○今案初学记十五引通义生也作之生陈本亦作之生淮御览五百七十四引同以下三条亦同」持羽助养「五经通义云南夷之乐持羽舞助时养也○今案陈本养也作之养盖据初学记十五引改也」持鉞助杀「五经通义云西夷之乐持■〈金戊〉舞助时杀也○今案详上御览引陈本杀也作之杀」持于助藏「五经通义云北夷之乐持于舞助时藏也○今案详上御览引而陈本藏也作之藏」衣文衣「史记云孔子為政齐人惧犁且选齐国中女子好者八十人皆衣文衣而舞康乐○今案史记孔子世家及陈本且作鉏」衣绣衣「五经通义云王者之乐有先后者各尚其德也以文得之先文乐衣绣衣持羽毛而舞也○王石华校时改持今案类聚四十一引通义衣绣衣误作天绣御览五百七十四引脱衣绣衣三字陈本脱先文乐三字餘同」<br/><br/>　　奋袖飈迴「成公绥七唱云奋长袖以飈迴擢纤腰以烟起○今案初学记十五引七唱同本篇下文引亦同」递进迭举「刘劭赵都赋云中山名倡襄国妓女狄鞮妙音邯郸才舞六八駢罗递进迭举○今案陈本六八改眾美类聚六十一引此赋妓作妖进作奏初学记十五引前四句悉同」袖飞縠「崔駰七依袖飞縠以长舞裙细腰以抑扬○今案陈本作表飞縠以长袖舞细腰以抑扬盖据初学记十五引改也百三家本崔集袖作振舞下增袖字裙作鳧抑上有务字」紆长由「左思蜀都赋云紆长袖而屡舞翩躚躚而裔裔○今案文选同」体如游龙「傅毅赋云体如游龙袖如素蜺○今案文选傅毅舞赋同」裙若飞鷰「张衡七盘赋云裙若飞鷰袖若迴雪○今案陈本作舞赋上若字作似下若字作如百三家本张衡集七盘作观舞鷰作鸞」擢纤腰以烟起「成公子安七唱云奋长袖以飈迴擢纤腰以烟起○今案子安二字本篇上文引作绥字餘同」裙细腰以抑扬「崔駰七依云袖飞縠以长舞裙细腰以抑扬○今案详本篇上文」<br/><br/>　　若凤翼之委迤「袁宏夜酣赋四推舞以悦神观佳人之玉仪曳罗裙之徘徊為凤凰之委迤○今案　袁宏集有夜酣赋仍脱此四句」似飞鳧之迅疾「卞籣许昌宫赋云鼓舞之秘伎○王石华校以改似今类聚六十二引此赋同陈本删鼓舞句」迅如孤鵠「边让章华臺赋云纵轻躯以迅起如孤鵠之失群○今案陈本躯作駈范书递让传引此起作赴餘同」翩如翔翳「孔伟七引云舞躡鼓节翩若翔翳○今案陈本同」<br/><br/>　　眩将坠而复举「张衡南都赋云修领繚绕而绣縺罗袜躡蹀而容与翩绵绵其若眩将坠而复举○今案文选及陈本领作袖绣縺作满庭餘同」若奔星之坠河「刘槙鲁都赋云和顏杨眸仪凤长歌翩乎炎发身如转波纵修袖以终曲若奔星之坠河○今案槙当作楨宋钞因仁宗讳兼避也陈本作损者误又扬眸作眻眄仪作彩翩乎句作手如迴雪餘同百三家本楨集仪凤作眄风翩作飃本钞歌篇引亦作眄风」<br/><br/>　　举长屣以蹈节「张衡七辨云曳罗縠之舞衣乘洒驂以朝翔举长屣以蹈节奋縞袖之翩人○今案百三家本衡集脱陈本乘洒句作裊纤腰以迴翔人作翻」起艳僊僊「傅玄正都赋云鸣簫韶击空鼓奏新声理祕舞修袖连娟长裙繽纷起若翔龙降若颓云○严氏校因空下衍击字删去今案陈本正作西龙作电类聚十六引此赋前四句作吹鸣簫空作灵然皆无僊僊句严辑正都赋亦同考本钞下文引丽舞僊僊注见陆机七徵疑分二条」<br/><br/>　　妙舞巧於絳树「魏文帝与繁钦书云今之妙舞丽莫巧於絳树○今案陈本百三家家本皆无丽字」妙舞丽於阳阿「边让章臺赋云繁手起于北里妙舞丽於阳阿○今案范书边让傅引此赋起作超餘同陈本上句作清歌传於林谷」观舞於淮南「张衡七赋云客有观舞於淮南者美而赋之○今案陈本美作悦百三家本衡集七盘作观舞然本篇上文引亦作七盘」妙舞起齐赵「张华诗妙舞起齐赵悲歌出三秦○今案百三家本衡集及陈本同」邯郸才舞「刘劭赵都赋云狄鞮妙音邯郸才舞○今案详本篇上」起郑舞「楚辞云二八齐容起郑舞○今案见楚辞招魂篇亦见类聚四十三引同」发东舞「魏文帝诗云齐唱发东舞秦箏响西音○今案本钞箏篇引唱作瑟响作奏百三家本魏文集亦作奏唱作琴餘同本钞」雅舞「亡牧云细响提节雅舞应絃○今案陈本俞本亡牧作七收提作合」祕舞「傅玄正都赋云鸣簫韶击空鼓奏新声理祕舞○今案详本篇上文」丽舞「陆机七徵云扬芬起艳丽舞僊僊○今案陈俞本扬芬作新粧严辑陆机集徵作微然仍脱此二句」工舞「任据丽人赋云齐之娠童赵之倡女既修婉而多宜尤嬋娟而工舞○今案陈俞本赋上有舞字娠童作美姜」白雪「孙放故臺赋云优倡角鸣唇之声娥眉鼓白雪之舞○王石华校是改放今案严辑孙放集脱陈俞本故作楚角作耍作遏云」对舞绳上「汉官典职云正直两大丝绳繫两柱相去数丈两女倡对舞行於绳上○今案平津馆辑本脱陈俞本正直四字作以字」会舞合节「楚辞九歌云展诗兮会舞应律兮合节○今案近本九歌同」延年善舞「汉书外戚传云李夫人本以倡进兄延年性知音善歌舞晋阳秋云石崇家绿珠善舞晋中兴书邵音录云殷融弘远為司徒佐西属饮酒善舞终日啸咏○今案汉书一条见卷九十七上陈本脱晋阳以下俞本删晋阳秋二句殷融一段别為一条删郡音录三字弘远二字佐西三字御览五百七十四引晋中兴书亦无邵音录三字弘作宏左作左餘同又御览三百八十引干宝晋纪有绿珠善舞一条可為旁证又案晋阳秋以下二条与标目无涉疑当分為二条」<br/><br/>　　飞鷰学舞「汉书外戚传云赵飞鷰属阳阿主家学歌舞成帝常过阳阿主作乐上见飞鷰而悦之召入宫大幸立為倢侈○今案见汉书孝成赵皇后传」李陵一别「汉书武传云陵在匈奴置酒与苏武别曰异域之人一别伤绝陵起舞歌曰径万里兮度沙幕○今案陈本及汉书卷五十四伤作长」仲祖酒酣「郭子云王仲祖酒酣起舞刘真长曰阿奴今日不复减向子期○今案陈本及玉函山房辑本同」灵帝好胡舞「风俗通云帝好胡舞○今案陈本同」仁祖能异舞「郭子云王仲祖谢仁祖同与王公在坐长史云谢仁祖能作异舞王公命為之○今案陈本同御览二百四十九引郭子同与作同為在上有掾字玉函山房辑本与御览同」项庄剑舞「汉书高帝纪云项庄入為寿寿毕曰军中无以為乐请舞剑羽曰可乃拔剑起舞○今案汉书卷一上无羽曰可三字及起字王氏书杂志据此旧钞以校正汉书陈本改注史记」<br/><br/>　　甘寍戟舞「吴书浚统传云怨甘寍杀其父尝於吕蒙舍会酒酣统乃以刀舞寍起曰寍能双戟舞○王石华校补以刀两字藿改双戟两字今案御览三百五十二引吴书同亦见本钞刀篇」执戈而舞「庄子云孔子穷於陈蔡七日不食絃歌鼓瑟子路仡然执戈而舞○今案陈本及本钞戈篇琴篇引瑟皆作琴餘同近时各本庄子让王篇亦作琴惟仡作扢戈作十干字必误旧钞既入戈篇则隋时旧本庄子必作戈字无疑」<br/><br/>　　杖剑而舞「家语云子路戎服见孔子杖剑而舞孔子曰古之君子忠以為质仁以為卫○今案见家语好生篇第十亦见本钞剑篇引类聚四十三引杖作拔」百兽舞「尚书云夔曰於予击石百兽率舞孔安国曰夔曰我曲乐不敢不和谐试之我击石百兽相率而舞也○今案陈本删夔曰以下近本孔安国书传与此文异」凤凰舞「吕氏春秋云帝嚳命咸黑作為虞歌凤凰天翟舞之○今案陈本及吕氏春秋仲夏纪虞作声凤作鸟餘同又高诱注云声一作唐与旧钞作虞亦异」舞玄鹤「尚书内传云和柏人之乐舞玄鹤其歌声之中名曰归来○今案陈本柏作百舞玄十二字作致玄鹤之舞」舞飞鸟「刘钦新云声音节谐故為之乐所以上舞飞云之鸟下跃沈渊之鱼○今案陈本同玉函山房辑本钦作廞是也类聚二十一引作歆御览四百六引作欣皆误字耳」歌舞不倦「左传云王子颓享五大夫乐及徧舞郑伯闻之谓虢叔曰寡人闻之哀乐失时殃咎必至今王子颓歌舞不倦乐祸也○今案左传庄二十年谓虢作见虢」歌舞井市「毛诗东门之枌篇云幽公荒淫男子弃其旧业亟会於道路歌舞於井市尔子仲之子婆娑其下毛注婆娑舞也○今案见陈风东门之枌诗序井市作市井荒淫作淫荒餘同」燕餘才「张衡七辨云淮南清歌燕餘才舞○今案陈本同本钞歌篇才作楚百三家本衡集才作材」<br/><br/>　　北堂书钞卷第一百七 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-999-9713.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-999-9715.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-999.html" action-type="chapterComment" class="comment"><i></i>北堂书钞章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

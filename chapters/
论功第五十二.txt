@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《盐铁论》正文_论功第五十二_桓宽作品 - 维普阅读网</title>
+<meta name="keywords" content="盐铁论,盐铁论原文,盐铁论阅读,论功第五十二全文,桓宽作品" />
+<meta name="description" content="盐铁论原文阅读,论功第五十二全文在线阅读,桓宽作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-255-4098.html";
+var nextpage="novel-read-255-4100.html";
+var indexpage = "novel-chapter-255.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-255.html">盐铁论</a></strong>
+<strong><a href="novel-chapter-255.html">盐铁论目录</a></strong>
+<span>论功第五十二</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-255-4098.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>论功第五十二</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=桓宽&amp;searchsubmit=yes"  target="_blank">桓宽</a><span class="divide">|</span>发布时间：2014-08-26 21:28:37<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>大夫曰：“匈奴无城廓之守，沟池之固，修戟强弩之用，仓廪府库之积，上无义法，下无文理，君臣嫚易，上下无礼，织柳为室，旃廗为盖。素弧骨镞，马不粟食。内则备不足畏，外则礼不足称。夫中国天下腹心，贤士之所总，礼义之所集，财用之所殖也。夫以智谋愚，以义伐不义，若因秋霜而振落叶。春秋曰：“桓公之与戎、狄、驱之尔。”况以天下之力乎？”<br/><br/>　　文学曰：“匈奴车器无银黄丝漆之饰，素成而务坚，丝无文采裙袆曲襟之制，都成而务完。男无刻镂奇巧之事，宫室城郭之功。女无绮绣淫巧之贡，纤绮罗纨之作。事省而致用，易成而难弊。虽无修戟强弩，戎马良弓；家有其备，人有其用，一旦有急，贯弓上马而已。资粮不见案首，而支数十日之食，因山谷为城郭，因水草为仓廪。法约而易辨，求寡而易供。是以刑省而不犯，指麾而令从。嫚于礼而笃于信，略于文而敏于事。故虽无礼义之书，刻骨卷木，百官有以相记，而君臣上下有以相使。群臣为县官计者，皆言其易，而实难，是以秦欲驱之而反更亡也。故兵者凶器，不可轻用也。其以强为弱，以存为亡，一朝尔也。”<br/><br/>　　大夫曰：“鲁连有言：‘秦权使其士，虏使其民。’故政急而不长。高皇帝受命平暴乱，功德巍巍，惟天同大焉。而文、景承绪润色之。及先帝征不义，攘无德，以昭仁圣之路，纯至德之基，圣王累年仁义之积也。今文学引亡国失政之治，而况之于今，其谓匈奴难图，宜矣！”<br/><br/>　　文学曰：“有虞氏之时，三苗不服，禹欲伐之，舜曰：‘是吾德未喻也。’退而修政，而三苗服。不牧之地，不羁之民，圣王不加兵，不事力焉，以为不足烦百姓而劳中国也。今明主修圣绪，宣德化，而朝有权使之谋，尚首功之事，臣固怪之。夫人臣席天下之势，奋国家之用，身享其利而不顾其主，此尉佗、章邯所以成王，秦失其政也。孙子曰：‘今夫国家之事，一日更百变，然而不亡者，可得而革也。逮出兵乎平原广牧，鼓鸣矢流，虽有尧、舜之知，不能更也。’战而胜之，退修礼义，继三代之迹，仁义附矣。战胜而不休，身死国亡者，吴王是也。”<br/><br/>　　大夫曰：“顺风而呼者易为气，因时而行者易为力。文、武怀余力，不为后嗣计，故三世而德衰，昭王南征，死而不还。凡伯囚执，而使不通，晋取郊、沛，王师败于茅戎。今西南诸夷，楚庄之后；朝鲜之王，燕之亡民也。南越尉佗起中国，自立为王，德至薄，然皆亡天下之大，各自以为一州，倔强倨敖，自称老夫。先帝为万世度，恐有冀州之累，南荆之患，于是遣左将军楼船平之，兵不血刃，咸为县官也。七国之时，皆据万乘，南面称王，提珩为敌国累世，然终不免俛首系虏于秦。今匈奴不当汉家之巨郡，非有六国之用，贤士之谋。由此观难易，察然可见也。”<br/><br/>　　文学曰：“秦灭六国，虏七王，沛然有余力，自以为蚩尤不能害，黄帝不能斥。及二世弒死望夷，子婴系颈降楚，曾不得七王之俛首。使六国并存，秦尚为战国，固未亡也。何以明之？自孝公以至于始皇，世世为诸侯雄，百有余年。及兼天下，十四岁而亡。何则？外无敌国之忧，而内自纵恣也。自非圣人，得志而不骄佚者，未之有也。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-255-4098.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-255-4100.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-255.html" action-type="chapterComment" class="comment"><i></i>盐铁论章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

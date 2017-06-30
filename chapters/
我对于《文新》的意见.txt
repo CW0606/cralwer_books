@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《集外集拾遗补编》正文_我对于《文新》的意见_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="集外集拾遗补编,集外集拾遗补编原文,集外集拾遗补编阅读,我对于《文新》的意见全文,鲁迅作品" />
+<meta name="description" content="集外集拾遗补编原文阅读,我对于《文新》的意见全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-542-7250.html";
+var nextpage="novel-read-542-7252.html";
+var indexpage = "novel-chapter-542.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-542.html">集外集拾遗补编</a></strong>
+<strong><a href="novel-chapter-542.html">集外集拾遗补编目录</a></strong>
+<span>我对于《文新》的意见</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-542-7250.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>我对于《文新》的意见</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-01 21:18:03<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>《文艺新闻》所标榜的既然是Ｊｏｕｒｎａｌｉｓｍ（２），杂乱一些当然是不免的。但即就Ｊｏｕｒｎａｌｉｓｍ而论，过去的五十期中，有时也似乎过于杂乱。例如说柏拉图的《共和国》，泰纳的《艺术哲学》都不是“文艺论”之类，（３）实在奇特的了不得，阿二阿三不是阿四，说这样的话干什么呢？ <br/><br/>　　还有“每日笔记”（４）里，没有影响的话也太多，例如谁在吟长诗，谁在写杰作之类，至今大抵没有后文。我以为此后要有事实出现之后，才登为是。至于谁在避暑，谁在出汗之类，是简直可以不登的。 <br/><br/>　　各省，尤其是僻远之处的文艺事件通信，是很要紧的，可惜的是往往亦有一回，后来就不知怎样，但愿常有接续的通信，就好。 <br/><br/>　　论文看起来太板，要再做得花色一点。 <br/><br/>　　各国文艺界消息，要多，但又要写得简括。例如《苏联文学通信》（５）那样的东西，我以为是很好的。但刘易士被打了一个嘴巴（６）那些，却没有也可以。 <br/><br/>　　此外也想不起什么来了，也是杂乱得很，对不对，请酌为幸。 <br/><br/>　　鲁迅。五月四日。 <br/><br/>　　==============================================================================<br/><br/><br/>　　（１）本篇最初发表于一九三二年五月十六日《文艺新闻》第五十五号。 <br/><br/>　　《文新》，即《文艺新闻》，周刊，中国左翼作家联盟领导的刊物，主办人袁殊（即袁学易）。一九三一年三月十六日创刊于上海，一九三二年六月二十日被国民党当局查禁，共出六十号。该刊创刊一周年时，曾广泛征求意见，本篇即为此而写。 <br/><br/>　　（２）Ｊｏｕｒｎａｌｉｓｍ英语：新闻学，当时曾译为集纳主义。（３）赵景深在《文艺新闻》第九号（一九三一年五月十一日）发表的《没有文学概论》一文中说：“我觉得‘文学概论’这东西是没有的，我不敢承认有‘文学概论’！……柏拉图的共和国也不是普通的文学概论而是柏拉图个人的文学论，推而至于太纳的英国文学史和艺术哲学……都不是普通的文学概论，而是太纳……个人的文学论。”《共和国》，通译《理想国》，柏拉图关于政治、社会问题的重要著作。泰纳（Ｈ．Ａ．Ｔａｉｎｅ，１８２８—１８９３），法国文艺理论家。《艺术哲学》是他的艺术理论批评著作。 <br/><br/>　　（４）“每日笔记”《文艺新闻》的一个专栏，主要登载文艺界人物动态。《文艺新闻》第三号（一九三一年三月三十日）该栏内，刊载过“叶灵凤赴西湖从事长篇著作”和“章衣萍赴西湖吟诗”的消息。 <br/><br/>　　（５）《苏联文学通信》《文艺新闻》第五十号、五十一号（一九三二年四月十一日、十八日）连载的署名雷丹林的文章，其中介绍了苏联当时的各派文学思潮和高尔基的情况。 <br/><br/>　　（６）刘易士被打了一个嘴巴《文艺新闻》第十二号（一九三一年六月一日）刊载过一则消息，题为《一巴掌！正义之击：德兰散打鲁意丝的耳光》。德兰散（Ｔ．Ｄｒｅｉｓｅｒ，１８７１—１９４５），通译德莱塞；鲁意丝，即刘易士（Ｓ．Ｌｅｗｉｓ，１８８５—１９５１），二人都是美国小说家。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-542-7250.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-542-7252.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-542.html" action-type="chapterComment" class="comment"><i></i>集外集拾遗补编章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

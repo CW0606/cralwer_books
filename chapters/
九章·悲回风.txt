@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《九章》正文_九章·悲回风_屈原作品 - 维普阅读网</title>
+<meta name="keywords" content="九章,九章原文,九章阅读,九章·悲回风全文,屈原作品" />
+<meta name="description" content="九章原文阅读,九章·悲回风全文在线阅读,屈原作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-87-1958.html";
+var nextpage="novel-chapter-87.html";
+var indexpage = "novel-chapter-87.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-87.html">九章</a></strong>
+<strong><a href="novel-chapter-87.html">九章目录</a></strong>
+<span>九章·悲回风</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-87-1958.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>九章·悲回风</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=屈原&amp;searchsubmit=yes"  target="_blank">屈原</a><span class="divide">|</span>发布时间：2014-08-02 20:37:21<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文<br/>悲回风之摇蕙兮，心冤结而内伤。<br/>物有微而陨性兮，声有隐而先倡。<br/>夫何彭咸之造思兮，暨志介而不忘。<br/>方变其情岂可盖兮，孰虚伪之可长。<br/>鸟兽鸣以号群兮，草苴比而不芳。<br/>鱼葺鳞以自别兮，蛟龙隐其文章。<br/>故荼荠不同亩兮，兰茝幽而独芳。<br/>惟佳人之永都兮，更统世而自贶。<br/>眇远志之所及兮，怜浮云之相羊。<br/>介眇志之所惑兮，窃赋诗之所明。<br/>惟佳人之独怀兮，折若椒以自处。<br/>曾歔欷之嗟嗟兮，独隐伏而思虑。<br/>涕泣交而凄凄兮，思不眠以至曙。<br/>终长夜之曼曼兮，掩此哀而不止。<br/>寤从容以周流兮，聊逍遥以自恃。<br/>伤太息之愍怜兮，气於邑而不可止。<br/>纠思心以为纕兮，编愁苦以为膺。<br/>折若木以蔽光兮，随飘风之所仍。<br/>存仿佛而不见兮，心踊跃其若汤。<br/>抚珮衽以案志兮，超惘惘而遂行。<br/>岁忽忽其若颓兮，时亦冉冉而将至。<br/>薠蘅槁而节离兮，芳以歇而不比。<br/>怜思心之不可惩兮，证此言之不可聊。<br/>宁逝死而流亡兮，不忍为此之常愁。<br/>孤子吟而抆泪兮，放子出而不还。<br/>孰能思而不隐兮，昭彭咸之所闻。<br/>登石峦以远望兮，路眇眇之默默。<br/>入景响之无应兮，闻省想而不可得。<br/>愁郁郁之无快兮，居戚戚而不可解。<br/>心鞿羁而不开兮，气缭转而自缔。<br/>穆眇眇之无垠兮，莽芒芒之无仪。<br/>声有隐而相感兮，物有纯而不可为。<br/>藐蔓蔓之不可量兮，缥绵绵之不可纡。<br/>愁悄悄之常悲兮，翩冥冥之不可娱。<br/>凌大波而流风兮，托彭咸之所居。<br/>上高岩之峭岸兮，处雌霓之标题。<br/>据青冥而摅虹兮，遂倏忽而扪天。<br/>吸湛露之浮源兮，漱凝霜之雰雰。<br/>依风穴以自息兮，忽倾寤以婵媛。<br/>凭昆仑以瞰雾兮，隐岷山以清江。<br/>惮涌湍之磕磕兮，听波声之汹汹。<br/>纷容容之无经兮，罔芒芒之无纪。<br/>轧洋洋之无从兮，驰委移之焉止。<br/>漂翻翻其上下兮，翼遥遥其左右。<br/>泛潏潏其前后兮，伴张驰之信期。<br/>观炎气之相仍兮，窥烟液之所积。<br/>悲霜雪之俱下兮，听潮水之相击。<br/>借光景以往来兮，旋黄棘之枉策。<br/>求介子之所在兮，见伯夷之放迹。<br/>心调度而弗去兮，刻著世之无适。<br/>曰：吾怨往昔之所冀兮，悼来者之惕惕。<br/>浮江淮而入海兮，从子胥而自适。<br/>望大河之洲渚兮，悲申徒之抗迹。<br/>骤谏君而不听兮，重任石这何益。<br/>心絓结而不解兮，思蹇产而不释。<br/><br/>赏析<br/>《悲回风》以句首名篇。本篇也存在真伪之争，南宋魏了翁《鹤山渠阳经外杂抄》以本篇风格不似屈原而像宋玉、景差之作而怀疑本篇为伪作，明代许学夷《诗源辨体》以语气不似屈原而提出疑问，吴汝纶《古文辞类纂点勘记》，以本篇文字太奇而疑为伪作，后来陈钟凡《楚辞各篇作者考》、陆侃如与冯沅君《中国诗史》、刘永济《屈赋通笺》、谭介甫《屈赋新编》、胡念贻《屈原作品的真伪及其写作年代》，也从各个角度认为本篇不是屈原所作。当然他们列举了许多理由，但我们认为，这些从语言、风格、文字、语气各个角度提出的观点还不足以推翻王逸以来认定本篇诗歌是屈原所作的观点，不足以剥夺屈原的著作权。<br/><br/>　　关于本篇的写作时间，也有作于怀王及顷襄王时共四种意见。第一种意见，陆侃如《屈原评传》认为是楚怀王十六年(前313)放逐汉北时所作；第二种意见，林云铭《楚辞灯》、夏大霖《屈骚心印》、郭沫若《屈原研究》认为是顷襄王六至七年(前293--前292)间作品；第三种意见，蒋骥《山带阁注楚辞》认为是自沉泪罗的前一年秋天；第四种意见，王夫之《楚辞通释》、王闽运《楚辞释》认为是屈原自沉时所作，为屈原绝笔。以上诸说，以蒋骥之说最为近似。因为篇中流露出的那种感情，可判定在自沉汨罗前不远之时。关于本篇主旨，汪瑗《楚辞集解》说：“此篇因秋夜愁不能寐，感回风之起，凋伤万物，而兰茝独芳，有似乎古之君子遭乱世而不变其志者，遂托为远游伤古之辞，以发泄其愤懑之情。”讲得是比较好的。<br/><br/>　　全篇共分五段。<br/><br/>　　从开头至“窃赋诗之所明”为第一段。因回风摇蕙的季节气候，联系对忠贤见斥的现实悲哀，指出君子始终是光明正大的，与万变其情的小人不同，同时表明了自己终不改悔的坚定胸怀。“悲回风”四句，前二句是说在回风震荡之中，凋陨了蕙草的微弱生机。后二句是说，这回风的初起，是有隐微的声音倡之于先的。这是即景生情，托物起兴，钱澄之《庄屈合诂》说：“秋风起，蕙草先死；害气至，贤人先丧。”可谓得矣。“夫何彭咸”四句，表达了自己对古代贤臣彭咸的无限思念仰慕之情，并说，虽然天下之事万变，但真相怎么能够掩盖得了，虚伪哪能保持长久?“鸟兽鸣”六句写秋冬之景，似都有所指称。“鸟兽鸣以号群”、“鱼葺鳞以自别”是说物以类聚，不相杂厕。用以比喻君子和小人之不能共处。“草苴比而不芳”象征奸佞在朝，同恶相济。“蛟龙隐其文章”比喻贤人远引，文采不彰，两两相对，交错成文。下面二句先以苦菜与甜菜不能种在一起，亦喻贤人处乱世，虽无人知，但不因此而改变其芬芳的节操。“惟佳人”六句意思又进一层，谓自己眼界高远，以古人彭咸等自期，然孤高之心却无所依傍，自己深微的意志不为别人理解。于是私下写作此诗，来明白地说出其中的道理。<br/><br/>　　从“惟佳人之独怀兮”至“昭彭咸之所闻”为第二段。写自己在放逐时感到十分孤单，但仍然爱国忧时，因此弄得心烦意乱。“惟佳人”四句，姜亮夫谓“言隐居伏处而独自思虑，无人知也”(《屈原赋校注》)。“涕泣交”八句王夫之释为“宵而不安于寝，旦而不怡于游，终不释于怀抱”(《楚辞通释》)。所见极是。“糺思心”二句形容自己忧思之深切，这就像后世辛弃疾所谓“一身都是愁”(《菩萨蛮·金陵赏心亭为叶丞相赋》)也。“折若木”二句，上句说自己求神木以遮蔽日光，象征自己曾力求韬光养晦，下句说自己随着飘风的牵引。任从它把自己吹到哪里，意指心情之空虚。“存髣髴”二句接着形容自己极端愁苦，有时陷入不闻不问、万念俱灰的枯寂状态，但有时又激动起来，心跳不止。“抚佩袵”二句意为勉强抑制自己的悲愁，茫无目的，踽踽而行。“岁曶曶”四句承“遂行”之后，写“行”中所见，时序迁流，众芳摇落，触目惊心，益深忧虑。“怜思心”四句言自己长愁的原因。“孤子唫”四句，姜亮夫《屈原赋校注》云：“此言思心既不可创伤，则惟存一死。”又引蒋骥《山带阁注楚辞》云：“所以然者，秦关不返，孤臣有故主之悲；南土投荒，放子无还家之日，此固交痛而不已者也。安得不为彭咸之所为乎?”<br/><br/>　　从“登石峦以远望兮”至“托彭咸之所居”为第三段。本段写自己生意已尽，死志已决。“登石峦”四句言自己登山远望，一片寂静。楚国本是个强国。上下本应忧勤警惕，奋发图强，然而现在既不见行动，呼之又不闻其反响，因此实在令人痛心疾首。“愁郁郁”四句紧承上文，写登高远望后引起的愁肠寸结。“穆眇眇”四句紧承上文，意谓自己的心情有时愁思茫茫无边无际，有时则陷入空虚而无所着落的状态。叹声隐尚有可感，志纯竟不可为。“藐蔓蔓”两句，亦诉说自己的主观心情，言思入辽远，则渺渺漫漫不可度量，思入深微，则悠悠长长不可收束，“愁悄悄”两句言自己的神魂虽在高远处飞逝，却并无快乐。“凌大波”两句，表明忠臣直士只有一条路：效法古之贤人彭咸。屈原于是想乘着滚滚波涛，随风而流，到彭咸投水而死的地方去。<br/><br/>　　从“上高岩之峭岸兮”至“刻著志之无适”为第四段。本段设想自己死后。灵魂不灭，神游天地的情形，进而抒写自己的主张和思想，剖白自己光明正大、志洁行芳。“上高岩”四句，姜亮夫认为：“此言上依彭咸，初至高岩陖岸之间，继则更上而处于云气之杪顶，再上则至于玄冥之上；而舒摅其虹采，遂尔于俄顷之间，而上抚于天庭矣。此上升之事也。”(同上)“吸湛露”四句，姜亮夫认为是从彭咸居后之事。以上八句写神游太空，极想像中壮丽、高洁、温暖之乐。但转侧之间突然惊醒，又起故国之思。“冯崑崙”四句写身宿风穴。风穴在昆仑，故醒后即依凭昆仑透过云雾而下瞰人寰。“纷容容”四句就心境立说，姜亮夫说：“此言己心烦乱，无复经纪，欲进则无所从，欲退则无所止也。”(同上)“漂翻翻”四句，上两句仍写心境，心如两翼摇摇，翻飞飘浮或上或下，时左时右；下两句言自昆仑下至江水，往来江上，神游故国而下观。“观炎气”四句，借炎气烟液等为喻述事物相因之理。天庭既不能久居，彭咸也不可终随，故下转为访问古代的贤人，“借光景”六句即言自己已下定决心，循着介子推、伯夷的足迹前进。<br/><br/>　　“曰”字以下至结尾为第五段。顾往悼来，表白决心，但决不轻于一死。“吾怨”二句谓怨恨往昔的希望落空，警惕来日可危。“浮江海”二句指伍子胥事。谓准备投水而死，追随子胥。“望大河之洲渚兮”四句承前“从子胥”而言，意思是说，申徒狄以身殉国，其情固属可悲，但他的死并不能挽救殷商的覆亡，则死又何益?显示自己的处境，虽然死志已决，但就整个楚国言，未来的危机，也不是自己一死所能遽了的。故以“心絓结”二句作为全篇的终结。屈原在政治斗争过程中，虽然早已作了最后牺牲的思想准备，这种念头，也曾经常浮现，但不到最后时刻，决不轻易付诸实施，可见此尚非绝命之词。<br/><br/>　　本篇写作艺术上的最大特点是心理刻画手法上的高妙。全篇未见事实之叙述，全是作者心理活动的展现。作品充满着深沉、悲愤的情绪，思理困惑，不知所释，忧伤悲怆，故有此篇之作。姜亮夫《屈原赋校注》认为：“诗中描绘心思，出入内外远近不同之情，上下左右前后之态。而仍不知所止，悲感与思理相挟持，而遂思入眇茫，从彭咸之所居。既至天上，忽又感烟雨之终不可永久浮游上天，遂思追踪介子伯夷。既睹申徒之死而无益，又自回惑不解!”此评甚为准确。<br/><br/>　　此外，本篇语言上也有其特色。作品中有不少双声叠韵联绵词，“相羊”、“歔欷”、“髣髴”、“从容”、“周流”、“逍遥”、“於邑”、“踊跃”、“婵媛”、“委移”等等，随处可见。而叠字词的运用，更是接二连三，触目皆是，“嗟嗟”、“凄凄”、“曼曼”、“惘惘”、“曶曶”、“冉冉”、“眇眇”、“默默”、“郁郁”、“戚戚”、“芒芒”、“蔓蔓”、“緜緜”、“悄悄”、“冥冥”、“雰雰”、“礚礚”、“洶洶”、“容容”、“洋洋”、“翻翻”、“遥遥”、“潏潏”、“悐悐”，总计共有二十四个，这些词语。不仅增加了诗歌的音乐美，对诗歌幽怨悲凉意境的形成，也起着极大的作用。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-87-1958.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-87.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-87.html" action-type="chapterComment" class="comment"><i></i>九章章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

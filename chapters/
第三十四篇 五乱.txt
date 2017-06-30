@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《黄帝内经》正文_第三十四篇 五乱_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="黄帝内经,黄帝内经原文,黄帝内经阅读,第三十四篇 五乱全文,佚名作品" />
+<meta name="description" content="黄帝内经原文阅读,第三十四篇 五乱全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-58-1873.html";
+var nextpage="novel-read-58-1875.html";
+var indexpage = "novel-chapter-58.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-58.html">黄帝内经</a></strong>
+<strong><a href="novel-chapter-58.html">黄帝内经目录</a></strong>
+<span>第三十四篇 五乱</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-58-1873.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第三十四篇 五乱</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-07-29 22:23:34<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【本章要点】<br/>　　一、说明十二经脉之气和四时、五行的变化相应，次序分明，经气和顺，营卫相随。<br/>　　二、经脉营卫之气受到病邪的干扰，发生逆乱，从而便产生疾病。由于扰乱的部位不同，反映的病症亦有所区别。<br/>　　三、文中分述了“五乱”的发病症状和刺治方法。<br/>　　【原文】<br/>　　黄帝曰：经脉十二者，别为五行，分为四时，何失而乱？何得而治？岐伯曰：五行有序，四时有分，相顺则治，相逆则乱。<br/>　　黄帝曰：何谓相顺？岐伯曰：经脉十二者，以应十二月。十二月者，分为四时。四时者，春秋冬夏，其气各异，营卫相随，阴阳已知，清浊不相干，如是则顺之而治。<br/>　　黄帝曰：何为逆而乱，岐伯曰：清气在阴，浊气在阳，营气顺脉，卫气逆行① ，清浊相干，乱于胸中，是谓大悗。故气乱于心，则烦心密嘿，俛首静伏；乱于肺，则俛仰喘喝，接手以呼；乱于肠胃，是为霍乱；乱于臂胫，则为四厥；乱于头，则为厥逆，头重眩仆。<br/>　　黄帝曰：五乱者，刺之有道乎？岐伯曰：有道以来，有道以去，审知其道，是谓身宝。<br/>　　黄帝曰：善。愿闻其道。岐伯曰：气在于心者，取之手少阴心主之俞；气在于肺者，取之手太阴荥，足少阴俞，气在于肠胃者，取之足太阴阳明，不下者，取之三里，气在于头者，取之天柱大杼，不知，取足太阳荥腧；气在于臂足，取之先去血脉，后取其阳明少阳之荥腧。<br/>　　黄帝曰：补泻奈何？岐伯曰：徐入徐出，谓之导气②。补泻无形，谓之同精。是非有余不足也，乱气之相逆也。黄帝曰：允乎哉道，明乎哉论，请着之玉版，命曰治乱也。<br/>　　【注释】<br/>　　①逆行：卫气属阳，正常是日行于阳，夜行于阴。逆行即白天行于阴分，晚行于阳分，不按常规。<br/>　　②徐入徐出，谓之导气：进针和出针都应缓慢的针刺方法，即平补平泻法。<br/>　　【译文】<br/>　　黄帝说：人身的十二经脉，其属性分别与五行相合，又与四时相应，但不知因何失调而引起脉气运行的逆乱？又是什么缘故保证了它的正常运行？岐伯说：五行的内在联系是有一定顺序的，四时气候的变化是有季节之分别的，大凡经脉的运行，与四时五行的规律相适应，就可保持正常的活动，违反了这个规律，就会引起运行的逆乱。<br/>　　黄帝说：什么才是相互顺应的呢？岐伯说：十二经脉，与十二个月相应。十二个月分为四时，四时就是春、夏、秋、冬，其气候各不相同。人体营气与卫气，是内外相随，阴阳互相协调的，清气与浊气不致互相干忧，这样就能顺应四时而保持健康。<br/>　　黄帝说：什么是逆乱的反常情况呢？岐伯说：清之营气本在阴分，浊之卫气本在阳分，营气在脉内顺脉而行，卫气在脉外与脉逆行。如果清浊之气受邪干犯而乱于胸中的，就叫做“大悗”。乱于心，可见心中烦扰，沉默不言，低头静伏而不欲动；乱于肺，可见俯仰不安，喘息喝喝有声，两手按于胸前而呼吸；乱于肠胃，则发为霍乱；乱于手臂与足胫，就会见四肢厥冷；乱于头，就会见厥气上逆，头重眩晕，甚至仆倒。<br/>　　黄帝说：上述五种逆乱的病症，刺治时有一定的原则吗？岐伯说：营卫之气的往来运行，都有一定的规律，能掌握这种规律，实是养生的要点。<br/>　　黄帝道：对。请你讲讲治疗的原则。岐伯说：气乱于心，取治手少阴心经与手厥阴心包络经的“输”穴神门、大陵。气乱于肺，取手太阴经的“荥”穴鱼际和足少阴经的“输”穴太溪。气乱于肠胃，取足太阴、足阳明的经穴太白、陷谷；如果不能见效的，可以取用足三里穴。气乱于头，取天柱、大杼二穴；如果病仍不减，再取足太阳经的“荥”穴通谷与“输”穴束骨。气乱于手臂与足胫，应先刺淤结不通的血脉，以后再取阳明、少阳两经的“荥”穴与“输”穴；<br/>　　黄帝说：补泄的手法怎样呢？岐伯说：慢进针，慢出针，以导引逆乱的经气，使其恢复正常，这叫做“导气”。这种补和泄，手法轻巧无形，其总的目的都在调和精气。因为这些病症，并不属于有余的实症和不足的虚症，而仅是气机一时的混乱而致违逆。黄帝说：这是很恰当的道理！论证也很明白！让我把它著在珍贵的玉版上，命名为“治乱”。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-58-1873.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-58-1875.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-58.html" action-type="chapterComment" class="comment"><i></i>黄帝内经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

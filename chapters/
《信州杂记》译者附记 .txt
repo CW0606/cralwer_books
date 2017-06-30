@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《文序跋集》正文_《信州杂记》译者附记 _鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="文序跋集,文序跋集原文,文序跋集阅读,《信州杂记》译者附记 全文,鲁迅作品" />
+<meta name="description" content="文序跋集原文阅读,《信州杂记》译者附记 全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-619-7816.html";
+var nextpage="novel-read-619-7818.html";
+var indexpage = "novel-chapter-619.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-619.html">文序跋集</a></strong>
+<strong><a href="novel-chapter-619.html">文序跋集目录</a></strong>
+<span>《信州杂记》译者附记 </span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-619-7816.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>《信州杂记》译者附记 </strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-13 21:53:58<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　我们都知道，俄国从十月革命之后，文艺家大略可分为两大批。一批避往别国，去做寓公；一批还在本国，虽然有的死掉，有的中途又走了，但这一批大概可以算是新的。<br/>　　毕勒涅克（Boris　Pilniak）是属于后者的文人。我们又都知道：他去年曾到中国，又到日本。此后的事，我不知道了。今天看见井田孝平和小岛修一（2）同译的《日本印象记》，才知道他在日本住了两个月，于去年十月底，在墨斯科写成这样的一本书。<br/>　　当时我想，咱们骂日本，骂俄国，骂英国，骂……，然而讲这些国度的情形的书籍却很少。讲政治，经济，军备，外交等类的，大家此时自然恐怕未必会觉得有趣，但文艺家游历别国的印象记之类却不妨有一点的。于是我就想先来介绍这一本毕勒涅克的书，当夜翻了一篇序词——《信州杂记》。<br/>　　这不过全书的九分之一，此下还有《本论》，《本论之外》，《结论》三大篇。然而我麻烦起来了。一者“象”是日本的象，而“印”是俄国人的印，翻到中国来，隔膜还太多，注不胜注。二者译文还太轻妙，我不敌他；且手头又没有一部好好的字典，一有生字便费很大的周折。三者，原译本中时有缺字和缺句，是日本检查官所抹杀的罢，看起来也心里不快活。而对面阔人家的无线电话机里又在唱什么国粹戏（3），“唉唉唉”和琵琶的“丁丁丁”，闹得我头里只有发昏章第十一（4）了。还是投笔从玩罢，我想，好在这《信州杂记》原也可以独立的，现在就将这作为开场，也同时作为结束。<br/>　　我看完这书，觉得凡有叙述和讽刺，大抵是很为轻妙的，然而也感到一种不足。就是：欠深刻。我所见到的几位新俄作家的书，常常使我发生这一类觖望。但我又想，所谓“深刻”者，莫非真是“世纪末”（5）的一种时症么？倘使社会淳朴笃厚，当然不会有隐情，便也不至于有深刻。如果我的所想并不错，则这些“幼稚”的作品，或者倒是走向“新生”的正路的开步罢。<br/>　　我们为传统思想所束缚，听到被评为“幼稚”便不高兴。<br/>　　但“幼稚”的反面是什么呢？好一点是“老成”，坏一点就是“老狯”。革命前辈自言“老则有之，朽则未也，庸则有之，昏则未也”（6）。然而“老庸”不已经尽够了么？<br/>　　我不知道毕勒涅克对于中国可有什么著作，在《日本印象记》里却不大提及。但也有一点，现在就顺便绍介在这里罢：——<br/>　　“在中国的国境上，张作霖（7）的狗将我的书籍全都没收了。连一千八百九十七年出版的Flaubert的《Sala－mmbo》（8），也说是共产主义的传染品，抢走了。在哈尔宾，则我在讲演会上一开口，中国警署人员便走过来，下面似的说。照那言语一样地写，是这样的：——<br/>　　——话，不行。一点儿，一点儿唱罢。一点儿，一点儿跳罢。读不行！<br/>　　我是什么也不懂。据译给我的意思，则是巡警禁止我演讲和朗读，而跳舞或唱歌是可以的。——人们打电话到衙门去，显着不安的相貌，疑惑着——有人对我说，何妨就用唱歌的调子来演讲呢。然而唱歌，我却敬谢不敏。这样恳切的中国，是挺直地站着，莞尔而笑，谦恭到讨厌，什么也不懂，却唠叨地说是‘话，不行，一点儿，一点儿唱’的。于是中国和我，是干干净净地分了手了。”（《本论之外》第二节）<br/>　　一九二七，一一，二六。记于上海。<br/><br/>==========================================================================<br/><br/>　　 　本篇连同《信州杂记》的译文，最初发表于一九二七年十二月二十四日《语丝》周刊第四卷第二期。<br/>　　（2）　小岛修一　日本的翻译工作者。<br/>　　（3）　国粹戏　指我国的传统戏曲，如京剧、昆曲之类。<br/>　　（4）　发昏章第十一　仿拟古代经书章节划分的戏谑语，即“发昏”之意。原语见金圣叹评点本《水浒传》第二十五回：“只见头在下脚在上倒撞落在当街心里去了，跌得个发昏章第十一。”金圣叹在此语下批云：“奇语！捎带俗儒分章可笑。”<br/>　　（5）　“世纪末”　指十九世纪末叶西方资本主义国家特具的精神文化的颓废风气。这时出现的颓废文学作品即被称为“世纪末文学”。<br/>　　（6）　出处待查。<br/>　　（7）　张作霖（1875—1928）　辽宁海城人。北洋的奉系军阀。一九一六年起，在日本帝国主义扶植下长期统治东北，并曾控制北京的北洋军阀政府，后被日本特务炸死于沈阳附近的皇姑屯。<br/>　　（8）　Flaubert的《Salammbo》　即福楼拜的《萨朗波》。福楼拜（1821—1880），法国作家。著有长篇小说《包法利夫人》、《情感教育》等。《萨朗波》，历史小说，描写古代非洲雇佣军的起义，写作于一八六二年。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-619-7816.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-619-7818.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-619.html" action-type="chapterComment" class="comment"><i></i>文序跋集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

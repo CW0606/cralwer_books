@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《准风月谈》正文_难得糊涂_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="准风月谈,准风月谈原文,准风月谈阅读,难得糊涂全文,鲁迅作品" />
+<meta name="description" content="准风月谈原文阅读,难得糊涂全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-551-7623.html";
+var nextpage="novel-read-551-7625.html";
+var indexpage = "novel-chapter-551.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-551.html">准风月谈</a></strong>
+<strong><a href="novel-chapter-551.html">准风月谈目录</a></strong>
+<span>难得糊涂</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-551-7623.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>难得糊涂</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-06 20:59:44<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　子明 <br/>　　因为有人谈起写篆字，我倒记起郑板桥（２）有一块图章，刻着“难得糊涂”。那四个篆字刻得叉手叉脚的，颇能表现一点名士的牢骚气。足见刻图章写篆字也还反映着一定的风格，正像“玩”木刻之类，未必“只是个人的事情”：“谬种”和“妖孽”就是写起篆字来，也带着些“妖谬”的。 <br/>　　然而风格和情绪，倾向之类，不但因人而异，而且因事而异，因时而异。郑板桥说“难得糊涂”，其实他还能够糊涂的。现在，到了“求仕不获无足悲，求隐而不得其地以窜者，毋亦天下之至哀欤”（３）的时代，却实在求糊涂而不可得了。 <br/>　　糊涂主义，唯无是非观等等——本来是中国的高尚道德。你说他是解脱，达观罢，也未必。他其实在固执着，坚持着什么，例如道德上的正统，文学上的正宗之类。这终于说出来了：——道德要孔孟加上“佛家报应之说”（老庄另帐登记），而说别人“鄙薄”佛教影响就是“想为儒家争正统”，原来同善社的三教同源论早已是正统了。文学呢？要用生涩字，用词藻，禣E纤的作品，而且是新文学的作品，虽则他“否刃挛难Ш途晌*学的分界”；而大众文学“固然赞成”，“但那是文学中的一个旁支”（４）。正统和正宗，是明显的。 <br/>　　对于人生的倦怠并不糊涂！活的生活已经那么“穷乏”，要请青年在“佛家报应之说”，在“《文选》，《庄子》，《论语》，《孟子》”里去求得修养。后来，修养又不见了，只剩得字汇。“自然景物，个人情感，宫室建筑，……之类，还不妨从《文选》之类的书中去找来用。”（５）从前严几道从甚么古书里——大概也是《庄子》罢——找着了“幺匿”（６）两个字来译Ｕｎｉｔ，又古雅，又音义双关的。但是后来通行的却是“单位”。严老先生的这类“字汇”很多，大抵无法复活转来。现在却有人以为“汉以后的词，秦以前的字，西方文化所带来的字和词，可以拼成功我们的光芒的新文学”（７）。这光芒要是只在字和词，那大概像古墓里的贵妇人似的，满身都是珠光宝气了。人生却不在拼凑，而在创造，几千百万的活人在创造。可恨的是人生那么骚扰忙乱，使一些人“不得其地以窜”，想要逃进字和词里去，以求“庶免是非”，然而又不可得。真要写篆字刻图章了！ <br/>　　十一月六日。<br/>===============================================================<br/><br/>　　　　　　　 <br/>　　（１）　本篇最初发表于一九三三年十一月二十四日《申报·自由谈》。 <br/>　　（２）　郑板桥（１６９３—１７６５）　名燮，字克柔，号板桥，江苏兴化人，清代文学家、书画家。 <br/>　　（３）　“求仕不获无足悲”等句，见章太炎为吴宗慈纂辑的《庐山志》所作《题辞》。这篇《题辞》作于一九三三年九月，曾发表于同年十月十二日《申报·自由谈》。 <br/>　　（４）　这是施蛰存《突围》之四（答曹聚仁）中的话，见一九三三年十月三十日《申报·自由谈》，原文为：“我赞成大众文学，尽可能地以浅显的文字供给大众阅读，但那是文学中的一个旁支。”<br/>　　（５）　“自然景物”等语，是施蛰存《突围》之五（答致立）中的话，见一九三三年十月三十日《申报·自由谈》，原文为：“我想至少还有许多自然景物，个人感情，宫室建筑，以及在某种情形之下专用的名词或形容词之类，还不妨从《文选》之类的书中去找来用。”<br/>　　（６）　“幺匿”　英语ｕｎｉｔ的音译。严复译英国斯宾塞《群学肄言》第三章《喻术》中说：“群者，谓之拓都（原注：译言总会）；一者，谓之幺匿（原注：译言单个）。”严复自己在《译余赘语》里举例解释说：“大抵万物莫不有总有分：总曰拓都，译言全体；分曰幺匿，译言单位。笔，拓都也；毫，幺匿也。饭，拓都也；粒，幺匿也。国，拓都也；民，幺匿也。”按“拓都”，英语ｔｏｔａｌ的音译，意为全体、总计。 <br/>　　（７）　“汉以后的词”等句，也见施蛰存《突围》之四（答曹聚仁）。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-551-7623.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-551-7625.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-551.html" action-type="chapterComment" class="comment"><i></i>准风月谈章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

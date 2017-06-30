@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《三刻拍案惊奇》正文_说明_陆人龙作品 - 维普阅读网</title>
+<meta name="keywords" content="三刻拍案惊奇,三刻拍案惊奇原文,三刻拍案惊奇阅读,说明全文,陆人龙作品" />
+<meta name="description" content="三刻拍案惊奇原文阅读,说明全文在线阅读,陆人龙作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-801.html";
+var nextpage="novel-read-801-9137.html";
+var indexpage = "novel-chapter-801.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-801.html">三刻拍案惊奇</a></strong>
+<strong><a href="novel-chapter-801.html">三刻拍案惊奇目录</a></strong>
+<span>说明</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-801.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>说明</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=陆人龙&amp;searchsubmit=yes"  target="_blank">陆人龙</a><span class="divide">|</span>发布时间：2014-11-02 20:44:47<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>本书是以北京市文物部门收存的明代《三刻拍案惊奇》本为底本，校以明初刊《幻影》前七回本及其它有关资料整理而成。<br/><br/>　　据孙楷第先生《中国通俗小说书目》，《三刻拍案惊奇》一书原名《幻影》。经与目前仅存题名《幻影》的前七回残本核对，二书现存相同的回目（第二回至第七回）确系出于同一版，但《幻影》总目已失，据著录，《幻影》全书为十卷，每卷四回，共四十回；但《三刻拍案惊奇》足本为三十回，其分卷方法与《幻影》也有不同；且《三刻拍案惊奇》中有明显挖改及整版调换等情形，因此，我们认为，用「三刻怕案惊奇」作为本书书名更为妥当。<br/><br/>　　因底本中目录部分及第一回已不存，为使读者了解全书的概貌，我们采用了胡士莹《话本小说概论》中所录的三十回全目。但该书所列与底本现存回目有诸多不符，除有些字显系误植外，其第十三回为「匿计占红颜发棺苏呆婿」，而底本这一回的标题是「匿头计占红颜 发棺立苏呆婿」，为六字句，今悉以底本正文标题为准，「存目」皆按该书。<br/><br/>　　《三刻拍案惊奇》的成书年代，据梦觉道人自序的落款为「□末仲夏」。此书所写的故事，绝大部分取材于明代的历史和民间传说、市井乡情、公案词讼和爱情故事，其中最晚的故事，为崇祯元年。其它如第十二回：「就是上年逆珰用事时攻击杨、左」句；第十九回出现「就如目下魏忠贤把一个三案一网打尽贤良」句等，均可作为成书于明崇祯初年的佐证。按干支纪年，崇祯一朝有辛未（崇祯四年，一六三一）与癸未（崇祯十六年，一六四三），但从以上二句中的「上年」和「目下」等时态语气看，死乎推断为「辛未」更为合理。<br/><br/>　　关于本书的作者，原书仅署「明·梦觉道人·西湖浪子辑」。这里的梦觉道人和西湖浪子的真实身分与经历均缺乏资料考证。惟《室名别号索引》中，同时载有三位梦觉道人，除其中二人注明为清代之外，明代的梦觉道人系江苏丹徒的李文烛。李文烛曾著有《黄白镜》一书，但与本书的梦觉道人是否同是一人，还有待考证。从现存各回的写作风格来看，似乎不像出于同一人的手笔，其中所涉及的地域、方言也很广泛，各篇格调的雅俗高下，也迥异有殊，因此，很可能是汇集成书的。但无论梦觉道人还是西湖浪子，均与凌濛初无关，《三刻拍案惊奇》并非初、二刻的续作，则可断言。<br/><br/>　　这是古典小说之家mr63698根据北京大学图书馆藏善本——北京大学出版社1987年出版的27回《三刻拍案惊奇》之实体书，参阅[l4z5]兄去年8月上传的40回《型世言》和 [fbp2001]兄去年12月上传的30回《幻影》以及超星网书，并助借《中国繁难文字字库初编》，整理，校点的相对更完善的全本30回《三刻拍案惊奇》。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-801.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-801-9137.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-801.html" action-type="chapterComment" class="comment"><i></i>三刻拍案惊奇章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

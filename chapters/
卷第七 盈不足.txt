@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《九章算术》正文_卷第七 盈不足_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="九章算术,九章算术原文,九章算术阅读,卷第七 盈不足全文,佚名作品" />
+<meta name="description" content="九章算术原文阅读,卷第七 盈不足全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-250-3955.html";
+var nextpage="novel-read-250-3957.html";
+var indexpage = "novel-chapter-250.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-250.html">九章算术</a></strong>
+<strong><a href="novel-chapter-250.html">九章算术目录</a></strong>
+<span>卷第七 盈不足</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-250-3955.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷第七 盈不足</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-08-25 21:21:48<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>〔一〕今有共买物，人出八，盈三；人出七，不足四。问人数、物价各几何？<br/><br/>　　答曰：七人，　　物价五十三。<br/><br/>　　〔二〕今有共买鸡，人出九，盈十一；人出六，不足十六。问人数、鸡价各几何？<br/><br/>　　答曰：九人，　　鸡价七十。<br/><br/>　　〔三〕今有共买璡，人出半，盈四；人出少半，不足三。问人数、璡价各几何？　　答曰：四十二人，<br/><br/>　　璡价十七。　　〔四〕今有共买牛，七家共出一百九十，不足三百三十；九家共出二百七十，盈三十。问家数、牛价各几何？　　答曰：一百二十六家，<br/><br/>　　牛价三千七百五十。<br/><br/>　　盈不足术曰：置所出率，盈、不足各居其下。令维乘所出率，并以为实。并盈、不足为法。实如法而一。有分者，通之。盈不足相与同其买物者，置所出率，以少减多，馀，以约法、实。实为物价，法为人数。　　其一术曰：并盈不足为实。以所出率以少减多，馀为法。实如法得一人。以所出率乘之，减盈、增不足即物价。<br/><br/>　　〔五〕今有共买金，人出四百，盈三千四百；人出三百，盈一百。问人数、金价各几何？<br/><br/>　　答曰：三十三人。　　金价九千八百。<br/><br/>　　〔六〕今有共买羊，人出五，不足四十五；人出七，不足三。问人数、羊价各几何？<br/><br/>　　答曰：二十一人，<br/><br/>　　羊价一百五十。<br/><br/>　　两盈、两不足术曰：置所出率，盈、不足各居其下。令维乘所出率，以少减多，馀为实。两盈、两不足以少减多，馀为法。实如法而一。有分者通之。两盈、两不足相与同其买物者，置所出率，以少减多，馀，以约法实，实为物价，法为人数。<br/><br/>　　其一术曰：置所出率，以少减多，馀为法。两盈、两不足，以少减多，馀为实。实如法而一得人数。以所出率乘之，减盈、增不足，即物价。　　〔七〕今有共买豕，人出一百，盈一百；人出九十，适足。问人数、豕价各几何？　　答曰：一十人，<br/><br/>　　豕价九百。<br/><br/>　　〔八〕今有共买犬，人出五，不足九十；人出五十，适足。问人数、犬价各几何？<br/><br/>　　答曰：二人，<br/><br/>　　犬价一百。　　盈、适足，不足、适足术曰：以盈及不足之数为实。置所出率，以少减多，馀为法。实如法得一人。其求物价者，以适足乘人数得物价。<br/><br/>　　〔九〕今有米在十斗桶中，不知其数。满中添粟而春之，得米七斗。问故米几何？<br/><br/>　　答曰：二斗五升。<br/><br/>　　术曰：以盈不足术求之，假令故米二斗，不足二升。令之三斗，有馀二升。<br/><br/>　　〔一０〕今有垣高九尺。瓜生其上，蔓日长七寸。瓠生其下，蔓日长一尺。问几何日相逢？瓜、瓠各长几何？<br/><br/>　　答曰：五日、十七分日之五。　　瓜长三尺七寸、十七分寸之一，<br/><br/>　　瓠长五尺二寸、十七分寸之十六。<br/><br/>　　术曰：假令五日，不足五寸。令之六日，有馀一尺二寸。<br/><br/>　　〔一一〕今有蒲生一日，长三尺。莞生一日，长一尺。蒲生日自半。莞生日自倍。问几何日而长等？<br/><br/>　　答曰：二日、十三分日之六。<br/><br/>　　各长四尺八寸、十三分寸之六。<br/><br/>　　术曰：假令二日，不足一尺五寸。令之三日，有馀一尺七寸半。<br/><br/>　　〔一二〕今有垣厚五尺，两鼠对穿。大鼠日一尺，小鼠亦日一尺。大鼠日自倍，小鼠日自半。问几何日相逢？各穿几何？　　答曰：二日、十七分日之二。<br/><br/>　　大鼠穿三尺四寸、十七分寸之十二，<br/><br/>　　小鼠穿一尺五寸、十七分寸之五。<br/><br/>　　术曰：假令二日，不足五寸。令之三日，有馀三尺七寸半。<br/><br/>　　〔一三〕今有醇酒一斗，直钱五十；行酒一斗，直钱一十。今将钱三十，得酒二斗。问醇、行酒各得几何？　　答曰：醇酒二升半，<br/><br/>　　行酒一斗七升半。<br/><br/>　　术曰：假令醇酒五升，行酒一斗五升，有馀一十。令之醇酒二升，行酒一斗八升，不足二。<br/><br/>　　〔一四〕今有大器五、小器一容三斛；大器一、小器五容二斛。问大、小器各容几何？<br/><br/>　　答曰：大器容二十四分斛之十三，　　小器容二十四分斛之七。<br/><br/>　　术曰：假令大器五斗，小器亦五斗，盈一十斗。令之大器五斗五升，小器二斗五升，不足二斗。　　〔一五〕今有漆三得油四，油四和漆五。今有漆三斗，欲令分以易油，还自和馀漆。问出漆、得油、和漆各几何？<br/><br/>　　答曰：出漆一斗一升、四分升之一，<br/><br/>　　得油一斗五升，<br/><br/>　　和漆一斗八升，四分升之三。<br/><br/>　　术曰：假令出漆九升，不足六升。令之出漆一斗二升，有馀二升。<br/><br/>　　〔一六〕今有玉方一寸，重七两；石方一寸，重六两。今有石立方三寸，中有玉，并重十一斤。问玉、石重各几何？<br/><br/>　　答曰：玉一十四寸，重六斤二两。　　石一十三寸，重四斤十四两。<br/><br/>　　术曰：假令皆玉，多十三两。令之皆石，不足十四两。不足为玉，多为石。各以一寸之重乘之，得玉石之积重。<br/><br/>　　〔一七〕今有善田一亩，价三百；恶田七亩，价五百。今并买一顷，价钱一万。问善、恶田各几何？<br/><br/>　　答曰：善田一十二亩半，<br/><br/>　　恶田八十七亩半。　　术曰：假令善田二十亩，恶田八十亩，多一千七百一十四钱、七分钱之二。令之善田一十亩，恶田九十亩，不足五百七十一钱、七分钱之三。<br/><br/>　　〔一八〕今有黄金九枚，白银一十一枚，称之重适等。交易其一，金轻十三两。问金、银一枚各重几何？<br/><br/>　　答曰：金重二斤三两一十八铢，　　银重一斤十三两六铢。<br/><br/>　　术曰：假令黄金三斤，白银二斤、一十一分斤之五，不足四十九，于右行。令之黄金二斤，白银一斤、一十一分斤之七，多一十五于左行。以分母各乘其行内之数，以盈不足维乘所出率，并以为实。并盈不足为法。实如法，得黄金重。分母乘法以除，得银重。约之得分也。<br/><br/>　　〔一九〕今有良马与驽马发长安至齐。齐去长安三千里。良马初日行一百九十三里，日增十三里。驽马初日行九十七里，日减半里。良马先至齐，复还迎驽马。问几何日相逢及各行几何？<br/><br/>　　答曰：一十五日、一百九十一分日之一百三十五而相逢。　　良马行四千五百三十四里、一百九十一分里之四十六。<br/><br/>　　驽马行一千四百六十五里、一百九十一分里之一百四十五。　　术曰：假令十五日，不足三百三十七里半。令之十六日，多一百四十里。以盈、不足维乘假令之数，并而为实。并盈不足为法。实如法而一，得日数。不尽者，以等数除之而命分。<br/><br/>　　〔二０〕今有人持钱之蜀，贾利十三。初返归一万四千，次返归一万三千，次返归一万二千，次返归一万一千，后返归一万。凡五返归钱，本利俱尽。问本持钱及利各几何？<br/><br/>　　答曰：本三万四百六十八钱、三十七万一千二百九十三分钱之八万四千八百七十六。利二万九千五百三十一钱、三十七万一千二百九十三分钱之二十八万六千四百一十七。<br/><br/>　　术曰：假令本钱三万，不足一千七百三十八钱半。令之四万，多三万五千三百九十钱八分。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-250-3955.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-250-3957.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-250.html" action-type="chapterComment" class="comment"><i></i>九章算术章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

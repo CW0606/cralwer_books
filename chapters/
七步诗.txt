@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《七步诗》正文_七步诗_曹植作品 - 维普阅读网</title>
+<meta name="keywords" content="七步诗,七步诗原文,七步诗阅读,七步诗全文,曹植作品" />
+<meta name="description" content="七步诗原文阅读,七步诗全文在线阅读,曹植作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-488.html";
+var nextpage="novel-chapter-488.html";
+var indexpage = "novel-chapter-488.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-488.html">七步诗</a></strong>
+<strong><a href="novel-chapter-488.html">七步诗目录</a></strong>
+<span>七步诗</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-488.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>七步诗</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=曹植&amp;searchsubmit=yes"  target="_blank">曹植</a><span class="divide">|</span>发布时间：2014-09-17 21:30:26<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>版本一<br/><br/>煮豆持作羹，漉菽以为汁。<br/>萁在釜下燃，豆在釜中泣。<br/>本自同根生，相煎何太急？<br/><br/>版本二<br/><br/>煮豆燃豆萁，豆在釜中泣。本是同根生，相煎何太急？<br/><br/>【注释】<br/><br/>1.持：用来。<br/>2. 羹：用肉或菜做成的糊状食物。<br/>3.漉：过滤。<br/>4.豉（菽）：豆。这句的意思是说把豆子的残渣过滤出去，留下豆汁作羹。<br/>5.萁：豆类植物脱粒后剩下的茎。<br/>6.釜：锅。<br/><br/>【译文】<br/><br/>　　煮豆子正燃着豆秸，因煮熟豆子来做豆羹而使豆子渗出汁水。豆秸在锅下燃烧着，豆子正在锅里哭泣。本来我们是同一条根上生长出来的，我们为何要自相残杀呢？<br/><br/>【赏析】<br/><br/>　　此诗纯以比兴的手法出之，语言浅显，是寓意明畅，无庸多加阐释，只须于个别词句略加疏通，其意自明。诗人取譬之妙，用语之巧，而且在刹那间脱口而出，实在令人叹为观止。“本是同根生，相煎何太急”二语，千百年来已成为人们劝诫避免兄弟阋墙、自相残杀的普遍用语，说明此诗在人民中流传极广。<br/>　 它巧妙地运用了比喻和拟人的修辞手法，表达了诗人曹植对手足相残的悲愤，同时也发出了理直气壮的斥责。诗的前四句描述了燃萁煮豆这一日常生活现象。曹植以“豆”自喻，一个“泣”字充分表达了受害者的悲伤与痛苦。后两句笔锋一转，抒发了曹植内心的悲愤这明显是在质问曹丕：我与你本是同胞兄弟，为什么要如此苦苦相逼？<br/><br/>【后人引用】<br/><br/>　　鲁迅1920年代，北京女子师范大学校长杨荫榆为段祺瑞政府推广复古教育，迫害进步学生。鲁迅为表达对此的不平，依《七步诗》原韵，写了《替豆萁伸冤》：“煮豆燃豆萁，萁在釜下泣。我烬你熟了，正好办教席。”<br/>　　郭沫若对“抑丕扬植”的看法不甚赞同，他认为曹丕在文艺批评和七言诗的发展史上占有开山地位，为三国时期重要的诗人，他还举南朝梁文学理论批评家刘勰所说：“文帝以位尊减才，子建以势窘益价”，他认为这是较公允的评价。郭沫若指出：“站在豆的一方面说，固然可以感觉到萁的煎迫未免为火烧火；如果站在萁一方面说，不又是富于牺牲的精神的表现吗？”<br/>　　因此，1941年郭沫若仿《七步诗》写下了一首“翻案剥皮诗”——《反七步诗》：“煮豆燃豆萁，豆熟萁已灰。熟者席上珍，灰作田中肥。不为同根生，缘何甘自毁？”（但此诗照原诗，无论形式与内容，都大大不如。原诗皆押仄（入声）韵，郭沫若这首一如他写的其他的古“诗词”， 不顾格律，以“新体诗”为幌，实为四不像，立意上完全曲解愿意，已经完全换了角度，原诗表现的是兄弟相残，郭沫若这首却说到了“牺牲”和“奉献”。<br/><br/>【背景】<br/><br/>　　典故出自南朝刘义庆的《世说新语-文学》：文帝尝令曹植七步作诗，不成者行大法。应声便为诗曰：“煮豆持作羹，漉豉以为汁。萁在釜下燃，豆在釜中泣。本是同根生，相煎何太急？”帝深有惭色。<br/>　　曹植是曹操的儿子，从小就才华出众，很受到父亲的疼爱，因此受到曹丕嫉妒。曹操死后，曹操大儿子，他的哥哥曹丕继承当上了魏王，后篡位当了皇帝。因为曹丕担心留曹植和曹熊（第四子）会有后患，所以便以在其父亡故时没来看望为由，追问逼迫他们俩。曹熊因为害怕，自杀了。而曹植则被押进朝廷。最终曹丕四兄弟的母亲卞氏开口求情，曹丕勉强给了曹植一个机会，让他在七步之内脱口一首诗，否则杀无赦。曹植就作了这首七步诗。<br/>　　曹植很有才华，精通治国理家，说起朝中政事滔滔不绝且管治有方，因此在朝中很有威信，可谓是君子一言，驷马难追。曹丕把这一切都看在眼里，心中的妒火油然而生，对曹植产生了怨恨之心，把他视为眼中钉，肉中刺，处处苦苦相逼。众臣渐也明其中理，阿谀奉承地在皇帝面前说三道四，谣言惑众：朝中一日有曹植，宫内鸡犬不宁，如他日造反，图谋篡位，何不为宫中一大害？不如先下手为强，斩草除根，以免日后夜长梦多。<br/>　　曹丕正好如偿所愿，借文武百官之口，决意趁早动手。正赶上一桩造反政事，曹丕假控曹植为主谋，正午时分，曹丕传弟弟曹植到池厅边相见。曹植一到，就被早埋伏好的卫队挥刀截下。见到曹丕，曹植道：“吾兄传我有何贵干？”曹丕道：“弟弟有所不知，据我朝重臣之意，闻今日事件起谋者你也。是与其于你所作为？“曹植长叹一声，道：“吾兄疑我谋反，谋你河山篡你朝位！如此罪行令吾何以担当？望吾兄明察秋毫！”曹丕不好推辞，只得说：“好，看在你我兄弟的情谊，我命你在七步内作出一首咏颂吾与你的情分之词，但词内不可见兄弟二字。不矣，休怪吾大义灭亲了！”“若我不能在七步内作诗一首，任凭你处置！”曹植胸有成竹地说。“你既言如此，吾们一言为定！”<br/>　　曹丕说完，曹植便迈出了第一步，突然，他闻到了从远处飘来的阵阵煮豆的香味，灵感阵来，借物抒情，在刚走到第六步时就作下了这首脍炙人口的诗：“煮豆持作羹，漉豉以为汁。萁在釜下燃，豆在釜中泣。本是同根生, 相煎何太急？”此诗作完，曹植对曹丕说：“我们虽有君臣之分，但毕竟是骨肉相连，何必苦苦相逼？手足相残？我无意与你权利相争，无论谁为君主，我都会忠贞不二地跟随，毫无怨言！明枪易挡，暗箭难防。若你要灭我，轻而易举，何必大费周章，先父在九泉之下也难以瞑目啊！”曹丕听之，被驳得无话可说。（但有记载，曹丕提出此要求后，曹植的诗应声而完。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-488.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-488.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-488.html" action-type="chapterComment" class="comment"><i></i>七步诗章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

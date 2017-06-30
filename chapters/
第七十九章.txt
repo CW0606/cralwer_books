@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《道德经》正文_第七十九章_老子作品 - 维普阅读网</title>
+<meta name="keywords" content="道德经,道德经原文,道德经阅读,第七十九章全文,老子作品" />
+<meta name="description" content="道德经原文阅读,第七十九章全文在线阅读,老子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-37-957.html";
+var nextpage="novel-read-37-959.html";
+var indexpage = "novel-chapter-37.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-37.html">道德经</a></strong>
+<strong><a href="novel-chapter-37.html">道德经目录</a></strong>
+<span>第七十九章</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-37-957.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第七十九章</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=老子&amp;searchsubmit=yes"  target="_blank">老子</a><span class="divide">|</span>发布时间：2014-07-21 21:33:21<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>[原文] <br/><br/>和大怨，必有余怨；报怨以德①，安可以为善？是以圣人执左契②，而不责③于人。有德司契，无德司彻④。天道无亲⑤，常与善人。 <br/><br/>[译文] <br/><br/>和解深重的怨恨，必然还会残留下残余的怨恨；用德来报答怨恨，这怎么可以算是妥善的办法呢？因此，有道的圣人保存借据的存根，但并不以此强迫别人偿还债务。有“德”之人就像持有借据的圣人那样宽容，没有“德”的人就像掌管税收的人那样苛刻刁诈。自然规律对任何人都没有偏爱，永远帮助有德的善人。 <br/><br/>　 <br/><br/>[注释] <br/><br/>1、报怨以德：许多学者都以为此句原在六十三章内，但据上下文意应在本章内。 <br/><br/>2、契：契约。 <br/><br/>3、责：索取所欠。 <br/><br/>4、司彻：掌管税收的官职。 <br/><br/>5、无亲：没有偏亲偏爱。 <br/><br/>　 <br/><br/>[引语] <br/><br/>本章继续讨论“损有余而补不足”的道理，提示为政者不可蓄怨于民，警告统治者不要激化与老百姓之间的矛盾。因为积怨太深，就难以和解，用税赋去榨取百姓，用刑法去箝制百姓，都会构怨于民。所以，为政者应该像有道的圣人那样，行“无为”之治，以“德”化民，给予而不索取，不扰害百姓。这就是“执左契而不责于人”。 <br/><br/>　 <br/><br/>[评析] <br/><br/>本章有“圣人执左契，而不责于人”一句，希望人们做有德行善之人，才可能得天道的庇护。因为“无道无亲”，对万事万物都非常公正，并非对哪一物有特别的感情，有德行善之人，他所以得到“天”的帮助，是因为他顺应自然规律的结果，是他自身努力的结果。这是向那些剥削者进行劝说，劝他们积德行善不要扰害百姓，否则会受到自然规律的惩罚。他在本章里特别强调这一点，他说用“德”和解重大的怨仇，这肯定还留下残余的怨恨，最好的办法，就是要与人结下怨仇，即要求统治者实行清静无为之政，辅助百姓而不干涉他们；给与百姓而不向他们索取；这样就不会积蓄怨仇，这便是治国行政的上策。否则，肆意盘剥、搜刮，随意施用严刑峻法约束、限制人民，那就会与民结怨，这便是治国行政的下策。<br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-37-957.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-37-959.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-37.html" action-type="chapterComment" class="comment"><i></i>道德经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

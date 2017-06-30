@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孝经注疏》正文_卷六 五刑章第十一_注 唐·李隆基，疏 宋·邢昺作品 - 维普阅读网</title>
+<meta name="keywords" content="孝经注疏,孝经注疏原文,孝经注疏阅读,卷六 五刑章第十一全文,注 唐·李隆基，疏 宋·邢昺作品" />
+<meta name="description" content="孝经注疏原文阅读,卷六 五刑章第十一全文在线阅读,注 唐·李隆基，疏 宋·邢昺作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1425-26379.html";
+var nextpage="novel-read-1425-26381.html";
+var indexpage = "novel-chapter-1425.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1425.html">孝经注疏</a></strong>
+<strong><a href="novel-chapter-1425.html">孝经注疏目录</a></strong>
+<span>卷六 五刑章第十一</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1425-26379.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷六 五刑章第十一</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=注 唐·李隆基，疏 宋·邢昺&amp;searchsubmit=yes"  target="_blank">注 唐·李隆基，疏 宋·邢昺</a><span class="divide">|</span>发布时间：2016-07-22 22:48:02<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p> [疏]正义曰：此章五刑之属三千.案舜命皋陶云：“汝作士,明于五刑。”又《礼记·服问》云：“罪多而刑五，丧多而服五。”以其服有亲疏，罪有轻重也，故以名章。以前章有骄乱忿争之事，言此罪恶必及刑辟，故此次之。<br/><br/>　<br/><br/>　　子曰：“五刑之属三千，而罪莫大於不孝。五刑，谓墨、劓、剕、宫、大辟也。条有三千，而罪之大者，莫过不孝。要君者无上，君者，臣之禀命也，而敢要之，是无上也。非圣人者无法，圣人制作礼乐，而敢非之，是无法也。非孝者无亲，善事父母为孝，而敢非之，是无亲也。此大乱之道也。”言人有上三恶，岂唯不孝，乃是大乱之道。<br/><br/>　　[疏]子曰至道也。<br/><br/>　　○正义曰：五刑者，言刑名有五也。三千者，言所犯刑条有三千也。所犯虽异，其罪乃同，故言“之属”以包之。就此三千条中，其不孝之罪尤大，故云“而罪莫大於不孝”也。凡为人子，当须遵承圣教，以孝事亲，以忠事君。君命宜奉而行之，敢要之，是无心遵於上也。圣人垂范，当须法则，今乃非之，是无心法於圣人也。孝者百行之本，事亲为先，今乃非之，是无心爱其亲也。卉木无识，尚感君政；禽兽无礼，尚知恋亲。况在人灵？而敢要君，不孝也。逆乱之道，此为大焉。故曰：此大乱之道也。<br/>　　○注五刑至不孝。<br/>　　○正义曰：云：“五刑，谓墨、劓、剕、宫、大辟也”者，此依魏注也。此五刑之名，皆《尚书·吕刑》文。孔安国云：“刻其颡而涅之曰墨刑。”颡，额也。谓刻额为疮，以墨塞疮孔，令变色也。墨一名黥。又云：“截鼻曰劓，刖足曰剕。”《释言》云：“剕，刖也。”李巡曰：“断足曰刖。”是也。又云：“宫，淫刑也。男子割势，妇人幽闭，次死之刑。”以男子之阴名为势，割去其势与椓去其阴，事亦同也。妇人幽闭，闭於宫，使不得出也。又云：“大辟，死刑也。”案此五刑之名，见於经传。唐虞以来，皆有之矣。未知上古起自何时。汉文帝始除肉刑，除墨、劓、剕耳、宫刑犹在。隋开皇之初，始除男子宫刑，妇人犹闭於宫。此五刑之名义。郑注《周礼·司刑》引《书传》曰：“决关梁、逾城郭而略盗者，其刑膑。男女不以义交者，其刑宫。触易君命、革舆服制度、奸轨盗攘伤人者，其刑劓。非事而事之、出入不以道义而诵不详之辞者，其刑墨。降畔寇贼、劫略夺攘矫虔者，其刑死。”案《说文》云：“膑，膝骨也。”刖膑谓断其膝骨。此注不言“膑”而云“剕”者，据《吕刑》之文也。云“条有三千，而罪之大者莫过不孝”者，案《周礼》“司刑掌五刑之法，以丽万民之罪。墨罪五百，劓罪五百，宫罪五百，剕罪五百，杀罪五百”，合二千五百。至周穆王，乃命吕侯入为司寇，令其训畅夏禹赎刑，增轻削重，依夏之法，条有三千。则周三千之条，首自穆王始也。《吕刑》云：“墨罚之属千，劓罚之属千，剕罚之属五百，宫罚之属三百，大辟之罚其属二百：五刑之属三千。”言此三千条中，罪之大者，莫有过於不孝也。案旧注说及谢安、袁宏、王献之、殷仲文等，皆以不孝之罪，圣人恶之，云在三千条外。此失经之意也。案上章云：“三者不除，虽日用三牲之养，犹为不孝。”此承上不孝之后，而云三千之罪莫大於不孝，是因其事而便言之，本无在外之意。案《檀弓》云：“子弑父，凡在官者，杀无赦。杀其人，坏其室，洿其宫而猪焉。”既云“学断斯狱”，则明有条可断也。何者？《易·序卦》称有天地然后万物生焉。自《屯》、《蒙》至《需》、《讼》，即争讼之始也。故圣人法雷电以申威刑，所兴其来远矣。唐虞以上，《书传》靡详，舜命皋陶有五刑，五刑斯著。案《风俗通》曰：“《皋陶谟》，是虞时造也。及周穆王训夏，里悝师魏，乃著《法经》六篇，而以盗贼为首。贼之大者，有恶逆焉，决断不违时，凡赦不免；又有不孝之罪，并编十恶之条。前世不忘，后世为式。”而安、宏不孝之罪，不列三千之条中，今不取也。<br/>　　○注君者至无上也。<br/>　　○正义曰：此依孔传也。案《晋语》云：“诸大夫迎悼公，公曰：‘孤始原不及此。孤之及此，天也。抑人之有元君，将禀命焉。’”明凡为臣下者，皆禀君教命，而敢要以从已，是有无上之心，故非孝子之行也。若臧武仲以防求为后於鲁、晋舅犯及河授璧请亡之类是也。<br/>　　○注圣人至法也。<br/>　　○正义曰：此依孔传也。圣人规模天下，法则兆民，敢有非毁之者，是无圣人之法也。<br/>　　○注善事至亲也。<br/>　　○正义曰：孝为百行之本，敢有非毁之者，是无亲爱之心也。<br/>　　○注言人至之道。<br/>　　○正义曰：言人不忠於君，不法於圣，不爱於亲：此皆为不孝，乃是罪恶之极，故经以大乱结之也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1425-26379.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1425-26381.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1425.html" action-type="chapterComment" class="comment"><i></i>孝经注疏章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

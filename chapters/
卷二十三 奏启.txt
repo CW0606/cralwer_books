@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《文心雕龙》正文_卷二十三 奏启_刘勰作品 - 维普阅读网</title>
+<meta name="keywords" content="文心雕龙,文心雕龙原文,文心雕龙阅读,卷二十三 奏启全文,刘勰作品" />
+<meta name="description" content="文心雕龙原文阅读,卷二十三 奏启全文在线阅读,刘勰作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-665-8504.html";
+var nextpage="novel-read-665-8506.html";
+var indexpage = "novel-chapter-665.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-665.html">文心雕龙</a></strong>
+<strong><a href="novel-chapter-665.html">文心雕龙目录</a></strong>
+<span>卷二十三 奏启</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-665-8504.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷二十三 奏启</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘勰&amp;searchsubmit=yes"  target="_blank">刘勰</a><span class="divide">|</span>发布时间：2014-10-20 20:53:09<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　昔唐虞之臣，敷奏以言；秦汉之辅，上书称奏。陈政事，献典仪，上急变，劾愆谬，总谓之奏。奏者，进也。言敷于下，情进于上也。<br/><br/>　　秦始立奏，而法家少文。观王绾之奏勋德，辞质而义近；李斯之奏骊山，事略而意诬：政无膏润，形于篇章矣。自汉以来，奏事或称“上疏”，儒雅继踵，殊采可观。若夫贾谊之务农，晁错之兵事，匡衡之定郊，王吉之劝礼，温舒之缓狱，，谷永之谏仙，理既切至，辞亦通辨，可谓识大体矣。后汉群贤，嘉言罔伏，杨秉耿介于灾异，陈蕃愤懑于尺一，骨鲠得焉。张衡指摘于史职，蔡邕铨列于朝仪，博雅明焉。魏代名臣，文理迭兴。若高堂天文，黄观教学，王朗节省，甄毅考课，亦尽节而知治矣。晋氏多难，灾屯流移。刘颂殷劝于时务，温峤恳恻于费役，并体国之忠规矣。<br/><br/>　　夫奏之为笔，固以明允笃诚为本，辨析疏通为首。强志足以成务，博见足以穷理，酌古御今，治繁总要，此其体也。若乃按劾之奏，所以明宪清国。昔周之太仆，绳愆纠谬；秦有御史，职主文法；汉置中丞，总司按劾；故位在鸷击，砥砺其气，必使笔端振风，简上凝霜者也。观孔光之奏董贤，则实其奸回；路粹之奏孔融，则诬其衅恶。名儒之与险士，固殊心焉。若夫傅咸劲直，而按辞坚深；刘隗切正，而劾文阔略：各其志也。后之弹事，迭相斟酌，惟新日用，而旧准弗差。然函人欲全，矢人欲伤，术在纠恶，势必深峭。《诗》刺谗人，投畀豺虎；《礼》疾无礼，方之鹦猩。墨翟非儒，目以羊彘；孟轲讥墨，比诸禽兽。《诗》、《礼》、儒墨，既其如兹，奏劾严文，孰云能免。是以世人为文，竞于诋诃，吹毛取瑕，次骨为戾，复似善骂，多失折衷。若能辟礼门以悬规，标义路以植矩，然后逾垣者折肱，捷径者灭趾，何必躁言丑句，诟病为切哉！是以立范运衡，宜明体要。必使理有典刑，辞有风轨，总法家之裁，秉儒家之文，不畏强御，气流墨中，无纵诡随，声动简外，乃称绝席之雄，直方之举耳。<br/><br/>　　启者，开也。高宗云“启乃心，沃朕心”，取其义也。孝景讳启，故两汉无称。至魏国笺记，始云启闻。奏事之末，或云“谨启”。自晋来盛启，用兼表奏。陈政言事，既奏之异条；让爵谢恩，亦表之别干。必敛饬入规，促其音节，辨要轻清，文而不侈，亦启之大略也。<br/><br/>　　又表奏确切，号为谠言。谠者，正偏也。王道有偏，乖乎荡荡，矫正其偏，故曰谠言也。孝成称班伯之谠言，言贵直也。自汉置八能，密奏阴阳，皂囊封板，故曰封事。晁错受书，还上便宜。后代便宜，多附封事，慎机密也。夫王臣匪躬，必吐謇谔，事举人存，故无待泛说也。<br/><br/>　　赞曰∶<br/><br/>　　皂饰司直，肃清风禁。笔锐干将，墨含淳酖。<br/><br/>　　虽有次骨，无或肤浸。献政陈宜，事必胜任。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-665-8504.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-665-8506.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-665.html" action-type="chapterComment" class="comment"><i></i>文心雕龙章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

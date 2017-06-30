@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孝经注疏》正文_卷二 诸侯章第三_注 唐·李隆基，疏 宋·邢昺作品 - 维普阅读网</title>
+<meta name="keywords" content="孝经注疏,孝经注疏原文,孝经注疏阅读,卷二 诸侯章第三全文,注 唐·李隆基，疏 宋·邢昺作品" />
+<meta name="description" content="孝经注疏原文阅读,卷二 诸侯章第三全文在线阅读,注 唐·李隆基，疏 宋·邢昺作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1425-26371.html";
+var nextpage="novel-read-1425-26373.html";
+var indexpage = "novel-chapter-1425.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1425.html">孝经注疏</a></strong>
+<strong><a href="novel-chapter-1425.html">孝经注疏目录</a></strong>
+<span>卷二 诸侯章第三</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1425-26371.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷二 诸侯章第三</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=注 唐·李隆基，疏 宋·邢昺&amp;searchsubmit=yes"  target="_blank">注 唐·李隆基，疏 宋·邢昺</a><span class="divide">|</span>发布时间：2016-07-22 22:45:55<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p> [疏]正义曰：次天子之贵者诸侯也。案《释诂》云：“公侯，君也。”不曰诸公者，嫌涉天子三公也。故以其次称为诸侯，犹言诸国之君也。皇侃云：“以侯是五等之第二，下接伯、子、男，故称诸侯。”今不取也。<br/><br/>　<br/><br/>　　“在上不骄，高而不危。诸侯，列国之君，贵在人上，可谓高矣。而能不骄，则免危也。制节谨度，满而不溢。费用约俭谓之制节，慎行礼法谓之谨度。无礼为骄，奢泰为溢。高而不危，所以长守贵也。满而不溢，所以长守富也。富贵不离其身，然后能保其社稷，而和其民人。列国皆有社稷，其君主而祭之。言富贵常在其身，则长为社稷之主，而人自和平也。盖诸侯之孝也。<br/><br/>　　[疏]在上至孝也。<br/><br/>　　○正义曰：夫子前述天子行孝之事已毕，次明诸侯行孝也。言诸侯在一国臣人之上，其位高矣。高者危惧。若不能以贵自骄，则虽处高位，终不至於倾危也。积一国之赋税，其府库充满矣。若制立节限，慎守法度，则虽充满而不至盈溢也。满谓充实，溢谓奢侈。《书》称“位不期骄，禄不期侈”，是知贵不与骄期而骄自至，富不与侈期而侈自来。言诸侯贵为一国人主，富有一国之财，故宜戒之也。又覆述不危不溢之义，言居高位而不倾危，所以常守其贵；财货充满而不盈溢，所以长守其富。使富贵长久，不去离其身，然后乃能安其国之社稷，而协和所统之臣人。谓社稷以此安，臣人以此和也。言此上所陈，盖是诸侯之行孝也。皇侃云：“民是广及无知，人是稍识仁义，即府史之徒，故言民人明，远近皆和悦也。”《援神契》云：“诸侯行孝曰度。”言奉天子之法度，得不危溢，是荣其先祖也。<br/>　　○注诸侯至危也。<br/>　　○正义曰：云“诸侯列国之君”者，经典皆谓天子之国为王国，诸侯之国为列国。《诗》云“思皇多士，生此王国”，则天子之国也。《左传》鲁孙叔豹云“我列国也”，郑子产云“列国一同”，是诸侯之国也。列国者，言其国君皆以爵位尊卑及土地大小而叙列焉。五等皆然。云“贵在人上，可谓高矣”者，言诸侯贵在一国臣人之上，其位高也。云“而能不骄，则免危也”者，言其为国以礼，能不陵上慢下，则免倾危也。<br/>　　○注费用至为溢。<br/>　　○正义曰：云“费用约俭谓之制节”者，此依郑注释“制节”也。谓费国之财以供己用，每事俭约，不为华侈，则《论语》“道千乘之国，云节用而爱人”是也。云“慎行礼法谓之谨度”者，此释“谨度”也。言不可奢僣，当须慎行礼法，无所乖越，动合典章。皇侃云：“谓宫室车旗之类，皆不奢僣也。”无礼为骄，奢泰为溢”者，皆谓华侈放恣也。前未解“骄”，今於此注与“溢”相对而释之，言无礼谓陵上慢下也。皇侃云：“在上不骄以戒贵，应云居财不奢以戒富。若云制节谨度以戒富，亦应云制节谨身以戒贵。此不例者，互其文也。”但骄由居上，故戒贵云“在上”；溢由无节，故戒富云“制节”也。<br/>　　○注列国至平也。<br/>　　○正义曰：列国，已具上释。云“皆有社稷”者，《韩诗外传》云：“天子大社，东方青，南方赤，西方白，北方黑，中央黄土。若封，四方诸侯各割其方色土，苴以白苴而与之。诸侯以此土封之为社，明受於天子也。”社则土神也。经典所论社、稷，皆连言之。皇侃以为稷五穀之长，亦为土神。据此稷亦社之类也，言诸侯有社稷乃有国，无社稷则无国也。云“其君主而祭之”者，案《左传》曰：“君人者，社稷是主。”社稷因地，故以“列国”言之。祭必由君，故以“其君”言之。云“言富贵常在其身”者，此依王注释“富贵不离其身”也；“则长为社稷之主”者，释“保其社稷”也。云“而人自和平也”者，释“而和其民人”也。然经上文先贵后富，言因贵而富也；下覆之富在贵先者，此与《易·系辞》“崇高莫大乎富贵”，《老子》云“富贵而骄”，皆随便而言之，非富合先於贵也。经传之言社稷多矣。案《左传》曰：“共工氏之子曰勾龙，为后土。后土为社。有烈山氏之子曰柱。为稷，自夏以上祀之。周弃亦为稷，自商以来祀之。”言句龙、柱、弃配社稷而祭之，即句龙、柱、弃非社稷也。又《条牒》云：“稷坛在社西，俱北乡并列，同营共门。”并如条之说。<br/>　<br/><br/>　　诗云：‘战战兢兢，如临深渊，如履薄冰。’”战战，恐惧。兢兢，戒慎。临深恐坠，履薄恐陷，义取为君恒须戒慎。<br/><br/>　　[疏]诗云至薄冰。<br/><br/>　　○正义曰：夫子述诸侯行孝终毕，乃引《小雅·小旻》之诗以结之，言诸侯富贵不可骄溢，常须戒惧，故战战兢兢，常如临深履薄也。<br/>　　○注战战至戒惧。<br/>　　○正义曰：此依郑注也。案《毛诗传》云：“战战，恐也。兢兢，戒也。”此注恐下加惧，戒下加慎，足以圆文也。云“临深恐坠，履薄恐陷”者，亦《毛诗传》文也。恐坠谓坠入深渊，不可复出。恐陷谓没在冰下，不可拯济也。云“义取为君常须戒慎”者，引《诗》大意如此。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1425-26371.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1425-26373.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1425.html" action-type="chapterComment" class="comment"><i></i>孝经注疏章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

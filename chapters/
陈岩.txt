@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《宣室志》正文_陈岩_张读作品 - 维普阅读网</title>
+<meta name="keywords" content="宣室志,宣室志原文,宣室志阅读,陈岩全文,张读作品" />
+<meta name="description" content="宣室志原文阅读,陈岩全文在线阅读,张读作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1029-10721.html";
+var nextpage="novel-read-1029-10723.html";
+var indexpage = "novel-chapter-1029.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1029.html">宣室志</a></strong>
+<strong><a href="novel-chapter-1029.html">宣室志目录</a></strong>
+<span>陈岩</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1029-10721.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>陈岩</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-18.html" target="blank">古典小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=张读&amp;searchsubmit=yes"  target="_blank">张读</a><span class="divide">|</span>发布时间：2014-11-29 19:38:11<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　颖川陈岩，字叶梦，舞阳人，侨居东吴。景龙末，举孝廉，如京师，行至渭南，见一妇人，貌甚姝，衣白衣，立于路隅，以袂蒙口而哭，若负冤抑之状。生乃讯之，妇人哭而对曰：“妾，楚人也，侯其氏，家于弋阳县。先人以高尚闻于湘楚间，由是隐迹山林，未尝肯谒侯伯。妾虽一女子，亦有箕颖之志，方将栖踪蓬瀛昆阆以遂其好。适遇有沛国刘君者，尉弋阳，常与妾先人为忘形之友，先人慕刘君之高义，遂以妾归刘氏。自为刘氏妇且十年矣，未尝有纤毫过失。前岁春，刘君调补真源尉，未一岁，以病免，尽室归于渭上郊居。刘君无行，又娶一卢氏者，濮上人，性极悍戾，每以唇齿相及。妾不胜其愤，故遁而至此。且妾本慕神仙，常欲高蹈云霞，安岩壑之隐，甘橡栗之味，亦足以终老，岂徒扰于尘世，适足为累。今者分不归刘氏矣。”已而嚬容怨咽，若不自解。岩性端悫，闻其言，甚信之。因问曰：“女郎何所归乎？”妇人曰：“妾，一穷人，安所归虽然，君之见问，其有意耶果如是，又安敢逆君之命。”岩喜，即以后乘驾而偕焉。至京师，居永崇里。<br/>　　其始甚谨，后乃不恭，往往诟怒，若发狂之状。岩恶之而且悔。明日岩出，妇人即阖扉，键其门，以岩衣囊置庭中，毁裂殆尽。至夕，岩归，妇人拒而不纳。岩怒，即破户而入。见己之衣资，悉已毁裂，岩因诟而责之。妇人忽发怒，毁岩之衣襟佩带，殆无完缕，又爪其面，啮其肌，一身尽伤，血沾于地，已而嗥叫者移时。岩患之，不可制。于是里中民俱来观，簇其门。时有郝居士者，在里中，善视鬼，有符箓呵禁之术，闻妇人哭音，顾谓里中民曰：“此妇人非人，乃山兽也，寓形以惑于世耳。”民且告于岩。岩即请焉，居士乃至岩所居。妇人见居士来，甚惧。居士出墨符一道，向空掷之，妇人大叫一声，忽跃而去，立于瓦屋上。岩窃怪之。居士又出丹符掷之，妇人遂委身于地，化为猿而死。<br/>　　岩既悟其妖异，心颇怪悸。后一日，遂至渭南，讯其居人，果有刘君，庐在郊外。岩即谒而问焉。刘曰：“吾常尉于弋阳，弋阳多猿狖，遂求得其一，近兹且十年矣。适遇有故人自濮上来，以一黑犬见惠，其猿为犬所啮，因而遁去。”竟不穷其事，因录以传之。岩后以明经入仕，终于秦州上邽尉。客有游于太原者，偶于铜锅店精舍解鞍憩焉。于精舍佛书中，得刘君所传之事，而文甚鄙。后亡其本。客为余道之如是。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1029-10721.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1029-10723.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1029.html" action-type="chapterComment" class="comment"><i></i>宣室志章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

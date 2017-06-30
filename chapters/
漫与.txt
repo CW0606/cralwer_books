@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《南腔北调集》正文_漫与_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="南腔北调集,南腔北调集原文,南腔北调集阅读,漫与全文,鲁迅作品" />
+<meta name="description" content="南腔北调集原文阅读,漫与全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-543-7093.html";
+var nextpage="novel-read-543-7095.html";
+var indexpage = "novel-chapter-543.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-543.html">南腔北调集</a></strong>
+<strong><a href="novel-chapter-543.html">南腔北调集目录</a></strong>
+<span>漫与</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-543-7093.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>漫与</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-01 20:27:56<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>地质学上的古生代的秋天，我们不大明白了，至于现在，却总是相差无几。假使前年是肃杀的秋天，今年就成了凄凉的秋天，那么，地球的年龄，怕比天文学家所豫测的最短的数目还要短得多多罢。但人事却转变得真快，在这转变中的人，尤其是诗人，就感到了不同的秋，将这感觉，用悲壮的，或凄惋的句子，传给一切平常人，使彼此可以应付过去，而天地间也常有新诗存在。 <br/><br/>　　前年实在好像是一个悲壮的秋天，市民捐钱，青年拚命，笳鼓的声音也从诗人的笔下涌出，仿佛真要“投笔从戎”似的。然而诗人的感觉是锐敏的，他未始不知道国民的赤手空拳，所以只好赞美大家的殉难，因此在悲壮里面，便埋伏着一点空虚。我所记得的，是邵冠华先生的《醒起来罢同胞》（《民国日报》所载）里的一段—— <br/><br/>　　“同胞，醒起来罢， <br/>　　踢开了弱者的心， <br/>　　踢开了弱者的脑， <br/>　　看，看，看， <br/>　　看同胞们的血喷出来了， <br/>　　看同胞们的肉割开来了， <br/>　　看同胞们的尸体挂起来了。” <br/><br/>　　鼓鼙之声要在前线，当进军的时候，是“作气”的，但尚且要“再而衰，三而竭” ，倘在并无进军的准备的处所，那就完全是“散气”的灵丹了，倒使别人的紧张的心情，由此转成弛缓。所以我曾比之于“嚎丧”，是送死的妙诀，是丧礼的收场，从此使生人又可以在别一境界中，安心乐意的活下去。历来的文章中，化“敌”为 “皇”，称“逆”为“我朝”，这样的悲壮的文章就是其间的“蝴蝶铰”，但自然，作手是不必同出于一人的。然而从诗人看来，据说这些话乃是一种“狂吠”。 <br/><br/>　　不过事实真也比评论更其不留情面，仅在这短短的两年中，昔之义军，已名“匪徒” ，而有些“抗日英雄”，却早已侨寓姑苏了，而且连捐款也发生了问题。九一八的纪念日，则华界但有囚车随着武装巡捕梭巡，这囚车并非“意图”拘禁敌人或汉奸，而是专为“意图乘机捣乱”的“反动分子”所豫设的宝座。天气也真是阴惨，狂风骤雨，报上说是“飓风”，是天地在为中国饮泣，然而在天地之间——人间，这一日却“平安” 的过去了。 <br/><br/>　　于是就成了虽然有些惨淡，却很“平安”的秋天，正是一个丧家届了除服之期的景象。但这景象，却又与诗人非常适合的，我在《醒起来罢同胞》的同一作家的《秋的黄昏》（九月二十五日《时事新报》所载）里，听到了幽咽而舒服的声调—— <br/>　　“我到了秋天便会伤感；到了秋天的黄昏，便会流泪，我已很感觉到我的伤感是受着秋风的波动而兴奋地展开，同时自己又像会发现自己的环境是最适合于秋天，细细地抚摩着秋天在自然里发出的音波，我知道我的命运使我成为秋天的人。……” <br/><br/>　　钉梢，现在中国所流行的，是无赖子对于摩登女郎，和侦探对于革命青年的钉梢，而对于文人学士们，却还很少见。假使追蹑几月或几年试试罢，就会看见许多怎样的情随事迁，到底头头是道的诗人。 <br/><br/>　　一个活人，当然是总想活下去的，就是真正老牌的奴隶，也还在打熬着要活下去。然而自己明知道是奴隶，打熬着，并且不平着，挣扎着，一面“意图”挣脱以至实行挣脱的，即使暂时失败，还是套上了镣铐罢，他却不过是单单的奴隶。如果从奴隶生活中寻出“美”来，赞叹，抚摩，陶醉，那可简直是万劫不复的奴才了，他使自己和别人永远安住于这生活。就因为奴群中有这一点差别，所以使社会有平安和不安的差别，而在文学上，就分明的显现了麻醉的和战斗的的不同。 <br/><br/>(九月二十七日。) </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-543-7093.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-543-7095.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-543.html" action-type="chapterComment" class="comment"><i></i>南腔北调集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

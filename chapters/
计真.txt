@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《宣室志》正文_计真_张读作品 - 维普阅读网</title>
+<meta name="keywords" content="宣室志,宣室志原文,宣室志阅读,计真全文,张读作品" />
+<meta name="description" content="宣室志原文阅读,计真全文在线阅读,张读作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1029-10730.html";
+var nextpage="novel-read-1029-10732.html";
+var indexpage = "novel-chapter-1029.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1029.html">宣室志</a></strong>
+<strong><a href="novel-chapter-1029.html">宣室志目录</a></strong>
+<span>计真</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1029-10730.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>计真</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-18.html" target="blank">古典小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=张读&amp;searchsubmit=yes"  target="_blank">张读</a><span class="divide">|</span>发布时间：2014-11-29 19:41:12<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　唐元和中，有计真，家侨青齐间。尝西游长安，至陕。真与陕従事善，是日将告去，従事留饮酒，至暮方与别。及行未十里，遂兀然堕马，而二仆驱其衣囊前去矣。及真醉寤，已曛黑，马亦先去，因顾道佐小迳有马溺，即往寻之。不觉数里，忽见朱门甚高，槐柳森然。真既亡仆马，怅然，遂叩其门。已扃键，有小童出视，真即问曰：“此谁氏居？”曰：“李外郎别墅。”真请入谒。僮遽以告之。顷之，令人请客入息于宾馆。即引入门，其左有宾位，甚清敞，所设屏障，皆古山水及名画图、经籍、茵榻之类，率洁而不华。真坐久之，小僮出曰：“主君且至。”俄有一丈夫，年约五十，朱绂银章，仪状甚伟，与生相见，揖让而坐。生因具述：“従事故人留饮酒，道中沈醉，不觉曛黑，仆马俱失，原寓此一夕，可乎？”李曰：“但虑此卑隘，不可安贵客，宁有间耶！”真愧谢之。李又曰：“某尝従事于蜀，寻以疾罢去，今则归休于是矣。”因与议语，甚敏博。真颇慕之。又命家僮访真仆马，俄而皆至，即舍之。既而设馔共食。食竟，饮酒数杯而寐。明日，真晨起告去，李曰：“愿更得一日，侍欢笑。”生感其意，即留。明日乃别。<br/>　　及至京师，居月余，有款其门者，自称进士独孤沼。真延坐与语，甚聪辩，且谓曰：“某家于陕，昨西来，过李外郎。谈君之美不暇，且欲与君为姻好，故令某奉谒话此意。君以为何如？”喜而诺之。沼曰：“某今还陕。君东归，当更访外郎，且谢其意也。”遂别去。后旬月，生还，诣外郎别墅。李见真至，大喜。生即话独孤沼之言，因谢之。李遂留生，卜日就礼。妻色甚姝，且聪敏柔婉。生留旬月，乃挈妻孥归青齐。自是，李君音耗不绝。<br/>　　生奉道，每晨起阅《黄庭内景经》，李氏常止之曰：“君好道，宁如秦皇汉武乎求仙之力，又孰若秦皇汉武乎彼二人贵为天子，富有四海，竭天下之财以学神仙，尚崩于沙丘，葬于茂陵。况君一布衣，而乃惑于求仙耶！”真叱之，乃终卷。意其知道者，亦不疑为他类也。后岁余，真挈家调选，至陕郊，李君留其女而遣生来京师。明年秋，授兖州参军，李氏随之官。数年，罢秩归齐鲁。<br/>　　又十余年，李有七子二女，才质姿貌，皆居众人先，而李容色端丽，无姝少年时。生益锺念之。无何，被疾且甚，生奔走医巫，无所不至，终不愈。一旦，屏人握生手，呜咽流涕，自言曰：“妾自知死至，然忍羞以心曲告君，幸君宽罪宥戾，使得尽言。”已，嘘欷不自胜。生亦为之泣，因慰之。乃曰：“一言诚自知受责于君，顾九稚子犹在，以为君累，尚敢一发口。且妾非人间人，天命当与君偶，得以狐狸贱质奉箕帚二十年，未尝纤芥获罪，惧以他类贻君忧。一女子血诚自谓竭尽。今日求去，不敢以妖幻余气托君，念稚弱满眼，皆世间人，为嗣续。及某气尽，愿少念弱子心，无以枯骨为仇，得全支体，埋之土中，乃百生之赐也。”言终，又悲恸，泪百行下。生惊悦伤感，咽不能语。相对泣良久，以被蒙首，背壁卧，食顷无声。生遂发被，见一狐死被中。生特感悼之，为之敛，葬之，制皆如人。<br/>　　礼讫，生径至陕，访李氏居，墟墓荆棘，阒无所见，惆怅还家。居岁余，七子二女相次而卒，视其骸，皆人也。而终无恶心。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1029-10730.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1029-10732.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1029.html" action-type="chapterComment" class="comment"><i></i>宣室志章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

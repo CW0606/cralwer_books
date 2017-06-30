@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《文心雕龙》正文_卷三 宗经_刘勰作品 - 维普阅读网</title>
+<meta name="keywords" content="文心雕龙,文心雕龙原文,文心雕龙阅读,卷三 宗经全文,刘勰作品" />
+<meta name="description" content="文心雕龙原文阅读,卷三 宗经全文在线阅读,刘勰作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-665-8484.html";
+var nextpage="novel-read-665-8486.html";
+var indexpage = "novel-chapter-665.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-665.html">文心雕龙</a></strong>
+<strong><a href="novel-chapter-665.html">文心雕龙目录</a></strong>
+<span>卷三 宗经</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-665-8484.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷三 宗经</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘勰&amp;searchsubmit=yes"  target="_blank">刘勰</a><span class="divide">|</span>发布时间：2014-10-20 20:49:37<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　三极彝训，其书曰经。经也者，恒久之至道，不刊之鸿教也。故象天地，效鬼神，参物序，制人纪，洞性灵之奥区，极文章之骨髓者也。皇世《三坟》，帝代《五典》，重以《八索》，申以《九丘》。岁历绵暧，条流纷糅，自夫子删述，而大宝咸耀。于是《易》张《十翼》，《书》标七观，《诗》列四始，《礼》正五经，《春秋》五例。义既埏乎性情，辞亦匠于文理，故能开学养正，昭明有融。然而道心惟微，圣谟卓绝，墙宇重峻，而吐纳自深。譬万钧之洪钟，无铮铮之细响矣。<br/><br/>　　夫《易》惟谈天，入神致用。故《系》称旨远辞文，言中事隐。韦编三绝，固哲人之骊渊也。《书》实记言，而训诂茫昧，通乎尔雅，则文意晓然。故子夏叹《书》“昭昭若日月之明，离离如星辰之行”，言照灼也。《诗》主言志，诂训同《书》，攡风裁兴，藻辞谲喻，温柔在诵，故最附深衷矣。《礼》以立体，据事制范，章条纤曲，执而后显，采掇片言，莫非宝也。《春秋》辨理，一字见义，五石六鹢，以详备成文；雉门两观，以先后显旨；其婉章志晦，谅以邃矣。《尚书》则览文如诡，而寻理即畅；《春秋》则观辞立晓，而访义方隐。此圣文之殊致，表里之异体者也。<br/><br/>　　至根柢槃深，枝叶峻茂，辞约而旨丰，事近而喻远。是以往者虽旧，馀味日新。后进追取而非晚，前修久用而未先，可谓太山遍雨，河润千里者也。<br/><br/>　　故论说辞序，则《易》统其首；诏策章奏，则《书》发其源；赋颂歌赞，则《诗》立其本；铭诔箴祝，则《礼》总其端；记传盟檄，则《春秋》为根：并穷高以树表，极远以启疆，所以百家腾跃，终入环内者也。<br/><br/>　　若禀经以制式，酌雅以富言，是即山而铸铜，煮海而为盐也。故文能宗经，体有六义∶一则情深而不诡，二则风清而不杂，三则事信而不诞，四则义贞而不回，五则体约而不芜，六则文丽而不淫。扬子比雕玉以作器，谓五经之含文也。夫文以行立，行以文传，四教所先，符采相济。励德树声，莫不师圣，而建言修辞，鲜克宗经。是以楚艳汉侈，流弊不还，正末归本，不其懿欤！<br/><br/>　　赞曰∶<br/><br/>　　三极彝训，道深稽古。致化惟一，分教斯五。<br/><br/>　　性灵熔匠，文章奥府。渊哉铄乎，群言之祖。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-665-8484.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-665-8486.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-665.html" action-type="chapterComment" class="comment"><i></i>文心雕龙章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

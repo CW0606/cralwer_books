@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《文序跋集》正文_《爱罗先珂童话集》 _鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="文序跋集,文序跋集原文,文序跋集阅读,《爱罗先珂童话集》 全文,鲁迅作品" />
+<meta name="description" content="文序跋集原文阅读,《爱罗先珂童话集》 全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-619-7776.html";
+var nextpage="novel-read-619-7778.html";
+var indexpage = "novel-chapter-619.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-619.html">文序跋集</a></strong>
+<strong><a href="novel-chapter-619.html">文序跋集目录</a></strong>
+<span>《爱罗先珂童话集》 </span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-619-7776.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>《爱罗先珂童话集》 </strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-13 21:41:09<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>序（2）<br/><br/>　　爱罗先珂（3）先生的童话，现在辑成一集，显现于住在中国的读者的眼前了。这原是我的希望，所以很使我感谢而且喜欢。<br/>　　本集的十二篇文章中，《自叙传》和《为跌下而造的塔》是胡愈之（4）先生译的，《虹之国》是馥泉（5）先生译的，其余是我译的。<br/>　　就我所选译的而言，我最先得到他的第一本创作集《夜明前之歌》，所译的是前六篇（6），后来得到第二本创作集《最后之叹息》（7），所译的是《两个小小的死》，又从《现代》（8）杂志里译了《为人类》，从原稿上译了《世界的火灾》。<br/>　　依我的主见选译的是《狭的笼》，《池边》，《雕的心》，《春夜的梦》，此外便是照着作者的希望而译的了。因此，我觉得作者所要叫彻人间的是无所不爱，然而不得所爱的悲哀，而我所展开他来的是童心的，美的，然而有真实性的梦。这梦，或者是作者的悲哀的面纱罢？那么，我也过于梦梦了，但是我愿意作者不要出离了这童心的美的梦，而且还要招呼人们进向这梦中，看定了真实的虹，我们不至于是梦游者（Som^nambulist）。<br/>　　一九二二年一月二十八日，鲁迅记。<br/><br/>==========================================================================<br/><br/>　　 　《爱罗先珂童话集》　一九二二年七月上海商务印书馆出版，列为《文学研究会丛书》之一。其中鲁迅翻译者九篇，除《古怪的猫》一篇未见在报刊上发表外，其它各篇在收入单行本前都曾分别发表于《新青年》月刊、《妇女杂志》、《东方杂志》、《小说月报》及《晨报副刊》。<br/>　　《鲁迅译文集》所收《爱罗先珂童话集》中的末四篇（《爱字的疮》、《小鸡的悲剧》、《红的花》、《时光老人》），系自巴金所编爱罗先珂第二童话集《幸福的船》（一九三一年三月上海开明书店出版）转录。<br/>　　（2）　本篇最初印入《爱罗先珂童话集》。<br/>　　（3）　爱罗先珂（K．k．iHTGYIF]T，1889—1952）　俄国诗人、童话作家。童年时因病双目失明。曾先后到过日本、泰国、缅甸、印度。<br/>　　一九二一年在日本因参加“五一”游行被驱逐出境，后辗转来到我国。<br/>　　一九二二年从上海到北京，曾在北京大学、北京世界语专门学校任教。<br/>　　一九二三年回国。他用世界语和日语写作，主要作品有童话剧《桃色的云》和童话集、回忆录等。<br/>　　（4）　胡愈之　浙江上虞人，作家、政论家。当时任商务印书馆编辑，主编《东方杂志》。著有《莫斯科印象记》等。<br/>　　（5）　馥泉　汪馥泉（1899—1959）　浙江杭县人，当时是翻译工作者。<br/>　　（6）　前六篇　指《狭的笼》、《鱼的悲哀》、《池边》、《鸼的心》、《春夜的梦》、《古怪的猫》。<br/>　　（7）　《最后之叹息》　一九二一年十二月日本东京丛文阁出版。<br/>　　（8）　《现代》　出版于东京的日本杂志，月刊，大日本雄辩会讲谈社编辑。<br/><br/><br/>《狭的笼》译者附记<br/><br/>　　一九二一年五月二十八日日本放逐了一个俄国的盲人以后，他们的报章上很有许多议论，我才留心到这漂泊的失明的诗人华希理·埃罗先珂。<br/>　　然而埃罗先珂并非世界上赫赫有名的诗人；我也不甚知道他的经历。所知道的只是他大约三十余岁，先在印度，以带着无政府主义倾向的理由，被英国的官驱逐了；于是他到日本。进过他们的盲哑学校，现在又被日本的官驱逐了，理由是有宣传危险思想的嫌疑。<br/>　　日英是同盟国（2），兄弟似的情分，既然被逐于英，自然也一定被逐于日的；但这一回却添上了辱骂与殴打。也如一切被打的人们，往往遗下物件或鲜血一样，埃罗先珂也遗下东西来，这是他的创作集，一是《天明前之歌》（3），二是《最后之叹息》。<br/>　　现在已经出版的是第一种，一共十四篇，是他流寓中做给日本人看的童话体的著作。通观全体，他于政治经济是没有兴趣的，也并不藏着什么危险思想的气味；他只有着一个幼稚的，然而优美的纯洁的心，人间的疆界也不能限制他的梦幻，所以对于日本常常发出身受一般的非常感愤的言辞来。<br/>　　他这俄国式的大旷野的精神，在日本是不合式的，当然要得到打骂的回赠，但他没有料到，这就足见他只有一个幼稚的然而纯洁的心。我掩卷之后，深感谢人类中有这样的不失赤子之心的人与著作。<br/>　　这《狭的笼》便是《天明前之歌》里的第一篇，大约还是漂流印度时候的感想和愤激。他自己说：这一篇是用了血和泪所写的。单就印度而言，他们并不戚戚于自己不努力于人的生活，却愤愤于被人禁了“撒提”（4），所以即使并无敌人，也仍然是笼中的“下流的奴隶”。<br/>　　广大哉诗人的眼泪，我爱这攻击别国的“撒提”之幼稚的俄国盲人埃罗先珂，实在远过于赞美本国的“撒提”受过诺贝尔奖金的印度诗圣泰戈尔（5）；我诅咒美而有毒的曼陀罗华（6）。<br/>　　一九二一年八月十六日，译者记。<br/><br/>==========================================================================<br/><br/>　　 　本篇连同《狭的笼》的译文，最初发表于一九二一年八月《新青年》月刊第九卷第四号。<br/>　　（2）　日英是同盟国　一九○二年日、英帝国主义为侵略中国及与沙皇俄国争夺在中国东北和朝鲜的利益，缔结了反俄的军事同盟。<br/>　　（3）　《天明前之歌》　即《夜明前之歌》。<br/>　　（4）“撒提”　印度旧时的一种封建习俗：丈夫死后，妻子即随同丈夫的尸体自焚。撒提（Sati，梵文）的原义为“贞节的妇女”。<br/>　　（5）　泰戈尔（R．Tagore，1861—1941）　印度诗人、作家。他的作品主要描写英帝国主义统治下印度人民的悲惨生活。但又具有泛神论者的神秘色彩和宗教气氛。一九一三年他以诗集《吉檀迦利》获得诺贝尔奖金。著有《新月》、《园丁》、《飞鸟》等诗集及《戈拉》、《沉船》等小说。<br/>　　（6）　曼陀罗华　毒草名，秋季开花。华，同花。<br/><br/><br/>《池边》译者附记<br/><br/>　　芬兰的文人P．Palivalrinta（2）有这样意思的话：人生是流星一样，霍的一闪，引起人们的注意来，亮过去了，消失了，人们也就忘却了！<br/>　　但这还是就看见的而论，人们没有看见的流星，正多着哩。<br/>　　五月初，日本为治安起见，驱逐一个俄国的盲人出了他们的国界，送向海参卫（3）去了。<br/>　　这就是诗人华希理·爱罗先珂。<br/>　　他被驱逐时，大约还有使人伤心的事，报章上很发表过他的几个朋友的不平的文章（4），然而奇怪，他却将美的赠物留给日本了：其一是《天明前之歌》，其二是《最后之叹息》。<br/>　　那是诗人的童话集，含有美的感情与纯朴的心。有人说，他的作品给孩子看太认真，给成人看太不认真，这或者也是的。<br/>　　但我于他的童话，不觉得太不认真，也看不出什么危险思想来。他不像宣传家，煽动家；他只是梦幻，纯白，而有大心（5），也为了非他族类的不幸者而叹息。这大约便是被逐的原因。<br/>　　他闪过了；我本也早已忘却了，而不幸今天又看见他的《天明前之歌》，于是由不得要绍介他的心给中国人看。可惜中国文是急促的文，话也是急促的话，最不宜于译童话；我又没有才力，至少也减了原作的从容与美的一半了。<br/>　　九月十日译者附记。<br/><br/>==========================================================================<br/><br/>　　 　本篇最初发表于一九二一年九月二十四日《晨报》副刊，《池边》的译文即发表于二十四日至二十六日该刊。<br/>　　（2）　P．Palivalrinta　佩伐林塔（1827—1913），芬兰小说家。出身于农民家庭，他的作品主要描写农民生活，是以芬兰文写作的最早的作家之一。著有《人生图录》、《霜晨》等。<br/>　　（3）　即海参崴，原为我国东北部重要海口，清咸丰十年（1860）为沙皇俄国占领，改名符拉迪沃斯托克（意为“控制东方”）。<br/>　　爱罗先珂于一九二一年七月到达当时已被日本军队占领的海参崴。<br/>　　（4）　一九二一年五月间爱罗先珂被日本政府驱逐后，日本报纸《读卖新闻》曾先后刊载江口涣的《忆爱罗先珂华希理君》（一九二一年六月十五日）和中根弘的《盲诗人最近的踪迹》（一九二一年十月九日）等文。<br/>　　（5）　大心　同情心、博爱的意思。<br/><br/><br/>《春夜的梦》译者附记<br/><br/>　　爱罗先珂的文章，我在上月的《晨报》（2）上，已经绍介过一篇《池边》。这也收在《天明前之歌》里，和那一篇都是最富于诗趣的作品。他自己说：“这是作为我的微笑而作的。虽然是悲哀的微笑，当这时代，在这国里，还不能现出快活的微笑来。”<br/>　　文中的意思，非常了然，不过是说美的占有的罪过，和春梦（这与中国所谓一场春梦的春梦，截然是两件事，应该注意的）的将醒的情形。而他的将来的理想，便在结末这一节里。<br/>　　作者曾有危险思想之称，而看完这一篇，却令人觉得他实在只有非常平和而且宽大，近于调和的思想。但人类还很胡涂，他们怕如此。其实倘使如此，却还是人们的幸福，可怕的是在只得到危险思想以外的收场。<br/>　　我先前将作者的姓译为埃罗先珂，后来《民国日报》的《觉悟》（3）栏上转录了，改第一音为爱，是不错的，现在也照改了。露草在中国叫鸭跖草，因为翻了很损文章的美，所以仍用了原名。<br/>　　二一，十，一四。译者附记。<br/><br/>==========================================================================<br/><br/>　　 　本篇连同《春夜的梦》的译文，最初发表于一九二一年十月二十二日《晨报副镌》。<br/>　　（2）　《晨报》　研究系（梁启超、汤化龙等组织的政治团体）的机关报。它在政治上拥护北洋政府。副刊即《晨报副镌》，原是《晨报》的第七版，一九一九年二月起由李大钊主编；一九二一年十月十二日起另出单张，随同《晨报》附送，由孙伏园主编，成为赞助新文化运动的重要刊物之一。一九二四年十月孙伏园去职，九二五年后改由新月派徐志摩续编，至一九二八年停刊。<br/>　　（3）　《民国日报》　一九一六年一月在上海创刊，原为反对袁世凯而创办。主持人邵力子。一九二四年国民党第一次全国代表大会后成为该党机关报，曾参加反帝反封建的斗争。一九二五年末，该报为西山会议派把持，成为国民党右派的报纸。《觉悟》是它的综合性副刊，从一九一九年创刊后，至一九二五年“五卅”运动前，积极宣传新文化运动，影响较大。<br/><br/><br/>《鱼的悲哀》译者附记<br/><br/>　　爱罗先珂在《天明前之歌》的自序里说，其中的《鱼的悲哀》和《雕的心》是用了艺术家的悲哀写出来的。我曾经想译过前一篇，然而终于搁了笔，只译了《雕的心》。<br/>　　近时，胡愈之先生给我信，说著者自己说是《鱼的悲哀》最惬意，教我尽先译出来，于是也就勉力翻译了。然而这一篇是最须用天真烂熳的口吻的作品，而用中国话又最不易做天真烂熳的口吻的文章，我先前搁笔的原因就在此；现在虽然译完，却损失了原来的好和美已经不少了，这实在很对不起著者和读者。<br/>　　我的私见，以为这一篇对于一切的同情，和荷兰人蔼覃（F．Van　Eeden）（2）的《小约翰》（Der　Kleine　Johannes）颇相类。至于“看见别个捉去被杀的事，在我，是比自己被杀更苦恼，”（3）则便是我们在俄国作家的作品中常能遇到的，那边的伟大的精神。<br/>　　一九二一年十一月十日，译者附识。<br/><br/>==========================================================================<br/><br/>　　 　本篇连同《鱼的悲哀》的译文，最初发表于一九二二年一月《妇女杂志》第八卷第一号。<br/>　　（2）　蔼覃　即望·蔼覃（1860—1932），参看本书《〈小约翰〉引言》及其注 。<br/>　　（3）　这句话见于《鱼的悲哀》第五节。<br/><br/><br/>《两个小小的死》译者附记<br/><br/>　　爱罗先珂先生的第二创作集《最后的叹息》，本月十日在东京发行，内容是一篇童话剧和两篇童话（2），这是那书中的最末一篇，由作者自己的选定而译出的。<br/>　　一九二一年十二月三十日，译者附记。<br/><br/>==========================================================================<br/><br/>　　 　本篇连同《两个小小的死》的译文，最初发表于一九二二年一月二十五日《东方杂志》第十九卷第二号。<br/>　　（2）　童话剧　指《桃色的云》，参看本书《〈桃色的云〉序》。两篇童话，指《海公主与渔人》和《两个小小的死》。<br/><br/><br/>《小鸡的悲剧》译者附记<br/><br/>　　这一篇小品，是作者在六月底写出的，所以可以说是最近的创作。原稿是日本文。<br/>　　日本话于恋爱和鲤鱼都是　Koi，因此第二段中的两句对话（2）便双关，在中国无法可译。作者虽曾说不妨改换，但我以为恋鲤两音也近似，竟不再改换了。<br/>　　一九二二年七月五日附记。<br/><br/>==========================================================================<br/><br/>　　 　本篇连同《小鸡的悲剧》的译文，最初发表于一九二二年九月《妇女杂志》第八卷第九号。<br/>　　（2）　关于第二段中两句双关的对话，原话为（小鸡问小鸭）“你有过恋爱么？”（小鸭回答说）“并没有有过恋爱，但曾经吃过鲤儿。” </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-619-7776.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-619-7778.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-619.html" action-type="chapterComment" class="comment"><i></i>文序跋集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

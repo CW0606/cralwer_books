@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《庄子》正文_杂篇·庚桑楚_庄子作品 - 维普阅读网</title>
+<meta name="keywords" content="庄子,庄子原文,庄子阅读,杂篇·庚桑楚全文,庄子作品" />
+<meta name="description" content="庄子原文阅读,杂篇·庚桑楚全文在线阅读,庄子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-39-1005.html";
+var nextpage="novel-read-39-1007.html";
+var indexpage = "novel-chapter-39.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-39.html">庄子</a></strong>
+<strong><a href="novel-chapter-39.html">庄子目录</a></strong>
+<span>杂篇·庚桑楚</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-39-1005.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>杂篇·庚桑楚</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=庄子&amp;searchsubmit=yes"  target="_blank">庄子</a><span class="divide">|</span>发布时间：2014-07-22 21:10:39<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　老聃之役有庚桑楚者，偏得老聃之道，以北居畏垒之山。其臣之画 然知者去之，其妾之挈然仁者远之。拥肿之与居，鞅掌之为使。居三 年，畏垒大壤。畏垒之民相与言曰：“庚桑子之始来，吾洒然异之。 今吾日计之而不足，岁计之而有余。庶几其圣人乎！子胡不相与尸而 祝之，社而稷之乎？”庚桑子闻之，南面而不释然。弟子异之。庚桑 子曰：“弟子何异于予？夫春气发而百草生，正得秋而万宝成。夫春 与秋，岂无得而然哉？天道已行矣。吾闻至人，尸居环堵之室，而百 姓猖狂，不知所如往。今以畏垒之细民，而窃窃焉欲俎豆予于贤人之 间，我其杓之人邪？吾是以不释于老聃之言。”弟子曰：“不然。夫 寻常之沟，巨鱼无所还其体，而鲵鳅为之制；步仞之丘陵，巨兽无所 隐其躯，而孽狐为之祥。且夫尊贤授能，先善与利，自古尧、舜以然 ，而况畏垒之民乎！夫子亦听矣！”庚桑子曰：“小子来！夫函车之 兽，介而离山，则不免于网罟之患；吞舟之鱼，荡而失水，则蚁能苦 之。故鸟兽不厌高，鱼鳖不厌深。夫全其形生之人，藏其身也，不厌 深眇而已矣！且夫二子者，又何足以称扬哉！是其于辩也，将妄凿垣 墙而殖蓬蒿也，简发而栉，数米而炊，窃窃乎又何足以济世哉！举贤 则民相轧，任知则民相盗。之数物者，不足以厚民。民之于利甚勤， 子有杀父，臣有杀君；正昼为盗，日中穴阫。吾语女：大乱之本，必 生于尧、舜之间，其末存乎千世之后。千世之后，其必有人与人相食 者也。”<br/><br/>　　南荣趎蹴然正坐曰：“若趎之年者已长矣，将恶乎托业以及此言邪 ？”庚桑子曰：“全汝形，抱汝生，无使汝思虑营营。若此三年，则 可以及此言矣！”南荣趎曰：“目之与形，吾不知其异也，而盲者不 能自见；耳之与形，吾不知其异也，而聋者不能自闻；心之与形，吾 不知其异也，而狂者不能自得。形之与形亦辟矣，而物或间之邪？欲 相求而不能相得。今谓趎曰：‘全汝形，抱汝生，无使汝思虑营营。’ 趎勉闻道达耳矣！”庚桑子曰：“辞尽矣，奔蜂不能化藿蠋，越鸡 不能伏鹄卵，鲁鸡固能矣！鸡之与鸡，其德非不同也。有能与不能者 ，其才固有巨小也。今吾才小，小足以化子。子胡不南见老子！”南 荣囗赢粮，七日七夜至老子之所。老子曰：“子自楚之所来乎？”南 荣囗曰：“唯。”老子曰：“子何与人偕来之众也？”南荣囗惧然顾 其后。老子曰：“子不知吾所谓乎？”南荣囗俯而惭，仰而叹，曰： “今者吾忘吾答，因失吾问。”老子曰：“何谓也？”南荣囗曰：“ 不知乎人谓我朱愚，知乎反愁我躯；不仁则害人，仁则反愁我身；不 义则伤彼，义则反愁我己。我安逃此而可？此三言者，趎之所患也。 愿因楚而问之。”老子曰：“向吾见若眉睫之间，吾因以得汝矣。今 汝又言而信之。若规规然若丧父母，揭竿而求诸海也。女亡人哉！惘 惘乎，汝欲反汝情性而无由入，可怜哉！”南荣囗请入就舍，召其所 好，去其所恶。十日自愁，复见老子 。老子曰：“汝自洒濯，孰哉郁郁乎！然而其中津津乎犹有恶也。夫 外韄者不可繁而捉，将内揵；内韄者不可缪而捉，将外揵；外内韄者， 道德不能持，而况放道而行者乎！”南荣囗曰：“里人有病，里人问 之，病者能言其病，然其病病者犹未病也。若趎之闻大道，譬犹饮药 以加病也。趎愿闻卫生之经而已矣。”老子曰：“卫生之经，能抱一 乎！能勿失乎！能无卜筮而知吉凶乎！能止乎！能已乎！能舍诸人而 求诸己乎！能翛然乎！能侗然乎！能儿子乎！儿子终日嗥而嗌不嗄， 和之至也；终日握而手不掜，共其德也；终日视而目不瞬，偏不在外 也。行不知所之，居不知所为，与物委蛇而同其波。是卫生之经已。” 南荣囗曰：“然则是至人之德已乎？”曰：“非也。是乃所谓冰解冻 释者。夫至人者，相与交食乎地而交乐乎天，不以人物利害相撄，不 相与为怪，不相与为谋，不相与为事，翛然而往，侗然而来。是谓卫 生之经已。”曰：“然则是至乎？”曰：“未也。吾固告汝曰：‘能 儿子乎！’儿子动不知所为，行不知所之，身若槁木之枝而心若死灰。 若是者，祸亦不至，福亦不来。祸福无有，恶有人灾也！”<br/><br/>　　宇泰定者，发乎天光。发乎天光者，人见其人，物见其物。人有修 者，乃今有恒。有恒者，人舍之，天助之。人之所舍，谓之天民；天 之所助，谓之天子。<br/><br/>　　学者，学其所不能学也？行者，行其所不能行也？辩者，辩其所不 能辩也？知止乎其所不能知，至矣！若有不即是者，天钧败之。备物 将以形，藏不虞以生心，敬中以达彼。若是而万恶至者，皆天也，而 非人也，不足以滑成，不可内于灵台。灵台者有持，而不知其所持而 不可持者也。不见其诚己而发，每发而不当；业入而不舍，每更为失 。为不善乎显明之中者，人得而诛之；为不善乎幽间之中者，鬼得而 诛之。明乎人、明乎鬼者，然后能独行。券内者，行乎无名；券外者 ，志乎期费。行乎无名者，唯庸有光；志乎期费者，唯贾人也。人见 其跂，犹之魁然。与物穷者，物入焉；与物且者，其身之不能容，焉 能容人！不能容人者无亲，无亲者尽人。兵莫惨于志，镆铘为下；寇 莫大于阴阳，无所逃于天地之间。非阴阳贼之，心则使之也。<br/><br/>　　道通其分也，其成也毁也。所恶乎分者，其分也以备。所以恶乎备 者？其有以备。故出而不反，见其鬼。出而得，是谓得死。灭而有实 ，鬼之一也。以有形者象无形者而定矣！出无本，入无窍，有实而无 乎处，有长而无乎本剽，有所出而无窍者有实。有实而无乎处者，宇 也；有长而无本剽者，宙也。有乎生，有乎死；有乎出，有乎入。入 出而无见其形，是谓天门。天门者，无有也。万物出乎无有。有不能 以有为有，必出乎无有，而无有一无有。圣人藏乎是。<br/><br/>　　古之人，其知有所至矣。恶乎至？有以为未始有物者，至矣，尽矣 ，弗可以加矣！其次以为有物矣，将以生为丧也，以死为反也，是以 分已。其次曰始无有，既而有生，生俄而死。以无有为首，以生为体 ，以死为尻。孰知有无死生之一守者，吾与之为友。是三者虽异，公 族也。昭景也，著戴也；甲氏也，著封也：非一也。<br/><br/>　　有生黬也，披然曰“移是”。尝言“移是”，非所言也。虽然，不 可知者也。腊者之有膍胲，可散而不可散也；观室者周于寝庙，又适 其偃焉！为是举“移是”。请尝言“移是”：是以生为本，以知 为师，因以乘是非。果有名实，因以己为质，使人以为己节，因以死 偿节。若然者，以用为知，以不用为愚；以彻为名，以穷为辱。“移 是”，今之人也，是蜩与学鸠同于同也。<br/><br/>　　蹍市人之足，则辞以放骜，兄则以妪，大亲则已矣。故曰：至礼有 不人，至义不物，至知不谋，至仁无亲，至信辟金。彻志之勃，解心 之谬，去德之累，达道之塞。贵富显严名利六者，勃志也；容动色理 气意六者，谬心也；恶欲喜怒哀乐六者，累德也；去就取与知能六者， 塞道也。此四六者不荡胸中则正，正则静，静则明，明则虚，虚则无 为而无不为也。<br/><br/>　　道者，德之钦也；生者，德之光也；性者，生之质也。性之动谓之 为，为之伪谓之失。知者，接也；知者，谟也。知者之所不知，犹睨 也。动以不得已之谓德，动无非我之谓治，名相反而实相顺也。羿工 乎中微而拙乎使人无己誉；圣人工乎天而拙乎人；夫工乎天而俍乎人 者，唯全人能之。虽虫能虫，虽虫能天。全人恶天，恶人之天，而况 吾天乎人乎！一雀适羿，羿必得之，或也。以天下为之笼，则雀无所 逃。是故汤以胞人笼伊尹，秦 穆公以五羊之皮笼百里奚。是故非以其所好笼之而可得者，无有也。 介者拸画，外非誉也。胥靡登高而不惧，遗死生也。夫复谐不馈而忘人 ，忘人，因以为天人矣！故敬之而不喜，侮之而不怒者，唯同乎天和 者为然。出怒不怒，则怒出于不怒矣；出为无为，则为出于无为矣！ 欲静则平气，欲神则顺心。有为也欲当，则缘于不得已。不得已之类 ，圣人之道。<br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-39-1005.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-39-1007.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-39.html" action-type="chapterComment" class="comment"><i></i>庄子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

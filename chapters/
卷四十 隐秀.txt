@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《文心雕龙》正文_卷四十 隐秀_刘勰作品 - 维普阅读网</title>
+<meta name="keywords" content="文心雕龙,文心雕龙原文,文心雕龙阅读,卷四十 隐秀全文,刘勰作品" />
+<meta name="description" content="文心雕龙原文阅读,卷四十 隐秀全文在线阅读,刘勰作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-665-8521.html";
+var nextpage="novel-read-665-8523.html";
+var indexpage = "novel-chapter-665.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-665.html">文心雕龙</a></strong>
+<strong><a href="novel-chapter-665.html">文心雕龙目录</a></strong>
+<span>卷四十 隐秀</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-665-8521.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷四十 隐秀</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘勰&amp;searchsubmit=yes"  target="_blank">刘勰</a><span class="divide">|</span>发布时间：2014-10-20 20:56:08<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　夫心术之动远矣，文情之变深矣，源奥而派生，根盛而颖峻，是以文之英蕤，有秀有隐。隐也者，文外之重旨者也；秀也者，篇中之独拔者也。隐以复意为工，秀以卓绝为巧。斯乃旧章之懿绩，才情之嘉会也。<br/><br/>　　夫隐之为体，义生文外，秘响旁通，伏采潜发，譬爻象之变互体，川渎之韫珠玉也。故互体变爻，而化成四象；珠玉潜水，而澜表方圆。始正而末奇，内明而外润，使玩之者无穷，味之者不厌矣。<br/><br/>　　彼波起辞间，是谓之秀。纤手丽音，宛乎逸态，若远山之浮烟霭，娈女之靓容华。然烟霭天成，不劳于妆点；容华格定，无待于裁熔；深浅而各奇，穠纤而俱妙，若挥之则有馀，而揽之则不足矣。<br/><br/>　　夫立意之士，务欲造奇，每驰心于玄默之表；工辞之人，必欲臻美，恒匿思于佳丽之乡。呕心吐胆，不足语穷；锻岁炼年，奚能喻苦？故能藏颖词间，昏迷于庸目；露锋文外，惊绝乎妙心。使酝藉者蓄隐而意愉，英锐者抱秀而心悦。譬诸裁云制霞，不让乎天工；斫卉刻葩，有同乎神匠矣。若篇中乏隐，等宿儒之无学，或一叩而语穷，句间鲜秀，如巨室之少珍，若百诘而色沮：斯并不足于才思，而亦有愧于文辞矣。<br/><br/>　　将欲征隐，聊可指篇∶古诗之离别，乐府之长城，词怨旨深，而复兼乎比兴。陈思之《黄雀》，公干之《青松》，格刚才劲，而并长于讽谕。叔夜之《赠行》，嗣宗之《咏怀》，境玄思澹，而独得乎优闲。士衡之疏放，彭泽之豪逸，心密语澄，而俱适乎壮采。<br/><br/>　　如欲辨秀，亦惟摘句“常恐秋节至，凉飙夺炎热”，意凄而词婉，此匹妇之无聊也；“临河濯长缨，念子怅悠悠”，志高而言壮，此丈夫之不遂也；“东西安所之，徘徊以旁皇”，心孤而情惧，此闺房之悲极也；“朔风动秋草，边马有归心”，气寒而事伤，此羁旅之怨曲也。<br/><br/>　　凡文集胜篇，不盈十一，篇章秀句，裁可百二。并思合而自逢，非研虑之所课也。或有晦塞为深，虽奥非隐，雕削取巧，虽美非秀矣。故自然会妙，譬卉木之耀英华；润色取美，譬缯帛之染朱绿。朱绿染缯，深而繁鲜；英华曜树，浅而炜烨。隐篇所以照文苑，秀句所以侈翰林，盖以此也。<br/><br/>　　赞曰∶<br/><br/>　　文隐深蔚，馀味曲包。辞生互体，有似变爻。<br/><br/>　　言之秀矣，万虑一交。动心惊耳，逸响笙匏。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-665-8521.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-665-8523.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-665.html" action-type="chapterComment" class="comment"><i></i>文心雕龙章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

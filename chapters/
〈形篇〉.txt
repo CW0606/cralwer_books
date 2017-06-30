@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孙子略解》正文_〈形篇〉_曹操作品 - 维普阅读网</title>
+<meta name="keywords" content="孙子略解,孙子略解原文,孙子略解阅读,〈形篇〉全文,曹操作品" />
+<meta name="description" content="孙子略解原文阅读,〈形篇〉全文在线阅读,曹操作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-348-5157.html";
+var nextpage="novel-read-348-5159.html";
+var indexpage = "novel-chapter-348.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-348.html">孙子略解</a></strong>
+<strong><a href="novel-chapter-348.html">孙子略解目录</a></strong>
+<span>〈形篇〉</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-348-5157.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>〈形篇〉</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=曹操&amp;searchsubmit=yes"  target="_blank">曹操</a><span class="divide">|</span>发布时间：2014-09-05 21:21:21<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>〔曹操曰：军之形也。我动彼应，两敌相察情也。〕<br/>　　孙子曰：<br/>　　昔善者，先为不可胜，以待敌之可胜；不可胜在己，<br/>　　〔曹操曰：守，固备也。〕<br/>　　可胜在敌。〔曹操曰：自修治，以待敌之虚懈也。〕<br/>　　故善者，能为不可胜，不能使敌可胜。故曰：胜可知，<br/>　　〔曹操曰：见成形也。〕<br/>　　而不可为也。<br/>　　〔曹操曰：敌有备故也。〕不可胜，守；<br/>　　〔曹操曰：藏形也。〕可胜，攻也。<br/>　　〔曹操曰：敌攻己，乃可胜。〕守则有余，攻则不足。<br/>　　〔曹操曰：吾所以守者，力不足所以攻者，力有余。〕<br/>　　昔善守者，藏於九地之下，动於九天之上，故能自保全胜也。〔曹操曰：喻其深微。〕<br/>　　见胜，不过众人之所知，非善者也；<br/>　　〔曹操曰：当见未萌。〕<br/>　　战胜，而天下曰善，非善者也。<br/>　　〔曹操曰：争锋者也。〕<br/>　　故举秋毫不为多力，视日月不为明目，闻雷霆不为聪耳。<br/>　　〔曹操曰：易见闻也。〕<br/>　　所谓善者，胜易胜者也。<br/>　　〔曹操曰：原微易胜，攻其可胜，不攻其不可胜也。〕<br/>　　故善者之战，无奇胜，无智名，无勇功。<br/>　　〔曹操曰：敌兵形未成，胜之无赫赫之功也。〕<br/>　　故其胜不殆，<br/>　　不殆者，其所措胜，胜败者也。<br/>　　〔曹操曰：察敌必可败，不差忒也。〕<br/>　　故善者，立於不败之地，而不失敌之败也。<br/>　　是故，胜兵先胜，而後战；败兵先战，而後求胜。<br/>　　〔曹操曰：有谋与无虑也。〕<br/>　　故善者，修道而保法，故能为胜败正。〔曹操曰：善用兵者，先修治为不可胜之道，保法度不失敌之败乱也。〕<br/>　　法：一曰度，二曰量，三曰数，四曰称，五曰胜。<br/>　　〔曹操曰：胜败之政，用兵之法，当以此五事称量，知敌之情。〕<br/>　　地生度，<br/>　　〔曹操曰：因地形势而度之。〕<br/>　　度生量，量生数，<br/>　　〔曹操曰：知其远近广狭，知其人数也。〕<br/>　　数生称，〔曹操曰：称量己与敌孰愈也。〕<br/>　　称生胜。<br/>　　〔曹操曰：称量之故，知其胜负所在也。〕<br/>　　故胜兵如以镒称铢，败兵如以铢称镒。〔曹操曰：轻不能举重也。〕<br/>　　称胜者战民也，如决积水於千仞之隙，形也。〔曹操曰：八尺曰仞。决水千仞，其势疾也。〕</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-348-5157.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-348-5159.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-348.html" action-type="chapterComment" class="comment"><i></i>孙子略解章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

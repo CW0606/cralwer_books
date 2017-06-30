@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《热风》正文_不懂的音译_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="热风,热风原文,热风阅读,不懂的音译全文,鲁迅作品" />
+<meta name="description" content="热风原文阅读,不懂的音译全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-548-7392.html";
+var nextpage="novel-read-548-7394.html";
+var indexpage = "novel-chapter-548.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-548.html">热风</a></strong>
+<strong><a href="novel-chapter-548.html">热风目录</a></strong>
+<span>不懂的音译</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-548-7392.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>不懂的音译</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-04 19:55:25<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　一 <br/><br/>　　凡有一件事，总是永远缠夹不清的，大约莫过于在我们中国了。 <br/><br/>　　翻外国人的姓名用音译，原是一件极正当，极平常的事，倘不是毫无常识的人们，似乎决不至于还会说费话。然而在上海报（我记不清楚什么报了，总之不是《新申报》便是《时报》）上，却又有伏在暗地里掷石子的人来嘲笑了。他说，做新文学家的秘诀，其一是要用些“屠介纳夫”“郭歌里”（２）之类使人不懂的字样的。 <br/><br/>　　凡有旧来音译的名目：靴，狮子，葡萄，萝卜，佛，伊犁等……都毫不为奇的使用，而独独对于几个新译字来作怪；若是明知的，便可笑；倘不，更可怜。 <br/><br/>　　其实是，现在的许多翻译者，比起往古的翻译家来，已经含有加倍的顽固性的了。例如南北朝人译印度的人名：阿难陀，实叉难陀，鸠摩罗什婆（３）……决不肯附会成中国的人名模样，所以我们到了现在，还可以依了他们的译例推出原音来。不料直到光绪末年，在留学生的书报上，说是外国出了一个“柯伯坚”（４），倘使粗粗一看，大约总不免要疑心他是柯府上的老爷柯仲软的令兄的罢，但幸而还有照相在，可知道并不如此，其实是俄国的Ｋｒｏｐｏｔｋｉｎ。那书上又有一个“陶斯道”（５），我已经记不清是Ｄｏｓｔｏｉｅｖｓｋｉ呢，还是Ｔｏｌｓｔｏｉ了。 <br/><br/>　　这“屠介纳夫”和“郭歌里”，虽然古雅赶不上“柯伯坚”，但于外国人的氏姓上定要加一个《百家姓》里所有的字，却几乎成了现在译界的常习，比起六朝和尚（６）来，已可谓很“安本分”的了。然而竟还有人从暗中来掷石子，装鬼脸，难道真所谓“人心不古”么？ <br/><br/>　　我想，现在的翻译家倒大可以学学“古之和尚”，凡有人名地名，什么音便怎么译，不但用不着白费心思去嵌镶，而且还须去改正。即如“柯伯坚”，现在虽然改译“苦鲁巴金” <br/><br/>　　了，但第一音既然是Ｋ不是Ｋｕ，我们便该将“苦”改作“克”，因为Ｋ和Ｋｕ的分别，在中国字音上是办得到的。而中国却是更没有注意到，所以去年Ｋｒｏｐｏｔｋｉｎ死去的消息传来的时候，上海《时报》便用日俄战争时旅顺败将Ｋｕｒｏｐａｔｋｉｎ的照相，把这位无治主义老英雄的面目来顶替了（７）。 <br/><br/>　　十一月四日。 <br/><br/>　　二 <br/><br/>　　自命为“国学家”的对于译音也加以嘲笑，确可以算得一种古今的奇闻；但这不特是示他的昏愚，实在也足以看出他的悲惨。 <br/><br/>　　倘如他的尊意，则怎么办呢？我想，这只有三条计。上策是凡有外国的事物都不谈；中策是凡有外国人都称之为洋鬼子，例如屠介纳夫的《猎人日记》，郭歌里的《巡按使》，都题为“洋鬼子著”；下策是，只好将外国人名改为王羲之唐伯虎黄三太（８）之类，例如进化论（９）是唐伯虎提倡的，相对论（１０）是王羲之发明的，而发见美洲（１１）的则为黄三太。 <br/><br/>　　倘不能，则为自命为国学家所不懂的新的音译语，可是要侵入真的国学的地域里来了。 <br/><br/>　　中国有一部《流沙坠简》（１２），印了将有十年了。要谈国学，那才可以算一种研究国学的书。开首有一篇长序，是王国维（１３）先生做的，要谈国学，他才可以算一个研究国学的人物。而他的序文中有一段说，“案古简所出为地凡三（中略）其三则和阗东北之尼雅城及马咱托拉拔拉滑史德三地也”。 <br/><br/>　　这些译音，并不比“屠介纳夫”之类更古雅，更易懂。然而何以非用不可呢？就因为有三处地方，是这样的称呼；即使上海的国学家怎样冷笑，他们也仍然还是这样的称呼。当假的国学家正在打牌喝酒，真的国学家正在稳坐高斋读古书的时候，沙士比亚（１４）的同乡斯坦因博士却已经在甘肃新疆这些地方的沙碛里，将汉晋简牍掘去了；不但掘去，而且做出书来了。所以真要研究国学，便不能不翻回来；因为真要研究，所以也就不能行我的三策：或绝口不提，或但云“得于华夏”，或改为“获之于春申浦畔”了。 <br/><br/>　　而且不特这一事。此外如真要研究元朝的历史，便不能不懂“屠介纳夫”的国文，因为单用些“鸳鸯”“蝴蝶”这些字样，实在是不够敷衍的。所以中国的国学不发达则已，万一发达起来，则敢请恕我直言，可是断不是洋场上的自命为国学家“所能厕足其间者也”的了。 <br/><br/>　　但我于序文里所谓三处中的“马咱托拉拔拉滑史德”，起初却实在不知道怎样断句，读下去才明白二是“马咱托拉”，三是“拔拉滑史籍”。 <br/><br/>　　所以要清清楚楚的讲国学，也仍然须嵌外国字，须用新式的标点的。 <br/><br/>　　十一月六日。 <br/><br/>　　==========================================================================<br/><br/><br/>　　（１）本篇最初发表于一九二二年十一月四日、六日《晨报副刊》，署名风声。 <br/><br/>　　（２）“屠介纳夫”通译屠格涅夫。参看本卷第１７０页注（５）。“郭歌里”，通译果戈理。 <br/><br/>　　（３）阿难陀印度斛饭王的儿子，释迦牟尼十大弟子之一。实叉难陀，印度高僧，武则天证圣一年（６９５）起在中国长安翻译《华严经》及其他佛经共十九部。鸠摩罗什婆（简称鸠摩罗什），父为印度人，母为龟兹国王妹。公元四○一年自龟兹至长安，后秦姚兴待以国师之礼，译经三百八十余卷。 <br/><br/>　　（４）“柯伯坚”通译克鲁泡特金（T．D．e]PaP_WXY，１８４２。保梗玻保��砉�拚��*义思想家。中国留法学生主办的《新世纪》周刊第八十七号（一九○九年三月六日）刊有他的照片，译名为“柯伯坚”。 <br/><br/>　　（５）“陶斯道”《新世纪》第七十三号（一九○八年十一月十四日）和第七十六号（同年十二月五日）译载丘克朔夫的《我良心上喜欢如此》的文章，评介俄国作家“陶斯道”。从该文内容看，是指托尔斯泰（即文中的Ｔｏｌｓｔｏｉ），并不是陀思妥也夫斯基（即文中的Ｄｏｓｔｏｉｅｖｓｋｉ）。 <br/><br/>　　（６）六朝和尚指道安、鸠摩罗什等著名的佛经翻译者。<br/><br/>　　（７）克鲁泡特金逝世的消息，见于一九二一年二月一日上海《时报》，其中刊有一张照片，下注文字是“近日逝世之俄国社会改革家苦鲁巴金”，而照片却是身着军服的俄国将军库罗巴特金（即文中的Ｋｕｒｏ－ｐａｔｋｉｎ，１８４８—１９２５）。<br/><br/>　　（８）王羲之（３２１—３７９）字逸少；琅邪临沂（今山东临沂）人，东晋文学家、书法家。唐伯虎（１４７０—１５２３），名寅，吴县（今属江苏）人。明代文学家、画家。黄三太，旧小说《彭公案》中的人物。<br/><br/>　　（９）进化论以自然选择为基础的生物进化的理论，十九世纪中叶英国生物学家达尔文（Ｃ．Ｒ．Ｄａｒｗｉｎ，１８０９—１８８２）是这个科学理论的奠基者。 <br/><br/>　　（１０）相对论关于物质运动与时间空间关系的理论，现代物理学的理论基础之一。本世纪初由德国出生的物理学家爱因斯坦（Ａ．Ｅｉｎｓｔｅｉｎ，１８７９—１９５５）等所建立。<br/><br/>　　（１１）美洲是意大利航海家哥伦布（Ｃ．Ｃｏｌｏｍｂｏ，约１４５１—１５０６）于一四九二年发现的。 <br/><br/>　　（１２）《流沙坠简》三卷，罗振玉、王国维合编。一九○○年、一九○七年，英国人斯坦因（Ａ．Ｓｔｅｉｎ）两次在我国新疆、甘肃掘得汉晋时代木简，偷运回国，法国人沙畹（Ｅ．Ｃｈａｖａｎｎｅｓ）曾为这些木简作考释。罗振玉、王国维又把它们分类编排，重加考释，分为《小学术数方技书》、《屯戍丛残》、《简牍遗文》等三卷。<br/><br/>　　（１３）王国维（１８７７—１９２７）字静安，号观堂，浙江海宁人，近代学者。著有《观堂集林》、《宋元戏曲史》、《人间词话》等。<br/><br/>　　（１４）沙士比亚英国戏剧家、诗人。参看本卷第４３页注（９２）。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-548-7392.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-548-7394.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-548.html" action-type="chapterComment" class="comment"><i></i>热风章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

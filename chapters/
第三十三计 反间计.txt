@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《三十六计》正文_第三十三计 反间计_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="三十六计,三十六计原文,三十六计阅读,第三十三计 反间计全文,佚名作品" />
+<meta name="description" content="三十六计原文阅读,第三十三计 反间计全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-232-3067.html";
+var nextpage="novel-read-232-3069.html";
+var indexpage = "novel-chapter-232.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-232.html">三十六计</a></strong>
+<strong><a href="novel-chapter-232.html">三十六计目录</a></strong>
+<span>第三十三计 反间计</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-232-3067.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第三十三计 反间计</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-08-19 22:49:35<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原指使敌人的间谍为我所用，或使敌人获取假情报而有利于我的计策。后指用计谋离间敌人引起内讧。<br/>【原典】<br/>疑中之疑①。比之自内，不自失也②。<br/>【注释】<br/>①疑中之疑：句意为在疑阵中再布疑阵。<br/>②比之自内，不自失也：语出《易经·比》卦。比，卦名，本卦为异卦相叠（坤下坎上）。本卦上卦为坎为为相依相赖，故名“比”。比，亲比，亲密相依。本纷六二。《象》辞：“比之自内，不自失也。”<br/>此计运用此象理，是说在布下一重重的疑阵之后，能使来自敌内部的间谍归顺于我。<br/>【按语】<br/>间者，使敌自相疑忌也；反间者，因敌之间而间之也。如燕昭王薨，惠王自为太子时，不快于乐毅。田单乃纵反间曰：“乐毅与燕王有隙，畏诛，欲连兵王齐，齐人未附。故且缓攻即墨，以待其事。齐人唯恐他将来，即墨残矣。惠王闻之，即使骑劫代将，毅遂奔赵。又如周瑜利用曹操间谍，以间其将；陈平以金纵反间于楚军，间范增，楚王疑而去之。亦疑中之疑之局也。<br/>【故事】<br/>　　反间计，主要有二方面的含义：一是巧妙地利用敌方的间谍为我方所用，一是当敌方某个将领对本方构成威胁时，故意捏造他为我所用的假证据，以离间对方领导层内部之间的良好关系，使敌方高层最终舍弃这个将领，为我方拔去“眼中钉”。孙子说，“知之必在于反间，故反间不可不厚也。”，唐人杜牧在《十一家注孙子》中说，“敌有间来窥我，我必先知之，或厚赂诱之，反为我用；或佯为不觉，示以伪情而纵之，则敌人之间，反为我用也。”。<br/><br/>　　战国时，齐国大将田忌、段朋率大军攻打鲁国。他们听说鲁国的将领是名不见经传的吴起时，就很不以为然。两军对垒，鲁军黯然不动，田忌暗地里派人去鲁营打探实情，只见吴起正在同军中最低等的士兵们席地而坐、分羹同食，田忌听报，大笑说：“将尊则士畏，士畏则战力，吴起竟然如此低贱，怎么能威服将士呢，我毫无顾虑了。”。田忌又派亲信张丑以谈和为名，前去鲁营探听情报。吴起很清楚他们的意图，就故意把精锐的部队藏于后营，不给张丑发觉；而让他特意看到鲁营里到处是老弱病残的士兵，士气萎靡不振；吴起也装作奴颜婢膝的样子，请求与齐军议和。田忌听完张丑的汇报后，更加轻视鲁军，从而放松了应有的警惕性。吴起于深夜里，亲率一队精锐的兵马前去齐营偷袭，乘混乱时放起大火，齐军拼命突围，又被鲁军的伏兵掩杀，齐军大败而归。逃回齐国后，田忌责怪张丑的情报有假，张丑这才知道：是吴起的“反间计”害了他和齐军，田忌万般感叹道：“吴起用兵，有比孙武、穰苴，我不如也。”。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-232-3067.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-232-3069.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-232.html" action-type="chapterComment" class="comment"><i></i>三十六计章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

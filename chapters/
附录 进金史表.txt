@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《金史》正文_附录 进金史表_脱脱作品 - 维普阅读网</title>
+<meta name="keywords" content="金史,金史原文,金史阅读,附录 进金史表全文,脱脱作品" />
+<meta name="description" content="金史原文阅读,附录 进金史表全文在线阅读,脱脱作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1435-27876.html";
+var nextpage="novel-chapter-1435.html";
+var indexpage = "novel-chapter-1435.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1435.html">金史</a></strong>
+<strong><a href="novel-chapter-1435.html">金史目录</a></strong>
+<span>附录 进金史表</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1435-27876.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>附录 进金史表</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=脱脱&amp;searchsubmit=yes"  target="_blank">脱脱</a><span class="divide">|</span>发布时间：2016-08-18 22:21:52<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>开府仪同三司、上柱国、录军国重事、中书右丞相、监修国史、领经筵事、提调太医院广惠司事臣阿鲁图言：<br/><br/>　　窃惟汉高帝入关，任萧何而收秦籍；唐太宗即祚，命魏征以作《隋书》。盖历数归真主之朝，而简编载前代之事，国可灭史不可灭，善吾师恶亦吾师。矧夫典故之源流，章程之沿革，不披往牒，曷蓄前闻。<br/><br/>　　维此金源，起于海裔，以满万之众，横行天下，不十年之久，专制域中。其用兵也如纵燎而乘风，其得国也若置邮而传令。及煟兴于礼乐，乃焕有乎声明。尝循初而汔终，因考功而论德。非武元之英略，不足以开九帝之业，非大定之仁政，不足以固百年之基。天会有吞四海之势，而未有壹四海之规；明昌能成一代之制，而亦能坏一代之法。海陵无道，自取覆败；宣宗轻动，曷济中兴。迨夫浚郊多垒之秋，汝水飞烟之日，天人属望，久有在矣；君臣守义，盖足取焉。<br/><br/>　　我太祖法天启运圣武皇帝，以有名之师，而释奕世之忾；以无敌之仁，而收兆民之心。劲卒捣居庸关，北拊其背，大军出紫荆口，南搤其吭。指顾可成于隽功，操纵莫窥于庙算，惩彼取辽之暴，容其涉河以迁。太宗英文皇帝席卷云、朔，而徇地并、营，囊括赵、代，而传檄齐、鲁，灭夏国以蹴秦、巩，通宋人以逼河、淮。睿宗仁圣景襄皇帝冒万险，出饶风，长驱平陆；战三峰，乘大雪，遂定中原。<br/><br/>　　太阳出而爝火熸，正音作而众乐废。爰及世祖圣德神功文武皇帝，恢弘至化，劳来遗黎。燕地定都，撤武灵之旧址，辽阳建省，抚肃慎之故墟。于时张柔归金史于其先，王鹗辑金事于其后。是以纂修之命，见诸敷遗之谋，延祐申举而未遑，天历推行而弗竟。<br/><br/>　　臣阿鲁图诚惶诚惧，顿首顿首，钦惟皇帝陛下缉熙圣学，绍述先猷，当邦家间暇之时，治经史讨论之务。念彼泰和以来之事迹，涉我圣代初兴之岁年。太祖受帝号于丙寅，先五载而朱凤应，世皇毓圣质於乙亥，蚤一岁而黄河清。若此贞符，昭然成命。第以变故多而旧史阙，耆艾没而新说讹，弗折衷于大朝，恐失真于他日。于是圣心独断，盛事力行，申命臣阿鲁图以中书右丞相、臣别儿怯不花以中书左丞相领三史事，臣脱脱以前中书右丞相仍都总裁，臣御史大夫帖睦尔达世、臣中书平章政事贺惟一、臣翰林学士承旨张起岩、臣翰林学士欧阳玄、臣治书侍御史李好文、臣礼部尚书王沂、臣崇文太监杨宗瑞为总裁官，臣江西湖东道肃政廉访使沙剌班、臣江西湖东道肃政廉访副使王理、臣翰林待制伯颜、臣国子博士费著，臣秘书监著作郎赵时敏，臣太常博士商企翁为史官，集众技以贵成书，儜奏篇以览近监。臣阿鲁图仰承隆委，俯竭微劳。�石室之文，诚乏司马迁之作，献《金镜》之录，愿摅张相国之忠。谨撰述本纪十九卷、志三十九卷、表四卷、列传七十三卷、目录二卷，装潢成一百三十七帙，随表以闻，上尘天览，无任惭愧战汗屏营之至。<br/><br/>　　臣阿鲁图诚惶诚惧，顿首顿首谨言。<br/><br/>　　至正四年十一月日，开府仪同三司、上柱国、录军国重事、中书右丞相、监修国史、领经筵事、提调太医院广惠司事臣阿鲁图上表。<br/><br/>【金史】全书完</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1435-27876.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-1435.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1435.html" action-type="chapterComment" class="comment"><i></i>金史章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

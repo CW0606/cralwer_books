@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《商君书》正文_去强_商鞅作品 - 维普阅读网</title>
+<meta name="keywords" content="商君书,商君书原文,商君书阅读,去强全文,商鞅作品" />
+<meta name="description" content="商君书原文阅读,去强全文在线阅读,商鞅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-50-1256.html";
+var nextpage="novel-read-50-1258.html";
+var indexpage = "novel-chapter-50.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-50.html">商君书</a></strong>
+<strong><a href="novel-chapter-50.html">商君书目录</a></strong>
+<span>去强</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-50-1256.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>去强</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=商鞅&amp;searchsubmit=yes"  target="_blank">商鞅</a><span class="divide">|</span>发布时间：2014-07-26 22:16:34<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　以强去强者，弱；以弱去强者，强。国为善，奸必多。国富而贫治，曰重富，重富者强；国贫而富治，曰重贫，重贫者弱。兵行敌所不敢行，强；事兴敌所羞为，利。主贵多变，国贵少变。国多物，削；主少物，强。千乘之国守千物者削。战事兵用曰强，战乱兵息而国削。<br/><br/>　　农、商、官三者，国之常官也。三官者生虱官者六：曰“岁”，曰“食”；曰“美”，曰“好”；曰“志”，曰“行”。六者有朴，必削。三官之朴三人，六官之朴一人。以治法者，强；以治政者，削。常官治者迁官。治大，国小；治小，国大。强之，重削；弱之，重强。夫以强攻强者亡，以弱攻强者王。国强而不战，毒输于内，礼乐虱官生，必削；国遂战，毒输于敌，国无礼乐虱官，必强。举荣任功曰强，虱官生必削。农少、商多，贵人贫、商贫、农贫，三官贫，必削。<br/><br/>　　国有礼、有乐、有《诗》、有《书》、有善、有修、有孝、有弟、有廉、<br/><br/>　　有辩。国有十者，上无使战，必削至亡；国无十者，上有使战，必兴至王。<br/><br/>　　国以善民治奸民者，必乱至削；国以奸民治善民者，必治至强。国用《诗》、《书》、礼、乐、孝、弟、善、修治者，敌至，必削国；不至，必贫国。不用八者治，敌不敢至；虽至，必却；兴兵而伐，必取；取，必能有之；按兵而不攻，必富。国好力，曰以难攻；国好言，曰以易攻。国以难攻者，起一得十；国以易攻者，出十亡百。<br/><br/>　　重罚轻赏，则上爱民，民死上；重赏轻罚，则上不爱民，民不死上。兴国行罚，民利且畏；行赏，民利且爱。国无力而行知巧者必亡。怯民使以刑，必勇；勇民使以赏，则死。怯民勇，勇民死，国无敌者强，强必王。贫者使以刑，则富；富者使以赏，则贫。治国能令贫者富、富者贫，则国多力，多力者王。王者刑九赏一，强国刑七赏三，削国刑五赏五。<br/><br/>　　国作壹一岁，十岁强；作壹十岁，百岁强，作壹百岁，千岁强。千岁强者王。威，以一取十，以声以实，故能为威者王。能生不能杀，曰自攻之国，必削；能生能杀，曰攻敌之国，必强。故攻官、攻力、攻敌，国用其二、舍其一，必强；令用三者，威，必王。<br/><br/>　　十里断者，国弱；九里断者，国强。以日治者王，以夜治者强，以宿治者削。<br/><br/>　　举民众口数，生者著，死者削。民不逃粟，野无荒草，则国富，国富者强。<br/><br/>　　以刑去刑，国治，以刑致刑，国乱，故曰：行刑重轻，刑去事成，国强；重重而轻轻，刑至事生，国削。刑生力，力生强，强生威，威生惠，惠生于力。举力以成勇战，战以成知谋。<br/><br/>　　粟生而金死，粟死而金生。本物贱，事者众，买者少，农困而奸劝，其兵弱，国必削至亡。金一两生于竟内，粟十二石死于竟外；粟十二石生于竟内，金一两死于竟外。国好生金于竟内，则金粟两死，仓府两虚，国弱；国好生粟于竟内，则金粟两生，仓府两实，国强。<br/><br/>　　强国知十三数：竟内仓、口之数，壮男、壮女之数，老、弱之数，官、士之数，以言说取食者之数，利民之数，马、牛、刍藁之数。欲强国，不知国十三数，地虽利，民虽众，国愈弱至削。<br/><br/>　　国无怨民曰强国。兴兵而伐，则武爵武任，必胜。按兵而农，粟爵粟任，则国富。兵起而胜敌、按兵而国富者王。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-50-1256.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-50-1258.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-50.html" action-type="chapterComment" class="comment"><i></i>商君书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

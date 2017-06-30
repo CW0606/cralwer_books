@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《准风月谈》正文_双十怀古_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="准风月谈,准风月谈原文,准风月谈阅读,双十怀古全文,鲁迅作品" />
+<meta name="description" content="准风月谈原文阅读,双十怀古全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-551-7618.html";
+var nextpage="novel-read-551-7620.html";
+var indexpage = "novel-chapter-551.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-551.html">准风月谈</a></strong>
+<strong><a href="novel-chapter-551.html">准风月谈目录</a></strong>
+<span>双十怀古</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-551-7618.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>双十怀古</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-06 20:58:10<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　——民国二二年看十九年秋史　癖 <br/>　　小引 <br/>　　要做“双十”（２）的循例的文章，首先必须找材料。找法有二，或从脑子里，或从书本中。我用的是后一法。但是，翻完“描写字典”，里面无之；觅遍“文章作法”，其中也没有。幸而“吉人自有天相”，竟在破纸堆里寻出一卷东西来，是中华民国十九年十月三日到十日的上海各种大报小报的拔萃。去今已经整整的三个年头了，剪贴着做什么用的呢，自己已经记不清；莫非就给我今天做材料的么，一定未必是。但是，“废物利用”——既经检出，就抄些目录在这里罢。不过为节省篇幅计，不再注明广告，记事，电报之分，也略去了报纸的名目，因为那些文字，大抵是各报都有的。 <br/>　　看了什么用呢？倒也说不出。倘若一定要我说，那就说是譬如看自己三年前的照相罢。 <br/>　　十月三日 <br/>　　江湾赛马。 <br/>　　中国红十字会筹募湖南辽西各省急振。 <br/>　　中央军克陈留。 <br/>　　辽宁方面筹组副司令部。 <br/>　　礼县土匪屠城。 <br/>　　六岁女孩受孕。 <br/>　　辛博森伤势沉重。 <br/>　　汪精卫到太原。 <br/>　　卢兴邦接洽投诚。 <br/>　　加派师旅入赣剿共。 <br/>　　裁厘展至明年一月。 <br/>　　墨西哥拒侨胞，五十六名返国。 <br/>　　墨索里尼提倡艺术。 <br/>　　谭延闿轶事。 <br/>　　战士社代社员征婚。 <br/>　　十月四日 <br/>　　齐天大舞台始创杰构积极改进《西游记》，准中秋节开幕。 <br/>　　前进的，民族主义的，唯一的，文艺刊物《前锋月刊》创刊号准双十节出版。 <br/>　　空军将再炸邕。 <br/>　　剿匪声中一趣史。 <br/>　　十月五日 <br/>　　蒋主席电国府请大赦政治犯。 <br/>　　程艳秋登台盛况。 <br/>　　卫乐园之保证金。 <br/>　　十月六日 <br/>　　樊迪文讲演小记。 <br/>　　诸君阅至此，请虔颂南无阿弥陀佛……大家错了，中秋是本月六日。 <br/>　　查封赵戴文财产问题。 <br/>　　鄂省党部祝贺克复许汴。 <br/>　　取缔民间妄用党国旗。 <br/>　　十月七日 <br/>　　响应政府之廉洁运动。 <br/><br/>　　津浦全线将通车。 <br/>　　平津党部行将恢复。 <br/>　　法轮殴毙栈伙交涉。 <br/>　　王士珍举殡记。 <br/>　　冯阎部下全解体。 <br/>　　湖北来凤苗放双穗。 <br/>　　冤魂为厉，未婚夫索命。 <br/>　　鬼击人背。 <br/>　　十月八日 <br/>　　闽省战事仍烈。 <br/>　　八路军封锁柳州交通。 <br/>　　安德思考古队自蒙古返北平。 <br/>　　国货时装展览。 <br/>　　哄动南洋之萧信庵案。 <br/>　　学校当注重国文论。 <br/>　　追记郑州飞机劫。 <br/>　　谭宅挽联择尤录。 <br/>　　汪精卫突然失踪。 <br/>　　十月九日 <br/>　　西北军已解体。 <br/>　　外部发表英退庚款换文。 <br/>　　京卫戍部枪决人犯。 <br/>　　辛博森渐有起色。 <br/>　　国货时装展览。 <br/>　　上海空前未有之跳舞游艺大会。 <br/>　　十月十日 <br/>　　举国欢腾庆祝双十。 <br/>　　叛逆削平，全国欢祝国庆，蒋主席昨凯旋参与盛典。津浦路暂仍分段通车。 <br/>　　首都枪决共犯九名。 <br/>　　林埭被匪洗劫。 <br/>　　老陈圩匪祸惨酷。 <br/>　　海盗骚扰丰利。 <br/>　　程艳秋庆祝国庆。 <br/>　　蒋丽霞不忘双十。 <br/>　　南昌市取缔赤足。 <br/>　　伤兵怒斥孙祖基。 <br/>　　今年之双十节，可欣可贺，尤甚从前。 <br/>　　结语 <br/>　　我也说“今年之双十节，可欣可贺，尤甚从前”罢。十月一日。 <br/>　　附记：这一篇没有能够刊出，大约是被谁抽去了的，盖双十盛典，“伤今”固难，“怀古”也不易了。十月十三日。 <br/>　　　　　　　<br/>===============================================================<br/><br/>　　（１）　本篇收入本书前未能在报刊发表。 <br/>　　（２）　“双十”　即双十节。一九一一年十月十日武昌起义后，建立了中华民国，一九一二年九月二十八日临时参议院决定以十月十日为国庆节。蒋介石于一九二七年窃取政权后，仍以“双十”为国庆节。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-551-7618.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-551-7620.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-551.html" action-type="chapterComment" class="comment"><i></i>准风月谈章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

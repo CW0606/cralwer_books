@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《墨子》正文_法仪_墨子作品 - 维普阅读网</title>
+<meta name="keywords" content="墨子,墨子原文,墨子阅读,法仪全文,墨子作品" />
+<meta name="description" content="墨子原文阅读,法仪全文在线阅读,墨子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-32-738.html";
+var nextpage="novel-read-32-740.html";
+var indexpage = "novel-chapter-32.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-32.html">墨子</a></strong>
+<strong><a href="novel-chapter-32.html">墨子目录</a></strong>
+<span>法仪</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-32-738.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>法仪</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=墨子&amp;searchsubmit=yes"  target="_blank">墨子</a><span class="divide">|</span>发布时间：2014-07-20 13:57:37<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/>　　子墨子曰：天下从事者，不可以无法仪。无法仪而其事能成者，无有。虽至士之为将相者，皆有法。虽至百工从事者，亦皆有法。百工为方以矩，为圆以规，直以绳，衡以水，正以县。无巧工不巧工，皆以此五者为法。巧者能中之，不巧者虽不能中，放依以从事，犹逾己。故百工从事，皆有法所度。今大者治天下，其次治大国，而无法所度，此不若百工辩也。<br/><br/>　　然则奚以为治法而可？当皆法其父母，奚若？天下之为父母者众，而仁者寡。若皆法其父母，此法不仁也。法不仁，不可以为法。当皆法其学，奚若？天下之为学者众，而仁者寡，若皆法其学，此法不仁也。法不仁，不可以为法。当皆法其君，奚若？天下之为君者众，而仁者寡，若皆法其君，此法不仁也。法不仁，不可以为法。故父母、学、君三者，莫可以为治法。<br/><br/>　　然则奚以为治法而可？故曰：莫若法天。天之行广而无私，其施厚而不德，其明久而不衰，故圣王法之。既以天为法，动作有为，必度于天。天之所欲则为之，天所不欲则止。然而天何欲何恶者也？天必欲人之相爱相利，而不欲人之相恶相贼也。奚以知天之欲人之相爱相利，而不欲人之相恶相贼也？以其兼而爱之，兼而利之也。奚以知天兼而爱之，兼而利之也？以其兼而有之，兼而食之也。<br/><br/>　　今天下无大小国，皆天之邑也。人无幼长贵贱，皆天之臣也。此以莫不刍牛羊，豢犬猪，洁为酒醴粢盛，以敬事天。此不为兼而有之、兼而食之邪？天苟兼而有食之，夫奚说不欲人之相爱相利也？故曰：爱人利人者，天必福之；恶人贼人者，天必祸之。曰：杀不辜者，得不祥焉。夫奚说人为其相杀而天与祸乎？是以知天欲人相爱相利，而不欲人相恶相贼也。<br/><br/>　　昔之圣王禹汤文武，兼爱天下之百姓，率以尊天事鬼，其利人多，故天福之，使立为天子，天下诸侯皆宾事之。暴王桀纣幽厉，兼恶天下之百姓，率以诟天侮鬼。其贼人多，故天祸之，使遂失其国家，身死为于天下僇，后世子孙毁之，至今不息。故为不善以得祸者，桀纣幽厉是也。爱人利人以得福者，禹汤文武是也。爱人利人以得福者有矣，恶人贼人以得祸者，亦有矣。<br/><br/>译文：<br/>　　墨子说：天底下办事的人，不能没有法则；没有法则而能把事情做好，是从来没有的事。即使士人作了将相，他也必须有法度。即使从事于各种行业的工匠，也都有法度。工匠们用矩划成方形，用圆规划圆形，用绳墨划成直线，用悬锤定好偏正，（用水平器制好平面）。不论是巧匠还是一般工匠，都要以这五者为法则。巧匠能切合五者的标准，一般工匠虽做不到这样水平，但仿效五者去做，还是要胜过自身的能力。所以工匠们制造物件时，都有法则可循。<br/><br/>　　现在大的如治天下，其次如治大国，却没有法则，这是不如工匠们能明<br/><br/>　　辨事理。那么，用什么作为治理国家的法则才行呢？假若以自己的父母为法则何如？天下做父母的很多，但仁爱的少。倘若人人都以自己的父母为法则，这实为效法不仁。效法不仁，这自然是不可以的。假若以自己从学的师长为法何如？天下做师长的很多，但仁爱的少。倘若人人都以自己的师长为法则，这实为效法不仁。效法不仁，这自然是不可以的。假若以自己的国君为法则何如？天下做国君的很多，但仁爱的少。倘若人人都以自己的国君为法则，这实为效法不仁。效法不仁，这自然是不可以的。所以父母、师长和国君三者，都不可以作为治理国家的法则。<br/><br/>　　那么用什么作为治理国家的法则才行呢？最好是以天为法则。天的运行广大无私，它的恩施深厚而不自居，它的光耀永远不衰，所以圣王以它为法则。既然以天为法则，行动作事就必须依天而行。天所希望的就去做，天所不希望的就应停止。那么天希望什么不希望什么呢？天肯定希望人相爱相利，而不希望人相互厌恶和残害。怎么知道天希望人相爱相利，而不希望人相互厌恶和残害呢？这是因为天对人是全爱和全利的缘故。怎么知道天对人是全爱和全利呢？因为人类都为天所有，天全部供给他们吃的。<br/><br/>　　现在天下不论大国小国，都是天的国家。人不论长幼贵贱，都是天的臣民。因此人无不喂牛羊、养猪狗，洁净地准备好酒食祭品，用来诚敬事天。这难道不是全部地拥有和供给人食物？天既然全部地拥有和供给人食物，为何能说天不要人相爱相利呢？所以说：“爱人利人的人，天必定给他降福；相互厌恶和残害人的人，天必定给他降祸。所以说：杀害无辜的人，会得到不祥后果。为何说人若相互残杀，天就降祸于他呢？这是因为知道天希望人相爱相利，而不希望人相互厌恶和残害。”<br/><br/>　　以前的圣王禹、汤、周文王、周武王，对天下百姓全都爱护，带领他们崇敬上天，侍奉鬼神。他们给人带来的利益多，所以天降福给他们，使他们立为天子。天下的诸侯，都恭敬地服事他们。暴虐的君王桀、纣、周幽王、周厉王，对于天下的百姓全部厌恶、憎恨，带领他们咒骂上天，侮辱鬼神。他们残害的人多，所以天降祸给他们，使他们丧失了国家，身死还要受辱于天下。后代子孙责骂他们，至今不休。所以做坏事而得祸的，桀、纣、周幽王、周厉王即是这类；爱人利人而得福的，禹、汤、周文王、周武王即是这类。爱人利人而得福的是有的，厌恶人残害人而得祸的，也是有的！<br/><br/>注释<br/>（1）法仪即法度、准则之意。墨子认为，天子、诸侯治理天下、国家必须以天为法，以天意为归。而所谓天意，实即就是墨家学派所主张的兼爱兼利原则。篇中以古代圣王和暴君为正反两方面的例子，指出“爱人利人”即可得福，“恶人贼人”必然招祸。<br/>（2）县：即“悬”的本字。<br/>（3）放：通“仿”。<br/>（4）辩：通“辨”。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-32-738.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-32-740.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-32.html" action-type="chapterComment" class="comment"><i></i>墨子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

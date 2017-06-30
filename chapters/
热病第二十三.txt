@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《灵枢》正文_热病第二十三_黄帝作品 - 维普阅读网</title>
+<meta name="keywords" content="灵枢,灵枢原文,灵枢阅读,热病第二十三全文,黄帝作品" />
+<meta name="description" content="灵枢原文阅读,热病第二十三全文在线阅读,黄帝作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-268-4681.html";
+var nextpage="novel-read-268-4683.html";
+var indexpage = "novel-chapter-268.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-268.html">灵枢</a></strong>
+<strong><a href="novel-chapter-268.html">灵枢目录</a></strong>
+<span>热病第二十三</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-268-4681.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>热病第二十三</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=黄帝&amp;searchsubmit=yes"  target="_blank">黄帝</a><span class="divide">|</span>发布时间：2014-08-30 21:49:09<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p> 偏枯，身偏不用而痛，言不变，志不乱，病在分腠之间，巨针取之，益其不足，损其有余，乃可复也。痱之为病也，身无痛者，四肢不收，智乱不甚。其言微知，可治；甚则不能言，不可治也。病先起于阳，后入于阴者，先取其阳，后取其阴，浮而取之。热病三日，而气口静、人迎躁者，取之诸阳，五十九刺，以泻其热而出其汗，实其阴以补其不足者。身热甚，阴阳皆静者，勿刺也；其可刺者，急取之，不汗出则泄。所谓勿刺者，有死征也。热病七日八日，脉口动，喘而短者，急刺之，汗且自出，浅刺手大指间。热病七日八日，脉微小，病者溲血，口中干，一日半而死；脉代者，一日死。热病已得汗出，而脉尚躁，喘且复热，勿刺肤，喘甚者死。热病七日八日，脉不躁，躁不散数，后三日中有汗；三日不汗，四日死。未曾汗者，勿腠刺之。热病先肤痛，窒鼻，充面，取之皮，以第一针，五十九；苛轸鼻索皮于肺，不得索之火，火者，心也。热病先身涩，倚而热，烦悗，干唇口嗌，取之皮，以第一针，五十九；肤胀口干，寒汗出，索脉于心，不得索之水，水者，肾也。热病嗌干多饮，善惊，卧不能起，取之肤肉，以第六针，五十九；目眦青，索肉于脾，不得索之木，木者，肝也。热病面青，脑痛，手足躁，取之筋间，以第四针，于四逆；筋躄目浸，索筋于肝，不得索之金，金者，肺也。热病数惊，瘛疭而狂，取之脉，以第四针，急泻有余者。癫疾毛发去，索血于心，不得索之水，水者，肾也。热病身重骨痛，耳聋而好瞑，取之骨，以第四针，五十九，刺骨；病不食，啮齿，耳青，索骨于肾，不得索之土，土者，脾也。热病不知所痛，耳聋，不能自收，口干，阳热甚，阴颇有寒者，热在髓，死不可治。热病头痛，颞颥目瘛脉痛，善衄，厥热病也，取之以第三针，视有余不足。寒热痔。热病体重，肠中热，取之以第四针，于其腧及下诸指间，索气于胃胳，得气也。热病挟脐急痛，胸胁满，取之涌泉与阴陵泉，取以第四针，针嗌里。热病而汗且出，及脉顺可汗者，取之鱼际、太渊、大都、太白，泻之则热去，补之则汗出，汗出太甚，取内踝上横脉以止之。热病已得汗而脉尚躁盛，此阴脉之极也，死；其得汗而脉静者，生。热病者，脉尚盛躁而不得汗者，此阳脉之极也，死；脉盛躁得汗静者，生。热病不可刺者有九：一曰汗不出，大颧发赤，哕者死；二曰泄而腹满甚者死；三曰目不明，热不已者死；四曰老人婴儿，热而腹满者死；五曰汗不出，呕下血者死；六曰舌本烂，热不已者死；七曰咳而衄，汗不出，出不至足者死；八曰髓热者死；九曰热而痉者死。腰折，瘛疭，齿噤齘也。凡此九者，不可刺也。所谓五十九刺者，两手外内侧各三，凡十二痏；五指间各一，凡八痏，足亦如是；头入发一寸傍三分各三，凡六痏；更入发三寸边五，凡十痏；耳前后口下者各一，项中一，凡六痏；巅上一，囟会一，发际一，廉泉一，风池二，天柱二。气满胸中喘息，取足太阴大指之端，去爪甲如薤叶，寒则留之，热则疾之，气下乃止。心疝暴痛，取足太阴、厥阴，尽刺去其血络。喉痹舌卷，口中干，烦心，心痛，臂内廉痛，不可及头，取手小指次指爪甲下，去端如韭叶。目中赤痛，从内眦始，取之阴蹻。风痉身反折，先取足太阳及腘中及血络出血；中有寒，取三里。癃，取之阴蹻及三毛上及血络出血。男子如蛊，女子如怚，身体腰脊如解，不欲饮食，先取涌泉见血，视跗上盛者，尽见血也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-268-4681.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-268-4683.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-268.html" action-type="chapterComment" class="comment"><i></i>灵枢章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

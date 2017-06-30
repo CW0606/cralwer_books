@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《颜氏家训》正文_杂艺篇_颜之推作品 - 维普阅读网</title>
+<meta name="keywords" content="颜氏家训,颜氏家训原文,颜氏家训阅读,杂艺篇全文,颜之推作品" />
+<meta name="description" content="颜氏家训原文阅读,杂艺篇全文在线阅读,颜之推作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-659-8413.html";
+var nextpage="novel-read-659-8415.html";
+var indexpage = "novel-chapter-659.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-659.html">颜氏家训</a></strong>
+<strong><a href="novel-chapter-659.html">颜氏家训目录</a></strong>
+<span>杂艺篇</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-659-8413.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>杂艺篇</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=颜之推&amp;searchsubmit=yes"  target="_blank">颜之推</a><span class="divide">|</span>发布时间：2014-10-19 20:58:06<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　真草书迹，微须留意。江南谚云：“尺牍书疏，千里面目也”承晋宋馀俗，相与事之，故无顿狼狈者。吾幼承门业，加性爱重，所见法书亦多，而玩习功夫颇至，遂不能佳者，良由无分故也。然而此艺不须过精。夫巧者劳而智者忧，常为人所役使，更觉为累。韦仲将遗戒，深有以也。<br/><br/>　　王逸少风流才士，萧散名人，举世唯知其书，翻以能自蔽也。萧子云每叹曰：“吾著《齐书》，勒成一典，文章弘义，自谓可观，唯以笔迹得名，亦异事也。”王褒地胃清华，才学仇敏，后虽入关，亦被礼遇，犹以书工，崎岖碑碣＜间，辛苦笔砚之役，尝悔恨曰：“假使吾不知书，可不至今日邪？”以此观之，慎勿以书自命。虽然，廝猥之人，以能书拔擢者多矣。故“道不同不相为谋”也。<br/><br/>　　梁氏秘阁散逸以来，吾见二王真草多矣，家中尝得十卷，方知陶隐居、阮交州、萧祭酒诸书，莫不得羲之之体，故是书之渊源。萧晚节所变，乃右军年少时法也。<br/><br/>　　晋宋以来，多能书者，故其时俗，递相染尚，所有部帙，楷正可观，不无俗字，非为大损。至梁天监之间，斯风未变。大同之末，讹替滋生，萧子云改易字体，邵陵王颁行伪字，朝野翕然，以为楷式，画虎不成，多所伤败。至为一字，唯见数点，或妄斟酌，逐便转移。尔后坟籍，略不可看。北朝丧乱之馀，书迹鄙陋，加以专辄造字，猥拙甚於江南，乃以“百”“念”为“忧”，“言”“反”为“变”，“不”“用”为“罢”，“追”“来”为“归”，”“更”“生”为“苏”，“先”“人”为“老”，如此非一，遍满经传。唯有姚元标工於楷隶，留心小学，后生师之者众，泊于齐末，秘书缮写，贤於往日多矣。<br/><br/>　　江南闾里间有《画书赋》，乃陶隐居弟子林道士所为。其人未甚识字，轻为轨则，托名贵师，世俗传信，后生颇为所误也。<br/><br/>　　画绘之工，亦为妙矣，自古名士，多或能之。吾家尝有梁元帝手画蝉雀白团扇及马图，亦难及也。武烈太子偏能写真，坐上宾客，随宜点染，即成数人，以问童孺，皆知姓名矣。萧贲、刘孝先、刘灵，并文学已外，复佳此法。玩阅古今，特可宝爱。若官未通显，每被公私使令，亦为狠役。吴县顾士端出身湘东王国待郎，后为镇南府刑狱参军，有子曰庭，西朝中书舍人，父子并有琴、书之艺，尤妙丹青，常被元帝所使，每怀羞恨。彭城刘岳，囊之子也，仕为骠骑府管记、平氏县令，才学快士，而画绝伦。后随武陵王入蜀，下牢之败，遂为陆护军画支江寺壁，与诸工巧杂处。向使三贤都不晓画，直运素业，岂见此耻乎？<br/><br/>　　孤矢之利，以威天下，先王所以现德择贤，亦济身之急务也。江南谓世之常射，以为“兵射”，冠冕儒生，多不习此。别有“博射”，弱弓长箭，施於准的，揖让升降，以行礼焉，防御寇难，了无所益，乱离之后，此术遂亡。河北文士，率晓“兵射”，非直葛洪一箭，已解追兵，三九宴集，常縻荣赐。虽然，要轻禽，截狡兽，不愿汝辈为之。<br/><br/>　　算术亦是六艺要事。自古儒士论天道。定律历者，智学通之。然可以兼明，不可以专业。江南此学殊少，唯范阳祖恒精之，位至南康太守。河北多晚此术。<br/><br/>　　医方之事，取妙极难，不劝汝曾以自命也。微解药性，小小和合，居家得以救急，亦为胜事，皇甫谧、殷仲堪则其人也。<br/><br/>　　《礼》曰：“君子无故不彻琴瑟。”古来名士，多所爱好。洎于梁初，衣冠子孙，不知琴者，号有所阙。大同以末，斯风顿尽。然而此乐音音雅致，有深味哉！今世曲解，虽变于古，犹足以畅神情也。唯不可令有称誉，见役勋贵，处之下坐，以取残杯冷炙之辱。戴安道犹遭之，况尔曹乎！</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-659-8413.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-659-8415.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-659.html" action-type="chapterComment" class="comment"><i></i>颜氏家训章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

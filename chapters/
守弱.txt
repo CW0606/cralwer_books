@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《文子》正文_守弱_文子作品 - 维普阅读网</title>
+<meta name="keywords" content="文子,文子原文,文子阅读,守弱全文,文子作品" />
+<meta name="description" content="文子原文阅读,守弱全文在线阅读,文子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-38-971.html";
+var nextpage="novel-read-38-973.html";
+var indexpage = "novel-chapter-38.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-38.html">文子</a></strong>
+<strong><a href="novel-chapter-38.html">文子目录</a></strong>
+<span>守弱</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-38-971.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>守弱</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=文子&amp;searchsubmit=yes"  target="_blank">文子</a><span class="divide">|</span>发布时间：2014-07-22 20:47:16<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　老子〔文子〕曰：天子公侯以天下一國為家，以萬物為畜，懷天下之大，有萬物之多，即氣實而志驕，大者用兵侵小，小者倨傲凌下，用心奢廣，譬猶飄風暴雨，不可長久。是以，聖人以道鎮之，執一無為，而不損沖氣，見小守柔，退而勿有，法于江海。江海不為，故功名自化；弗強，故能成其王；為天下牝，故能神不死；自愛，故能成其貴。萬乘之勢，以萬物為功名，權任至重，不可自輕，自輕則功名不成。夫道，大以小而成，多以少為主，故聖人以道蒞天下。柔弱微妙者，見小也；儉嗇損缺者，見少也。見小故能成其大，見少故能成其美。天之道：抑高而舉下；損有餘，補不足。江海處地之不足，故天下歸之奉之。聖人卑謙，清靜辭讓者，見下也；虛心無有者，見不足也。見下故能致其高，見不足故能成其賢。矜者不立，奢也不長；強梁者死，滿日者亡，飄風暴雨不終日，小谷不能須臾盈；飄風暴雨，行強梁之氣，故不能久而滅，小谷處強梁之地，故不得不奪。是以，聖人執雌牝，去奢驕，不敢行強梁之氣。執雌牝，故能立其雄牡；不敢奢驕，故能長久。<br/><br/>　　老子〔文子〕曰：天道極即反，盈即損，日月是也。故聖人日損，而沖氣不敢自滿，日進以牝，功德不衰，天道然也。人之情性，皆好高而惡下，好得而惡亡，好利而惡病，好尊而惡卑，好貴而惡賤。眾人為之，故不能成；執之，故不能得。是以，聖人法天，弗為而成，弗執而得，與人同情而異道，故能長久。故三皇五帝有戒之器，命有侑危，其沖即正，其盈即覆。夫物盛則衰，日中則移，月滿則虧，樂終而悲。是故，聰明廣智守以愚，多聞博辯守以儉，武力勇毅守以畏，富貴廣大守以狹，德施天下守以讓。此五者，先王所以守天下也。「服此道者，不欲盈。夫為不盈，是以弊不新成。」<br/><br/>　　老子〔文子〕曰：聖人與陰俱閉，與陽俱開，能至于無樂也，即無不樂也，無不樂即至樂極矣。是內樂外，不以外樂內，故有自樂也，即有自志，貴乎天下。所以然者，因天下而為天下之要也，不在于彼而在于我，不在于人而在于身，身得則萬物備矣。故達于心術之論者，即嗜欲好憎外矣。是故，無所喜，無所怒，無所樂，無所苦，萬物玄同，無非無是。故士有一定之論，女有不易之行。不待勢而尊，不須財而富，不須力而強，不利貨財，不貪世名，不以貴為安，不以賤為危，形神氣志各居其宜。夫形者，生之舍也；氣者，生之元也；神者，生之制也。一失其位，即三者傷矣。故以神為主者，形從而利；以形為主者，神從而害。其生貪饕多欲之人，顛冥乎勢利，誘慕乎名位，幾以過人之知，位高于世，即精神日耗以遠，久淫而不還，形閉中拒，即無由入矣。是以，時有肓忘自失之患。夫精神志氣者，靜而日充以壯，躁而日耗以老；是故，聖人持養其神，和弱其氣，平夷其形，而與道浮沉；如此，則萬物之化無不偶也，百事之變無不應也。<br/><br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-38-971.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-38-973.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-38.html" action-type="chapterComment" class="comment"><i></i>文子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

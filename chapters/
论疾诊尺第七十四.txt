@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《灵枢》正文_论疾诊尺第七十四_黄帝作品 - 维普阅读网</title>
+<meta name="keywords" content="灵枢,灵枢原文,灵枢阅读,论疾诊尺第七十四全文,黄帝作品" />
+<meta name="description" content="灵枢原文阅读,论疾诊尺第七十四全文在线阅读,黄帝作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-268-4733.html";
+var nextpage="novel-read-268-4735.html";
+var indexpage = "novel-chapter-268.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-268.html">灵枢</a></strong>
+<strong><a href="novel-chapter-268.html">灵枢目录</a></strong>
+<span>论疾诊尺第七十四</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-268-4733.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>论疾诊尺第七十四</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=黄帝&amp;searchsubmit=yes"  target="_blank">黄帝</a><span class="divide">|</span>发布时间：2014-08-30 22:34:51<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>黄帝问于岐伯曰：余欲无视色持脉，独调其尺以言其病，从外知内，为之奈何？<br/>　　　 岐伯曰：审其尺之缓急、小大、滑涩，肉之坚脆，而病形定矣。视人之目窠上微痈，如新卧起状，其颈脉动，时咳，按其手足上，窅而不起者，风水肤胀也。尺肤滑，其淖泽者，风也；尺肉弱者，解A2T8，安卧脱肉者，寒热不治；尺肤滑而泽脂者，风也；尺肤涩者，风痹也；尺肤粗如枯鱼之鳞者，水泆饮也；尺肤热甚，脉盛躁者，病温也，其脉盛而滑者，病且出也；尺肤寒，其脉小者，泄、少气；尺肤炬然先热后寒者，寒热也；尺肤先寒，久持之而热者，亦寒热也。肘所独热者，腰以上热；手所独热者，腰以下热；肘前独热者，膺前热；肘后独热者，肩背热；臂中独热者，腰腹热；肘后粗以下三四寸热者，肠中有虫；掌中热者，腹中热；掌中寒者，腹中寒；鱼上白肉有青血脉者，胃中有寒；尺炬然热，人迎大者，当夺血；尺坚大，脉小甚，少气，悗有加，立死。目赤色者病在心，白在肺，青在肝，黄在脾，黑在肾。黄色不可名者，病在胸中。诊目痛，赤脉从上下者，太阳病；从下上者，阳明病；从外走内者，少阳病。诊寒热，赤脉上下至瞳子，见一脉，一岁死，见一脉半，一岁半死，见二脉，二岁死，见二脉半，二岁半死，见三脉，三岁死。诊龋齿痛，按其阳之来，有过者独热，在左左热，在右右热，在上上热，在下下热。诊血脉者，多赤多热，多青多痛，多黑为久痹，多赤、多黑、多青皆见者，寒热身痛。而色微黄，齿垢黄，爪甲上黄，黄疸也。安卧，小便黄赤，脉小而涩者，不嗜食。人病，其寸口之脉与人迎之脉小大等，及其浮沉等者，病难已也。女子手少阴脉动甚者，妊子。婴儿病，其头毛皆逆上者，必死。耳间青脉起者，掣痛。大便赤瓣，飧泄，脉小者，手足寒，难已；飧泄，脉小，手足温，泄易已。四时之变，寒暑之胜，重阴必阳，重阳必阴。故阴主寒，阳主热。故寒甚则热，热甚则寒。故曰寒生热，热生寒。此阴阳之变也。故曰：冬伤于寒，春生瘅热；春伤于风，夏生后泄肠澼；夏伤于暑，秋生痎疟；秋伤于湿，冬生咳嗽。是谓四时之序也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-268-4733.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-268-4735.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-268.html" action-type="chapterComment" class="comment"><i></i>灵枢章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

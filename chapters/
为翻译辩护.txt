@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《准风月谈》正文_为翻译辩护_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="准风月谈,准风月谈原文,准风月谈阅读,为翻译辩护全文,鲁迅作品" />
+<meta name="description" content="准风月谈原文阅读,为翻译辩护全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-551-7597.html";
+var nextpage="novel-read-551-7599.html";
+var indexpage = "novel-chapter-551.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-551.html">准风月谈</a></strong>
+<strong><a href="novel-chapter-551.html">准风月谈目录</a></strong>
+<span>为翻译辩护</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-551-7597.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>为翻译辩护</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-06 20:41:14<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>洛文 <br/>　　今年是围剿翻译的年头。 <br/>　　或曰“硬译”，或曰“乱译”，或曰“听说现在有许多翻译家……翻开第一行就译，对于原作的理解，更无从谈起”，所以令人看得“不知所云”（２）。 <br/>　　这种现象，在翻译界确是不少的，那病根就在“抢先”。中国人原是喜欢“抢先”的人民，上落电车，买火车票，寄挂号信，都愿意是一到便是第一个。翻译者当然也逃不出这例子的。而书店和读者，实在也没有容纳同一原本的两种译本的雅量和物力，只要已有一种译稿，别一译本就没有书店肯接收出版了，据说是已经有了，怕再没有人要买。举一个例在这里：现在已经成了古典的达尔文（３）的《物种由来》，日本有两种翻译本，先出的一种颇多错误，后出的一本是好的。中国只有一种马君武（４）博士的翻译，而他所根据的却是日本的坏译本，实有另译的必要。然而那里还会有书店肯出版呢？除非译者同时是富翁，他来自己印。不过如果是富翁，他就去打算盘，再也不来弄什么翻译了。 <br/>　　还有一层，是中国的流行，实在也过去得太快，一种学问或文艺介绍进中国来，多则一年，少则半年，大抵就烟消火灭。靠翻译为生的翻译家，如果精心作意，推敲起来，则到他脱稿时，社会上早已无人过问。中国大嚷过托尔斯泰，屠格纳夫，后来又大嚷过辛克莱（５），但他们的选集却一部也没有。去年虽然还有以郭沫若（６）先生的盛名，幸而出版的《战争与和平》，但恐怕仍不足以挽回读书和出版界的惰气，势必至于读者也厌倦，译者也厌倦，出版者也厌倦，归根结蒂是不会完结的。 <br/>　　翻译的不行，大半的责任固然该在翻译家，但读书界和出版界，尤其是批评家，也应该分负若干的责任。要救治这颓运，必须有正确的批评，指出坏的，奖励好的，倘没有，则较好的也可以。然而这怎么能呢；指摘坏翻译，对于无拳无勇的译者是不要紧的，倘若触犯了别有来历的人，他就会给你带上一顶红帽子，简直要你的性命。这现象，就使批评家也不得不含胡了。 <br/>　　此外，现在最普通的对于翻译的不满，是说看了几十行也还是不能懂。但这是应该加以区别的。倘是康德（７）的《纯粹理性批判》那样的书，则即使德国人来看原文，他如果并非一个专家，也还是一时不能看懂。自然，“翻开第一行就译”的译者，是太不负责任了，然而漫无区别，要无论什么译本都翻开第一行就懂的读者，却也未免太不负责任了。八月十四日。 <br/>　<br/>===============================================================<br/>　　　　　　 <br/>　　（１）　本篇最初发表于一九三三年八月二十日《申报·自由谈》。<br/>　　（２）　见一九三三年七月三十一日《申报·自由谈》载林翼之《“翻译”与“编述”》，文中说：“许多在那儿干硬译乱译工作的人，如果改行来做改头换面的编述工作，是否胜任得了？……听说现在有许多翻译家，连把原作从头到尾瞧一遍的工夫也没有，翻开第一行就译，对于原作的理解，更无从谈起。”又同年八月十三日《自由谈》载有大圣《关于翻译的话》，又中说：“目前我们的出版界的大部分的译品太糟得令人不敢领教了，无论是那一类译品，往往看了三四页，还是不知所云。” <br/>　　（３）　达尔文（Ｃ．Ｒ．Ｄａｒｗｉｎ，１８０９—１８８２）　英国生物学家，进化论的奠基人。他的《物种起源》（一译《物种由来》）一书，于一八五九年出版，是奠定生物进化理论基础的重要著作。<br/>　　（４）　马君武（１８８２—１９３９）　名和，广西桂林人。初留学日本，参加同盟会，后去德国，获柏林大学工学博士学位。曾任孙中山临时政府实业部次长及上海中国公学、广西大学校长等职。他翻译的达尔文的《物种由来》，译名《物种原始》，一九二○年中华书局出版。<br/>　　（５）　托尔斯泰（M．N．OGPQRGS，１*福玻浮�保梗保埃�《砉�骷遥�有长篇小说《战争与和平》、《安娜·卡列尼娜》、《复活》等。屠格纳夫（T．U．ＴVHWXXY，１８１８—１８８３），通译屠格涅夫，俄国作家，著有长篇小说《罗亭》、《父与子》等。辛克莱（Ｕ．Ｓｉｎｃｌａｉｒ，１８７８—１９６８），美国作家，著有长篇小说《屠场》、《石炭王》等。<br/>　　（６）　郭沫若（１８９２—１９７８）　四川乐山人。创造社主要成员，文学家、历史学家和社会活动家。著有诗集《女神》、历史剧《屈原》、历史论文集《奴隶制时代》等。他译的托尔斯泰的《战争与和平》，于一九三一年至一九三三年间由上海文艺书局出版，共三册（未完）。<br/>　　（７）　康德（Ｉ．Ｋａｎｔ，１７２４—１８０４）　德国哲学家。他的《纯粹理性批判》一书，出版于一七八一年。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-551-7597.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-551-7599.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-551.html" action-type="chapterComment" class="comment"><i></i>准风月谈章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

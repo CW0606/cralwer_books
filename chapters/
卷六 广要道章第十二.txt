@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孝经注疏》正文_卷六 广要道章第十二_注 唐·李隆基，疏 宋·邢昺作品 - 维普阅读网</title>
+<meta name="keywords" content="孝经注疏,孝经注疏原文,孝经注疏阅读,卷六 广要道章第十二全文,注 唐·李隆基，疏 宋·邢昺作品" />
+<meta name="description" content="孝经注疏原文阅读,卷六 广要道章第十二全文在线阅读,注 唐·李隆基，疏 宋·邢昺作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1425-26380.html";
+var nextpage="novel-read-1425-26382.html";
+var indexpage = "novel-chapter-1425.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1425.html">孝经注疏</a></strong>
+<strong><a href="novel-chapter-1425.html">孝经注疏目录</a></strong>
+<span>卷六 广要道章第十二</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1425-26380.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷六 广要道章第十二</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=注 唐·李隆基，疏 宋·邢昺&amp;searchsubmit=yes"  target="_blank">注 唐·李隆基，疏 宋·邢昺</a><span class="divide">|</span>发布时间：2016-07-22 22:48:17<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p> [疏]正义曰：前章明不孝之恶，罪之大者，及要君、非圣人，此乃礼教不容。广宣要道以教化之，则能变而为善也。首章略云至德、要道之事，而未详悉，所以於此申而演之，皆云广也。故以名章，次《五刑》之后。《要道》先於“至德”者，谓以要道施化，化行而后德彰；亦明道德相成，所以互为先后也。<br/><br/>　<br/><br/>　　子曰：“教民亲爱，莫善於孝。教民礼顺，莫善於悌。言教人亲爱礼顺，无加於孝悌也。移风易俗，莫善於乐。风俗移易，先入乐声。变随人心，正由君德。正之与变，因乐而彰，故曰莫善於乐。安上治民，莫善於礼。礼所以正君臣、父子之别，明男女、长幼之序，故可以安上化下也。<br/><br/>　　[疏]子曰至於礼。<br/><br/>　　○正义曰：此夫子述广要之义。言君欲教民亲於君而爱之者，莫善於身自行孝也。君能行孝，则民效之，皆亲爱其君。欲教民礼於长而顺之者，莫善於身自行悌也。人君行悌，则人效之，皆以礼顺从其长也。欲移易风俗之弊败者，莫善於听乐而正之；欲身安於上，民治於下者，莫善於行礼以帅之。<br/>　　○注言教至悌也。<br/>　　○正义曰：言欲民亲爱於君，礼顺於长者，莫善於身自行孝悌之善也。<br/>　　○注风俗至於乐。<br/>　　○正义曰：云“风俗移易，先入乐声”者，子夏《诗序》云：“风，风也，教也。风以动之，教以化之。”韦昭曰：“人之性系於大人，大人风声，故谓之风。随其越舍之情欲，故谓之俗。”《诗序》又曰：“至于王道衰，礼义废，政教失，国异政，家殊俗，而《变风》、《变雅》作矣。”是“入乐声”之义也。云“变随人心，正由君德”者，《诗序》又曰：“国史明乎得失之迹，伤人伦之废，哀刑政之苛，吟咏情性，以风其上。故《变风》发乎情，止乎礼义。发乎情，民之性也。止乎礼义，先王之泽也。”以斯言之，则知乐者本於情性，声者因乎政教，政教失则人情坏，人情坏则乐声移：是变随人心也。国史明之，遂吟以风上也。受其风上而行，其失乃行礼义以正之，教化以美之。上政既和，人情自治，是正由君德也。云“正之与变，因乐而彰，故曰莫善於乐”者，《诗序》又曰：“治世之音安以乐，其政和。乱世之音怨以怒，其政乖。亡国之音哀以思，其民困。”又《尚书·益稷篇》：舜曰“予欲闻六律、五声、八音，在治忽。”孔安国云：“在，察。天下理治及忽怠者，皆是因乐而彰也。”案《礼记》云：“大乐与天地同和。”则自生人以来，皆有乐性也。《世本》曰：“伏羲造琴瑟。”则其乐器渐於伏羲也。史籍皆言黄帝乐曰《云门》、颛顼曰《六英》、帝喾曰《五茎》、尧曰《咸池》、舜曰《大韶》、禹曰《大夏》、汤曰《大濩》、武曰《大武》，於乐之声节，起自黄帝也。<br/>　　○注礼所至下也。正义曰：云“礼所以正君臣、父子之别，明男女、长幼之序”者，此依魏注也。《礼》云：“非礼无以辨君臣、上下、长幼之位，非礼无以辨男女、父子、兄弟之亲”是也。云“故可以安上化下也”者，释“安上治民”也。制百口：“礼殊事而合敬，乐异人而同爱。敬爱之极，是谓要道。神而明之，是谓至德。故必由斯人以弘斯，教而后礼乐兴焉，政令行焉。以盛德之训传於乐声，则感人深而风俗移易；以盛德之化措诸礼容，则悦者众而名教著明。蕴乎其乐，章乎其礼，故相待而成矣。然则《韶》乐存於齐，而民不为之易；《周礼》备於鲁，而君不获其安：亦政教失其极耳，夫岂礼乐之咎乎？”<br/>　<br/><br/>　　礼者，敬而已矣。敬者，礼之本也。故敬其父则子悦，敬其兄则弟悦，敬其君则臣悦，敬一人而千万人悦：居上敬下，尽得欢心，故曰悦也。所敬者寡而悦者众。此之谓要道也。”<br/><br/>　　[疏]礼者至道也。<br/><br/>　　○正义曰：此承上“莫善於礼”也。言“礼者敬而已矣”，谓礼主於敬也。入明敬功至广，是要道也。其要正以谓天子敬人之父，则其子皆悦；敬人之兄，则其弟皆悦；敬人之君，则其臣皆悦：此皆敬父兄及君一人，则其子弟及臣千万人皆悦，故其所敬者寡而悦者众。即前章所言“先王有至德要道”者，皆此义之谓也。<br/>　　○注敬者，礼之本也。<br/>　　○正义曰：此依郑注也。案《曲礼》曰“毋不敬”是也。<br/>　　○注居上至悦也。<br/>　　○正义曰：云“居上敬下”者，案《尚书·五子之》歌云“为人上者，奈何不敬？”谓居上位，须敬其下。云“尽得欢心，故曰悦也”者，言得欢心，则无所不悦也。案《孝治章》云：“故得万国百姓及人之欢心”是也。旧注云“一人，谓父、兄、君。千万人，谓子、弟、臣也”者，此依孔传也，一人指受敬之人，则知谓父、兄、君也。千万人指其喜悦者，则知谓子、弟、臣也。夫子、弟及臣名，何啻千万？言千万人者，举其大数也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1425-26380.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1425-26382.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1425.html" action-type="chapterComment" class="comment"><i></i>孝经注疏章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

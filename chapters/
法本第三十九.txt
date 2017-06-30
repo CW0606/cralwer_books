@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《老子河上公注》正文_法本第三十九_ 河上公作品 - 维普阅读网</title>
+<meta name="keywords" content="老子河上公注,老子河上公注原文,老子河上公注阅读,法本第三十九全文, 河上公作品" />
+<meta name="description" content="老子河上公注原文阅读,法本第三十九全文在线阅读, 河上公作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-236-3517.html";
+var nextpage="novel-read-236-3519.html";
+var indexpage = "novel-chapter-236.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-236.html">老子河上公注</a></strong>
+<strong><a href="novel-chapter-236.html">老子河上公注目录</a></strong>
+<span>法本第三十九</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-236-3517.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>法本第三十九</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt= 河上公&amp;searchsubmit=yes"  target="_blank"> 河上公</a><span class="divide">|</span>发布时间：2014-08-21 21:30:34<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>昔之得一者。――昔，往也。一无为道之子也。<br/><br/>　　天得一以清地得一以宁。――言天得一故能垂象清明，地得一故能安静为动揺。<br/><br/>　　神得一以灵。――言神得一故能变化无形。<br/><br/>　　谷得一以盈。――言谷得一故能盈满而不絶也。<br/><br/>　　万物得一以生。――言万物皆须道以生成也。<br/><br/>　　侯王得一以天下为正。――言侯王得一故能为天下平正。<br/><br/>　　其致之。――致诫也，谓下五事也。<br/><br/>　　天无以清将恐裂。――言天当有阴阳施张昼夜更用不可但欲清明无已时将恐分裂不为天。<br/><br/>　　地无以宁将恐发。――言地当有高下刚柔气节五行不可但欲安静无已时将恐发泄不为地。<br/><br/>　　神无以灵将恐歇。――言神当有王相囚死休废不可但欲灵无已时将恐虚歇不为神也。<br/><br/>　　谷无以将恐竭。――言谷当有盈缩虚实不可但欲盈满无已时将恐枯竭不为谷。<br/><br/>　　万物无以生将恐灭。――言万物当随时生死不可但欲生无已时将恐灭亡不为物也。<br/><br/>　　侯王无以贵高将恐蹶。――言侯王当屈己以下人汲汲求贤不可但欲高于人将恐颠蹶失其位也。<br/><br/>　　故贵以贱为本。――言必欲尊贵当以薄贱为本若禹稷躬稼舜陶河滨周公下白屋也。<br/><br/>　　高必以下为基。――言必欲尊贵当以下为本基犹筑墙造功因卑成高下不坚固后必倾危。<br/><br/>　　是以侯王自谓孤寡不毂。――孤寡谕孤独不毂谕不能如车毂为众辐所凑。<br/><br/>　　此非以贱为本耶。――言侯王至尊贵能以孤寡自称此非以贱为本乎。以晓人。<br/><br/>　　非乎。――嗟叹之辞。<br/><br/>　　故致数车无车。――致就也。言人就车数之为辐为轮为毂为衡为轝无有名为车者故成为车以谕侯王不以尊号自名故能成其贵。<br/><br/>　　不欲琭琭如玉。落落如石。――琭琭谕少。落落谕多。玉少故见贵，石多故见贱。言不欲如玉为人所贵，如石为人所贱，当处其中也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-236-3517.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-236-3519.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-236.html" action-type="chapterComment" class="comment"><i></i>老子河上公注章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

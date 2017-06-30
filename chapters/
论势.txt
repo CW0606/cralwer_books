@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孔丛子》正文_论势_孔鲋作品 - 维普阅读网</title>
+<meta name="keywords" content="孔丛子,孔丛子原文,孔丛子阅读,论势全文,孔鲋作品" />
+<meta name="description" content="孔丛子原文阅读,论势全文在线阅读,孔鲋作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-217-2406.html";
+var nextpage="novel-read-217-2408.html";
+var indexpage = "novel-chapter-217.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-217.html">孔丛子</a></strong>
+<strong><a href="novel-chapter-217.html">孔丛子目录</a></strong>
+<span>论势</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-217-2406.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>论势</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=孔鲋&amp;searchsubmit=yes"  target="_blank">孔鲋</a><span class="divide">|</span>发布时间：2014-08-12 20:27:07<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>魏王问相国曰、今秦负强以无道陵天下、天下莫不患、寡人欲割国之半以亲诸侯、求从事于秦、可乎、子顺对曰、以臣观之．殆无益也．今天下诸侯畏秦之日久矣．数被其毒．无欲复之之志心无所计委国于游说之士游说之士挟强秦以为资卖其国以收利□手服从．曾不能制．如君之谋．未获其利而祗为名．适足以速秦之首诛．则无以得之．不如守常以须其变也．王曰秦其遂有天下乎．对曰必然焉．虽然．取不以道．得不以道．自古以来．未有能终之者．五国西诛秦．子顺会之秦．未入境而还．诸侯留兵于成皋．子顺谓市丘子曰此师楚为之主．今兵罢而不散．殆有异意．君其备之．市丘子曰先生幸而教之、愿以国寄先生、子顺许诺、遂见楚王、曰王约五国而西伐秦．事既不集．又失师于市丘．谤君者或以君欲攻市丘以偿兵费．天下之士且以是轻君而重秦．又且不义君之为矣．王可不卜交乎．楚王曰奈何．子顺曰王出令．使五国勿攻市丘．五国重王．则听王之令矣．不重王．则且反王之令而攻市丘．以此卜五国交王之轻重．必明矣．楚王敬诺而五国散．<br/>赵闲魏将以求亲于秦、子顺谓赵王曰、赵悼襄王此君之下吏计过也．比目之鱼所以不见得于人者以偶视而俱走也．今秦有兼吞天下之志．日夜伺间．不忘于侧息也．赵魏与之邻接而强弱不敌．秦所以不敢图并赵魏者．徒以二国并目周旋者也．今无故自离以资强秦．天下拙谋．无过此者故臣曰君之下吏计过也．夫连鸡不能上捷．亦犹二国构难不能自免于秦也．愿王熟虑之．赵王曰敬受教．<br/><br/>韩与魏有隙、子顺谓韩王曰、昭厘侯、一世之明君也．韩宣惠王乃昭厘侯之子申不害、一世之贤相也．韩与魏敌侔之国．而厘侯执圭见梁君者．非好卑而恶尊．虑过而计失也与严敌为邻．而动有灭亡之变．独劲不能支二难．故降心以相从．屈巳以求存也．申不害虑事而言．忠臣也．昭厘侯听而行之．明君也今韩弱于始之韩．魏弱于始之魏．秦强于始之秦．而背先人之旧好．以区区之众．居二敌之间．非良策也齐楚远而难恃．秦魏呼吸而至．舍近而求远．是以虚名自累而不免近敌之困者也．为王计者莫如除小忿全大好也．吴越之人．同舟济江．中流遇风波．其相救如左右手者．所患同也．今不恤所同之患．是不如吴越之舟人也．韩王曰善．<br/><br/>秦兵攻赵、魏大夫以为于魏使、子顺曰何谓、曰胜赵则吾因而服焉、不胜赵则可乘弊而击之、子顺曰不然．秦自孝公以来．战未尝屈今皆良将．何弊之乘．大夫曰纵其胜赵、于我何损、邻之不修、国之福也、子顺曰秦．贪暴之国也．胜赵必复他求．吾恐于时受其师也．先人有言．燕雀处屋．子母相哺煦煦然其相乐也．自以为安矣．灶突炎上．栋宇将焚．燕雀颜不变．不知祸之及巳也．今子不悟赵破患将及巳．可以人而同于燕雀乎．<br/><br/>齐攻赵、围廪丘、赵使孔青帅五万击之、克齐军、获尸三万、赵王诏勿归其尸、将以困之、子顺聘赵、问王曰不归尸．其困何也．曰其父兄子弟悲苦无已．废其产也．子顺曰非所以困之也．死一也．归尸与不悲苦胡异焉．以臣愚计．贫齐之术．乃宜归尸．王曰何谓对曰使其家远来迎尸．不得事农．一费也．归所葬．使其送死终事．二费也．二年之中．丧卒三万．三费也．欲无困贫．不能得巳王曰善．既而齐大夫闻其子顺之谋．曰君子之谋其利溥哉．子顺相魏凡九月、陈大计辄不用、乃喟然叹曰、不见用、是吾言之不当也．言不当于主．而居人之官食人之禄．是尸利也．尸利素餐．吾罪深矣．退而以病致事．魏王遣使入其馆谢．曰寡人昧于政事．不显明是非．以启罪于先生．今知改矣．愿先生为百姓故．幸起而教之．辞曰臣有犬马之疾．不任国事．茍得从四民之列．子弟供魏国之征．乃君惠也．敢辱君命．以速刑书．人谓子顺曰、王不用子．子其行乎．答曰吾将行如之山东．则山东之国将并于秦．秦为不义．义所不入．遂寝于家．<br/><br/>秦急攻魏王恐、或谓子顺曰如之何、答曰吾私有计．然岂能贤于执政．故无言焉．魏王闻之．驾如孔氏亲问焉．曰国亡矣．如之何．对曰夫弃之不如用之之易也．死之不如弃之之易也．人能弃之弗能用也．能死之不能弃也．今王亡地数百里亡城数十而患不解．是王弃之非用之也．秦之强．天下无敌．魏之弱甚矣．而王是以质秦．景闵王为太子时尝质于秦此王能使不能弃之也．是重过也．若能用臣之计．则亏地不足伤国．卑体不足苦身．患除怨报矣．今秦四境之内．执政以下．固口与嫪氏乎．与吕氏乎．门闾之下．廊庙之上．犹皆如是．今王诚能割地赂秦以为嫪毒功．卑身尊秦以固嫪毒．王是以国赞嫪毒也．则嫪毒胜矣．于是太后之德王也．深如骨肉．王之交最为天下之主矣．孰不弃吕氏而从嫪毒．天下皆然．则王怨必报矣．按此策甚疏必非子顺语 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-217-2406.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-217-2408.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-217.html" action-type="chapterComment" class="comment"><i></i>孔丛子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

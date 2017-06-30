@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《商君书》正文_境内_商鞅作品 - 维普阅读网</title>
+<meta name="keywords" content="商君书,商君书原文,商君书阅读,境内全文,商鞅作品" />
+<meta name="description" content="商君书原文阅读,境内全文在线阅读,商鞅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-50-1271.html";
+var nextpage="novel-read-50-1273.html";
+var indexpage = "novel-chapter-50.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-50.html">商君书</a></strong>
+<strong><a href="novel-chapter-50.html">商君书目录</a></strong>
+<span>境内</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-50-1271.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>境内</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=商鞅&amp;searchsubmit=yes"  target="_blank">商鞅</a><span class="divide">|</span>发布时间：2014-07-26 22:20:33<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　四境之内，丈夫女子皆有名于上，生者著，死者削。<br/><br/>　　其有爵者乞无爵者以为庶子，级乞一人。其无役事也，其庶子役其大夫月六日；其役事也，随而养之军。<br/><br/>　　爵自一级已下至小夫，命曰校、徒、操，出公；爵自二级已上至不更，命曰卒。其战也，五人来簿为伍，一人羽而轻其四人，能人得一首则复。夫劳爵，其县过三日有不致士大夫劳爵，能。五人一屯长，百人一将。其战，百将、屯长不得，斩首；得三十三首以上，盈论，百将、屯长赐爵一级。<br/><br/>　　五百主，短兵五十人；二五百主，将之主，短兵百。千石之令，短兵百人；八百之令，短兵八十人；七百之令，短兵七十人；六百之令，短兵六十人。国封尉，短兵千人。将，短兵四千人。战及死吏，而轻短兵，能一首则优。能攻城围邑斩首八千已上，则盈论；野战斩首二千，则盈论；吏自操及校以上大将尽赏。行间之吏也，故爵公士也，就为上造也；故爵上造，就为簪袅；就为不更；故爵为大夫。爵吏而为县尉，则赐虏六，加五千六百。爵大夫而为国治，就为大夫；故爵大夫，就为公大夫；就为公乘；就为五大夫，则税邑三百家。故爵五大夫；皆有赐邑三百家，有赐税三百家。爵五大夫，有税邑六百家者，受客。大将、御、参皆赐爵三级。故客卿相，论盈，就正卿。就为大庶长；故大庶长，就为左更；故四更也，就为大良造。<br/><br/>　　以战故，暴首三，乃校，三日，将军以不疑致士大夫劳爵。其县四尉，訾由丞尉。<br/><br/>　　能得爵首一者，赏爵一级，益田一顷，益宅九亩，一除庶子一人，乃得人兵官之吏。<br/><br/>　　其狱法，高爵訾下爵级。高爵能，无给有爵人隶仆。爵自二级以上，有刑罪则贬。爵自一级以下，有刑罪则已。<br/><br/>　　小夫死，以上至大夫，其官级一等，其墓树级一树。<br/><br/>　　其攻城围邑也，国司空訾其城之广厚之数。国尉分地，以徒、校分积尺而攻之，为期，曰：“先已者当为最启，后已者訾为最殿。再訾则废。”内通则积薪，积薪则燔柱。陷队之士，面十八人。陷队之士，知疾斗，不得，斩首；队五人，则陷队之士，人赐爵一级；死，则一人后；不能死之，千人环，规谏，黥劓于城下。国尉分地，以中卒随之。将军为木壹，与国正监与王御史参望之。其先入者，举为最启；其后入者，举为最殿。其陷队也，尽其几者；几者不足，乃以欲级益之。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-50-1271.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-50-1273.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-50.html" action-type="chapterComment" class="comment"><i></i>商君书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

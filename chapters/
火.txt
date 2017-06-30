@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《南腔北调集》正文_火_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="南腔北调集,南腔北调集原文,南腔北调集阅读,火全文,鲁迅作品" />
+<meta name="description" content="南腔北调集原文阅读,火全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-543-7085.html";
+var nextpage="novel-read-543-7087.html";
+var indexpage = "novel-chapter-543.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-543.html">南腔北调集</a></strong>
+<strong><a href="novel-chapter-543.html">南腔北调集目录</a></strong>
+<span>火</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-543-7085.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>火</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-01 20:25:32<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>普洛美修斯偷火给人类，总算是犯了天条，贬入地狱。但是，钻木取火的燧人氏却似乎没有犯窃盗罪，没有破坏神圣的私有财产——那时候，树木还是无主的公物。然而燧人氏（２）也被忘却了，到如今只见中国人供火神菩萨（３），不见供燧人氏的。 <br/><br/>　　火神菩萨只管放火，不管点灯。凡是火着就有他的份。因此，大家把他供养起来，希望他少作恶。然而如果他不作恶，他还受得着供养么，你想？ <br/><br/>　　点灯太平凡了。从古至今，没有听到过点灯出名的名人，虽然人类从燧人氏那里学会了点火已经有五六千年的时间。放火就不然。秦始皇放了一把火（４）——烧了书没有烧人；项羽入关又放了一把火（５）——烧的是阿房宫不是民房（？——待考）。……罗马的一个什么皇帝却放火烧百姓（６）了；中世纪正教的僧侣就会把异教徒当柴火烧，间或还灌上油。这些都是一世之雄。现代的希特拉就是活证人。（７）如何能不供养起来。何况现今是进化时代，火神菩萨也代代跨灶（８）的。 <br/><br/>　　譬如说罢，没有电灯的地方，小百姓不顾什么国货年，人人都要买点洋货的煤油，晚上就点起来：那么幽黯的黄澄澄的光线映在纸窗上，多不大方！不准，不准这么点灯！你们如果要光明的话，非得禁止这样“浪费”煤油不可。煤油应当扛到田地里去，灌进喷筒，呼啦呼啦的喷起来……一场大火，几十里路的延烧过去，稻禾，树木，房舍——尤其是草棚——一会儿都变成飞灰了。还不够，就有燃烧弹，硫磺弹，从飞机上面扔下来，像上海一二八的大火似的，够烧几天几晚。那才是伟大的光明呵。 <br/><br/>　　火神菩萨的威风是这样的。可是说起来，他又不承认：火神菩萨据说原是保佑小民的，至于火灾，却要怪小民自不小心，或是为非作歹，纵火抢掠。 <br/><br/>　　谁知道呢？历代放火的名人总是这样说，却未必总有人信。 <br/><br/>　　我们只看见点灯是平凡的，放火是雄壮的，所以点灯就被禁止，放火就受供养。你不见海京伯马戏团（９）么：宰了耕牛喂老虎，原是这年头的“时代精神”。 <br/><br/>　　十一月二日。 <br/><br/>　　==========================================================================<br/><br/><br/>　　（１）本篇最初发表于一九三三年十二月十五日《申报月刊》第二卷第十二号，署名洛文。 <br/><br/>　　（２）燧人氏我国传说中的古帝王，他发明钻木取火、教人熟食。 <br/><br/>　　（３）火神菩萨我国传说中的火神有祝融、回禄等，他们的名字也用作火灾的代称。 <br/><br/>　　（４）秦始皇嬴政（前２５９—前２１０），战国时秦国的国君，秦王朝的建立者。据《史记·秦始皇本纪》，他于公元前二一三年，采纳丞相李斯的建议下令焚书，凡“史官非秦记，皆烧之。非博士官所职，天下敢有藏《诗》、《书》、百家语者，悉诣守尉杂烧之。”（５）项羽（前２３２—前２０２）名籍，秦末农民起义领袖之一。出身楚国贵族。据《史记·项羽本纪》，公元前二○六年他进兵秦国首都咸阳时，“烧秦宫室（按即阿房宫），火三月不灭。”（６）指罗马皇帝尼禄（ＣAＣAＮｅｒｏ，３７—６８），相传他曾在公元六十四年放火焚烧罗马城。 <br/><br/>　　（７）希特拉即希特勒。他在一九三三年二月二十七日制造“国会纵火案”，焚烧了国会大厦，却嫁祸于德国共产党人，作为镇压共产党和革命人民的借口。 <br/><br/>　　（８）跨灶马的前蹄下有个空隙，称灶门。快马奔驰时，后蹄蹄印落在前蹄蹄印之前，叫做“跨灶”。人们以此比喻儿子胜过父亲。（９）海京伯马戏团德国驯兽家海京伯（ＣAＨａｇｅｎｂｅｃｋ，１８４４。保梗保常┐窗斓穆硐吠牛�痪湃��*十月曾来我国上海表演。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-543-7085.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-543-7087.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-543.html" action-type="chapterComment" class="comment"><i></i>南腔北调集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

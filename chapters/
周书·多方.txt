@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《尚书》正文_周书·多方_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="尚书,尚书原文,尚书阅读,周书·多方全文,佚名作品" />
+<meta name="description" content="尚书原文阅读,周书·多方全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-28-456.html";
+var nextpage="novel-read-28-458.html";
+var indexpage = "novel-chapter-28.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-28.html">尚书</a></strong>
+<strong><a href="novel-chapter-28.html">尚书目录</a></strong>
+<span>周书·多方</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-28-456.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>周书·多方</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-07-19 12:29:04<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　成王归自奄，在宗周，诰庶邦，作《多方》。<br/>　　惟五月丁亥，王来自奄，至于宗周。<br/>　　周公曰：“王若曰：猷！告尔四国多方，惟尔殷侯尹民，我惟大降尔命，尔罔不知。洪惟天之命，弗永寅念于祀，惟帝降格于夏。有夏诞厥逸，不肯慼言于民，乃大淫昏，不克终日劝于帝之迪，乃尔攸闻。厥图帝之命，不克开于民之丽，乃大降罚，崇乱有夏。因甲于内乱，不克灵承于旅；罔丕惟进之恭，洪舒于民。<br/>　　亦惟有夏之民叨懫日钦，劓割夏邑。天惟时求民主，乃大降显休命于成汤，刑殄有夏。<br/>　　惟天不畀，纯乃惟以尔多方之义民不克永于多享；惟夏之恭多士，大不克明保享于民，乃胥惟虐于民，至于百为，大不克开。<br/>　　乃惟成汤克以尔多方简，代夏作民主。慎厥丽，乃劝；厥民刑，用劝；以至于帝乙，罔不明德慎罚，亦克用劝；要囚殄戮多罪，亦克用劝；开释无辜，亦克用劝。今至于尔辟，弗克以尔多方享天之命，呜呼！”王若曰：“诰告尔多方，非天庸释有夏，非天庸释有殷。乃惟尔辟以尔多方大淫，图天之命屑有辞。乃惟有夏图厥政，不集于享，天降时丧，有邦间之。乃惟尔商后王逸厥逸，图厥政不蠲烝，天惟降时丧。<br/>　　惟圣罔念，作狂；惟狂克念，作圣。天惟五年须暇之子孙，诞作民主，罔可念听。天惟求尔多方，大动以威，开厥顾天；惟尔多方，罔堪顾之。惟我周王灵承于旅，克堪用德，惟典神天。天惟式教我用休，简畀殷命，尹尔多方。<br/>　　今我曷敢多诰？我惟大降尔四国民命。尔曷不忱裕之于尔多方？尔曷不夹介乂我周王享天之命？今尔尚宅尔宅，畋尔田，尔曷不惠王熙天之命？尔乃迪屡不静，尔心未爱。尔乃不大宅天命，尔乃屑播天命，尔乃自作不典，图忱于正。我惟时其教告之，我惟时其战要囚之，至于再，至于三。乃有不用我降尔命，我乃其大罚殛之！非我有周秉德不康宁，乃惟尔自速辜！”王曰：“呜呼！猷告尔有方多士暨殷多士。今尔奔走臣我监五祀，越惟有胥伯小大多正，尔罔不克臬。自作不和，尔惟和哉；尔室不睦，尔惟和哉；尔邑克明，尔惟克勤乃事。尔尚不忌于凶德，亦则以穆穆在乃位，克阅于乃邑谋介。尔乃自时洛邑，尚永力畋尔田，天惟畀矜尔，我有周惟其大介赉尔，迪简在王庭。<br/>　　尚尔事，有服在大僚。”<br/>　　王曰：“呜呼！多士，尔不克劝忱我命，尔亦则惟不克享，凡民惟曰不享。<br/>　　尔乃惟逸惟颇，大远王命，则惟尔多方探天之威，我则致天之罚，离逖尔土。”<br/>　　王曰：“我不惟多诰，我惟祗告尔命。”又曰：“时惟尔初，不克敬于和，则无我怨。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-28-456.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-28-458.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-28.html" action-type="chapterComment" class="comment"><i></i>尚书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

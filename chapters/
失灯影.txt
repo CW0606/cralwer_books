@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《东莱五记》正文_失灯影_张炜作品 - 维普阅读网</title>
+<meta name="keywords" content="东莱五记,东莱五记原文,东莱五记阅读,失灯影全文,张炜作品" />
+<meta name="description" content="东莱五记原文阅读,失灯影全文在线阅读,张炜作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1353-24903.html";
+var nextpage="novel-read-1353-24905.html";
+var indexpage = "novel-chapter-1353.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1353.html">东莱五记</a></strong>
+<strong><a href="novel-chapter-1353.html">东莱五记目录</a></strong>
+<span>失灯影</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1353-24903.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>失灯影</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-23.html" target="blank">文学小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=张炜&amp;searchsubmit=yes"  target="_blank">张炜</a><span class="divide">|</span>发布时间：2015-05-06 22:39:35<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>直到现在，古登州一带还有一个村子叫“灯影”。但这个村子是否就是过去那个得而复失的地方，人们还说不准。近一二百年来的变化之速，真可以说是沧海桑田，从古登州府置往西直到屺砪岛、三山岛，现在都成了人烟最稠密的地区。而不足一百年前这里只是荒野，二百年前则是莽莽苍苍的林子，除了偶有渔人猎人在浅近处光顾一下，还没有什么人敢于深入。 <br/>　　那时候这里的人走夜路，如果到了荒凉地方，最喜欢也是最害怕的，就是前边遥远处出现一处闪烁的灯影。本来有了灯火就说明有了人气，就可以安慰一下黑夜独行的心，可还是忐忑不安。因为那时的荒原人烟稀少，怪事太多，不仅仅是传说，即便是真正让人恐惧难解的遭遇，常走夜路的人也会说出几件。比如当时最盛行的说法，就是如果在荒郊野外看到舞动的火球，最好不要挨近，那是年老的狐狸在炼丹。按当地公认的看法，差不多任何一片原野都生存着几个年迈多智的狐狸，它们为了长生，竟能够像这一带曾经活跃过的方士们一样，炼制一种神秘的丹丸。狐狸在日出之前，一般是午夜前后的时辰，就要操练起这个行当，所以人们远远看去就是几点亮火在跳。 <br/><br/>　　除了狐狸所为，还有其他不测，如有人就在挨近了荒郊的一点儿光亮时，才发现这是一处瓜棚，柱子上挂了一盏灯笼，有人坐在灯影里，问他话只字不答，赶路人忍不住拍拍他的肩膀，这人一回头把赶路人吓个半死。原来黑影里坐的是一头老狼，刚刚吃了一个人，正坐在那里舔嘴巴呢。类似的警示故事很多，一半是口耳相传的野趣，一半是当时的真实经历。时过境迁，现在这一带入夜常常是灯火辉煌，早就没有黑夜中星星点点的光亮了。现在所忧虑的只是太热闹了，是人气过盛，除了人什么都没有了。 <br/>　　年纪稍大一点儿的当地人，至今还记得老人的叮嘱，那就是夜间赶路时，遇到前方有影影绰绰的灯火一定要绕开走，而且绕得尽可能远一些，千万不要回头。这是防止那种非人的灵物被人打扰之后突发脾气，它们这时加害于人也说不定。有灵性的动物除了极个别品行不好的，一般不会向人施以损招。动物与人一样，也有个思想品质的问题，那些邪气未敛的动物一旦获得了本事，就会炫耀技能，傲视人类，常常把整整一座村子搅得鸡犬不宁。所以在海边村落里，一直流传有动物与人斗智的故事，同时也就自然而然地保留了一种专门的职业，那就是驱邪的法师。这些法师怀揣法器，如拂尘和铜镜，如装了朱砂的布囊和盛雄黄酒的小瓷瓶等。 <br/>　　除非真有必要，受到野物骚扰的人家是不会请法师来的。一般先是祷告和商量，是劝说，请那些暗中作业的野物离开吧，大意是我们应该两不妨碍，各自生活，我们人过日子也不容易啊，等等，以激发出对方的怜悯之心。这样做有时也能奏效。如果实在不行也只得请法师来了，那样事情的性质也就起了变化，变成了敌我矛盾，非斗个你死我活不可。法师的性格可能因为其职业所决定，他们个个铁面无私，心肠很硬。而村里人包括一些受害者家属，对已经告饶的动物还是愿意放过一马的，这时最大的障碍倒是法师，他们摆出一副执法如山的架势，决不通融。结果被降伏的动物在受尽折磨之后，几十年修炼的道行也毁于一旦，这是它们最畏惧的下场。<br/>　　就在这样的村落里，有一位顽皮少年，他像大多数野孩子一样好奇，聪明却不喜读书，愿意冒险，越是家长禁止的事情越是要尝试一番。他多次在夜间独自一人跑到野外，总想遇到一两桩怪事。有一次他真的在野外瓜棚那儿见到了悬挂的灯笼，也真的发现了垂头反坐的人。就像传说中那样，他伸手往那人后背一拍，结果却大失所望：转回头来的是一个上年纪的看瓜人。对方看清了是个孩子，立刻叫出了他的小名。这使他觉得实在无趣。离开瓜棚又往更深的林子里走，这在一般人是绝对不敢的，因为一旦迷路麻烦就大了。 <br/>　　经过了多次冒险，这个孩子胆子更大了。有一次他不知走了多远，感觉就快听到海浪声了，前面还是黑漆漆一片林子。突然他看到了树隙里有一两点灯影在闪烁，心上立刻怦怦乱跳，有不可抑制的兴奋涌出来。随着往前，那灯影竟扩大开来，渐渐显出了街道的形状，原来是一个藏在林子深处的小小村庄!这一下他就放开步子往里闯了。 <br/>　　进了小村，马上有些比他还小的孩子围上来看，一个个毛头毛脑分外好奇，问他是从哪里来的、叫什么等等。他们告诉他这个小小的村子叫“灯影”。他和他们玩儿得高兴，又跳又叫，玩儿捉迷藏之类，累了就随他们进小茅屋吃各种果子。他从来没见过这么多野果，一大堆摆满了桌子，一些上年纪的老人坐在桌旁，见他吃过一个又递过来一个。这些野果甜得很，结果他一口气吃得肚子都圆了。左右小孩子有男有女，扯上他的手跑到街上，还让他去一个地方打秋千，看另一些有奇才异能的孩子在大树梢上蹿跳。他惊得合不上嘴，因为这是从来没有见过的。午夜过了，村里的老人扯着他的手，让另几个孩子把他送出林子，叮嘱说：回家吧，再不回你家老人该急了，有工夫可以再来，不过对谁也不要告诉这个灯影，要不你就来不成了。 <br/>　　他心里揣了个秘密，到后来每隔几天就到林子深处找这个小村子。他走熟了路，为了不再迷失，就在沿途做了一些记号。这个叫灯影的小村成了他的乐园。他在这儿有吃不完的好东西，比如果子、野蜜；还有看不完的趣事，比如连年迈的白发婆婆高兴了也会扔下拐杖，灵活无比地翻起跟头或跃上树梢。他把自己村里才有的一些玩儿法教给他们，比如踢毽子等等。这个小村从老人到小孩都喜欢他。 <br/>　　这样过了半年，让小孩子愁闷的事情发生了，这就是家里人要送他去很远的一个镇子上学，那里有一户亲戚。这是不能逃脱的事，他只好找一个夜晚到灯影告别了。小村的人也舍不得他，都说你只要不忘路，过多久来都行，这儿会一直等着你。 <br/>　　这个孩子上了外地的学堂，中间只回过一两次村子，也去灯影欢聚过一次。又是几年过去，他长大了，聪明过人，没费劲儿就考中了功名。上任后忙于应酬，一连多年后才有空回了一趟老家。因为身在官场，一时忘了灯影，可是一回村子就想起了它，于是就打听起这个村子。村里人摇头，从老到少竟没有一个人知道附近还有这么个村庄。他觉得奇怪极了。 <br/>　　这天，他实在忍不住，就脱了官服，按照小时候记住的路径往林子深处来了。他料定一定会找得到，因为一个村子既然落成了，哪能轻易挪动呢？可惜他花了大半天时间，直到天黑，把记忆中的那一带找了个遍，就是没有小村的影子。就在他失望至极往回走的路上，也许是有什么在怜惜他吧，一抬头竟看见了影影绰绰的光亮。他嘴里说着“就是这儿了”，赶紧奔了过去，到了近前只见一个老人坐在那儿吸烟。他当时并没想别的，没觉得一个老人坐在荒野里吸烟有多么不正常，只脱口问：灯影在哪儿? <br/>　　老人把烟嘴抽出来，说：它还在原来的地方。他说：那怪了，我怎么就是找不见哪?老人说：灯影的人厌弃官人，躲着你。他惊讶说：怪了，我脱了官服啊。老人哼了一声说：这也没用，灯影的人鼻子尖，他们远远一嗅就知道了。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1353-24903.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1353-24905.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1353.html" action-type="chapterComment" class="comment"><i></i>东莱五记章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《管子》正文_牧民_管仲作品 - 维普阅读网</title>
+<meta name="keywords" content="管子,管子原文,管子阅读,牧民全文,管仲作品" />
+<meta name="description" content="管子原文阅读,牧民全文在线阅读,管仲作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-43-1115.html";
+var nextpage="novel-read-43-1117.html";
+var indexpage = "novel-chapter-43.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-43.html">管子</a></strong>
+<strong><a href="novel-chapter-43.html">管子目录</a></strong>
+<span>牧民</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-43-1115.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>牧民</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=管仲&amp;searchsubmit=yes"  target="_blank">管仲</a><span class="divide">|</span>发布时间：2014-07-24 20:45:23<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　国颂<br/><br/>　　凡有地牧民者，务在四时，守在仓廪。国多财，则远者来，地辟举，则民留处；仓廪实，则知礼节；衣食足，则知荣辱；上服度，则六亲固。四维张，则君令行。故省刑之要，在禁文巧，守国之度，在饰四维，顺民之经，在明鬼神，只山川，敬宗庙，恭祖旧。不务天时，则财不生；不务地利，则仓廪不盈；野芜旷，则民乃菅，上无量，则民乃妄。文巧不禁，则民乃淫，不璋两原，则刑乃繁。不明鬼神，则陋民不悟；不只山川，则威令不闻；不敬宗庙，则民乃上校；不恭祖旧，则孝悌不备；四维不张，国乃灭亡。<br/><br/>　　四维<br/><br/>　　国有四维，一维绝则倾，二维绝则危，三维绝则覆，四维绝则灭。倾可正也，危可安也，覆可起也，灭不可复错也。何谓四维？一曰礼、二曰义、三曰廉、四曰耻。礼不踰节，义不自进。廉不蔽恶，耻不从枉。故不踰节，则上位安；不自进，则民无巧轴；不蔽恶，则行自全；不从枉，则邪事不生。<br/><br/>　　四顺<br/><br/>　　政之所兴，在顺民心。政之所废，在逆民心。民恶忧劳，我佚乐之。民恶贫贱，我富贵之，民恶危坠，我存安之。民恶灭绝，我生育之。能佚乐之，则民为之忧劳。能富贵之，则民为之贫贱。能存安之，则民为之危坠。能生育之，则民为之灭绝。故刑罚不足以畏其意，杀戮不足以服其心。故刑罚繁而意不恐，则令不行矣。杀戮众而心不服，则上位危矣。故从其四欲，则远者自亲；行其四恶，则近者叛之，故知“予之为取者，政之宝也”。<br/><br/>　　十一经<br/><br/>　　错国于不倾之地，积于不涸之仓，藏于不竭之府，下令于流水之原，使民于不争之官，明必死之路，开必得之门。不为不可成，不求不可得，不处不可久，不行不可复。错国于不倾之地者，授有德也；积于不涸之仓者，务五谷也；藏于不竭之府者，养桑麻育六畜也；下令于流水之原者，令顺民心也；使民于不争之官者，使各为其所长也；明必死之路者，严刑罚也；开必得之门者，信庆赏也；不为不可成者，量民力也；不求不可得者，不彊民以其所恶也；不处不可久者，不偷取一世也；不行不可复者，不欺其民也；故授有德，则国安；务五谷，则食足；养桑麻，育六畜，则民富；令顺民心，则威令行；使民各为其所长，则用备；严刑罚，则民远邪；信庆赏，则民轻难；量民力，则事无不成；不彊民以其所恶，则轴伪不生；不偷取一世，则民无怨心；不欺其民，则下亲其上。<br/><br/>　　六亲五法<br/><br/>　　以家为乡，乡不可为也。以乡为国，国不可为也。以国为天下，天下不可为也。以家为家，以乡为乡，以国为国，以天下为天下。毋曰不同生，远者不听。毋曰不同乡，远者不行。毋曰不同国，远者不从。如地如天，何私何亲？如月如日，唯君之节。御民之辔，在上之所贵。道民之门，在上之所先。召民之路，在上之所好恶。故君求之，则臣得之。君嗜之，则臣食之。君好之，则臣服之。君恶之，则臣匿之。毋蔽汝恶，毋异汝度，贤者将不汝助。言室满室，言堂满堂，是谓圣王。城郭沟渠，不足以固守；兵甲彊力，不足以应敌；博地多财，不足以有众。惟有道者，能备患于未形也，故祸不萌。天下不患无臣，患无君以使之。天下不患无财，患无人以分之。故知时者，可立以为长。无私者，可置以为政。审于时而察于用，而能备官者，可奉以为君也。缓者后于事。吝于财者失所亲，信小人者失士。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-43-1115.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-43-1117.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-43.html" action-type="chapterComment" class="comment"><i></i>管子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

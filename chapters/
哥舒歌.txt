@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《哥舒歌》正文_哥舒歌_西鄙人作品 - 维普阅读网</title>
+<meta name="keywords" content="哥舒歌,哥舒歌原文,哥舒歌阅读,哥舒歌全文,西鄙人作品" />
+<meta name="description" content="哥舒歌原文阅读,哥舒歌全文在线阅读,西鄙人作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-1200.html";
+var nextpage="novel-chapter-1200.html";
+var indexpage = "novel-chapter-1200.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1200.html">哥舒歌</a></strong>
+<strong><a href="novel-chapter-1200.html">哥舒歌目录</a></strong>
+<span>哥舒歌</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-1200.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>哥舒歌</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=西鄙人&amp;searchsubmit=yes"  target="_blank">西鄙人</a><span class="divide">|</span>发布时间：2015-02-11 16:45:12<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　北斗七星高，哥舒夜带刀。<br/>　　至今窥牧马，不敢过临洮。<br/><br/>【注释】<br/>⑴哥舒：指哥舒翰，是唐玄宗的大将，突厥族哥舒部的后裔。哥舒是以部落名称作为姓氏。《全唐诗》题下注：“天宝中，哥舒翰为安西节度使，控地数千里，甚著威令，故西鄙人歌此。”<br/>⑵北斗七星：大熊座的一部分。<br/>⑶窥：窃伺。牧马：指吐蕃越境放牧，指侵扰活动。<br/>⑷临洮：今甘肃省洮河边的岷县。一说今甘肃省临潭县。秦筑长城西起于此。<br/><br/>【译文】<br/>黑夜里北斗七星挂得高高，哥舒翰勇猛守边夜带宝刀。<br/>吐蕃族至今牧马只敢远望，他们再不敢南来越过临洮。<br/><br/>【赏析】<br/>　　这是唐代西北边民对唐朝名将哥舒翰的颂歌。此诗从内容上看，是颂扬哥舒翰抵御吐蕃侵扰、安定边疆的；同时也通过这个形象寄寓了人民渴望和平、安定的理想和愿望。“北斗七星高，哥舒夜带刀”。第一句是起兴，诗人用高挂在天上的北斗星，表达边地百姓对哥舒翰的敬仰。“至今窥牧马，不敢过临洮”，牧马，就其含意而言，也就是代指一切侵扰活动。自从遭到哥舒翰的抵御，吐蕃再也不敢越过临洮进行骚扰。<br/>　　这首诗题为《哥舒歌》，哥舒之所以值得歌唱，是因为他戍边抗敌，保国为民。但是，作者并不从激烈的战斗中直接表现他如何英勇善战，如何机智果敢，用兵如神等等，而是通过侧面描写的手法来突出主题。诗的第一句就把哥舒翰在人民心中的威望渲染出来。人民为何赞扬，吐蕃何故畏惧；过去吐蕃长驱直入，如今又为什么“不敢过临洮”，这都是宣扬哥舒翰的赫赫武功。可见这样的描写是很富于启发性的。“哥舒夜带刀”，这个“夜”字是颇有讲究的，它把起兴的第一句和第二句巧妙地联系起来了，把赞扬和崇敬之情融注于人物形象之中；同时又将边地的紧张气氛和人物的警备神态刻画出来了。“哥舒夜带刀”五个字干净利落，好像是一幅引人注目的人物画像。在那简炼有力、富有特征的形象中，蕴藏了一股英武之气，给人一种战则能胜的信心，而给吐蕃以“屏足不敢近”的威慑。因此，就反映人物内心世界和表现诗的主题来讲，“哥舒夜带刀”比起那种冲锋陷阵的形象更丰富、更传神，更能诱导人们的想象。<br/>　　这首《哥舒歌》可能是经过修改加工后的作品，但是它那种朴实和巧妙、明朗和含蓄相统一的风格，依然显示出民歌的特色。<br/><br/>【点评】<br/>凌宏宪《唐诗广选》：气骨高劲，不域于中唐者。<br/>李攀龙《唐诗训解》：为中国长气。<br/>周珽《唐诗选脉会通评林》：唐汝询曰：哥舒御吐蕃，信悍勇。潼关之败，髦矣。此歌盖不欲以一眚掩之。<br/>沈德潜《唐诗别裁》：与《敕勒歌》同是天籁，不可以工拙求之。<br/>蘅塘退士《唐诗三百首》：先着此五字，比兴极奇（首句下）。<br/>俞陛云《诗境浅说续编》：《诗三百篇》，无作者姓氏，天怀陶写，不以诗鸣，而诗传千古。三代下唯恐不好名，汉魏以降，作者林立矣……此西鄙之人，姓氏湮没，而高歌慷慨，与“敕勒川，阴山下”之歌，同是天籁。如风高大漠，古戍闻笳，令壮心飞动也。首句排空疾下，与卢纶之“月黑雁飞高”皆工干发端，惟卢诗含意不尽，此诗意尽而止，各极其妙。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-1200.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-1200.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1200.html" action-type="chapterComment" class="comment"><i></i>哥舒歌章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

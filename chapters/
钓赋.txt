@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《钓赋》正文_钓赋_宋玉作品 - 维普阅读网</title>
+<meta name="keywords" content="钓赋,钓赋原文,钓赋阅读,钓赋全文,宋玉作品" />
+<meta name="description" content="钓赋原文阅读,钓赋全文在线阅读,宋玉作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-97.html";
+var nextpage="novel-chapter-97.html";
+var indexpage = "novel-chapter-97.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-97.html">钓赋</a></strong>
+<strong><a href="novel-chapter-97.html">钓赋目录</a></strong>
+<span>钓赋</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-97.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>钓赋</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=宋玉&amp;searchsubmit=yes"  target="_blank">宋玉</a><span class="divide">|</span>发布时间：2014-08-03 19:14:56<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　宋玉与登徒子偕受钓於玄洲，止而并见於楚襄王。登徒子曰：「夫玄洲，天下之善钓者也，愿王观焉。」王曰：「其善柰何？」登徒子对曰：「夫玄洲钓也，以三寻之竿，八丝之线，饵若蛆寅，钩如细针，以出三赤之鱼於数仞之水中，岂可谓无术乎？夫玄洲，芳水饵，挂缴钩，其意不可得。退而牵行，下触清泥，上则波《风易》，玄洲因水势而施之，颉之颃之，委纵收敛，与鱼沈浮。及其解弛也。因而获之。」襄王曰：「善。」宋玉进曰：「今察玄洲之钓，未可谓能持竿也，又乌足为大王言乎！」王曰：「子之所谓善钓者何？」玉曰：「臣所谓善钓者，其竿非竹，其纶非丝，其钩非针，其饵非寅也。」王曰：「愿遂闻之。」玉对曰：「昔尧、舜、汤、禹之钓也，以圣贤为竿，道德为纶，仁义为钩，禄利为饵，四海为池，万民为鱼。钓道微矣，非圣人其孰能察之？」王曰：「迅哉说乎！其钓不可见也。」宋玉对曰：「其钓易见，王不察尔。昔殷汤以七十里，周文以百里，兴利除害，天下归之，其饵可谓芳矣；南面而掌天下，历载数百，到今不废，其纶可谓纫矣；群生浸其泽，民氓畏其罚，其钩可谓扌勾矣；功成而不隳，名立而不改，其竿可谓强矣！若夫竿折轮绝，饵坠钩决，波涌鱼失，是则夏桀、商纣不通夫钓术也。今察玄洲之钓也，左挟鱼，右执槁竿，立于横（潢）污之涯，倚乎杨柳之间，精不离乎鱼喙，思不出乎鲋鳊，形容枯槁，神色憔悴，乐不役勤，获不当费，斯乃水滨之役夫也已，君王又何称焉？王若建尧、舜之洪竿，摅禹、汤之修纶，投之于渎，视之于海，漫漫群生，孰非吾有？其为大王之钓，不亦乐乎！」<br/><br/>　　【译文】<br/>　　宋玉和登徒子一起向玄洲学习钓鱼之术，学成后，一同去见楚襄王。登徒子说“玄洲真是天下最精钓鱼之术的人，希望大王您能听一听。”襄王说“他怎　样好呢？”登徒子回答说：“玄洲钓鱼，用三寻长的鱼竿，八股合成的丝线，鱼饵用蛆、蚓、鱼钩如细针，在深沟大壑里钓出三尺大鱼。难道可以说是技艺不高明吗？玄洲钓鱼，用芳香的鱼饵，带丝线的鱼钓，他的意图不可得而知。退却牵着鱼竿而行，下接青泥，鱼儿吃钓后，扬尾起波。玄洲顺着水势施钓，忽上念下，匆放忽收，任鱼游荡，等到鱼儿精力疲惫，趁机收钓捉鱼。”襄王曰：“好啊！”<br/>　　宋玉上前言道：“我看玄洲钓鱼不可以说是内行，又怎么值得大王一听呢？”襄王说：“你所说的善钓者，又如何呢？”宋玉说：“我所说的高明的钓鱼者，他的鱼竿不以竹子做成，鱼线不用细丝，鱼钓不用细针，鱼饵不用蚯蚓。”襄王说：“我愿洗耳恭听。”宋玉回答说：“古时，尧、舜、汤、禹钓鱼，用圣贤之才为鱼竿，高深的道德作全线，大仁厚义作鱼钓，爵禄利益作鱼饵，天下四海为鱼池，普天万民为游鱼。现在钓鱼之术已经衰微了，如果不是圣贤之人，谁个能够看到这一点呢？”襄王说：“你的话也太荒诞不经了。这种钓术实在难以见到”。宋玉回答说：“这种钓鱼之法，其实也容易见到，只是大王您不善于明察罢了。上古之时，殷王商汤凭借方圆七十里的地方，周代的文王凭借方圆百里之地，惩恶扬善，兴得避害，天下之民纷纷归附，他的钓饵可以说是香极了；南面称王，掌握天下，经历数百年，功业至今不衰毁，他的鱼线可以说是够坚纫的了；万物众生蒙其恩泽，天下之民畏其刑罚，”他的钓鱼可以说是够弯曲了；功业成就而不毁败，英名树立而不改变，他的鱼竿可以说是强健有力的。至于说，鱼竿折断，鱼线绝去，鱼饵坠失，鱼钓断掉，大波涌起，鱼儿散失。这是夏桀、商纣，不通钓术的原因。今观玄洲钓鱼，左手带着鱼篓，右手拿着槁竿，站在溃满污浊的水崖之畔，依靠在杨柳树上，精神时刻离不开鱼嘴，思虑总是想到鲋鳊来吃钓，身体枯瘦，神情憔悴，得到的欢乐还不抵勤劳，获提的鱼儿还不偿失去的精力。这是水边的劳役之人罢了。大王您何必称许呢？<br/>　　“大王如果树起尧舜的大竹竿（任用贤人），放出夏禹、商汤的长绳子（明道德），投钓于江河，眼观四海（精心治理天下），芸芸众生，哪一个不是您的臣民呢？这作为大王的钓鱼方式，不是让人快乐吗”。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-97.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-97.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-97.html" action-type="chapterComment" class="comment"><i></i>钓赋章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

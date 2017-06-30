@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《针灸甲乙经》正文_五脏变腧_皇甫谧作品 - 维普阅读网</title>
+<meta name="keywords" content="针灸甲乙经,针灸甲乙经原文,针灸甲乙经阅读,五脏变腧全文,皇甫谧作品" />
+<meta name="description" content="针灸甲乙经原文阅读,五脏变腧全文在线阅读,皇甫谧作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-518-6259.html";
+var nextpage="novel-read-518-6261.html";
+var indexpage = "novel-chapter-518.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-518.html">针灸甲乙经</a></strong>
+<strong><a href="novel-chapter-518.html">针灸甲乙经目录</a></strong>
+<span>五脏变腧</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-518-6259.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>五脏变腧</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=皇甫谧&amp;searchsubmit=yes"  target="_blank">皇甫谧</a><span class="divide">|</span>发布时间：2014-09-23 20:57:10<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>黄帝问曰；五脏五腧，愿闻其数？岐伯对曰：人有五脏，脏有五变，变有五腧，故五五二十五腧，以应五时。<br/><br/>　　肝为牡脏，其色青，其时春，其日甲乙，其音角，其味酸（《素问》曰肝在味为辛，于经义为未通。）<br/><br/>　　心为牡脏，其色赤，其时夏，其日丙丁，其音徵，其味苦（《素问》曰心在味为咸，于经义为未通。）<br/><br/>　　脾为牡脏，其色黄，其时长夏，其日戊己，其音宫，其味甘。<br/><br/>　　肺为牝脏，其色白，其时秋，其日庚辛，其音商，其味辛（《素问》曰肺在味为苦，于经义为未通）。<br/><br/>　　肾为牝脏，其色黑，其时冬，其日壬癸，其音羽，其味咸。是谓五变。<br/><br/>　　脏主冬，冬刺井；色主春，春刺荥；时主夏，夏刺腧；音主长夏，长夏刺经；味主秋，秋刺合。是谓五变，以主五腧。曰：诸原安合，以致五腧？曰：原独不应五时，以经合之，以应其数，故六六三十六腧。<br/><br/>　　曰：何谓脏主冬，时主夏，音主长夏，味主秋，色主春？曰：病在脏者取之井，病变于色者取之荥，病时间时甚者取之腧，病变于音者取之经，经（一作络）满而血者病在胃（一作胸），及以饮食不节得病者，取之合，故命曰味主合，是谓五变也。人逆春气则少阳不生，肝气内变；逆夏气则太阳不长，心气内洞；逆秋气则太阴不收，肺气焦满；逆冬气则少阴不藏，肾气浊沉。夫四时阴阳者，万物之根本也。所以圣人春夏养阳，秋冬养阴，以从其根，逆其根则伐其本矣。故阴阳者，万物之终始也。顺之则生，逆之则死；反顺为逆，是谓内格。是故圣人不治已病治未病，论五脏相传所胜也。假使心病传肺，肺未病逆治之耳。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-518-6259.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-518-6261.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-518.html" action-type="chapterComment" class="comment"><i></i>针灸甲乙经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《准风月谈》正文_由聋而哑_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="准风月谈,准风月谈原文,准风月谈阅读,由聋而哑全文,鲁迅作品" />
+<meta name="description" content="准风月谈原文阅读,由聋而哑全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-551-7607.html";
+var nextpage="novel-read-551-7609.html";
+var indexpage = "novel-chapter-551.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-551.html">准风月谈</a></strong>
+<strong><a href="novel-chapter-551.html">准风月谈目录</a></strong>
+<span>由聋而哑</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-551-7607.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>由聋而哑</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-06 20:46:31<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　洛文 <br/>　　医生告诉我们：有许多哑子，是并非喉舌不能说话的，只因为从小就耳朵聋，听不见大人的言语，无可师法，就以为谁也不过张着口呜呜哑哑，他自然也只好呜呜哑哑了。所以勃兰兑斯（２）叹丹麦文学的衰微时，曾经说：文学的创作，几乎完全死灭了。人间的或社会的无论怎样的问题，都不能提起感兴，或则除在新闻和杂志之外，绝不能惹起一点论争。我们看不见强烈的独创的创作。加以对于获得外国的精神生活的事，现在几乎绝对的不加顾及。于是精神上的“聋”，那结果，就也招致了“哑”来。（《十九世纪文学的主潮》第一卷自序） <br/>　　这几句话，也可以移来批评中国的文艺界，这现象，并不能全归罪于压迫者的压迫，五四运动时代的启蒙运动者和以后的反对者，都应该分负责任的。前者急于事功，竟没有译出什么有价值的书籍来，后者则故意迁怒，至骂翻译者为媒婆（３），有些青年更推波助澜，有一时期，还至于连人地名下注一原文，以便读者参考时，也就诋之曰“衒学”。 <br/>　　今竟何如？三开间店面的书铺，四马路上还不算少，但那里面满架是薄薄的小本子，倘要寻一部巨册，真如披沙拣金之难。自然，生得又高又胖并不就是伟人，做得多而且繁也决不就是名著，而况还有“剪贴”。但是，小小的一本“什么ＡＢＣ（４）”里，却也决不能包罗一切学术文艺的。一道浊流，固然不如一杯清水的干净而澄明，但蒸溜了浊流的一部分，却就有许多杯净水在。 <br/>　　因为多年买空卖空的结果，文界就荒凉了，文章的形式虽然比较的整齐起来，但战斗的精神却较前有退无进。文人虽因捐班或互捧，很快的成名，但为了出力的吹，壳子大了，里面反显得更加空洞。于是误认这空虚为寂寞，像煞有介事的说给读者们；其甚者还至于摆出他心的腐烂来，算是一种内面的宝贝。散文，在文苑中算是成功的，但试看今年的选本，便是前三名，也即令人有“貂不足，狗尾续”（５）之感。用秕谷来养青年，是决不会壮大的，将来的成就，且要更渺小，那模样，可看尼采（６）所描写的“末人”。 <br/>　　但绍介国外思潮，翻译世界名作，凡是运输精神的粮食的航路，现在几乎都被聋哑的制造者们堵塞了，连洋人走狗，富户赘郎，也会来哼哼的冷笑一下。他们要掩住青年的耳朵，使之由聋而哑，枯涸渺小，成为“末人”，非弄到大家只能看富家儿和小瘪三所卖的春宫，不肯罢手。甘为泥土的作者和译者的奋斗，是已经到了万不可缓的时候了，这就是竭力运输些切实的精神的粮食，放在青年们的周围，一面将那些聋哑的制造者送回黑洞和朱门里面去。 <br/>　　八月二十九日。 <br/>　<br/>===============================================================<br/><br/>　　（１）　本篇最初发表于一九三三年九月八日《申报·自由谈》。<br/>　　（２）　勃兰兑斯（Ｇ．Ｂｒａｎｄｅｓ，１８４２—１９２７）　丹麦文学批评家。他的主要著作《十九世纪文学的主潮》，共六卷，出版于一八七二年至一八九○年。 <br/>　　（３）　一九二一年二月郭沫若在《民铎》杂志第二卷第五号发表致李石岑函，其中有这样的话：“我觉得国内人士只注重媒婆，而不注重处子；只注重翻译，而不注重产生。” <br/>　　（４）　ＡＢＣ　入门、初步的意思。当时上海世界书局出版过一套“ＡＢＣ丛书”，内收各方面的入门书多种。 <br/>　　（５）　“貂不足，狗尾续”　语见《晋书·赵王伦传》，原意是讽刺司马懿第九子司马伦封爵过滥，连家中奴仆差役都受封，“每朝会，貂蝉盈座，时人为之谚曰：‘貂不足，狗尾续’。”<br/>　　（６）　尼采（Ｆ．Ｎｉｅｔｚｓｃｈｅ，１８４４—１９００）　德国哲学家，唯意志论和超人哲学的鼓吹者。“末人”（Ｄｅｒ　Ｌｅｔｚｔｅ　Ｍｅｎｓｃｈ），见尼采所著《扎拉图斯特拉如是说》的《序言》，意思是指一种无希望、无创造、平庸畏葸、浅陋渺小的人。鲁迅曾经把这篇《序言》译成中文，发表于一九二○年六月《新潮》杂志第二卷第五号。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-551-7607.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-551-7609.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-551.html" action-type="chapterComment" class="comment"><i></i>准风月谈章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

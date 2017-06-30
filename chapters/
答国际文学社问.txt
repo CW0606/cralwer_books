@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《且介亭杂文》正文_答国际文学社问_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="且介亭杂文,且介亭杂文原文,且介亭杂文阅读,答国际文学社问全文,鲁迅作品" />
+<meta name="description" content="且介亭杂文原文阅读,答国际文学社问全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-544-7287.html";
+var nextpage="novel-read-544-7289.html";
+var indexpage = "novel-chapter-544.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-544.html">且介亭杂文</a></strong>
+<strong><a href="novel-chapter-544.html">且介亭杂文目录</a></strong>
+<span>答国际文学社问</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-544-7287.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>答国际文学社问</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-02 22:05:25<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原问—— <br/><br/>　　一、苏联的存在与成功，对于你怎样（苏维埃建设的十月革命，对于你的思想的路径和创作的性质，有什么改变）？ <br/><br/>　　二、你对于苏维埃文学的意见怎样？ <br/><br/>　　三、在资本主义的各国，什么事件和种种文化上的进行，特别引起你的注意？ <br/><br/>　　一，先前，旧社会的腐败，我是觉到了的，我希望着新的社会的起来，但不知道这“新的”该是什么；而且也不知道“新的”起来以后，是否一定就好。待到十月革命后，我才知道这“新的”社会的创造者是无产阶级，但因为资本主义各国的反宣传，对于十月革命还有些冷淡，并且怀疑。现在苏联的存在和成功，使我确切的相信无阶级社会一定要出现，不但完全扫除了怀疑，而且增加许多勇气了。但在创作上，则因为我不在革命的旋涡中心，而且久不能到各处去考察，所以我大约仍然只能暴露旧社会的坏处。 <br/><br/>　　二，我只能看别国——德国，日本——的译本。我觉得现在的讲建设的，还是先前的讲战斗的——如《铁甲列车》，《毁灭》，《铁流》（２）等——于我有兴趣，并且有益。我看苏维埃文学，是大半因为想绍介给中国，而对于中国，现在也还是战斗的作品更为紧要。 <br/><br/>　　三，我在中国，看不见资本主义各国之所谓“文化”；我单知道他们和他们的奴才们，在中国正在用力学和化学的方法，还有电气机械，以拷问革命者，并且用飞机和炸弹以屠杀革命群众。 <br/><br/>　　==========================================================================<br/><br/><br/>　　（１）本篇最初发表于《国际文学》一九三四年第三、四期合刊，发表时题为《中国与十月》，同年七月五日苏联《真理报》曾予转载。《国际文学》，双月刊，国际革命作家联盟的机关刊物，以俄、德、英、法等文字在苏联出版，原名《外国文学消息》，一九三○年十一月改称《世界革命文学》，一九三三年改名为《国际文学》。<br/>　　（２）《铁甲列车》全名《铁甲列车第１４—６９号》，伊凡诺夫著，侍桁译，系鲁迅所编《现代文艺丛书》之一，一九三二年神州国光社出版；《毁灭》，法捷耶夫作，鲁迅译，一九三一年三闲书屋出版；《铁流》，绥拉菲摩维支作，曹靖华译，一九三一年三闲书屋出版。这些都是以苏联国内战争为题材的长篇小说。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-544-7287.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-544-7289.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-544.html" action-type="chapterComment" class="comment"><i></i>且介亭杂文章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

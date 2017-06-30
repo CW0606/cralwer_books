@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《鬼谷子》正文_摩篇第八_鬼谷子作品 - 维普阅读网</title>
+<meta name="keywords" content="鬼谷子,鬼谷子原文,鬼谷子阅读,摩篇第八全文,鬼谷子作品" />
+<meta name="description" content="鬼谷子原文阅读,摩篇第八全文在线阅读,鬼谷子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-24-358.html";
+var nextpage="novel-read-24-360.html";
+var indexpage = "novel-chapter-24.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-24.html">鬼谷子</a></strong>
+<strong><a href="novel-chapter-24.html">鬼谷子目录</a></strong>
+<span>摩篇第八</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-24-358.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>摩篇第八</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鬼谷子&amp;searchsubmit=yes"  target="_blank">鬼谷子</a><span class="divide">|</span>发布时间：2014-07-19 00:39:00<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/><br/>　　摩者，揣之术也。内符者，揣之主也。用之有道，其道必隐。微摩之以其索欲，测而探之，内符必应；其索应也，必有为之。故微而去之，是谓塞窌匿端，隐貌逃情，而人不知，故能成其事而无患。<br/>　　摩之在此，符之在彼，从而用之，事无不可。古之善摩者，如操钩而临深渊，饵而投之，必得鱼焉。故曰：主事日成，而人不知；主兵日胜，而人不畏也。圣人谋之于阴，故曰神；成之于阳，故曰明，所谓主事日成者，积德也，而民安之，不知其所以利。积善也，而民道之，不知其所以然；而天下比之神明也。主兵日胜者，常战于不争不费，而民不知所以服，不知所以畏，而天下比之神明。<br/>　　其摩者，有以平，有以正；有以喜，有以怒；有以名，有以行；有以廉，有以信；有以利，有以卑。平者，静也。正者，宜也。喜者，悦也。怒者，动也。名者，发也。行者，成也。廉者，洁也。信者，期也。利者，求也。卑者，谄也。故圣人所以独用者，众人皆有之；然无成功者，其用之非也。<br/>　　故谋莫难于周密，说莫难于悉听，事莫难于必成；此三者唯圣人然后能任之。故谋必欲周密；必择其所与通者说也，故曰：或结而无隙也。夫事成必合于数，故曰：道、数与时相偶者也。说者听，必合于情；故曰：情合者听。故物归类；抱薪趋火，燥者先燃；平地注水，湿者先濡；此物类相应，于事誓犹是也。此言内符之应外摩也如是，故曰：摩之以其类，焉有不相应者；乃摩之以其欲，焉有不听者。故曰：独行之道。夫几者不晚，成而不拘，久而化成。<br/>　　【注释】<br/>　　摩，顺，合也；意为以事情去顺合于说服之君王。<br/><br/>译文：<br/><br/>　　所谓“摩意”是一种与“揣情”相类似的方法。“内符”是“揣”的对象。进行“揣情”时需要掌握“揣”的规律，而这些规律都是隐而不现的。这就要适当地去“摩”，投其所好进行测探，其内情就会通过外符反映出来。内心的感情要表现于外，就必然要做出一些行动。这就是“摩意”的作用。<br/><br/>　　在达到了这个目的之后，要在适当的时候离开对方，把动机隐藏起来，消除痕迹，伪装外表，回避实情，使人无法知道是谁办成的这件事。因此，达到了目的，办成了事，却不留祸患。“摩”对方是在这个时候，而对方表现自己是在那个时候。只要我们有办法让对方顺应我们的安排行事，就没有什么事情不可办成的。<br/><br/>　　古代善于“摩意”的人，就像拿着钓钩到水潭边上去钓鱼一样。只要把带着饵食的钩投入水中，不必声张，悄悄等待，就可以钓到鱼。所以说：主办的事情一天天成功，却没有察觉；主持的军队日益压倒敌军，却没人感到恐惧，只有做到这样才是高明的。那些有很高修养和智慧的人谋划什么行动总是在暗中进行的，所以被称为“神”，而这些行动的成功都显现在光天化日之下，所以被称为“明”。所谓“主事日成”的人是暗中积累德行，老百姓安居乐业，却不知道为什么会享受到这些利益，他们还在暗中积累善行，老百姓生活在善政中却不知道为什么会有这样的局面。普天下的人们都把这样的“谋之于阴、成之于阳”的政治策略称为“神明”。那些主持军队而日益压倒敌人的统帅，坚持不懈地与敌军对抗，却不去争城夺地，不消耗人力物力，因此老百姓不知道为何邦国臣服，不知道什么是恐惧。为此，普天之下都称这种“谋之于阴、成之于阳”的军事策略为：“神明”。<br/><br/>　　在实施“摩意”时，有用和平进攻的，有用正义责难的，有用娱乐讨好的，有用愤怒激励的，有用名望威吓的，有用行为逼迫的，有用廉洁感化的，有用信誉说服的，有用利益诱惑的，有用谦卑夺取的。和平就是安静，正义就是刚直，娱乐就是喜悦，愤怒就是激动，名望就是声誉，行为就是实施，廉洁就是清明，利益就是需求，谦卑就是委曲。所以，圣人所独用的“摩意”之术，平常人也都可以具有。然而没有能运用成功的，那是因为他们用错了。因此，谋划策略，最困难的就是周到慎密；进行游说，最困难的就是让对方全部听从自己的说辞；主办事情，最困难的就是一定成功。这三个方面只有成为圣人才胜任。<br/><br/>　　所以说谋划必须周到慎密；游说要首先选择与自己可以相通的对象。所以说：“办事情要固若金汤，无懈可击”。要想使所主持之事取得预期的成功，必须有适当的方法。所以说：“客观规律、行动方法以及天时都是互相依附的”。进行游说的人要让对方听信，必须使自己的说辞合于情理，所以说：“合情理才有人听”。世界上万事万物都有各自的属性。好比抱着柴草向烈火走去，干燥的柴草就首先着火燃烧；往平地倒水，低的地方就要先进水。这些现象都是与各类事物的性质相适应的。以此类推，其他事物也是这样的。这也反映“内符”与“外摩”的道理。所以说：按着事物的不同特性来实施“摩意”之术，哪有不反应的呢？根据被游说者的喜好而施行“摩意”之术，哪有一个不听从游说的呢？要想能独往独来，就要注意事物的细微变化，把握好时机，有成绩也不停止，天长日久就一定能化育天下，取得最后成功。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-24-358.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-24-360.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-24.html" action-type="chapterComment" class="comment"><i></i>鬼谷子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

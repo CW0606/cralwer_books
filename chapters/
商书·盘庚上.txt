@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《尚书》正文_商书·盘庚上_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="尚书,尚书原文,尚书阅读,商书·盘庚上全文,佚名作品" />
+<meta name="description" content="尚书原文阅读,商书·盘庚上全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-28-428.html";
+var nextpage="novel-read-28-430.html";
+var indexpage = "novel-chapter-28.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-28.html">尚书</a></strong>
+<strong><a href="novel-chapter-28.html">尚书目录</a></strong>
+<span>商书·盘庚上</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-28-428.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>商书·盘庚上</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-07-19 12:20:27<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　盘庚五迁，将治亳殷，民咨胥怨。作《盘庚》三篇。<br/>　　盘庚迁于殷，民不适有居，率吁众慼出，矢言曰：“我王来，既爰宅于兹，重我民，无尽刘。不能胥匡以生，卜稽，曰其如台？先王有服，恪谨天命，兹犹不常宁；不常厥邑，于今五邦。今不承于古，罔知天之断命，矧曰其克从先王之烈？若颠木之有由蘖，天其永我命于兹新邑，绍复先王之大业，厎绥四方。”<br/>　　盘庚斅于民，由乃在位以常旧服，正法度。曰：“无或敢伏小人之攸箴！”王命众，悉至于庭。<br/>　　王若曰：“格汝众，予告汝训汝，猷黜乃心，无傲从康。<br/>　　古我先王，亦惟图任旧人共政。王播告之，修不匿厥指。王用丕钦；罔有逸言，民用丕变。今汝聒聒，起信险肤，予弗知乃所讼。非予自荒兹德，惟汝含德，不惕予一人。予若观火，予亦拙谋作，乃逸。<br/>　　若网在纲，有条而不紊；若农服田，力穑乃亦有秋。汝克黜乃心，施实德于民，至于婚友，丕乃敢大言汝有积德。乃不畏戎毒于远迩，惰农自安，不昏作劳，不服田亩，越其罔有黍稷。<br/>　　汝不和吉言于百姓，惟汝自生毒，乃败祸奸宄，以自灾于厥身。乃既先恶于民，乃奉其恫，汝悔身何及！相时憸民，犹胥顾于箴言，其发有逸口，矧予制乃短长之命！汝曷弗告朕，而胥动以浮言，恐沈于众？若火之燎于原，不可向迩，其犹可扑灭。则惟汝众自作弗靖，非予有咎。<br/>　　迟任有言曰：‘人惟求旧，器非求旧，惟新。’古我先王暨乃祖乃父胥及逸勤，予敢动用非罚？世选尔劳，予不掩尔善。兹予大享于先王，尔祖其从与享之。<br/>　　作福作灾，予亦不敢动用非德。<br/>　　予告汝于难，若射之有志。汝无侮老成人，无弱孤有幼。各长于厥居。勉出乃力，听予一人之作猷。<br/>　　无有远迩，用罪伐厥死，用德彰厥善。邦之臧，惟汝众；邦之不臧，惟予一人有佚罚。凡尔众，其惟致告：自今至于后日，各恭尔事，齐乃位，度乃口。罚及尔身，弗可悔。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-28-428.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-28-430.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-28.html" action-type="chapterComment" class="comment"><i></i>尚书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

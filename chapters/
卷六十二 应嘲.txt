@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《抱朴子》正文_卷六十二 应嘲_葛洪作品 - 维普阅读网</title>
+<meta name="keywords" content="抱朴子,抱朴子原文,抱朴子阅读,卷六十二 应嘲全文,葛洪作品" />
+<meta name="description" content="抱朴子原文阅读,卷六十二 应嘲全文在线阅读,葛洪作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-504-5882.html";
+var nextpage="novel-read-504-5884.html";
+var indexpage = "novel-chapter-504.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-504.html">抱朴子</a></strong>
+<strong><a href="novel-chapter-504.html">抱朴子目录</a></strong>
+<span>卷六十二 应嘲</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-504-5882.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷六十二 应嘲</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=葛洪&amp;searchsubmit=yes"  target="_blank">葛洪</a><span class="divide">|</span>发布时间：2014-09-20 23:04:56<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>抱朴子曰：客嘲余云：“先生载营抱一，韬景灵渊，背俗独住，邈尔萧然。计决而犹豫，不栖於心术；分定而世累，无系於胸间。伯阳以道德为首，庄周以逍遥冠篇，用能标峻格於九霄，宣芳烈於罔极也。今先生高尚勿用，身不服事，而著君道臣节之书；不交於世，而作讥俗救生之论；甚爱骨干毛，而缀用兵战守之法；不营进趋，而有审举穷达之篇；蒙窃惑焉。”<br/>　　抱朴子曰：“君臣之大，次於天地，思乐有道，出处一情，隐显任时，言亦何系。大人君子，与事变通。老子无为者也，鬼谷终隐者也，而著其书，咸论世务。何必身居其位，然後乃言其事乎？夫器非琼瑶，楚和不泣，质非潜虬，风云不集。余才短德薄，干不适治，出处同归，行止一致，岂必达官，乃可议政事君，否则不可论治乱乎？常恨庄生言行自伐，桎梏世业，身居漆园而多诞谈，好画鬼魅，憎图狗马，狭细忠贞，贬毁仁义。可谓雕虎画龙，难以征风云；空板亿万，不能救无钱。孺子之竹马，不免於脚剥；士柈之盈案，无益於腹虚也。”<br/>　　或人又曰：“然吾子所著，弹?戏缢祝�钥啻侵保�峥质首闳≡髟谖唬�斜黛妒保�撬�匝锷�⒂���笾�酪病！?<br/>　　抱朴子曰：“夫制器者珍於周急，而不以辨饰外形为善；立言者贵於助教，而不以偶俗集誉为高。若徒阿顺谄谀，虚美隐恶，岂所匡失弼违，醒迷补过者乎？虑寡和而废白雪之音，嫌难售而贱连城之价，余无取焉。非不能属华艳以取悦，非不知抗直言之多吝，然不忍违情曲笔，错滥真伪，欲令心口相契，顾不愧景，冀知音之在後也。否泰有命，通塞听天，何必书行言用，荣及当年乎？夫君子之开口动笔，必戒悟蔽，式整雷同之倾邪，磋砻流遁之暗秽，而著书者徒饰弄华藻，张磔迂阔，属难验无益之辞，治靡丽虚言之美，有似坚白厉修之书，公孙刑名之论，虽旷笼天地之外，微入无间之内，立解连环，离同合异，鸟影不动，鸡卵有足，犬可为羊，大龟长蛇之言，适足示巧表奇以诳俗，何异乎画敖仓以救饥，仰天汉以解渴。说昆山之多玉，不能赈原宪之贫；观药藏之簿领，不能治危急之疾；墨子刻木鸡以厉天，不如三寸之车金害；管青铸骐骥於金象，不如驽马之周用。言高秋天而不可施者，丘不与易也。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-504-5882.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-504-5884.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-504.html" action-type="chapterComment" class="comment"><i></i>抱朴子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

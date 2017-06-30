@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《准风月谈》正文_踢_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="准风月谈,准风月谈原文,准风月谈阅读,踢全文,鲁迅作品" />
+<meta name="description" content="准风月谈原文阅读,踢全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-551-7613.html";
+var nextpage="novel-read-551-7615.html";
+var indexpage = "novel-chapter-551.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-551.html">准风月谈</a></strong>
+<strong><a href="novel-chapter-551.html">准风月谈目录</a></strong>
+<span>踢</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-551-7613.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>踢</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-06 20:50:29<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　丰之余 <br/>　　两月以前，曾经说过“推”，这回却又来了“踢”。 <br/>　　本月九日《申报》载六日晚间，有漆匠刘明山，杨阿坤，顾洪生三人在法租界黄浦滩太古码头纳凉，适另有数人在左近聚赌，由巡逻警察上前驱逐，而刘，顾两人，竟被俄捕（２）弄到水里去，刘明山竟淹死了。由俄捕说，自然是“自行失足落水”（３）的。但据顾洪生供，却道：“我与刘，杨三人，同至太古码头乘凉，刘坐铁凳下地板上，……我立在旁边，……俄捕来先踢刘一脚，刘已立起要避开，又被踢一脚，以致跌入浦中，我要拉救，已经不及，乃转身拉住俄捕，亦被用手一推，我亦跌下浦中，经人救起的。”推事（４）问：“为什么要踢他？”答曰：“不知。” <br/>　　“推”还要抬一抬手，对付下等人是犯不着如此费事的，于是乎有“踢”。而上海也真有“踢”的专家，有印度巡捕，有安南巡捕，现在还添了白俄巡捕，他们将沙皇时代对犹太人的手段，到我们这里来施展了。我们也真是善于“忍辱负重”的人民，只要不“落浦”，就大抵用一句滑稽化的话道：“吃了一只外国火腿”，一笑了之。 <br/>　　苗民大败之后，都往山里跑，这是我们的先帝轩辕氏赶他的。南宋败残之余，就往海边跑，这据说也是我们的先帝成吉思汗赶他的，赶到临了，就是陆秀夫（５）背着小皇帝，跳进海里去。我们中国人，原是古来就要“自行失足落水”的。 <br/>　　有些慷慨家说，世界上只有水和空气给与穷人。此说其实是不确的，穷人在实际上，那里能够得到和大家一样的水和空气。即使在码头上乘乘凉，也会无端被“踢”，送掉性命的：落浦。要救朋友，或拉住凶手罢，“也被用手一推”：也落浦。如果大家来相帮，那就有“反帝”的嫌疑了，“反帝”原未为中国所禁止的，然而要豫防“反动分子乘机捣乱”，所以结果还是免不了“踢”和“推”，也就是终于是落浦。时代在进步，轮船飞机，随处皆是，假使南宋末代皇帝而生在今日，是决不至于落海的了，他可以跑到外国去，而小百姓以“落浦”代之。 <br/>　　这理由虽然简单，却也复杂，故漆匠顾洪生曰：“不知。”八月十日。 <br/>　　　<br/>===============================================================<br/>　　　　 <br/>　　（１）　本篇最初发表于一九三三年八月十三日《申报自由谈》。<br/>　　（２）　俄捕　旧时帝国主义者在上海公共租界内雇佣白俄充当的警察。 <br/>　　（３）　“自行失足落水”　这是国民党当局为掩饰自己屠杀爱国学生的罪行时所说的话，参看本卷第１０页注（２）。<br/>　　（４）　推事　旧法院中审理刑事、民事案件的官员。<br/>　　（５）　陆秀夫（１２３６—１２７９）　字君实，盐城（今属江苏）人，南宋大臣。一二七八年拥立宋度宗八岁的儿子赵癿为帝，任左丞相。祥兴二年（１２７９），元兵破厓山（在广东新会县南大海中），他背负赵厓投海而死。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-551-7613.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-551-7615.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-551.html" action-type="chapterComment" class="comment"><i></i>准风月谈章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

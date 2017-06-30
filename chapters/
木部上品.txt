@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《神农本草经》正文_木部上品_神农氏作品 - 维普阅读网</title>
+<meta name="keywords" content="神农本草经,神农本草经原文,神农本草经阅读,木部上品全文,神农氏作品" />
+<meta name="description" content="神农本草经原文阅读,木部上品全文在线阅读,神农氏作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-227-2852.html";
+var nextpage="novel-read-227-2854.html";
+var indexpage = "novel-chapter-227.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-227.html">神农本草经</a></strong>
+<strong><a href="novel-chapter-227.html">神农本草经目录</a></strong>
+<span>木部上品</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-227-2852.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>木部上品</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=神农氏&amp;searchsubmit=yes"  target="_blank">神农氏</a><span class="divide">|</span>发布时间：2014-08-18 22:24:11<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>茯苓　味甘平。主治胸胁逆气，忧恚惊恐，心下结痛，寒热烦满咳逆，口焦舌干，利小便。久服安魂养神，不饥延年。一名伏兔。生山谷。<br/>　　松脂　味苦温。主治痈疽恶疮，头疡白秃，疥瘙风气，安五脏，除热。久服轻身延年。一名松膏，一名松肪。生山谷。<br/>　　柏实　味甘平。主治惊悸，安五脏，益气，除风湿痹。久服令人润泽美色，耳目聪明，不饥不老，轻身延年。生山谷。<br/>　　箘桂　味辛温。主治百病，养精神，和颜色，为诸药先娉通使。久服輕身不老，面生光华，媚好常如童子。生交止*山谷。<br/>　　牡桂　味辛温。主治上气咳逆、结气，喉痹吐吸，利关节，补中益气。久服通神，轻身不老。生山谷。<br/>　　杜仲　味辛平。主治腰膝痛，补中，益精气，坚筋骨，强志，除阴下痒湿，小便余沥。久服轻身耐老。一名思仙。生山谷。<br/>　　蔓荆实　味苦微寒。主治筋骨间寒热，湿痹拘挛，明目坚齿，利九窍，去白虫。久服轻身耐老。小荆实亦等。<br/>　　女贞实　味苦平。主补中安五脏，养精神，除百疾。久服肥健、轻身、不老。生川谷。<br/>　　桑上寄生　味苦平。主治腰痛，小儿背强，痈肿，安胎，充肌肤，坚齿发，长须眉。其实，明目、轻身、通神。一名寄屑，一名寓木，一名宛童。生山谷。<br/>　　苏核　味甘平无毒。主治心腹邪结气，明目，目赤痛伤泪出。久服轻身、益气、不饥。生川谷。<br/>　　蘖木　味苦寒。主治五脏肠胃中结气热，黄疸，肠痔，止泄利，女子漏下赤白，阴阳蚀疮。根，一名檀桓。生山谷。<br/>　　辛夷　味辛溫。主治五臟身体寒热，风头脑痛，面鼾*。久服下气，轻身明目，增年能老。一名辛引，一名侯桃，一名房木。生川谷。<br/>　　榆皮　味甘平。主治大小便不通，利水道，除邪气。久服轻身不饥。其实尤良。一名零榆。生山谷。<br/>　　酸枣　味酸平。主治心腹寒热邪结气，四肢酸疼，湿痹。久服安五脏，轻身延年。生川泽。<br/>　　槐子　味苦寒。主治五内邪气热，止涎唾，补绝伤，五痔火疮，妇人乳瘕，子藏急痛。生平泽。<br/>　　枸杞　味苦寒。主治五内邪气，热中消渴，周痹。久服坚筋骨，轻身耐老。一名杞根，一名地骨，一名枸忌，一名地辅。生平泽。<br/>　　橘柚　味辛温。主治胸中瘕热逆气，利水谷。久服去口臭，下气通神。一名橘皮。生南山川谷。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-227-2852.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-227-2854.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-227.html" action-type="chapterComment" class="comment"><i></i>神农本草经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

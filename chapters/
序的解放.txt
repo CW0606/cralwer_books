@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《准风月谈》正文_序的解放_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="准风月谈,准风月谈原文,准风月谈阅读,序的解放全文,鲁迅作品" />
+<meta name="description" content="准风月谈原文阅读,序的解放全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-551-7604.html";
+var nextpage="novel-read-551-7606.html";
+var indexpage = "novel-chapter-551.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-551.html">准风月谈</a></strong>
+<strong><a href="novel-chapter-551.html">准风月谈目录</a></strong>
+<span>序的解放</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-551-7604.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>序的解放</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-06 20:45:04<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　桃椎 <br/>　　一个人做一部书，“藏之名山，传之其人”（２），是封建时代的事，早已过去了。现在是二十世纪过了三十三年，地方是上海的租界上，做买办立刻享荣华，当文学家怎不马上要名利，于是乎有术存焉。 <br/>　　那术，是自己先决定自己是文学家，并且有点儿遗产或津贴。接着就自开书店，自办杂志，自登文章，自做广告，自报消息，自想花样……然而不成，诗的解放（３），先已有人，词的解放（４），只好骗鸟，于是乎“序的解放”起矣。 <br/>　　夫序，原是古已有之，有别人做的，也有自己做的。但这未免太迂，不合于“新时代”的“文学家”（５）的胃口。因为自序难于吹牛，而别人来做，也不见得定规拍马，那自然只好解放解放，即自己替别人来给自己的东西作序（６），术语曰“摘录来信”，真说得好像锦上添花。“好评一束”还须附在后头，代序却一开卷就看见一大番颂扬，仿佛名角一登场，满场就大喝一声采，何等有趣。倘是戏子，就得先买许多留声机，自己将“好”叫进去，待到上台时候，一面一齐开起来。 <br/>　　可是这样的玩意儿给人戳穿了又怎么办呢？也有术的。立刻装出“可怜”相，说自己既无党派，也不借主义，又没有帮口，“向来不敢狂妄”（７），毫没有“座谈”（８）时候的摇头摆尾的得意忘形的气味儿了，倒好像别人乃是反动派，杀人放火主义，青帮红帮，来欺侮了这位文弱而有天才的公子哥儿似的。 <br/>　　更有效的是说，他的被攻击，实乃因为“能力薄弱，无法满足朋友们之要求”。我们倘不知道这位“文学家”的性别，就会疑心到有许多有党派或帮口的人们，向他屡次的借钱，或向她使劲的求婚或什么，“无法满足”，遂受了冤枉的报复的。 <br/>　　但我希望我的话仍然无损于“新时代”的“文学家”，也“摘”出一条“好评”来，作为“代跋”罢：“‘藏之名山，传之其人’，早已过去了。二十世纪，有术存焉，词的解放，解放解放，锦上添花，何等有趣？可是别人乃是反动派，来欺侮这位文弱而有天才的公子，实乃因为‘能力薄弱，无法满足朋友们的要求’，遂受了冤枉的报复的，无损于‘新时代’的‘文学家’也。” <br/>　　七月五日。 <br/>　　<br/>===============================================================<br/>　　　　　 <br/>　　（１）　本篇最初发表于一九三三年七月七日《申报·自由谈》。<br/>　　（２）　“藏之名山，传之其人”　语出西汉司马迁《报任少卿书》：“仆诚以著此书（按指《史记》），藏诸名山，传之其人。”《文选》卷四十一选此文，唐代刘良注：“当时无圣人可以示之，故深藏之名山。” <br/>　　（３）　诗的解放　指“五四”时期的白话诗运动。 <br/>　　（４）　词的解放　参看本卷第５４页注（２）。<br/>　　（５）　“新时代”的“文学家”　指曾今可，他当时主持的书局和刊物，都用“新时代”的名称。 <br/>　　（６）　自己替别人来给自己的东西作序　指曾今可用崔万秋的名字为自己的诗集《两颗星》作序一事，参看本卷第１８４页注（２０）。“好评一束”，指曾今可在《两颗星·自序》中罗列的“读者的好评”。<br/>　　（７）　“向来不敢狂妄”　这是曾今可在一九三三年七月四日《申报》刊登的答复崔万秋的启事中的话：“鄙人既未有党派作护符，也不借主义为工具，更无集团的背景，向来不敢狂妄。惟能力薄弱，无法满足朋友们之要求，遂不免获罪于知己。……（虽自幸未尝出卖灵魂，亦足见没有‘帮口’的人的可怜了！）” <br/>　　（８）　“座谈”　指曾今可拉拢一些人举办“文艺漫谈会”和他主办《文艺座谈》杂志（一九三三年七月一日出版）。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-551-7604.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-551-7606.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-551.html" action-type="chapterComment" class="comment"><i></i>准风月谈章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《华盖集》正文_我观北大_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="华盖集,华盖集原文,华盖集阅读,我观北大全文,鲁迅作品" />
+<meta name="description" content="华盖集原文阅读,我观北大全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-537-6863.html";
+var nextpage="novel-read-537-6865.html";
+var indexpage = "novel-chapter-537.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-537.html">华盖集</a></strong>
+<strong><a href="novel-chapter-537.html">华盖集目录</a></strong>
+<span>我观北大</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-537-6863.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>我观北大</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 21:42:10<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>因为北大学生会的紧急征发，我于是总得对于本校的二十七周年纪念来说几句话。<br/>　　据一位教授（2）的名论，则“教一两点钟的讲师”是不配与闻校事的，而我正是教一点钟的讲师。但这些名论，只好请恕我置之不理；——如其不恕，那么，也就算了，人那里顾得这些事。<br/>　　我向来也不专以北大教员自居，因为另外还与几个学校有关系。然而不知怎的，——也许是含有神妙的用意的罢，今年忽而颇有些人指我为北大派。我虽然不知道北大可真有特别的派，但也就以此自居了。北大派么？就是北大派！怎么样呢？<br/>　　但是，有些流言家幸勿误会我的意思，以为谣我怎样，我便怎样的。我的办法也并不一律。譬如前次的游行，报上谣我被打落了两个门牙，我可决不肯具呈警厅，吁请补派军警，来将我的门牙从新打落。我之照着谣言做去，是以专检自己所愿意者为限的。<br/>　　我觉得北大也并不坏。如果真有所谓派，那么，被派进这派里去，也还是也就算了。理由在下面：<br/>　　既然是二十七周年，则本校的萌芽，自然是发于前清的，但我并民国初年的情形也不知道。惟据近七八年的事实看来，第一，北大是常为新的，改进的运动的先锋，要使中国向着好的，往上的道路走。虽然很中了许多暗箭，背了许多谣言；<br/>　　教授和学生也都逐年地有些改换了，而那向上的精神还是始终一贯，不见得弛懈。自然，偶尔也免不了有些很想勒转马头的，可是这也无伤大体，“万众一心”，原不过是书本子上的冠冕话。<br/>　　第二，北大是常与黑暗势力抗战的，即使只有自己。自从章士钊提了“整顿学风”（3）的招牌来“作之师”（4），并且分送金款（5）以来，北大却还是给他一个依照彭允彝（6）的待遇。现在章士钊虽然还伏在暗地里做总长（7），本相却已显露了；而北大的校格也就愈明白。那时固然也曾显出一角灰色，但其无伤大体，也和第一条所说相同。<br/>　　我不是公论家，有上帝一般决算功过的能力。仅据我所感得的说，则北大究竟还是活的，而且还在生长的。凡活的而且在生长者，总有着希望的前途。<br/>　　今天所想到的就是这一点。但如果北大到二十八周年而仍不为章士钊者流所谋害（8），又要出纪念刊，我却要预先声明：不来多话了。一则，命题作文，实在苦不过；二则，说起来大约还是这些话。<br/>　　十二月十三日。<br/><br/>　<br/>===============================================================<br/><br/><br/>　　（1）本篇最初发表于一九二五年十二月十七日《北大学生会周刊》创刊号。<br/>　　（2）指高仁山。参看本卷第120页注（7）。<br/>　　（3）“整顿学风”　一九二五年八月章士钊起草所谓“整顿学风”的命令，由段祺瑞发布。参看本卷第120页注（4）。<br/>　　（4）“作之师”　语见《尚书·泰誓》：“天佑下民，作之君，作之师。”<br/>　　（5）金款　第一次世界大战后，法国因法郎贬值，坚持中国对法国的庚子赔款要以金法郎支付。一九二五年春，段祺瑞政府不顾当时全国人民的坚决反对，同意了法方的无理要求，从作为赔款抵押的中国盐税中付给债款后，收回余额一千多万元，这笔款被称为“金款”。它们除大部充作北洋政府的军政开支外，从中拨出一百五十万元作为教育经费，当时一些私立大学曾提出分享这笔钱，章士钊则坚持用于清理国立八校的积欠，“分送金款”即指此事。<br/>　　（6）彭允彝　字静仁，湖南湘潭人。一九二三年他任北洋政府教育总长时，北京大学为了反对他，曾一度与教育部脱离关系。一九二五年八月，北京大学又因章士钊“思想陈腐，行为卑鄙”，也宣言反对他担任教育总长，与教育部脱离关系。所以这里说“还是给他一个依照彭允彝的待遇”。<br/>　　（7）暗地里做总长　一九二五年十一月二十八日，北京市群众为要求关税自主，举行示威游行，提出“驱逐段祺瑞”、“打死朱深、章士钊”等口号。章士钊即潜逃天津，并在《甲寅》周刊第一卷第二十一号（一九二五年十二月五日）上宣称：“幸天相我。局势顿移。所谓鸟官也者。已付之自然淘汰。”其实那时段祺瑞并未下台，章士钊也仍在暗中管理部务。<br/>　　（8）章士钊当时一再压迫北京大学，如北大宣布脱离教育部后，《甲寅》周刊即散布解放北大的谣言，进行威胁；一九二五年九月五日，段祺瑞政府内阁会议决定，停发北大经费。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-537-6863.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-537-6865.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-537.html" action-type="chapterComment" class="comment"><i></i>华盖集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

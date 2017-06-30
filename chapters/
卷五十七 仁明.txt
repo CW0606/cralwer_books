@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《抱朴子》正文_卷五十七 仁明_葛洪作品 - 维普阅读网</title>
+<meta name="keywords" content="抱朴子,抱朴子原文,抱朴子阅读,卷五十七 仁明全文,葛洪作品" />
+<meta name="description" content="抱朴子原文阅读,卷五十七 仁明全文在线阅读,葛洪作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-504-5877.html";
+var nextpage="novel-read-504-5879.html";
+var indexpage = "novel-chapter-504.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-504.html">抱朴子</a></strong>
+<strong><a href="novel-chapter-504.html">抱朴子目录</a></strong>
+<span>卷五十七 仁明</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-504-5877.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷五十七 仁明</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=葛洪&amp;searchsubmit=yes"  target="_blank">葛洪</a><span class="divide">|</span>发布时间：2014-09-20 23:03:28<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>抱朴子曰：门人共论仁明之先後，各据所见，乃以谘余。余告之曰：“三光华象者乾也，厚载无穷者坤也，乾有仁而兼明，坤有仁而无明。卑高之数，不以邈乎！夫唯圣人，与天合德。故唐尧以钦明冠典，仲尼以明义首篇。明明在上，元首之尊称也。明哲保身，大雅之绝踪也。虫口月飞蠕动，亦能有仁。故其意爱弘於长育，哀伤著於啁噍。然赴阬阱而无猜，入罻罗而不觉。有仁无明，故并趋祸而攸失炽，潜景以易咀生，结栋宇以免巢穴，选禾稼以代毒烈，制衣裳以改裸饰。後舟楫以济不通，服牛马以息负步，序等威以镇祸乱，造器械以戒不虞，创书契以治百官，制礼律以肃风教，皆大明之所为，非偏人之所能辩也。<br/>　　“夫心不违仁而明不经国，危亡之祸，无以杜遏，亦可知矣。夫料盛衰於未兆，探机事於无形，指倚伏於理外，距浸润於根生者，明之功也。垂恻隐於昆虫，虽见犯而不校，睹觳觫而改牲，避行苇而不蹈者，仁之事也。尔则明者才也，行者行也。杀身成仁之行可力为，而至鉴玄测幽之明难亡假。精粗之分，居然殊矣。夫体不忍之仁，无臧否之明，则心惑伪真，神乱朱紫，思算不分，邪正不识。不远安危，则一身之不保，何暇立以济物乎！昔姬公非无友於之爱，而涕泣以灭亲；石石昔非无天性之慈，而割私以奉公。盖明见事体，不溺近情，遂为纯臣。以义断恩，舍仁用明，以计抑仁，仁可时废而明不可无也。汤武逆取顺守，诚不仁也。应天革命，以其明也。徐偃修仁以朝同班，外坠城池之险，内无戈甲之备，亡国破家，不明之祸也。”<br/>　　门人曰：“仲尼叹仁为任重而道远，又云，人而不仁如礼何？若圣与仁，则吾岂敢！孟子曰，仁，宅也；义，路也。人无恻隐之心，非仁也。三代得天下以仁，失天下以不仁。此皆圣贤之格言，竹素之显证也。而先生贵明，未见典据。小子蔽暗，窃所惑焉。”<br/>　　抱朴子答曰：“古人云，好仁不好学，其蔽也愚。子近之矣。曩六国相吞，豺虎力竞，高权诈而下道德，尚杀伐而废退让，孟生方欲抑顿贪残，褒隆仁义，安得不勤勤谆谆，独称仁邪？然未有片言，云仁胜明也。譬犹疫疠之时，医巫为贵，异口同辞，唯论药石，岂可便谓针艾之伎，过於长生久视之道乎？且吾以为仁明之事，布於方策，直欲切理示，大较精神，举一隅耳。而子犹日用而不知，云明事之无据乎！乾称大明终始，六位时成。是立天以明，无不包也。坤云至哉万物资生，是地德仁，承顺而已。先後之理，不亦炳然！《诗》云，明明上天，照临下土。明明天子，令问不已。’《易》曰，王明并受其福。幽赞神明，神而明之。此则明之与神合体，诚非纯仁，所能企拟也。孔子曰‘聪明神武’，不云‘聪仁’，又曰‘昔者明王之治天下’，不曰‘仁王’。《春秋传》曰：‘明德惟磬’，不云‘仁德’。《书》云‘元首明哉’，不曰‘仁哉’。老子叹上士，则曰‘明白四达’，其说衰薄，则曰‘失道而後德，失德而後仁’。《易》曰‘王者南面向明’，不云‘向仁’也。我欲仁，斯仁至矣。又曰‘为仁由己’，斯则人人可为之也。至於聪明，何可督哉！故孟子云，凡见赤子将入井，莫不趋而救之。以此观之，则莫不有仁心，但厚薄之间，而聪明之分时而有耳。昔崔杼不杀晏婴，晏婴谓杼为大不仁，而有小仁。然则奸臣贼子，犹能有仁矣。”<br/>　　门人又曰：“《易》称立人之道，曰仁与义，然则人莫大於仁也。”抱朴子答曰：“所以云尔者，以为仁在於行，行可力为，而明入於神，必须天授之才，非所以训故也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-504-5877.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-504-5879.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-504.html" action-type="chapterComment" class="comment"><i></i>抱朴子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

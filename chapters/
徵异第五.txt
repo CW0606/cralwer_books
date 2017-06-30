@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《本事诗》正文_徵异第五_孟棨作品 - 维普阅读网</title>
+<meta name="keywords" content="本事诗,本事诗原文,本事诗阅读,徵异第五全文,孟棨作品" />
+<meta name="description" content="本事诗原文阅读,徵异第五全文在线阅读,孟棨作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1038-11062.html";
+var nextpage="novel-read-1038-11064.html";
+var indexpage = "novel-chapter-1038.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1038.html">本事诗</a></strong>
+<strong><a href="novel-chapter-1038.html">本事诗目录</a></strong>
+<span>徵异第五</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1038-11062.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>徵异第五</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-18.html" target="blank">古典小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=孟棨&amp;searchsubmit=yes"  target="_blank">孟棨</a><span class="divide">|</span>发布时间：2014-12-01 20:48:14<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　开元中，有幽州衙将姓张者，妻孔氏，生五子，不幸去世。复娶妻李氏，悍怒狠戾，虐遇五子，日鞭棰之。五子不堪其苦，哭于其葬。母忽于塚中出，抚其子，悲恸久之，因以白布巾题诗赠张曰：“不忿成故人，掩涕每盈巾。死生今有隔，相见永无困。匣里残妆粉，留将与后人。黄泉无用处，恨作塚中尘。有意怀男女，无情亦任君。欲知肠断处，明月照孤坟。”五子得诗，以呈其父。其父恸哭，诉于连帅。帅上闻，敕李氏杖一百，流岭南，张停所职。<br/><br/>　　宋考功以事累贬黜，后放还，至江南。游灵隐寺，夜月极明，长廊吟行，且为诗曰：“鹫岭郁岩峣，龙宫隐寂寥。”第二联搜奇思，终不如意。有老僧点长明灯，坐大禅床，问曰：“少年夜夕久不寐，而吟讽甚苦，何邪？”之问答曰：“弟子业诗，适偶欲题此寺，而兴思不属。”僧曰：“试吟上联。”即吟与听之，再三吟讽，因曰：“何不云‘楼观沧海日，门听浙江潮’？”之问愕然，讶其遒丽。又续终篇曰：“桂子月中落，天香云外飘。扪萝登塔远，刳木取泉遥。霜薄花更发，冰轻叶未凋。待入天台路，看余度石桥。”僧所赠句，乃为一篇之警策。迟明更访之，则不复见矣。寺僧有知者，曰：“此骆宾王也。”之问诘之，曰：“当敬业之败，与宾王俱逃，捕之不获。将帅虑失大魁，得不测罪，时死者数万人，因求戮类二人者，函首以献。后虽知不死，不敢捕送，故敬业得为衡山僧，年九十余乃卒。出赵鲁《游南岳记》。宾王亦落发，偏游名山，至灵隐，以周岁卒。当时虽败，且以匡复为名，故人多护脱之。”<br/><br/>　　韩吏部作《轩辕弥明传》，言尝与文友数人会宿，有老道士形貌瑰异，自通姓名求宿，言论甚奇。既及饮酒，众度其必不留情于诗，因联句咏垆中石罂，将已困之。其首唱曰：“妙匠琢山骨，刳中事调烹。”至弥明，自云：“不善俗书，书则人多不识。”遣人执笔，吟曰：“龙头缩菌蠢，豕腹涨膨脝。”座客无不叹异。会人思竭，不能复续，弥明连足成之。有微吟者，其声凄苦，弥明咏中讥侮之曰：“仍于蚯蚓窍，更作苍蝇声。”状罂之声，既已酷似，讥微吟者，亦复著题，皆大惊伏。须臾，倚壁而睡，鼻中大鼾，其声如雷。座人异且畏之，咸避就寝。既明，失之，莫知所在。<br/><br/>　　元相公稹为御史，鞠狱梓潼。时白尚书在京，与名辈游慈恩，小酌花下，为诗寄元曰：“花时同醉破春愁，醉折花枝当酒筹。忽忆故人天际去，计程今日到梁州。”时元果及褒城，亦寄《梦游》诗曰：“梦君兄弟曲江头，也向慈恩院里游。驿吏唤人排马去，忽惊身在古梁州。”千里神交，合若符契，友朋之道，不期至欤。<br/><br/>　　马相植罢安南都护，与时宰不通，又除黔南，殊不得意。维舟峡中古寺，寺前长堤，堤畔林木，夜月甚明，见人白衣缓步堤上，吟曰：“截竹为筒作笛吹，凤凰池上凤凰飞。劳君更向黔南去，即是陶钧万类时。”历历可听，吟者数四。遣人邀问，即已失之。后自黔南入为大理卿，迁刑部侍郎，判盐铁，遂作相。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1038-11062.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1038-11064.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1038.html" action-type="chapterComment" class="comment"><i></i>本事诗章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

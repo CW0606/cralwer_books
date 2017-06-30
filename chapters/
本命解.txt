@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孔子家语》正文_本命解_王肃作品 - 维普阅读网</title>
+<meta name="keywords" content="孔子家语,孔子家语原文,孔子家语阅读,本命解全文,王肃作品" />
+<meta name="description" content="孔子家语原文阅读,本命解全文在线阅读,王肃作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-349-5191.html";
+var nextpage="novel-read-349-5193.html";
+var indexpage = "novel-chapter-349.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-349.html">孔子家语</a></strong>
+<strong><a href="novel-chapter-349.html">孔子家语目录</a></strong>
+<span>本命解</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-349-5191.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>本命解</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王肃&amp;searchsubmit=yes"  target="_blank">王肃</a><span class="divide">|</span>发布时间：2014-09-05 21:45:58<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>鲁哀公问于孔子曰：“人之命与性何谓也？”孔子对曰：“分于道谓之命，分于道谓始得为人故下句云性命之始形于一谓之性，人各受阴阳以刚柔之性故曰形于一也化于阴阳，象形而发谓之生，化穷数尽谓之死。故命者，性之始也，死者，生之终也，有始则必有终矣。人始生而有不具者五焉，目无见、不能食、不能行、不能言、不能化。及生三月而微煦，煦睛人也煦子句反然后有见，八月生齿，然后能食，三年？合，然后能言，十有六而精通，然后能化。阴穷反阳，故阴以阳变，阳穷反阴，故阳以阴化。是以男子八月生齿，八岁而龀，女子七月生齿，七岁而龀，十有四而化，一阳一阴，奇偶相配，阳奇数阴偶数？桑才反龀初觐反奇居宜反然后道合化成，性命之端，形于此也。”公曰：“男子十六精通，女子十四而化，是则可以生民矣。而礼男子三十而有室，女子二十而有夫也，岂不晚哉？”孔子曰：“夫礼言其极，不是过也。男子二十而冠，有為人父之端，女子十五許嫁，有適人之道，於此而？，則自婚矣。群生闲藏乎阴，而为化育之始，阴为冬也冬藏物而为化育始故圣人因时以合偶，男子穷天数也。极霜降而妇功成，嫁娶者行焉。季秋霜降嫁娶者始于此诗云将子无怒秋以为期也冰泮而农桑起，婚礼而杀于此。泮散也正月农事起蚕者采桑婚礼始杀言未正也至二月农事始起会男女之无夫家者奔者期尽此月故也诗云士如归妻迨冰未泮言如欲使妻归当及冰未泮散之盛时也。杀所戒反男子者，任天道而长万物者也，知可为，知不可为，知可言，知不可言，知可行，知不可行者，是故审其伦而明其别谓之知，所以效匹夫之听也。听宜为德女子者，顺男子之教而长其理者也，为男子长养其理也是故无专制之义，而有三从之道，幼从父兄，既嫁从夫，夫死从子，言无再醮之端，始嫁言醮礼无再醮之端统言不改事人也。醮子肖反教令不出于闺门，事在供酒食而已，无阃外之非仪也，阃门限妇人以自专无阃外之威仪诗云无非无仪酒食是议阃苦本反不越境而奔丧，事无擅为，行无独成，参知而后动，可验而后言，昼不游庭，夜行以火，所以效匹妇之德也。”行下孟反孔子遂言曰：“女有五不取：逆家子也乱家子也世有刑人子也世有恶疾子也丧父长子也此五者皆不取也矣逆家子者，谓其逆德乱家子者，谓其乱伦世有刑人子者，谓其弃于人也有恶疾子者，谓其弃于天也丧父长子。谓其无受命也妇有七出，三不去。七出者：不顺母父出无子出淫僻出恶疾出姑疾出多口舌出窃盗出不顺父母出者，谓其逆德也无子者，谓其绝世也淫僻者，谓其乱族也嫉妒者，谓其乱家也恶疾者，谓其不可供粢盛也多口舌者，谓其离亲也窃盗者；谓其反义也三不去者：谓有所取无所归，一也与共更三年之丧，二也先贫贱，后富贵。三也凡此圣人所以顺男女之际，重婚姻之始也。”　　孔子曰：“礼之所以象五行也，服之制有五等其义四时也，故丧礼有举焉，有恩有义，有节有权。所以举象四时其恩厚者其服重，故为父母斩衰三年，以恩制者也；门内之治恩掩义，门外之治义掩恩，资于事父以事君而敬同，尊尊贵贵，义之大也，故为君亦服衰三年，以义制者也；三日而食，三月而沐，期而练，毁不灭性，不以死伤生，丧不过三年，齐衰不补，坟墓不修，除服之日，鼓素琴，示民有终也，凡此以节制者也；资于事父以事母而爱同，天无二日，国无二君，家无二尊，以治之，故父在为母齐衰期者，见无二尊也；百官备，百物具，不言而事行者，扶而起，谓天子诸侯也言而后事行者，杖而起，卿大夫士也身自执事行者，面垢而已，谓庶人也此以权制者也。亲始死三日不怠，三月不懈，期悲号，三年忧哀之杀也，圣人因杀以制节也。”杀所戒反</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-349-5191.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-349-5193.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-349.html" action-type="chapterComment" class="comment"><i></i>孔子家语章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《抱朴子外篇》正文_尚博卷第三十二_葛洪作品 - 维普阅读网</title>
+<meta name="keywords" content="抱朴子外篇,抱朴子外篇原文,抱朴子外篇阅读,尚博卷第三十二全文,葛洪作品" />
+<meta name="description" content="抱朴子外篇原文阅读,尚博卷第三十二全文在线阅读,葛洪作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-510-6029.html";
+var nextpage="novel-read-510-6031.html";
+var indexpage = "novel-chapter-510.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-510.html">抱朴子外篇</a></strong>
+<strong><a href="novel-chapter-510.html">抱朴子外篇目录</a></strong>
+<span>尚博卷第三十二</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-510-6029.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>尚博卷第三十二</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=葛洪&amp;searchsubmit=yes"  target="_blank">葛洪</a><span class="divide">|</span>发布时间：2014-09-21 21:04:15<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>32.1 抱朴子曰:正经为道义之渊海, 子书为增深之川流. 仰而比之, 则景星之佐三辰也;俯而方之, 则林薄之裨嵩岳也. 虽津途殊辟, 而进德同归;虽离於举趾, 而合於兴化. 故通人总原本以括流末, 操纲领而得一致焉. 古人叹息於才难, 故谓百世为随踵, 不以璞非昆山而弃耀夜之宝, 不以书不出圣而废助教之言. 是以闾陌之拙诗, 军旅之鞫誓, 或词鄙喻陋, 简不盈十, 犹见撰录, 亚次典诰, 百家之言, 与善一揆. 譬操水者, 器虽异而救火同焉;犹针炙者, 术虽殊而攻疾均焉.<br/>　　32.2 汉魏以来, 群言弥繁, 虽义深於玄渊, 辞赡於波涛, 施之可以臻徵祥於天上, 发嘉瑞於後土, 召环雉於大荒之外, 安圜堵於函夏之内, 近弭祸乱之阶, 远垂长世之祉. 然时无圣人, 目其口藻, 故不得骋骅騄之迹於千里之途, 编近世之道於三坟之末也. 拘系之徒, 桎梏浅隘之中, 挈瓶训诂之间, 轻奇贱异, 谓为不急. 或云小道不足观, 或云广博乱人思, 而不识合锱铢可齐重於山陵, 聚百十可以致数於亿兆, 群色会而衮藻丽, 众音杂而韶濩和也. 或贵爱诗乘浅近之细文, 忽薄深美富博之子书, 以磋切之至言为騃拙, 以虚华之小辩为妍巧, 真伪颠倒, 玉石混淆, 同广乐於桑间, 钧龙章於卉服. 悠悠皆然, 可叹可慨也!<br/>　　32.3 或曰:“著述虽繁, 适可以骋辞耀藻, 无补救於得失, 未若德行不言之训. 故颜闵为上而游夏乃次. 四科之格, 学本而行末, 然则缀文固为余事, 而吾子不褒崇其源, 而独贵其流, 可乎? ”抱朴子答曰:“德行为有事, 优劣易见. 文章微妙, 其体难识. 夫易见者粗也, 难识者精也. 夫唯粗也, 故铨衡有定焉;夫唯精也, 故品藻难一焉. 吾故舍易见之粗, 而论难识之精, 不亦可乎! ”<br/>　　32.4 或曰:“德行者本也, 文章者末也. 故四科之序, 文不居上. 然则著纸者, 糟粕之余事;可传者, 祭毕之刍狗. 卑高之格, 是可识矣. 文之体略, 可得闻乎? ”<br/>　　32.5 抱朴子曰:“荃可以弃而鱼未获, 则不得无荃;文可以废而道未行, 则不得无文. 若夫翰迹韵略之宏促, 属辞比事之疏密, 源流至到之修短, 蕴藉汲引之深浅. 其悬绝也, 虽天外毫内, 不足以喻其辽邈;其相倾也, 虽三光熠耀, 不足以方其巨细. 龙渊铅铤, 未足譬其锐钝;鸿羽积金, 未足比其轻重. 清浊叁差, 所禀有主, 朗昧不同科, 强弱各殊气, 而俗士唯见能染毫画纸者, 便概之一例. 斯伯牙所以永思锺子, 郢人所以格斤不运也. 盖刻削者比肩, 而班狄擅绝手之称;援琴者至众, 而夔襄专知音之难. 厩马千驷, 而骐骥有邈群之价;美人万计, 而威施有超世之容. 盖有远过众者也.<br/>　　32.6 “且夫文章之与德行, 犹十尺之与一丈, 谓之余事, 未之前闻. 夫上天之所以垂象, 唐虞之所以为称, 大人虎炳, 君子豹蔚, 昌旦定圣谥於一字, 仲尼从周之郁, 莫非文也. 八卦生鹰隼之所被, 六甲出灵龟之所负, 文之所在, 虽贱犹贵, 犬羊之鞟, 未得比焉. 且夫本不必皆珍, 末不必悉薄. 譬若锦绣之因素地, 珠玉之居蚌石, 云雨生於肤寸, 江河始於咫尺尔. 则文章虽为德行之弟, 未可呼为余事也.”<br/>　　32.7 或曰:“今世所为, 多不及古, 文章著述, 又亦如之. 岂气运衰杀, 自然之理乎? ”<br/>　　抱朴子答曰:“百家之言, 虽有步起, 皆出硕儒之思, 成才士之手, 方之古人, 不必悉减也. 或有汪濊玄旷, 合契作者, 内辟不测之深源, 外播不匮之远流, 其所祖宗也高, 其所紬绎也妙, 变化不系滞於规矩之方圆, 旁通不凝阂於一途之逼促, 是以偏嗜酸咸者, 莫能知其味, 用思有限者, 不能得其神也. 夫应龙徐举, 顾眄凌云, 汗血缓步, 呼吸千里, 而蝼虫岂怪其无阶而高致, 驽蹇患其过己之不渐也. 若夫驰骤於诗论之中, 周旋於传记之间, 而以常情览巨异, 以褊量测无涯, 以至粗求至精, 以甚浅揣甚深, 虽始自髫龀, 讫於振素, 犹不得也.<br/>　　32.8 夫赏快者必誉之以好, 而不得晓者, 必毁之以恶, 自然之理也. 於是以其所不解者为虚诞, 慺诚以为尔, 未必违情以伤物也. 又世俗率神贵古昔而黩贱同时:虽有追风之骏, 犹谓之不及造父之所御也;虽有连城之珍, 犹谓之不及楚人之所泣也;虽有疑断之剑, 犹谓之不及欧冶之所铸也;虽有起死之药, 犹谓之不及和鹊之所合也;虽有超群之人, 犹谓之不及竹帛之所载也;虽有益世之书, 犹谓之不及前代之遗文也. 是以仲尼不见重於当时, 大玄见蚩薄於比肩也. 俗士多云, 今山不及古山之高, 今海不及古海之广, 今日不及古日之热, 今月不及古月之朗, 何肯许今之才士, 不减古之枯骨! 重所闻, 轻所见, 非一世之所患矣. 昔之破琴剿弦者, 谅有以而然乎!</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-510-6029.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-510-6031.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-510.html" action-type="chapterComment" class="comment"><i></i>抱朴子外篇章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

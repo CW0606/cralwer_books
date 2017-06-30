@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《北堂书钞》正文_●附录_虞世南作品 - 维普阅读网</title>
+<meta name="keywords" content="北堂书钞,北堂书钞原文,北堂书钞阅读,●附录全文,虞世南作品" />
+<meta name="description" content="北堂书钞原文阅读,●附录全文在线阅读,虞世南作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-999-9768.html";
+var nextpage="novel-chapter-999.html";
+var indexpage = "novel-chapter-999.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-999.html">北堂书钞</a></strong>
+<strong><a href="novel-chapter-999.html">北堂书钞目录</a></strong>
+<span>●附录</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-999-9768.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>●附录</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=虞世南&amp;searchsubmit=yes"  target="_blank">虞世南</a><span class="divide">|</span>发布时间：2014-11-21 23:06:08<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　北堂书钞一百六十卷（内府藏本）<br/><br/>　　唐虞世南撰世南字伯施餘姚人官至银靑光禄大夫宏文馆学士諡文懿事蹟具唐书本传北堂者秘书省之后堂此书盖世南在隋为秘书郞时所作刘禹锡嘉话录曰虞公之为秘书於省后堂集群书中事可为文用者号为北堂书钞今北堂犹存而书钞盛行於世云云是其事也分八十卷八百一类唐志作一百七十三卷晁公武读书志因之中兴书目作一百六十卷宋史艺文志因之今本卷帙与中兴书目同其地部至泥沙石而毕度非完帙岂原书在宋已有亡佚即王应麟玉海云二馆旧闕书钞惟赵安仁家有本眞宗命内侍取之手詔褒美盖已甚珍其书矣此本为明万厯间常熟陈禹謨所校刻钱曾读书敏求记云世行北堂书钞搀乱増改无从订正向闻嘉禾收藏家有原书寻访十餘年而始得繙阅之令人心目朗然朱彝尊曝书亭集亦称曾见大唐类要百六十卷反覆观之卽虞氏北堂书钞今世所行者出陈禹謨删补至以贞观后事及五代十五国之书杂入其中尽失其旧类要大略出於原书世未易得云云盖明人好増删古书逞臆私改其庸妄无识诚有如钱朱二氏所讥然今嘉禾旧本及大唐类要均已不可得见独禹謨此本独存其増加各幸皆注明补字犹有踪跡可寻存什一於千百亦未始非唐人旧籍所藉以留貽者也惟其所改所删遂竟不可考是则刊刻之功不赎其窜乱之过矣（四库全书总目。子部。类书类）<br/><br/>　　虞公之為秘书於省后堂集群书中事可為文用事号為北堂书钞今北堂犹存而书钞盛传於世（四库全书。子部。小说家类。杂事之属。刘宾客嘉话录）<br/><br/>　　太宗尝出行有司请载副书以从帝曰不须虞世南在此行秘书也虞公為秘监於省后堂集群书可為文章用者号為北堂书钞后北堂犹存而书钞盛行於世（四库全书。子部。小说家类。杂事之属。唐语林卷二）<br/><br/>　　国朝传记曰虞世南之為秘书也请於后堂籍群书中事可為文用者号為北堂书今北堂犹存而书益行於世（四库全书。子部。类书类。太平御览卷六百一）<br/><br/>　　著北堂书钞唐虞世南為秘书於省后堂集群书中事可為文用者号北堂书钞（四库全书。子部。类书类。古今事文类聚别集卷二）<br/><br/>　　虞世南北堂书钞惟安仁家有本真宗命内侍取之嘉其好古手詔褒美尤知典故凡近世典章人物之盛悉能记之喜诲诱后进成其声名当世推重之有集五十巻温瑜后為国子博士（四库全书。史部。正史类。宋史。卷二百八十七）<br/><br/>　　宋赵安仁洛阳人天喜初御史中丞质直纯慤尤嗜读书所得禄赐多购典籍三虞世南北堂书钞惟安仁家有本真宗命内侍取之嘉其好古手詔褒美（四库全书。子部。类书类。同姓名录卷十一）<br/><br/>　　金水桥偏见写本北堂书钞与购未获贾人索值四十千购得即驰送足下适煮羊胛已复烂足下食指动者速跨东华门卫子来（四库全书。集部。别集类。少室山房集卷一百十六）</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-999-9768.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-999.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-999.html" action-type="chapterComment" class="comment"><i></i>北堂书钞章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

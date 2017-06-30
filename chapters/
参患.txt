@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《管子》正文_参患_管仲作品 - 维普阅读网</title>
+<meta name="keywords" content="管子,管子原文,管子阅读,参患全文,管仲作品" />
+<meta name="description" content="管子原文阅读,参患全文在线阅读,管仲作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-43-1142.html";
+var nextpage="novel-read-43-1144.html";
+var indexpage = "novel-chapter-43.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-43.html">管子</a></strong>
+<strong><a href="novel-chapter-43.html">管子目录</a></strong>
+<span>参患</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-43-1142.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>参患</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=管仲&amp;searchsubmit=yes"  target="_blank">管仲</a><span class="divide">|</span>发布时间：2014-07-24 20:53:38<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　凡人主者，猛毅则伐，懦弱则杀，猛毅者何也？轻诛杀人之谓猛毅。懦弱者何也，重诛杀人之谓懦弱。此皆有失彼此。凡轻诛者杀不辜，而重诛者失有皋，故上杀不辜，则道正者不安；上失有皋，则行邪者不变。道正者不安，则才能之人去亡；行邪者不变，则群臣朋党；才能之人去亡，则宜有外难，群臣朋党，则宜有内乱。故曰猛毅者伐，懦弱者杀也。<br/><br/>　　君之所以卑尊，国之所以安危者，莫要于兵。故诛暴国必以兵，禁辟民必以刑。然则兵者外以诛暴，内以禁邪。故兵者尊主安国之经也，不可废也。若夫世主则不然。外不以兵，而欲诛暴，则地必亏矣。内不以刑，而欲禁邪，则国必乱矣。<br/><br/>　　故凡用兵之计，三惊当一至，三至当一军，三军当一战；故一期之师，十年之蓄积殚；一战之费，累代之功尽；今交刃接兵而后利之，则战之自胜者也。攻城围邑，主人易子而食之，析骸而爨之，则攻之自拔者也。是以圣人小征而大匡，不失天时，不空地利，用日维梦，其数不出于计。故计必先定而兵出于竟，计未定而兵出于竟，则战之自败，攻之自毁者也。<br/><br/>　　得众而不得其心，则与独行者同实。兵不完利，与无操者同实，甲不坚密，与俴者同实。弩不可以及远，与短兵同实。射而不能中，与无矢者同实。中而不能入，与无鏃者同实。将徒人，与俴者同实。短兵待远矢，与坐而待死者同实。故凡兵有大论。必先论其器，论其士，论其将，论其主，故曰：“器滥恶不利者，以其士予人也，士不可用者，以其将予人也；将不知兵者，以其主予人也；主不积务于兵者，以其国予人也；故一器成，往夫具，而天下无战心。二器成，惊夫具，而天下无守城。三器成，游夫具，而天下无聚众。”所谓无战心者，知战必不胜，故曰无战心。所谓无守城者，知城必拔，故曰无守城。所谓无聚众者，知众必散，故曰无聚众。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-43-1142.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-43-1144.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-43.html" action-type="chapterComment" class="comment"><i></i>管子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

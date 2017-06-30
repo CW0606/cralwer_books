@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《集外集拾遗补编》正文_来信（张孟闻）_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="集外集拾遗补编,集外集拾遗补编原文,集外集拾遗补编阅读,来信（张孟闻）全文,鲁迅作品" />
+<meta name="description" content="集外集拾遗补编原文阅读,来信（张孟闻）全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-542-7201.html";
+var nextpage="novel-read-542-7203.html";
+var indexpage = "novel-chapter-542.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-542.html">集外集拾遗补编</a></strong>
+<strong><a href="novel-chapter-542.html">集外集拾遗补编目录</a></strong>
+<span>来信（张孟闻）</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-542-7201.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>来信（张孟闻）</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-01 20:59:34<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　从前，我们几个人，曾经发刊过一种半月刊，叫做（大风》，因为各人事情太忙，又苦于贫困，出了不多几期，随即停刊。现在，因为革命过了，许多朋友饭碗革掉了，然而却有机会可以做文章，而且有时还能聚在一起，所以又提起兴致来，重行发刊《大风》。在宁波，我和印刷局去商量，那位经理先生看见了这《大风》两个字就吓慌了。于是再商量过，请夏丐尊先生为我们题签，改称《山雨》。我们自己都是肚里雪亮，晓得这年头儿不容易讲话，一个不好便会被人诬陷，丢了头颅的。所以写文章的时候，是非凡小心在意，谨慎恐惧，惟恐请到监狱里去。——实在的，我们之中已有好几个尝过那味儿了，我自己也便是其一。我们不愿意冤枉尝试第二次，所以写文章和选稿子，是十二分道地的留意，经过好几个人的自己“戒严”，觉得是万无疵累，于是由我送到印刷局去，约定前星期六去看大样。在付印以前，已和上海的开明书店，现代书局，新学会社，以及杭州，汉口，……等处几个书店接洽好代售的事情，所以在礼拜六以前，我们都安心地等待刊物出现。这虽然是小玩意儿，但是自己经营东西，总满是希罕珍爱着的，因而望它产生出来的心情，也颇恳切。 <br/><br/>　　上礼拜六的下午，我跑去校对，印书店的老板却将原稿奉还，我是赶着送终了，而《山雨》也者，便从此寿终正寝。整册稿子，毫无违碍字样，然而竟至于此者，年头儿大有关系。印书店老板奉还稿子时，除了诚恳地道歉求恕之外，并且还有声明，他说：“先生，我们无有不要做生意的道理，实在是经不起风浪惊吓。这刊物，无论是怎样地文艺性的或什么性的，我们都不管，总之不敢再印了。去年，您晓得的，也是您的朋友，拿了东西给我们印，结果是身入囹圄，足足地坐了个把月，天天担心着绑去斫头。店里为我拿出了六七百元钱不算外，还得封闭了几天。乡下住着的老年双亲，凄惶地跑上城来，哭着求别人讲情。在军阀时候，乡绅们还有面子好买，那时候是开口就有土豪劣绅的嫌疑。先生，我也吓得够了，我不要再惊动自己年迈的父母，再不愿印刷那些刊物了。 <br/><br/>　　收受您的稿子，原是那时别人的糊涂，先生，我也不好说您文章里有甚么，只是求您原谅赐恩，别再赐顾这等生意了。” <br/><br/>　　看还给我的稿纸，已经有了黑色的手指印，也晓得他们已经上过版，赔了几许排字工钱了。听了这些话，难道还能忍心逼着他们硬印吗？于是《山雨》就此寿终了。<br/><br/>　　鲁迅先生，我们青年的能力，若低得只能说话时，已经微弱得可哀了；然而却有更可哀的，不敢将别人负责的东西排印。同时，我们也做了非常可哀的弱羊，于是我们就做了无声而待毙的羔羊。倘使有人要绑起我们去宰割时，也许并像鸡或猪一般的哀啼都不敢作一声的。 <br/><br/>　　啊，可惊怕的沉默！难道这便是各地方沉默的真相吗？总之，我们就是这样送了《山雨》的终。并不一定是我们的怯懦，大半却是心中的颓废感情主宰了我们，教我们省一事也好。不过还留有几许落寞怅惘的酸感，所以写了这封信给你。倘使《语丝》有空隙可借，请将这信登载出来。我们顺便在这里揩油道谢，谢各个书局承允代售的好意。 <br/><br/>　　《山雨》最“违碍”的文章，据印书店老板说是《偶像与奴才》那一篇。这是我做的，在三年以前，身在南京，革命军尚在广东，而国府委员经子渊先生尚在宁波第四中学做校长，——然而据说到而今尚是招忌的文字，然而已经革过命了！这信里一并奉上，倘可采登，即请公布，俾国人知文章大不易写。倘使看去太不像文章，也请寄还，因为自己想保存起来，留个《山雨》死后——夭折——的纪念！！ <br/><br/>　　祝您努力！ <br/><br/>　　张孟闻启。三月二十八夜。 <br/><br/>　　==============================================================================<br/><br/><br/>　　（１）本篇最初发表于一九二八年四月二十三日《语丝》周刊第四卷第十七期，在《偶像与奴才》和张孟闻来信之后。张孟闻，笔名西屏，浙江宁波人，当时是宁波浙江省立第四中学和驿亭私立春晖中学教师。 <br/><br/>　　（２）《语丝》文艺性周刊，最初由孙伏园等编辑，一九二四年十一月创刊于北京。一九二七年十月被奉系军阀张作霖查禁，随后移至上海续刊。一九三○年三月十日出至第五卷第五十二期停刊。鲁迅是它的撰稿人和支持者之一，并于该刊在上海出版后一度担任编辑。“不革命”，是创造社某些成员批评《语丝》及其撰稿人的用语，如麦克昂（郭沫若）在《文化批判》第三号（一九二八年三月）发表的《留声机器的回音》中说：“语丝派的不革命的文学家，……照他们在实践上的表示看来倒还没有甚么积极的反革命的行动。”（３）Ｆ．Ｈ．Ａｌｌｐｏｒｔ奥耳波特，美国社会心理学家。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-542-7201.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-542-7203.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-542.html" action-type="chapterComment" class="comment"><i></i>集外集拾遗补编章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

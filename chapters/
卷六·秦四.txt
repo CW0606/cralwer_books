@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《战国策》正文_卷六·秦四_刘向作品 - 维普阅读网</title>
+<meta name="keywords" content="战国策,战国策原文,战国策阅读,卷六·秦四全文,刘向作品" />
+<meta name="description" content="战国策原文阅读,卷六·秦四全文在线阅读,刘向作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-262-4302.html";
+var nextpage="novel-read-262-4304.html";
+var indexpage = "novel-chapter-262.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-262.html">战国策</a></strong>
+<strong><a href="novel-chapter-262.html">战国策目录</a></strong>
+<span>卷六·秦四</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-262-4302.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷六·秦四</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘向&amp;searchsubmit=yes"  target="_blank">刘向</a><span class="divide">|</span>发布时间：2014-08-28 20:47:31<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>秦取楚汉中<br/><br/>　　秦取楚汉中，再战于蓝田，大败楚军。韩、魏闻楚之困，乃南袭至邓，楚王引归。后三国谋攻楚，恐秦之救也，或说薛公曰：“可发使告楚曰：’今三国之兵且去楚，楚能应而公攻秦，虽蓝田岂难得哉！况于楚之故地？’楚疑于秦之未必救己也，而今三国之辞去，则楚之应之也必劝，是楚与三国谋出秦兵矣。秦为知之，必不救也。三国疾攻楚，楚必走秦以急；秦愈不敢出，则是我离秦而攻楚也，兵必有功。”<br/><br/>　　薛公曰：“善。”遂发重使之楚，楚之应之果劝。于是三国并力攻楚，楚果告急于秦，秦遂不敢出兵。大（臣）[臣]有功。<br/><br/>　　----------------------------------------<br/><br/>　　薛公入魏而出齐女<br/><br/>　　薛公入魏而出齐女。韩春谓秦王曰：“何不取为妻，以齐、秦劫魏，则上党秦之有也。齐、秦合而立负刍，负刍立，其母在秦，则魏，秦之县也已。呡欲以齐、秦劫魏而困薛公，佐欲定其弟，臣请为王因呡与佐也。魏惧而复之，负刍必以魏殁世事秦。齐女入魏而怨薛公，终以齐奉事王矣。”<br/><br/>　　----------------------------------------<br/><br/>　　三国攻秦入函谷<br/><br/>　　三国攻秦，入函谷。秦王谓楼缓，曰：“三国之兵深矣，寡人欲割河东而讲。”对曰：“割河东，大费也；免于国患，大利也。此父兄之任也。王何不召公子池而闻焉？”<br/><br/>　　王召公子池而问焉，对曰：“讲亦悔，不讲亦悔。”王曰<br/><br/>　　：“何也？”对曰：“王割河东而讲，三国虽去，王必曰：’惜矣！三国且去，吾特以三城从之。’此讲之悔也。王不讲，三国入函谷，咸阳必危，王又曰’惜矣！吾爱三城而不讲。此又不讲之悔也。寡人决讲矣。”卒使公子池以三城讲于三国,[三国]之兵乃退。<br/><br/>　　----------------------------------------<br/><br/>　　秦昭王谓左右<br/><br/>　　秦昭王谓左右曰：“今日韩、魏，孰与始强？”对曰：“弗如也。”王曰：“今之如耳、魏齐，孰与孟尝、芒卯之贤？“对曰：“弗如也。”王曰：“以孟尝、芒卯之贤，帅强韩、魏之兵以伐秦，犹无奈寡人何也！今以无能若耳、魏齐，帅弱韩、魏以攻秦，其无奈寡人何,亦明矣！”左右皆曰：“甚然。”<br/><br/>　　中期推琴对曰：“王之料天下过矣。昔者六晋之时，智氏最强，灭破范、中行，帅韩、魏以围赵襄子于晋阳。决晋水以灌晋阳，城不沉者三板耳。智伯出行水，韩康子御，魏桓子骖乘。智伯曰：’始，吾不知水之可亡人之国也，乃今知之。汾水利以灌安邑，绛水利以灌平阳。’魏桓子肘韩康子，康子履魏桓子，蹑其踵。肘足接于车上，而智氏分矣。身死国亡，为天下笑。今秦之强，不能过智伯；韩、魏虽弱，尚贤在晋阳之下也。此乃方其用肘足时也，愿王之勿易也。”<br/><br/>　　----------------------------------------<br/><br/>　　楚魏战于陉山<br/><br/>　　楚魏战于陉山。魏许秦以上洛，以绝秦于楚。魏战胜，楚败于南阳。秦责赂于魏，魏不与。管浅谓秦王曰：“王何不谓楚王曰：’魏许寡人以地，今战胜，魏王倍寡人也。王何不与寡人遇？魏畏秦、楚之合，必与秦地矣。是魏胜楚而亡地于秦也；是王以魏地德寡人，秦之楚者多资矣。魏弱，若不出地，<br/><br/>　　则王攻其南，寡人绝其西，魏必危。’”秦王曰：“善。”以是告楚。楚王扬言与秦遇，魏王闻之恐，效上洛于秦。<br/><br/>　　----------------------------------------<br/><br/>　　楚使者景鲤在秦<br/><br/>　　楚使者景鲤在秦，从秦王与魏王遇于境。楚怒，秦（合）[令]周最为楚王曰：“魏请无与楚遇而合于秦，是以鲤与之遇也。弊邑之于与遇善之，故齐不合也。”楚王因不罪景鲤而德周、秦。<br/><br/>　　----------------------------------------<br/><br/>　　楚王使景鲤如秦<br/><br/>　　楚王使景鲤如秦。客谓秦王曰：“景鲤，楚王（使景）所甚爱，王不如留之以市地。楚王听，则不用兵而得地；楚王不听，则杀景鲤，更（不）与不如景鲤（留）[者市]，是便计也。“秦王乃留景鲤。<br/><br/>　　景鲤使人说秦王曰：“臣见王之权轻天下，而地不可得也。臣之来使也，闻齐、魏皆且割地以事秦。所以然者，以秦与楚为昆弟国。今大王留臣，是示天下无楚也，齐、魏有何重于孤国也？楚知秦之孤，不与地，而外结交诸侯以图，则社稷必危，不如出臣。”秦王乃出之。<br/><br/>　　----------------------------------------<br/><br/>　　秦王欲见顿弱<br/><br/>　　秦王欲见顿弱，顿弱曰：“臣之义不参拜，王能使臣无拜，即可矣。不即不见。”秦王许之。于是顿子曰：“天下有[有]其实而无其名者，有无其实而有其名者，有无其名又无其实者。王知之乎？”王曰：“弗知。”顿子曰：“有其实而无其名者，商人是也。无把铫推耨之势，而有积粟之实，此有其实而无其名者也。无其实而有其名者，农夫是也。解冻而耕，暴背而耨，无积粟之实，此无其实而有其名者也。无其名又无其实者，王乃是也。已立为万乘，无孝之名；以千里养，无孝之实。“秦王悖然而怒。<br/><br/>　　顿弱曰：“山东战国有六，威不掩于山东，而掩于母，臣窃为大王不取也。”秦王曰：“山东之建国可兼与？”顿子曰：“韩，天下之咽喉；魏，天下之胸腹。王资臣万金而游，听之韩、魏，入其社稷之臣于秦，即韩、魏从。韩、魏从，而天<br/><br/>　　下可图也。”秦王曰：“寡人之国贫，恐不能给也。”顿子曰<br/><br/>　　：“天下未尝无事也，非从即横也。横成，则秦帝；从成，即楚王。秦帝，即以天下恭养；楚王，即王虽有万金，弗得私也。“秦王曰：“善。”乃资万金，使东游韩、魏，入其将相。北游于燕、赵，而杀李牧。齐王入朝，四国必从，顿子之说也。<br/><br/>　　----------------------------------------<br/><br/>　　顷襄王二十年<br/><br/>　　顷襄王二十年，秦白起拔楚西陵，或拔鄢、郢、夷陵，烧先王之墓。王徙东北，保于陈城。楚遂削弱，为秦所轻。于是白起又将兵来伐。<br/><br/>　　楚人有黄歇者，游学博闻，襄王以为辩，故使于秦。说昭王曰：“天下莫强于秦、楚，今闻大王欲伐楚，此犹两虎相斗而驽犬受其弊，不如善楚。臣请言其说。臣闻之：’物至而反，冬夏是也。致至而危，累棋是也。’今大国之地半天下，有二垂，此从生民以来，万乘之地未尝有也。先帝文王、庄王，王之身，三世而不接地于齐，以绝从亲之要。今王（三）使盛桥守事于韩，成桥以北入燕。是王不用甲，不伸威，而（出）[得]百里之地，王可谓能矣。王又举甲兵而攻魏，杜大梁之门，举河内，拔燕酸枣、虚、桃人，（楚燕）[魏]之兵云翔不敢校，王之功亦多矣。王（申）[休曱]息众二年，然后复之，又取蒲、衍、首垣，以临仁、平（兵）[丘]，小黄、济阳、婴城，而魏氏服矣。王又割濮、磨之北（属之燕），断齐、秦之要，绝楚、魏之脊。天下五合、六聚而不敢救也，王之威亦惮矣。王若能持功守威，省攻伐之心而肥仁义之（诫）[地]，使无复后患，三王不足四，五伯不足六也。<br/><br/>　　“王若负人徒之众，仗兵甲之强，壹毁魏氏之威，而欲以力臣天下之主，臣恐有后患。《诗》云：’靡不有初，鲜克有终。’《易》曰：’狐濡其尾。’此言始之易，终之难也。何以知其然也？智氏见伐赵之利，而不知榆次之祸也；吴见伐齐之便，而不知干隧之败也。此二国者，非无大功也，没利于前，而易患于后也。吴之信越也，从而伐齐，既胜齐人于艾陵，还为越王禽于三江之浦。智氏信韩、魏，从而伐赵，攻晋阳之城，胜有日矣，韩、魏反之，杀智伯瑶于凿台之上。今王妒楚之不毁也，而忘毁楚之强韩魏也。臣为大王虑而不取。《诗》云：‘大武远宅不涉。’从此观之,楚国，援也；邻国，敌也。《诗》：‘他人有心，予忖度之。跃跃毚兔，遇犬获之。’今王中道而信韩、魏之善王也，此正吴信越也。臣闻，敌不可易，时不可失。臣恐韩、魏之卑辞虑患，而实欺大国也。此何也？王既无重世之德于韩、魏，而有累世之怨矣。韩、魏父子兄弟接踵而死于秦者，累世矣。本国残，社稷坏，宗庙毁，刳腹折颐，首身分离，暴骨草泽，头颅僵仆，相望于境；父子老弱系虏，相随于路；鬼神狐伤，无所食，百姓不聊生，族类离散，流亡为臣妾，满海内矣。韩、魏之不亡，秦社稷之忧也。今王之攻楚，不亦失乎！（是）[且]王攻楚之日，则恶出兵？王将藉路于仇雠之韩、魏乎？兵出之日而王忧其不反也，是王以兵资于仇雠之韩、魏。王若不藉路于仇雠之韩、魏，必攻[随]阳、右壤。<br/><br/>　　随阳、右壤，此皆广川大水，山林溪谷不食之地，王虽有之，不为得地。是王有毁楚之名，无得地之实也。<br/><br/>　　“且王攻楚之日，四国必（应）悉起应王。秦、楚之[兵]构而不离，魏氏将出兵而攻留、方与、铚、胡陵、砀、萧、相，故宋必尽。齐人南面，泗北必举。此皆平原四达，膏腴之地也，而王使之独攻。王破楚（于）以肥韩、魏于中国而劲齐，韩、魏之强足以校于秦矣。齐南以泗为境，东负海，北倚河，而无后患，天下之国，莫强于齐。齐、魏得地葆利，而详事下吏，一年之后，为帝若未能，于以禁王之为帝有余。夫以王壤土之博,人徒之众，兵革之强，一举（众）[事]而注地于楚，（诎）[还]令韩、魏归帝重于齐，是王失计也。<br/><br/>　　“臣为王虑，莫若善楚。秦、楚合而为一，（临）以[临]韩，韩必授首。王襟以山东之险，带以河曲之利，韩必为观众之候。若是，王以（十成）[甲戍]郑，梁氏寒心，许、鄢陵婴城，上蔡、召陵不往来也。如此，而魏以关内候矣。王一善楚，而关内二万乘之主注地于齐，齐之右壤可拱手而取也。是王之地一（任）[经]两海，要绝天下也。是燕、赵无齐、楚，[齐楚]无燕赵也。然后危动燕、赵，持齐、楚，此四国者，不待痛而服矣。”<br/><br/>　　----------------------------------------<br/><br/>　　或为六国说秦王<br/><br/>　　或为六国说秦王曰：“土广不足以为安，人众不足以为强。若土广者安，人众者强，则桀、纣之后将存。昔者，赵氏亦尝强矣。曰，赵强何若？举左案齐，举右案魏，厌案万乘之国二，（国）[由]千乘之宋也。筑刚平，卫无东野，刍牧薪采，莫敢窥东门。当是时，卫危于累卵，天下之士相从谋曰：’吾将还其委质，而朝于邯郸之君乎！’于是天下有称伐邯郸者，莫（不）令朝行。魏伐邯郸，因退为逢泽之遇，乘夏车，称夏王，朝为天子，天下皆从。齐太公闻之，举兵伐魏，壤地两分，国家大危。梁王身抱质执璧，请为陈侯臣，天下乃释梁。郢威王闻之，寝不寐，食不饱，帅天下百姓，以与申缚遇于泗水之上，而大败申缚。赵人闻之至枝桑，燕人闻之至格道。格道不通，平际绝。齐战（败）[则]不胜，谋则不得，使陈毛释剑掫委南听罪，西说赵，北说燕，内喻其百姓，而天下乃（齐）释[齐]。于是夫积薄而为厚，聚少而为多，以同言郢威王于侧（纣）[牖]之间。臣岂以郢威王为政衰谋乱以至于此哉？郢为强，临天下诸侯，故天下（乐）[谋]伐之也！”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-262-4302.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-262-4304.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-262.html" action-type="chapterComment" class="comment"><i></i>战国策章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

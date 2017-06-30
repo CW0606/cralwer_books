@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《花边文学》正文_零食_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="花边文学,花边文学原文,花边文学阅读,零食全文,鲁迅作品" />
+<meta name="description" content="花边文学原文阅读,零食全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-536-6798.html";
+var nextpage="novel-read-536-6800.html";
+var indexpage = "novel-chapter-536.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-536.html">花边文学</a></strong>
+<strong><a href="novel-chapter-536.html">花边文学目录</a></strong>
+<span>零食</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-536-6798.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>零食</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 21:19:50<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　 莫朕<br/><br/>　　出版界的现状，期刊多而专书少，使有心人发愁，小品多而大作少，又使有心人发愁。人而有心，真要“日坐愁城”了。<br/><br/>　　但是，这情形是由来已久的，现在不过略有变迁，更加显著而已。<br/><br/>　　上海的居民，原就喜欢吃零食。假使留心一听，则屋外叫卖零食者，总是“实繁有徒”（２）。桂花白糖伦教糕（３），猪油白糖莲心粥，虾肉馄饨面，芝麻香蕉，南洋芒果，西路（暹罗）蜜橘，瓜子大王，还有蜜饯，橄榄，等等。只要胃口好，可以从早晨直吃到半夜，但胃口不好也不妨，因为这又不比肥鱼大肉，分量原是很少的。那功效，据说，是在消闲之中，得养生之益，而且味道好。<br/><br/>　　前几年的出版物，是有“养生之益”的零食，或曰“入门”，或曰“ＡＢＣ”，或曰“概论”，总之是薄薄的一本，只要化钱数角，费时半点钟，便能明白一种科学，或全盘文学，或一种外国文。意思就是说，只要吃一包五香瓜子，便能使这人发荣滋长，抵得吃五年饭。试了几年，功效不显，于是很有些灰心了。一试验，如果有名无实，是往往不免灰心的，例如现在已经很少有人修仙或炼金，而代以洗温泉和买奖券，便是试验无效的结果。于是放松了“养生”这一面，偏到“味道好”那一面去了。自然，零食也还是零食。上海的居民，和零食是死也分拆不开的。<br/><br/>　　于是而出现了小品，但也并不是新花样。当老九章（４）生意兴隆的时候，就有过《笔记小说大观》（５）之流，这是零食一大箱；待到老九章关门之后，自然也跟着成了一小撮。分量少了，为什么倒弄得闹闹嚷嚷，满城风雨的呢？我想，这是因为在担子上装起了篆字的和罗马字母合璧的年红电灯（６）的招牌。<br/><br/>　　然而，虽然仍旧是零食，上海居民的感应力却比先前敏捷了，否则又何至于闹嚷嚷。但这也许正因为神经衰弱的缘故。假使如此，那么，零食的前途倒是可虑的。<br/><br/>　　六月十一日。<br/><br/>　<br/>===============================================================<br/><br/><br/><br/>　　（１）本篇最初发表于一九三四年六月十六日《申报·自由谈》。（２）“实繁有徒”语见《尚书·仲虺之诰》，意思是这种人确实不少。<br/><br/>　　（３）伦教糕一种广东式糕点。<br/><br/>　　（４）老九章指上海老九章绸缎庄，约在一八六○年间开设。一九三四年二月因绸业衰落，股东退伙，宣告清算结束。后来又曾重新组织开设老九章公记绸缎庄。<br/><br/>　　（５）《笔记小说大观》上海进步书局编印的一套丛书，汇辑自唐代至清代的杂史、笔记而成，共出九辑（包括外集），约六十册为一辑，最初四辑在一九一八年左右出版，后几辑于数年后出版。（６）年红电灯即霓虹灯。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-536-6798.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-536-6800.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-536.html" action-type="chapterComment" class="comment"><i></i>花边文学章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

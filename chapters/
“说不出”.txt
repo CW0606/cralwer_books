@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《集外集》正文_“说不出”_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="集外集,集外集原文,集外集阅读,“说不出”全文,鲁迅作品" />
+<meta name="description" content="集外集原文阅读,“说不出”全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-540-6904.html";
+var nextpage="novel-read-540-6906.html";
+var indexpage = "novel-chapter-540.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-540.html">集外集</a></strong>
+<strong><a href="novel-chapter-540.html">集外集目录</a></strong>
+<span>“说不出”</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-540-6904.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>“说不出”</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-30 19:18:56<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>看客在戏台下喝倒采，食客在膳堂里发标（２），伶人厨子，无嘴可开，只能怪自己没本领。但若看客开口一唱戏，食客动手一做菜，可就难说了。 <br/><br/>　　所以，我以为批评家最平稳的是不要兼做创作。假如提起一支屠城的笔，扫荡了文坛上一切野草，那自然是快意的。但扫荡之后，倘以为天下已没有诗，就动手来创作，便每不免做出这样的东西来：宇宙之广大呀，我说不出；父母之恩呀，我说不出；爱人的爱呀，我说不出。 <br/><br/>　　阿呀阿呀，我说不出！ <br/><br/>　　这样的诗，当然是好的，——倘就批评家的创作而言。太上老君的《道德》五千言，开头就说“道可道非常道”（３），其实也就是一个“说不出”，所以这三个字，也就替得五千言。 <br/><br/>　　呜呼，“王者之迹熄，而《诗》亡；《诗》亡，然后《春秋》作。”（４）“予岂好辩哉？予不得已也！”（５）　　（１）本篇最初发表于一九二四年十一月十七日北京《语丝》周刊第一期。一九二三年十二月八日北京星星文学社《文学周刊》第十七号发表周灵均《删诗》一文，把胡适《尝试集》、郭沫若《女神》、康白情《草儿》、俞平伯《冬夜》、徐玉诺《将来的花园》、朱自清、叶绍钧《雪朝》、汪静之《蕙的风》、陆志韦《渡河》八部新诗，都用“不佳”、“不是诗”、“未成熟的作品”等语加以否定。后来他在同年十二月十五日《晨报副刊》发表《寄语母亲》一诗，其中多是“写不出”一类语句：“我想写几句话，寄给我的母亲，刚拿起笔儿却又放下了，写不出爱，写不出母亲的爱呵。”“母亲呵，母亲的爱的心呵，我拿起笔儿却又写不出了。”本篇就是讽刺这种倾向的。 <br/><br/>　　（２）发标江浙一些地方的方言，耍威风的意思。（３）太上老君即老聃，姓李名耳，春秋末期楚国人。道家学派创始者。东汉以来道教奉他为祖师，尊称太上老君。《道德》，即《道德经》，又称《老子》，相传为老聃所著。“道可道非常道”，见该书第一章。 <br/><br/>　　（４）“王者之迹熄，而《诗》亡”等语，见《孟子·离娄下》。（５）“子岂好辩哉，予不得已也！”语见《孟子·滕文公下》。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-540-6904.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-540-6906.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-540.html" action-type="chapterComment" class="comment"><i></i>集外集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

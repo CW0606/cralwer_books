@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《周礼》正文_天官冢宰·酒正/掌次_周公旦作品 - 维普阅读网</title>
+<meta name="keywords" content="周礼,周礼原文,周礼阅读,天官冢宰·酒正/掌次全文,周公旦作品" />
+<meta name="description" content="周礼原文阅读,天官冢宰·酒正/掌次全文在线阅读,周公旦作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-34-814.html";
+var nextpage="novel-read-34-816.html";
+var indexpage = "novel-chapter-34.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-34.html">周礼</a></strong>
+<strong><a href="novel-chapter-34.html">周礼目录</a></strong>
+<span>天官冢宰·酒正/掌次</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-34-814.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>天官冢宰·酒正/掌次</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=周公旦&amp;searchsubmit=yes"  target="_blank">周公旦</a><span class="divide">|</span>发布时间：2014-07-20 16:42:23<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/>　　酒正掌酒之政令，以式法授酒材。凡为公酒者，亦如之。辨五齐之名：一曰泛齐，二曰醴齐，三曰盎齐，四曰缇齐，五曰沈齐。辨三酒之物：一曰事酒，二曰昔酒，三曰清酒。辨四饮之物：一曰清，二曰医，三曰浆，四曰酏。掌其厚薄之齐，以共王之四饮三酒之馔，及后、世子之饮与其酒。凡祭祀，以法共五齐三酒，以实八尊。大祭三贰，中祭再贰，小祭壹贰，皆有酌数。唯齐酒不贰，皆有器量。共宾客之礼酒，共后之致饮于宾客之礼医酏糟，皆使其士奉之。凡王之燕饮酒，共其计，酒正奉之。凡飨士、庶子，飨耆老、孤子，皆共其酒，无酌数。掌酒之赐颁，皆有法以行之。凡有秩酒者，以书契授之。酒正之出，日入其成，月入其要，小宰听之。岁终，则会，唯王及后之饮酒不会。以酒式诛赏。<br/><br/>　　酒人掌为五齐三酒。祭祀，则共奉之，以役世妇。共宾客之礼酒、饮酒而奉之。凡事，共酒而入于酒府。凡祭祀，共酒以往。宾客之陈酒，亦如之。<br/><br/>　　浆人掌共王之六饮，水、浆、醴、凉、医、酏，入于酒府。共宾客之稍礼，共夫人致饮于宾客之礼，清醴医酏糟，而奉之。凡饮共之。<br/><br/>　　凌人掌冰正，岁十有二月，令斩冰，三其凌。春始治鉴。凡外内饔之膳羞，鉴焉。凡酒浆之酒醴，亦如之。祭祀，共冰鉴。宾客，共冰。大丧，共夷槃冰。夏颁冰，掌事，秋刷。<br/><br/>　　笾人掌四笾之实。朝事之笾，其实麷、蕡、白、黑、形盐、膴、鲍鱼、鱐。馈食之笾其实枣、□、桃、乾{艸橑}、榛实。加笾之实，凌、芡、□脯。羞笾之实。糗、饵、粉、餈。凡祭祀，共其笾荐羞之实。丧事及宾客之事，共其荐笾羞笾。为王及后、世子共其内羞。凡笾事，掌之。<br/><br/>　　醢人掌四豆之实。朝事之豆，其实韭菹、醓醢、昌本、麋臡，菁菹、鹿臡、茆菹、麇臡。馈食之豆，其实葵菹、蠃醢、脾析、醓醢、蜃、蚳醢、豚拍、鱼醢。加豆之实，芹菹、兔醢、深蒲、酝醢、箈菹、雁醢、笋菹、鱼醢。羞豆之食，酏食、糁食。凡祭祀，共荐羞之豆实。宾客、丧纪，亦如之。为王及后，世子共其内羞。王举，则共醢六十瓮，以五齐、七醢、七菹、三臡实之。宾客之礼，共醢五十瓮。凡事，共醢。<br/><br/>　　醯人掌共五齐、七菹，凡醯物。以共祭祀之齐菹，凡醯酱之物。宾客，亦如之。王举，则共齐菹醯物六十瓮，共后及世子之酱齐菹。宾客之礼，共醯五十瓮。凡事，共醯。<br/><br/>　　盐人掌盐之政令，以共百事之盐。祭祀，共其苦盐、散盐。宾客，共其形盐、散盐。王之膳羞，共饴盐。后及世子，亦如之。凡齐事，鬻盐，以待戒令。<br/><br/>　　幂人掌共巾幂。祭礼，以疏布、巾幂八尊，以画布、巾幂、六彝，凡王巾皆黼。<br/><br/>　　宫人掌王之六寝之修，为其井匽，除其不蠲，去其恶臭，共王之沐浴。凡寝中之事，埽除、执烛、共炉炭，凡劳事。四方之舍事，亦如之。<br/><br/>　　掌舍掌王之会同之舍。设梐枑再重。设车宫辕门，为坛壝宫棘门，为帷宫，设旌门。无宫，则共人门。凡舍事，则掌之。<br/><br/>　　幕人掌帷、幕、幄、帟、绶之事。凡朝觐、会同、军旅、田役、祭祀，共其帷、幕、幄、帟、绶。大丧，共帷、幕、帟、绶。三公及卿、大夫之丧，共其帟。<br/><br/>　　掌次掌王次之法，以待张事。王大旅上帝，则张毡案，设皇邸。朝日、祀五帝，则张大次、小次，设重帟、重案。合诸侯，亦如之。师田，则张幕，设重帟、重案。诸侯朝觐、会同，则张大次、小次。师田，则张幕、设案。孤卿有邦事，则张幕、设案。凡丧，王则张帟三重，诸侯再重，孤卿、大夫不重。凡祭祀，张其旅幕，张尸次。射，则张耦次。掌凡邦之张事。<br/><br/>译文：<br/>　　酒正掌管有关酒的政令，按照法式授给[酒人]造酒的材料。凡为公事酿造酒的，也按法式授给造酒的材料。辨别五齐的名称种类：一是泛齐，二是醴齐，三是盎齐，四是缇齐，五是沉齐。辨别三种酒的名称种类：一是事酒，二是昔酒，三是清酒。辨别四种饮料的名称种类：一是清，二是医，三是浆，四是酏。负责辨别它们的厚薄程度，以供王所需用的四种饮料、三种酒的陈设，以及供给王后、太子的饮料和酒。凡祭祀，按常法供应五齐、三酒，用以盛满八个酒尊。[三酒]大祭祀要添加三次，中祭祀添加两次，小祭祀添加一次，都有一定的勺数。只有齐酒不添加，[注入尊中]都有一定的数量。供应王送给宾客所需的酒，供应王后送给宾客所需的饮料即未经过滤的医和酏，都是派士送去。凡王举行燕饮酒礼，供给预计所当用的酒，酒正亲自送去。凡用飨礼款待士、庶子，款待老人、孤子，都供给所需的酒，没有一定勺数。负责供应[王]颁赐臣下卢卮声的酒，都有一定的制度依照执行。凡有依常制当供应酒的，就依照符券账册授予。<br/><br/>　　酒正支出的造酒材料和酒，[由酒人]每日记载其数而将十日的会计文书上报[给酒正]，[酒正]每月将当月的会计文书上报[给小宰]，由小宰加以评断，年终总结全年的会计文书[上报给大宰加以评断]。只有王和王后饮用的酒不结算。按照造酒的法式[考核酒人造酒的好坏]以决定赏罚。<br/><br/>　　酒人负责酿造五齐、三酒，祭祀时供给所需用的酒，[并命前往送酒的女奚]听从世妇指使。把供应宾客所需的礼酒和饮酒送到酒正那里。凡[王]有燕饮的事就供应酒而送到酒正的府那里。凡有小祭祀就[派人]送酒前往。馈赠宾客的酒也派人送去。<br/><br/>　　浆人掌管供应王的六种饮料：水、浆、醴、凉、医、酏，送到酒正的府那里。供给宾客[留居期间]所需的饮料。供给夫人向宾客行致饮礼所需的饮料：经过过滤的，或未经过滤的醴、医、酏，而送到(酒正那里]。凡所需的饮料都负责供给。<br/><br/>　　凌人掌管有关藏冰出冰的政令。夏历十二月，命令斩伐冰块，[要斩伐]三倍的数量而藏入冰窖。春天开始检查盛冰的鉴。凡外饔、内饔的牲肉和美味都盛在冰鉴中[以防腐]。凡酒人的五齐、三酒和浆人的六饮也都盛在冰鉴中。祭祀时供给冰鉴[以盛祭物]。对于宾客则供给冰。王丧，供给[寒尸的]夷粲所需的冰。 夏季[王]颁赐冰给臣下，就掌管颁赐的具体事宜。秋天，清除冰窖。<br/><br/>　　笾人掌管[宗庙祭祀时]四次用笾进献的食物。行朝事礼时所进献的笾，盛的食物是炒熟的麦、麻子、炒熟的稻米、炒熟的黍米、虎形的盐块、大块的生鱼片、烘干的鱼、干鱼块。行馈食礼时所进献的笾，盛的食物是枣、栗子、桃、干梅、榛食。进献加笾所盛的食物是菱角、鸡头米、栗子、肉脯，[再加上四笾]菱角、鸡头米、栗子、肉脯。进献羞笾所盛的食物是糗饵、粉糍。凡举行祭祀，供给需用笾进献的食物。有丧事以及燕享宾客的事，供给需用笾进献的食物。为王及王后、太子，供给陈放在房中的食物。凡有关笾的事都由笾人掌管。<br/><br/>　　醢人掌管[宗庙祭祀时]四次用豆进献的食物。行朝事礼时所进献的豆，盛的食物是韭菜做的菹、多汁的肉酱、菖蒲根做的菹、带骨的麇鹿肉做的酱、蔓菁做的菹、带骨的鹿肉做的酱、凫葵做的菹、带骨的獐肉做的酱。行馈食礼时所进献的豆，盛的食物是葵菜做的菹、蜗牛肉酱、牛肚、蛤肉酱、大蛤肉酱、蚁卵酱、小猪两胁的肉、鱼肉酱。进献加豆所盛的食物是水芹菜做的菹、兔肉酱、嫩蒲叶做的菹、多汁的肉酱、小竹笋做的菹、鹅肉酱、竹笋做的菹、鱼肉酱。进献羞豆所盛的食物是酏食、糁食。凡举行祭祀，供给需用豆进献的食物。款待宾客及丧事，也供给需用豆进献的食物。为王及王后、太子，供给陈放在房中的食物。王杀牲盛馔，就供给六十饔，用五种齑类、七种酱类、七种菹类、三种蔫类盛在里边。接待宾客[行致饔饩]之礼时，供给酱类五十饔。凡有事需用酱类就负责供给。<br/><br/>　　醯人掌管五齑、七菹等，凡用醯调和的食物，以供给祭祀所需的齑、菹。凡所需调和醯的齑、菹以及未调和醯的酱类[都负责供给]。款待宾客也这样。王杀牲盛馔，就供给用醯调和的齑、菹六十饔。供给主后和太子所需的酱类，以及[用醯调和的]齑、菹。接待宾客[行致饔饩]之礼，供给醯物五十饔。凡有事需用醯物就负责供给。<br/><br/>　　盐人掌管有关盐的政令，以供各种事情所需用的盐。祭祀时供给所需的苦盐、散盐。款待宾客时供给所需的形盐、散盐。为王烹制膳食佳肴共给饴盐，为王后和太子[烹制食品]也这样。凡调和食品的事，煮盐以待命。<br/><br/>　　幕人负责供给覆盖器物所需的巾。 祭祀时用粗疏的布巾覆盖八尊，用画有花纹的布巾覆盖六彝。凡为王覆盖饮食的巾都带有黼纹。<br/><br/>　　宫人掌管王的六寝的清扫整理，在隐蔽处修建厕所，清除厕所中的污秽，消除它的恶臭。供给王洗头洗澡所需。凡六寝中的杂事，如扫除、(天黑]执掌火把、(冬天]供给炉炭，凡属脏累的活都负责干。王有事外出时的行宫中的杂事也同样负责干。<br/><br/>　　掌舍负责王外出会同时的宫舍。设置两重梐桓作为防禁。(如果停宿在险阻处就]用车围成一圈以象宫，用相对仰起的车辕以象宫门。[如果停宿在平地就]筑土坛，并筑矮墙以象宫，树立双戟以象宫门。[如果白天在途中暂息就]用帷帐围宫，设置旌旗以象宫门。[如果途中临时停留]不设宫，就选择人站立两边以象门。凡[王外出]有关宫舍的事都负责掌管。<br/><br/>　　幕人掌管有关帷、幕、幄、帘和绶带的事。凡有诸侯朝见王、王出外与诸侯会同、征伐、田猎、祭祀等事，供给所需的帷、幕、幄、帘和绶带。有大丧，供给所需的帷、幕、帘和绶带。有三公及卿大夫的丧事，供给所需的帘。<br/><br/>　　掌次掌管有关王次舍的法度，以待[王外出时]张设。王举行大旅祭祭祀上帝，就[在幄中]为王张设铺有毛毡的床，(床后边]设置装饰有如同凤凰羽毛的屏风。行拜日礼，祭祀五帝，就为王张设大幄、小幄，[幄中]张设两重帟，床上铺两重席。王与诸侯会同，也这样为王张设。征伐、田猎，就为王张设帷幕，张设两重帘，床上铺两重席。诸侯朝见王，或与王会同，就为他们张设大幄、小幄。(诸侯跟从王]征伐、田猎，就为他们张设帷幕，铺设床。孤、卿有国事[随王外出]，就为他们张设帷幕，铺设床。凡丧事，是王[的棺柩]就张设三重帟，诸侯的就张设两重帟，孤、卿、大夫的就张设单帟。凡祭祀，为群臣张设大幕，为尸张设幄。举行射箭比赛，就为众耦张设次。掌管王国中一切需要张设[帷、幕、幄、帟等]的事。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-34-814.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-34-816.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-34.html" action-type="chapterComment" class="comment"><i></i>周礼章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

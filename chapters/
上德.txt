@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《文子》正文_上德_文子作品 - 维普阅读网</title>
+<meta name="keywords" content="文子,文子原文,文子阅读,上德全文,文子作品" />
+<meta name="description" content="文子原文阅读,上德全文在线阅读,文子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-38-975.html";
+var nextpage="novel-read-38-977.html";
+var indexpage = "novel-chapter-38.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-38.html">文子</a></strong>
+<strong><a href="novel-chapter-38.html">文子目录</a></strong>
+<span>上德</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-38-975.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>上德</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=文子&amp;searchsubmit=yes"  target="_blank">文子</a><span class="divide">|</span>发布时间：2014-07-22 20:48:17<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　老子〔文子〕曰：主者，國之心也。心治則百節皆安，心擾則百節接亂。故其身治者，支體相遺也；其國治者，君臣相忘也。老子學于常樅，見舌而守柔，仰視屋樹，退而因川，觀影而知持後，故聖人虛無因循，常後而不先，譬若積薪，燎後者處上。<br/><br/>　　老子〔文子〕曰：鳴鐸以聲自毀，膏燭以明自煎，虎豹之文來射，猿[犬穴]之捷來格，故勇武以強梁死，辯士以智能困。能以智知，未能以智不知。故勇于一能，察于一辭，可與曲說，未可與廣應。<br/><br/>　　老子〔文子〕曰：道以無有為體，視之不見其形，聽之不聞其聲，謂之幽冥。幽冥者，所以論道，而非道也。夫道者，內視而自反，故人不小覺，不大迷；不小惠，不大愚。莫鑒于流潦，而鑒于止水；以其內保之，止而不外蕩。月望日奪光，陰不可以承陽，日出星不見，不能與之爭光，末不可以強于本，枝不可以大于幹。上重下輕，其覆必易。一淵不兩蛟，一雌不二雄；一即定，兩即爭。玉在山而草木潤，珠生淵而岸不枯。蚯蚓無筋骨之強、爪牙之利，上食[日布][土果]，下飲黃泉，用心一也。清之為明，杯水可見眸子；濁之為害，河水不見太山。蘭芷不為莫服而不芳，舟浮江海不為莫乘而沉，君子行道不為莫知而止，性之有也。以清入濁，必困辱；以濁入清，必覆傾。天二氣即成虹，地二氣即泄藏，人二氣即生病。陰陽不能常，且冬且夏，月不知晝，日不知夜。川廣者魚大，山高者木修，地廣者德厚，故魚不可以無餌釣，獸不可以空器召。山有猛獸，林木為之不斬；園有螫蟲，葵藿為之不采；國有賢臣，折沖千里。通于道者若車軸，轉于轂中，不運于己，與之致于千里，終而復始，轉于無窮之原也。故舉枉與直，何如不得；舉直與往，勿與遂往。<br/><br/>　　有鳥將來，張羅而待之。得鳥者，羅之一目，今為一目之羅，則無時得鳥，故事或不可前規，物或不可預慮，故聖人畜道待時也。欲致魚者先通谷，欲來鳥者先樹木；水積而魚聚，木茂而鳥集；為魚得者，非挈而入淵也；為猿得者，非負而上木也；縱之所利而已。足所踐者淺，然待所不踐而後能行；心所知者褊，然待所不知而後能明。川竭而谷虛，丘夷而淵塞，唇亡而齒寒，河水深而壤在山。水靜則清，清則平，平則易，易則見物之形。形不可并，故可以為正。使葉落者，風搖之也；使水濁者，物撓之也。璧鍰之器，礛諸之功也；莫邪斷割，砥勵之力也；虻與驥致千里而不飛，無裹糧之資而不飢。狡兔得而獵犬烹，高鳥盡而良弓藏。名成功遂身退，天道然也。怒出于不怒，為出于不為，視于無有則得所見，聽于無聲則得所聞。飛鳥反鄉，兔走歸窟，狐死首丘，寒螿得木，各依其所生也。<br/><br/>　　水火相憎，鼎鬲在其間，五味以和；骨肉相愛也，讒人間之，父子相危也。犬豕不擇器而食，俞肥其體，故近死。鳳凰翔于千仞，莫之能致。椎固百內，而不能自椽；目見百步之外，而不能見其眥。因高為山，及安而不危；因下為淵，即深而魚鱉歸焉。溝池潦即溢，旱即枯。河海之源，淵深而不竭。鱉無耳而目不可以蔽，精于明也；瞽無目而耳不可以蔽，精于聰也。混混水濁，可以濯吾足乎？冷冷之水清，可以濯吾纓乎？[素勺]之為縞也，或為冠，或為[糸末]。冠則戴枝之，[糸末]則足蹍之。金之勢勝木，一刃不能殘一林；土之勢勝水，一掬不能塞江河；水之勢勝火，一酌不能救一車之薪。冬有雷，夏有雹，寒暑不變其節，霜雪麃麃，日出而流。傾易覆也，倚易軵也，幾易助也，濕易雨也。蘭芷以芳，不得見霜；蟾蜍辟兵，壽在五月之望。精泄者，中易殘；華非時者，不可食。<br/><br/>　　舌之與齒，孰先弊焉？繩之與矢，孰先直焉？使影曲者形也，使響濁者聲也。與死同病者，難為良醫；與亡國同道者，不可為忠謀。使倡吹竽，使工捻竅，雖中節，不可使決，君形亡焉。聾者不歌，無以自樂；盲者不觀，無以接物。步于林者，不得直道；行于險者，不得履繩；海內其所出，故能大。日不并出，狐不二雄，橑輪未足恃也。張弓而射，非弦不能發；發矢之為射，十分之一。飢馬在廄，漠然無聲，投芻其旁，爭心乃生。三寸之管無當，天下不能滿；十石而有塞，百斗而足。循繩而斷即不過，懸衡而量即不差。懸古法以類有時，而遂杖格之屬，有時而施。是而行之，謂之斷；非而行之，謂之亂。<br/><br/>　　農夫勞而君子養，愚者言而智者擇。見之明白，處之如玉石；見之黯晦，必留其謀。百星之明，不如一月之光；十牖畢開，不如一戶之明。蝮蛇不可為足，虎不可為翼。今有六尺之席，臥而越之，下才不難，立而逾之，上才不易，勢施異也。助祭者得嘗，救鬥者得傷。蔽于不祥之木，為雷霆所扑。日月欲明，浮雲蔽之；河水欲清，沙土穢之；叢蘭欲修，秋風敗之；人性欲平，嗜欲害之。蒙塵而欲無眯，不可得絜。黃金龜紐，賢者以為佩；土壤布地，能者以為富。故與弱者金玉，不如與之尺素。轂虛而中立三十輻，各盡其力，使一軸獨入，眾輻皆棄，何近遠之能至。橘柚有鄉，萑葦有叢。獸同足者相從游，鳥同翼者相從翔。欲觀九州之地，足無千里之行，無政教之原，而欲為萬民之上者，難矣！凶凶者獲，提提者射，故「大白若辱，廣德若不足。」<br/><br/>　　君子有酒，小人鞭缶，雖不可好，亦可以醜。人之性，便衣綿帛，或射之即被甲，為所不便，以得其便也。三十輻共一轂，各直一鑿，不得相入，猶人臣各守其職也。善用人者，若[虫開去門]之足，眾而不相害；若舌之與齒，堅柔相磨而不相敗。石生而堅，芷生而芳，少而有之，長而逾明。扶之與提，謝之與讓，得之與失，諾之與已，相去千里。再生者不獲，華太早者不須霜而落。污其準，粉其顙，腐鼠在阼，燒熏于堂，入水而增濡，懷臭而求芳，雖善者不能為工。冬冰可折，夏木可結，時難得而易失。木方盛，終日采之而復生；秋風下霜，一夕而零。質的張而矢射集，林木茂而斧斤入，非或召之也，形勢之所致。乳犬之噬虎，伏雞之博狸，恩之所加，不量其力。夫待利而登溺者，必將以利溺之矣。舟能浮能沉，愚者不知足焉。驥驅之不進，引之不止，人君不以求道理。<br/><br/>　　水雖平，必有波；衡雖正，必有差；尺雖齊，必有危。非規矩不能定方圓非準繩無以正曲直。用規矩者，亦有規矩之心。太山之高，倍而不見，秋毫之末，視之可察。竹木有火，不鉆不熏；土中有水，不掘不出。矢之疾，不過二里；跬步不休，跛鱉千里；累塊不止，丘山從成。臨河欲魚，不若歸而織網。弓先調而後求勁，馬先順而後求良，人先信而後求能。巧冶不能消木，良匠不能斫冰，物有不可如之何，君子不留意。使人無渡河可，使河無波不可，無曰不辜，甑終不墜井矣。刺我行者，欲我交；呰我貨者，欲我市；行一棋不足以見知，彈一弦不足以為悲。今有一炭然，掇之爛指，相近也；萬石俱熏，去之十步而不死，同氣而異積也。有榮華者，必有愁悴。上有羅紈，下必有麻[糸費]。木大者根瞿，山高者基扶。<br/><br/>　　老子〔文子〕曰：鼓不藏聲，故能有聲；鏡不沒形，故能有形；金石有聲，不動不鳴；管簫有音，不吹無聲。是以，聖人內藏，不為物唱，事來而制，物至而應。天行不已，終而復始，故能長久；輪得其所轉，故能致遠；天行一不差，故無過矣。天氣下，地氣上；陰陽交通，萬物齊同；君子用事，小人消亡，天地之道也。天氣不下，地氣不上；陰陽不通，萬物不昌；小人得勢，君子消亡，五穀不植，道德內藏。天之道，裒多益寡；地之道，損高益下；鬼神之道，驕溢與下；人之道，多者不與；聖人之道，卑而莫能上也。天明日明，而後能照四方；君明臣明，域中乃安。域有四明，乃能長久，明其施明者，明其化也。天道為文，地道為理，一為之和，時為之使，以成萬物，命之曰道。大道坦坦，去身不遠；「修之于身，其德乃真」；修之于物，其德不絕。天覆萬物，施其德而養之，與而不取，故精神歸焉；與而不取者，上德也，是以有德。高莫高于天也，下莫下于澤也。天高澤下，聖人法之，尊卑有敘，天下定矣。地載萬物而長之，與而取之，故骨骸歸焉；與而取者，下德也，下德不失德，是以無德。地承天，故定寧；地定寧，萬物形；地廣厚，萬物聚。定寧無不載，廣厚無不容。地勢深厚，水泉入聚，地道方廣，故能久長，聖人法之，德無不容。<br/><br/>　　陰難陽，萬物昌；陰復陽，萬物湛。物昌，無不贍也；物湛，無不樂也。物樂則無不治矣。陰害物，陽自屈，陰進陽退，小人得勢，君子避害，天道然也。陽氣動，萬物緩而得其所，是以，聖人順陽道。夫順物者，物亦順之；逆物者，物亦逆之，故不失物之情性。洿澤盈，萬物節成；洿澤枯，萬物荂。故雨澤不行，先下荒亡。陽上而復下，故為萬物主；不長有，故能終而復始；終而復始，故能長久；能長久，故為天下母。陽氣畜而後能施，陰氣積而後能化，未有不畜積而後能化者也。故聖人慎所積。陽滅陰，萬物肥；陰滅陽，萬物衰，故王公尚陽道則萬物昌，尚陰道則天下亡。陽不下陰，則萬物不成；君不下臣，德化不行，故君下臣則聰明，不下臣則暗聾。日出于地，萬物蕃息，王公居民上，以明道德；日入于地，萬物休息，小人居民上，萬物逃匿。雷之動也，萬物啟；雨之潤也，萬物解。大人施行，有似于此，陰陽之動有常節，大人之動不極物。雷動地，萬物緩；風搖樹，草木敗。大人去惡就善，民不遠徙，故民有去就也，去尤甚，就少愈。風不動，火不出；大人不言，小人無跡。火之出也必待薪，大人之言必有信。有信而真，何往不成！河水深，壤在山；丘陵高，下入淵。陽氣盛，變為陰；陰氣盛，變為陽。故欲不可盈，樂不可極。忿無惡言，怒無惡色，是謂計得。火上炎，水下流；聖人知道，以類相求。聖人[人哀]陽，天下和同；[人哀]陰，天下溺沉。<br/><br/>　　老子〔文子〕曰：積薄成厚，積卑成高，君子日汲疾以成輝，小人日快快以至辱。其消息也，雖未能見，故見善如不及，宿不善如不祥。苟向善，雖過無怨；苟不向善，雖忠來惡，故怨人不如怨己，免求諸人不如求諸己。聲自召也，類自求也，名自命也，自官也，無非己者。操銳以刺，操刃以擊；何怨于人，故君子慎其微。萬物負陰而抱陽，沖氣以為和，和居中央，是以木實生心，草實生于莢，卵胎生于中央，不卵不胎，生而須時。地平則水不流，輕重均則衡不傾，物之生化也，有感以然。<br/><br/>　　老子〔文子〕曰：山致其高而雲雨起焉，水致其深而蛟龍生焉，君子致其道而德澤流焉。夫有陰德者，必有陽報；有隱行者，必有昭名。樹黍者不獲稷，樹怨者無報德。<br/><br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-38-975.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-38-977.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-38.html" action-type="chapterComment" class="comment"><i></i>文子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

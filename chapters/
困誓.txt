@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孔子家语》正文_困誓_王肃作品 - 维普阅读网</title>
+<meta name="keywords" content="孔子家语,孔子家语原文,孔子家语阅读,困誓全文,王肃作品" />
+<meta name="description" content="孔子家语原文阅读,困誓全文在线阅读,王肃作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-349-5187.html";
+var nextpage="novel-read-349-5189.html";
+var indexpage = "novel-chapter-349.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-349.html">孔子家语</a></strong>
+<strong><a href="novel-chapter-349.html">孔子家语目录</a></strong>
+<span>困誓</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-349-5187.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>困誓</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王肃&amp;searchsubmit=yes"  target="_blank">王肃</a><span class="divide">|</span>发布时间：2014-09-05 21:44:18<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>子贡问于孔子曰：“赐倦于学，困于道矣，愿息于事君，可乎？”孔子曰：“诗云：‘温恭朝夕，执事有恪。敬也’事君之难也，焉可息哉！”曰：“然则赐愿息而事亲。”孔子曰：“诗云：‘孝子不匮，永锡尔类。匮竭也类善也孝子之道不匮竭者能以类相传长锡尔以善道也’事亲之难也，焉可以息哉！”曰：“然赐请愿息于妻子。”孔子曰：“诗云：‘刑于寡妻，至于兄弟，以御于家邦。刑法也寡适也御正也文王以正法接其寡妻至于同姓兄弟以正治天下之国家者矣’妻子之难也，焉可以息哉！”曰：“然赐愿息于朋友。”孔子曰：“诗云：‘朋友攸摄，摄以威仪。’朋友之难也，焉可以息哉！”曰：“然则赐愿息于耕矣。”孔子曰：“诗云：‘昼尔于茅，宵尔索绹，亟其乘屋，其始播百谷。宵夜绹绞也当以时治屋也亟疾也当亟乘尔屋以善治之也其复当修农播百谷言无懈怠’耕之难也，焉可以息哉！”曰：“然则赐将无所息者也。”孔子曰：“有焉，自望其广，则睪如也，广反为圹睪高貌墉而高冢是也视其高，则填如也，填塞实貌也冢虽高而塞实也察其从，则隔如也，言其隔而不得复相从也此其所以息也矣。”子贡曰：“大哉乎死也！君子息焉，小人休焉，大哉乎死也！”<br/>　　孔子自卫将入晋，至河，闻赵简子杀窦，犨鸣犊，及舜华，乃临河而叹曰：“美哉水，洋洋乎，丘之不济，此命也夫。”子贡趍而进曰：“敢问何谓也？”孔子曰：“窦犨鸣犊，舜华，晋之贤大夫也，赵简子未得志之时，须此二人而后从政，及其已得志也，而杀之。丘闻之刳胎杀夭，则麒麟不至其郊；竭泽而渔，则蛟龙不处其渊；覆巢破卵，则凰凰不翔其邑，何则？君子违伤其类者也。违去也违或为讳也鸟兽之于不义，尚知避之，况于人乎。”遂还息于邹，作盘琴以哀之？盘操琴曲名也<br/>　　子路问于孔子曰：“有人于此，夙兴夜寐，耕芸树艺，手足胼胝，以养其亲，然而名不称孝，何也？”孔子曰：“意者身不敬与，辞不顺与，色不悦与。古之人有言曰，人与己与不汝欺，言人与己事实相通不相欺也今尽力养亲而无三者之阙，何谓无孝之名乎。”孔子曰：“由，汝志之，吾语汝，虽有国士之力，而不能自举其身，非力之少，势不可矣。夫内行不修，身之罪也，行修而名不彰，友之罪也，行修而名自立。故君子入则笃行，出则交贤，何谓无孝名乎。”　　孔子遭厄于陈蔡之间，绝粮七日，弟子馁病，孔子弦歌。子路入见曰：“夫子之歌，礼乎？”孔子弗应，曲终而曰：“由来，吾语汝，君子好乐，为无骄也，小人好乐，为无慑也，慑惧其谁之子，不我知而从我者乎？”其谁之子犹言以谁氏子谓子路曰虽从我而不知我也子路悦，援戚而舞，三终而出，明日免于厄。子贡执辔曰：“二三子从夫子而遭此难也，其弗忘矣。”孔子曰：“善，恶何也？善子贡言也恶何犹言是何也夫陈蔡之间，丘之幸也，二三子从丘者，皆幸也。吾闻之，君不困不成王，烈士不困行不彰，庸知其非激愤厉志之始，于是乎在？”<br/>　　孔子之宋，匡人简子以甲士围之。子路怒，奋戟将与战。孔子止之曰：“恶有修仁义而不免世俗之恶者乎？夫诗书之不讲，礼乐之不习，是丘之过也，若以述先王，好古法而为咎者，则非丘之罪也。命之夫。歌，予和汝。”子路弹琴而歌，孔子和之，曲三终，匡人解甲而罢。孔子曰：“不观高崖，何以知颠坠之患；不临深泉，何以知没溺之患；不观巨海，何以知风波之患，失之者其在此乎？不在此三者之或也士慎此三者，则无累于身矣。”<br/>　　子贡问于孔子曰：“赐既为人下矣，而未知为人下之道，敢问之。”子曰：“为人下者，其犹土乎。汨之之深则出泉，汨渥树其壤则百谷滋焉，草木植焉，禽兽育焉，生则出焉，死则入焉，多其功而不意，功虽多而无所意也●其志而无不容，为人下者当弘志如地无所不容也为人下者以此也。”<br/>　　孔子适郑，与弟子相失，独立东郭门外。或人谓子贡曰：“东门外有一人焉，其长九尺有六寸，河目隆颡，河目上下匡平而长颡颊也其头似尧，其颈似皋繇，其肩似子产，然自腰已下，不及禹者三寸，累然如丧家之狗。”丧家狗主人哀荒不见饭食故累然不得意孔子生于乱世道不得行故累然是不得意之貌也子贡以告，孔子欣然而叹曰：“形状永也，如丧家之狗，然乎哉！然乎哉！”<br/>　　孔子适卫，路出于蒲，会公叔氏以蒲叛卫而止之。孔子弟子有公良儒者，为人贤长有勇力，以私车五乘从夫子行，喟然曰：“昔吾从夫子遇难于匡，又伐树于宋，孔子与弟子行礼于大树之下桓魋欲害之故先伐其树焉今遇困于此，命也夫，与其见夫子仍遇于难，宁我斗死。”挺剑而合众，将与之战。蒲人惧，曰：“苟无适卫，吾则出子以盟。”孔子而出之东门，孔子遂适卫。子贡曰：“盟可负乎？”孔子曰：“要我以盟，非义也。”卫侯闻孔子之来，喜而于郊迎之。问伐蒲，对曰：“可哉？”公曰：“吾大夫以为蒲者，卫之所以恃晋楚也，伐之，无乃不可乎？”孔子曰：“其男子有死之志，公叔氏欲蒲适他国故男子欲死之不乐适也吾之所伐者，不过四五人矣。”本与叔孙同伴者也公曰：“善！卒不果伐。”他日，灵公又与夫子语，见飞鴈过而仰视之，色不悦。孔子乃逝。逝行卫蘧伯玉贤而灵公不用，弥子瑕不肖反任之，史鱼骤谏而不从，史鱼病将卒，命其子曰：“吾在卫朝不能进蘧伯玉，退弥子瑕，是吾为臣不能正君也，生而不能正君，则死无以成礼，我死，汝置尸牖下，于我毕矣。”礼饼含于牖下小歛于户内大歛于阼殡于客位也其子从之。灵公吊焉，怪而问焉，其子以其父言告公，公愕然失容曰：“是寡人之过也。”于是命之殡于客位。进蘧伯玉而用之，退弥子瑕而远之。孔子闻之曰：“古之列谏之者，死则已矣，未有若史鱼死而尸谏，忠感其君者也，不可谓直乎。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-349-5187.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-349-5189.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-349.html" action-type="chapterComment" class="comment"><i></i>孔子家语章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

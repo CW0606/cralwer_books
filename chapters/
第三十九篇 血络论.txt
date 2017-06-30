@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《黄帝内经》正文_第三十九篇 血络论_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="黄帝内经,黄帝内经原文,黄帝内经阅读,第三十九篇 血络论全文,佚名作品" />
+<meta name="description" content="黄帝内经原文阅读,第三十九篇 血络论全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-58-1878.html";
+var nextpage="novel-read-58-1880.html";
+var indexpage = "novel-chapter-58.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-58.html">黄帝内经</a></strong>
+<strong><a href="novel-chapter-58.html">黄帝内经目录</a></strong>
+<span>第三十九篇 血络论</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-58-1878.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第三十九篇 血络论</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-07-29 22:24:45<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【本章要点】<br/>　　一、阐述奇邪在络，因放血而产生各种不良反应及其原理。<br/>　　二、说明刺针后肉着的原理。<br/>　　【原文】<br/>　　黄帝曰：愿闻其奇邪①而不在经者。岐伯曰：血络是也。<br/>　　黄帝曰：刺血络而仆者，何也？血出而射者，何也？血少黑而浊者，何也？血出清而半为汁者，何也？拔针而肿者，何也？血出若多若少而面色苍苍者，何也？拔针而面色不变而烦悗者，何也？多出血而不动摇者，何也？愿闻其故。<br/>　　岐伯曰：脉气盛而血虚者，刺之则脱气②，脱气则仆。血气俱盛而阴气多者，其血滑，刺之则射；阳气蓄积，久留而不泻者，其血黑以浊，故不能射。新饮而液渗于络，而未合和于血也，故血出而汁别焉；其不新饮者，身中有水，久则为肿。阴气积于阳，其气因于络，故刺之血未出而气先行，故肿。阴阳之气，其新相得而未和合，因而泻之，则阴阳俱脱，表里相离，故脱色而苍苍然。刺之血出多，色不变而烦悗者，刺络而虚经，虚经之属于阴者，阴脱，故烦悗。阴阳相得而合为痹者，此为内溢于经，外注于络。如是者，阴阳俱有余，虽多出血而弗能虚也。<br/>　　黄帝曰：相之奈何？岐伯曰：血脉③者，盛坚横以赤，上下无常处，小者如针，大者如筋，则而泻之万全也，故无失数矣。失数而反，各如其度。<br/>　　黄帝曰：针入而肉着者，何也？岐伯曰：热气因于针，则针热，热则内着于针，故坚焉。<br/>　　【注释】<br/>　　①奇邪：这里指因络脉不通，外来邪气壅滞不能深入经脉，而发生异常的病变，称这种外来邪气为奇邪。<br/>　　②脱气：针刺放血，气随血脱，名脱气。<br/>　　③血脉：这里指血脉盛，即邪气亢盛的意思。<br/>　　【译文】<br/>　　黄帝说：请你讲解一下由奇邪所导致的，又不在经脉中的病变情况。岐伯回答说：这是病邪滞于络脉导致的病变。<br/>　　黄帝说：刺血络放血时病人昏倒，是什么原因？针刺后血液喷射而出，是什么原因？放出的血色黑浓厚，又是什么原因？放出的血清稀，有一半像水汁，是什么原因？出针后局部皮肤肿起，是什么原因？放出的血或多或少，面色苍白，是什么原因？面色无变化，但心胸烦闷，是什么原因？出血虽多，但无痛苦，是什么原因？<br/>　　岐伯回答说：脉气盛但血虚的人，针刺时就会脱气，气脱人就会昏倒；血气虽然俱盛，但经脉中阴气较多，所以它的血行滑利，刺络放血时就会血出如喷；阳气蓄积于血络之中，长时间不能外泄，所以血色黑浓厚，不能喷射而出；刚刚喝过水，水液渗入络脉，尚未与血混合时，针刺出的血便清稀；如果不是刚饮过水，那就说明病人体内积有水气，日久便会形成水肿；阴气积蓄于阳分，困滞在络脉，故针刺时血未出而气先行，阴气闭于肉腠则使皮肤发肿；阴阳二气刚刚相合而尚未协调，此时用泄法针刺，就会使阴阳耗散，表里相离，出现面色苍白的现象；刺络时血出较多，但面色不变而心胸烦闷的，是由于刺络使经脉变虚，而虚的经脉连属于五脏之阴，脏虚则阴虚，所以心胸烦闷；阴邪阳邪相合而形成痹症，使邪气内溢于经，外注于络，这样阴分阳分的邪气都有余，所以针刺时虽出血较多，经脉也不会变虚。<br/>　　黄帝说：怎样观察血络呢？岐伯回答说：血脉盛的，络脉坚硬胀满而发赤，或上或下，无固定的部位，小的像针，大的像筷子。在这种情况下，用刺络放血的方法会万无一失。但施治时，切不可违反针刺的原则，否则，就会导致上述不良后果。<br/>　　黄帝说：针刺入肌体后，被肌肉裹住针身，是什么原因？岐伯回答说：这是因为机体的热气使针发热，针身发热，就会使肌肉和针裹在一起了，所以坚实不易转动。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-58-1878.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-58-1880.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-58.html" action-type="chapterComment" class="comment"><i></i>黄帝内经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

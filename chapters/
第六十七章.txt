@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《道德经》正文_第六十七章_老子作品 - 维普阅读网</title>
+<meta name="keywords" content="道德经,道德经原文,道德经阅读,第六十七章全文,老子作品" />
+<meta name="description" content="道德经原文阅读,第六十七章全文在线阅读,老子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-37-945.html";
+var nextpage="novel-read-37-947.html";
+var indexpage = "novel-chapter-37.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-37.html">道德经</a></strong>
+<strong><a href="novel-chapter-37.html">道德经目录</a></strong>
+<span>第六十七章</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-37-945.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第六十七章</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=老子&amp;searchsubmit=yes"  target="_blank">老子</a><span class="divide">|</span>发布时间：2014-07-21 21:28:58<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>[原文] <br/><br/>天下皆谓我&quot;道&quot;大①，似不肖②。夫唯大，故似不肖。若肖，久矣其细也夫③！我有三宝④，持而保之：一曰慈，二曰俭⑤，三曰不敢为天下先。慈故能勇⑥；俭故能广⑦；不敢为天下先，故能成器长⑧。今舍慈且⑨勇；舍俭且广；舍后且先；死矣！夫慈，以战则胜⑩，以守则固。天将救之，以慈卫之。 <br/><br/>[译文] <br/><br/>天下人能说“我道”伟大，不像任何具体事物的样子。正因为它伟大，所以才不像任何具体的事物。如果它像任何一个具体的事物，那么“道”也就显得很渺小了。我有三件法宝执守而且保全它：第一件叫做慈爱；第二件叫做俭啬；第三件是不敢居于天下人的前面。有了这柔慈，所以能勇武；有了俭啬，所以能大方；不敢居于天下人之先，所以能成为万物的首长。现在丢弃了柔慈而追求勇武；丢弃了啬俭而追求大方；舍弃退让而求争先，结果是走向死亡。慈爱，用来征战，就能够胜利，用来守卫就能巩固。天要援助谁，就用柔慈来保护他。 <br/><br/>　 <br/><br/>[注释] <br/><br/>1、我道大：道即我，我即道。“我”不是老子用作自称之词。 <br/><br/>2、似不肖：肖，相似之意。意为不像具体的事物。一说，没有任何东西和我相似。 <br/><br/>3、若肖，久矣其细也夫：以上这一段，有学者认为是它章错简。 <br/><br/>4、三宝：三件法宝，或三条原则。 <br/><br/>5、俭：啬，保守，有而不尽用。 <br/><br/>6、慈故能勇：仁慈所以能勇武。 <br/><br/>7、俭故能广：俭啬所以能大方。 <br/><br/>8、器长：器，指万物。万物的首长。 <br/><br/>9、且：取。 <br/><br/>10、以战则胜：一本作“以阵则亡”。 <br/><br/>　 <br/><br/>[引语] <br/><br/>这一章是“道”的自述，讲的是“道”的原则在政治、军事方面的具体运用。老子说，“道”的原则有三条（即三宝），这就是：“慈”，即爱心加上同情感；“俭”，即含藏培蓄，不奢侈，不肆为；“不敢为天下先”，是“谦让”、“不争”的思想。有“道”的人运用这三条原则，能取得非常好的效果，否则，便会自取灭亡。本章实际是对《德经》三十八章以来的一个小结。 <br/><br/>　 <br/><br/>[评析] <br/><br/>本章包括两层内容：一是讲“道”的伟大；二是讲法宝的妙用。有学者认为这二者之间没有联系，毫不相应，显然是它章错简，认为可以移到三十四章，“故能成其大”句下。我们的看法与这种主张有些区别，认为这两层次前后呼应，有内在联系。例如，第一句和第二句说，天下人都说我道伟大，不像任何具体事物的样子，……我这个伟大的“道”有什么护身的法宝呢？这就是“慈”、“俭”、“不敢为天下先”。这难道不是两层意思的内在联系吗？“慈”，包含有柔和、爱惜之意。四十章讲“弱者道之用”；四十三章讲“天下之至柔，驰骋天下之至坚”，五十二章讲“守柔曰强”；四十五章讲“清静为天下正”，五十五章的“和”，六十一章的“牝常以静胜牡”等内容，都可以包括在“慈”的范围之内。“无为”是老子政治思想的最高概括，而“慈”的另一个名词则是“无为”。“慈”是三宝的首要原则，用慈进攻可以得胜，退守则可以坚固。如果上天要救护谁，就用慈来保卫他。 <br/><br/>“俭”的内涵有二层，一是节俭、吝惜；二是收敛、克制。五十九章讲“治人事天，莫若啬”，与这里的“俭”是相同的含义。俭即是啬。他要求人们不仅要节约人力物力，还要聚敛精神，积蓄能量，等待时机。“不敢为天下先”，也有二层涵义，一是不争，谦让；二是退守、居下。六十一章讲“大邦者下流”；六十六章讲江海“善下”，都指不为天下先的意思。这符合于“道”的原则。总之，“慈”、“俭”、“不敢为天下先”等“三宝”，是老子对于“道”和“德”的社会实践意义上的总结。老子身处战乱，目击了太多的暴力残酷场面，深深地感觉到治国安邦离不开这三宝，因而才极力加以阐扬。<br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-37-945.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-37-947.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-37.html" action-type="chapterComment" class="comment"><i></i>道德经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

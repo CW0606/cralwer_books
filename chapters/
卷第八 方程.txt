@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《九章算术》正文_卷第八 方程_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="九章算术,九章算术原文,九章算术阅读,卷第八 方程全文,佚名作品" />
+<meta name="description" content="九章算术原文阅读,卷第八 方程全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-250-3956.html";
+var nextpage="novel-read-250-3958.html";
+var indexpage = "novel-chapter-250.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-250.html">九章算术</a></strong>
+<strong><a href="novel-chapter-250.html">九章算术目录</a></strong>
+<span>卷第八 方程</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-250-3956.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷第八 方程</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-08-25 21:22:09<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>〔一〕今有上禾三秉，中禾二秉，下禾一秉，实三十九斗；上禾二秉，中禾三秉，下禾一秉，实三十四斗；上禾一秉，中禾二秉，下禾三秉，实二十六斗。问上、中、下禾实一秉各几何？<br/><br/>　　答曰：<br/><br/>　　上禾一秉，九斗、四分斗之一，<br/><br/>　　中禾一秉，四斗、四分斗之一，<br/><br/>　　下禾一秉，二斗、四分斗之三。　　方程术曰，置上禾三秉，中禾二秉，下禾一秉，实三十九斗，于右方。中、左禾列如右方。以右行上禾遍乘中行而以直除。又乘其次，亦以直除。然以中行中禾不尽者遍乘左行而以直除。左方下禾不尽者，上为法，下为实。实即下禾之实。求中禾，以法乘中行下实，而除下禾之实。馀如中禾秉数而一，即中禾之实。求上禾亦以法乘右行下实，而除下禾、中禾之实。馀如上禾秉数而一，即上禾之实。实皆如法，各得一斗。　　〔二〕今有上禾七秉，损实一斗，益之下禾二秉，而实一十斗。下禾八秉，益实一斗与上禾二秉，而实一十斗。问上、下禾实一秉各几何？<br/><br/>　　答曰：<br/><br/>　　上禾一秉实一斗、五十二分斗之一十八，　　下禾一秉实五十二分斗之四十一。　　术曰：如方程。损之曰益，益之曰损。损实一斗者，其实过一十斗也。益实一斗者，其实不满一十斗也。<br/><br/>　　〔三〕今有上禾二秉，中禾三秉，下禾四秉，实皆不满斗。上取中，中取下，下取上各一秉而实满斗。问上、中、下禾实一秉各几何？<br/><br/>　　答曰：　　上禾一秉实二十五分斗之九，<br/><br/>　　中禾一秉实二十五分斗之七，<br/><br/>　　下禾一秉实二十五分斗之四。　　术曰：如方程，各置所取，以正负术入之。<br/><br/>　　正负术曰：同名相除，异名相益，正无入负之，负无入正之。其异名相除，同名相益，正无入正之，负无入负之。　　〔四〕今有上禾五秉，损实一斗一升，当下禾七秉。上禾七秉，损实二斗五升，当下禾五秉。问上、下禾实一秉各几何？<br/><br/>　　答曰：<br/><br/>　　上禾一秉五升，<br/><br/>　　下禾一秉二升。　　术曰：如方程，置上禾五秉正，下禾七秉负，损实一斗一升正。次置上禾七秉正，下禾五秉负，损实二斗五升正。以正负术入之。　　〔五〕今有上禾六秉，损实一斗八升，当下禾一十秉。下禾十五秉，损实五升，当上禾五秉。问上、下禾实一秉各几何？　　答曰：<br/><br/>　　上禾一秉实八升，<br/><br/>　　下禾一秉实三升。<br/><br/>　　术曰：如方程，置上禾六秉正，下禾一十秉负，损实一斗八升正。次置上禾五秉负，下禾一十五秉正，损实五升正。以正负术人之。　　〔六〕今有上禾三秉，益实六斗，当下禾十秉。下禾五秉，益实一斗，当上禾二秉。问上、下禾实一秉各几何？<br/><br/>　　答曰：<br/><br/>　　上禾一秉实八斗，<br/><br/>　　下禾一秉实三斗。<br/><br/>　　术曰：如方程，置上禾三秉正，下禾一十秉负，益实六斗负。次置上禾二秉负，下禾五秉正，益实一斗负。以正负术入之。<br/><br/>　　〔七〕今有牛五、羊二，直金十两。牛二、羊五直金八两。问牛羊各直金几何？<br/><br/>　　答曰：<br/><br/>　　牛一，直金一两、二十一分两之一十三，<br/><br/>　　羊一，直金二十一分两之二十。<br/><br/>　　术曰：如方程。　　〔八〕今有卖牛二、羊五，以买十三豕，有馀钱一千。卖牛三、豕三，以买九羊，钱适足。卖羊六、豕八，以买五牛，钱不足六百。问牛、羊、豕价各几何？<br/><br/>　　答曰：<br/><br/>　　牛价一千二百，<br/><br/>　　羊价五百，　　豕价三百。<br/><br/>　　术曰：如方程，置牛二、羊五正，豕一十三负，馀钱数正；次牛三正，羊九负，豕三正；次牛五负，羊六正，豕八正，不足钱负。以正负术入之。<br/><br/>　　〔九〕今有五雀、六燕，集称之衡，雀俱重，燕俱轻。一雀一燕交而处，衡适平。并燕、雀重一斤。问燕、雀一枚各重几何？<br/><br/>　　答曰：<br/><br/>　　雀重一两、一十九分两之十三，<br/><br/>　　燕重一两、一十九分两之五。<br/><br/>　　术曰：如方程，交易质之，各重八两。<br/><br/>　　〔一０〕今有甲乙二人持钱不知其数。甲得乙半而钱五十，乙得甲太半而亦钱五十。问甲、乙持钱各几何？<br/><br/>　　答曰：<br/><br/>　　甲持三十七钱半，　　乙持二十五钱。　　术曰：如方程，损益之。　　〔一一〕今有二马、一牛价过一万，如半马之价。一马、二牛价不满一万，如半牛之价。问牛、马价各几何？<br/><br/>　　答曰：　　马价五千四百五十四钱、一十一分钱之六，　　牛价一千八百一十八钱、一十一分钱之二。<br/><br/>　　术曰：如方程，损益之。<br/><br/>　　〔一二〕今有武马一匹，中马二匹，下马三匹，皆载四十石至坂，皆不能上。武马借中马一匹，中马借下马一匹，下马借武马一匹，乃皆上。问武、中、下马一匹各力引几何？<br/><br/>　　答曰：<br/><br/>　　武马一匹力引二十二石、七分石之六，<br/><br/>　　中马一匹力引十七石、七分石之一，　　下马一匹力引五石、七分石之五。<br/><br/>　　术曰：如方程各置所借，以正负术入之。<br/><br/>　　〔一三〕今有五家共井，甲二绠不足，如乙一绠；乙三绠不足，如丙一绠；丙四绠不足，如丁一绠；丁五绠不足，如戊一绠；戊六绠不足，如甲一绠。如各得所不足一绠，皆逮。问井深、绠长各几何？<br/><br/>　　答曰：井深七丈二尺一寸。<br/><br/>　　甲绠长二丈六尺五寸，<br/><br/>　　乙绠长一丈九尺一寸，<br/><br/>　　丙绠长一丈四尺八寸，<br/><br/>　　丁绠长一丈二尺九寸，<br/><br/>　　戊绠长七尺六寸。<br/><br/>　　术曰：如方程，以正负术入之。<br/><br/>　　〔一四〕今有白禾二步、青禾三步、黄禾四步、黑禾五步，实各不满斗。白取青、黄，青取黄、黑，黄取黑、白，黑取白、青，各一步，而实满斗。问白、青、黄、黑禾实一步各几何？<br/><br/>　　答曰：<br/><br/>　　白禾一步实一百一十一分斗之三十三，<br/><br/>　　青禾一步实一百一十一分斗之二十八，<br/><br/>　　黄禾一步实一百一十一分斗之一十七，<br/><br/>　　黑禾一步实一百一十一分斗之一十。<br/><br/>　　术曰：如方程，各置所取，以正负术入之。<br/><br/>　　〔一五〕今有甲禾二秉、乙禾三秉、丙禾四秉，重皆过于石。甲二重如乙一，乙三重如丙一，丙四重如甲一。问甲、乙、丙禾一秉各重几何？　　答曰：<br/><br/>　　甲禾一秉重二十三分石之十七，　　乙禾一秉重二十三分石之十一，<br/><br/>　　丙禾一秉重二十三分石之十。<br/><br/>　　术曰：如方程，置重过于石之物为负。以正负术入之。<br/><br/>　　〔一六〕今有令一人、吏五人、从者一十人，食鸡一十；令一十人、吏一人、从者五人，食鸡八；令五人、吏一十人、从者一人，食鸡六。问令、吏、从者食鸡各几何？<br/><br/>　　答曰：<br/><br/>　　令一人食一百二十二分鸡之四十五，<br/><br/>　　吏一人食一百二十二分鸡之四十一，<br/><br/>　　从者一人食一百二十二分鸡之九十七。　　术曰：如方程，以正负术入之。<br/><br/>　　〔一七〕今有五羊、四犬、三鸡、二兔，直钱一千四百九十六；四羊、二犬、六鸡、三兔直钱一千一百七十五；三羊、一犬、七鸡、五兔，直钱九百五十八；二羊、三犬、五鸡、一兔，直钱八百六十一。问羊、犬、鸡、兔价各几何？<br/><br/>　　答曰：<br/><br/>　　羊价一百七十七，<br/><br/>　　犬价一百二十一，<br/><br/>　　鸡价二十三，<br/><br/>　　兔价二十九。<br/><br/>　　术曰：如方程，以正负术入之。<br/><br/>　　〔一八〕今有麻九斗、麦七斗、菽三斗、答二斗、黍五斗，直钱一百四十；麻七斗、麦六斗、菽四斗、答五斗、黍三斗，直钱一百二十八；麻三斗、麦五斗、菽七斗、答六斗、黍四斗，直钱一百一十六；麻二斗、麦五斗、菽三斗、答九斗、黍四斗，直钱一百一十二；麻一斗、麦三斗、菽二斗、答八斗、黍五斗，直钱九十五。问一斗直几何？<br/><br/>　　答曰：<br/><br/>　　麻一斗七钱，<br/><br/>　　麦一斗四钱，<br/><br/>　　菽一斗三钱，<br/><br/>　　答一斗五钱，<br/><br/>　　黍一斗六钱。<br/><br/>　　术曰：如方程，以正负术入之。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-250-3956.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-250-3958.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-250.html" action-type="chapterComment" class="comment"><i></i>九章算术章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《少年张冲六章》正文_作者访谈录（8）_杨争光作品 - 维普阅读网</title>
+<meta name="keywords" content="少年张冲六章,少年张冲六章原文,少年张冲六章阅读,作者访谈录（8）全文,杨争光作品" />
+<meta name="description" content="少年张冲六章原文阅读,作者访谈录（8）全文在线阅读,杨争光作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1354-24952.html";
+var nextpage="novel-read-1354-24954.html";
+var indexpage = "novel-chapter-1354.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1354.html">少年张冲六章</a></strong>
+<strong><a href="novel-chapter-1354.html">少年张冲六章目录</a></strong>
+<span>作者访谈录（8）</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1354-24952.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>作者访谈录（8）</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-23.html" target="blank">文学小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=杨争光&amp;searchsubmit=yes"  target="_blank">杨争光</a><span class="divide">|</span>发布时间：2015-05-07 22:46:28<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>钟：从张冲四年级开始，中间的几课，你使用了课文和张冲日记的对照来写，比如“幸福是什么”这篇课文之后写道，对祖祖辈辈生活靠土地谋生的张红旗来说，说“我劳动我幸福”是哄傻子的。“古往今来最可怜的就是农民，最让人瞧不起的也是农民。我爸说幸福不在村上，幸福在外边，在大城市。”张冲的结论是“我没幸福”。五年级开始，你采用了张冲的习作和日记来和课文对照，习作是按照学校要求来写的，日记是真实内心，父母和老师都在教学生，答题要按照规范和要求，而不必按照真实的认识，让学生学会“虚伪”地生存，学会把作文当做一种虚假的陈述。之后在应用文示例中，张冲写的三篇应用文，一是导致了同学们去看电影不上课，一是以迁户口到北京的申请，透视了户籍带来的生活和教育的不平等。还有招聘启事中性别的不平等。最后是张冲的自我总结……为什么会有这样的变化？<br/>　　杨：课文一章和其他各章一样，也几乎是少年张冲年轻生命经历的一次全记录。张冲是和课文一起成长的。现在的小学生从三年级就要求写日记了。按照要求，写日记和写作文都要写出真情实感，但私密的日记和写给老师看的作文，往往是不一样的。我们的孩子在小学时期就已经学会了做多面人。他们凭生存本能和有限的经验就已经知道，真实的自我在现实中每走一步，都有可能吃亏碰钉子，不讨好。带上假面就顺畅多了。课文没有传达这样的信息，课堂上的老师也不会。课文和课堂的力量太有限了。我们孩子的教育和成长实在不仅是学校和课文就能左右的。孩子的嗅觉比大人更灵敏。八面玲珑的我们，也包括课堂外的老师，其真实的生存形象，可以消解所有的课文和课堂上的堂皇的“布道”。<br/>　　当逆反逐渐积累成反抗的欲望和冲动，并具有了反抗的能力时，张冲就有了那几篇恶作剧的应用文。其中的那一篇“自我总结”，几乎是他从小学到初中毕业，体验和感悟生命成长的自白，也是他要抛弃学校教育的告别书。写完这一节的时候，我真有些五味杂陈了，借用现在孩子们常说的一个词，就是：“无语”。<br/>　　钟：第六章，“他”，是对张冲的正面表达，之前的叙写，有些不清楚的东西，在这里揭示了源头。第一节用了诗体，为什么？<br/>　　杨：这不是事先的设计，是即兴的随笔。刚刚出生的孩子，还只是一个自然的生命，纯粹、透明。我把他的成长和看月亮连在一起，我觉得这么写挺好，有点像诗，像就像吧，就这么写了。<br/>　　钟：就像张红旗觉得自己在井里一样，张冲觉得自己在圈圈里。好奇怪好奇怪的一个圆圈，看不见摸不着。老师和同学，他们看他的目光连结成一个圆圈圈，让他浑身不舒服。不“佛顶上是光圈，我头上是绳圈。”“我觉得满世界都埋着地雷”。有太多复杂的因素，直接间接导致了张冲的人生，他的叛逆和反抗，是必然的，是盲目的，也是悲哀的。他最终伤害了自己。就像一篇课文里说的，事物的正确答案不止一个。在张冲心目中有一块干净的地方，苗苗。你怎样构想的？为什么他们之间不是萌生了爱情？为什么张冲自己选择了反抗做一个坏孩子，却希望苗苗读大学？<br/>　　杨：我要说到“性和爱”了。在我们的文化里，“性”几乎是个贬义词，至今好像还是不干净的人类行为，尽管少有人拒绝。公开提到“性”，我们的大多数立刻就会显出道学家的面孔。私下里呢，那可就说得津津有味了，当然，是说别人。做呢，不说谁都知道的，反正我觉得男盗女娼的很多。爱则是好的。很古的时候，有“兼爱”，有“仁者爱人”；现在则有“爱祖国，爱人民，爱父母”，“爱猫爱狗”，等等等等，听起来是很有爱心的。爱得怎么样呢？什么是“爱”我们可能还没搞清楚呢。我以为我说得并不武断。我们对孩子是怎么爱的，就可以为我作证据。两性的爱呢？也是一本糊涂账。问一问正在爱着的恋人和已经爱成功了的夫妻们，我相信也能证明我说的大致不差。在这样的土壤和空气里，张冲和苗苗能萌生真正称之为“爱情”的爱情吗？有，也是朦朦胧胧的。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1354-24952.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1354-24954.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1354.html" action-type="chapterComment" class="comment"><i></i>少年张冲六章章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

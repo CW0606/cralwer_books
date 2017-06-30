@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《华盖集》正文_杂感_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="华盖集,华盖集原文,华盖集阅读,杂感全文,鲁迅作品" />
+<meta name="description" content="华盖集原文阅读,杂感全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-537-6844.html";
+var nextpage="novel-read-537-6846.html";
+var indexpage = "novel-chapter-537.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-537.html">华盖集</a></strong>
+<strong><a href="novel-chapter-537.html">华盖集目录</a></strong>
+<span>杂感</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-537-6844.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>杂感</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 21:33:54<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>人们有泪，比动物进化，但即此有泪，也就是不进化，正如已经只有盲肠，比鸟类进化，而究竟还有盲肠，终不能很算进化一样。凡这些，不但是无用的赘物，还要使其人达到无谓的灭亡。<br/><br/>　　现今的人们还以眼泪赠答，并且以这为最上的赠品，因为他此外一无所有。无泪的人则以血赠答，但又各各拒绝别人的血。<br/><br/>　　人大抵不愿意爱人下泪。但临死之际，可能也不愿意爱人为你下泪么？无泪的人无论何时，都不愿意爱人下泪，并且连血也不要：他拒绝一切为他的哭泣和灭亡。<br/><br/>　　人被杀于万众聚观之中，比被杀在“人不知鬼不觉”的地方快活，因为他可以妄想，博得观众中的或人的眼泪。但是，无泪的人无论被杀在什么所在，于他并无不同。<br/><br/>　　杀了无泪的人，一定连血也不见。爱人不觉他被杀之惨，仇人也终于得不到杀他之乐：这是他的报恩和复仇。<br/><br/>　　死于敌手的锋刃，不足悲苦；死于不知何来的暗器，却是悲苦。但最悲苦的是死于慈母或爱人误进的毒药，战友乱发的流弹，病菌的并无恶意的侵入，不是我自己制定的死刑。<br/><br/>　　仰慕往古的，回往古去罢！想出世的，快出世罢！想上天的，快上天罢！灵魂要离开肉体的，赶快离开罢！现在的地上，应该是执着现在，执着地上的人们居住的。<br/><br/>　　但厌恶现世的人们还住着。这都是现世的仇仇，他们一日存在，现世即一日不能得救。<br/><br/>　　先前，也曾有些愿意活在现世而不得的人们，沉默过了，呻吟过了，叹息过了，哭泣过了，哀求过了，但仍然愿意活在现世而不得，因为他们忘却了愤怒。<br/><br/>　　勇者愤怒，抽刃向更强者；怯者愤怒，却抽刃向更弱者。<br/><br/>　　不可救药的民族中，一定有许多英雄，专向孩子们瞪眼。这些孱头们！<br/><br/>　　孩子们在瞪眼中长大了，又向别的孩子们瞪眼，并且想：<br/><br/>　　他们一生都过在愤怒中。因为愤怒只是如此，所以他们要愤怒一生，——而且还要愤怒二世，三世，四世，以至末世。<br/><br/>　　无论爱什么，——饭，异性，国，民族，人类等等，——<br/><br/>　　只有纠缠如毒蛇，执着如怨鬼，二六时中（2），没有已时者有望。<br/><br/>　　但太觉疲劳时，也无妨休息一会罢；但休息之后，就再来一回罢，而且两回，三回……。血书，章程，请愿，讲学，哭，电报，开会，挽联，演说，神经衰弱，则一切无用。<br/><br/>　　血书所能挣来的是什么？不过就是你的一张血书，况且并不好看。至于神经衰弱，其实倒是自己生了病，你不要再当作宝贝了，我的可敬爱而讨厌的朋友呀！<br/><br/>　　我们听到呻吟，叹息，哭泣，哀求，无须吃惊。见了酷烈的沉默，就应该留心了；见有什么像毒蛇似的在尸林中蜿蜒，怨鬼似的在黑暗中奔驰，就更应该留心了：这在豫告“真的愤怒”将要到来。那时候，仰慕往古的就要回往古去了，想出世的要出世去了，想上天的要上天了，灵魂要离开肉体的就要离开了！……<br/><br/>　　五月五日。<br/><br/>　　（1）本篇最初发表于一九二五年五月八日北京《莽原》周刊第三期。<br/><br/>　　（2）二六时中即十二个时辰，整天整夜的意思。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-537-6844.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-537-6846.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-537.html" action-type="chapterComment" class="comment"><i></i>华盖集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《聊斋志异》正文_卷八 梦狼_蒲松龄作品 - 维普阅读网</title>
+<meta name="keywords" content="聊斋志异,聊斋志异原文,聊斋志异阅读,卷八 梦狼全文,蒲松龄作品" />
+<meta name="description" content="聊斋志异原文阅读,卷八 梦狼全文在线阅读,蒲松龄作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1254-23425.html";
+var nextpage="novel-read-1254-23427.html";
+var indexpage = "novel-chapter-1254.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1254.html">聊斋志异</a></strong>
+<strong><a href="novel-chapter-1254.html">聊斋志异目录</a></strong>
+<span>卷八 梦狼</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1254-23425.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷八 梦狼</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-18.html" target="blank">古典小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=蒲松龄&amp;searchsubmit=yes"  target="_blank">蒲松龄</a><span class="divide">|</span>发布时间：2015-04-02 20:36:35<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>白翁，直隶人。长子甲，筮仕南服，三年无耗。适有瓜葛丁姓造谒，翁款之。丁素走无常。谈次，翁辄问以冥事，丁对语涉幻；翁不深信，但微哂之。别后数日，翁方卧，见丁又来，邀与同游。从之去，入一城阙。移时，丁指一门曰：“此间君家甥也。”时翁有姊子为晋令，讶曰：“乌在此？”丁曰：“倘不信，入便知之。”翁入，果见甥，蝉冠豸绣坐堂上，戟幢行列，无人可通。丁曳之出，曰：“公子衙署，去此不远，亦愿见之否？”翁诺。少间，至一第，丁曰：“入之。”窥其门，见一巨狼当道，大惧不敢进。丁又曰：“入之。”又入一门，见堂上、堂下，坐者、卧者，皆狼也。又视墀中，白骨如山，益惧。丁乃以身翼翁而进。公子甲方自内出，见父及丁良喜。少坐，唤侍者治肴蔌。忽一巨狼，衔死人入。翁战惕而起曰：“此胡为者？”甲曰：“聊充庖厨。”翁急止之。<br/><br/>　　心怔忡不宁，辞欲出，而群狼阻道。进退方无所主，忽见诸狼纷然嗥避，或窜床下，或伏几底。错愕不解其故。俄有两金甲猛士努目入，出黑索索甲。甲扑地化为虎，牙齿巉巉，一人出利剑，欲枭其首。一人曰：“且勿，且勿，此明年四月间事，不如姑敲齿去。”乃出巨锤锤齿，齿零落堕地。虎大吼，声震山岳。翁大惧，忽醒，乃知其梦。心异之，遣人招丁，丁辞不至。翁志其梦，使次子诣甲，函戒哀切。既至，见兄门齿尽脱；骇而问之，则醉中坠马所折。考其时，则父梦之日也。益骇。出父书。甲读之变色，为间曰：“此幻梦之适符耳，何足怪。”时方赂当路者，得首荐，故不以妖梦为意。弟居数日，见其蠹役满堂，纳贿关说者，中夜不绝，流涕谏止之。甲曰：“弟日居衡茅，故不知仕途之关窍耳。黜陟之权，在上台不在百姓。上台喜，便是好官；爱百姓，何术能令上台喜也？”弟知不可劝止，遂归。告父。翁闻之大哭。无可如何，惟捐家济贫，日祷于神，但求逆子之报，不累妻孥。<br/><br/>　　次年，报甲以荐举作吏部，贺者盈门；翁惟欷歔，伏枕托疾不出。未几，闻子归途遇寇，主仆殒命。翁乃起，谓人曰：“鬼神之怒，止及其身，佑我家者不可谓不厚也。”因焚香而报谢之。慰藉翁者，咸以为道路讹传，惟翁则深信不疑，刻日为之营兆。──而甲固未死。先是，四月间，甲解任，甫离境，即遭寇，甲倾装以献之。诸寇曰：“我等来，为一邑之民泄冤愤耳，宁端为此哉！”遂决其首。又问家人：“有司大成者谁是？”──司故甲之腹心，助桀为虐者。──家人共指之。贼亦杀之。更有蠹役四人，──甲聚敛臣也，将携入都。──并搜决讫，始分赀入囊，骛驰而去。<br/><br/>　　甲魂伏道旁，见一宰官过，问：“杀者何人？”前驱者曰：“某县白知县也。”宰官曰：“此白某之子，不宜使老后见此凶惨，宜续其头。”即有一人掇头置腔上，曰：“邪人不宜使正，以肩承领可也。”遂去。移时复苏。妻子往收其尸，见有余息，载之以行；从容灌之，亦受饮。但寄旅邸，贫不能归。半年许，翁始得确耗，遣次子致之而归。甲虽复生，而目能自顾其背，不复齿人数矣。翁姊子有政声，是年行取为御史，悉符所梦。<br/><br/>　　异史氏曰：“窃叹天下之官虎而吏狼者，比比也。──即官不为虎，而吏且将为狼，况有猛于虎者耶！夫人患不能自顾其后耳；苏而使之自顾，鬼神之教微矣哉！”<br/><br/>　　邹平李进士匡九，居官颇廉明。常有富民为人罗织，门役吓之曰：“官索汝二百金，宜速办；不然，败矣！”富民惧，诺备半数。役摇手不可。富民苦哀之。役曰：“我无不极力，但恐不允耳。待听鞫时，汝目睹我为若白之，其允与否，亦可明我意之无他也。”少间，公按是事。役知李戒烟，近问：“饮烟否？”李摇其首。役即趋下曰：“适言其数，官摇首不许，汝见之耶？”富民信之，惧，许如数。役知李嗜茶，近问：“饮茶否？”李颔之。役托烹茶，趋下曰：“谐矣！适首肯，汝见之耶？”既而审结，富民其获免，役即收其苞苴，且索谢金。呜呼！官自以为廉，而骂其贪者载道焉。此又纵狼而不自知者矣。世之如此类者更多，可为居官者备一鉴也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1254-23425.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1254-23427.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1254.html" action-type="chapterComment" class="comment"><i></i>聊斋志异章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

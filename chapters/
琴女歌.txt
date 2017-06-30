@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《琴女歌》正文_琴女歌_先秦无名作品 - 维普阅读网</title>
+<meta name="keywords" content="琴女歌,琴女歌原文,琴女歌阅读,琴女歌全文,先秦无名作品" />
+<meta name="description" content="琴女歌原文阅读,琴女歌全文在线阅读,先秦无名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-187.html";
+var nextpage="novel-chapter-187.html";
+var indexpage = "novel-chapter-187.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-187.html">琴女歌</a></strong>
+<strong><a href="novel-chapter-187.html">琴女歌目录</a></strong>
+<span>琴女歌</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-187.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>琴女歌</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=先秦无名&amp;searchsubmit=yes"  target="_blank">先秦无名</a><span class="divide">|</span>发布时间：2014-08-07 21:05:50<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　罗縠单衣，可裂而绝。<br/><br/>　　三尺屏风，可超而越。<br/><br/>　　鹿虑之剑，可负而拔。<br/><br/>【译文】<br/>丝绸单衣轻飘飘，一拉就可以断裂；<br/>八尺屏风不算高，一跳就可以超越；<br/>鹿卢宝剑长虽长，转到背后可拔出。<br/><br/>【赏析】<br/>《琴女歌》是荆轲刺秦过程中的一支插曲。《燕丹子》说：“荆轲刺秦王，右手执匕首，左手把其袖，秦王曰：‘乞听琴声而死。’琴女奏曲……王从其计。轲不解，故及于难。”这段记载说明，秦王在千钧一发之际，向荆轲提出“听琴而死”的请求，原来包含着祸心，是一个明修栈道，暗渡陈仓的阴谋；荆轲过于心慈手软，轻信敌人，以致功败垂成，付出血的代价；在这过程中起到关键作用的，则是与秦王配合默契的琴女，一曲由她自编、自演、自唱的琴歌，不仅扭转了秦王与荆轲对峙的形势，而且还彻底地改变了秦王与荆轲的命运，改写了秦朝的历史。<br/>琴歌的歌词分三段，用整齐的排比句构成，每段八个字，末一字押韵；音乐上是采用同一曲调进行的三次复沓。三段歌词，依次提出了改变处境的三条计策。第一段歌词，说的是脱离接触。当时荆轲正右手举着匕首对准秦王，左手抓住秦王的衣袖，所以琴女提出秦王可以使一把劲，把袖子扯断——挣脱对方的直接控制，这是摆脱死亡威胁的最为紧迫的一步，故于第一遍唱词中首先提出。第二段歌词，说的是紧急逃离。如果在挣脱直接控制之后，呆立在原处，那就仍然没有摆脱死亡的威胁。所以，琴女又接着告诉秦王，大殿之上用于隔离、装饰的屏风并不高，不过三尺而已，可以纵身跳过去逃开。第三段歌词，说的是拔剑自卫。在与对手拉开距离之后，也就赢得了转败为胜的宝贵时间，当对方追来时，抽出佩剑抵御进攻就成了关键的问题。古代随身佩带的宝剑，剑刃较长，不容易将剑拔出剑鞘；秦王在荆轲的突然袭击面前，一时惊惶失措，无法将紧插在剑鞘中的长剑拔出。所以，琴女最后又点拨秦王，让他把宝剑转到身后，这样，上方空间较大，就容易拔剑了。三段歌词，正好构成了从“挣脱”到“逃离”、再到“反击”这样三个环节组成的一支改变秦王命运的转败为胜的三部曲。<br/>故事中的琴女，无疑是一位才智出众的巾帼英雄。在荆轲的副手、燕国勇士秦舞阳尚且要“色变振恐”（《史记·刺客列传》）的秦庭之上，在荆轲挟持秦王的千钧一发之际，琴女竟能处变不惊，用荆轲听不懂的秦方言，借歌声吐词清晰地向秦王传递应变的高明计策，其大智大勇，已远在秦王、荆轲之上，更无论秦舞阳了。在“女子无才便是德”的旧社会里，在我国古代众多的文学作品中，女子以其聪明才智被作为正面人物受到歌颂的，有如凤毛麟角；而在《琴女歌》中，竟然出现了这样一位惊世绝俗的奇女子形象，应该说是十分难能可贵、值得大书而特书的。创造了一位奇女子的形象，这是《琴女歌》在文学上的主要贡献，是这首短歌的主要价值所在。<br/>至于《燕丹子》中记载的这一故事的真实性究竟如何，却是大可怀疑的。面对荆轲的匕首，慌乱中的秦王是否有可能急中生智，提出听琴的要求？即使秦王提了，荆轲在这紧要关头，面对自己即将到手的猎获物，会不会突然大发慈悲？再退一步，即使召来了琴女，她是否能即刻编就并唱出这样一首改变秦王命运、也改写秦朝历史的智慧之歌？《史记·刺客列传》记述荆轲刺秦王时不提琴女与《琴女歌》；秦王在这一行刺事件之后赏赐功臣时，认定立第一大功的是掷药囊击荆轲的御医夏无且，并说：“无且爱我，乃以药囊提荆轲也。”如果真是琴女令他绝处逢生，那么，首功当改属琴女；除了给予破格封赏外，“论功若准平吴例”（元好问《论诗三十首》），如果仿效当年越王勾践因范蠡为平定吴国立下大功而为其铸金像的先例，甚至还应该为琴女铸造金像立于朝廷之上呢。《四库全书总目提要》在论及《燕丹子》一书时说：“其文实割裂诸书燕丹、荆轲事杂缀而成。其可信者已见于《史记》，其他多卑诞不可信。”这样看来，《史记》之不取琴女与《琴女歌》等记载，当是由于其“卑诞不可信”的缘故。《四库全书》将《燕丹子》一书归入《子部·小说家类》而不入《史部》，这也是对此书多虚构成分的一种总体上的论定。又，《燕丹子》一书，据《四库全书》考证，其产生时间应在东汉应劭、王充之后而在唐代之前。将《琴女歌》看成先秦时期的作品，主要是考虑到不能完全排除此歌及其相关故事在《燕丹子》成书以前早已在民间流传的可能性，故而从逯钦立《先秦汉魏晋南北朝诗》列入先秦诗加以评析。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-187.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-187.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-187.html" action-type="chapterComment" class="comment"><i></i>琴女歌章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

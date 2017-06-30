@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《湘君》正文_九歌 湘君_屈原作品 - 维普阅读网</title>
+<meta name="keywords" content="湘君,湘君原文,湘君阅读,九歌 湘君全文,屈原作品" />
+<meta name="description" content="湘君原文阅读,九歌 湘君全文在线阅读,屈原作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-76.html";
+var nextpage="novel-chapter-76.html";
+var indexpage = "novel-chapter-76.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-76.html">湘君</a></strong>
+<strong><a href="novel-chapter-76.html">湘君目录</a></strong>
+<span>九歌 湘君</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-76.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>九歌 湘君</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=屈原&amp;searchsubmit=yes"  target="_blank">屈原</a><span class="divide">|</span>发布时间：2014-07-31 23:01:01<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文<br/>君不行兮夷犹，蹇谁留兮中洲？<br/>美要[1]眇兮宜修，沛吾乘兮桂舟。<br/>令沅湘兮无波[2]，使江水兮安流！<br/>望夫君兮未来[3]，吹参差兮谁思？<br/>驾飞龙兮北征，邅[4]吾道兮洞庭。<br/>薜荔柏佤兮蕙绸，荪桡[5]兮兰旌。<br/>望涔阳兮极浦，横大江兮扬灵。<br/>扬灵兮未极，女婵媛兮为余太息。<br/>横流涕兮潺湲，隐思君兮陫[6]侧。<br/>桂櫂[7]兮兰枻[8]，斫[9]冰兮积雪。<br/>采薜荔兮水中，搴芙蓉兮木末。<br/>心不同兮媒劳，恩不甚兮轻绝。<br/>石濑兮浅浅[10]，飞龙兮翩翩。<br/>交不忠兮怨长，<br/>期不信兮告余以不闲。<br/>朝骋骛兮江皋，夕弭节兮北渚。<br/>鸟次兮屋上，水周兮堂下[11]。<br/>捐余玦[12]兮江中，遗余佩兮澧浦。<br/>采芳兮杜若，将以遗兮下女。<br/>时不可兮再得，聊逍遥兮容与。<br/><br/><br/><br/>作品赏析<br/>【注释】：<br/>[1]：音“邀”。<br/>[2]：音“琵”。<br/>[3]：音“厘”。<br/>[4]：音“瞻”，转。<br/>[5]：音“挠”，旗杆上的曲柄，用来悬挂作为装饰旗帜的布条。<br/>[6]：音“匪”。<br/>[7]：音“照”，意通“棹”。<br/>[8]：音“易”。<br/>[9]：音“酌”，意为“敲击”。<br/>[10]：音“间”。<br/>[11]：音“护”。<br/>[12]：音“决”，玉佩。<br/><br/>【简析】：<br/>帝舜死于苍梧，葬于九嶷山。他的两个妃子，帝尧的女儿娥皇、女英闻讯，便去奔丧，亦死于湘江。帝舜死后，天帝封其为湘水之神，号湘君，封二妃为湘水女神，号湘夫人。在楚人心目中，他们是一对配偶神。<br/><br/>本篇是祭湘君的诗歌，描写了湘夫人思念湘君那种临风企盼，因久候不见湘君依约聚会而产生怨慕神伤的感情。<br/>------------------------------------------------<br/>湘君啊你犹豫不走。<br/>因谁停留在水中的沙洲？<br/>为你打扮好美丽的容颜，<br/>我在急流中驾起桂舟。<br/>下令沅湘风平浪静，<br/>还让江水缓缓而流。<br/>盼望你来你却没来，<br/>吹起排箫为谁思情悠悠？<br/><br/>驾起龙船向北远行，<br/>转道去了优美的洞庭。<br/>用薜荔作帘蕙草作帐，<br/>用香荪为桨木兰为旌。<br/>眺望涔阳遥远的水边，<br/>大江也挡不住飞扬的心灵。<br/>飞扬的心灵无处安止，<br/>多情的侍女为我发出叹声。<br/>眼泪纵横滚滚而下，<br/>想起你啊悱恻伤神。<br/><br/>玉桂制长桨木兰作短楫，<br/>划开水波似凿冰堆雪。<br/>想在水中把薜荔摘取，<br/>想在树梢把荷花采撷。<br/>两心不相同空劳媒人，<br/>相爱不深感情便容易断绝。<br/>清水在石滩上湍急地流淌，<br/>龙船掠过水面轻盈迅捷。<br/>不忠诚的交往使怨恨深长，<br/>不守信却对我说没空赴约。<br/><br/>早晨在江边匆匆赶路，<br/>傍晚把车停靠在北岸。<br/>鸟儿栖息在屋檐之上，<br/>水儿回旋在华堂之前。<br/>把我的玉环抛向江中，<br/>把我的佩饰留在澧水畔。<br/>在流芳的沙洲采来杜若，<br/>想把它送给陪侍的女伴。<br/>流失的时光不能再得，<br/>暂且放慢脚步逍遥盘桓。<br/>①湘君：湘水之神，男性。一说即巡视南方时死于苍梧的舜。<br/>②君：指湘君。夷犹：迟疑不决。<br/>③蹇(jian3简)：发语词。洲：水中陆地。<br/>④要眇(miao3秒)：美好的样子。宜修：恰到好处的修饰。<br/>⑤沛：水大而急。桂舟：桂木制成的船。<br/>⑥沅湘：沅水和湘水，都在湖南。无波：不起波浪。<br/>⑦夫：语助词。<br/>⑧参差：高低错落不齐，此指排箫，相传为舜所造。<br/><br/>⑨飞龙：雕有龙形的船只。北征：北行。⑩邅(zhan1沾)：转变。洞庭：洞庭湖。⑾薜荔：蔓生香草。柏(bo2伯)：通“箔”，帘子。蕙：香草名。绸：帷帐。⑿荪：香草，即石菖蒲。桡(rao2饶)：短桨。兰：兰草：旌：旗杆顶上的饰物。⒀涔(cen2岑)阳：在涔水北岸，洞庭湖西北。极浦：遥远的水边。⒁横：横渡。扬灵：显扬精诚。一说即扬舲，扬帆前进。⒂极：至，到达。⒂女：侍女。婵媛：眷念多情的样子。⒃横：横溢。潺湲(yuan2援)：缓慢流动的样子。⒅陫(pei2培)侧：即“悱恻”，内心悲痛的样子。<br/><br/><br/>(19)櫂(zhao4棹)：同“棹”，长桨。枻(yi4弈)：短桨。<br/>(20)斲(zhuo2琢)：砍。<br/>(21)搴(qian1千)：拔取。芙蓉：荷花。木末：树梢。<br/>(22)媒：媒人。劳：徒劳。<br/>(23)甚：深厚。轻绝：轻易断绝。<br/>(24)石濑：石上急流。浅(jian1间)浅：水流湍急的样子。<br/>(25)翩翩：轻盈快疾的样子。<br/>(26)交：交往。<br/>(27)期：相约。不闲：没有空闲。<br/><br/><br/>(28)鼂(zhao1招)：同“朝”，早晨。骋骛(wu4务)：急行。皋：水旁高地。<br/>(29)弭(mi3米)：停止。节：策，马鞭。渚：水边。<br/>(30)次：止息。(31)周：周流。<br/>(32)捐：抛弃。玦(jue1决)：环形玉佩。<br/>(33)遗(yi2仪)：留下。佩：佩饰。醴(li3里)：澧水，在湖南，流入洞庭湖。<br/>(34)芳洲：水中的芳草地。杜若：香草名。<br/>(35)遗(wei4味)：赠予。下女：指身边侍女。<br/>(36)聊：暂且。容与：舒缓放松的样子。<br/><br/><br/><br/><br/>【赏析】<br/>　　在屈原根据楚地民间祭神曲创作的《九歌》中，《湘君》和《湘夫人》是两首最富生活情趣和浪漫色彩的作品。人们在欣赏和赞叹它们独特的南国风情和动人的艺术魅力时，却对湘君和湘夫人的实际身份迷惑不解，进行了长时间的探讨、争论。<br/><br/>　　从有关的先秦古籍来看，尽管《楚辞》的《远游》篇中提到“二女”和“湘灵”，《山海经·中山经》中说“洞庭之山……帝之二女居之，是常游于江渊”，但都没有像后来的注释把湘君指为南巡道死的舜、把湘夫人说成追赶他而溺死湘水的二妃娥皇和女英的迹象。最初把两者结合在一起的是《史记·秦始皇本纪》。书中记载秦始皇巡游至湘山(即今洞庭湖君山)时，“上问博士曰:‘湘君何神？’博士对曰:‘闻之，尧女，舜之妻，而葬此。’”后来刘向的《列女传》也说舜“二妃死于江、湘之间，俗谓之湘君”。这就明确指出湘君就是舜的两个妃子，但未涉及湘夫人。到了东汉王逸为《楚辞》作注时，鉴于二妃是女性，只适合于湘夫人，于是便把湘君另指为“湘水之神”。对于这种解释。唐代韩愈并不满意，他在《黄陵庙碑》中认为湘君是娥皇，因为是正妃故得称“君”；女英是次妃，因称“夫人”。以后宋代洪兴祖《楚辞补注》、朱熹《楚辞集注》皆从其说。这一说法的优点在于把湘君和湘夫人分属两人，虽避免了以湘夫人兼指二妃的麻烦，但仍没有解决两人的性别差异，从而为诠释作品中显而易见的男女相恋之情留下了困难。有鉴于此，明末清初的王夫之在《楚辞通释》中采取了比较通脱的说法，即把湘君说成是湘水之神，把湘夫人说成是他的配偶，而不再拘泥于按舜与二妃的传说一一指实。应该说这样的理解，比较符合作品的实际，因而也比较可取。<br/><br/>　　虽然舜和二妃的传说给探求湘君和湘夫人的本事带来了不少难以自圆的穿凿附会，但是如果把这一传说在屈原创作《九歌》时已广为流传、传说与创作的地域完全吻合、《湘夫人》中又有“帝子”的字样很容易使人联想到尧之二女等等因素考虑在内，则传说的某些因子如舜与二妃飘泊山川、会合无由等，为作品所借鉴和吸取也并不是没有可能的。因此既注意到传说对作品可能产生的影响，又不拘泥于传说的具体人事，应该成为我们理解和欣赏这两篇作品的基点。<br/><br/>　　由此出发，不难看出作为祭神歌曲，《湘君》和《湘夫人》是一个前后相连的整体，甚至可以看作同一乐章的两个部分。这不仅是因为两篇作品都以“北渚”相同的地点暗中衔接，而且还由于它们的末段，内容和语意几乎完全相同，以至被认为是祭祀时歌咏者的合唱(见姜亮夫《屈原赋校注》)。<br/><br/>　　这首《湘君》由女神的扮演者演唱，表达了因男神未能如约前来而产生的失望、怀疑、哀伤、埋怨的复杂感情。第一段写美丽的湘夫人在作了一番精心的打扮后，乘着小船兴致勃勃地来到与湘君约会的地点，可是却不见湘君前来，于是在失望中抑郁地吹起了哀怨的排箫。首二句以问句出之，一上来就用心中的怀疑揭出爱而不见的事实，为整首歌的抒情作了明确的铺垫。以下二句说为了这次约会，她曾进行了认真的准备，把本已姣好的姿容修饰得恰到好处，然后才驾舟而来。这说明她十分看重这个见面的机会，内心对湘君充满了爱恋。正是在这种心理的支配下，她甚至虔诚地祈祷沅湘的江水风平浪静，能使湘君顺利赴约。然而久望之下，仍不见他到来，便只能吹起声声幽咽的排箫，来倾吐对湘君的无限思念。这一段的描述，让人看到了一幅望断秋水的佳人图。<br/><br/>　　第二段接写湘君久等不至，湘夫人便驾着轻舟向北往洞庭湖去寻找，忙碌地奔波在湖中江岸，结果依然不见湘君的踪影。作品在这里把对湘夫人四出寻找的行程和她的内心感受紧密地结合在一起。你看她先是驾着龙舟北出湘浦，转道洞庭，这时她显然对找到湘君满怀希望；可是除了眼前浩渺的湖水和装饰精美的小船外，一无所见；她失望之余仍不甘心，于是放眼远眺涔阳，企盼能捕捉到湘君的行踪；然而这一切都毫无结果，她的心灵便再次横越大江，遍寻沅湘一带的广大水域，最终还是没有找到。如此深情的企盼和如此执着的追求，使得身边的侍女也为她叹息起来。正是旁人的这种叹息，深深地触动和刺激了湘夫人，把翻滚在她内心的感情波澜一下子推向了汹涌澎湃的高潮，使她止不住泪水纵横，一想起湘君的失约就心中阵阵作痛。<br/><br/>　　第三段主要是失望至极的怨恨之情的直接宣泄。首二句写湘夫人经多方努力不见湘君之后，仍漫无目的地泛舟水中，那如划开冰雪的船桨虽然还在摆动，但给人的感觉只是她行动的迟缓沉重和机械重复。接着用在水中摘采薜荔和树上收取芙蓉的比喻，既总结以上追求不过是一种徒劳而已，同时也为后面对湘君“心不同”、“恩不甚”、“交不忠”、“期不信”的一连串斥责和埋怨起兴。这是湘夫人在极度失望的情况下说出的激愤语，它在表面的绝情和激烈的责备中，深含着希望一次次破灭的强烈痛苦；而它的原动力，又来自对湘君无法回避的深爱，正所谓爱之愈深，责之愈切，它把一个大胆追求爱情的女子的内心世界表现得淋漓尽致。<br/><br/>　　第四段可分二层。前四句为第一层，补叙出湘夫人浮湖横江从早到晚的时间，并再次强调当她兜了一大圈仍回到约会地“北渚”时，还是没有见到湘君。从“捐余玦”至末为第二层，也是整首乐曲的卒章。把玉环抛入江中。把佩饰留在岸边，是湘夫人在过激情绪支配下做出的过激行动。以常理推测，这玉环和佩饰当是湘君给她的定情之物。现在他既然不念前情，一再失约，那么这些代表爱慕和忠贞的信物又留着何用，不如把它们抛弃算了。这一举动，也是上述四个“不”字的必然结果。读到这里，人们同情惋惜之余，还不免多有遗憾。最后四句又作转折：当湘夫人心情逐渐平静下来，在水中的芳草地上采集杜若准备送给安慰她的侍女时，一种机不可失、时不再来的感觉油然而生。于是她决定“风物长宜放眼量”，从长计议，松弛一下绷紧的心弦，慢慢等待。这样的结尾使整个故事和全首歌曲都余音袅袅，并与篇首的疑问遥相呼应，同样给人留下了想像的悬念。<br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-76.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-76.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-76.html" action-type="chapterComment" class="comment"><i></i>湘君章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

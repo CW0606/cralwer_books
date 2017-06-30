@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《大戴礼记》正文_易本命第八十一_汉·戴德作品 - 维普阅读网</title>
+<meta name="keywords" content="大戴礼记,大戴礼记原文,大戴礼记阅读,易本命第八十一全文,汉·戴德作品" />
+<meta name="description" content="大戴礼记原文阅读,易本命第八十一全文在线阅读,汉·戴德作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1427-26443.html";
+var nextpage="novel-chapter-1427.html";
+var indexpage = "novel-chapter-1427.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1427.html">大戴礼记</a></strong>
+<strong><a href="novel-chapter-1427.html">大戴礼记目录</a></strong>
+<span>易本命第八十一</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1427-26443.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>易本命第八十一</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=汉·戴德&amp;searchsubmit=yes"  target="_blank">汉·戴德</a><span class="divide">|</span>发布时间：2016-07-25 21:55:49<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>子曰："夫易之生，人、禽、兽、万物昆虫各有以生。或奇或偶，或飞或行，而莫知其情；惟达道德者，能原本之矣。"<br/><br/>　　天一，地二，人三；三三而九，九九八十一；一主日，日数十，故人十月而生。<br/><br/>　　八九七十二，偶以承奇，奇主辰，辰主月，月主马，故马十二月而生。<br/><br/>　　七九六十三，三主斗，斗主狗，故狗三月而生。<br/><br/>　　六九五十四，四主时；时主豕；故豕四月而生。<br/><br/>　　五九四十五，五主音，音主猿，故猿五月而生。<br/><br/>　　四九三十六，六主律，律主禽鹿，故禽鹿六月而生也。<br/><br/>　　三九二十七，七主星，星主虎，故虎七月而生。<br/><br/>　　二九十八，八主风，风主虫，故虫八日化也。<br/><br/>　　其馀各以其类。<br/><br/>　　鸟鱼皆生於阴而属於阳；故鸟鱼皆卵；鱼游於水，鸟飞於云。故冬燕雀入於海，化而为蚧。<br/><br/>　　万物之性各异类：故蚕食而不饮，蝉饮而不食，蜉蝣不饮不食，介鳞夏食冬蛰。龁吞者八窍而卵生；咀嚾者九窍而胎生。四足者无羽翼，戴角者无上齿。无角者膏而无前齿，有角者脂而无后齿。昼生者类父，夜生者类母。<br/><br/>　　凡地：东西为纬，南北为经。山为积德，川为积刑；高者为生，下者为死。邱陵发牡，谿谷为牝。<br/><br/>　　蚌蛤龟珠，与月盛虚。<br/><br/>　　是故坚土之人肥，虚土之人大，沙土之人细，息土之人美，耗土之人丑。<br/><br/>　　是故食水者善游能寒，食土者无心而不息，食木者多力而拂；食草者善走而愚，食桑者有丝而蛾，食肉者勇敢而捍，食穀者智惠而巧，食气者神明而寿，不食者不死而神。<br/><br/>　　故曰：有羽之虫三百六十，而凤皇为之长；有毛之虫三百六十，而麒麟为之长；有甲之虫三百六十，而神龟为之长；有鳞之虫三百六十，而蛟龙为之长；倮之虫三百六十，而圣人为之长，此乾坤之美类，禽兽万物之数也。<br/><br/>　　故帝王好坏巢破卵，则凤凰不翔焉；好竭水搏鱼，则蛟龙不出焉；好刳胎杀夭，则麒麟不来焉；好填谿塞谷，则神龟不出焉。<br/><br/>　　故王者动必以道，静必以理；动不以道，静不以理，则自夭而不寿，訞孽数起，神灵不见，风雨不时，暴风水旱并兴，人民夭死，五穀不滋，六畜不蕃息。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1427-26443.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-1427.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1427.html" action-type="chapterComment" class="comment"><i></i>大戴礼记章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

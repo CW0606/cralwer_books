@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《伪自由书》正文_内外_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="伪自由书,伪自由书原文,伪自由书阅读,内外全文,鲁迅作品" />
+<meta name="description" content="伪自由书原文阅读,内外全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-550-7488.html";
+var nextpage="novel-read-550-7490.html";
+var indexpage = "novel-chapter-550.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-550.html">伪自由书</a></strong>
+<strong><a href="novel-chapter-550.html">伪自由书目录</a></strong>
+<span>内外</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-550-7488.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>内外</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-04 21:13:22<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　古人说内外有别，道理各各不同。丈夫叫“外子”，妻叫“贱内”。伤兵在医院之内，而慰劳品在医院之外，非经查明，不准接收。对外要安，对内就要攘，或者嚷。 <br/><br/>　　何香凝（２）先生叹气：“当年唯恐其不起者，今日唯恐其不死。”然而死的道理也是内外不同的。 <br/><br/>　　庄子曰，“哀莫大于心死，而身死次之。”（３）次之者，两害取其轻也。所以，外面的身体要它死，而内心要它活；或者正因为那心活，所以把身体治死。此之谓治心。 <br/><br/>　　治心的道理很玄妙：心固然要活，但不可过于活。心死了，就明明白白地不抵抗，结果，反而弄得大家不镇静。心过于活了，就胡思乱想，当真要闹抵抗：这种人，“绝对不能言抗日”（４）。 <br/><br/>　　为要镇静大家，心死的应该出洋（５），留学是到外国去治心的方法。 <br/><br/>　　而心过于活的，是有罪，应该严厉处置，这才是在国内治心的方法。 <br/><br/>　　何香凝先生以为“谁为罪犯是很成问题的”，——这就因为她不懂得内外有别的道理。 <br/><br/>　　四月十一日。 <br/>　<br/>===============================================================<br/><br/>　　（１）本篇最初发表于一九三三年四月十七日《申报·自由谈》，署名何家干。 <br/><br/>　　（２）何香凝（１８７８—１９７２）广东南海人，廖仲恺的夫人。早年参加孙中山领导的同盟会，从事革命活动。一九二七年蒋介石叛变革命后，她坚持进步立场，对反动派进行了不妥协的斗争。一九三三年三月她曾致书国民党中央各委员，建议大赦全国政治犯，由她率领北上，从事抗日军的救护工作，但国民党当局置之不理。本文所引用的，是她在三月十八日就此事对日日社记者的谈话，曾刊于次日上海各报。 <br/><br/>　　（３）“哀莫大于心死，而身死次之。”语出《庄子·田子方》：“仲尼曰：‘恶，可不察与！夫哀莫大于心死，而人死亦次之。’”<br/><br/>　　（４）“绝对不能言抗日”一九三三年春，蒋介石在第四次“围剿”被粉碎后，于四月十日在南昌对国民党将领演讲说：“抗日必先剿匪。征之历代兴亡，安内始能攘外，在匪未剿清之先，绝对不能言抗日，违者即予最严厉处罚。……剿匪要领，首须治心，王阳明在赣剿匪，致功之道，即由于此。哀莫大于心死，内忧外患，均不足惧，惟国人不幸心死，斯可忧耳。救国须从治心做起，吾人当三致意焉。”<br/><br/>　　（５）心死的应该出洋指张学良。参看本卷第１４８页注（１）。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-550-7488.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-550-7490.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-550.html" action-type="chapterComment" class="comment"><i></i>伪自由书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

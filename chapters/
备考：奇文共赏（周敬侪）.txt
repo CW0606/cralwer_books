@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《伪自由书》正文_备考：奇文共赏（周敬侪）_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="伪自由书,伪自由书原文,伪自由书阅读,备考：奇文共赏（周敬侪）全文,鲁迅作品" />
+<meta name="description" content="伪自由书原文阅读,备考：奇文共赏（周敬侪）全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-550-7465.html";
+var nextpage="novel-read-550-7467.html";
+var indexpage = "novel-chapter-550.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-550.html">伪自由书</a></strong>
+<strong><a href="novel-chapter-550.html">伪自由书目录</a></strong>
+<span>备考：奇文共赏（周敬侪）</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-550-7465.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>备考：奇文共赏（周敬侪）</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-04 21:03:29<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>大人先生们把“故宫古物”看得和命（当然不是小百姓的命）一般坚决南迁，无非因为“古物”价值不止“连城”，并且容易搬动，容易变钱的原故，这也值得你们大惊小怪，冷嘲热讽！我正这样想着的时候，居然从首都一家报纸上见到赞成“古物南迁”的社论；并且建议“武力制止反对”，“流血在所不辞”，请求政府“保持威信”，“贯彻政策”！这样的宏词高论，我实在不忍使它湮没无闻，因特不辞辛苦，抄录出来，献给大众：“……北平各团体之反对古物南迁，为有害北平将来之繁荣，此种自私自利完全蔑视国家利益之理由，北平各团体竟敢说出，吾人殊服其厚颜无耻，彼等只为北平之繁荣，必须以数千年古物冒全被敌人劫夺而去之大危险，所见未免太小，使政府为战略关系，须暂时放弃北平，以便引敌深入，聚而歼之，则古物必被敌人劫夺而去，试问将来北平之繁荣何由维持，故不如先行迁移，俟打倒日本，北平安如泰山后，再行迁回，北平各团体自私自利，固可恶可耻，其无远虑，亦可怜也，其反对迁移之又一理由，则谓政府应先顾全土地，此言似是而实非，盖放弃一部分土地供敌人一时之占领，以歼灭敌人，然后再行恢复，古今中外，其例甚多，如一八一二年之役，俄人不但放弃莫斯科，且将莫斯科烧毁，以困拿破仑，欧战时，比利时，塞尔维亚，皆放弃全部领土，供敌人蹂躏，卒将强德击破，盖领土被占，只须不与敌人媾和，签字于割让条约，则敌人固无如该土何，至于故宫古物，若不迁移，设不幸北平被敌人占领，将古物劫夺而去，试问中国将何法以恢复之，行见中国文明结晶，供敌人战利品，可耻孰甚，……最后吾人奉告政府，政府迁移古物之政策，既已决定，则不论遇如何阻碍，应求其贯彻，若一经无见识无远虑之群愚反对，即行中止，政府威信何在，故吾主张严责张学良，使以武力制止反对运动，若不得已，虽流血亦所不辞……” <br/><br/>　　二月十三日，《申报》《自由谈》。 <br/>　<br/>===============================================================<br/><br/>　　（１）本篇最初发表于一九三三年二月十三日《申报·自由谈》，署名何家干。 <br/><br/>　　（２）《救国日报》一九三二年八月在南京创刊的反动报纸，龚德柏主办，一九四九年四月停刊。文中所引的话，原见一九三三年二月六日该报社论《为迁移故宫古物告政府》。 <br/><br/>　　（３）张学良字汉卿，辽宁海城人。九一八事变时任国民党政府陆海空军副司令兼东北边防军司令长官，奉蒋介石不抵抗的命令，放弃东北三省。“九一八”后曾任国民政府军事委员会北平军分会代理委员长等职。 <br/><br/>　　（４）战略家指国民党军事当局。一九三二年一二八上海战事发生后，他们屡令中国军队后撤，声称是“变更战略”，“引敌深入”，“并非战败”。 <br/><br/>　　（５）上海和议一二八战事发生后，国民党政府不顾全国人民的抗日要求，坚持“不抵抗”政策，破坏十九路军的抗战行动，并在英、美、法等帝国主义参预下，同日本侵略者进行屈膝投降的谈判，于一九三二年五月五日签订《上海停战协定》。 <br/><br/>　　（６）满洲国日本侵占东北后建立的傀儡政权。一九三二年三月在长春成立，以清废帝溥仪为“执政”；一九三四年三月改称“满洲帝国”，溥仪改为“皇帝”。 <br/><br/>　　（７）国联“国际联盟”的简称。第一次世界大战后于一九二○年成立的国际政府间组织。它标榜以“促进国际合作、维持国际和平与安全”为目的，实际上是英、法等帝国主义国家控制并为其侵略政策服务的工具。第二次世界大战爆发后无形瓦解，一九四六年四月正式宣告解散。九一八事变后，它袒护日本帝国主义对中国的侵略。<br/><br/>　　（８）什么什么草案指一九三二年十二月十五日国联十九国委员会特别会议通过的关于调解中日争端的“决议草案”。一九三三年一月又据此草案修改为“德鲁蒙新草案”。这些草案明显地袒护日本，默认“满洲国”伪政权。 <br/><br/>　　（９）什么什么委员的态度指参加国联十九国委员会的英国代表、外相西门的态度。他在国联会议的发言中屡次为日本侵略中国辩护，曾受到当时中国舆论界的谴责。 <br/><br/>　　（１０）行都在必要时政府暂时迁驻的地方；陪都，在首都以外另建的都城。国民党政府以南京为首都。一九三二年一二八战事时于一月三十日仓皇决定“移驻洛阳办公”；三月国民党四届二中全会又通过决议，正式定洛阳为行都，西安为陪都。同年十二月一日由洛阳迁回南京。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-550-7465.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-550-7467.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-550.html" action-type="chapterComment" class="comment"><i></i>伪自由书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

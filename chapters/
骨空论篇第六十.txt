@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《素问》正文_骨空论篇第六十_黄帝作品 - 维普阅读网</title>
+<meta name="keywords" content="素问,素问原文,素问阅读,骨空论篇第六十全文,黄帝作品" />
+<meta name="description" content="素问原文阅读,骨空论篇第六十全文在线阅读,黄帝作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-269-4641.html";
+var nextpage="novel-read-269-4643.html";
+var indexpage = "novel-chapter-269.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-269.html">素问</a></strong>
+<strong><a href="novel-chapter-269.html">素问目录</a></strong>
+<span>骨空论篇第六十</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-269-4641.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>骨空论篇第六十</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=黄帝&amp;searchsubmit=yes"  target="_blank">黄帝</a><span class="divide">|</span>发布时间：2014-08-30 14:42:52<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>黄帝问曰：余闻风者百病之始也，以针治之奈何？岐伯对曰：风从外入，令人振寒，汗出头痛，身重恶寒，治在风府，调其阴阳，不足则补，有余则写。<br/>　　大风颈项痛，刺风府，风府在上椎。大风汗出，灸（讠意）譆，（讠意）譆在背下侠脊傍三寸所，厭之，令病者呼（讠意）譆，（讠意）譆应手。<br/>　　从风憎风，刺眉头。失枕，在肩上横骨间。折，使榆臂，齐肘正，灸脊中。<br/>　　络季胁引少腹而痛胀，刺（讠意）譆。<br/>　　腰痛不可以转摇，急引阴卵，刺八髎与痛上，八髎在腰尻分间。<br/>　　鼠瘻，寒热，还刺寒府，寒府在附膝外解营。取膝上外者使之拜，取足心者使之跪。<br/>　　任脉者，起于中极之下，以上毛际，循腹里上关元，至咽喉，上颐循面入目。冲脉者，起于气街，并少阴之经，侠齐上行，至胸中而散。任脉为病，男子内结七疝，女子带下瘕聚。冲脉为病，逆气里急。<br/>　　督脉为病，脊强反折。督脉者，起于少腹以下骨中央，女子入系廷孔，其孔，溺孔之端也。其络循阴器合篡间，绕篡后，别绕臀，至少阴与巨阳中络者合，少阴上股内后廉，贯脊属肾，与太阳起于目内眥，上额交巅，上入络脑，还出别下项，循肩髆，内侠脊抵腰中，入循膂络肾。其男子循茎下至篡，与女子等。其少腹直上者，贯齐中央，上贯心入喉，上颐环唇，上系两目之下中央。此生病，从少腹上冲心而痛，不得前后，为冲疝；其女子不孕，癃痔遗溺嗌干。督脉生病治督脉，治在骨上，甚者在齐下营。<br/>　　其上气有音者，治其喉中央，在缺盆中者，其病上冲喉者治其渐，渐者，上侠颐也。<br/>　　蹇，膝伸不屈，治其楗。坐而膝痛，治其机。立而暑解，治其骸关。膝痛，痛及拇指治其膕。坐而膝痛如物隐者，治其关。膝痛不可屈伸，治其背内。连（骨行）若折，治阳明中俞髎。若别，治巨阳少阴荥。淫泺胫痠，不能久立，治少阳之维，在外上五寸。<br/>　　辅骨上，横骨下为楗，侠髋为机，膝解为骸关，侠膝之骨为连骸，骸下为辅，辅上为膕，膕上为关，头横骨为枕。<br/>　　水俞五十七穴者，尻上五行，行五；伏菟上两行，行五，左右各一行，行五；踝上各一行，行六穴，髓空在脑后三分，在颅际锐骨之下，一在齗基下，一在项后中复骨下，一在脊骨上空在风府上。脊骨下空，在尻骨下空。数髓空在面侠鼻，或骨空在口下当两肩。两髆骨空，在髆中之阳。臂骨空在臂阳，去踝四寸两骨空之间。股骨上空在股阳，出上膝四寸。（骨行）骨空在辅骨之上端，股际骨空在毛中动下。尻骨空在髀骨之后，相去四寸。扁骨有渗理凑，无髓孔，易髓无孔。<br/>　　灸寒热之法，先灸项大椎，以年为壮数，次灸橛骨，以年为壮数，视背俞陷者灸之，举臂肩上陷者灸之，两季胁之间灸之，外踝上绝骨之端灸之，足小指次指间灸之，（月耑）下陷脉灸之，外踝后灸之，缺盆骨上切之坚痛如筋者灸之，膺中陷骨间灸之，掌束骨下灸之，齐下关元三寸灸之，毛际动脉灸之，膝下三寸分间灸之，足阳明跗上动脉灸之，巅上一灸之。犬所啮之处灸之三壮，即以犬伤病法灸之。凡当灸二十九处，伤食灸之，不已者，必视其经之过于阳者，数刺其俞而药之。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-269-4641.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-269-4643.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-269.html" action-type="chapterComment" class="comment"><i></i>素问章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

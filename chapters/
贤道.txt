@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《亢仓子》正文_贤道_亢仓子作品 - 维普阅读网</title>
+<meta name="keywords" content="亢仓子,亢仓子原文,亢仓子阅读,贤道全文,亢仓子作品" />
+<meta name="description" content="亢仓子原文阅读,贤道全文在线阅读,亢仓子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-48-1245.html";
+var nextpage="novel-read-48-1247.html";
+var indexpage = "novel-chapter-48.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-48.html">亢仓子</a></strong>
+<strong><a href="novel-chapter-48.html">亢仓子目录</a></strong>
+<span>贤道</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-48-1245.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>贤道</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=亢仓子&amp;searchsubmit=yes"  target="_blank">亢仓子</a><span class="divide">|</span>发布时间：2014-07-25 22:54:58<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　贤良所以屡求而不至，难进而易退者，非为爱身而不死王事，适恐尽忠而主莫之信耳。自知有材识之人，外恭谨而内无忧。其于众也，和正而不狎，亲之则弥庄，疏之则退去而不怨，穷厄则以命自宽，荣达则以道自正。人有视其仪贤也，听其声贤也，征神课识，或负所望。夫贤人其见用也，入则讽誉，出则龚默，职司勤辨，居室俭闲。其未见用也，藏身于众，藏识於目，藏言于口，饱食安步，独善其身，贞而不怨。智者不疑事，识者不疑人。有识之士行危而色不可疏，言逊而理不可拔。凡谓贤人不自称贤，效在官政，功在事事。太平之时，上士运其识，中士竭其耐，小人输其力。<br/>　　齐有掊子者，材可以振国，行可以独立，事父母孝，谨乡党恭。循念居贫无以为养，施信义而游者久之矣。所如寡合，或为乘时夸毗者所蚩。绐于是，负杖步足问乎亢仓子，曰：吾闻至人忘情，黎人不事情。存情之曹，务其教训而尊信义。吾乃今不知为工受不信为信，信而不见信为信；为勤慕义为义，人义而不俟义为义。然则信义之士，常独厄随退。胡以取贵乎？时而教理之所上也。亢仓子俯而循衽，仰而譆，超然而歌曰：时之阳兮信义昌，时之默兮信义伏。阳与默、昌与伏，汩吾无谁私兮，羌忽不知其读。夫运正性以如适，而物莫之应者，真不行也。夫真且不行，谓之道丧。道丧之时，上士乃隐。隐之为义有可为也、莫可为者也，有可用也、莫可用者也。邦有道则智，邦无道则愚。故莫可用者也。<br/>　　祭公问贤材何从而不致，亢仓子曰：贤正可待不可求，材慎在求不慎无若。天子静、大臣明、刑不避贵、泽不隔下，则贤人自至而求用矣。贤人用则四海之内明，目而视清，耳而听坦，心而无郁矣。天自成，地自宁，万物醇化，鬼神不能灵，故曰贤，正可待不可求。若天子勤明，大臣和理，之求士也，则恹弘方大、公直靖人之才至；若天子苛察，大臣躁急，之求士也，则曲心巧应、毁方破道之才至；若天子疑忌，大臣巧随，之求士也，则奇姓异名、仄媚怪术之才至；若天子自贤，大臣固位，之求士也，则事文逐誉、贪浊浮丽之才至；若天子依违，大臣回佞，之求士也，则外忠内僻、情毒言和之才至。故曰才慎在求不慎无若者。黄帝得常仙封鸿鬼容丘，商王得伊尹中兴得甫申，齐桓得宁籍，皆由数。君体道迈仁，布昭圣武，思辑光明，宽厚昌正，而众贤自至而求用，非为简核而得也。祭公曰：夫子云贤人不求而自至，亦有非贤不求而自至者乎？亢仓子曰：夫非贤不求而自至者，固众矣。夫天下有道，则贤人不求而自至；天下无道，则非贤不求而自至。人主有道者寡，无道者众，天下贤人少，不肖者多。是知非贤不求而自至者多矣。祭公曰：贤固济天下，材亦能济天下，俱济天下，贤与材安异耶？亢仓子曰：窘乎哉，其问也！夫功成事毕，不徇封誉，恭退朴俭之谓贤；功成事毕，荣在禄誉，光扬满志之谓材。贤可以镇国，材可以理国。所谓镇者，和宁无为，人不知其力；所谓理者，勤率其事，人知所于德。一贤统众材则有余，众材度一贤犹不足。如是贤材之殊域，有居山林而喧者，有在人俗而静者，有喧而正者，有静而邪者也。凡视察其貌鄙俗而能有贤者，万不有一；视察其貌端雅，而实小人者十而有九失。夫不炼其言而知其文，不责其仪而审其度，不采其誉而知其善，不流其毁而断其实，可谓有识者也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-48-1245.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-48-1247.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-48.html" action-type="chapterComment" class="comment"><i></i>亢仓子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

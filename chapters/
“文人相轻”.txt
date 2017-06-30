@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《且介亭杂文二集》正文_“文人相轻”_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="且介亭杂文二集,且介亭杂文二集原文,且介亭杂文二集阅读,“文人相轻”全文,鲁迅作品" />
+<meta name="description" content="且介亭杂文二集原文阅读,“文人相轻”全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-545-7312.html";
+var nextpage="novel-read-545-7314.html";
+var indexpage = "novel-chapter-545.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-545.html">且介亭杂文二集</a></strong>
+<strong><a href="novel-chapter-545.html">且介亭杂文二集目录</a></strong>
+<span>“文人相轻”</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-545-7312.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>“文人相轻”</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-02 22:18:27<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>老是说着同样的一句话是要厌的。在所谓文坛上，前年嚷过一回“文人无行”（２），去年是闹了一通“京派和海派”（３），今年又出了新口号，叫作“文人相轻”（４）。 <br/><br/>　　对于这风气，口号家很愤恨，他的“真理哭了”（５），于是大声疾呼，投一切“文人”以轻蔑。“轻蔑”，他是最憎恶的，但因为他们“相轻”，损伤了他理想中的一道同风的天下，害得他自己也只好施行轻蔑术了。自然，这是“即以其人之道，还治其人之身”（６），是古圣人的良法，但“相轻”的恶弊，可真也不容易除根。<br/><br/>　　我们如果到《文选》里去找词汇（７）的时候，大概是可以遇着“文人相轻”这四个字的，拾来用用，似乎也还有些漂亮。然而，曹聚仁（８）先生已经在《自由谈》（四月九日至十一日）上指明，曹丕之所谓“文人相轻”者，是“文非一体，鲜能备善，是以各以所长，相轻所短”，凡所指摘，仅限于制作的范围。一切别的攻击形体，籍贯，诬赖，造谣，以至施蛰存（９）先生式的“他自己也是这样的呀”，或魏金枝（１０）先生式的“他的亲戚也和我一样了呀”之类，都不在内。倘把这些都作为曹丕所说的“文人相轻”，是混淆黑白，真理虽然大哭，倒增加了文坛的黑暗的。 <br/><br/>　　我们如果到《庄子》里去找词汇，大概又可以遇着两句宝贝的教训：“彼亦一是非，此亦一是非”（１１），记住了来作危急之际的护身符，似乎也不失为漂亮。然而这是只可暂时口说，难以永远实行的。喜欢引用这种格言的人，那精神的相距之远，更甚于叭儿之与老聃（１２），这里不必说它了。就是庄生自己，不也在《天下篇》里，历举了别人的缺失，以他的“无是非”轻了一切“有所是非”的言行吗？（１３）要不然，一部《庄子》，只要“今天天气哈哈哈……”七个字就写完了。 <br/><br/>　　但我们现在所处的并非汉魏之际，也不必恰如那时的文人，一定要“各以所长，相轻所短”。凡批评家的对于文人，或文人们的互相评论，各各“指其所短，扬其所长”固可，即“掩其所短，称其所长”亦无不可。然而那一面一定得有“所长”，这一面一定得有明确的是非，有热烈的好恶。假使被今年新出的“文人相轻”这一个模模胡胡的恶名所吓昏，对于充风流的富儿，装古雅的恶少，销淫书的瘪三，无不“彼亦一是非，此亦一是非”，一律拱手低眉，不敢说或不屑说，那么，这是怎样的批评家或文人呢？——他先就非被“轻”不可的！ <br/><br/>　　四月十四日。 <br/><br/>　　==========================================================================<br/><br/><br/>　　（１）本篇最初发表于一九三五年五月《文学》月刊第四卷第五号“文学论坛”栏，署名隼。 <br/><br/>　　（２）“文人无行”一九三三年三月九日《大晚报》副刊《辣椒与橄榄》上刊有若谷的《恶癖》一文，文中把一些作家生活上的某些癖习都说成是“恶癖”，是“文人无行”的表现。参看《伪自由书·文人无文》及其备考。 <br/><br/>　　（３）“京派和海派”参看《花边文学·“京派”与“海派”》和本书《“京派”和“海派”》及其注（２）。（４）“文人相轻”一九三五年一月《论语》第五十七期刊载林语堂的《做文与做人》一文，把文艺界的论争都说成是“文人相轻”。文中说：“文人好相轻，与女子互相评头品足相同。……于是白话派骂文言派，文言派骂白话派，民族文学派骂普罗，普罗骂第三种人，大家争营对垒，成群结党，一枪一矛，街头巷尾，报上屁股，互相臭骂……原其心理，都是大家要取媚于世。” <br/><br/>　　（５）“真理哭了”此语出处未详。 <br/><br/>　　（６）“即以其人之道，还治其人之身”语见朱熹《中庸》第十三章注文。 <br/><br/>　　（７）到《文选》里去找词汇施蛰存在一九三三年十月八日《申报·自由谈》发表的《〈庄子〉与〈文选〉》一文中说，他所以推荐这两部书，是因为“从这两部书中可以参悟一点做文章的方法，同时也可以扩大一点字汇。” <br/><br/>　　（８）曹聚仁参看本卷第７９页注（２）。这里提到他的文章，题目是《论“文人相轻”》，其中曾引用曹丕《典论论文》中的话。曹丕（１８７—２２６），字子桓，沛国谯（今安徽亳县）人，曹操的次子。建安二十五年（２２０）废汉献帝而自立为帝，即魏文帝。他爱好文学，除诗作外，兼擅批评，所著《典论》五卷，已佚，其中《论文》一篇，收于《文选》卷五十二。 <br/><br/>　　（９）施蛰存参看本卷第４页注（３）。一九三三年他在《大晚报》上向青年推荐《庄子》与《文选》，并说他正在读佛经，受到鲁迅批评。他在一些答辩文章中，说鲁迅也曾捐资重刻《百喻经》，“玩木刻，考究版本，……以骈体文为白话书信作序”等。暗指鲁迅“自己也是这样的”。参看《准风月谈》中《“感旧”以后（上）》、《扑空》、《答“兼示”》等文所附施蛰存各文。 <br/><br/>　　（１０）魏金枝参看本卷第２６４页注（７２）。他在《文饭小品》第三期（一九三五年四月）发表的《再说“卖文”》中说，在一次宴会上，茅盾“问我为什么到教会学校去教书。语意之间，似乎颇为不屑”，“但日子过得不多，……茅盾的一个亲戚，想到我在教书的教会学校里来找事做了”。 <br/><br/>　　（１１）“彼亦一是非，此亦一是非”语见《庄子·齐物论》。在关于《庄子》与《文选》的论争中，施蛰存于一九三三年十月二十日《申报·自由谈》发表《致黎烈文先生书》，声称“我不想使自己不由自主地被卷入漩涡，所以我不再说什么话了”，并在最后说“此亦一是非，彼亦一是非，唯无是非观，庶几免是非”。 <br/><br/>　　（１２）老聃即老子，姓李名耳，春秋时楚国人，道家学派的创始人。 <br/><br/>　　（１３）《庄子·天下篇》说：“墨翟、禽滑厘之意则是，其行则非也。”又说：“宋钘、尹文……其为人太多，其自为太少。”又说：“彭蒙之师……所言之韪（是），不免于非。” </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-545-7312.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-545-7314.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-545.html" action-type="chapterComment" class="comment"><i></i>且介亭杂文二集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

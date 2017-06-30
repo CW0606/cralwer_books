@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《管子》正文_立政九败解_管仲作品 - 维普阅读网</title>
+<meta name="keywords" content="管子,管子原文,管子阅读,立政九败解全文,管仲作品" />
+<meta name="description" content="管子原文阅读,立政九败解全文在线阅读,管仲作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-43-1179.html";
+var nextpage="novel-read-43-1181.html";
+var indexpage = "novel-chapter-43.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-43.html">管子</a></strong>
+<strong><a href="novel-chapter-43.html">管子目录</a></strong>
+<span>立政九败解</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-43-1179.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>立政九败解</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=管仲&amp;searchsubmit=yes"  target="_blank">管仲</a><span class="divide">|</span>发布时间：2014-07-24 21:02:38<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　人君唯毋听寝兵，则群臣宾客莫敢言兵。然则内之不知国之冶乱，外之不知诸侯强弱，如是则城郭毁坏，莫之筑补；甲弊兵簓，莫之修缮。如是则守圉之备毁矣，辽远之地谋，边竟之士修，百姓无圉敌之心。故曰，“寝兵之说胜，则险阻不守。”<br/><br/>　　人君唯毋听兼爱之说，则视天下之民如其民，视国如吾国。如是则无并兼攘夺之心，无覆军败将之事。然则射御勇力之士不厚禄，覆军杀将之臣不贵爵，如是则射御勇力之士出在外矣。我能毋攻人可也，不能令人毋攻我。彼求地而予之，非吾所欲也，不予而与战，必不胜也。彼以教士，我以驱众；彼以良将，我以无能，其败必覆军杀将。故曰：“兼爱之说胜，则士卒不战。”<br/><br/>　　人君唯无好全生，则群臣皆全其生，而生又养。生养何也？曰：滋味也，声色也，然后为养生。然则从欲妄行，男女无别，反于禽兽。然则礼义廉耻不立，人君无以自守也。故曰：“全生之说胜，则廉耻不立。”<br/><br/>　　人君唯无听私议自贵，则民退静隐伏，窟穴就山，非世间上，轻爵禄而贱有司。然则令不行禁不止。故曰：“私议自贵之说胜，则上令不行。”<br/><br/>　　人君唯无好金玉货财，必欲得其所好，然则必有以易之。所以易之者何也？大官尊位，不然则尊爵重禄也。如是则不肖者在上位矣。然则贤者不为下，智者不为谋，信者不为约，勇者不为死。如是则驱国而捐之也。故曰：“金玉货财之说胜，则爵服下流。”<br/><br/>　　人君唯毋听群徒比周，则群臣朋党，蔽美扬恶。然则国之情伪不见于上。如是则朋党者处前，寡党者处后。夫朋党者处前，贤、不肖不分，则争夺之乱起，而君在危殆之中矣。故曰：“群徒比周之说胜，则贤、不肖不分。”<br/><br/>　　人君唯毋听观乐玩好，则败。凡观乐者，宫室、台池，珠玉、声乐也。此皆费财尽力伤国之道也。而以此事君者，皆奸人也。而人君听之，焉得毋败？然则府仓虚，蓄积竭；且奸人在上，则壅遏贤者而不进也。然则国适有患，则优倡侏儒起而议国事矣。是驱国而捐之也。故曰：“观乐玩好之说胜，则奸人在上位。”<br/><br/>　　人君唯毋听请谒任誉，则群臣皆相为请。然则请谒得于上，党与成于乡。如是则货财行于国，法制毁于官，群臣务佼而不求用，然则无爵而贵，无禄而富。故曰：“请谒任举之说胜，则绳墨不正。”<br/><br/>　　人君唯无听谄谀饰过之言，则败。奚以知其然也？夫谄臣者，常使其主不悔其过不更其失者也，故主惑而不自知也，如是则谋臣死而谄臣尊矣。故曰：“谄谗饰过之说胜，则巧佞者用。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-43-1179.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-43-1181.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-43.html" action-type="chapterComment" class="comment"><i></i>管子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

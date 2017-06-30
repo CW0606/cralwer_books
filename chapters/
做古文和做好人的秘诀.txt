@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《二心集》正文_做古文和做好人的秘诀_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="二心集,二心集原文,二心集阅读,做古文和做好人的秘诀全文,鲁迅作品" />
+<meta name="description" content="二心集原文阅读,做古文和做好人的秘诀全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-534-6748.html";
+var nextpage="novel-chapter-534.html";
+var indexpage = "novel-chapter-534.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-534.html">二心集</a></strong>
+<strong><a href="novel-chapter-534.html">二心集目录</a></strong>
+<span>做古文和做好人的秘诀</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-534-6748.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>做古文和做好人的秘诀</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 21:04:12<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>从去年以来一年半之间，凡有对于我们的所谓批评文字中，最使我觉得气闷的滑稽的，是常燕生先生在一种月刊叫作《长夜》的上面，摆出公正脸孔，说我的作品至少还有十年生命的话②。记得前几年，《狂飙》停刊时，同时这位常燕生先生也曾有文章③发表，大意说《狂飙》攻击鲁迅，现在书店不愿出版了，安知（！）不是鲁迅运动了书店老板，加以迫害？于是接着大大地颂扬北洋军阀度量之宽宏。我还有些记性，所以在这回的公正脸孔上，仍然隐隐看见刺着那一篇锻炼文字；一面又想起陈源教授的批评法④：先举一些美点，以显示其公平，然而接着是许多大罪状——由公平的衡量而得的大罪状。将功折罪，归根结蒂，终于是“学匪”，理应枭首挂在“正人君子”的旗下示众。所以我的经验是：毁或无妨，誉倒可怕，有时候是极其“汲汲乎殆哉”⑤的。更何况这位常燕生先生满身五色旗⑥气味，即令真心许我以作品的不灭，在我也好像宣统皇帝忽然龙心大悦，钦许我死后谥为“文忠”一般。于满肚气闷中的滑稽之余，仍只好诚惶诚恐，特别脱帽鞠躬，敬谢不敏之至了。<br/>　　但在同是《长夜》的另一本上，有一篇刘大杰先生的文章⑦——这些文章，似乎《中国的文艺论战》上都未收载——我却很感激的读毕了，这或者就因为正如作者所说，和我素不相知，并无私人恩怨，夹杂其间的缘故。然而尤使我觉得有益的，是作者替我设法，以为在这样四面围剿之中，不如放下刀笔，暂且出洋；并且给我忠告，说是在一个人的生活史上留下几张白纸，也并无什么紧要。在仅仅一个人的生活史上，有了几张白纸，或者全本都是白纸，或者竟全本涂成黑纸，地球也决不会因此炸裂，我是早知道的。这回意外地所得的益处，是三十年来，若有所悟，而还是说不出简明扼要的纲领的做古文和做好人的方法，因此恍然抓住了辔头了。<br/>　　其口诀曰：要做古文，做好人，必须做了一通，仍旧等于一张的白纸。<br/>　　从前教我们作文的先生，并不传授什么《马氏文通》，《文章作法》⑧之流，一天到晚，只是读，做，读，做；做得不好，又读，又做。他却决不说坏处在那里，作文要怎样。一条暗胡同，一任你自己去摸索，走得通与否，大家听天由命。但偶然之间，也会不知怎么一来——真是“偶然之间”而且“不知怎么一来”，——卷子上的文章，居然被涂改的少下去，留下的，而且有密圈的处所多起来了。于是学生满心欢喜，就照这样——真是自己也莫名其妙，不过是“照这样”——做下去，年深月久之后，先生就不再删改你的文章了，只在篇末批些“有书有笔，不蔓不枝”之类，到这时候，即可以算作“通”。——自然，请高等批评家梁实秋先生来说，恐怕是不通的，但我是就世俗一般而言，所以也姑且从俗。<br/>　　这一类文章，立意当然要清楚的，什么意见，倒在其次。譬如说，做《工欲善其事，必先利其器论》罢，从正面说，发挥“其器不利，则工事不善”固可，即从反面说，偏以为“工以技为先，技不纯，则器虽利，而事亦不善”也无不可。就是关于皇帝的事，说“天皇圣明，臣罪当诛”固可，即说皇帝不好，一刀杀掉也无不可的，因为我们的孟夫子有言在先，“闻诛独夫纣矣，未闻弑君也”⑨，现在我们圣人之徒，也正是这一个意思儿。但总之，要从头到底，一层一层说下去，弄得明明白白，还是天皇圣明呢，还是一刀杀掉，或者如果都不赞成，那也可以临末声明：“虽穷淫虐之威，而究有君臣之分，君子不为已甚，窃以为放诸四裔可矣”的。这样的做法，大概先生也未必不以为然，因为“中庸”⑩也是我们古圣贤的教训。<br/>　　然而，以上是清朝末年的话，如果在清朝初年，倘有什么人去一告密，那可会“灭族”也说不定的，连主张“放诸四裔”也不行，这时他不和你来谈什么孟子孔子了。现在革命方才成功，情形大概也和清朝开国之初相仿。（不完）<br/>　　这是“夜记”之五的小半篇。“夜记”这东西，是我于一九二七年起，想将偶然的感想，在灯下记出，留为一集的，那年就发表了两篇⑾。到得上海，有感于屠戮之凶，又做了一篇半，题为《虐杀》，先讲些日本幕府的磔杀耶教徒⑿，俄国皇帝的酷待革命党之类的事。但不久就遇到了大骂人道主义的风潮⒀，我也就借此偷懒，不再写下去，现在连稿子也不见了。<br/>　　到得前年，柔石要到一个书店⒁去做杂志的编辑，来托我做点随随便便，看起来不大头痛的文章。这一夜我就又想到做“夜记”，立了这样的题目。大意是想说，中国的作文和做人，都要古已有之，但不可直钞整篇，而须东拉西扯，补缀得看不出缝，这才算是上上大吉。所以做了一大通，还是等于没有做，而批评者则谓之好文章或好人。社会上的一切，什么也没有进步的病根就在此。当夜没有做完，睡觉去了。第二天柔石来访，将写下来的给他看，他皱皱眉头，以为说得太噜苏一点，且怕过占了篇幅。于是我就约他另译一篇短文，将这放下了。<br/>　　现在去柔石的遇害，已经一年有余了，偶然从乱纸里检出这稿子来，真不胜其悲痛。我想将全文补完，而终于做不到，刚要下笔，又立刻想到别的事情上去了。所谓“人琴俱亡”⒂者，大约也就是这模样的罢。现在只将这半篇附录在这里，以作柔石的记念。<br/><br/>　　一九三二年四月二十六日之夜，记。 ======================================<br/><br/>　　　本篇在收入本书前未在报刊上发表过。<br/>　　②常燕生参看本卷第58页注⑥。他是《长夜》的经常撰稿人，在该刊第三期（一九二八年五月）发表的《越过了阿Q的时代以后》中说：“鲁迅及其追随者，都是思想已经落后的人。”又说：“鲁迅及其追随者在此后十年之中自然还应该有他相当的位置。”《长夜》，文艺半月刊，国家主义派分子左舜生等主办，一九二八年四月在上海创刊，同年五月停刊，共出四期。<br/>　　③指常燕生的《挽狂飙》一文。参看《三闲集·吊与贺》。<br/>　　④陈源的批评法参看本卷第113页注⑧。⑤“汲汲乎殆哉”语出《孟子·万章上》：“天下殆哉，岌岌乎！”<br/>　　⑥五色旗参看本卷第58页注④。<br/>　　⑦刘大杰的文章题为《呐喊与彷徨与野草》，刊于《长夜》第四期（一九二八年五月）。其中说：“鲁迅的发表《野草》，看去似乎是到了创作的老年了。作者若不想法变换变换生活，以后恐怕再难有较大的作品罢。我诚恳地希望作者，放下呆板的生活，（不要开书店，也不要作教授）提起皮包，走上国外的旅途去，好在自己的生活史上，留下几页空白的地方。”刘大杰（1904～1977），湖南岳阳人，文学史家。当时是《长夜》的主要撰稿人之一。<br/>　　⑧《马氏文通》清代马建忠著，是我国最早的一部较有系统的研究汉语语法的书。《文章作法》，夏丐尊、刘薰宇合编，一九二六年上海开明书店出版。<br/>　　⑨“闻诛独夫纣矣，未闻弑君也”语见《孟子·梁惠王》，“独夫”原作“一夫”。<br/>　　⑩“中庸”语见《论语·雍也》：“中庸之为德也，其至矣乎！”据宋代朱熹注：“中者，无过无不及之名也；庸，平常也。……程子曰：‘不偏之谓中，不易之谓庸。中者，天下之正道，庸者，天下之定理。’”<br/>　　⑾指收入《三闲集》中的《怎么写》和《在钟楼上》二文。<br/>　　⑿日本幕府的磔杀耶教徒十六世纪天主教传入日本后，迅速传布全国。当时统治日本的江户幕府（1603～1867）害怕教徒联合反抗，于一六一一年下令禁教，并用酷刑杀害教士和教徒。一六三七年岛原的天主教徒起义，幕府曾调动十余万军队进行镇压，杀万余人。幕府，一一九二年至一八六七年日本封建时代的中央军事独裁政权。<br/>　　⒀大骂人道主义的风潮一九二八年上半年，创造社主办的《文化批判》、《创造月刊》上连续发表《艺术与社会生活》、《人道主义者怎样地防卫着自己？》、《“除掉”鲁迅的“除掉”！》、《毕竟是醉眼陶然罢了》等文，将鲁迅作为“人道主义者”进行了错误的批评。<br/>　　⒁指上海明日书店。这里所说的杂志，后来没有出版。<br/>　　⒂“人琴俱亡”晋代王徽之（字子猷）悼念王献之（字子敬）的故事，见《世说新语·伤逝》：“王子猷、子敬俱病笃，而子敬先亡。子猷问左右：‘何以都不闻消息，此已丧矣。’语时了不悲，便索舆来奔丧，都不哭。子敬素好琴，便径入坐灵床上，取子敬琴弹，弦既不调，掷地云：‘子敬，子敬，人琴俱亡！’因恸绝良久，月余亦卒。” </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-534-6748.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-534.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-534.html" action-type="chapterComment" class="comment"><i></i>二心集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《山海经》正文_海经·大荒东经_先秦无名作品 - 维普阅读网</title>
+<meta name="keywords" content="山海经,山海经原文,山海经阅读,海经·大荒东经全文,先秦无名作品" />
+<meta name="description" content="山海经原文阅读,海经·大荒东经全文在线阅读,先秦无名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-222-2562.html";
+var nextpage="novel-read-222-2564.html";
+var indexpage = "novel-chapter-222.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-222.html">山海经</a></strong>
+<strong><a href="novel-chapter-222.html">山海经目录</a></strong>
+<span>海经·大荒东经</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-222-2562.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>海经·大荒东经</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=先秦无名&amp;searchsubmit=yes"  target="_blank">先秦无名</a><span class="divide">|</span>发布时间：2014-08-14 21:07:49<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　东海之外大壑，少昊之国。少吴孺帝颛顼于此，弃其琴瑟。<br/>　　有甘山者，甘水出焉，生甘渊。<br/>　　大荒东南隅有，名皮母地丘。<br/>　　东海之外，大荒之中，有山名曰大言，日月所出。<br/>　　有波谷山者，有大人之国。有大人之市，名曰大人之堂。有一大人踆其上，张其两耳。<br/>　　有小人国，名靖人。<br/>　　有神，人面兽身，名曰犂。<br/>　　有潏山，杨水出焉。<br/>　　有蒍国，黍食，使四鸟：虎、豹、熊、罴。<br/>　　大荒之中，有山名曰合虚，日月所出。<br/>　　有中容之国。帝俊生中容，中容人食兽、木实，使四鸟：豹、虎、熊、罴。<br/>　　有东口之山。有君子之国，其人衣冠带剑。<br/>　　有司幽之国。帝俊生晏龙，晏龙生司幽，司幽生思土，不妻；思女，不夫。食黍，食兽，是使四鸟。<br/>　　有大阿之山者。<br/>　　大荒中有山，名曰明星，日月所出。<br/>　　有白民之国。帝俊生帝鸿，帝鸿生白民，白民销姓，黍食，使四鸟：豹、虎、熊、罴。<br/>　　有青丘之国，有狐，九尾。<br/>　　有柔仆民，是维嬴土之国。<br/>　　有黑齿之国。帝俊生黑齿，姜姓，囗食，使四鸟。<br/>　　有夏州之国。有盖余之国。<br/>　　有神人，八首人面，虎身十尾，名曰天吴。<br/>　　大荒之中，有山名曰鞠陵于天、东极、离瞀，日月所出。名曰折丹－－东方曰折，来风曰俊－－处东极以出入风。<br/>　　东海之渚中，有神，人面鸟身，珥两黄蛇，践两黄蛇，名曰禺【豸虎】。黄帝生禺【豸虎】，禺【豸虎】生禺京。禺京处北海，禺【豸虎】处东海，是惟海神。<br/>　　有招摇山，融水出焉。有国曰玄股，黍食，使四鸟。<br/>　　有困民国，勾姓而食。有人曰王亥，两手操鸟，方食其头。王亥托于有易、河伯仆牛。有易潜出，为国于兽，方食之，名曰摇民。帝舜生戏，戏生摇民。<br/>　　海内有两人，名曰女丑。女丑有大蟹。<br/>　　大荒之中，有山名曰孽摇【君页】羝。上有扶木，柱三百里，其叶如芥。有谷曰温源谷。汤谷上有扶木，一曰方至，一曰方出，皆载于乌。<br/>　　有神，人面、犬耳、兽身，珥两青蛇，名曰奢比尸。<br/>　　有五采之鸟，相乡弃沙。惟帝俊下友。帝下两坛，采鸟是司。<br/>　　大荒之中，有山名曰猗天苏山，日月所生。<br/>　　有【土熏】民之国。有綦山。又有摇山。有【融虫换曾】山，又有门户山，又有盛山。又有待山。有五采之鸟。<br/>　　东荒之中，有山名曰壑明俊疾，日月所出。有中容之国。<br/>　　东北海中，又有三青马、三骓、甘华。爱有遗玉、三青鸟、三骓、视肉、甘华、甘柤。百谷所在。<br/>　　有女和月母之国。有人名曰【上鸟下宛】－－北方曰【上鸟下宛】，来之风曰【犭炎】－－是处东极隅以止日月，使无相间出没，司其短长。<br/>　　大荒东北隅中，有山名曰凶犁土丘。应龙处南极，杀蚩尤与夸父，不得复上，故下数旱。旱而为应龙之状，乃得大雨。<br/>　　东海中有流波山，入海七千里。其上有兽，状如牛，苍身而无角，一足，出入水则必风雨，其光如日月，其声如雷，其名曰夔。黄帝得之，以其皮为鼓，橛以雷兽之骨，声闻五百里，以威天下。 <br/><br/>【白话文】<br/>　　东海以外有一深得不知底的沟壑，是少昊建国的地方。少昊就在这里抚养帝颛顼成长，帝颛顼幼年玩耍过的琴瑟还丢在沟壑里。有一座甘山，甘水从这座山发源，然后流汇成甘渊。东海以外，大荒当中，有座山叫做大言山，是太阳和月亮初出升起的地方。<br/>　　有座波谷山，有个大人国就在这山里。有大人做买卖的集市，就在叫做大人堂的山上。有一个大人正蹲在上面，张开他的两只手臂。有个小人国，那里的人被称作靖人。有一个神人，长着人的面孔野兽的身子，叫做犂。有座潏山，杨水就是从这座山发源的。有一个蒍国，那里的人以黄米为食物，能驯化驱使四种野兽：老虎、豹子、熊、罴。在大荒当中，有座山叫做合虚山，是太阳和月亮初出升起的地方。有一个国家叫中容国。帝俊生了中容，中容国的人吃野兽的肉、树木的果实，能驯化驱使四种野兽：豹子、老虎、熊、罴。有座东口山。有个君子国就在东口山，那里的人穿衣戴帽而且腰间佩带宝剑。<br/>　　有个国家叫司幽国。帝俊生了晏龙，晏龙生了司幽，司幽生了思土，而思土不娶妻子；司幽还生了思女，而思女不嫁丈夫。司幽国的人吃黄米饭，也吃野兽肉，能驯化驱使四种野兽。有一座山叫做大阿山。大荒当中有一座高山，叫做明星山，是太阳和月亮初出升起的地方。有个国家叫白民国。帝俊生了帝鸿，帝鸿的后代是白民，白民国的人姓销，以黄米为食物，能驯化驱使四种野兽：老虎、豹子、熊、罴。<br/>　　有个国家叫青丘国。青丘国有一种狐狸，长着九条尾巴。有一群人被称作柔仆民，他们所在的国土很肥沃。<br/>　　有个国家叫黑齿国。帝俊的后代是黑齿，姓姜，那里的人吃黄米饭，能驯化驱使四种野兽。<br/>　　有个国家叫夏州国。在夏州国附近又有一个盖余国。有个神人，长着八颗头而都是人的脸面，老虎身子而十条尾巴，名叫天吴。<br/>　　在大荒当中，有三座高山分别叫做鞠陵于天山、东极山、离瞀山，都是太阳和月亮初出升起的地方。有个神人名叫折丹，东方人单称他为折，从东方吹来的风称作俊，他就处在大地的东极主管风起风停。东海的岛屿上，有一个神人，长着人的面孔鸟的身子，耳朵上穿挂着两条黄色的蛇，脚底下踩踏着两条黄色的蛇，名叫禺猇。黄帝生了禺猇。，禺猇生了禺京。禺京住在北海，禺猇住在东海，都是海神。<br/>　　有座招摇山，融水从这座山发源。有一个国家叫玄股国，那里的人吃黄米饭，能驯化驱使四种野兽。有个国家叫因民国，那里的人姓勾，以黄米为食物。有个人叫王亥，他用两手抓着一只鸟，正在吃鸟的头。王亥把一群肥牛寄养在有易族人、水神河伯那里。有易族人把王亥杀死，没收了那群肥牛。河伯哀念有易族人，便帮助有易族人偷偷地逃出来，在野兽出没的地方建立国家，他们正在吃野兽肉，这个国家叫摇民国。另一种说法认为帝舜生了戏，戏的后代就是摇民。<br/>　　海内有两个神人，其中的一个名叫女丑。女丑有一只听使唤的大螃蟹。在大荒当中，有一座山名叫孽摇頵羝。山上有棵扶桑树，高耸三百里，叶子的形状像芥菜叶。有一道山谷叫做温源谷。汤谷上面也长了棵扶桑树，一个太阳刚刚回到汤谷，另一个太阳刚刚从扶桑树上出去，都负载于三足乌的背上。有一个神人，长着人的面孔、大大的耳朵、野兽的身子，耳朵上穿挂着两条青色的蛇，名叫奢比尸。有一群长着五彩羽毛的鸟，相对而舞，天帝帝俊从天上下来和它们交友。帝俊在下界的两座祭坛，由这群五彩鸟掌管着。<br/>　　在大荒当中，有一座山名叫猗天苏门山，是太阳和月亮初出升起的地方。有个国家叫壎民国。有座綦山。又有座摇山。又有座【鬲曾】山。又有座门户山。又有座盛山。又有座待山。还有一群五彩鸟。在东荒当中，有座山名叫壑明俊疾山，是太阳和月亮初出升起的地方。这里还有个中容国。东北海外，又有三青马、三骓马、甘华树。这里还有遗玉、三青鸟、三骓马、视肉怪兽、甘华树、甘柤树。是各种庄稼生长的地方。有个国家叫女和月母国。有一个神人名叫鹓，北方人称作鹓，从那里吹来的风称作【犭炎】，他就处在大地的东北角以便控制太阳和月亮，使不要交相错乱地出没，掌握它们升起落下时间的长短。在大荒的东北角上，有一座山名叫凶犁土丘山。应龙就住在这座山的最南端，因杀了神人蚩尤和神人夸父，不能再回到天上，天上因没了兴云布雨的应龙而使下界常常闹旱灾。下界的人们一遇天旱就装扮成应龙的样子求雨，就得到大雨。东海当中有座流波山，这座山在进入东海七千里的地方。山上有一种野兽，形状像普通的牛，是青苍色的身子却没有犄角，仅有一只蹄子，出入海水时就一定有大风大雨相伴随，它发出的亮光如同太阳和月亮，它吼叫的声音如同雷响，名叫夔。<br/>　　黄帝得到它，便用它的皮蒙鼓，再拿雷兽的骨头敲打这鼓，响声传到五百里以外，用来威震天下。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-222-2562.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-222-2564.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-222.html" action-type="chapterComment" class="comment"><i></i>山海经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

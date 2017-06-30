@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《史通》正文_内篇 载文第十六_刘知几作品 - 维普阅读网</title>
+<meta name="keywords" content="史通,史通原文,史通阅读,内篇 载文第十六全文,刘知几作品" />
+<meta name="description" content="史通原文阅读,内篇 载文第十六全文在线阅读,刘知几作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1030-10602.html";
+var nextpage="novel-read-1030-10604.html";
+var indexpage = "novel-chapter-1030.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1030.html">史通</a></strong>
+<strong><a href="novel-chapter-1030.html">史通目录</a></strong>
+<span>内篇 载文第十六</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1030-10602.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>内篇 载文第十六</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘知几&amp;searchsubmit=yes"  target="_blank">刘知几</a><span class="divide">|</span>发布时间：2014-11-28 23:06:27<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　夫观乎人文，以化成天下；观乎国风，以察兴亡。是知文之为用，远矣大矣。若乃宣、僖善政，其美载于周诗；怀、襄不道，其恶存乎楚赋。读者不以吉甫、奚斯为谄，屈平、宋玉为谤者，何也？盖不虚美，不隐恶故也。是则文之将史，其流一焉，固可以方驾南、董，俱称良直者矣。<br/><br/>　　爰洎中叶，文体大变，树理者多以诡妄为本，饰辞者务以淫丽为宗。譬如女工之有绮縠，音乐之有郑、卫。盖语曰：不作无益害有益。至如史氏所书，固当以正为主。是以虞帝思理，夏后失御，《尚书》载其元首、禽荒之歌；郑庄至孝，晋献不明，《春秋》录其大隧、狐裘之什。其理谠而切，其文简而要，足以惩恶劝善，观风察俗者矣。若马卿之《子虚》、《上林》，扬雄之《甘泉》、《羽猎》，班固《两都》，马融《广成》，喻过其体，词没其义，繁华而失实，流宕而忘返，无裨劝奖，有长奸诈，而前后《史》、《汉》皆书诸列传，不其谬乎！<br/><br/>　　且汉代词赋，虽云虚矫，自余它文，大抵犹实。至于魏、晋已下，则讹谬雷同。榷而论之，其失有五：一曰虚设，二曰厚颜，三曰假手，四曰自戾，五曰一概。<br/><br/>　　何者？昔大道为公，以能而授，故尧咨尔舜，舜以命禹。自曹、马已降，其取之也则不然。若乃上出禅书，下陈让表，其间劝进殷勤，敦谕重沓，迹实同于莽、卓，言乃类于虞、夏。且始自纳陛，迄于登坛。彤弓卢矢，新君膺九命之锡；白马侯服，旧主蒙三恪之礼。徒有其文，竟无其事。此所谓虚设也。<br/><br/>　　古者两军为敌，二国争雄，自相称述，言无所隐。何者？国之得丧，如日月之蚀焉，非由饰辞矫说所能掩蔽也。逮于近古则不然。曹公叹蜀主之英略，曰"刘备吾俦"；周帝美齐宣之强盛，云"高欢不死"。或移都以避其锋，或断冰以防其渡。及其申诰誓，降移檄，便称其智昏菽麦，识昧玄黄，列宅建都，若鹪鹩之巢苇，临戎贾勇，犹螳螂之拒辙。此所谓厚颜也。<br/><br/>　　古者国有诏命，皆人主所为，故汉光武时，第五伦为督铸钱掾，见诏书而叹曰："此圣主也，一见决矣。"至于近古则不然。凡有诏敕，皆责成群下，但使朝多文士，国富辞人，肆其笔端，何事不录。是以每发玺诰，下纶言，申恻隐之渥恩，叙忧勤之至意。其君虽有反道败德，唯顽与暴。观其政令，则辛、癸不如；读其诏诰，则勋、华再出。此所谓假手也。<br/><br/>　　盖天子无戏言，苟言之有失，则取尤天下。故汉光武谓庞萌"可以托六尺之孤"，及闻其叛也，乃谢百官曰：诸君得无笑朕乎？是知褒贬之言，哲王所慎。至于近古则不然。凡百具寮，王公卿士，始有褒崇，则谓其珪璋特达，善无可加；旋有贬黜，则比诸斗筲下才，罪不容责。夫同为一士之行，同取一君之言，愚智生于倏忽，是非变于俄顷，帝心不一，皇鉴无恒。此所胃自戾也。<br/><br/>　　夫国有否泰，世有污隆，作者形言，本无定准。故观猗与之颂，而验有殷方兴；睹《鱼藻》之刺，而知宗周将殒。至于近代则不然。夫谈主上之圣明，则君尽三、五；述宰相之英伟，则人皆二八。国止方隅，而言并吞六合；福不盈｛此目｝，而称感致百灵。虽人事屡改，而文理无易，故善之与恶，其说不殊，欲令观者，畴为准的？此所谓一概也。<br/><br/>　　于是考兹五失，以寻文义，虽事皆形似，而言必凭虚。夫镂冰为璧，不可得而用也；画地为饼，不可得而食也。是以行之于世，则上下相蒙；传之于后，则示人不信。而世之作者，恒不之察，聚彼虚说，编而次之，创自起居，成于国史，连章疏录，一字无废，非复史书，更成文集。<br/><br/>　　若乃历选众作，求其秽累，王沈、鱼豢，是其甚焉；裴子野、何之元，抑其次也。陈寿、干宝，颇从简约，犹时载浮讹，罔尽机要。唯王劭撰《齐》、《隋》二史，其所取也，文皆诣实，理多可信，至于悠悠饰词，皆不之取。此实得去邪从正之理，捐华摭实之义也。<br/><br/>　　盖山有木，工则度之。况举世文章，岂无其选，但苦作者书之不读耳。至如诗有韦孟《讽谏》，赋有赵壹《嫉邪》，篇则贾谊《过秦》，论则班彪《王命》，张华述箴于女史，张载题铭于剑阁，诸葛表主以出师，王昶书字以诫子，刘向、谷永之上疏，晁错、李固之对策，荀伯子之弹文，山巨源之启事，此皆言成轨则，为世龟镜。求诸历代，往往而有。苟书之竹帛，持以不刊，则其文可与三代同风，其事可与《五经》齐列。古犹今也，何远近之有哉？<br/><br/>　　昔夫子修《春秋》，别是非，申黜陟，而贼臣逆子惧。凡今之为史而载文也，苟能拨浮华，采贞实，亦可使夫雕虫小技者，闻义而知徒矣。此乃禁淫之堤防，持雅之管辖，凡为载削者，可不务乎？</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1030-10602.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1030-10604.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1030.html" action-type="chapterComment" class="comment"><i></i>史通章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

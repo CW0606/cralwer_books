@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《抱朴子》正文_卷六十 辞义_葛洪作品 - 维普阅读网</title>
+<meta name="keywords" content="抱朴子,抱朴子原文,抱朴子阅读,卷六十 辞义全文,葛洪作品" />
+<meta name="description" content="抱朴子原文阅读,卷六十 辞义全文在线阅读,葛洪作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-504-5880.html";
+var nextpage="novel-read-504-5882.html";
+var indexpage = "novel-chapter-504.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-504.html">抱朴子</a></strong>
+<strong><a href="novel-chapter-504.html">抱朴子目录</a></strong>
+<span>卷六十 辞义</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-504-5880.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷六十 辞义</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=葛洪&amp;searchsubmit=yes"  target="_blank">葛洪</a><span class="divide">|</span>发布时间：2014-09-20 23:04:14<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>或曰：“乾坤方圆，非规定之功，三辰摛景，非莹磨之力；春华粲焕，非渐染之辨；茝蕙芬馥，非容气所假。知夫至真，贵乎天然也。义以罕觌为异，辞以不常为美，而历观古今属文之家，鲜能挺逸丽於毫端，多斟酌於前言。何也？”<br/>　　抱朴子曰：“清音贵於雅韵克谐，著作珍乎判微析理。故八音形器异而锺律同，黼黻文物殊而五色均。徒闲涩有主宾，妍媸有步骤。是则总章无常曲，大庖无定味。夫梓豫山积，非班匠不能成机巧；众书无限，非英才不能收膏腴。何必寻木千里，乃构大厦；鬼神之言，乃著篇章乎！”<br/>　　抱朴子曰：夫才有清浊，思有修短，虽并属文，叁差万品，或浩瀁而不渊浑，或事情而辞钝，违物理而文工，盖偏长之一致，非兼通之才也。暗於自料，强欲兼之，违才易务，故不免嗤也。<br/>　　抱朴子曰：五味舛而并甘，众色乖而皆丽。近人之情，爱同憎异，贵乎合己，贱於殊途。夫文章之体，尤难详赏，苟以入耳为佳，适心为快，鲜知忘味之九成，雅颂之风流也。所谓考盐梅之咸酸，不知大羹之不致，明飘摇之细巧，蔽於沈深之弘邃也。其英异宏逸者，则网罗乎玄黄之表；其拘束龌龊者，则羁绁於笼罩之内。振翅有利钝，则翔集有高卑；骋迹有迟迅，则进趋有远近。驽锐(疑下有脱文)不可胶柱调也。文贵丰赡，何必称善如一口乎！不能拯风俗之流遁，世途之凌夷，通疑者之路，赈贫者之乏，何异春华不为肴粮之用，茝蕙不救冰寒之急。古诗刺过失，故有益而贵；今诗纯虚誉，故有损而贱也。<br/>　　抱朴子曰：属笔之家，亦各有病，其深者则患乎譬烦言冗，申诫广喻，欲弃而惜，不觉成烦也。其浅者则患乎妍而无据，证援不给，皮肤鲜泽而骨鲠迥弱也。繁华日韦晔，则并七曜以高丽；沈微沦妙，则侪玄渊之无测。人事靡细而不浃，王道无微而不惫，故能身贱而言贵，千载弥彰焉。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-504-5880.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-504-5882.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-504.html" action-type="chapterComment" class="comment"><i></i>抱朴子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

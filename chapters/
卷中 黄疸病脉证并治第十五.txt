@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《金匮要略》正文_卷中 黄疸病脉证并治第十五_张仲景作品 - 维普阅读网</title>
+<meta name="keywords" content="金匮要略,金匮要略原文,金匮要略阅读,卷中 黄疸病脉证并治第十五全文,张仲景作品" />
+<meta name="description" content="金匮要略原文阅读,卷中 黄疸病脉证并治第十五全文在线阅读,张仲景作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-253-4019.html";
+var nextpage="novel-read-253-4021.html";
+var indexpage = "novel-chapter-253.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-253.html">金匮要略</a></strong>
+<strong><a href="novel-chapter-253.html">金匮要略目录</a></strong>
+<span>卷中 黄疸病脉证并治第十五</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-253-4019.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷中 黄疸病脉证并治第十五</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=张仲景&amp;searchsubmit=yes"  target="_blank">张仲景</a><span class="divide">|</span>发布时间：2014-08-26 20:47:35<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>黄疸病脉证并治第十五：（论二首 脉证十四条 方七首）<br/><br/>　　寸口脉浮而缓，浮则为风，缓则为痹。痹非中风，四肢苦烦，脾色必黄，瘀热以行。<br/><br/>　　趺阳脉紧而数，数则为热，热则消谷，紧则为寒，食即为满。尺脉浮为伤肾，趺阳脉紧为伤脾。风寒相搏，食谷即眩，谷气不消，胃中苦浊，浊气下流，小便不通，阴被其寒，热流膀胱，身体尽黄，名曰谷疸。<br/><br/>　　额上黑，微汗出，手足中热，薄暮即发，膀胱急，小便自利，名曰女劳疸，腹如水状不治。<br/><br/>　　心中懊憹而热，不能食，时欲吐，名曰酒疸。<br/><br/>　　阳明病，脉迟者，食难用饱，饱则发烦头眩，小便必难，此欲作谷疸。虽下之，腹满如故，所以然者，脉迟故也。<br/><br/>　　夫病酒黄疸，必小便不利，其候心中热，足下热，是其证也。酒黄疸者，或无热，请言，小腹满欲吐，鼻燥，其脉浮者先吐之，沉弦者先下之。<br/><br/>　　酒疸，心中热，欲呕者，吐之愈。酒疸下之，久久为黑疸，目青面黑，心中如啖蒜薺状，大便正黑，皮肤爪之不仁，其脉浮弱，虽黑微黄，故知之。<br/><br/>　　师曰：病黄疸，发热烦喘，胸满口燥者，以病发时火劫其汗，两热所得。然黄家所得，从湿得之。一身尽发热而黄，肚热，热在里，当下之。<br/><br/>　　脉沉，渴欲饮水，小便不利者，皆发黄。<br/><br/>　　腹满，舌痿黄，燥不得睡，属黄家。（舌痿疑作身痿）<br/><br/>　　黄疸之病，当以十八日为期，治之十日以上瘥，反极为难治。<br/><br/>　　疸而渴者，其疸难治，疸而不渴者，其疸可治。发于阴部，其人必呕；阳部，其人振寒而发热也。<br/><br/>　　谷疸之为病，寒热不食，食即头眩，心胸不安，久久发黄为谷疸，茵陈汤主之。<br/><br/>　　茵陈汤方<br/><br/>　　茵陈蒿六两 梔子十四枚 大黄二两<br/><br/>　　右三味，以水一斗，先煮茵陈，减六升，内二味，煮取三升，去滓，分温三服。小便当利，尿如皂角汁状，色正赤。一宿腹减，黄从小便去也。<br/><br/>　　黄家日晡所发热，而反恶寒，此为女劳得之。膀胱急，少腹满，身尽黄，额上黑，足下热，因作黑疸。其腹胀如水状，大便必黑，时溏，此女劳之病，非水也，腹满者难治，用硝矾散主之。<br/><br/>　　硝石矾石散方<br/><br/>　　硝石 矾石（烧）等分<br/><br/>　　右二昧，为散，以大麦粥汁和服方寸匕，日三服。病随大小便去，小便正黄，大便正黑，是候也。<br/><br/>　　酒黄疸，心中懊憹或热痛，梔子大黄汤主之。<br/><br/>　　梔子大黄汤方<br/><br/>　　梔子十四枚 大黄一两 枳实五枚 豉一升<br/><br/>　　右四味，以水六升，煮取二升，分温三服。<br/><br/>　　诸病黄家，但利其小便；假令脉浮，当以汗解之，宜桂枝加黄芪汤主之。（方见水气中）<br/><br/>　　诸黄，猪膏发煎主之。<br/><br/>　　猪膏发煎方<br/><br/>　　猪膏半斤 乱发如鸡子大三枚<br/><br/>　　右二味，和膏中煎之，发消药成，分再服，病从小便出。<br/><br/>　　黄疸病，茵陈五苓散主之。（一本云茵陈汤及五苓散并主之）<br/><br/>　　茵陈五苓散方<br/><br/>　　茵陈蒿末十分 五苓散五分（方见痰饮中）<br/><br/>　　右二物和，先食饮方寸匕，日三服。<br/><br/>　　黄疸腹满，小便不利而赤，自汗出，此为表和里实，当下之，宜大黄硝石汤。<br/><br/>　　大黄硝石汤方<br/><br/>　　大黄 黄柏 硝石各四两 梔子十五枚<br/><br/>　　右四昧，以水六升，煮取二升，去滓，内硝，更煮取一升，顿服。<br/><br/>　　黄疸病，小便色不变，欲自利，腹满而喘，不可除热，热除必哕，哕者，小半夏汤主之。（方见消渴中）<br/><br/>　　诸黄，腹痛而呕者，宜柴胡杨。（必小柴胡汤，方见呕吐中）<br/><br/>　　男子黄，小便自利，当与虚劳小建中汤。（方见虚劳中）<br/><br/>　　附方<br/><br/>　　瓜蒂汤 治诸黄。（方见暍病中）<br/><br/>　　《千金》麻黄醇酒汤 治黄疸。<br/><br/>　　麻黄三两<br/><br/>　　右一味，以美清酒五升，煮取二升半，顿服尽。冬月用酒，春月用水煮之。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-253-4019.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-253-4021.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-253.html" action-type="chapterComment" class="comment"><i></i>金匮要略章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

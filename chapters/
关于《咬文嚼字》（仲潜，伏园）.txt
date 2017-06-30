@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《集外集》正文_关于《咬文嚼字》（仲潜，伏园）_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="集外集,集外集原文,集外集阅读,关于《咬文嚼字》（仲潜，伏园）全文,鲁迅作品" />
+<meta name="description" content="集外集原文阅读,关于《咬文嚼字》（仲潜，伏园）全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-540-6914.html";
+var nextpage="novel-read-540-6916.html";
+var indexpage = "novel-chapter-540.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-540.html">集外集</a></strong>
+<strong><a href="novel-chapter-540.html">集外集目录</a></strong>
+<span>关于《咬文嚼字》（仲潜，伏园）</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-540-6914.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>关于《咬文嚼字》（仲潜，伏园）</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-30 19:21:30<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>我那封短信，原系私人的通信，应无发表的必要；不过先生认为有公开的价值，就把它发表了。但因此那封信又变为无聊的通信了，岂但无聊而已哉，且恐要惹起许多无聊的是非来，这个挑拨是非之责，应该归记者去担负吧！所以如果没有彼方的答辩则已；如有，我可不理了。至于《咬文嚼字》一文，先生认为原意中攻击的两点是极重要且极有意义的，我不无怀疑之点：Ａ，先生照咬文嚼字的翻译看起来，以为是晚近翻译界堕落的征兆。为什么是堕落？我不明白。你以为女人的名字应该用美丽的字眼，男人的名字的第一音应该用《百家姓》中的字，是近来新发明的，因名之曰怪思想么？但我要问先生认它为“堕落”的，究竟是不是“怪思想”？我以为用美丽的字眼翻译女性的名字是翻译者完全的自由与高兴，·无·关·紧·要·的；虽是新发明，却不是堕落的征兆，更不是怪思想！Ｂ，外国人的名是在前，姓是在后。“高尔基”三个音连成的字，是Ｇｏｒｋｙ的姓，并不是他就是姓“高”；不过便于中国人的习惯及记忆起见，把第一音译成一个相似的中国姓，或略称某氏以免重复的累赘底困难。如果照中国人的姓名而认他姓高，则尔基就变成他的名字了？岂不是笑话吗！又如，Ｗｉｌｄｅ可译为王尔德，可译魏尔德，又可译为樊尔德，然则他一人姓了王又姓魏又姓樊，此理可说的通吗？可见所谓“吾家ｒｋｙ”者，我想，是鲁迅先生新发明的吧！不然，就是说“吾家ｒｋｙ”的人，根本不知“高尔基”三音连合的字是他原来的姓！因同了一个“高”字，就贸贸然称起吾家还加上ｒｋｙ来，这的确是新杜撰的滑稽话！却于事实上并无滑稽的毫末，只惹得人说他·无·意·思而已，说他是·门·外·汉而已，说他是·无·聊而已！先生所谓够深长够浓厚极重要极有意义的所在，究竟何所而在？虽然，记者有记者个人的意见，有记者要它发表不发表的权力，所以二号字的标题与四号字的署名，就刊出来了。最后我很感谢先生上次的盛意并希望先生个人认为很有意思的文字多登载几篇。还有一句话：将来如有他方面的各种的笔墨官司打来，恕我不再来答辩了，不再来凑无聊的热闹了。此颂 <br/><br/>　　撰安！ <br/><br/>　　十六，弟仲潜敬复。 <br/><br/>　　“高尔基三个音连成的字，是Ｇｏｒｋｙ的姓，并不是他就姓高，”廖先生这句话比鲁迅先生的文字更有精采。可惜这句话不能天天派一个人对读者念着，也不能叫翻译的人在篇篇文章的原著者下注着“高尔基不姓高，王尔德不姓王，白利欧不姓白……”廖先生这篇通信登过之后不几天，廖先生这句名言必又被人忘诸脑后了。所以，鲁迅先生的讽刺还是重要，如果翻译界的人被鲁迅先生的“吾家尔基”一语刺得难过起来，竟毅然避去《百家姓》中之字而以声音较近之字代替了（如哥尔基，淮尔德，勃利欧……），那末阅者一望而知“三个音连成的字是姓，第一音不是他的姓，”不必有烦廖先生的耳提面命了。不过这样改善以后，其实还是不妥当，所以用方块儿字译外国人名的办法，其寿命恐怕至多也不过还有五年，进一步是以注音字母译（钱玄同先生等已经实行了，昨天记者遇见钱先生，他就说即使第一音为《百家姓》中的字之办法改良以后，也还是不妥），再进一步是不译，在欧美许多书籍的原名已经不择了，主张不译人名即使在今日的中国恐怕也不算过激罢。 <br/><br/>　　伏园附注 <br/><br/>　　一九二五年一月十八日《京报副刊》。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-540-6914.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-540-6916.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-540.html" action-type="chapterComment" class="comment"><i></i>集外集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《三闲集》正文_革命咖啡店_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="三闲集,三闲集原文,三闲集阅读,革命咖啡店全文,鲁迅作品" />
+<meta name="description" content="三闲集原文阅读,革命咖啡店全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-549-7426.html";
+var nextpage="novel-read-549-7428.html";
+var indexpage = "novel-chapter-549.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-549.html">三闲集</a></strong>
+<strong><a href="novel-chapter-549.html">三闲集目录</a></strong>
+<span>革命咖啡店</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-549-7426.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>革命咖啡店</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-04 20:20:25<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>革命咖啡店的革命底广告式文字，〔２〕昨天在报章上看到了，仗着第四个“有闲”，先抄一段在下面：“……但是读者们，我却发现了这样一家我们所理想的乐园，我一共去了两次，我在那里遇见了我们今日文艺界上的名人，龚冰庐，鲁迅，郁达夫等。并且认识了孟超，潘汉年，叶灵凤等，他们有的在那里高谈着他们的主张，有的在那里默默沉思，我在那里领会到不少教益呢。……” <br/><br/>　　遥想洋楼高耸，前临阔街，门口是晶光闪灼的玻璃招牌，楼上是“我们今日文艺界上的名人”，或则高谈，或则沉思，面前是一大杯热气蒸腾的无产阶级咖啡，远处是许许多多“龌龊的农工大众”〔３〕，他们喝着，想着，谈着，指导着，获得着，那是，倒也实在是“理想的乐园”。 <br/><br/>　　何况既喝咖啡，又领“教益”呢？上海滩上，一举两得的买卖本来多。大如弄几本杂志，便算革命；小如买多少钱书籍，即赠送真丝光袜或请吃冰淇淋——虽然我至今还猜不透那些惠顾的人们，究竟是意在看书呢，还是要穿丝光袜。至于咖啡店，先前只听说不过可以兼看舞女，使女，“以饱眼福”罢了。谁料这回竟是“名人”，给人“教益”，还演“高谈”“沉思”种种好玩的把戏，那简直是现实的乐园了。但我又有几句声明——就是：这样的咖啡店里，我没有上去过，那一位作者所“遇见”的，又是别一人。因为：一，我是不喝咖啡的，我总觉得这是洋大人所喝的东西（但这也许是我的“时代错误”〔４〕），不喜欢，还是绿茶好。二，我要抄“小说旧闻”之类，无暇享受这样乐园的清福。三，这样的乐园，我是不敢上去的，革命文学家，要年青貌美，齿白唇红，如潘汉年叶灵凤〔５〕辈，这才是天生的文豪，乐园的材料；如我者，在《战线》上就宣布过一条“满口黄牙”〔６〕的罪状，到那里去高谈，岂不亵渎了“无产阶级文学”么？还有四，则即使我要上去，也怕走不到，至多，只能在店后门远处彷徨彷徨，嗅嗅咖啡渣的气息罢了。你看这里面不很有些在前线的文豪么，我却是“落伍者”，决不会坐在一屋子里的。 <br/><br/>　　以上都是真话。叶灵凤革命艺术家曾经画过我的像〔７〕，说是躲在酒坛的后面。这事的然否我不谈。现在所要声明的，只是这乐园中我没有去，也不想去，并非躲在咖啡杯后面在骗人。 <br/><br/>　　杭州另外有一个鲁迅时，我登了一篇启事，“革命文学家”就挖苦了。〔８〕但现在仍要自己出手来做一回，一者因为我不是咖啡，不愿意在革命店里做装点；二是我没有创造社那么阔，有一点事就一个律师，两个律师。 <br/><br/>　　八月十日。 <br/><br/>　　<br/><br/><br/>　　〔１〕本篇最初刊于一九二八年八月十三日《语丝》第四卷第三十三期郁达夫的《革命广告》之后，题作《鲁迅附记》，收入本书时改为现题。 <br/><br/>　　〔２〕指一九二八年八月八日《申报》所载的《“上海珈琲”》，作者署名慎之。 <br/><br/>　　〔３〕“龌龊的农工大众”这是成仿吾的话。他在《创造月刊》第一卷第九期（载一九二八年二月）发表的《从文学革命到革命文学》中说：“克服自己的小资产阶级的根性，把你的背对向那将被奥伏赫变的阶级，开步走，向那龌龊的农工大众！” <br/><br/>　　〔４〕“时代错误”成仿吾在《洪水》第三卷第二十五期（一九二七年一月）发表的《完成我们的文学革命》中，说当时的文学出版物“在创作上是时代错误的趣味的高调，在评论上是狂妄的瞎说的乱响”。 <br/><br/>　　〔５〕潘汉年（１９０６—１９７７）江苏宜兴人，作家。叶灵凤（１９０４—１９７５），江苏南京人，作家、画家。他们都曾参加创造社。<br/><br/>　　〔６〕“满口黄牙”《流沙》第三期（一九二八年四月十五日）刊有署名心光的《鲁迅在上海》一文，其中攻击鲁迅说：“你看他近来在‘华盖’之下哼出了一声‘醉眼中的朦胧’来了。但他在这篇文章里消极的没有指摘出成仿吾等的错误，积极的他自己又不屑替我们青年指出一条出路来，他看见旁人的努力他就妒忌，他只是露出满口黄牙在那里冷笑。” <br/><br/>　　〔７〕叶灵凤的画，载于上海《戈壁》第一卷第二期（一九二八年五月）。参看本卷第１２４页注〔１２〕。 <br/><br/>　　〔８〕指收入本书的《在上海的鲁迅启事》。“革命文学家”，指潘汉年。他在《战线》周刊第一卷第四期（一九二八年四月二十二日）的《假鲁迅与真鲁迅》中，挖苦鲁迅的启事说：“那位少老先生，看中鲁迅的名字有如此魔力，所以在曼殊和尚坟旁Ｍ女（士）面前，题下这个‘鲁迅游杭吊老友’的玩意儿，现在上海的鲁迅偏偏来一个启事……这一来岂不是明明白白叫以后要乞教或见访的女士们，认清本店老牌，只此一家，并无分出了吗？虽然上海的鲁迅启事，没有那个大舞台对过天晓得所悬那玩意儿强硬，至少也使得我们那位‘本姓周或不姓周，而要姓周’的另一个鲁迅要显着原形哆嗦而发抖！这才是假关公碰到真关公，假鲁迅遇着真鲁迅！” </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-549-7426.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-549-7428.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-549.html" action-type="chapterComment" class="comment"><i></i>三闲集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

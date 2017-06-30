@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《尚书》正文_周书·康诰_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="尚书,尚书原文,尚书阅读,周书·康诰全文,佚名作品" />
+<meta name="description" content="尚书原文阅读,周书·康诰全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-28-447.html";
+var nextpage="novel-read-28-449.html";
+var indexpage = "novel-chapter-28.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-28.html">尚书</a></strong>
+<strong><a href="novel-chapter-28.html">尚书目录</a></strong>
+<span>周书·康诰</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-28-447.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>周书·康诰</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-07-19 12:26:12<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　成王既伐管叔、蔡叔，以殷余民封康叔，作《康诰》、《酒诰》、《梓材》。<br/>　　惟三月哉生魄，周公初基作新大邑于东国洛，四方民大和会。侯、甸、男邦、采、卫百工、播民，和见士于周。周公咸勤，乃洪大诰治。<br/>　　王若曰：“孟侯，朕其弟，小子封。惟乃丕显考文王，克明德慎罚；不敢侮鳏寡，庸庸，祗祗，威威，显民，用肇造我区夏，越我一、二邦以修我西土。惟时怙冒，闻于上帝，帝休，天乃大命文王。殪戎殷，诞受厥命越厥邦民，惟时叙，乃寡兄勖。肆汝小子封在兹东土。<br/>　　王曰：“呜呼！封，汝念哉！今民将在祗遹乃文考，绍闻衣德言。往敷求于殷先哲王用保乂民，汝丕远惟商耇成人，宅心知训。别求闻由古先哲王用康保民。<br/>　　宏于天，若德，裕乃身不废在王命！”王曰：“呜呼！小子封，恫瘝乃身，敬哉！天畏棐忱；民情大可见，小人难保。往尽乃心，无康好逸豫，乃其乂民。我闻曰：‘怨不在大，亦不在小；惠不惠，懋不懋。’已！汝惟小子，乃服惟弘王应保殷民，亦惟助王宅天命，作新民。”<br/>　　王曰：“呜呼！封，敬明乃罚。人有小罪，非眚，乃惟终自作不典；式尔，有厥罪小，乃不可不杀。乃有大罪，非终，乃惟眚灾：适尔，既道极厥辜，时乃不可杀。”<br/>　　王曰：“呜呼！封，有叙时，乃大明服，惟民其敕懋和。若有疾，惟民其毕弃咎。若保赤子，惟民其康乂。非汝封刑人杀人，无或刑人杀人。非汝封又曰劓刵人，无或劓刵人。”<br/>　　王曰：“外事，汝陈时臬司师，兹殷罚有伦。”又曰：“要囚，服念五、六日至于旬时，丕蔽要囚。”<br/>　　王曰：“汝陈时臬事罚。蔽殷彝，用其义刑义杀，勿庸以次汝封。乃汝尽逊曰时叙，惟曰未有逊事。<br/>　　已！汝惟小子，未其有若汝封之心。朕心朕德，惟乃知。<br/>　　凡民自得罪：寇攘奸宄，杀越人于货，暋不畏死，罔弗憝。<br/>　　王曰：“封，元恶大憝，矧惟不孝不友。子弗祗服厥父事，大伤厥考心；于父不能字厥子，乃疾厥子。于弟弗念天显，乃弗克恭厥兄；兄亦不念鞠子哀，大不友于弟。惟吊兹，不于我政人得罪，天惟与我民彝大泯乱，曰：乃其速由文王作罚，刑兹无赦。<br/>　　不率大戛，矧惟外庶子、训人惟厥正人越小臣、诸节。乃别播敷，造民大誉，弗念弗庸，瘝厥君，时乃引恶，惟朕憝。已！汝乃其速由兹义率杀。亦惟君惟长，不能厥家人越厥小臣、外正；惟威惟虐，大放王命；乃非德用乂。汝亦罔不克敬典，乃由裕民，惟文王之敬忌；乃裕民曰：‘我惟有及。’则予一人以怿。”<br/>　　王曰：“封，爽惟民迪吉康，我时其惟殷先哲王德，用康乂民作求。矧今民罔迪，不适；不迪，则罔政在厥邦。”<br/>　　王曰：“封，予惟不可不监，告汝德之说于罚之行。今惟民不静，未戾厥心，迪屡未同，爽惟天其罚殛我，我其不怨。惟厥罪无在大，亦无在多，矧曰其尚显闻于天。”<br/>　　王曰：“呜呼！封，敬哉！无作怨，勿用非谋非彝蔽时忱。丕则敏德，用康乃心，顾乃德，远乃猷，裕乃以；民宁，不汝瑕殄。”<br/>　　王曰：“呜呼！肆汝小子封。惟命不于常，汝念哉！无我殄享，明乃服命，高乃听，用康乂民。”<br/>　　王若曰：“往哉！封，勿替敬，典听朕告，汝乃以殷民世享。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-28-447.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-28-449.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-28.html" action-type="chapterComment" class="comment"><i></i>尚书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

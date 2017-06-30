@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孔子家语》正文_本姓解_王肃作品 - 维普阅读网</title>
+<meta name="keywords" content="孔子家语,孔子家语原文,孔子家语阅读,本姓解全文,王肃作品" />
+<meta name="description" content="孔子家语原文阅读,本姓解全文在线阅读,王肃作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-349-5204.html";
+var nextpage="novel-read-349-5206.html";
+var indexpage = "novel-chapter-349.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-349.html">孔子家语</a></strong>
+<strong><a href="novel-chapter-349.html">孔子家语目录</a></strong>
+<span>本姓解</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-349-5204.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>本姓解</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王肃&amp;searchsubmit=yes"  target="_blank">王肃</a><span class="divide">|</span>发布时间：2014-09-05 21:51:19<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>孔子之先，宋之后也，微子启帝乙之元子，纣之庶兄，以圻内诸侯入为王卿士。微国名，子爵。初武王克殷，封纣之子武庚于朝歌，使奉汤祀。武王崩而与管蔡霍三叔作难，周公相成王东征之，二年，罪人斯得，乃命微子于殷。后作微子之命，由之與國于宋，徙殷之子孫，唯微子先？仕周，故封之賢。其弟曰仲思，名衍，或名泄，嗣微之后，故号微仲，生宋公稽胄子，虽迁爵易位，而班级不及其故者，得以故官为称，故二微虽为宋公，而犹以微之号自终，至于稽乃称公焉。宋公生丁公申，申公生缗公共，及襄公熙，熙生弗父何，及厉公方祀，方祀以下，世为宋卿。弗父何生宋父周，周生世子胜，胜生正考甫，考甫生孔父嘉，五世亲尽，别为公族，故后以孔为氏焉。一曰孔父者，生时所赐号也，是以子孙遂以氏族。孔父生子木金父，金父生睪夷，睪夷生防叔，避华氏之祸而奔鲁。方叔生伯夏，伯夏生叔梁纥，曰虽有九女，是无子。其妾生孟皮，孟皮一字伯尼，有足病，于是乃求婚于颜氏。颜氏有三女，其小曰征在，颜父问三女曰：“陬大夫虽父祖为士，然其先圣王之裔，今其人身长十尺，武力绝伦，吾甚贪之，虽年长性严，不足为疑，三子孰能为之妻？”二女莫对，征在进曰：“从父所制，将何问焉。”父曰：“即尔能矣。”遂以妻之。徵在既？廟見，以夫之年大，惧不时有勇，而私祷尼丘之山以祈焉，生孔子，故名丘，字仲尼。孔子三岁而叔梁纥卒，葬于防。至十九，娶于宋之亓官氏，一岁而生伯鱼，鱼之生也，鲁昭公以鲤鱼赐孔子，荣君之贶，故因以名曰鲤，而字伯鱼，鱼年五十，先孔子卒。<br/>　　齐太史子与适鲁，见孔子，孔子与之言道。子与悦曰：“吾鄙人也，闻子之名，不睹子之形久矣，而求知之宝贵也，乃今而后知泰山之为高，渊海之为大，惜乎夫子之不逢明王，道德不加于民，而将垂宝以贻后世。”遂退而谓南宫敬叔曰：“今孔子先圣之嗣，自弗父何以来，世有德让，天所祚也。成汤以武德王天下，其配在文，殷宗以下，未始有也，孔子生于衰周，先王典籍，错乱无纪，而乃论百家之遗记，考正其义，祖述尧舜，宪章文武，删诗述书，定礼理乐，制作春秋，赞明易道，垂训后嗣，以为法式，其文德着矣。然凡所教诲，束修已上，三千余人，或者天将欲与素王之乎，夫何其盛也。”敬叔曰：“殆如吾子之言，夫物莫能两大，吾闻圣人之后，而非继世之统，其必有兴者焉。今夫子之道至矣，乃将施之无穷，虽欲辞天之祚，故未得耳。”子贡闻之，以二子之言告孔子。子曰：“岂若是哉？乱而治之，滞而起之，自吾志，天何与焉。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-349-5204.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-349-5206.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-349.html" action-type="chapterComment" class="comment"><i></i>孔子家语章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

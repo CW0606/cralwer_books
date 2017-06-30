@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《涂山歌》正文_涂山歌_先秦无名作品 - 维普阅读网</title>
+<meta name="keywords" content="涂山歌,涂山歌原文,涂山歌阅读,涂山歌全文,先秦无名作品" />
+<meta name="description" content="涂山歌原文阅读,涂山歌全文在线阅读,先秦无名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-163.html";
+var nextpage="novel-chapter-163.html";
+var indexpage = "novel-chapter-163.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-163.html">涂山歌</a></strong>
+<strong><a href="novel-chapter-163.html">涂山歌目录</a></strong>
+<span>涂山歌</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-163.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>涂山歌</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=先秦无名&amp;searchsubmit=yes"  target="_blank">先秦无名</a><span class="divide">|</span>发布时间：2014-08-06 21:05:44<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>绥绥白狐①，<br/>九尾庞庞②。<br/>成于家室，<br/>我都攸昌③。<br/><br/>【注释】<br/>①绥绥：独行求匹偶之貌。<br/>②庞庞：粗大。<br/>③攸：语助词。<br/><br/>【译文】<br/>孤孤单单走来的白狐狸，<br/>九个尾巴毛茸茸又粗又长。<br/>大禹和涂山女结为连理，<br/>我们这里将永远发达兴旺！<br/><br/>【鉴赏】<br/>《吕氏春秋》说：“禹年三十未娶。行涂山，恐时暮失嗣，辞曰：‘吾之娶，必有应也。’乃有白狐九尾而造于禹。禹曰：‘白者，吾服也；九尾者，其证也。’于是涂山人歌曰：‘绥绥白狐，九尾庞庞。成于家室，我都攸昌。’于是娶涂山女。”此段引文系据《北堂书钞》、《艺文类聚》、《太平御览》转引，今本《吕氏春秋》失载。又《吴越春秋·越王无余外传》亦有《涂山歌》，全诗为：“绥绥白狐，九尾龎龎。我家嘉夷，来宾为王。成家成室，我造彼昌。天人之际，于兹则行。”文字较繁，是据《吕氏春秋》又加增补而成。《吴越春秋》中并说到涂山女的名字叫女娇。（《吴越春秋》：“乃有白狐九尾造于禹，禹曰：‘白者，吾之服也；九尾者，王之证也。’于是涂山之人歌之。禹因娶涂山，谓之女娇。”）<br/>夏禹娶亲之事，发生在治水过程中。《史记·河渠书》说：“禹抑洪水十三年。”《汉书·沟洫志》说：“禹湮洪水十三年。”关于这十三年中的情况，《史记·夏本纪》中有概括的介绍：“（大禹）劳身焦思，居外十三年，过家门不敢入。”但《尚书·益稷》记大禹的自述为：“娶于涂山，辛、壬、癸、甲。启呱呱而泣，予弗子，惟荒度土功。”又《吕氏春秋》说：“禹娶涂山氏女，不以私害公，自辛至甲四日，复往治水。”这两则材料都是说大禹只告了四天“婚假”，即“复往治水”。可见其婚娶是在治水期间。《史记》所说“居外十三年，过家门不敢入”，是不包括回家结婚这一次的。《孟子·滕文公上》说大禹“八年于外，三过其门而不入”，或许此“八年”是从新婚离家时算起；这样，大禹“三十未娶”，于三十岁这一年结婚时，在外治水已有五年的历史。古代男子二十岁行冠礼（见《礼记·曲礼上》，但《仪礼·士冠礼》等说十九而冠），表示已成年，可以娶妻了。大禹至三十岁而未娶，已是晚婚的“大男”。《吕氏春秋》说他急于结婚是“恐时暮失嗣”，即担心年纪大了不能生育，无法传宗接代。他对女色并不贪恋，所以新婚才四天便重又离家去治水了。<br/>至于涂山之地，历来说法不一，有会稽（今浙江绍兴）、江州（今四川巴县）、当涂（今安徽当涂）、濠州（今安徽怀远）等不同的说法。近人根据古籍记载并结合现场的踏勘、访问，认为在会稽一说较为正确。其具体地点，被认定在今绍兴县安昌镇东南二公里处，现山名为西扆山，又称西余山。当地农民至今尚传禹杀防风氏于涂山，血流入河，河水被染红。西扆山村北的红桥村即因此而得名。在西扆山西南数公里处有称为“型塘”的地方。贺循《会稽记》说：“防风氏身三丈，刑者不及，乃筑塘临之，故曰刑塘。”“型塘”即“刑塘”。关于古“涂山”的考证，详见盛鸿郎《涂山考》（载浙江人民出版社《大禹研究》）。<br/>大禹的婚姻，据开头所引《吕氏春秋》中的资料，可见是很带有传奇性的。在走到涂山时，他预感到自己的婚事将会一帆风顺，所以说：“我娶亲，一定会有想嫁我的人。”正当其时，有一只长着九条尾巴的白色狐狸来到他面前。古代一般认为狐狸是瑞兽，是吉祥的征兆，因而他说“白者，吾服也；九尾者，其证也”，意思是出现白狐，也就是象征衣裳也是白色的自己将迎来吉利的事。涂山当地的人，也从白色九尾狐的出现预感到把涂山的一位少女嫁给大禹，将会降福给涂山，于是便编了这首短歌吟唱。首句中的“绥绥”是描述狐狸的样子。前人对《诗经·卫风·有狐》的“有狐绥绥”之“绥绥”，有两种不同的解释——雌雄并行貌或独行求匹貌。《涂山歌》中之白狐既然有一定的象征性，当以独行寻求配偶的后一解释较为近是。次句以表示厚实、粗大的“庞庞”形容白狐的“九尾”。以上两句，是用具有象征和比喻意味的瑞兽白狐独行求匹的意象起兴，接着的后两句即转向关于大禹求偶的正题。古人所谓“女有家，男有室”（《左传·桓公十八年》），指男女的结婚成家。故“成于家室”，即指大禹同涂山当地的女子成婚。涂山人认为这件婚事意义深远，故结尾一句说“我都攸昌”。“都”，原指城邑，这里具体指涂山当地；后两句合起来的大意就是：大禹与涂山女子成亲会使当地繁荣昌盛。<br/>这首《涂山歌》的传奇性，从另一角度来审视，便具有一定的天人感应的神秘色彩。《吴越春秋》中的《涂山歌》所增补的句子中有“天人之际，于兹则行”二句，更是直接站出来表明九尾白狐与大禹婚事二者之间正是一种天人感应的关系。从科学的观点看，将社会人事同自然现象作简单的比附，这当然是荒唐的；但从人类社会的演进史来看，诸如此类的天人感应，正好反映了人类童年时代的思维幼稚的一面。读这样的诗，除了令人感受到时代的进步之外，也使读者如同成年人面对幼稚天真的儿童一般，可以领略到一份意想不到的轻松与喜悦。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-163.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-163.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-163.html" action-type="chapterComment" class="comment"><i></i>涂山歌章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

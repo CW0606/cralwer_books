@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《山海经》正文_海经·海外北经_先秦无名作品 - 维普阅读网</title>
+<meta name="keywords" content="山海经,山海经原文,山海经阅读,海经·海外北经全文,先秦无名作品" />
+<meta name="description" content="山海经原文阅读,海经·海外北经全文在线阅读,先秦无名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-222-2556.html";
+var nextpage="novel-read-222-2558.html";
+var indexpage = "novel-chapter-222.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-222.html">山海经</a></strong>
+<strong><a href="novel-chapter-222.html">山海经目录</a></strong>
+<span>海经·海外北经</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-222-2556.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>海经·海外北经</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=先秦无名&amp;searchsubmit=yes"  target="_blank">先秦无名</a><span class="divide">|</span>发布时间：2014-08-14 21:03:01<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　海外自东北陬至西北陬者。<br/>　　无【綮糸换月】之国在长股东，为人无【綮糸换月】。<br/>　　钟山之神，名曰烛阴，视为昼，瞑为夜，吹为冬，呼为夏，不饮，不食，不息，息为风。身长千里。在无【綮糸换月】之东。其为物，人面，蛇身，赤色，居钟山下。<br/>　　一目国在其东，一目中其面而居。一曰有手足。<br/>　　柔利国在一目东，为人一手一足，反【左上木左下氽右阝】，曲足居上。一云留利之国，人足反折。<br/>　　共工之臣曰相柳氏，九首，以食于九山。相柳之所抵，厥为泽溪。禹相柳，其血腥，不可以树五谷种。禹厥之，三仞三沮，乃以为众帝之台。在昆仑之北，柔利之东。相柳者，九首人面，蛇身面青。不敢北射，畏共工之台。台在其东。台四方，隅有一蛇，虎色，首冲南方。<br/>　　深目国在其东，为人举一手一目。<br/>　　无肠之国在深目东，其为人长而无肠。聂耳之国在无肠国东，使两文虎，为人两手聂其耳。县居海水中，及水所出入奇物。两虎在其东。<br/>　　夸父与日逐走，入日。渴欲得饮，饮于河渭，河渭不足，北饮大泽。未至，道渴而死。弃其杖。化为邓林。<br/>　　博父国在聂耳东，其为人大，右手操青蛇，左手操黄蛇。邓林在其东，二树木。一曰博父。<br/>　　禹所积石之山在其东，河水所入。<br/>　　拘缨之国在其东，一手把缨。一曰利缨之国。<br/>　　寻木长千里，在拘缨南，生河上西北。<br/>　　【足支】踵国在拘缨东，其为人大，两足亦大。一曰大踵。<br/>　　欧丝之野大踵东，一女子跪据树欧丝。<br/>　　三桑无枝，在欧丝东，其木长百仞，无枝。<br/>　　范林方三百里，在三桑东，洲环其下。<br/>　　务隅之山，帝颛顼葬于阳，九嫔葬于阴。一曰爰有熊、罴、文虎、离朱、【丘鸟】久、视肉。<br/>　　平丘在三桑东。爰有遗玉、青鸟、视肉、杨柳、甘【木且】、甘华，百果所生。有两山夹上谷，二大丘居中，名曰平丘。<br/>　　北海内有兽，其状如马，名曰【马萄】【马余】。有兽焉，其名曰【马交】，状如白马，锯牙，食虎豹。有素兽焉，状如马，名曰蛩蛩。有青兽焉，状如虎，我曰罗罗。<br/>　　北方禺强，人面鸟身，珥两青蛇。践两青蛇。 <br/><br/>【白话文】<br/>海外自（东）[西]北陬（z#u）至（西）[东]北陬者。<br/>【译文】海外从西北角到东北角的国家地区、山丘河川分别如下。<br/><br/>无（■）[启]之国在长股东，为人无（■）[启]①。<br/>【注释】①无启：无嗣。传说无启国的人住在洞穴中，平常吃泥土，不分男女，一死就埋了，但他们的心不腐朽，死后一百二十年就又重新化成人。<br/>【译文】无启国在长股国的东面，那里的人不生育子孙后代。<br/><br/>钟山之神，名曰烛阴，视为昼，瞑为夜，吹为冬，呼为夏，不饮，不食，不息，息为风，身长千里。在无（■）[启]之东。其为物，人面，蛇身，赤色，居钟山下。<br/>【译文】钟山的山神，名叫烛阴，他睁开眼睛便是白昼，闭上眼睛便是黑夜，一吹气便是寒冬，一呼气便是炎夏，不喝水，不吃食物，不呼吸，一呼吸就生成风，身子有一千里长。这位烛阴神在无启国的东面。他的形貌是人一样的面孔，蛇一样的身子，全身赤红色，住在钟山脚下。<br/><br/>一目国在其东，一目中其面而居。一曰有手足。<br/>【译文】一目国在钟山的东面，那里的人是在脸的中间长着一只眼睛。另一种说法认为像普通的人有手有脚。<br/><br/>柔利国在一目东，为人一手一足，反膝，曲足居上。一云留利之国，人足反折。<br/>【译文】柔利国在一目国的东面，那里的人是一只手一只脚，膝盖反长着，脚弯曲朝上。另一种说法认为柔利国叫做留利国，人的脚是反折着的。<br/><br/>共工之臣曰相柳氏，九首，以食于九山。相柳之所抵，厥为泽溪①。禹杀相柳，其血腥，不可以树五谷（种）②。禹厥之，三仞三沮③，乃以为众帝之台④。在昆仑之北，柔利之东。相柳者，九首人面，蛇身而青。不敢北射，畏共工之台。台在其东，台四方，隅有一蛇⑤，虎色⑥，首冲南方。<br/>【注释】①厥：通“撅”。掘。②五谷：五种谷物。泛指庄稼。③三：表示多数。仞：通“■”，充满。沮：败坏。这里是陷落的意思。④众帝：指帝尧、帝喾、帝丹朱、帝舜等传说中的上古帝王。⑤隅：角落。⑥虎色：虎文，即老虎皮毛的颜色纹理。<br/>【译文】天神共工的臣子叫相柳氏，有九个头，九个头分别在九座山上吃食物。相柳氏所触动之处，便掘成沼泽和溪流。大禹杀死了相柳氏，血流过的地方发出腥臭味，不能种植五谷。大禹挖填这地方，多次填满而多次蹋陷下去，于是大禹便把挖掘出来的泥土为众帝修造了帝台。这帝台在昆仑山的北面，柔利国的东面。这个相柳氏，长着九个脑袋和人的面孔，蛇的身子而是青色。射箭的人不敢向北方射，因为敬畏共工威灵所在的共工台。共工台在相柳的东面，台是四方形的，每个角上有一条蛇，身上的斑纹与老虎相似，头向着南方。<br/><br/>深目国在其东，为人举一手。一（目）曰在共工台东。<br/>【译文】深目国在相柳氏所在地的东面，那里的人总是举起一只手。另一种说法认为深目国在共工台的东面。<br/><br/>无肠之国在深目东，其为人长而无肠。<br/>【译文】无肠国在深目国的东面，那里的人身体高大而肚子里却没有肠子。<br/><br/>聂（sh6）耳之国在无肠国东，使两文虎①，为人两手聂其耳②。县居海水中③，及水所出入奇物。两虎在其东④。<br/>【注释】①文虎：即雕虎，老虎身上的花纹如同雕画似的。②聂：通“摄”。握持。③县：同“悬”。无所依倚。这里是孤单的意思。④两虎：即指上文的两文虎，原来图上的画像就是如此。这种说明图上画面的物像、人形、山状、方向、位置等文字，自《海外南经》以下比比皆是。因为原画已失，仅剩说明文字，图画与文字不能配合着视读，所以，文中所指所述往往有不甚了了之感。<br/>【译文】聂耳国在无肠国的东面，那里的人使唤着两只花斑大虎，并且在行走时用手托着自己的大耳朵。聂耳国在海水环绕的孤岛上，所以能看到出入海水的各种怪物。有两只老虎在它的东面。<br/><br/>夸父与日逐走，入日。渴，欲得饮，饮于河渭，河渭不足，北饮大泽，未至，道渴而死。弃其杖，化为邓林。<br/>【译文】神人夸父要与太阳赛跑而追赶它，已追上了太阳。这时夸父很渴，想要喝水，于是喝黄河和渭河中的水，喝完了两条河水还是不解渴，又要向北去喝大泽中的水，还没走到，就渴死在半路上了。他死时所抛掉的拐杖，变成了邓林。<br/><br/>（博）[夸]父国在聂耳东，其为人大，右手操青蛇，左手操黄蛇。邓林在其东，二树木。一曰博父。<br/>【译文】夸父国在聂耳国的东面，那里的人身体高大，右手握着青色蛇，左手握着黄色蛇。邓林在它的东面，其实由两棵非常大的树木形成了树林。另一种说法认为夸父国叫博父国。<br/><br/>禹所积石之山在其东①，河水所入。<br/>【注释】①禹所积石之山：是一座山，即禹所积石山。传说大禹曾疏通积石山而导引黄河水流过。此积石山是另一座山，不是这里所说的禹所积石山。<br/>【译文】禹所积石山在博父国的东面，是黄河流入的地方。<br/><br/>拘（缨）[瘿]之国在其东，一手把（缨）[瘿]①。一曰利（缨）[瘿]之国。<br/>【注释】①瘿：因脖颈细胞增生而形成的囊状性赘生物，多肉质，比较大。<br/>【译文】拘瘿国在禹所积石山的东面，那里的人常用一只手托着脖颈上的大肉瘤。另一种说法认为拘瘿国叫做利瘿国。<br/><br/>寻木长千里，在拘（缨）[瘿]南，生河上西北。<br/>【译文】有种叫做寻木的树有一千里长，在拘瘿国的南面，生长在黄河岸上的西北方。<br/><br/>跂（q@）踵（zh％ng）国在拘（缨）[瘿]东①，其为人大，两足亦大。一曰（大）[反]踵②。<br/>【注释】①跂踵：走路时脚跟不着地。②反踵：脚是反转长的，走路时行进的方向和脚印的方向是相反的。<br/>【译文】跂踵国在拘瘿国的东面，那里的人都是身材高大，两只脚也非常大。另一种说法认为跂踵国叫反踵国。<br/><br/>欧丝之野在（大）[反]踵东，一女子跪据树欧丝①。<br/>【注释】①据树：据古人解说，是凭依桑树一边吃桑叶一边吐出丝，像蚕似的。这大概是图画上的形状。欧：同“呕”。吐。<br/>【译文】欧丝野在反踵国的东面，有一女子跪倚着桑树在吐丝。<br/><br/>三桑无枝，在欧丝东，其木长百仞①，无枝。<br/>【注释】①仞：古时八尺为一仞。<br/>【译文】三棵没有枝干的桑树，在欧丝野的东面，这种树虽高达一百仞，却不生长树枝。<br/><br/>范林方三百里，在三桑东，洲环其下①。<br/>【注释】①洲：水中可居人或物的小块陆地。<br/>【译文】范林方圆三百里，在三棵桑树的东面，它的下面被沙洲环绕着。<br/><br/>务隅之山，帝颛顼葬于阳①。九嫔葬于阴②。一曰爰有熊、罴、文虎、离朱、（鸱）[鸱]久、视肉。<br/>【注释】①颛顼：传说中的上古帝王。②九嫔：指颛顼的九个妃嫔。<br/>【译文】务隅山，帝颛顼埋葬在它的南面，九嫔埋葬在它的北面。另一种说法认为这里有熊、罴、花斑虎、离朱鸟、鹞鹰、视肉怪兽。<br/><br/>平丘在三桑东。爰有遗玉、青（鸟）[马]、视肉、杨柳、甘柤、甘华①，百果所生②。（有）[在] 两山夹上谷，二大丘居中，名曰平丘。<br/>【注释】①遗玉：据古人说是一种玉石，先由松枝在千年之后化为伏苓，再过千年之后化为琥珀，又过千年之后化为遗玉。甘柤：传说中的一种树木，枝干都是红色的，花是黄色的，叶子是白色的，果实是黑色的。甘华：传说中的一种树木，枝干都是红色的，花是黄色的。②百：这里表示很多的意思，并非实指。<br/>【译文】平丘在三棵桑树的东面。这里有遗玉、青马、视肉怪兽、杨柳树、甘柤树、甘华树，是各种果树生长的地方。在两座山相夹的一道山谷上，有两个大丘处于其间，叫做平丘。<br/><br/>北海内有兽，其状如马，名曰騊駼。有兽焉，其名曰駮，状如白马，锯牙，食虎豹。有素兽焉，状如马，名曰蛩蛩。有青兽焉，状如虎，名曰罗罗。<br/>【译文】北海内有一种野兽，形状像一般的马，名称是騊駼。又有一种野兽，名称是駮，形状像白色的马，长着锯齿般的牙，能吃老虎和豹子。又有一种白色的野兽，形状像马，名称是蛩蛩。还有一种青色的野兽，形状像老虎，名称是罗罗。<br/><br/>北方禺彊①，人面鸟身，珥两青蛇②，践两青蛇。<br/>【注释】①禺彊：也叫玄冥，神话传说中的水神。②珥：插。这里指穿挂着。<br/>【译文】北方的禺疆神，长着人的面孔而鸟的身子，耳朵上穿挂着两条青蛇，脚底下践踏着两条青蛇。<br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-222-2556.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-222-2558.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-222.html" action-type="chapterComment" class="comment"><i></i>山海经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

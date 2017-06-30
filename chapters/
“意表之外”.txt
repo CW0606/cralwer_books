@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《而已集》正文_“意表之外”_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="而已集,而已集原文,而已集阅读,“意表之外”全文,鲁迅作品" />
+<meta name="description" content="而已集原文阅读,“意表之外”全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-533-6696.html";
+var nextpage="novel-read-533-6698.html";
+var indexpage = "novel-chapter-533.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-533.html">而已集</a></strong>
+<strong><a href="novel-chapter-533.html">而已集目录</a></strong>
+<span>“意表之外”</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-533-6696.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>“意表之外”</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 20:45:43<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>有恒先生在《北新周刊》上诧异我为什么不说话，我已经去信公开答复了。还有一层没有说。这也是一种新的“世故”。<br/>　　我的杂感常不免于骂。但今年发见了，我的骂对于被骂者是大抵有利的。<br/>　　拿来做广告，显而易见，不消说了。还有：<br/>　　1.天下以我为可恶者多，所以有一个被我所骂的人要去运动一个以我为可恶的人，只要摊出我的杂感来，便可以做他们的“兰谱”（2），“相视而笑，莫逆于心”（3）了。“咱们一伙儿”。<br/>　　2.假如有一个人在办一件事，自然是不会好的。但我一开口，他却可以归罪于我了。譬如办学校罢，教员请不到，便说：这是鲁迅说了坏话的缘故；学生闹一点小乱子罢，又是鲁迅说了坏话的缘故。他倒干干净净。<br/>　　我又不学耶稣（4），何苦替别人来背十字架呢？<br/>　　但“江山好改，本性难移”，也许后来还要开开口。可是定了“新法”了，除原先说过的“主将”之类以外，新的都不再说出他的真姓名，只叫“一个人”，“某学者”，“某教授”，“某君”。这么一来，他利用的时候便至少总得费点力，先须加说明。<br/>　　你以为“骂”决非好东西罢，于有些人还是有利的。人类究竟是可怕的东西。就是能够咬死人的毒蛇，商人们也会将它浸在酒里，什么“三蛇酒”，“五蛇酒”，去卖钱。<br/>　　这种办法实在比“交战”厉害得多，能使我不敢写杂感。<br/>　　但再来一回罢，写“不敢写杂感”的杂感。<br/><br/>　　　　　　　　　 ----------------------------------<br/><br/>　　（1）本篇最初发表于一九二七年十月二十二日《语丝》周刊第一五四期。<br/>　　“意表之外”，是引用复古派文人林纾文章中不通的用语。<br/>　　（2）“兰谱”　旧时朋友相契，结为兄弟，互换谱帖以为凭证，称为金兰谱，省称兰谱，取《周易·系辞》“二人同心，其利断金；同心之言，其臭如兰”的意思。<br/>　　（3）“相视而笑”二句，见《庄子·大宗师》，即彼此同心，毫无拂逆的意思。<br/>　　（4）耶稣（约前4—30）　基督教创始人。据《新约全书》说，他在犹太各地传教，为犹太教当权者所仇视，后被捕送交罗马帝国驻犹太总督彼拉多，钉死在十字架上。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-533-6696.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-533-6698.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-533.html" action-type="chapterComment" class="comment"><i></i>而已集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

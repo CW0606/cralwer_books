@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《史记》正文_七十列传·循吏列传_司马迁作品 - 维普阅读网</title>
+<meta name="keywords" content="史记,史记原文,史记阅读,七十列传·循吏列传全文,司马迁作品" />
+<meta name="description" content="史记原文阅读,七十列传·循吏列传全文在线阅读,司马迁作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-220-2832.html";
+var nextpage="novel-read-220-2834.html";
+var indexpage = "novel-chapter-220.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-220.html">史记</a></strong>
+<strong><a href="novel-chapter-220.html">史记目录</a></strong>
+<span>七十列传·循吏列传</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-220-2832.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>七十列传·循吏列传</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=司马迁&amp;searchsubmit=yes"  target="_blank">司马迁</a><span class="divide">|</span>发布时间：2014-08-17 14:43:57<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　太史公曰：法令所以导民也，刑罚所以禁奸也。文武不备，良民惧然身修者，官未曾乱也。奉职循理，亦可以为治，何必威严哉？<br/><br/>　　孙叔敖者，楚之处士也。虞丘相进之於楚庄王，以自代也。三月为楚相，施教导民，上下和合，世俗盛美，政缓禁止，吏无奸邪，盗贼不起。秋冬则劝民山采，春夏以水，各得其所便，民皆乐其生。<br/><br/>　　庄王以为币轻，更以小为大，百姓不便，皆去其业。市令言之相曰：“市乱，民莫安其处，次行不定。”相曰：“如此几何顷乎？”市令曰：“三月顷。”相曰：“罢，吾今令之复矣。”後五日，朝，相言之王曰：“前日更币，以为轻。今市令来言曰“市乱，民莫安其处，次行之不定”。臣请遂令复如故。”王许之，下令三日而市复如故。<br/><br/>　　楚民俗好庳车，王以为庳车不便马，欲下令使高之。相曰：“令数下，民不知所从，不可。王必欲高车，臣请教闾里使高其�困。乘车者皆君子，君子不能数下车。”王许之。居半岁，民悉自高其车。<br/><br/>　　此不教而民从其化，近者视而效之，远者四面望而法之。故三得相而不喜，知其材自得之也；三去相而不悔，知非己之罪也。<br/><br/>　　子产者，郑之列大夫也。郑昭君之时，以所爱徐挚为相，国乱，上下不亲，父子不和。大宫子期言之君，以子产为相。为相一年，竖子不戏狎，斑白不提挈，僮子不犁畔。二年，市不豫贾。三年，门不夜关，道不拾遗。四年，田器不归。五年，士无尺籍，丧期不令而治。治郑二十六年而死，丁壮号哭，老人兒啼，曰：“子产去我死乎！民将安归？”<br/><br/>　　公仪休者，鲁博士也。以高弟为鲁相。奉法循理，无所变更，百官自正。使食禄者不得与下民争利，受大者不得取小。<br/><br/>　　客有遗相鱼者，相不受。客曰：“闻君嗜鱼，遗君鱼，何故不受也？”相曰：“以嗜鱼，故不受也。今为相，能自给鱼；今受鱼而免，谁复给我鱼者？吾故不受也。”<br/><br/>　　食茹而美，拔其园葵而弃之。见其家织布好，而疾出其家妇，燔其机，云“欲令农士工女安所雠其货乎”？<br/><br/>　　石奢者，楚昭王相也。坚直廉正，无所阿避。行县，道有杀人者，相追之，乃其父也。纵其父而还自系焉。使人言之王曰：“杀人者，臣之父也。夫以父立政，不孝也；废法纵罪，非忠也；臣罪当死。”王曰：“追而不及，不当伏罪，子其治事矣。”石奢曰：“不私其父，非孝子也；不奉主法，非忠臣也。王赦其罪，上惠也；伏诛而死，臣职也。”遂不受令，自刎而死。<br/><br/>　　李离者，晋文公之理也。过听杀人，自拘当死。文公曰：“官有贵贱，罚有轻重。下吏有过，非子之罪也。”李离曰：“臣居官为长，不与吏让位；受禄为多，不与下分利。今过听杀人，傅其罪下吏，非所闻也。”辞不受令。文公曰：“子则自以为有罪，寡人亦有罪邪？”李离曰：“理有法，失刑则刑，失死则死。公以臣能听微决疑，故使为理。今过听杀人，罪当死。”遂不受令，伏剑而死。<br/><br/>　　太史公曰：孙叔敖出一言，郢市复。子产病死，郑民号哭。公仪子见好布而家妇逐。石奢纵父而死，楚昭名立。李离过杀而伏剑，晋文以正国法。<br/><br/>　　奉职循理，为政之先。恤人体国，良史述焉。叔孙、郑产，自昔称贤。拔葵一利，赦父非。李离伏剑，为法而然。<br/><br/>【译文】<br/>　　太史公说：“法令用以引导民众向善，刑罚用以阻止民众作恶。文法与刑律不完备时，善良的百姓依然心存戒惧地自我约束修身，是因为居官者行为端正不曾违乱纲纪。只要官吏奉公尽职按原则行事，就可以用它做榜样治理好天下，为什么非用严刑峻法不可呢？<br/>　　孙叔敖是楚国的隐者。国相虞丘把他举荐给楚庄王，想让他接替自己职务。孙叔敖为官三月就升任国相，他施政教民，使得官民之间和睦同心，风俗十分淳美。他执政宽缓不苛却有禁必止，官吏不做邪恶伪诈之事，民间也无盗贼发生。秋冬两季他鼓励人们进山采伐林木，春夏时便借上涨的河水把木材运出山外。百姓各有便利的谋生之路，都生活得很安乐。<br/>　　庄王认为楚国原有的钱币太轻，就下令把小钱改铸为大钱，百姓用起来很不方便，纷纷放弃了自己的本业。管理市场的长官向国相孙叔敖报告说：“市场乱了，老百姓无人安心在那里做买卖，秩序很不稳定。”孙叔敖问：“这种情况有多久了？”市令回答：“已经有三个月。”孙叔敖说：“不必多言，我现在就设法让市场恢复原状。”五天后，他上朝向庄王劝谏说：“先前更改钱币，是认为旧币太轻了。现在市令来报告说‘市场混乱，百姓无人安心在那里谋生，秩序很不稳定’。我请求立即下令恢复旧币制。”庄王同意了，颁布命令才三天，市场就回复了原貌。<br/>　　楚国的民俗是爱坐矮车，楚王认为矮车不便于驾马，想下令把矮车改高。国相孙叔敖说：“政令屡出，使百姓无所适从，这不好。如果您一定想把车改高，臣请求让乡里人家加高门槛。乘车人都是有身分的君子，他们不能为过门槛频繁下车，自然就会把车的底座造高了。”楚王答应了他的请求。过了半年，上行下效，老百姓都自动把坐的车子造高了。<br/>　　这就是孙叔敖不用下令管束百姓就自然顺从了他的教化，身边的人亲眼看到他的言行便仿效他，离得远的人观望四周人们的变化也跟着效法他。所以孙叔敖三次荣居相位并不沾沾自喜，他明白这是自己凭借才干获得的；三次离开相位也并无悔恨，因为他知道自己没有过错。<br/>　　子产，是郑国的大夫。郑昭君在位时，曾任用自己宠信的徐挚做国相，国政昏乱，官民不亲和，父子不和睦。大宫子期把这些情况告诉郑昭君，昭君就改任子产为国相。子产执政一年，浪荡子不再轻浮嬉戏，老年人不必手提负重，儿童也不用下田耕种。二年之后，市场上买卖公平，不预定高价了。三年过去，人们夜不闭户，路不拾遗。四年后，农民收工不必把农具带回家，五年后，男子无需服兵役，遇有丧事则自觉敬执丧葬之礼。子产治理郑国二十六年就去世了，青壮年痛哭失声，老人像孩童一样哭泣，说：“子产离开我们死去了啊，老百姓将来依*谁！”<br/>　　公仪休，是鲁国的博士。由于才学优异做了鲁国国相。他遵奉法度，按原则行事，丝毫不改变规制，因此百官的品行自然端正。他命令为官者不许和百姓争夺利益，做大官的不许占小便宜。<br/>　　有位客人给国相公仪休送鱼上门，他不肯收纳。客人说：“听说您极爱吃鱼才送鱼来，为什么不接受呢？”公仪休回答说：“正因为很爱吃鱼，才不能接受啊。现在我做国相，自己还买得起鱼吃；如果因为今天收下你的鱼而被免官，今后谁还肯给我送鱼？所以我决不能收下。”<br/>　　公仪休吃了蔬菜感觉味道很好，就把自家园中的冬葵菜都拔下来扔掉。他看见自家织的布好，就立刻把妻子逐出家门，还烧毁了织机。他说：“难道要让农民和织妇无处卖掉他们生产的货物吗？”<br/>　　石奢，是楚昭王的国相，他为人刚强正直廉洁公正，既不阿谀逢迎，也不胆小避事。一次出行属县，恰逢途中有凶手杀人，他追捕凶犯，竟是自己的父亲。他放走父亲，归来便把自己囚禁起来。他派人告诉昭王说：“杀人凶犯，是为臣的父亲。若以惩治父亲来树立政绩，这是不孝；若废弃法度纵容犯罪，又是不忠；因此我该当死罪。”昭王说：“你追捕凶犯而没抓获，不该论罪伏法，你还是去治理国事吧。”石奢说：“不偏袒自己父亲，不是孝子；不遵守王法，不是忠臣。您赦免我的罪责，是主上的恩惠；服刑而死，则是为臣的职责。”于是石奢不听从楚王的命令，刎颈而死。<br/>　　李离，是晋文公的法官。他听察案情有误而枉杀人命，发觉后就把自己拘禁起来判以死罪。文公说：“官职贵*不一，刑罚也轻重有别。这是你手下官吏有过失，不是你的罪责。”李离说：“臣担当的官职是长官，不曾把高位让给下属；我领取的官俸很多，也不曾把好处分给他们。如今我听察案情有误而枉杀人命，却要把罪责推诿（ｗěｉ，伟）于下级，这种道理我没有听过。”他拒绝接受文公的命令。文公说：“你认定自己有罪，那么我也有罪吗？”李离说：“法官断案有法规，错判刑就要亲自受刑，错杀人就要以死偿命。您因为臣能听察细微隐情事理，决断疑难案件，才让我做法官。现在我听察案情有误而枉杀人命，应该判处死罪。”于是不接受晋文公的赦令，伏剑自刎而死。<br/>　　太史公说：“孙叔敖口出一言，郢都的市场秩序得以恢复。子产病逝，郑国百姓失声痛哭。公仪休看到妻子织出的布好就把她赶出家门。石奢放走父亲而自杀顶罪，使楚昭王树立了美名。李离错判杀人罪而伏剑身亡，帮助晋文公整肃了国法。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-220-2832.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-220-2834.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-220.html" action-type="chapterComment" class="comment"><i></i>史记章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

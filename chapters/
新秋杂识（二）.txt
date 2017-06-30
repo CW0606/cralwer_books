@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《准风月谈》正文_新秋杂识（二）_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="准风月谈,准风月谈原文,准风月谈阅读,新秋杂识（二）全文,鲁迅作品" />
+<meta name="description" content="准风月谈原文阅读,新秋杂识（二）全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-551-7602.html";
+var nextpage="novel-read-551-7604.html";
+var indexpage = "novel-chapter-551.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-551.html">准风月谈</a></strong>
+<strong><a href="novel-chapter-551.html">准风月谈目录</a></strong>
+<span>新秋杂识（二）</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-551-7602.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>新秋杂识（二）</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-06 20:44:12<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　旅隼 <br/>　　八月三十日的夜里，远远近近，都突然劈劈拍拍起来，一时来不及细想，以为“抵抗”又开头了，不久就明白了那是放爆竹，这才定了心。接着又想：大约又是什么节气了罢？……待到第二天看报纸，才知道原来昨夜是月蚀，那些劈劈拍拍，就是我们的同胞，异胞（我们虽然大家自称为黄帝子孙，但蚩尤（２）的子孙想必也未尝死绝，所以谓之“异胞”）在示威，要将月亮从天狗嘴里救出。 <br/>　　再前几天，夜里也很热闹。街头巷尾，处处摆着桌子，上面有面食，西瓜；西瓜上面叮着苍蝇，青虫，蚊子之类，还有一桌和尚，口中念念有词：“回猪猡普米呀吽！（３）**呀吽！吽！！”这是在放焰口，施饿鬼。到了盂兰盆节（４）了，饿鬼和非饿鬼，都从阴间跑出，来看上海这大世面，善男信女们就在这时尽地主之谊，托和尚“**呀吽”的弹出几粒白米去，请它们都饱饱的吃一通。 <br/>　　我是一个俗人，向来不大注意什么天上和阴间的，但每当这些时候，却也不能不感到我们的还在人间的同胞们和异胞们的思虑之高超和妥帖。别的不必说，就在这不到两整年中，大则四省，小则九岛，都已变了旗色了，不久还有八岛。不但救不胜救，即使想要救罢，一开口，说不定自己就危险（这两句，印后成了“于势也有所未能”）。所以最妥当是救月亮，那怕爆竹放得震天价响，天狗决不至于来咬，月亮里的酋长（假如有酋长的话）也不会出来禁止，目为反动的。救人也一样，兵灾，旱灾，蝗灾，水灾……灾民们不计其数，幸而暂免于灾殃的小民，又怎么能有一个救法？那自然远不如救魂灵，事省功多，和大人先生的打醮造塔（５）同其功德。这就是所谓“人无远虑，必有近忧”（６）；而“君子务其大者远者”（７），亦此之谓也。 <br/>　　而况“庖人虽不治庖，尸祝不越尊俎而代之”（８），也是古圣贤的明训，国事有治国者在，小民是用不着吵闹的。不过历来的圣帝明王，可又并不卑视小民，倒给与了更高超的自由和权利，就是听你专门去救宇宙和魂灵。这是太平的根基，从古至今，相沿不废，将来想必也不至先便废。记得那是去年的事了，沪战初停，日兵渐渐的走上兵船和退进营房里面去，有一夜也是这么劈劈拍拍起来，时候还在“长期抵抗”（９）中，日本人又不明白我们的国粹，以为又是第几路军前来收复失地了，立刻放哨，出兵……乱烘烘的闹了一通，才知道我们是在救月亮，他们是在见鬼。“哦哦！成程（Ｎａｒｕｈｏｄｏ＝原来如此）！”惊叹和佩服之余，于是恢复了平和的原状。今年呢，连哨也没有放，大约是已被中国的精神文明感化了。现在的侵略者和压制者，还有像古代的暴君一样，竟连奴才们的发昏和做梦也不准的么？……八月三十一日。　　　　　　　　 <br/>　　<br/>===============================================================<br/>　　（１）　本篇最初发表于一九三三年九月十三日《申报自由谈》，题为《秋夜漫谈》，署名虞明。 <br/>　　（２）　蚩尤　古代传说中我国九黎族的首领，相传他和黄帝作战，兵败被杀。 <br/>　　（３）　“回猪猡普米呀吽！”　梵语音译，《瑜伽集要焰口施食仪》中的咒文，“猪猡”原作“资*�薄* <br/>　　（４）　盂兰盆节　“盂兰盆”是梵语音译，意为解倒悬。旧俗以夏历七月十五日为盂兰盆节，在这一天夜里请和尚诵经施食，追荐死者，称为放焰口。焰口，饿鬼名。 <br/>　　（５）　打醮　旧时僧道设坛念经做法事。国民党政客戴季陶等在九一八事变后，拉拢当时的班禅喇嘛，以超荐天灾兵祸死去的鬼魂等名义，迭次发起“仁王护国法会”、“普利法会”等，诵经礼佛。造塔，指戴季陶于一九三三年五月在南京筑塔收藏孙中山的遗著抄本，参看本卷第１４０页注（６）。 <br/>　　（６）　“人无远虑，必有近忧”　孔丘的话，语见《论语卫灵公》。 <br/>　　（７）　“君子务其大者远者”　语出《左传》襄公三十一年：“君子务知大者远者，小人务知小者近者”，是春秋时郑国子皮对子产所说的话。 <br/>　　（８）　“庖人虽不治庖，尸祝不越尊俎而代之”　语见《庄子逍遥游》，意思是各人办理自己分内的事。庖人，厨子；尸祝，主持祝祷的人；尊俎，盛酒载牲的器具。 <br/>　　（９）　“长期抵抗”　参看本卷第１７页注（５）。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-551-7602.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-551-7604.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-551.html" action-type="chapterComment" class="comment"><i></i>准风月谈章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

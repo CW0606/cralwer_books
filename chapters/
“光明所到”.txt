@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《伪自由书》正文_“光明所到”_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="伪自由书,伪自由书原文,伪自由书阅读,“光明所到”全文,鲁迅作品" />
+<meta name="description" content="伪自由书原文阅读,“光明所到”全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-550-7455.html";
+var nextpage="novel-read-550-7457.html";
+var indexpage = "novel-chapter-550.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-550.html">伪自由书</a></strong>
+<strong><a href="novel-chapter-550.html">伪自由书目录</a></strong>
+<span>“光明所到”</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-550-7455.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>“光明所到”</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-04 20:57:59<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　中国监狱里的拷打，是公然的秘密。上月里，民权保障同盟（２）曾经提起了这问题。 <br/><br/>　　但外国人办的《字林西报》就揭载了二月十五日的《北京通信》，详述胡适博士曾经亲自看过几个监狱，“很亲爱的”告诉这位记者，说“据他的慎重调查，实在不能得最轻微的证据，……他们很容易和犯人谈话，有一次胡适博士还能够用英国话和他们会谈。监狱的情形，他（胡适博士——干注）说，是不能满意的，但是，虽然他们很自由的（哦，很自由的——干注）诉说待遇的恶劣侮辱，然而关于严刑拷打，他们却连一点儿暗示也没有。……” <br/><br/>　　我虽然没有随从这回的“慎重调查”的光荣，但在十年以前，是参观过北京的模范监狱的。虽是模范监狱，而访问犯人，谈话却很不“自由”，中隔一窗，彼此相距约三尺，旁边站一狱卒，时间既有限制，谈话也不准用暗号，更何况外国话。 <br/><br/>　　而这回胡适博士却“能够用英国话和他们会谈”，真是特别之极了。莫非中国的监狱竟已经改良到这地步，“自由”到这地步；还是狱卒给“英国话”吓倒了，以为胡适博士是李顿爵士的同乡，很有来历的缘故呢？ <br/><br/>　　幸而我这回看见了《招商局三大案》（３）上的胡适博士的题辞： <br/><br/>　　“公开检举，是打倒黑暗政治的唯一武器，光明所到，黑暗自消。”（原无新式标点，这是我僭加的——干注。） <br/><br/>　　我于是大彻大悟。监狱里是不准用外国话和犯人会谈的，但胡适博士一到，就开了特例，因为他能够“公开检举”，他能够和外国人“很亲爱的”谈话，他就是“光明”，所以“光明”所到，“黑暗”就“自消”了。他于是向外国人“公开检举”了民权保障同盟，“黑暗”倒在这一面。 <br/><br/>　　但不知这位“光明”回府以后，监狱里可从此也永远允许别人用“英国话”和犯人会谈否？ <br/><br/>　　如果不准，那就是“光明一去，黑暗又来”了也。而这位“光明”又因为大学和庚款委员会（４）的事务忙，不能常跑到“黑暗”里面去，在第二次“慎重调查”监狱之前，犯人们恐怕未必有“很自由的”再说“英国话”的幸福了罢。呜呼，光明只跟着“光明”走，监狱里的光明世界真是暂时得很！ <br/><br/>　　但是，这是怨不了谁的，他们千不该万不该是自己犯了“法”。“好人”（５）就决不至于犯“法”。倘有不信，看这“光明”！ <br/><br/>　　三月十五日。 <br/>　<br/>===============================================================<br/><br/>　　（１）本篇最初发表于一九三三年三月二十二日《申报·自由谈》，署名何家干。 <br/><br/>　　（２）民权保障同盟全称“中国民权保障同盟”。一九三二年十二月由宋庆龄、蔡元培、鲁迅、杨铨等发起组织的进步团体；总会设上海，继又在上海、北平成立分会。该组织反对国民党的法西斯统治，积极援助政治犯，争取集会、结社、言论、出版等自由。它曾对国民党监狱中的黑暗实况进行调查并向社会揭露，因此遭受国民党反动派的忌恨和迫害。 <br/><br/>　　（３）《招商局三大案》李孤帆著，一九三三年二月上海现代书局出版。李孤帆曾任招商局监督处秘书、总管理处赴外稽核；一九二八年参加稽查天津、汉口招商局分局舞弊案，一九三○年参加调查招商局附设的积余公司独立案，后将三案内容编成此书。招商局，即轮船招商局，旧中国最大的航运公司，清同治十一年（１８７２）十一月由李鸿章创办的名为官督商办的企业。一九三二年后成为国民党官僚资本主义的产业。 <br/><br/>　　（４）庚款委员会一九○○年（庚子）八国联军侵入中国，强迫清政府于次年订立《辛丑条约》。其中规定付给各国“偿款”海关银四亿五千万两，分三十九年还清，年息四厘，通称“庚子赔款”。后来，美、英、法、日等帝国主义先后将部分赔款“退还”，用以“资助”中国教育事业等，并分别成立了管理这项款务的机构。胡适曾任中英庚款顾问委员会的中国委员及管理美国庚款的中华教育文化基金董事会董事兼秘书，握有该会实权。 <br/><br/>　　（５）“好人”一九二二年五月，胡适曾在他主持的《努力周报》第二期上提出“好政府”的主张，宣传由几个“好人”、“社会上的优秀分子”“加入政治运动”，组成“好政府”，中国就可得救。所谓“好人”、“优秀分子”，实际是胡适等资产阶级自由主义者的自我标榜。一九三○年前后，胡适、罗隆基、梁实秋等又在《新月》月刊上重弹老调，目的在于到国民党政府中做官。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-550-7455.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-550-7457.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-550.html" action-type="chapterComment" class="comment"><i></i>伪自由书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

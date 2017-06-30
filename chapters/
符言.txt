@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《文子》正文_符言_文子作品 - 维普阅读网</title>
+<meta name="keywords" content="文子,文子原文,文子阅读,符言全文,文子作品" />
+<meta name="description" content="文子原文阅读,符言全文在线阅读,文子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-38-973.html";
+var nextpage="novel-read-38-975.html";
+var indexpage = "novel-chapter-38.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-38.html">文子</a></strong>
+<strong><a href="novel-chapter-38.html">文子目录</a></strong>
+<span>符言</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-38-973.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>符言</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=文子&amp;searchsubmit=yes"  target="_blank">文子</a><span class="divide">|</span>发布时间：2014-07-22 20:47:44<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　老子〔文子〕曰：道至高無上，至深無下，平乎準，直乎繩，圓乎規，方乎矩，包裹天地而無表裡，洞同覆蓋而無所[石亥]。是故，體道者，不怒不喜，其坐無慮，寢而不夢，見物而名，事至而應。<br/><br/>　　老子〔文子〕曰：欲尸名者必生事，事生即舍公而就私，倍道而任己，見譽而為善，立〔名〕而為賢，即治不順理而事不順時。治不順理則多責，事不順時則無功，妄為要中，功成不足以塞責，事敗足以滅身。<br/><br/>　　老子〔文子〕曰：無為名尸，無為謀府，無為事任，無為智主，藏于無形，行于無怠，不為福先，不為禍始；始于無形，動于不得已，欲福先無禍，欲利先遠害。故無為而寧者，失其所寧即危；無為而治者，失其所治即亂。故「不欲碌碌如玉，落落如石。」其文好者皮必剝，其角美者身必殺，甘泉必竭，直木必伐，華榮之言後為愆，石有玉傷其山，黔首之患固在言前。<br/><br/>　　老子〔文子〕曰：時之行，動以從，不知道者福為禍。天為蓋，地為軫，善用道者終無盡；地為軫，天為蓋，善用道者終無害。陳彼五行必有勝，天之所覆無不稱，故「知不知，上；不知知，病也。」<br/><br/>　　老子〔文子〕曰：山生金，石生玉，反相剝；木生蟲，還自食；人生事，還自賊。夫好事者未嘗不中，爭利者未嘗不窮；善游者溺，善騎者墜，各以所好，反自為禍。得在時，不在爭；治在道，不在聖。土處下，不爭高，故安而不危；水流下，不爭疾，故去而不遲。「是以，聖人無執故無失，無為故無敗。」<br/><br/>　　老子〔文子〕曰：一言不可窮也，二言天下宗也，三言諸侯雄也，四言天下雙也。貞信則不可窮，道德則天下宗。舉賢德，諸侯雄；惡少愛眾，天下雙。<br/><br/>　　老子〔文子〕曰：人有三死，非命亡焉；飲食不節，簡賤其身，病共殺之；樂得無已，好求不止，刑共殺之；以寡犯眾，以弱凌強，兵共殺之。<br/><br/>　　老子〔文子〕曰：其施厚者，其報美；其怨大者，其禍深；薄施而厚望，畜怨而無患者，未之有也。察其所以往者，即知其所以來矣。<br/><br/>　　老子〔文子〕曰：原天命，治心術，理好憎，適情性，即治道通矣。原天命，即不惑禍福；治心術，即不妄喜怒；理好憎，即不貪無用；適情性，即欲不過節。不惑禍福，即動靜順理；不妄喜怒，即賞罰不阿；不貪無用，即不以欲害性；欲不過節，及養生知足。凡此四者，不求于外，不假于人，反己而得矣。<br/><br/>　　老子〔文子〕曰：不求可非之行，不憎人之非己，修足譽之德，不求人之譽己。不能使禍無至，信己之不迎也；不能使福必來，信己之不讓也。禍之至，非己之所生，故窮而不憂；福之來，非己之所成，故通而不矜。是故，閑居而樂，無為而治。<br/><br/>　　老子〔文子〕曰：道者，守其所已有，不求其所以未得。求其所未得，即所有者亡；循其所已有，即所欲者至。治未固于不亂，而事為治者必危；行未免于無非，而急求名者必剉。故福莫大于無禍，利莫大于不喪。「故物或益而損，損之而益。」夫道不可以勸就利者，而可以安神避害，故嘗無禍，不嘗有福；嘗無罪，不嘗有功。道曰芒芒昧昧，從天之威，與天同氣，無思慮也，無設儲也，來者不迎，去者不將，人雖東西南北，獨立中央。故處眾枉，不失其直；與天下并流，不離其域；不為善，不避醜，遵天之道；不為始，不專己，循天之理；不豫謀，不棄時，與天為期；不求得，不辭福，從天之則；內無奇福，外無奇禍，故禍福不生，焉有人賊。故至德言同格，事同福，上下一心，無歧道旁見者，退之于邪，開道之于善，而民向方矣。<br/><br/>　　老子〔文子〕曰：為善即勸，為不善即觀，勸即生責，觀即生患，故道不可以進而求名，可以退而修身。故聖人不以行求名，不以知見求譽，治隨自然，己無所與。為者有不成，求者有不得，人有窮而道無通。有智而無為，與無智同功；有能而無事，與無能同德。有智若無智，有能若無能，道理達而人才滅矣。人與道不兩明，人愛民即不用道，道勝即名息，道息人名章即危亡。<br/><br/>　　老子〔文子〕曰：使信士分財，不如定分而探籌，何則？有心者之于平，不如無心者也。使廉士守財，不如閉戶而全封，以為有欲者之于廉，不如無欲者也。人舉其疵則怨，鑒見其醜則自善，人能接物而不與己，則免于累矣。<br/><br/>　　老子〔文子〕曰：凡事人者，非以寶幣，必以卑辭。幣單而欲不厭，卑體免辭，論說而交不結，約束誓盟，約定而反先日，是以君子不外飾仁義，而內修道德。修其境內之事，盡其地方之廣，勸民守死，堅其城郭，上下一心，與之守社稷，即為民者不伐無罪，為利者不攻難得，此必全之道，必利之理。<br/><br/>　　老子〔文子〕曰：聖人不勝其心，眾不勝其欲。君子行正氣，小人行邪氣。內便于性，外合于性，外合于義，循理而動。不繫于物者，正氣也；推于滋味，淫于聲色，發于喜怒，不顧後患者，邪氣也。邪與正相傷，欲與性相害，不可兩立，一起一廢，故聖人損欲而從性。目好色，耳好聲，鼻好香，口好味，合而說之，不離利害嗜欲也；耳目鼻口不知所欲，皆心為之制，各得其所由，由此觀之，欲不可勝亦明矣。<br/><br/>　　老子〔文子〕曰：治身養性者，節寢處，適飲食，和喜怒，便動靜，內在己者得，而邪氣無由入。飾其外，傷其內。扶其情者，害其身；見其文者，蔽其真。夫須臾無忘其為賢者，必困其性，百步之中，無忘其為容者，必累其形。故羽翼美者，傷其骸骨；枝葉茂者，害其根荄；能兩美者，天下無之。<br/><br/>　　老子〔文子〕曰：天有明不憂民之晦也，地有財不憂民之貧也，至德道者若丘山，巍然不動，行者以為期，直己而足物，不為人賜，用之者亦不受其德，故安而能久。天地無與也，故無奪也；無德也，故無怨也。善怒者，必多怨；善與者，必善奪。唯隨天地之自然而能勝理。故譽見即毀隨之，善見即惡從之，利為害始，福為禍先，不求利即無害，不求福即無禍，身以全為常，富貴其寄也。<br/><br/>　　老子〔文子〕曰：聖人無屈奇之服，詭異之行，服不雜，行不觀，通而不華，窮而不懾，榮而不顯，隱而不辱，異而不怪，同用無以名之，是謂大通。<br/><br/>　　老子〔文子〕曰：道者直己而待命，時之至不可迎而返也，時之去不可足而援也，故聖人不進而求，不退而讓。隨時三年，時去我走；去時三年，時在我後；無去無就，中立其所。天道無親，唯德是與。福之至非己之所求，故不伐其功；禍之來非己之所生，故不悔其行。中心其恬，不累其德；狗吠不驚，自信其情；誠無非分，故通道者不惑，知命者不憂。帝王之崩，藏骸于野，其祭也祀之于明堂，神貴于形也。故神制形則從，形勝神則窮，聰明雖用，必反諸神，謂之大通。<br/><br/>　　老子〔文子〕曰：古之存己者，樂德而忘賤，故名不動志；樂道而忘貧，故利不動心。是以謙而能樂，靜而能澹。以數算之壽，憂天下之亂，猶憂河水之涸，泣而益之也，故不憂天下之亂，而樂其身治者，可與言道矣。<br/><br/>　　老子〔文子〕曰：人有三怨：爵高者，人妒之；官大者，主惡之；祿厚者，人怨之。夫爵益高者，意益下；官益大者，心益小；祿益厚者，施益博。修此三者，怨不作，故「貴以賤為本，高以下為基。」<br/><br/>　　老子〔文子〕曰：言者，所以通己于人也；聞者，所以通于己也。既闇且聾，人道不通。故有闇聾之病者，莫知事通，豈獨形骸有闇聾哉！心亦有之塞也，莫知所通，此闇聾之類也。夫道之為宗也，有形者皆生焉，其為親也，亦戚矣。飧穀食氣者皆壽焉，其為君也亦惠矣；諸智者學焉，其為師也亦明矣。人皆以無用害有用，故知不博而日不足，以博奕之日問道，聞見深矣，不聞與不問，猶闇聾之比于人也。<br/><br/>　　老子〔文子〕曰：人之情，心服于德，不服于力。德在與不在來，是以，聖人之欲貴于人者，先貴于人；欲尊于人者，先尊于人；欲勝人者，先自勝；欲卑人者，先自卑。故貴賤卑尊，道以制之。夫古之聖王，以其言下人，以其身後人，即天下樂推而不厭，戴而不重，此德重有餘而氣順也，故知與之為取，後之為先，即幾之道矣。<br/><br/>　　老子〔文子〕曰：德少而寵多者譏，才下而位高者危，無大功而有厚祿者微，故「物或益之而損，或損之而益。」眾人皆知利利，而不知病病；唯聖人知病之為利，利之為病。故再實之木其根必傷，多藏之家其後必殃。夫大利者反為害，天之道也。<br/><br/>　　老子〔文子〕曰：小人從事曰苟得，君子曰苟義。為善者，非求名者也，而名從之，名不與利期，而利歸之，所求者同，所極者異，故動有益則損隨之。言無常是，行無常宜者，小人也；察于一事，通于一能，中人也；兼覆而并有之，技能而才使之者，聖人也。<br/><br/>　　老子〔文子〕曰：生所假也，死所歸也。故世治即以義衛身，世亂即以身衛義；死之日，行之終也，故君子慎一用之而已矣。故生所受于天以，命所遭于時也，有其才不遇其世，天也，求之有道，得之在命。君子能為善，不能必得其福，不忍而為非，而未必免于禍。故君子逢時即進，得之以義，何幸之有！不時即退，讓之以禮，何不幸之有！故雖處貧賤而猶不悔者，得其所貴也。<br/><br/>　　老子〔文子〕曰：人有順逆之氣生于心，心治則氣順，心亂則氣逆。心之治亂在于道德，得道則心治，失道則心亂。心治則交讓，心亂則交爭。讓則有德，爭則有賊。有德則氣順，賊生則氣逆。氣順則自損以奉人，氣逆則損以人以自奉，二氣者可道已而制也。天之道，其猶響之報聲也。德積則福生，禍積則怨生。宦敗于官茂，孝衰于妻子，患生于憂解，病甚于且癒，故「慎終如始，則無敗事也。」<br/><br/>　　老子〔文子〕曰：舉枉與直，如何不得；舉直與枉，勿與遂往；所謂同污而異泥者。<br/><br/>　　老子〔文子〕曰：聖人同死生，愚人亦同死生。聖人同死生明于分理，愚人同死生不知利害之所在。道懸天，物布地，和在人。人主不和，即天氣不下，地氣不上，陰陽不調，風雨不時，人民疾飢。<br/><br/>　　老子〔文子〕曰：得萬人之兵，不如聞一言之當；得隋侯之珠，不如得事之所由；得和氏之璧，不如得事之所適。天下雖大，好用兵者亡；國雖安，好戰者危。故「小國寡民，雖有什伯之器而勿用。」<br/><br/>　　老子〔文子〕曰：能成霸王者，必勝者也；能勝敵者，必強者也。能強者，必用人力者也；能用人力者，必得人心者也；能得人心者，必自得者也；自得者，必柔弱者。能勝不如己者，至于若己者而格。柔勝出于若己者，其事不可度，故能眾不勝，成大勝者也。<br/><br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-38-973.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-38-975.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-38.html" action-type="chapterComment" class="comment"><i></i>文子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

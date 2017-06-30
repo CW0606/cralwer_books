@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《荀子》正文_不苟_荀子作品 - 维普阅读网</title>
+<meta name="keywords" content="荀子,荀子原文,荀子阅读,不苟全文,荀子作品" />
+<meta name="description" content="荀子原文阅读,不苟全文在线阅读,荀子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-41-1078.html";
+var nextpage="novel-read-41-1080.html";
+var indexpage = "novel-chapter-41.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-41.html">荀子</a></strong>
+<strong><a href="novel-chapter-41.html">荀子目录</a></strong>
+<span>不苟</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-41-1078.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>不苟</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=荀子&amp;searchsubmit=yes"  target="_blank">荀子</a><span class="divide">|</span>发布时间：2014-07-23 20:30:34<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　君子行不贵苟难，说不贵苟察，名不贵苟传，唯其当之为贵。故怀负石而投河， 是行之难为者也，而申徒狄能之；然而君子不贵者，非礼义之中也。“山渊平”， “天地比”，“齐秦袭”，“入乎耳，出乎口”，“钩有须”，“卵有毛”，是说 之难持者也，而惠施邓析能之。然而君子不贵者，非礼义之中也。盗跖贪凶，名声 若日月，与舜禹俱传而不息；然而君子不贵者，非礼义之中也。故曰：君子行不贵 苟难，说不贵苟察，名不贵苟传，唯其当之为贵。诗曰：“物其有矣，惟其时矣。” 此之谓也。<br/><br/>　　君子易知而难狎，易惧而难胁，畏患而不避义死，欲利而不为所非，交亲而不 比，言辩而不辞，荡荡乎其有以殊于世也。<br/><br/>　　君子能亦好，不能亦好；小人能亦丑，不能亦丑。君子能则宽容易直以开道人， 不能则恭敬繜绌以畏事人；小人能则倨傲僻违以骄溢人，不能则妒嫉怨诽以倾覆人。 故曰：君子能则人荣学焉，不能则人乐告之；小人能则人贱学焉，不能则人羞告之。 是君子小人之分也。<br/><br/>　　君子宽而不僈，廉而不刿，辩而不争，察而不激，直立而不胜，坚强而不暴， 柔从而不流，恭敬谨慎而容。夫是之谓至文。诗曰：“温温恭人，惟德之基。”此 之谓也。<br/><br/>　　君子崇人之德，扬人之美，非谄谀也；正义直指，举人之过，非毁疵也；言己 之光美，拟于舜禹，参于天地，非夸诞也；与时屈伸，柔从若蒲苇，非慑怯也；刚 强猛毅，靡所不信，非骄暴也；以义变应，知当曲直故也。诗曰：“左之左之，君 子宜之；右之右之，君子有之。”此言君子以义屈信变应故也。<br/><br/>　　君子小人之反也：君子大心则敬天而道，小心则畏义而节；知则明通而类，愚 则端悫而法；见由则恭而止，见闭则敬而齐；喜则和而理，忧则静而理；通则文而 明，穷则约而详。小人则不然：大心则慢而暴，小心则淫而倾；知则攫盗而渐，愚 则毒贼而乱；见由则兑而倨，见闭则怨而险；喜则轻而翾，忧则挫而慑；通则骄而 偏，穷则弃而儑。传曰：“君子两进，小人两废。”此之谓也。<br/><br/>　　君子治治，非治乱也。曷谓邪？曰：礼义之谓治，非礼义之谓乱也。故君子者， 治礼义者也，非治非礼义者也。然则国乱将弗治与？曰：国乱而治之者，非案乱而 治之之谓也。去乱而被之以治。人污而修之者，非案污而修之之谓也，去污而易之 以修。故去乱而非治乱也，去污而非修污也。治之为名，犹曰君子为治而不为乱， 为修而不为污也。<br/><br/>　　君子絜其身而同焉者合矣，善其言而类焉者应矣。故马鸣而马应之，牛鸣而牛 应之，非知也，其埶然也。故新浴者振其衣，新沐者弹其冠，人之情也。其谁能以 己之潐潐，受人之掝掝者哉！<br/><br/>　　君子养心莫善于诚，致诚则无它事矣。惟仁之为守，惟义之为行。诚心守仁则 形，形则神，神则能化矣。诚心行义则理，理则明，明则能变矣。变化代兴，谓之 天德。天不言而人推其高焉，地不言而人推其厚焉，四时不言而百姓期焉。夫此有 常，以至其诚者也。君子至德，嘿然而喻，未施而亲，不怒而威：夫此顺命，以慎 其独者也。善之为道者，不诚则不独，不独则不形，不形则虽作于心，见于色，出 于言，民犹若未从也；虽从必疑。天地为大矣，不诚则不能化万物；圣人为知矣， 不诚则不能化万民；父子为亲矣，不诚则疏；君上为尊矣，不诚则卑。夫诚者，君 子之所守也，而政事之本也，唯所居以其类至。操之则得之，舍之则失之。操而得 之则轻，轻则独行，独行而不舍，则济矣。济而材尽，长迁而不反其初，则化矣。<br/><br/>　　君子位尊而志恭，心小而道大；所听视者近，而所闻见者远。是何邪？则操术 然也。故千人万人之情，一人之情也。天地始者，今日是也。百王之道，后王是也。 君子审后王之道，而论百王之前，若端拜而议。推礼义之统，分是非之分，总天下 之要，治海内之众，若使一人。故操弥约，而事弥大。五寸之矩，尽天下之方也。 故君子不下室堂，而海内之情举积此者，则操术然也。<br/><br/>　　有通士者，有公士者，有直士者，有悫士者，有小人者。上则能尊君，下则能 爱民，物至而应，事起而辨，若是则可谓通士矣。不下比以闇上，不上同以疾下， 分争于中，不以私害之，若是则可谓公士矣。身之所长，上虽不知，不以悖君；身 之所短，上虽不知，不以取赏；长短不饰，以情自竭，若是则可谓直士矣。庸言必 信之，庸行必慎之，畏法流俗，而不敢以其所独甚，若是则可谓悫士矣。言无常信， 行无常贞，唯利所在，无所不倾，若是则可谓小人矣。<br/><br/>　　公生明，偏生闇，端悫生通，诈伪生塞，诚信生神，夸诞生惑。此六生者，君 子慎之，而禹桀所以分也。<br/><br/>　　欲恶取舍之权：见其可欲也，则必前后虑其可恶也者；见其可利也，则必前后 虑其可害也者，而兼权之，孰计之，然后定其欲恶取舍。如是则常不失陷矣。凡人 之患，偏伤之也。见其可欲也，则不虑其可恶也者；见其可利也，则不虑其可害也 者。是以动则必陷，为则必辱，是偏伤之患也。<br/><br/>　　人之所恶者，吾亦恶之。夫富贵者，则类傲之；夫贫贱者，则求柔之。是非仁 人之情也，是奸人将以盗名于晻世者也，险莫大焉。故曰：盗名不如盗货。田仲史 �不如盗也。<br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-41-1078.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-41-1080.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-41.html" action-type="chapterComment" class="comment"><i></i>荀子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

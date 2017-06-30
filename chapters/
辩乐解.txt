@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孔子家语》正文_辩乐解_王肃作品 - 维普阅读网</title>
+<meta name="keywords" content="孔子家语,孔子家语原文,孔子家语阅读,辩乐解全文,王肃作品" />
+<meta name="description" content="孔子家语原文阅读,辩乐解全文在线阅读,王肃作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-349-5200.html";
+var nextpage="novel-read-349-5202.html";
+var indexpage = "novel-chapter-349.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-349.html">孔子家语</a></strong>
+<strong><a href="novel-chapter-349.html">孔子家语目录</a></strong>
+<span>辩乐解</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-349-5200.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>辩乐解</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王肃&amp;searchsubmit=yes"  target="_blank">王肃</a><span class="divide">|</span>发布时间：2014-09-05 21:48:04<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>孔子学琴于师襄子。襄子曰：“吾虽以击磬为官，然能于琴，今子于琴已习，可以益矣。”孔子曰：“丘未得其数也。”有间，曰：“已习其数，可以益矣。”孔子曰：“丘未得其志也。”有间，曰：“已习其志，可以益矣。”孔子曰：“丘未得其为人也。”有间，曰：“孔子有所谬然思焉，谬然深思貌有所睪然高望而远眺。”眺见也。睪羊益反。眺他吊反曰：“丘迨得其为人矣，近黮而黑，黮黑貌。黮敕感反颀然长，颀长貌。颀渠希反旷如望羊，旷用志广远望羊远视也奄有四方，奄同也文王之时三分天下有其二后周有四方文王之功也非文王其孰能为此。”师襄子避席叶拱而对曰：“叶拱两手薄其心也君子圣人也，其传曰文王操。”<br/>　　子路鼓琴，孔子闻之，谓冉有曰：“甚矣由之不才也。夫先王之制音也，奏中声以为节，流入于南，不归于北。夫南者，生育之乡，北者，杀伐之城。故君子之音温柔居中以养生育之气，忧愁之感不加于心也，暴厉之动，不在于体也。夫然者，乃所谓治安之风也。小人之音则不然，亢丽微末，以象杀伐之气，中和之感，不载于心，温和之动，不存于体，夫然者乃所以为乱之风。昔者舜弹五弦之琴，造南风之诗，其诗曰：‘南风之熏兮，可以解吾民之愠兮，南风之时兮，可以阜吾民之财兮。’得其时阜盛也唯修此化，故其兴也勃焉，德如泉流，至于今王公大人述而弗忘。殷纣好为北鄙之声，其废也忽焉，至于今王公大人举以为诫。夫舜起布衣，积德含和而终以帝，纣为天子，荒淫暴乱而终以亡，非各所修之致乎。由今也匹夫之徒，曾无意于先王之制，而习亡国之声，岂能保其六七尺之体哉？”冉有以告子路，子路惧而自悔，静思不食，以至骨立。夫子曰：“过而能改，其进矣乎。”<br/>　　周宾牟贾侍坐于孔子，孔子与之言及乐曰：“夫武之备诫之以久，何也？”武谓周武备诫击鼓警众也对曰：“病疾不得其众。”病忧也忧恐不得其士众之心敬者也“咏叹之，淫液之，何也？”淫液歆淫滋味对曰：“恐不逮事。”言汲汲欲及此安民和众事“发扬蹈厉之已蚤，何也？”厉病备戒虽久至其发作又疾对曰：“及时事。”欲令事及其时“武坐致右而轩左，何也？”右膝至地左膝不至地也对曰：“非武坐。”言无武坐“声淫及商，何也？”言声歆淫贪商对曰：“非武音也。”武王之事不得已为天下除残贼非苟贪商孔子曰：“若非武音，则何音也？”对曰：“有司失其传也。”孔子曰：“唯，丘闻诸苌弘，若非吾子之言是也，若非有司失其传，则武王之志荒矣。”宾牟贾起，免席而请曰：“夫武之备诫之以久，则既闻命矣。敢问迟矣而又久立于缀，何也？”子曰：“居，吾语尔。夫乐者，象成者也。象成功而为乐语鱼据反总干而山立，武王之事也；总持干若山立不动发扬蹈厉，太公之志也；志在鹰扬武乱皆坐，周邵之治也。武乱武治皆坐而以象安民之事也且夫武始成而北出，再成而灭商，三成而南反，诛纣已而南也四成而南国是疆，言有南国以为疆界五成而分陕，周公左，邵公右，分东西而治也六成而复缀，以崇其天子焉。以象尊天子也六成谓舞之节解也众夹振焉而四伐，所以盛威于中国；夹武王四面会振威武四伐者伐四方与纣同恶也分陕而进，所以事蚤济；所以分陕而蚤进者欲事蚤成久立于缀，所以待诸侯之至也。今汝独未闻牧野之语乎，武王克殷而反商之政，未及下车，则封黄帝之后于蓟，封帝尧之后于祝，封帝舜之后于陈。下车又封夏后氏之后于杞，封殷之后于宋，武王伐殷封其子禄父武王崩禄父叛周公诛之封微子于宋以为殷后禄父不成殷后故成言之封王子比干之墓，释箕子之囚，使人行商容之旧，以复其位，商容商之礼仪其位旧居也传说多以商容为殷之贤人或使箕子求商容乎行犹索也庶民弛政，解其力役之事。弛尸纸反庶士倍禄。既济河西，马散之华山之阳而弗复乘，牛散之桃林之野而弗复服。桃林西方塞也华胡化反车甲则衅之，而藏之诸府库，以示弗复用。倒载干戈而包之以虎皮，将率之士，使为诸侯，命之曰鞬橐，言所以藏弓矢而不用者将率之士力也故使以为诸侯为之鞬橐也。将即亮反率徒对反鞬居言反然后天下知武王之不复用兵也。散军而修郊射，郊有学官可以习礼左射以狸首，右射以驺虞，而贯革之射息也；左东学右西学狸首驺虞所为节也裨冕搢笏，而虎贲之士脱剑；衮冕之属通谓之裨冕脱剑解剑也贲符分反郊祀后稷，而民知尊父焉；配明堂而民知孝焉；朝觐然后诸侯知所以臣；耕籍然后民知所以敬亲。亲耕籍田所以奉祠祀之粢盛六者天下之大教也。食三老五更于太学，天子袒而割牲，执酱而馈，执爵而酳，食已饮酒谓之酳也酳音胤冕而总干，亲在舞位所以教诸侯之弟也。如此则周道四达，礼乐交通。夫武之迟久，不亦宜乎。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-349-5200.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-349-5202.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-349.html" action-type="chapterComment" class="comment"><i></i>孔子家语章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《史通》正文_内篇 杂述第三十四_刘知几作品 - 维普阅读网</title>
+<meta name="keywords" content="史通,史通原文,史通阅读,内篇 杂述第三十四全文,刘知几作品" />
+<meta name="description" content="史通原文阅读,内篇 杂述第三十四全文在线阅读,刘知几作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1030-10620.html";
+var nextpage="novel-read-1030-10622.html";
+var indexpage = "novel-chapter-1030.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1030.html">史通</a></strong>
+<strong><a href="novel-chapter-1030.html">史通目录</a></strong>
+<span>内篇 杂述第三十四</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1030-10620.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>内篇 杂述第三十四</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘知几&amp;searchsubmit=yes"  target="_blank">刘知几</a><span class="divide">|</span>发布时间：2014-11-28 23:10:07<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　在昔三坟、五典、春秋、梼杌，即上代帝王之书，中古诸侯之记。行诸历代，以为格言。其余外传，则神农尝药，厥有《本草》；夏禹敷土，实著《山经》；《世本》辨姓，著自周室；《家语》载言，传诸孔氏。是知偏记小说，自成一家。而能与正史参行，其所由来尚矣。<br/><br/>　　爰及近古，斯道渐烦。史氏流别，殊途并鹜。榷而为论，其流有十焉：一曰偏纪，二曰小录，三曰逸事，四曰琐言，五曰郡书，六曰家史，七曰别传，八曰杂记，九曰地理书，十曰都邑簿。夫皇王受命，有始有卒，作者著述，详略难均。有权记当时，不终一代，若陆贾《楚汉春秋》、乐资《山阳载记》、王韶《晋安陆纪》、姚最《梁后略》，此之谓偏纪者也。普天率土，人物弘多，求其行事，罕能周悉，则有独举所知，编为短部，若戴逵《竹林名士》、王粲《汉末英雄》、萧世诚《怀旧志》、卢子行《知己传》。此之谓小录者也。国史之任，记事记言，视听不该，必有遗逸。于是好奇之士，补其所亡，若和峤《汲冢纪年》、葛洪《西京杂纪》、顾协《琐语》、谢绰《拾遗》。此之谓逸事者也。街谈巷议，时有可观，小说卮言，犹贤于已。故好事君子，无所弃诸，若刘义庆《世说》、裴荣期《语林》、孔思尚《语录》、阳玠松《谈薮》。此之谓琐言者也。汝、颍奇士，江、汉英灵，人物所生，载光郡国。故乡人学者，编而记之，若圈称《陈留耆旧》、周斐《汝南先贤》、陈寿《益部耆旧》、虞预《会稽典录》。此之谓郡书者也。高门华胄，奕世载德，才子承家，思显父母。由是纪其先烈，贻厥后来，若扬雄《家谍》、殷敬《世传》、《孙氏谱记》、《陆宗系历》。此之谓家史者也。贤士贞女，类聚区分，虽百行殊途，而同归于善。则有取其所好，各为之录，若刘向《列女》、梁鸿《逸民》、赵采《忠臣》、徐广《孝子》。此之谓别传者也。阴阳为炭，造化为工，流形赋象，于何不育。求其怪物，有广异闻，若祖台《志怪》、干宝《搜神》、刘义庆《幽明》、刘敬叔《异苑》。此之谓杂记者也。九州土宇，万国山川，物产殊宜，风化异俗，如各志其本国，足以明此一方，若盛弘之《荆州记》、常璩《华阳国志》、辛氏《三秦》、罗含《湘中》。此之谓地理书者也。帝王桑梓，列圣遗尘，经始之制，不恒厥所。苟能书其轨则，可以龟镜将来，若潘岳《关中》、陆机《洛阳》、《三辅黄图》、《建康宫殿》。此之谓都邑簿者也。<br/><br/>　　大抵偏纪、小录之书，皆记即日当时之事，求诸国史，最为实录。然皆言多鄙朴，事罕圆备，终不能成其不刊，永播来叶，徒为后生作者削稿之资焉。逸事者，皆前史所遗，后人所记，求诸异说，为益实多。即妄者为之，则苟载传闻，而无铨择。由是真伪不别，是非相乱。如郭子横之《洞冥》，王子年之《拾遗》，全构虚辞，用惊愚俗。此其为弊之甚者也。琐言者，多载当时辨对，流俗嘲谑，俾夫枢机者藉为舌端，谈话者将为口实。及蔽者为之，则有诋讦相戏，施诸祖宗，亵狎鄙言，出自床第，莫不升之纪录，用为雅言，固以无益风规，有伤名教者矣。郡书者，矜其乡贤，美其邦族，施于本国，颇得流行，置于他方，罕闻爱异。其有如常璩之详审，刘昺之该博，而能传诸不朽，见美来裔者，盖无几焉。家史者，事惟三族，言止一门，正可行于室家，难以播于邦国。且箕裘不堕，则其录犹存；苟薪构已亡，则斯文亦丧者矣。别传者，不出胸臆，非由机杼，徒以博采前史，聚而成书。其有足以新言，加之别说者，盖不过十一而已。如寡闻末学之流，则深所嘉尚；至于探幽索隐之士，则无所取材。杂记者，若论神仙之道，则服食炼气，可以益寿延年；语魑魅之途，则福善祸淫，可以惩恶劝善，斯则可矣。及谬者为之，则苟谈怪异，务述妖邪，求诸弘益，其义无取。<br/><br/>　　地理书者，若朱赣所采，浃于九州；阚骃所书，殚于四国。斯则言皆雅正，事无偏党者矣。其有异于此者，则人自以为乐土，家自以为名都，竞美所居，谈过其实。又城池旧迹，山水得名，皆传诸委巷，用为故实，鄙哉！都邑簿者，如宫阙、陵庙、街廛、郭邑，辨其规模，明其制度，斯则可矣。及愚者为之，则烦而且滥，博而无限，论榱楝则尺寸皆书，记草木则根株必数，务求详审，持此为能。遂使学者观之，瞀乱而难纪也。于是考兹十品，征彼百家，则史之杂名，其流尽于此矣。至于其间得失纷糅，善恶相兼，既难为覼缕，故粗陈梗概。且同自郐，无足讥焉。<br/><br/>　　又案子之将史，本为二说。然如《吕氏》、《淮南》、《玄晏》、《抱朴》，凡此诸子，多以叙事为宗，举而论之，抑亦史之杂也，但以名目有异，不复编于此科。<br/><br/>　　盖语曰："众星之明，不如一月之光。"历观自古，作者著述多矣。虽复门千户万，波委云集。而言皆琐碎，事必丛残。固难以接光尘于《五传》，并辉烈于《三史》。古人以比玉屑满箧，良有旨哉！<br/><br/>　　然则刍荛之言，明王必择；葑菲之体，诗人不弃。故学者有博闻旧事，多识其物，若不窥别录，不讨异书，专治周、孔之章句，直守迁、固之纪传，亦何能自致于此乎？且夫子有云："多闻，择其善者而从之，""知之次也。"苟如是，则书有非圣，言多不经，学者博闻，盖在择之而已。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1030-10620.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1030-10622.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1030.html" action-type="chapterComment" class="comment"><i></i>史通章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《新元史》正文_卷七十八·志第四十五_柯劭忞作品 - 维普阅读网</title>
+<meta name="keywords" content="新元史,新元史原文,新元史阅读,卷七十八·志第四十五全文,柯劭忞作品" />
+<meta name="description" content="新元史原文阅读,卷七十八·志第四十五全文在线阅读,柯劭忞作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1440-28831.html";
+var nextpage="novel-read-1440-28833.html";
+var indexpage = "novel-chapter-1440.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1440.html">新元史</a></strong>
+<strong><a href="novel-chapter-1440.html">新元史目录</a></strong>
+<span>卷七十八·志第四十五</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1440-28831.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷七十八·志第四十五</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=柯劭忞&amp;searchsubmit=yes"  target="_blank">柯劭忞</a><span class="divide">|</span>发布时间：2017-06-20 21:59:33<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>○食货十一 <br/><br/>　　△赐赉下 <br/><br/>　　岁赐之数：答里真官人位： <br/><br/>　　岁赐银三十锭，缎一百匹。淄川王位： <br/><br/>　　岁赐银一百锭，缎三百匹。济南王位： <br/><br/>　　岁赐银一百锭，绵六百二十五斤，小银色丝五十斤，缎三百匹，羊皮一千张。斡真那颜位： <br/><br/>　　岁赐银一百锭，织五千九十八匹，绵五千九十八斤，缎三百匹，诸物折中统钞一百二十锭，羊皮五百张，金一十六锭四十五两。广宁王位： <br/><br/>　　岁赐银一百锭，缎三百匹。术赤大王位： <br/><br/>　　岁赐段三百匹，常课缎一千匹。茶合斛大王位： <br/><br/>　　岁赐银一百锭，缎三百匹，绵六百二十五斤，常课金六锭六两。定宗位： <br/><br/>　　岁赐银一十六锭三十三两，缎五十匹。阿里不哥大王位、河间王位： <br/><br/>　　俱岁赐银一百锭，缎三百匹。合丹大王位、灭里大王位： <br/><br/>　　俱岁赐银一十六锭三十三两，缎五十匹。阔出太子位： <br/><br/>　　岁赐银六十六锭三十三两，缎一百五十匹。阔端太子位： <br/><br/>　　岁赐银一十六锭三十三两，缎五十匹。阿速台大王位： <br/><br/>　　岁赐银八十二锭，缎三百匹。泰定二年，晃兀木儿大王改封并王。 <br/><br/>　　增岁赐银一十六锭。班秃大王： <br/><br/>　　银八锭。泰定三年明里忽都鲁皇后位下： <br/><br/>　　添岁赐中统钞一千锭，缎五十匹，绢八十匹。裕宗妃伯监也怯赤： <br/><br/>　　岁赐银五十锭。旭烈大王位： <br/><br/>　　岁赐银一百锭，缎三百匹。末哥大王位、拨绰大王位： <br/><br/>　　俱岁赐银五十锭，缎三百匹。裕宗后位、安西王位、北安王位： <br/><br/>　　俱岁赐缎一千匹，绢二千匹。平远王位、西平王位： <br/><br/>　　俱岁赐缎匹物料，折钞一千六百五十六锭；银五十锭，折钞一千锭。云南王位、忽都帖木儿太子位： <br/><br/>　　俱岁赐银五十锭，缎匹物料折钞一千六百五十锭。晋王甘剌麻位： <br/><br/>　　岁赐缎一千匹，绢一千匹。又朵儿只： <br/><br/>　　延祐元年为始，年例支中统钞一千锭。太祖大斡耳朵： <br/><br/>　　岁赐银四十三锭，红紫罗二十匹，染绢一百匹，杂色线五千斤，针三千个，缎七十五匹，常课缎八百匹。第二斡耳朵： <br/><br/>　　岁赐银五十锭，缎七十五匹，常课缎一千四百九十匹。第三斡耳朵： <br/><br/>　　岁赐银五十锭，缎七十五匹，常课缎六百八十二匹。第四斡耳朵： <br/><br/>　　岁赐银五十锭，缎七十五匹。世祖大翰耳朵： <br/><br/>　　岁赐银五十锭。第二斡耳朵： <br/><br/>　　岁赐银五十七锭，缎一百五十匹。第三、第四斡耳朵： <br/><br/>　　俱岁赐银五十锭。顺宗后位： <br/><br/>　　岁赐缎五百匹。武宗真哥皇后位： <br/><br/>　　岁赐银五十锭，钞五百锭。完者台皇后位： <br/><br/>　　岁赐银五十锭。带鲁罕公主位： <br/><br/>　　岁赐银四锭八两，缎一十二匹。欠帖温： <br/><br/>　　岁赐绢一百匹，弦一千条。札八忽娘子： <br/><br/>　　岁赐常课缎四百七十匹。西川城左翼古汉军万户脱力赤： <br/><br/>　　岁赐常课缎三十二匹。伯要歹千户： <br/><br/>　　岁赐缎二十四匹。典迭儿： <br/><br/>　　岁赐常课缎六十四匹。太平王： <br/><br/>　　岁赐，天历元年定金十锭，银五十锭，钞一万锭。分拨汝东道太平路地五百顷。 <br/><br/>　　岁例外之赐与： <br/><br/>　　中统二年，赐诸王塔齐尔金千两、银五千两、币三百匹。 <br/><br/>　　四年，赐公主巴古银五万两、哈剌哈纳银千两。 <br/><br/>　　至元二年，赐诸王合必赤、亦怯烈，金素币各四；拜行，金币一；赐诸王只必帖木儿银二万五吉两、钞千锭。 <br/><br/>　　四年，赐王玉龙答失银五千两、币三百匹，岁以为常。 <br/><br/>　　五年，诸计王木忽及八剌合币帛六万匹。 <br/><br/>　　七年，赐皇子南术合马六千、牛三千、羊一万。 <br/><br/>　　十二年，赐皇子安西王币帛八千匹，丝万斤。 <br/><br/>　　十九年，赐诸王塔海帖木儿、忽都帖木儿等金银、币帛有差。 <br/><br/>　　二十五年，赐诸王火你赤银五百两、珠一索、锦衣一袭，玉都银千两、珠一索、锦衣一袭。赐诸王阿赤吉金二百两、银二万二千五百两、银二万二千五百两、钞西千锭及纱罗绢布有差。赐拔都不伦金百五十两、银五千两及千帛纱罗等万匹。赐诸王术伯金银皆二百五十两，币帛纱罗万匹，又赐术伯银二万五千两、币帛纱罗万匹。赐诸王也里干金五十两、银五千两、钞千锭、币帛纱罗等二千匹。赐按搭儿秃等金二百五十两、银十二万五千两、钞二万五千锭、币帛布氎布二万三千六百六十六匹。赐诸王爱牙合赤等金千两、银一万八千三百六十两、丝万两、绵八万三千二百两、币一千二百匹、织五千九十八匹。 <br/><br/>　　三十一年，成宗即位，中书省臣言：“陛下新即大位，诸王、驸马赐与宜依往年大会之旧例，赐金一者加四为五，银一者加二为三。又江南分土之献，初止按其版籍令户出钞五百文，今亦当有加。然不宜增赋于民，请因五百文另二贯，从今岁官给之。”从之。是年，赐驸马蛮子带银七万六千五百两，阔里吉思一万五千四百五十两，高丽王眶三万两。赐国王和童金二百五十两，月儿鲁百五十两，伯颜、月赤察儿各五十两，钞锦各有差。赐亦都护金五百五十两、银七千四百两，合学里的斤帖林金五十两、银四百五十两。西平王奥鲁赤、宁远王阔阔出、镇南王脱颜及先帖木儿大会赐例，金各五百两、银五千两、钞二千锭，币帛各二百匹。诸王帖木儿不花、也只里不花等，金各四百两、银四千两、钞二千六百锭，币帛各一百六十匹。赐雪雪的斤公主钞千锭，诸王伯答罕、察合儿三千锭，伯牙兀真、赤里、由柔伯牙伯剌麻、阔怯伦、忙哥真各金五十两，银钞币有差。赐不鲁花真公主及诸王阿只吉安弟伯秃银钞有差，赐诸王亦思麻殷金五十两。 <br/><br/>　　元贞元年，赐诸王忽剌出金五十两、珠一串。诸王阿失罕来朝，赐金五十两、银四百五十两。赐诸王木颜帖木儿、阿八也不干金各五百两，银五千两，钞二千锭，币帛各二百匹。其幼者减五分之一。 <br/><br/>　　二年，赐诸王合班妃钞千二百锭，杂币帛千匹，驸马塔海铁木儿钞三千锭。赐八撤、火而忽答孙、秃刺三人钞五千锭。赐诸王铁木儿金二百五十两、银二千五百两、钞五千锭，以旌其战功。定诸王朝会赐与：太祖位，金千两、银七万五千两；世祖位，金各五百两，银二万五千两；余各有差。 <br/><br/>　　大德元年，赐诸王要木忽而、兀鲁忽不花岁赐各钞千锭。赐晋王甘剌麻钞七万锭，孛阿班答三万锭，赐药木忽儿木一千二百五十两、银一万五千两，钞一万二千锭。赐诸王药木忽儿金一千二百五十两，兀鲁忽不花赐并其母一千两银，钞各有差。赐诸王亦怜真等金银钞有差。 <br/><br/>　　大德三年，赐诸王六十、脱脱等钞一万三千余锭。 <br/><br/>　　四年，赐诸王也孙等钞一万八千五百锭。合丹之孙脱欢自北境来归，赐钞一千四百锭。 <br/><br/>　　六年，赐诸王八撤儿等钞八万六千三百余锭，赐诸王捏苦迭儿等钞五千八百四十锭。 <br/><br/>　　七年，赐皇侄海山及安西王阿难答，诸王脱脱、八不沙，驸马蛮子台等，各金五两，银珠装币等物有差。赐诸王纳忽里钞千锭、币二千匹。 <br/><br/>　　八年，赐安西王阿难答，诸王阿只吉、也速不干等钞一万四千锭。 <br/><br/>　　九年，给还西安王积年所减岁赐金五百两、丝一万五千九百斤。赐诸王脱脱钞二千锭，奴兀伦、索罗等金五百两、银千两、钞二万锭。赐察八面、朵瓦所遣使者银千四百两、钞七千八百余锭。赐安西王阿难答、月鲁铁木儿钞五千锭，以金千两、船七万五千两、钞十三万锭。赐兴圣太后出居怀州。驸马按替不花来自朵瓦，赐银五十两、钞二百锭。诸王忽剌出及昔儿吉思来贺立皇太子，赐钞及衣服、弓矢等有差。赐安西王阿难答，西平王王奥鲁赤、不里亦钞三万锭，南哥班万锭，从者三万三千锭。赐梁王松山钞千锭，赐西宁王出伯钞三万锭，赐皇侄阿木哥钞三万锭。 <br/><br/>　　武宗即位，命中书省臣议诸王朝会赐与，依成宗例，比世祖所赐金五十者增至二百五十两，银五十两者增至百五十两，以金二千七百五十两、银十二万九千二百两、钞万锭，币帛二万二千二百八十匹奉兴圣宫，赐太子亦如之。赐越王秃剌钞万锭。 <br/><br/>　　至大元年，中书省臣言：“朝会应赐者为锭总三百五十万锭，已给者百七十万，未给者犹百八十余万，两都所储已罄。自今特奏乞赏者宜暂停。”从之。晋王也孙铁木儿以诏赐万锭、止给八千锭为言，敕给晋王钞千锭，余移陕西省给之。赐国王和童金二百五十两、银七百五十两，赐镇南王老章金五百两、银五千两、钞二千锭、币帛八百匹，也先不花、牙儿赤金各二百五十两，银七百五十两，钞定二千锭。赐诸王八亦忽，金百五十两，银七百五十两。复赐八不沙，金五百两。赐晋王所部五百四十七人，钞五万二千九百五十锭，定王药木忽儿金千五百两、银三万两、钞万锭。赐诸王木南子金五十两、银千两、钞千锭。赐皇太子鹰坊钞二十万锭。赐诸王脱欢金三百两、银二千五百两、钞二千锭，阿思不花金百两、银千两、钞千锭。赐皇太子金千两。 <br/><br/>　　二年，以诸王老的代梁王镇云南，赐金二百五十两、银七百五十两，从者币帛有差。 <br/><br/>　　三年，赐诸王那木忽里等钞万二千锭。 <br/><br/>　　仁宗即位，以诸王朝会普赐金三万九千六百五十两、银百八十四万九千五十两、钞二十二万三千二百七十九锭、币帛四十七万二各四百八十八匹。己巳，卫王阿木哥入朝，赐钞二万锭。以朝会恩赐诸王秃满金百五十两、银五千三百两、币帛三千匹。以朝会恩赐，月赤察儿、床兀儿金二百两、银二千八百两；赐诸王阿不花等金二百两、银七百五十两、钞一万三千六百三十锭，币帛各有差；赐皇姊大长公主钞万锭。 <br/><br/>　　皇庆元年，赐安王完泽及其子金三百两、银一千三百五十两、钞三千五百锭。赐安远王丑汉金百两、银五百两、钞千锭。赐诸王阔阔出金束带一、银百五十两、钞二百锭。赐诸王宽彻、忽都迷失金百五十两、银一千五百两、钞三千锭，币帛有差。 <br/><br/>　　二年，赐诸王按灰金五十两、银七百五十两、金束带一，币帛各四十匹。赐宣宁王铁木儿不花币帛百二十匹，安远王亦思丹等各百匹。敕卫王阿木哥岁赐外，给钞万锭。赐驸马脱铁木儿金百五十两、银七百五十两、币帛五十匹。赐诸王火罗思迷、脱欢、南忽里，驸马忙兀带，金二百两、银一千二百两、钞一千六百锭，币帛各有差。 <br/><br/>　　延祐元年，赐卫王阿木哥等钞七千锭。 <br/><br/>　　二年，赐诸王纳忽答儿金五十两、银二百五十两、钞五百锭。赐宣宁王铁木儿不花及其弟钞万锭。 <br/><br/>　　三年，赐诸王迭里哥儿不花等金三百五十两、银一千二百两、钞三千二百锭。币帛有差。赐周王从卫钞四十万锭。 <br/><br/>　　四年，赐诸王宗戚朝会者金三百两、银二千五百两、钞四万三千九百锭。赐赵王阿鲁秃金五十两、银五百两、钞千锭。安远王丑汉、汉王阿鲁秃，为叛王脱火赤所掠，各赐金银币帛。赐皇姑大长公主忙哥台金百两、银千两、钞二千锭，币帛各百匹。 <br/><br/>　　五年，赐诸王桑哥班金束带一、银百两、钞五百锭。赐安王兀都思不花等金束带及金二百两、银一千五十两、钞二千二百锭、币帛二百八十匹。赐诸王八里带等金二百两、银八百五十两、钞二千锭、币帛二百匹。诸王五千锭、币帛一百匹。 <br/><br/>　　六年，英宗即位，赐诸王也孙铁木儿、脱脱那颜等金银币帛有差。赐诸王铁木儿不花钞万五千贯。赐诸王阿术里台宴服珠帽。赐诸王曲鲁不花钞万五千贯。赐诸王买奴等钞二十五万贯。赐公主札牙八剌等钞七万五千贯。以登极大赉诸王、百官，计金五千两、银七十八万两、钞一百二十一万一千贯、币五万七千三百六十四匹。 <br/><br/>　　帛四万九千三百二十二匹、木棉九万二千六百七十二斤、布二万三千三百九十匹、衣八百五十九袭、鞍勒弓矢有差。赐寿宁公主钞七万五千贯，给武宗皇后钞七十五万贯，赐公主札牙八剌从者钞七十五万贯，赐公主买的钞五万贯，驸马灭怜钞二万五千贯，赐晋王也孙铁木儿钞百万贯，赐公主速哥八剌钞五十贯。 <br/><br/>　　二年，赐诸王案忒不花钞七万五千贯。驸马脱脱卒，赐钞五万贯。遣亲王阇阇秃总兵北边，赐金二百五十两、银二千五百两、钞五十万贯。 <br/><br/>　　三年，遣诸王忽剌出往云南，赐钞万五千贯。赐诸王喃茶失言二百五十万贯。 <br/><br/>　　泰定即位，大赉后妃、诸王、百官金七百余锭、银三万三千锭，钱及币帛称是。 <br/><br/>　　泰定元年，赐诸王彻彻秃金一锭、银六十锭、币帛各百匹。塔思不花金一锭、银四十锭、币帛二百匹，阿忽铁木儿等金银各有差。赐寿齐公主金十锭、银五十锭、钞一万锭。遗诸王阇阇出镇畏兀，赐金银钞千计。诸王阿木哥卒，赐钞千锭。诸王阿马卒，赐钞五千锭。赐云南王王禅钞二千锭，诸王阿都赤钞三千锭，诸王伯颜帖木儿二千锭。 <br/><br/>　　三年，诸王薛彻秃、晃火帖木儿来朝，赐金银钞币有差。赐诸王宽彻不花、买奴各三千锭，赐诸王孛罗铁木儿、阿剌忒纳失里各钞二千锭。赐寿宁公主田百顷、钞三万锭。赐梁王王禅钞五千锭，赐王禅及诸王彻彻秃币帛各二百匹。赐绥宁王阿都赤钞四千锭，赐汀宁王八剌失里钞三千键。 <br/><br/>　　四年，诸王买奴来朝，赐金一锭、银十锭、钞二千锭，币帛各四十匹。赐诸王阿忒剌纳夫里等钞六千锭。亲王也先铁木儿镇北边，赐金一锭、银五锭、钞五百锭，币帛各千匹。诸王火沙、阿荣、答里镇北边，赐金银币钞各有差。诸王搠思班、不赛因等以文豹、名马等物来献，赐金银妙万计。赐谙王火儿灰、月鲁帖木儿、八剌失里及驸马买住罕钞一万五千锭，金银币帛有差。赐寿宁公主钞五千锭。赐营王也先帖木儿钞三千锭。赐公主不答吉你钞千锭。诸王孛罗进使贡硐砂，赐钞二千锭。 <br/><br/>　　致和元年，赐辽王脱脱钞五千锭，粱王王禅钞二千锭。 <br/><br/>　　天历元年，赐诸王阿剌忒纳夫里、帖木儿不花、宽彻不花、买奴等金各五十两、银各五百两，币各三千匹。赐阿剌忒纳失里及齐王月鲁帖木儿等金各五百两，银各一千五百两，钞各万锭，诸王朵列帖木儿金五十两、银五百两、钞千锭。二年，中书省臣言：“思赉请王、百官，诸如武宗之制，凡金银五锭以上，减三分之一，五锭以下全畀之。又以七分为卒，其二分准时值给钞。”制可。赐武宁王彻彻秃金百两、银五百两，西域诸王燕只吉台金二千五百两、银万五千两，钞币有差。 <br/><br/>　　至顺元年，敕有司供明宗后八不沙、宫人币帛二百匹，及阿梯里，脱忽思币帛有差。赐鲁国大长公主钞万锭，赐诸王养怯帖木儿、孛栾台、征棘斯、察阿兀罕等金钞币有差。赐诸王朵列铁木儿银千两、币二百匹。 <br/><br/>　　二年，赐燕帖木儿及公主察吉儿各金百两、银五百两、钞二千锭。定功赏。诸王各金百两，银五百两，金膝带一，织金等币各十八匹。三年，赐公主月鲁金五百两、银五千两。遣使往西域，赐诸王不赛因绣彩币二百四十匹。 <br/><br/>　　三年，宁宗即位，货赉诸王金币如文宗即位之制。以诸子忽剌台贫乏，赐钞五百锭。赐诸王克彻币帛各二千匹。 <br/><br/>　　至元二年，赐宗王火儿灰母答里钞一千锭。赐吴王搠失江钞五千锭。命宗王不兰奚、驸马月鲁不花等镇薛连可、怯鲁、速速地，各赐钞六百锭及银牌。 <br/><br/>　　四年，赐宗王王里不花钞千锭、金一锭、银十锭。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1440-28831.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1440-28833.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1440.html" action-type="chapterComment" class="comment"><i></i>新元史章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

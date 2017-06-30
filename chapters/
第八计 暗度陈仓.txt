@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《三十六计》正文_第八计 暗度陈仓_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="三十六计,三十六计原文,三十六计阅读,第八计 暗度陈仓全文,佚名作品" />
+<meta name="description" content="三十六计原文阅读,第八计 暗度陈仓全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-232-3042.html";
+var nextpage="novel-read-232-3044.html";
+var indexpage = "novel-chapter-232.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-232.html">三十六计</a></strong>
+<strong><a href="novel-chapter-232.html">三十六计目录</a></strong>
+<span>第八计 暗度陈仓</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-232-3042.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第八计 暗度陈仓</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-08-19 22:42:52<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>指正面迷惑敌人，而从侧翼进行突然袭击。比喻暗中进行活动。 后多比喻暗中进行某种活动（多指男女私通达）。<br/>【原典】<br/>示之以动①，利其静而有主，“益动而巽②”。<br/>【注释】<br/>①示之以动：示，给人看。动，此指军事上的正面佯攻、佯动等迷惑敌方的军事行动。<br/>②益动而巽：语出《易经．益》卦。益，卦名。此卦为异卦相叠（震下巽上）。上卦为巽，巽为风；下卦为震，震为雷。意即风雷激荡，其势愈增，故卦名为益。与损卦之义，互相对立，构成一个统一的组纷。《益卦》的《彖》辞说：“益动而巽，日进无疆。”这是说益卦下震为雷为动，上巽为风为顺，那么，动而合理，是天生地长，好处无穷。<br/>此计是利用敌人被我“示之以动”的迷惑手段所蒙蔽，而我即乘虚而入，以达军事上的出奇制胜。<br/>【按语】<br/>奇出于正，无正不能出奇。不明修栈道，则不能暗渡陈仓。昔邓艾屯白水之北；姜维遥廖化屯白水之南，而结营焉。艾谓诸将日：“维令卒还，吾军少，法当来渡，而不作桥，此维使化持我．令不得还。必自东袭取洮城矣。”艾即夜潜军，径到洮城。维果来渡。而艾先至，据城，得以不破。此则是姜维不善用暗渡陈仓之计；而邓艾察知其声东击西之谋也。<br/>【故事】<br/>　　由于秦朝暴政，秦二世元年〔公元前209年〕七月，陈胜、吴广在大泽乡起义反秦。九月，刘邦在沛县主吏萧何和狱椽曹参等人的拥戴下聚众响应起义，称沛公，不久刘邦投奔项梁。当项羽率领起义军和秦军的主力在巨鹿决战时，刘邦却受楚怀王的派遣，带领起义队伍向关中挺进。汉王元年（前206）十月，刘邦的军队进抵霸上。秦王子婴投降，秦朝灭亡。<br/><br/>　　后来项羽也攻进了咸阳城。听说刘邦已定关中，项羽大怒，他凭借自己的强大势力，自称为西楚霸王，而封刘邦为汉中王。项羽担心一旦刘邦到了汉中，会暗中培养实力，跟自己作对，所以就把他软禁在咸阳城。不过，项羽却中了刘邦的谋士所设下的圈套，答应让刘邦离开咸阳城。<br/><br/>　　这天，刘邦带着手下启程赶往汉中。一路上，车队马不停蹄不敢稍作停留，因为他们怕项羽一时反悔，派军队追上来。汉中的边境地势险峻，主要的通道是由木头架成的，叫做栈道。这时谋士张良向刘邦献计：“主公，我们走过栈道后，就把它烧毁，这样不但可以防范追兵，还可以表明您将永远不离开汉中的决心。”刘邦欣然采纳：“好，就这么办吧！”于是下令焚毁栈道。<br/><br/>　　刘邦不甘心亡秦的胜利果实被项羽独占，到达汉中后，他励精图治，知人善任，注意纳谏，能充分发挥部下的才能，在几位大臣的辅佐下，力量逐渐强大。心想：“和项羽决一胜负的时机终于到了。”于是刘邦率军东出，发动了长达4年的楚汉战争。刘邦采取谋士韩信的计策，在出兵前，下令士兵修筑被烧毁的栈道。项羽的密探发现了这一情况，急忙向项羽汇报。<br/><br/>　　项羽听后哈哈大笑，说：“刘邦真是聪明一世，糊涂一时。当年火烧栈道，现在又要重修，谈何容易！等他修好了，我早已统一天下了。”项羽根本不把刘邦放在眼里，他下令：“调集人员、马匹，准备粮草、军械，出兵攻打齐国。”<br/><br/>　　没想到，刘邦表面上修筑栈道，实际上是为了扰乱项羽的耳目。他暗中却由陈仓出兵，攻打项羽的领地。由于项羽的守军毫无准备，所以被汉军打得措手不及，节节败退。<br/><br/>　　刘邦乘胜追击，一步步占据项羽的领地。汉王五年（公元前202年），刘邦的大军把项羽军队围困在垓下（今安徽灵壁县东南），项羽兵缺粮少。夜里，项羽忽然听到从围在四面的汉军中传来楚国的歌声，项羽大惊，失声问道：“莫非汉军已经全部占据了楚地？”这就样，军心大溃，项羽率800兵将突围而出，最后觉得无颜见江东父老，自刎于乌江边。<br/><br/>　　四年的楚汉战争结束，从此刘邦取得天下，统一了中国。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-232-3042.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-232-3044.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-232.html" action-type="chapterComment" class="comment"><i></i>三十六计章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

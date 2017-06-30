@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孟子》正文_卷十一 告子章句上_孟子作品 - 维普阅读网</title>
+<meta name="keywords" content="孟子,孟子原文,孟子阅读,卷十一 告子章句上全文,孟子作品" />
+<meta name="description" content="孟子原文阅读,卷十一 告子章句上全文在线阅读,孟子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-27-409.html";
+var nextpage="novel-read-27-411.html";
+var indexpage = "novel-chapter-27.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-27.html">孟子</a></strong>
+<strong><a href="novel-chapter-27.html">孟子目录</a></strong>
+<span>卷十一 告子章句上</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-27-409.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷十一 告子章句上</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=孟子&amp;searchsubmit=yes"  target="_blank">孟子</a><span class="divide">|</span>发布时间：2014-07-19 12:00:48<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　一<br/>　　告子曰：“性，犹杞柳也；义，犹桮桊也。以人性为仁义，犹以杞柳为桮桊。”<br/>　　孟子曰：“子能顺杞柳之性而以为桮桊乎？将戕贼杞柳而后以为桮桊也？如将戕贼杞柳而以为桮桊，则亦将戕贼人以为仁义与？率天下之人而祸仁义者，必子之言夫！”<br/>　　----------<br/>　　二<br/>　　告子曰：“性犹湍水也，决诸东方则东流，袂诸西方则西流。人性之无分于善不善也，犹水之无分于东西也。”<br/>　　孟子曰：“水信无分于东西。无分于上下乎？人性之善也，犹水之就下也。人无有不善，水无有不下。今夫水，搏而跃之，可使过颡；激而行之，可使在山。是岂水之性哉？其势则然也。人之可使为不善，其性亦犹是也。”<br/>　　----------<br/>　　三<br/>　　告子曰：“生之谓性。”<br/>　　孟子曰：“生之谓性也，犹白之谓白与？”曰：“然。”<br/>　　“白羽之白也，犹白雪之白；白雪之白，犹白玉之白与？”曰：“然。”“然则犬之性，犹牛之性；牛之性，犹人之性与？”<br/>　　----------<br/>　　四<br/>　　告子曰：“食色，性也。仁，内也，非外也；义，外也，非内也。”<br/>　　孟子曰：“何以谓仁内义外也？”<br/>　　曰：“彼长而我长之，非有长于我也；犹彼白而我白之，从其白于外也，故谓之外也。”<br/>　　曰：“异于白马之白也，无以异于白人之白也；不识长马之长也，无以异于长人之长与？且谓长者义乎？长之者义乎？”<br/>　　曰：“吾弟则爱之，秦人之弟则不爱也，是以我为悦者也，故谓之内。长楚人之长，亦长吾之长，是以长为悦者也，故谓之外也。”<br/>　　曰：“耆秦人之炙，无以异于耆吾炙。夫物则亦有然者也，然则耆炙亦有外与？”<br/>　　----------<br/>　　五<br/>　　孟季子问公都子曰：“何以谓义内也？”<br/>　　曰：“行吾敬，故谓之内也。”<br/>　　“乡人长于伯兄一岁，则谁敬？”曰：“敬兄。”<br/>　　“酌则谁先？”曰：“先酌乡人。”<br/>　　“所敬在此，所长在彼，果在外，非由内也。”公都子不能答，以告孟子。<br/>　　孟子曰：“敬叔父乎？敬弟乎？彼将曰‘敬叔父’。曰：‘弟为尸，则谁敬？’彼将曰‘敬弟。’子曰：‘恶在其敬叔父也？’彼将曰：‘在位故也。’子亦曰：‘在位故也。庸敬在兄，斯须之敬在乡人。’”季子闻之曰：“敬叔父则敬，敬弟则敬，果在外，非由内也。”公都子曰：“冬日则饮汤，夏日则饮水，然则饮食亦在外也？”<br/>　　----------<br/>　　六<br/>　　公都子曰：“告子曰：‘性无善无不善也。’或曰：‘性可以为善，可以为不善；是故文武兴，则民好善；幽厉兴，则民好暴。’或曰：‘有性善，有性不善；是故以尧为君而有象，以瞽瞍为父而有舜；以纣为兄之子且以为君，而有微子启、王子比干。’今曰‘性善’，然则彼皆非与？”<br/>　　孟子曰：“乃若其情，则可以为善矣，乃所谓善也。若夫为不善，非才之罪也。恻隐之心，人皆有之；羞恶之心，人皆有之；恭敬之心，人皆有之；是非之心，人皆有之。恻隐之心，仁也；羞恶之心，义也；恭敬之心，礼也；是非之心，智也。仁义礼智，非由外铄我也，我固有之也，弗思耳矣。故曰：‘求则得之，舍则失之。’或相倍蓰而无算者，不能尽其才者也。诗曰：‘天生蒸民，有物有则。民之秉夷，好是懿德。’孔子曰：‘为此诗者，其知道乎！故有物必有则，民之秉夷也，故好是懿德。’”<br/>　　----------<br/>　　七<br/>　　孟子曰：“富岁，子弟多赖；凶岁，子弟多暴，非天之降才尔殊也，其所以陷溺其心者然也。<br/>　　今夫麰麦，播种而耰之，其地同，树之时又同，浡然而生，至于日至之时，皆熟矣。虽有不同，则地有肥硗，雨露之养，人事之不齐也。故凡同类者，举相似也，何独至于人而疑之？圣人与我同类者。故龙子曰：‘不知足而为屦，我知其不为蒉也。’屦之相似，天下之足同也。<br/>　　口之于味，有同耆也。易牙先得我口之所耆者也。如使口之于味也，其性与人殊，若犬马之与我不同类也，则天下何耆皆从易牙之于味也？至于味，天下期于易牙，是天下之口相似也惟耳亦然。至于声，天下期于师旷，是天下之耳相似也。惟目亦然。至于子都，天下莫不知其姣也。不知子都之姣者，无目者也。故曰：口之于味也，有同耆焉；耳之于声也，有同听焉；目之于色也，有同美焉。至于心，独无所同然乎？心之所同然者何也？谓理也，义也。圣人先得我心之所同然耳。故理义之悦我心，犹刍豢之悦我口。”<br/>　　----------<br/>　　八<br/>　　孟子曰：“牛山之木尝美矣，以其郊于大国也，斧斤伐之，可以为美乎？是其日夜之所息，雨露之所润，非无萌櫱之生焉，牛羊又从而牧之，是以若彼濯濯也。人见其濯濯也，以为未尝有材焉，此岂山之性也哉？<br/>　　虽存乎人者，岂无仁义之心哉？其所以放其良心者，亦犹斧斤之于木也，旦旦而伐之，可以为美乎？其日夜之所息，平旦之气，其好恶与人相近也者几希，则其旦昼之所为，有梏亡之矣。梏之反覆，则其夜气不足以存；夜气不足以存，则其违禽兽不远矣。人见其禽兽也，而以为未尝有才焉者，是岂人之情也哉？<br/>　　故苟得其养，无物不长；苟失其养，无物不消。孔子曰：‘操则存，舍则亡；出入无时，莫知其乡。’惟心之谓与？”<br/>　　----------<br/>　　九<br/>　　孟子曰：“无或乎王之不智也，虽有天下易生之物也，一日暴之，十日寒之。未有能生者也。吾见亦罕矣，吾退而寒之者至矣。吾如有萌焉何哉！今夫弈之为数，小数也；不专心致志，则不得也。弈秋，通国之善弈者也。使弈秋诲二人弈，其一人专心致志，惟弈秋之为听。一人虽听之，一心以为有鸿鹄将至，思援弓缴而射之，虽与之俱学，弗若之矣。为是其智弗若与？曰：非然也。”<br/>　　----------<br/>　　十<br/>　　孟子曰：“鱼，我所欲也；熊掌，亦我所欲也，二者不可得兼，舍鱼而取熊掌者也。生，亦我所欲也；义，亦我所欲也，二者不可得兼，舍生而取义者也。生亦我所欲，所欲有甚于生者，故不为苟得也；死亦我所恶，所恶有甚于死者，故患有所不辟也。如使人之所欲莫甚于生，则凡可以得生者，何不用也？使人之所恶莫甚于死者，则凡可以辟患者，何不为也？由是则生而有不用也，由是则可以辟患而有不为也。是故所欲有甚于生者，所恶有甚于死者，非独贤者有是心也，人皆有之，贤者能勿丧耳。<br/>　　一箪食，一豆羹，得之则生，弗得则死。呼尔而与之，行道之人弗受；蹴尔而与之，乞人不屑也。万钟则不辨礼义而受之。万钟于我何加焉？为宫室之美、妻妾之奉、所识穷乏者得我与？乡为身死而不受，今为宫室之美为之；乡为身死而不受，今为妻妾之奉为之；乡为身死而不受，今为所识穷乏者得我而为之，是亦不可以已乎？此之谓失其本心。”<br/>　　----------<br/>　　十一<br/>　　孟子曰：“仁，人心也；义，人路也。舍其路而弗由，放其心而不知求，哀哉！人有鸡犬放，则知求之；有放心，而不知求。学问之道无他，求其放心而已矣。”<br/>　　----------<br/>　　十二<br/>　　孟子曰：“今有无名之指，屈而不信，非疾痛害事也，如有能信之者，则不远秦楚之路，为指之不若人也。指不若人，则知恶之；心不若人，则不知恶，此之谓不知类也。”<br/>　　----------<br/>　　十三<br/>　　孟子曰：“拱把之桐梓，人苟欲生之，皆知所以养之者。至于身，而不知所以养之者，岂爱身不若桐梓哉？弗思甚也。”<br/>　　----------<br/>　　十四<br/>　　孟子曰：“人之于身也，兼所爱。兼所爱，则兼所养也。无尺寸之肤不爱焉，则无尺寸之肤不养也。所以考其善不善者，岂有他哉？于己取之而已矣。体有贵贱，有小大。无以小害大，无以贱害贵。养其小者为小人，养其大者为大人。今有场师，舍其梧槚，养其樲棘，则为贱场师焉。养其一指而失其肩背，而不知也，则为狼疾人也。饮食之人，则人贱之矣，为其养小以失大也。饮食之人无有失也，则口腹岂适为尺寸之肤哉？”<br/>　　----------<br/>　　十五<br/>　　公都子问曰：“钧是人也，或为大人，或为小人，何也？”<br/>　　孟子曰：“从其大体为大人，从其小体为小人。”<br/>　　曰：“钧是人也，或从其大体，或从其小体，何也？”<br/>　　曰：“耳目之官不思，而蔽于物，物交物，则引之而已矣。心之官则思，思则得之，不思则不得也。此天之所与我者，先立乎其大者，则其小者弗能夺也。此为大人而已矣。”<br/>　　----------<br/>　　十六<br/>　　孟子曰：“有天爵者，有人爵者。仁义忠信，乐善不倦，此天爵也；公卿大夫，此人爵也。古之人修其天爵，而人爵从之。今之人修其天爵，以要人爵；既得人爵，而弃其天爵，则惑之甚者也，终亦必亡而已矣。”<br/>　　----------<br/>　　十七<br/>　　孟子曰：“欲贵者，人之同心也。人人有贵于己者，弗思耳。人之所贵者，非良贵也。赵孟之所贵，赵孟能贱之。诗云：‘既醉以酒，既饱以德。’言饱乎仁义也，所以不愿人之膏粱之味也；令闻广誉施于身，所以不愿人之文绣也。”<br/>　　----------<br/>　　十八<br/>　　孟子曰：“仁之胜不仁也，犹水胜火。今之为仁者，犹以一杯水，救一车薪之火也；不熄，则谓之水不胜火，此又与于不仁之甚者也。亦终必亡而已矣。”<br/>　　----------<br/>　　十九<br/>　　孟子曰：“五谷者，种之美者也；苟为不熟，不如荑稗。夫仁亦在乎熟之而已矣。”<br/>　　----------<br/>　　二十<br/>　　孟子曰：“羿之教人射，必志于彀；学者亦必志于彀。大匠诲人，必以规矩；学者亦必以规矩。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-27-409.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-27-411.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-27.html" action-type="chapterComment" class="comment"><i></i>孟子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

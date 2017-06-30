@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《建康实录》正文_卷四　吴下　后主（校勘记）_许嵩作品 - 维普阅读网</title>
+<meta name="keywords" content="建康实录,建康实录原文,建康实录阅读,卷四　吴下　后主（校勘记）全文,许嵩作品" />
+<meta name="description" content="建康实录原文阅读,卷四　吴下　后主（校勘记）全文在线阅读,许嵩作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1033-10836.html";
+var nextpage="novel-chapter-1033.html";
+var indexpage = "novel-chapter-1033.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1033.html">建康实录</a></strong>
+<strong><a href="novel-chapter-1033.html">建康实录目录</a></strong>
+<span>卷四　吴下　后主（校勘记）</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1033-10836.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷四　吴下　后主（校勘记）</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=许嵩&amp;searchsubmit=yes"  target="_blank">许嵩</a><span class="divide">|</span>发布时间：2014-11-29 20:52:13<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>〔1〕后主讳皓 “皓”，《吴志》本传作“晧”，卢弼《三国志集解》云：“宋本‘晧’作‘皓’。”<br/>　　〔2〕七年八月景帝崩 陶札云：“《吴志》孙休卒于永安七年七月癸未，推是年八月无癸未，《实录》误。”<br/>　　〔3〕左军万或 “左军”，《吴志·孙皓传》作“左典军”。陶札云：“《实录》脱‘典’字。”<br/>　　〔4〕封高密侯 《吴志·妃嫔传》作“封牧高密侯”。陶札云：“《实录》脱‘牧’字。”<br/>　　〔5〕鲁肃王霸 周钞本批注云：“‘肃’字疑衍。”<br/>　　〔6〕料出宫女以配无妻者 “料”，《吴志·孙皓传》《通鉴》七八皆作“科”。<br/>　　〔7〕兴少有名理 “名理”，《吴志·濮阳兴传》作“士名”。<br/>　　〔8〕五官中郎将弘璆随绍报魏 “弘璆”，《通鉴》七九作“洪璆”。“随绍”二字它本皆空缺，周钞本作“奉书”，徐钞本作“随绍”，似皆为后人据文意增补，唯徐钞本与《吴志·孙皓传》合，今姑从之。<br/>　　〔9〕丁固右将军诸葛靓守建业 “建业”以上九字，各本皆缺，今据徐钞本及《通鉴》七九补。《吴志·孙皓传》同，唯“守”作“镇”。<br/>　　〔10〕鱼潜于泉 “泉”，《吴志·王蕃传》注引《吴录》作“渊”，盖许嵩避唐讳改。<br/>　　〔11〕膝牧 原误作“滕收”，徐钞本、周钞本、《吴志·孙皓传》《妃嫔传》及《通鉴》七九及本卷下文皆作“滕牧”，今据改。<br/>　　〔12〕留平 原作“刘平”，留平为吴臣留赞子，当姓留。今据《吴志·孙皓传》《王蕃传》《钟离牧传》注引《会稽典录》及《通鉴》七九改。<br/>　　〔13〕以镇西将军陆凯为大丞相 “大丞相”，《吴志·陆凯传》作“左丞相”。陶札云：“‘大丞相’”乃‘左丞相’之讹。”陶说是，本卷下文亦作“左丞相”。<br/>　　〔14〕败政滛俗 “滛”原作“傜”。今据徐钞本、甘钞本、周钞本及《吴志·陆凯传》改。<br/>　　〔15〕荣以尊辅 “荣”原作“策”，今据库本、徐钞本、周钞本及《吴志·陆凯传》改。<br/>　　〔16〕民无妻者以女妻之 “女”，《吴志·陆凯传》作“妾”，当是。<br/>　　〔17〕外多寡夫 陶札云：“《吴志·陆凯传》作‘外多鳏夫’，是也。”<br/>　　〔18〕乃今庶事多旷 陶札云：“《吴志·陆凯传》‘今’作“令’，是也。”<br/>　　〔19〕外仗顾陆步张 “步”，《吴志·陆凯传》作“朱”。<br/>　　〔20〕国以民为本民以食为天 “本”下“民”字原缺，今据甘钞本、徐钞本及《吴志·陆凯传》补。<br/>　　〔21〕及淮南东平王 “淮南”，《吴志·孙皓传》作“淮阳”。孙皓子未有封淮南王者，当从《吴志》为是。<br/>　　〔22〕是岁分豫章庐陵长沙为安成郡至是岁左夫人张氏薨 各本自“为”字至“是岁”前皆阙。郦校云，丁固梦松事见本卷下文，不应复出，疑甘钞本出后人臆补。<br/>　　〔23〕奋字子阳 “子阳”，《吴志·孙奋传》作“子扬”。<br/>　　〔24〕改封都乡侯 丁奉前已封都亭侯，此当云进封，非改封，《吴志·丁奉传》不误。<br/>　　〔25〕至是见谗追过斩之 陶札云：“案丁奉未尝见杀，《实录》盖误解《吴志》斩奉导军之文。”<br/>　　〔26〕举孝廉 据《吴志·韦昭传》，昭未尝举孝廉。<br/>　　〔27〕迁尚书仆射兼中常侍领左国史 《吴志·韦昭传》作“迁中书仆射，职省，为侍中，常领左国史”。陶札云：“案中书仆射盖吴新置，寻省，许氏以中书仆射之官不经见，遂臆改为尚书仆射。为侍中句绝，许氏误以常字属上句，遂臆改为中常侍。”<br/>　　〔28〕抗有疾 “抗”原作“拒”，今据甘钞本、徐钞本、周钞本、刘钞本及《吴志·陆抗传》注引《晋阳秋》改正。<br/>　　〔29〕抗生四子长晏次景次机次云 《吴志·陆抗传》及《通鉴》八○皆云抗五子，为晏、景、玄、机、云。《实录》脱抗子玄。<br/>　　〔30〕十二月诏分郁林为桂林郡十一月侍中太尉范慎薨 此处文字有误。据《吴志·孙皓传》，诏分郁林为桂林郡在凤皇三年，范慎卒于二年。即使两事在一年，亦不得十二月列于十一月之前。<br/>　　〔31〕滕脩 “脩”原作“循”，滕脩见《吴志·孙皓传》《吕岱传》注引王隐《交广记》及《晋书》。“循”与“脩”字形相近，易讹耳，今据改。又据《吴志》《通鉴》八○滕脩时官执金吾，《实录》脱。<br/>　　〔32〕黄&lt;犭苟&gt; 《晋书·五行志》中、《宋书·五行志》三作“黄狗”， &lt;犭苟&gt;、狗同。然《吴志·孙皓传》《通鉴》八○作“黄耈”。<br/>　　〔33〕客罢各奏其失 《吴志·孙耈传》《通鉴》八○皆作“宴罢之后，各奏其阙失”。<br/>　　〔34〕戊辰 天纪四年正月己丑朔，无戊辰日。《吴志·孙皓传》系于三月，然三月戊子朔，亦无戊辰。《三国志集解》云戊辰是戊戌，为三月十一日。<br/>　　〔35〕悌垂涕曰 原作“涕垂悌曰”，今据《吴志·孙皓传》注引《襄阳记》及《通鉴》八一乙正。<br/>　　〔36〕《吴录》曰 郦校云：“案《吴录》曰以下当是注文，误作大字。”<br/>　　〔37〕乙未 二月戊午朔，无乙未日。三月戊子朔，乙未为初八日。<br/>　　〔38〕欲祚之万代 “代”，《吴志·孙皓传》注引《江表传》作“世”，盖许嵩避唐讳改。<br/>　　〔39〕谓之祯祥 《实录》宋本避高宗讳，遇“构”字注以“今上御名”，又避仁宗讳，遇“祯”字注以“御名”，后之翻宋本常以四小圈或双圈代之。“谓之祯祥”，徐钞本据《吴志·孙皓传》注引《江表传》改作“反谓之祥”。库本误补“祯”为“构”。郦校云：“案所避当是‘祯’字。”郦说是，今据补。<br/>　　〔40〕天文玄变于上 “玄”，甘钞本、徐钞本及《吴志·孙皓传》注引《江表传》作“县”。<br/>　　〔41〕三月辛未 三月戊子朔，无辛未。疑“辛未”为“辛丑”之误。<br/>　　〔42〕壬寅王濬舟师先至石头 “壬寅”，各本皆作“壬申”。《吴志·孙皓传》《晋书·武帝纪》亦误作“壬申”。三月戊子朔，无壬申日。丁国钧《晋书校文》云：“《晋书·王濬传》载濬入石头后上书有‘以十五日至秣陵’语，十五日为壬寅，则‘申’当为‘寅’字之误。”丁说甚是，《通鉴》八一正作“壬寅”，今据改。<br/>　　〔43〕癸亥 三月无癸亥，四月丁巳朔，癸亥为初七日。下文乙亥亦在四月，为十九日。<br/>　　〔44〕乃入吴寻二陆学问至遂励志 劳格《晋书校勘记》云：“案此采自《世说》，予以《处传》及《陆机传》核之，知系小说妄传，非事实也。案处没于惠帝元康七年，年六十有二。推其生年，当在吴大帝之赤乌元年。陆机没于惠帝太安二年，年四十三。推其生年，当在吴景帝之永安五年。赤乌与永安相距二十余载，则处弱冠之年，陆机尚未生也。此云‘入吴寻二陆’，未免近诬。又考《陆机传》，年二十而吴灭，退居旧里。是吴未亡之前，机未尝还吴也。或以为处寻二陆，当在吴亡之后，亦非也。考吴亡之岁，处年亦四十三，筮仕已久。据本传，处仕吴为东观左丞、无难督。故王浑之登建邺宫，处有对浑之言。如使吴亡之后，处方厉志好学，则为东观左丞、无难督者，果何人乎？以此推之，知《世说》所云尽属谬妄。《晋书》不加考核，遽采入本传，可谓无识。刘子玄讥其好采小说，诚非过也。又案处碑，世传陆机所撰，亦有‘来吴事余厥弟’之语。此碑系唐刘从谏所重树，窜改旧文，事迹错互，不可尽据以为信。”劳说甚是，此当许氏末审史实，承袭《晋书》之误耳。<br/>　　〔45〕广陵太守 “广陵”，徐钞本作“广平”，《晋书·周处传》作“广汉”。<br/>　　〔46〕梁王肜 “肜”，各本皆误作“彤”，今据《晋书》本传及《通鉴》八二改正。<br/>　　〔47〕三子&lt;王已&gt;靖札皆事东晋也 “札”原误作“礼”，今据《晋书》本传及《通鉴》九二、九三改正。又劳格《晋书校勘记》云：“碑云四子：靖、&lt;王已&gt;、札、硕，传失载，硕名又，以靖为&lt;王已&gt;弟，皆非也。案《法苑珠林·观佛部》云，东晋周&lt;王已&gt;，平西将军处之第二子，是本传以&lt;王已&gt; 为长子者误。”<br/>　　〔48〕吾彦 原作“吴彦”，今据徐钞本及《吴志·孙皓传》注引干宝《晋纪》及《晋书》本传改正。<br/>　　〔49〕皇象 原作“黄象”，库本、徐钞本及《吴志·赵达传》注引《吴录》皆作“皇象”。皇象为吴善书者，宋王僧虔《能书人名录》云：“吴人皇象能草书。”梁袁昂《书评》亦云：“皇象书如歌声绕梁，琴人舍徽。”当作“皇象”为是，今据改。<br/>　　〔50〕严武子 《吴志·赵达传》注引《吴录》作“严武”。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1033-10836.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-1033.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1033.html" action-type="chapterComment" class="comment"><i></i>建康实录章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

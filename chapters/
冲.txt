@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《准风月谈》正文_冲_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="准风月谈,准风月谈原文,准风月谈阅读,冲全文,鲁迅作品" />
+<meta name="description" content="准风月谈原文阅读,冲全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-551-7532.html";
+var nextpage="novel-read-551-7534.html";
+var indexpage = "novel-chapter-551.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-551.html">准风月谈</a></strong>
+<strong><a href="novel-chapter-551.html">准风月谈目录</a></strong>
+<span>冲</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-551-7532.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>冲</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-05 21:44:16<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>旅隼 <br/>　　“推”和“踢”只能死伤一两个，倘要多，就非“冲”不可。 <br/>　　十三日的新闻上载着贵阳通信（２）说，九一八纪念，各校学生集合游行，教育厅长谭星阁临事张皇，乃派兵分据街口，另以汽车多辆，向行列冲去，于是发生惨剧，死学生二人，伤四十余，其中以正谊小学学生为最多，年仅十龄上下耳。……我先前只知道武将大抵通文，当“枕戈待旦”的时候，就会做骈体电报，这回才明白虽是文官，也有深谙韬略的了。田单曾经用过火牛（３），现在代以汽车，也确是二十世纪。 <br/>　　“冲”是最爽利的战法，一队汽车，横冲直撞，使敌人死伤在车轮下，多么简截；“冲”也是最威武的行为，机关一扳，风驰电掣，使对手想回避也来不及，多么英雄。各国的兵警，喜欢用水龙冲，俄皇（４）曾用哥萨克马队冲，都是快举。各地租界上我们有时会看见外国兵的坦克车在出巡，这就是倘不恭顺，便要来冲的家伙。 <br/>　　汽车虽然并非冲锋的利器，但幸而敌人却是小学生，一匹疲驴，真上战场是万万不行的，不过在嫩草地上飞跑，骑士坐在上面暗呜叱咤，却还很能胜任愉快，虽然有些人见了，难免觉得滑稽。 <br/>　　十龄上下的孩子会造反，本来也难免觉得滑稽的。但我们中国是常出神童的地方，一岁能画，两岁能诗，七龄童做戏，十龄童从军，·十·几·龄·童·做·委·员，原是常有的事实；连七八岁的女孩也会被凌辱，从别人看来，是等于“年方花信”（５）的了。 <br/>　　况且“冲”的时候，倘使对面是能够有些抵抗的人，那就汽车会弄得不爽利，冲者也就不英雄，所以敌人总须选得嫩弱。流氓欺乡下老，洋人打中国人，教育厅长冲小学生，都是善于克敌的豪杰。 <br/>　　“身当其冲”，先前好像不过一句空话，现在却应验了，这应验不但在成人，而且到了小孩子。“婴儿杀戮”（６）算是一种罪恶，已经是过去的事，将乳儿抛上空中去，接以枪尖，不过看作一种玩把戏的日子，恐怕也就不远了罢。 <br/>　　十月十七日。 <br/>　　<br/>===============================================================<br/>　　　　　 <br/>　　（１）　本篇最初发表于一九三三年十月二十二日《申报·自由谈》。 <br/>　　（２）　贵阳通信　见一九三三年十月十三日《申报》载国闻社重庆通讯。按当时国民党贵州省政府主席为王家烈，他和教育厅长谭星阁等都是这次惨案的主谋；事后他们严密检查邮电，消息在惨案发生后二十余日才由重庆传出。 <br/>　　（３）　田单曾经用过火牛　田单，战国时齐国人。据《史记·田单列传》，燕伐齐，破齐七十余城，齐军退守莒和即墨；后来田单在即墨用火牛大破燕军，尽复失地。 <br/>　　（４）　俄皇　指旧俄最末的一个沙皇尼古拉二世（NJ\GP]S　Ⅱ＃保福叮浮�保梗保福�*一九○五年一月二十二日（俄国旧历一月九日）他曾令哥萨克马队在冬宫前冲击和屠杀请愿群众。 <br/>　　（５）　“年方花信”　指女子正当成年时期。花信，花开的消息。<br/>　　（６）　“婴儿杀戮”　见基督教的《新约全书·马太福音》第二章，其中说：当犹太希律王的时候，耶稣生在犹太的伯利恒，希律王知道了，心里很不安。“有主的使者向约瑟（按约瑟是马利亚的丈夫，马利亚在婚前受圣灵感动怀孕，婚后生子耶稣）梦中显现，说：‘起来，带着小孩子同他母亲，逃往埃及，……因为希律必寻找小孩子要除灭他。’”他们走后，希律“就大大发怒，差人将伯利恒城里，并四境所有的男孩，……凡两岁以里的，都杀尽了。” </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-551-7532.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-551-7534.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-551.html" action-type="chapterComment" class="comment"><i></i>准风月谈章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《风赋》正文_风赋_宋玉作品 - 维普阅读网</title>
+<meta name="keywords" content="风赋,风赋原文,风赋阅读,风赋全文,宋玉作品" />
+<meta name="description" content="风赋原文阅读,风赋全文在线阅读,宋玉作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-89.html";
+var nextpage="novel-chapter-89.html";
+var indexpage = "novel-chapter-89.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-89.html">风赋</a></strong>
+<strong><a href="novel-chapter-89.html">风赋目录</a></strong>
+<span>风赋</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-89.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>风赋</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=宋玉&amp;searchsubmit=yes"  target="_blank">宋玉</a><span class="divide">|</span>发布时间：2014-08-02 20:58:13<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文<br/>　　楚襄王游于兰台之宫，宋玉景差侍。有风飒然而至，王乃披襟而当之，曰：“快哉此风！寡人所与庶人共者邪？”宋玉对曰：“此独大王之风耳，庶人安得而共之！” 王曰：“夫风者，天地之气，溥畅而至，不择贵贱高下而加焉。今子独以为寡人之风，岂有说乎？”宋玉对曰：“臣闻于师：枳句来巢，空穴来风。其所托者然，则风气殊焉。”<br/>　　王曰：“夫风始安生哉？”宋玉对曰：“夫风生于地，起于青苹之末。侵淫溪谷，盛怒于土囊之口。缘太山之阿，舞于松柏之下，飘忽淜滂，激飏熛怒。耾耾雷声，回穴错迕。蹶石伐木，梢杀林莽。至其将衰也，被丽披离，冲孔动楗，眴焕粲烂，离散转移。故其清凉雄风，则飘举升降。乘凌高城，入于深宫。抵华叶而振气，徘徊于桂椒之间，翱翔于激水之上。将击芙蓉之精。猎蕙草，离秦衡，概新夷，被荑杨，回穴冲陵，萧条众芳。然后徜徉中庭，北上玉堂，跻于罗幢，经于洞房，乃得为大王之风也。故其风中人状，直惨凄惏栗，清凉增欷。清清泠泠，愈病析酲，发明耳目，宁体便人。此所谓大王之雄风也。”<br/>　　王曰：“善哉论事！夫庶人之风，岂可闻乎？”宋玉对曰：“夫庶人之风，塕然起于穷巷之间，堀堁扬尘，勃郁烦冤，冲孔袭门。动沙堁，吹死灰，骇溷浊，扬腐余，邪薄入瓮牖，至于室庐。故其风中人状，直憞溷郁邑，殴温致湿，中心惨怛，生病造热。中唇为胗，得目为篾，啖齰嗽获，死生不卒。此所谓庶人之雌风也。”<br/><br/>　　译文<br/>　　楚襄王在兰台宫游览，宋玉、景差随侍。<br/>　　有风飒飒吹来，楚襄王便敞开衣襟迎着风说：“这风多爽快啊！这是我和平民百姓共同享有的么？”宋玉回答说：“这只是大王您一个人独自享有的风罢了，平民百姓哪里能与大王共同享有它呢？”<br/>　　楚襄王说：“风是天地间的一种气流，普遍而畅流无阻地吹送而来，不分贵贱高低吹到每一个人身上。现在你单单以为是我一个人享有的风，难道有什么理由吗？”宋玉回答说：“我从老师那里听到过这样的说法，枳树弯曲的枝丫上会招来鸟雀做窝，空穴之处会产生风。鸟窝和风是根据环境条件的不同而出现，那么风的气势也自然会因环境条件的差异而有所不同。”<br/>　　楚襄王说：“风最初从哪里开始发生呢？”宋玉回答说：“风在大地上生成，从青苹这种水草的末梢飘起。逐渐进入山溪峡谷，在大山洞的洞口怒吼。然后沿着大山弯曲处继续前进，在松柏之下狂舞乱奔。它轻快移动，撞击木石，发出乒乒乓乓的声响，其势昂扬，象恣肆飞扬的烈火，闻之如轰轰雷响，视之则回旋不定。吹翻大石，折断树木，冲击密林草丛。等到风势将衰微下来时，风力便四面散开，只能透入小洞，摇动门栓了。大风平息之后，景物鲜明，微风荡漾。”<br/>　　“所以那清凉的雄风，便有时飘忽升腾，有时低回下降，它跨越高高的城墙，进入到深宫内宅。它吹拂花木，传散着郁郁的清香，它徘徊在桂树椒树之间，回旋在湍流急水之上。它拨动荷花，掠过蕙草，吹开秦衡，拂平新夷，分开初生的垂杨。它回旋冲腾，使各种花草凋落，然后又悠闲自在地在庭院中漫游，进入宫中正殿，飘进丝织的帐幔，经过深邃的内室。这才称得上大王之风呀。”<br/>　　“所以那风吹到人的身上，其情状仅只是让人感到凉飕飕而微微发抖，冷得使人倒抽冷气。它那样的清凉爽快，足以治愈疾病，解除醉态，使人耳聪目明，身体康宁，行动便捷。这就是所说的大王之雄风。”<br/>　　楚襄王说：“你对大王之风这件事论说得太好了！那平民百姓的风，是否可以说给我听一听呢？”<br/>　　宋玉回答说：“那平民百姓的风，在闭塞不通的小巷里忽然刮起，接着扬起尘土，风沙回旋翻滚，穿过孔隙，侵入门户，刮起沙砾，吹散冷灰，搅起肮脏污浊的东西，散发腐败霉烂的臭味，然后斜刺里吹进贫寒人家，一直吹到住房中。”<br/>　　“所以那风吹到人的身上，其情状只会使人心烦意乱，气闷郁抑，它驱赶来温湿的邪气，使人染上湿病；此风吹入内心，令人悲伤忧苦，生重病发高烧，吹到人的嘴唇上就生唇疮，吹到人的眼睛上就害眼病，还会使人中风抽搐，嘴巴咀嚼吮吸喊叫不得，死不了也活不成。这就是所说的平民百姓的雌风。”<br/><br/>简析<br/><br/>风没有生命，本无雄雌之分，但王宫空气清新，贫民窟空气恶浊，这乃是事实。作者从听觉、视觉、嗅觉对风的感知不同，生动、形象、逼真地描述了“雄风”与“雌风”的截然不同，反映了帝王与贫民生活的天壤之别。前者骄奢淫逸，后者凄惨悲凉。寓讽刺于描述之中，意在言外。<br/>帝王幽居深宫，生存环境优越，肆虐的狂风进了高城深宫，早已化为清凉治病的和风；而生活在穷巷贫窟的庶民生存环境恶劣，没有防护实施，狂风肆意侵凌，无奈的遭受着风的凄苦。正如文中指出“枳勾来巢，空穴来风，所托者然也，则风气也殊焉。”因为生存条件的不同，所以对风的感受也就不同，风带给帝王的是享受，带给贫民的是灾难。不管宋玉是插科打诨，逗帝王开心，还是暗藏讽谏，风带给不同条件的人的祸福感受是客观存在的。<br/>段落分析<br/><br/>文章从开头到“臣闻於师：枳句来巢，空穴来风。其所托者然，则风气殊焉。”为第一段。这段通过引起“雄风”和“雌风”论辩的背景，提出风气带给人不同感受的论点。<br/>第二段论述了风的形成、起源以及由弱到强、由强衰弱直至进入深宫化为清风四处飘散吸取万物精华而后带给帝王享受的过程。肆虐的狂风在入城前飘散为清风乘越高墙入於深宫，摇动华叶，徘徊香木之间，寻取其幽香；临池采芙蓉芳香；出水掠蕙草浓香；劈开秦衡，摆动新夷掠取清香，披开荑杨收取嫩香，然后带着五香的新鲜徜徉中庭，北上玉宫，又通过层层帷幕进入深宫。这段描写颇为生动，像是描写一个殷情而又谨慎的君王侍臣，小心的调制着君王需求的和风。这里对风的描写暗喻了帝王贪欲的神圣特权，以及臣民伺候帝王的恭敬与虔诚。帝王得到的不像是自然的风，而是精心调制的服务。这风带给帝王的享受，好像是一付神药，这种轻松与愉悦像是病愈酒醒，耳聪目明，舒服至极，使得帝王不由的感叹“好痛快！”这就是帝王享受的雄风。这也是对帝王的生活侧面写照，揭示了帝王生活的奢求与贪欲。<br/>第三段论述了庶人的风。突然起於闭塞的巷道中，扬起沙尘，像愤怒的冤魂恶鬼叫嚣着冲孔袭门。光这来势，就让人感觉这风对于贫民不怀好意的侵犯是何等的嚣张可怕啊！继而卷起沙粒，吹起死灰，搅起污秽肮脏的垃圾，扬起腐臭的气味，斜插进破瓮做的窗户，直冲茅庐。这阴风在贫窟里肆意妄为，使得贫民头昏胸闷，伤心劳神，疲软无力，继而发烧生病，吹到嘴上生口疮，吹到眼上害红眼病，进而嘴巴抽搐吮动，咿呀叫喊，说不出话来，得了中风病。这就是庶人的雌风。通过这段描写，我们可以深切感受的庶民生存环境的恶劣，以及庶民生存的艰难与痛苦。<br/>通过帝王的雄风与贫民的雌风，我们深切感受到同在一片蓝天下的生命是如此的不平等。这不平等的根源不是自然灾害，而是人权的肆意践踏。因为生存环境的不同，造成雄风带来的是无与伦比的享受，而雌风带来的是欲哭无泪的灾殃。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-89.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-89.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-89.html" action-type="chapterComment" class="comment"><i></i>风赋章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

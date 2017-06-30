@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《清史稿》正文_卷八十一 志五十六_赵尔巽作品 - 维普阅读网</title>
+<meta name="keywords" content="清史稿,清史稿原文,清史稿阅读,卷八十一 志五十六全文,赵尔巽作品" />
+<meta name="description" content="清史稿原文阅读,卷八十一 志五十六全文在线阅读,赵尔巽作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1438-28501.html";
+var nextpage="novel-read-1438-28503.html";
+var indexpage = "novel-chapter-1438.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1438.html">清史稿</a></strong>
+<strong><a href="novel-chapter-1438.html">清史稿目录</a></strong>
+<span>卷八十一 志五十六</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1438-28501.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷八十一 志五十六</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=赵尔巽&amp;searchsubmit=yes"  target="_blank">赵尔巽</a><span class="divide">|</span>发布时间：2016-09-08 21:55:17<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>◎地理二十八<br/><br/>　　△察哈尔<br/><br/>　　察哈尔八旗：东南距京师四百三十里。当直隶宣化、山西大同边外。明插汉，本元裔小王子后。嘉靖间，布希驻牧察哈尔之地，因以名部。天聪六年，征林丹汗，走死。其子孔果尔额哲来降，即其部编旗，驻义州。康熙十四年，其子布尔呢兄弟叛，讨诛之，迁部众驻牧宣化、大同边外。又以来降之喀尔喀、厄鲁特编为佐领隶焉。乾隆二十六年，设都统，驻张家口。其地东界克什克腾，西界归化城土默特，南界直隶独石、张家二口及山西大同、朔平，北界苏尼特及四子部落。袤延千里。北极高四十二度二十分。京师偏西十分。镶黄旗察哈尔驻苏明峰，在张家口北三百四十里。东南距京师七百五十里。明，万全右卫边外。汉，上谷郡。牧地当张家口之北。东界正白旗察哈尔，西界正黄旗察哈尔，南界镶黄旗牧厂，北界苏尼特右翼，广一百六十里，袤一百九十里。其山：东曰漠尔图山。南，哈石郎山。北，青羊山蒙名博罗虎插、红羊山蒙名乌兰虎插。东南，阿哈鲁虎山、骆驼山。西南，额类山。东北，白鹿山蒙名布虎图。西北，衣尔哈图山。东南：大红泉蒙名伊克乌兰。西南：滚布拉克泉。北：小红泉。正黄旗察哈尔驻木孙忒克山，在张家口西北三百二十里。东南距京师七百六十里。汉，且如县地。牧地当张家口厅之西北，喀喇乌纳根山南。东界镶黄旗察哈尔，西界正红旗察哈尔，南界陆军部右翼牧厂，北界四子部落。广一百一十里，袤二百八十里。其山：东曰额尔吉纳克山。南，乌尔虎拖罗海山。北，大鲜卑山蒙名伊克阿勒特、兴安山。西南，插汉和邵山。东北，榆树山蒙名乌里雅苏台。西：七金河，蒙名贺尔博金，源出贺尔博金山，南流入希尔池。东南：兆哈河，源出平地，南流，会乌尔古河。又南，蒙古几河自西来注之。又南，苏尔紥河自东北来注之。又南流，从大同天镇入边，迳柴沟堡，西北入怀安，为东洋河。蒙古几河源出平地，东流会兆哈河，南入边城，弩里河南流从之。镶红旗察哈尔驻布林泉，在张家口西北四百二十里。东南距京师八百三十里。汉，雁门郡北境。牧地当山西陶林厅之东北代哈泊。东界正红旗察哈尔，西界镶蓝旗察哈尔，南界丰镇，北界四子部落。广五十里，袤二百里。其山南曰鸭儿山。北，阿尔达布色山。东南，格尔白山。西南，乌尔姑苏台山。北：漠惠图河，源出敖托海泉，西流入镶蓝旗察哈尔，会安达河。东南：莽喀图河，源出正红旗察哈尔，西北流，会阿拉齐河，入黛哈池，即奄遏下水海。正红旗察哈尔驻古尔板拖罗海山，在张家口西北三百七十里。东南距京师八百里。汉，雁门郡北境。牧地当山西陶林厅之东北、丰镇厅之北，奇尔泊。东界正黄旗察哈尔，西界镶红旗察哈尔，南界陆军部右翼牧厂，北界四子部落。广五十五里，袤二百八十里。其山：东曰阿拍挞兰台山。北，伊克和洛图山。东北，哈撤克图山。西北，插汉峰。南：昆都伦泉、葫芦苏台泉。北：诺尔孙泉，东南流入正黄旗察哈尔，为纳林河，又东南注希尔池。镶白旗察哈尔驻布雅阿海苏默，在独石口西北二百四十五里。东南距京师七百七十里。明，开平卫西北边。汉，上谷郡北境。牧地当独石口厅治西北。东及南界陆军部牧厂，西界正白旗察哈尔，北界正蓝旗察哈尔。广五十六里，袤一百九十七里。其山：南曰巴汉得儿山。西北，铁柱山蒙名阿尔坦噶达苏。其北，西尔哈池。西北：红盐池蒙名乌兰池、魁素池。正白旗察哈尔驻布尔噶台，在独石口西北二百九十里。东南距京师八百二十里。明，龙门卫边外。汉，上谷郡北境。牧地当独石口厅治之西北。东及北界镶白旗察哈尔，西及南界镶黄旗察哈尔。广七十八里，袤二百九十五里。其山：南曰清凉黑山蒙名魁屯喀喇。西，喀喇峨博图山，一名黑山。东南，伊克得儿山，一名大马鬛山。西北：翁翁泊、黑水滦蒙名喀喇乌苏。镶蓝旗察哈尔驻阿巴汉喀喇山，在杀虎口东北九十里。东南距京师一千里。明，大同府西北边外。汉，雁门郡沃阳县地。牧地当山西宁远厅之北。东界镶红旗察哈尔，西界山西归化，南界山西大同，北界四子部落。广一百一十五里，袤一百六十里。其山：东曰克丑山。西，乌兰插伯山。东北，衣马图山。东南，朔隆峰。其水：南曰察哈音图河，源出阿尔站岭，西南流，会弩衡格尔、虎虎乌苏二河，入乌兰木伦河。东南，阿拉齐河，源出朔隆峰，东流至镶红旗察哈尔，纳巴尔哈孙河，入黛哈池。东北，朱喇马台河，源出席喇峰，西南流，会喀喇乌苏河、纳札海河，为土尔根河，即黑河之上源。黑河，源出海拉苏台坡，与镶红旗察哈尔接界，西北流，有纳札海、朱喇马台等河，皆自东北来，与黑水河会。又西流，受德布色黑河，折西南，合哲尔德河，始名伊克土尔根河，又西入归化。正蓝旗察哈尔驻札哈苏台泊，在独石口东北三百六十里。东南距京师八百九十里。明，开平卫北境。金，桓州地。牧地当直隶独石口厅治之北。东界克什克腾，西界镶白旗察哈尔，南界内务府正白旗羊群牧厂，北界阿巴噶左翼。广二百六十五里，袤九十五里。其水：东曰戈贺苏台河，源出额默黑特站西，北流，会察察尔台、戈贺苏台、奴黑特等河，入阿霸垓右翼。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1438-28501.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1438-28503.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1438.html" action-type="chapterComment" class="comment"><i></i>清史稿章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

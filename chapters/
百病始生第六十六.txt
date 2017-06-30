@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《灵枢》正文_百病始生第六十六_黄帝作品 - 维普阅读网</title>
+<meta name="keywords" content="灵枢,灵枢原文,灵枢阅读,百病始生第六十六全文,黄帝作品" />
+<meta name="description" content="灵枢原文阅读,百病始生第六十六全文在线阅读,黄帝作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-268-4725.html";
+var nextpage="novel-read-268-4727.html";
+var indexpage = "novel-chapter-268.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-268.html">灵枢</a></strong>
+<strong><a href="novel-chapter-268.html">灵枢目录</a></strong>
+<span>百病始生第六十六</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-268-4725.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>百病始生第六十六</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=黄帝&amp;searchsubmit=yes"  target="_blank">黄帝</a><span class="divide">|</span>发布时间：2014-08-30 22:29:07<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p> 黄帝问于岐伯曰：夫百病之始生也，皆生于风雨寒暑、清湿喜怒。喜怒不节则伤藏，风雨则伤上，清湿则伤下。三部之气，所伤异类，愿闻其会。岐伯曰：三部之气各不同，或起于阴，或起于阳，请言其方。喜怒不节则伤藏，藏伤则病起于阴也；清湿袭虚，则病起于下；风雨袭虚，则病起于上。是谓三部。至于其淫泆，不可胜数。黄帝曰：余固不能数，故问先师，愿卒闻其道。岐伯曰：风雨寒热，不得虚，邪不能独伤人。卒然逢疾风暴雨而不病者，盖无虚，故邪不能独伤人。此必因虚邪之风，与其身形，两虚相得，乃客其形；两实相逢，众人肉坚。其中于虚邪也，因于天时，与其身形，参以虚实，大病乃成。气有定舍，因处为名，上下中外，分为三员。是故虚邪之中人也，始于皮肤，皮肤缓则腠理开，开则邪从毛发入，入则抵深，深则毛发立，毛发立则淅然，故皮肤痛；留而不去，则传舍于络脉，在络之时，痛于肌肉，其痛之时息，大经乃代；留而不去，传舍于经，在经之时，洒淅喜惊；留而不去，传舍于输，在输之时，六经不通四肢，则肢节痛，腰脊乃强；留而不去，传舍于伏冲之脉，在伏冲之时，体重身痛；留而不去，传舍于肠胃，在肠胃之时，贲响腹胀，多寒则肠鸣飧泄，食不化，多热则溏出麋；留而不去，传舍于肠胃之外、募原之间，留着于脉，稽留而不去，息而成积。或着孙脉，或着络脉，或着经脉，或着输脉，或着于伏冲之脉，或着于膂筋，或着于肠胃之募原，上连于缓筋，邪气淫泆，不可胜论。<br/>　　　 黄帝曰：愿尽闻其所由然。岐伯曰：其着孙络之脉而成积者，其积往来上下，臂手孙络之居也，浮而缓，不能句积而止之，故往来移行肠胃之间，水凑渗注灌，濯濯有音，有寒则A1J8，A1J8满雷引，故时切痛。其着于阳明之经，则挟脐而居，饱食则益大，饥则益小。其着于缓筋也，似阳明之积，饱食则痛，饥则安。其着于肠胃之募原也，痛而外连于缓筋，饱食则安，饥则痛。其着于伏冲之脉者，揣之应手而动，发手则热气下于两股，如汤沃之状。其着于臂筋在肠后者，饥则积见，饱则积不见，按之不得。其着于输之脉者，闭塞不通，津液不下，孔窍干壅。此邪气之从外入内，从上下也。<br/>　　　 黄帝曰：积之始生，至其已成奈何？岐伯曰：积之始生，得寒乃生，厥乃成积也。黄帝曰：其成积奈何？岐伯曰：厥气生足悗，悗生胫寒，胫寒则血脉凝涩，血脉凝涩则寒气上入于肠胃，入于肠胃则A1J8胀，A1J8胀则肠外之汁沫迫聚不得散，日以成积。卒然多食饮则肠满，起居不节、用力过度则络脉伤。阳络伤则血外溢，血外溢则衄血；阴络伤则血内溢，血内溢则后血。肠胃之络伤，则血溢于肠外，肠外有寒，汁沫与血相抟，则并合凝聚不得散，而积成矣。卒然外中于寒，若内伤于忧怒，则气上逆，气上逆则六输不通，温气不行，凝血蕴里而不散，津液涩渗，着而不去，而积皆成矣。<br/>　　　 黄帝曰：其生于阴者奈何？岐伯曰：忧思伤心；重寒伤肺；忿怒伤肝；醉以入房，汗出当风，伤脾；用力过度，若入房汗出浴，则伤肾。此内外三部之所生病者也。黄帝曰：善。治之奈何？岐伯答曰：察其所痛，以知其应，有余不足，当补则补，当泻则泻，毋逆天时，是谓至治。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-268-4725.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-268-4727.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-268.html" action-type="chapterComment" class="comment"><i></i>灵枢章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

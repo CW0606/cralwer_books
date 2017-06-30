@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《集外集》正文_“音乐”？_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="集外集,集外集原文,集外集阅读,“音乐”？全文,鲁迅作品" />
+<meta name="description" content="集外集原文阅读,“音乐”？全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-540-6905.html";
+var nextpage="novel-read-540-6907.html";
+var indexpage = "novel-chapter-540.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-540.html">集外集</a></strong>
+<strong><a href="novel-chapter-540.html">集外集目录</a></strong>
+<span>“音乐”？</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-540-6905.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>“音乐”？</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-30 19:19:11<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>夜里睡不着，又计画着明天吃辣子鸡，又怕和前回吃过的那一碟做得不一样，愈加睡不着了。坐起来点灯看《语丝》，不幸就看见了徐志摩先生的神秘谈（２），——不，“都是音乐”，是听到了音乐先生的音乐：“……我不仅会听有音的乐，我也会听无音的乐（其实也有音就是你听不见），我直认我是一个甘脆的Ｍｙｓ－ｔｉｃ（３）。我深信……” <br/><br/>　　此后还有什么什么“都是音乐”云云，云云云云（４）。总之：“你听不着就该怨你自己的耳轮太笨或是皮粗”！ <br/><br/>　　我这时立即疑心自己皮粗，用左手一摸右胳膊，的确并不滑；再一摸耳轮，却摸不出笨也与否。然而皮是粗定了：不幸而“拊不留手”的竟不是我的皮，还能听到什么庄周先生所指教的天籁地籁和人籁（５）。但是，我的心还不死，再听罢，仍然没有，——阿，仿佛有了，像是电影广告的军乐。呸！错了。这是“绝妙的音乐”么？再听罢，没……唔，音乐，似乎有了： <br/><br/>　　“……慈悲而残忍的金苍蝇，展开馥郁的安琪儿的黄翅，，颉利，弥缚谛弥谛，从荆芥萝卜玎琤oe洋的彤海里起来。Ｂｒ－ｒｒｒｔａｔａｔａｔａｈｉｔａｌ无终始的金刚石天堂的娇袅鬼茱萸，蘸着半分之一的北斗的蓝血，将翠绿的忏悔写在腐烂的鹦哥伯伯的狗肺上！你不懂么？ <br/><br/>　　咄！吁，我将死矣！婀娜涟漪的天狼的香而秽恶的光明的利镞，射中了塌鼻阿牛的妖艳光滑蓬松而冰冷的秃头，一匹黯黮欢愉的瘦螳螂飞去了。哈，我不死矣！无终……”（６）　　危险，我又疑心我发热了，发昏了，立刻自省，即知道又不然。这不过是一面想吃辣子鸡，一面自己胡说八道；如果是发热发昏而听到的音乐，一定还要神妙些。并且其实连电影广告的军乐也没有听到，倘说是幻觉，大概也不过自欺之谈，还要给粗皮来粉饰的妄想。我不幸终于难免成为一个苦韧的非Ｍｙｓｔｉｃ了，怨谁呢。只能恭颂志摩先生的福气大，能听到这许多“绝妙的音乐”而已。但倘有不知道自怨自艾的人，想将这位先生“送进疯人院”去，我可要拚命反对，尽力呼冤的，——虽然将音乐送进音乐里去，从甘脆的Ｍｙｓｔｉｃ看来，并不算什么一回事。 <br/><br/>　　然而音乐又何等好听呵，音乐呀！再来听一听罢，可惜而且可恨，在檐下已有麻雀儿叫起来了。 <br/><br/>　　咦，玲珑零星邦滂砰珉的小雀儿呵，你总依然是不管甚么地方都飞到，而且照例来唧唧啾啾地叫，轻飘飘地跳么？然而这也是音乐呀，只能怨自己的皮粗。 <br/><br/>　　只要一叫而人们大抵震悚的怪鸱的真的恶声在那里！？ <br/><br/>　　（１）本篇最初发表于一九二四年十二月十五日《语丝》周刊第五期。 <br/><br/>　　（２）徐志摩的神秘谈一九二四年十二月一日《语丝》周刊第三期刊登了徐志摩译的法国波德莱尔《恶之华》诗集中《死尸》一诗，诗前有徐志摩的长篇议论，宣扬“诗的真妙处不在他的字义里，却在他的不可捉摸的音节里；他刺戟着也不是你的皮肤（那本来就太粗太厚！）却是你自己一样不可捉摸的魂灵”等神秘主义的文艺论。（３）Ｍｙｓｔｉｃ英语：神秘主义者。 <br/><br/>　　（４）“都是音乐”徐志摩在译诗前的议论中说：“我深信宇宙的底质，人生的底质，一切有形的事物与无形的思想的底质——只是音乐，绝妙的音乐。天上的星，水里泅的乳白鸭，树林里冒的烟，朋友的信，战场上的炮，坟堆里的鬼Y��锟谀侵皇�*子，我昨夜的梦，……无一不是音乐。你就把我送进疯人院去，我还是咬定牙龈认账的。是的，都是音乐——庄周说的天籁地籁人籁；全是的。你听不着就该怨你自己的耳轮太笨，或是皮粗，别怨我。” <br/><br/>　　（５）庄周（约前３６９—２８６）战国宋国人，道家学派的代表人物之一。天籁地籁和人籁，见《庄子·齐物论》：“女闻人籁而未闻地籁，女闻地籁而未闻天籁夫？” <br/><br/>　　（６）“慈悲而残忍的金苍蝇”一段话，是鲁迅为讽刺徐志摩的神秘主义论调和译诗而编造的。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-540-6905.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-540-6907.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-540.html" action-type="chapterComment" class="comment"><i></i>集外集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

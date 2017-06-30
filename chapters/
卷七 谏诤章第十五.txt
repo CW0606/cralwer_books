@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孝经注疏》正文_卷七 谏诤章第十五_注 唐·李隆基，疏 宋·邢昺作品 - 维普阅读网</title>
+<meta name="keywords" content="孝经注疏,孝经注疏原文,孝经注疏阅读,卷七 谏诤章第十五全文,注 唐·李隆基，疏 宋·邢昺作品" />
+<meta name="description" content="孝经注疏原文阅读,卷七 谏诤章第十五全文在线阅读,注 唐·李隆基，疏 宋·邢昺作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1425-26383.html";
+var nextpage="novel-read-1425-26385.html";
+var indexpage = "novel-chapter-1425.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1425.html">孝经注疏</a></strong>
+<strong><a href="novel-chapter-1425.html">孝经注疏目录</a></strong>
+<span>卷七 谏诤章第十五</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1425-26383.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷七 谏诤章第十五</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=注 唐·李隆基，疏 宋·邢昺&amp;searchsubmit=yes"  target="_blank">注 唐·李隆基，疏 宋·邢昺</a><span class="divide">|</span>发布时间：2016-07-22 22:49:07<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p> [疏]正义曰：此章言为臣子之道，若遇君父有失，皆谏争也。曾子问闻扬名已上之义，而问子从父之令。夫子以令有善恶，不可尽从，乃为述谏争之事，故以名章，次《扬名》之后。<br/><br/>　<br/><br/>　　曾子曰：“若夫慈爱恭敬，安亲扬名，则闻命矣。敢问子从父之令，可谓孝乎？”事父有隐无犯，又敬不违，故疑而问之。<br/><br/>　　[疏]曾子至孝乎。<br/><br/>　　○正义曰：前章以来，唯论爱敬及安亲之事，未说规谏之道。故又假曾子之问曰：若夫慈爱恭敬，安亲扬名，则已闻命矣。敢问子从父之教令，亦可谓之孝乎？疑而问之，故称“乎”也。寻上所陈，唯言敬爱，未及慈恭。而曾子并言慈恭已闻命矣者，皇侃以为“上陈爱敬，则包於慈恭矣。慈者孜孜，爱者念惜，恭者貌多心少，敬者心多貌少”。如侃之说，则慈、恭、爱、敬之别，何故云包慈恭也？或曰：慈者接下之别名，爱者奉上之通称。刘炫引《礼记·内则》，说子事父母，“慈以旨甘”。《丧服四制》云：“高宗慈良於丧。”《庄子》曰：“事亲则孝慈。”此并施於事上。夫爱出於内，慈为爱体；敬生於心，恭为敬貌。此经悉陈事亲之迹，宁有接下之文？夫子据心而为言，所以唯称爱敬；曾参体貌而兼取，所以并举慈恭。如刘炫此言，则知慈是爱亲也，恭是敬亲也。安亲，则上章云“故生则亲安之”，扬名，即上章云“扬名於后世”矣。经称“夫”有六焉，盖发言之端也。一曰“夫孝，始於事亲”；二曰“夫孝，德之本”；三曰“夫孝，人之经”；四曰“夫然，故生则亲安之”；五曰“夫圣人之德”。此章云“若夫慈爱”，并卻明前理，而下有其趣，故言“夫”以起之。刘献曰：“夫犹凡也。”<br/>　　○注事父至问之。<br/>　　○正义曰：《礼记·檀弓》云“事亲有隐而无犯”，以经云“从父之令”，故注变亲为父。案《论语》云：“事父母几谏，见志不从，又敬不违。”引此二文以成疑，疏证曾子有可问之端也。<br/>　<br/><br/>　　子曰：“是何言与？是何言与？有非而从，成父不义，理所不可，故再言之。昔者，天子有争臣七人，虽无道，不失其天下。诸侯有争臣五人，虽无道，不失其国。大夫有争臣三人，虽无道，不失其家。降杀以两，尊卑之差。争谓谏也。言虽无道，为有争臣，则终不至失天下、亡家国也。士有争友，则身不离於令名。令，善也。益者三友。言受忠告，故不失其善名。父有争子，则身不陷於不义，父失则谏，故免陷於不义。故当不义，则子不可以不争於父，臣不可以不争於君。不争则非忠孝。故当不义则争之，从父之令，又焉得为孝乎？”<br/><br/>　　[疏]子曰至孝乎。<br/><br/>　　○正义曰：夫子以曾参所问，於理乖僻，非谏争之义，因乃诮而答之，曰：汝之此问，是何言与？再言之者，明其深不可也。既诮之后，乃为曾子说必须谏争之事，言臣之谏君，子之谏父，自古攸然。故言昔者天子治天下，有谏争之臣七人，虽复无道，昧於政教，不至失於天下。言无道者，谓无道德。诸侯有谏争之臣五人，虽无道，亦不失其国也。大夫有谏争之臣三人，虽无道，亦不失於其家。士有谏争之友，则其身不离远於善名也。父有谏争之子，则身不陷於不义。故君父有不义之事，凡为臣子者，不可以不谏争。以比之故，当不义则须谏之。又结此以答曾子曰：今若每事从父之令，又焉得为孝乎？言不得也。案曾子唯问从父之令，不指当时而言。“昔者”，皇侃云：“夫子述《孝经》之时，当周乱衰之代，无此谏争之臣，故言昔者也。”不言“先王”而言“天子”者，诸称先王，皆指圣德之主。此言“无道”，所以不称先王也。<br/>　　○注有非至不义。<br/>　　○正义曰：言父有非，子从而行，不谏，是成父之不义。云“理所不可，故再言之”者，义见於上。<br/>　　○注降杀至国也。<br/>　　○正义曰：《左传》云：“自上以下，降杀以两，礼也。”谓天子尊，故七人；诸侯卑於天子，降两，故有五人；大夫卑於诸侯，降两，故有三人。《论语》云：“信而后谏。”《左传》云：“伏死而争。”此盖谓极谏为争也。若随无道，人各有心，鬼神之主，季梁犹在，楚不敢伐，是有争臣不亡其国。举中而率，则大夫、天子从可知也。不言国家，嫌如独指一国也。国则诸侯也，家则大夫也。注贵省文，故曰家、国也。案孔、郑二注及先儒所传，并引《礼记·文王世子》以解七人之义。案《文王世子记》曰：“虞、夏、商、周，有师保，有疑丞。设四辅及三公，不必备，惟其人。”又《尚书大传》曰：“古者天子必有四邻，前曰疑、后曰丞、左曰辅、右曰弼，天子有问无对，责之疑；可志而不志，责之丞；可正而不正，责之辅；可扬而不扬，责之弼。其爵视卿，其禄视次国之君。”《大传》四邻则见之四辅，兼三公，以充七人之数。诸侯五者，孔传指天子所命之孤，及三卿与上大夫。王肃指三卿、内史、外史以充五人之数。大夫三者，孔传指家相、室老、侧室以充三人之数。王肃无侧室，而谓邑宰。斯并以意解说，恐非经义。刘炫云：“案下文云‘子不可以不争於父，臣不可以不争於君’，则为子为臣，皆当谏争，岂独大臣当争，小臣不争乎？岂独长子当争其父，众子不争者乎？若父有十子，皆得谏争。王之百辟，惟许七人，是天子之佐乃少於匹夫也。又案《洛诰》云成王谓周公曰：‘诞保文武受民，乱为四辅。’《冏命》穆王命伯冏：‘惟予一人无良，实赖左右前后有位之士匡其不及。’”据此而言，则左右前后四辅之谓也。疑、丞、辅、弼，当指於诸臣，非是别立官也。谨案：《周礼》不列疑、丞，《周官》历叙群司，《顾命》总名卿士，《左传》云“龙师”、“鸟纪”，《曲礼》云“五官”、“六大”，无言疑、丞、辅、弼专掌谏争者。若使爵视於卿、禄比次国，《周礼》何以不载？经传何以无文？且伏生《大传》以四辅解为四邻，孔注《尚书》以四邻为前后左右之臣，而不为疑、丞、辅、弼，安得又采其说也？《左传》称周主申父之为太史也，命百官官箴王阙；师旷说匡谏之事，“史为书，瞽为诗，工诵箴谏，大夫规诲，士传言。‘官师相规，工执艺事以谏’”。此则凡在人臣。皆合谏也。夫子言天子有天下之广。七人则足以见谏争功之大，故举少以言之也。然父有争子，士有争友，虽无定数，要一人为率。自下而上，稍增二人，则从上而下，当如礼之降杀，故举七、五、三人也。刘炫之谠义杂合通途，何者？传载：忠言比於药石，逆耳苦口，随要而施。若指不备之员以匡无道之主，欲求不失，其可得乎？先儒所论，今不取也。<br/>　　○注令善至善名。<br/>　　○正义曰：“令，善也”，《释诂》文。云“益者三友”，《论语》文，即“友直、友谅、友多闻，益矣”是也。云“言受忠告，故不失其善名”者，《论语》云：“子贡问友，子曰：‘忠告而善道之。’”言善名为受忠告而后成也。大夫以上皆云“不失”，士独云“不离”，不离，即不失也。<br/>　　○注父失至不义。<br/>　　○正义曰：此依郑注也。案《内则》云：“父母有过，下气怡色，柔声以谏。谏若不入，起敬起孝，说则复谏。”《曲礼》曰：“子之事亲也，三谏而不听，则号泣而随之。”言父有非，故须谏之以正道，庶免陷於不义也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1425-26383.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1425-26385.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1425.html" action-type="chapterComment" class="comment"><i></i>孝经注疏章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

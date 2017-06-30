@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孔子家语》正文_冠颂_王肃作品 - 维普阅读网</title>
+<meta name="keywords" content="孔子家语,孔子家语原文,孔子家语阅读,冠颂全文,王肃作品" />
+<meta name="description" content="孔子家语原文阅读,冠颂全文在线阅读,王肃作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-349-5198.html";
+var nextpage="novel-read-349-5200.html";
+var indexpage = "novel-chapter-349.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-349.html">孔子家语</a></strong>
+<strong><a href="novel-chapter-349.html">孔子家语目录</a></strong>
+<span>冠颂</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-349-5198.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>冠颂</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王肃&amp;searchsubmit=yes"  target="_blank">王肃</a><span class="divide">|</span>发布时间：2014-09-05 21:47:33<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>邾隐公既即位，将冠，使大夫因孟懿子问礼于孔子。子曰：“其礼如世子之冠。冠于阼者，以着代也，阼主人之阶以明其代父醮于客位，加其有成，冠于阶若不体则醮用酒于客位敬而成之户西为客位。醮子肖反三加弥尊，导喻其志，喻其志使加弥尊宜敬成始缁布次皮弁次爵弁冠而字之，敬其名也。虽天子之元子，犹士也，其礼无变，天下无生而贵者故也。行冠事必于祖庙，以祼享之，礼以将之，祼灌鬯也灌鬯以享神享献将行也鬯刃亮反以金石之乐节之，金石者钟磬也所以自卑而尊先祖，示不敢擅。”懿子曰：“天子未冠即位，长亦冠也。”孔子曰：“古者王世子虽幼，其即位则尊为人君，人君治成人之事者，何冠之有。”懿子曰：“然则诸侯之冠，异天子与？”怪天子无冠礼如诸侯之冠故问之孔子曰：“君薨而世子主丧，是亦冠也已，人君无所殊也。”诸侯亦人君与天子无异懿子曰：“今邾君之冠，非礼也。”懿子亦诸侯无冠则邾君之冠非也孔子曰：“诸侯之有冠礼也，夏之末造也，夏之末世乃造诸侯冠礼有自来矣，今无讥焉。言有所从来故今无所讥天子冠者，武王崩，成王年十有三而嗣立，周公居冢宰，摄政以治天下，明年夏六月，既葬，周书亦曰岁十有三武王崩元年六月葬与此若合符而说者横为年纪蹙促成年少又命周公武王崩后五月乃摄政良可为冠与痛哉冠成王而朝于祖，以见诸侯，亦有君也。周公命祝雍作颂曰：‘祝王达而未幼。’祝雍辞曰：‘使王近于民，常得民之心也远于年，寿长啬于时，啬爱也于时不夺民时也惠于财，亲贤而任能。’其颂曰：‘令月吉日，王始加元服，去王幼志，服衮职，衮职盛服有礼文也钦若昊命，钦敬若顺六合是式，天地四方谓之六合言为之法式率尔祖考，永永无极。’此周公之制也。”懿子曰：“诸侯之冠，其所以为宾主，何也？”孔子曰：“公冠则以卿为宾，无介公自为主，迎宾揖升自阼，立于席北，其醴也则如士，飨之以三献之礼，既醴，降自阼阶。诸侯非公而自为主者，其所以异，皆降自西阶，西阶宾也玄端与皮弁，玄端缁布冠之服皮弁自服其服也异朝服素毕，服朝而毕示不忘古公冠四，公四加冠加玄冕祭，加玄冕着祭服其酬币于宾，则束帛乘马，已冠而飨既飨与宾币谓之人币乘马驷马也王太子庶子之冠拟焉，王之太子庶子皆拟诸侯冠礼也皆天子自为三，其礼与士无变，飨食宾也，皆同。”懿子曰：“始冠必加缁布之冠，何也？”孔子曰：“示不忘古，太古冠布斋则缁之，其緌也吾未之闻，言今有緌未闻之于古古无緌也緌冠之饰也今则冠而币之，可也。”今不复冠币布币之不复者也懿子曰：“三王之冠，其异何也？”孔子曰：“周弁，殷哻，夏收，一也。皆祭服也三王共皮弁，素緌委貌，周道也；章甫，殷道也；母追，夏后氏之道也。”常所服之冠也</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-349-5198.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-349-5200.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-349.html" action-type="chapterComment" class="comment"><i></i>孔子家语章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

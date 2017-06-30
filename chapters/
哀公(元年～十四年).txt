@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《春秋谷梁传》正文_哀公(元年～十四年)_谷梁赤作品 - 维普阅读网</title>
+<meta name="keywords" content="春秋谷梁传,春秋谷梁传原文,春秋谷梁传阅读,哀公(元年～十四年)全文,谷梁赤作品" />
+<meta name="description" content="春秋谷梁传原文阅读,哀公(元年～十四年)全文在线阅读,谷梁赤作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-264-4461.html";
+var nextpage="novel-chapter-264.html";
+var indexpage = "novel-chapter-264.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-264.html">春秋谷梁传</a></strong>
+<strong><a href="novel-chapter-264.html">春秋谷梁传目录</a></strong>
+<span>哀公(元年～十四年)</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-264-4461.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>哀公(元年～十四年)</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=谷梁赤&amp;searchsubmit=yes"  target="_blank">谷梁赤</a><span class="divide">|</span>发布时间：2014-08-28 22:06:06<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>哀公元年<br/><br/>　　元年春，王正月，公即位。楚子、陈侯、随侯、许男围蔡。鼷鼠食郊牛角，改卜牛。<br/><br/>　　夏，四月辛巳郊。此该郊之变而道之也。于变之中又有言焉：鼷鼠食郊牛角，改卜牛，志不敬也。郊牛日展角斗角而知伤，展道尽矣。郊自正月至于三月，郊之时也。夏四月郊，不时也。五月郊，不时也。夏之始，可以承春；以秋之末承春之始，盖不可矣。九月用郊，用者，不宜用者也。郊三卜，礼也；四卜非礼也；五卜，强也。卜免牲者，吉则免之，不吉则否。牛伤，不言伤之者，伤自牛作也，故其辞缓。全曰牲，伤曰牛，未牲曰牛，其牛一也，其所以为牛者异。有变而不郊，故卜免牛也。已牛矣，其尚卜免之何也？礼，与其亡也，宁有。尝置之上帝矣，故卜而后免之，不敢专也。卜之不吉则如之何？不免，安置之，系而待六月上甲始庀牲，然后左右之。子之所言者，牲之变也，而曰我一该郊之变而道之何也？我以六月上甲始庀牲，十月上甲始系牲。十一月、十二月牲虽有变，不道也，待正月然后言牲之变，此乃所以该郊。郊，享道也，贵其时，大其礼，其养牲虽小不备可也。子不志三月卜郊何也？郊自正月至于三月，郊之时也。我以十二月下辛卜正月上辛，如不从，则以正月下辛卜二月上辛；如不从，则以二月下辛卜三月上辛，如不从，则不郊矣。<br/><br/>　　秋，齐侯、卫侯伐晋。<br/><br/>　　冬，仲孙何忌帅师伐邾。<br/><br/>　　----------<br/><br/>　　哀公二年<br/><br/>　　二年春，王二月，季孙斯、叔孙州仇、仲孙何忌帅师伐邾，取漷东田，氵郭东，未尽也。及沂西田。沂西，未尽也。癸巳，叔孙州仇、仲孙何忌及邾子盟于句绎。三人伐而二人盟何也？各盟其得也。<br/><br/>　　夏，四月丙子，卫侯元卒。滕子来朝。晋赵鞅帅师纳卫世子蒯聩于戚。纳者，内弗受也。帅师而后纳者，有伐也。何用弗受也？以辄不受也，以辄不受父之命，受之王父也。信父而辞王父，则是不尊王父也。其弗受，以尊王父也。<br/><br/>　　秋，八月甲戌，晋赵鞅帅师及郑罕达帅师战于铁。郑师败绩。<br/><br/>　　冬，十月，葬卫灵公。<br/><br/>　　十有一月，蔡迁于州来。蔡杀其大夫公子驷。<br/><br/>　　----------<br/><br/>　　哀公三年<br/><br/>　　三年春，齐国夏、卫石曼姑帅师围戚。此卫事也，其先国夏何也？子不围父也。不系戚于卫者，子不有父也。<br/><br/>　　夏，四月甲午，地震。<br/><br/>　　五月辛卯，桓宫、僖宫灾。言及则祖有尊卑，由我言之则一也。季孙斯、叔孙州仇帅师城启阳。宋乐髡帅师伐曹。<br/><br/>　　秋，七月丙子，季孙斯卒。蔡人放其大夫公孙猎于吴。<br/><br/>　　冬，十月癸卯，秦伯卒。叔孙州仇、仲孙何忌帅师围邾。<br/><br/>　　----------<br/><br/>　　哀公四年<br/><br/>　　四年春，王二月庚戌，盗弑蔡侯申。称盗以弑君，不以上下道道也。内其君而外弑者，不以弑道道也。《春秋》有三盗：微杀大夫谓之盗，非所取而取之谓之盗，辟中国之正道以袭利谓之盗。蔡公孙辰出奔吴。葬秦惠公。宋人执小邾子。<br/><br/>　　夏，蔡杀其大夫公孙姓、公孙霍。晋人执戎蛮子赤归于楚。城西郛。<br/><br/>　　六月辛丑，亳社灾。亳社者，亳之社也。亳，亡国也。亡国之社以为庙屏，戒也。其屋，亡国之社不得上达也。<br/><br/>　　秋，八月甲寅，滕子结卒。<br/><br/>　　冬，十有二月，葬蔡昭公。葬滕顷公。<br/><br/>　　----------<br/><br/>　　哀公五年<br/><br/>　　五年春，城毘。<br/><br/>　　夏，齐侯伐宋。晋赵鞅帅师伐卫。<br/><br/>　　秋，九月癸酉，齐侯杵臼卒。<br/><br/>　　冬，叔还如齐。闰月，葬齐景公。不正其闰也。<br/><br/>　　----------<br/><br/>　　哀公六年<br/><br/>　　六年春，城邾瑕。晋赵鞅帅师伐鲜虞。吴伐陈。<br/><br/>　　夏，齐国夏及高张来奔。叔还会吴于柤。<br/><br/>　　秋，七月庚寅，楚子轸卒。齐阳生入于齐，齐陈乞弑其君荼。阳生入而弑其君，以陈乞主之何也？不以阳生君茶也，其不以阳生君荼何也？阳生正，荼不正。不正则其曰君何也？荼虽不正，已受命矣。入者，内弗受也。荼不正，何用弗受？以其受命，可以言弗受也。阳生其以国氏何也？取国于荼也。<br/><br/>　　冬，仲孙何忌帅师伐邾。宋向巢帅师伐曹。<br/><br/>　　----------<br/><br/>　　哀公七年<br/><br/>　　七年春，宋皇瑗帅师侵郑。晋魏曼多帅师侵卫。<br/><br/>　　夏，公会吴于缯。<br/><br/>　　秋，公伐邾。<br/><br/>　　八月己酉，入邾，以邾子益来。以者，不以者也。益之名，恶也。《春秋》有临天下之言焉，有临一国之言焉，有临一家之言焉。其言来者，有外鲁之辞焉。宋人围曹。<br/><br/>　　冬，郑驷弘帅师救曹。<br/><br/>　　----------<br/><br/>　　哀公八年<br/><br/>　　八年春，王正月，宋公入曹，以曹伯阳归。吴伐我。<br/><br/>　　夏，齐人取讠雚及阐。恶内也。归邾子益于邾。益之名，失国也。<br/><br/>　　秋，七月。<br/><br/>　　冬，十有二月癸亥，杞伯过卒。齐人归讠雚及阐。<br/><br/>　　----------<br/><br/>　　哀公九年<br/><br/>　　九年春，王二月，葬杞僖公。宋皇瑗帅师取郑师于雍丘。取，易辞也。以师而易取，郑病矣。<br/><br/>　　夏，楚人伐陈。<br/><br/>　　秋，宋公伐郑。<br/><br/>　　冬，十月。<br/><br/>　　----------<br/><br/>　　哀公十年<br/><br/>　　十年春，王二月，邾子益来奔。公会吴伐齐。<br/><br/>　　三月戊戌，齐侯阳生卒。<br/><br/>　　夏，宋人伐郑。晋赵鞅帅师侵齐。<br/><br/>　　五月，公至自伐齐。葬齐悼公。卫公孟彄自齐归于卫。薛伯夷卒。<br/><br/>　　秋，葬薛惠公。<br/><br/>　　冬，楚公子结帅师伐陈，吴救陈。<br/><br/>　　----------<br/><br/>　　哀公十一年<br/><br/>　　十有一年春，齐国书帅师伐我。<br/><br/>　　夏，陈辕颇出奔郑。<br/><br/>　　五月，公会吴伐齐。甲戌，齐国书帅师及吴战于艾陵。齐师败绩。获齐国书。<br/><br/>　　秋，七月辛酉，滕子虞母卒。<br/><br/>　　冬，十有一月，葬滕隐公。卫世叔齐出奔宋。<br/><br/>　　----------<br/><br/>　　哀公十二年<br/><br/>　　十有二年春，用田赋。古者公田什一，用田赋非正也。<br/><br/>　　夏，五月甲辰，孟子卒。孟子者何也？昭公夫人也。其不言夫人何也？讳取同姓也。公会吴于橐皋。<br/><br/>　　秋，公会卫侯、宋皇瑗于郧。宋向巢帅师伐郑。<br/><br/>　　冬，十有二月，螽。<br/><br/>　　----------<br/><br/>　　哀公十三年<br/><br/>　　十有三年春，郑罕达帅师取宋师于嵒。取，易辞也。以师而易取，宋病矣。<br/><br/>　　夏，许男成卒。公会晋侯及吴子于黄池。黄池之会，吴子进乎哉！遂子矣。吴，夷狄之国也，祝发文身，欲因鲁之礼，因晋之权，而请冠、端而袭其藉于成周，以尊天王。吴进矣！吴，东方之大国也，累累致小国以会诸侯，以合乎中国。吴能为之，则不臣乎？吴进矣！王，尊称也。子，卑称也。辞尊称而居卑称，以会乎诸侯，以尊天王。吴王夫差曰：“好冠来！”孔子曰：“大矣哉！夫差未能言冠而欲冠也。”楚公子申帅师伐陈。于越入吴。<br/><br/>　　秋，公至自会。晋魏曼多帅师侵卫。葬许元公。<br/><br/>　　九月，螽。<br/><br/>　　冬，十有一月，有星孛于东方。盗杀陈夏区夫。<br/><br/>　　十有二月，螽。<br/><br/>　　----------<br/><br/>　　哀公十四年<br/><br/>　　十有四年春，西狩获麟。引取之也。狩地不地，不狩也。非狩而曰狩，大获麟，故大其适也。其不言来，不外麟于中国也。其不言有，不使麟不恒于中国也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-264-4461.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-264.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-264.html" action-type="chapterComment" class="comment"><i></i>春秋谷梁传章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

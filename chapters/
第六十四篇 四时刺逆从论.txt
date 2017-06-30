@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《黄帝内经》正文_第六十四篇 四时刺逆从论_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="黄帝内经,黄帝内经原文,黄帝内经阅读,第六十四篇 四时刺逆从论全文,佚名作品" />
+<meta name="description" content="黄帝内经原文阅读,第六十四篇 四时刺逆从论全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-58-1821.html";
+var nextpage="novel-read-58-1823.html";
+var indexpage = "novel-chapter-58.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-58.html">黄帝内经</a></strong>
+<strong><a href="novel-chapter-58.html">黄帝内经目录</a></strong>
+<span>第六十四篇 四时刺逆从论</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-58-1821.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第六十四篇 四时刺逆从论</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-07-29 22:07:52<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　厥阴有余，病阴痹；不足，病生热痹；滑则病狐疝风；涩则病少腹积气。少阴有余，病皮痹隐轸；不足，病肺痹；滑则病肺风疝；涩则病积，溲血。太阴有余，病肉痹寒中；不足，病脾痹；滑则病脾风疝；涩则病积，心腹时满。阳明有余，病脉痹，身时热；不足，病心痹；滑则病心风疝；涩则病积，时善惊。太阳有余，病骨痹身重；不足，病肾痹；滑则病肾风疝；涩则病积，善时巅疾。少阳有余，病筋痹胁满；不足，病肝痹；滑则病肝风疝；涩则病积，时筋急目痛。是故春气在经脉，夏气在孙络，长夏气在肌肉，秋气在皮肤，冬气在骨髓中。<br/>　　帝曰：余愿闻其故？<br/>　　岐伯曰：春者，天气始开，地气始泄，冻解冰释，水行经通，故人气在脉。夏者，经满气溢，入孙络受血，皮肤充实。长夏者，经络皆盛，内溢肌中。秋者，天气始收，腠理闭塞，皮肤引急。冬者盖藏，血气在中，内著骨髓，通于五脏。是故邪气者，常随四时之气血而入客也，至其变化，不可为度，然必从其经气，辟除其邪，除其邪则乱气不生。<br/>　　【译文】<br/>　　厥阴之气过盛，就会发生阴痹；不足则发生热痹；气血过于滑利则患狐疝风；气血运行涩滞则形成少腹中有积气。少阴之气有余，可以发生皮痹和隐疹；不足则发生 肺痹；气血过于滑利则患肺风疝；气血运行涩滞则病积聚和尿血。太阴之气有余，可以发生肉痹和寒中；不足则发生脾痹；气血过于滑利则患脾风疝；气血运行涩滞 则病积聚和心腹胀满。阳明之气有余，可以发生脉痹，身体有时发热；不足则发生心痹；气血过于滑利则患心风疝；气血运行涩滞则病积聚和不时惊恐。太阳之气有 余，可以发生骨痹、身体沉重；不足则发生肾痹；气血过于滑利则患肾风疝；气血运行涩滞则病积聚，且不时发生巅顶部疾病。少阳之气有余，可以发生筋痹和胁肋 满闷；不足则发身肝痹；气血过于滑利则患肝风疝；气血运行涩滞则病积聚，有时发生筋脉拘急和眼目疼痛等。所以春天人的气血在经脉，夏天人的气血在孙络，长夏人的气血在肌肉，秋天人的气血在皮肤，冬天人的气血在骨髓中。<br/>　　黄帝说：我想听听其中的道理。<br/>　　岐伯说：春季，天之阳气开始启动，地之阴气也开始发泄，冬天的并冰冻时逐渐融化解释，水道通行，所以人的气血也集中在经脉中 流行。夏季，经脉中气血充满而流溢于孙络，孙络接受了气血，皮肤也变得充实了。长夏，经脉和络脉中的气血都很旺盛，所以能充分地灌溉润泽于肌肉之中。秋 季，天气开始收敛，腠理随之而闭塞，皮肤也收缩紧密起来了。冬季主闭藏，人身的气血收藏在内，聚集于骨髓，并内通于五脏。所以邪气也往往随着四时气血的变 化而侵入人体相应的部位，若待其发生了变化，那就难以预测了；但必须顺应四时经气的变化及早进行调治，驱除侵入的邪气，那么气血就不致变化逆乱了。<br/>　　【原文】<br/>　　帝曰：逆四时而生乱气，奈何？<br/>　　岐伯曰：春刺络脉，血气外溢，令人少气；春刺肌肉，血气环逆，令人上气。春刺筋骨，血气内著，令人腹胀。夏刺经脉，血气乃竭，令人解（亻亦）；夏刺肌肉，血气内却，令人善怒；夏刺筋骨，血气上逆，令人善怒。秋刺经脉，血气上逆，令人善忘；秋刺络脉，气不外行，令人卧不欲动；秋刺筋骨，血气内散，令人寒栗，冬刺经脉，血气皆脱，令人目不明；冬刺络脉，内气外泄，留为大痹；冬刺肌肉，阳气竭绝，令人善忘。凡此四时刺者，大逆大病，不可不从也；反之，则生乱气，相淫病焉。故刺不知四时之经，病之所生，以从为逆，正气内乱，与精相薄，必审九候，正气不乱，精气不转。<br/>　　帝曰：善。刺五脏，中心一日死，其动为噫；中肝五日死，其动为语；中肺三日死，其动为咳；中肾六日死，其动为嚏欠；中脾十日死，其动为吞。刺伤人五脏必死，其动则依其脏之所变，候知其死也。<br/>　　【译文】<br/>　　黄帝道：针刺违反了四时而导致气血逆乱是怎样的？<br/>　　岐伯说：春天刺络脉，会使血气向外散溢，使人发生少气无力；春天刺肌肉，会使血气循环逆乱，使人发生上气咳喘；春天刺筋骨，会使血气留著在内，使人发生腹胀。夏天刺经脉，会使血气衰竭，使人疲倦懈惰；夏天刺肌肉，会使血气却弱于内，使人易于恐惧；夏天刺筋骨，会使血气上逆，使人易于发怒。秋天刺经脉，会使血气上逆，使人易于忘事；秋天刺络脉，但人体气血正直内敛而不能外行，所以使人阳气不足而嗜卧懒动；秋天刺筋骨，会使血气耗散与内，使人发生寒战。冬天刺经脉，会使血气虚脱，使人发生目视不明；冬天刺络脉，则收敛在内的真气外泄，体内血行不畅而成“大痹”；冬天刺肌肉，会使阳气竭绝于外，使人易于忘事。以上这些四时的刺法，都将严重地违背四时变化而导致疾病发生，所以不能不注意顺应四时变化而施刺；否则就会产生逆乱之气，扰乱人体生理功能而生病的呀！所以针刺不懂得四时经气的盛衰和疾病之所以产生的道理，不是顺应四时而是违背四时变化，从而导致正气逆乱于内，邪气便与精气相结聚了。一定要仔细审察九侯的脉象，这样进行针刺，正气就不会逆乱了，邪气也不会与精气相结聚了。<br/>　　黄帝说：讲得好！如果针刺误中了五脏，刺中心脏一天就要死亡，其变动的症状为噫气；刺中肝脏五天就要死亡，其变动的症状为多语；刺中肺脏三天就要死亡，其变动的症状为咳嗽；刺中肾脏六天就要死亡，其变动的症状为喷嚏和哈欠；刺中脾脏十天就要死亡，其变动的症状为吞咽之状等。刺伤了人的五脏，必致死亡，其变动的症状也随所伤之脏而又各不相同，因此可以根据它来测知死亡的日期。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-58-1821.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-58-1823.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-58.html" action-type="chapterComment" class="comment"><i></i>黄帝内经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

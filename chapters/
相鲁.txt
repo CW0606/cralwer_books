@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孔子家语》正文_相鲁_王肃作品 - 维普阅读网</title>
+<meta name="keywords" content="孔子家语,孔子家语原文,孔子家语阅读,相鲁全文,王肃作品" />
+<meta name="description" content="孔子家语原文阅读,相鲁全文在线阅读,王肃作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-349.html";
+var nextpage="novel-read-349-5168.html";
+var indexpage = "novel-chapter-349.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-349.html">孔子家语</a></strong>
+<strong><a href="novel-chapter-349.html">孔子家语目录</a></strong>
+<span>相鲁</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-349.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>相鲁</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王肃&amp;searchsubmit=yes"  target="_blank">王肃</a><span class="divide">|</span>发布时间：2014-09-05 21:34:02<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>孔子初仕为中都宰，中都鲁邑制为养生送死之节，长幼异食、如礼年五十异食也强弱异任、任谓力作之事各从所任不用弱也男女别涂、路无拾遗、器不雕伪，无文饰雕画不诈伪为四寸之棺，五寸之椁，以木为椁因丘陵为坟，不封、不聚土以起坟者也不树，不树松柏行之一年，而西方之诸侯则焉。鲁国在东故西方诸侯皆法则定公谓孔子曰：“学子此法，以治鲁国何如？”孔子对曰：“虽天下可乎，何但鲁国而已哉。于是二年，定公以为司空。乃别五土之性，五土之性一曰山林二曰川泽三曰丘陵四曰坟衍五曰原隰而物各得其所生之宜，所生之物各得其宜咸得厥所。先时季氏葬昭公于墓道之南，季平子逐昭公死于干侯平子别而葬之贬之不令近先公也孔子沟而合诸墓焉。谓季桓子曰：“贬君以彰己罪，非礼也，桓子平子之子今合之，所以揜夫子之不臣。”由司空为鲁大司寇。设法而不用，无奸民。<br/>　　定公与齐侯会于夹谷，孔子摄相事，曰：“臣闻有文事者，必有武备。有武事者，必有文备，古者诸侯并出疆，必具官以从，请具左右司马。”定公从之。至会所，为坛位土阶三等，以遇礼相见，会遇之礼礼之简略者也揖让而登，献酢既毕，齐使莱人以兵鼓●劫定公。莱人齐人东夷雷鼓曰●孔子历阶而进，以公退曰：“士以兵之，吾两君为好，裔夷之俘，敢以兵乱之，裔边裔夷夷狄俘军所获虏也言此三者何敢以兵乱两君之好也非齐君所以命诸侯也，裔不谋夏、夷不乱华、华夏中国之名俘不干盟、兵不偪好、于神为不祥、于德为愆义、于人为失礼，君必不然。”齐侯心怍，麾而避之。有顷，齐奏宫中之乐，俳优侏儒戏于前。孔子趋进历阶而上，不尽一等，曰：“匹夫荧侮诸侯者，罪应诛，请右司马速刑焉。”于是斩侏儒，手足异处。齐侯惧，有惭色。将盟，齐人加载书曰：“齐师出境，而不以兵车三百乘从我者，有如此盟。”孔子使兹无还对曰：“鲁大夫也而不返我汶阳之田，吾以供命者，亦如之。”齐侯将设享礼，孔子谓梁丘据曰：“齐鲁之故，吾子何不闻焉？”梁丘据旧闻齐鲁之故事事既成矣，而又享之，是勤执事，且牺象不出门，作牺牛及象于其背为●嘉乐不野合，享而既具是弃礼，若其不具，是用秕粺，秕谷之不成者粺草之似谷者用秕粺君辱，弃礼名恶，子盍图之。夫享，所以昭德也，不昭，不如其已。”乃不果享。齐侯归，责其群臣曰：“鲁以君子道辅其君，而子独以夷狄道教寡人，使得罪。”于是乃归所侵鲁之四邑，及汶阳之田。四邑郓讙龟阴也洙有汶阳之田本鲁界<br/>　　孔子言于定公曰：“家不藏甲，卿大夫称家甲铠也邑无百雉之城，高丈长丈曰堵三堵曰雉古之制也。今三家过制，请皆损之。”乃使季氏宰仲由隳三都。叔孙不得意于季氏，因费宰公山弗扰率费人以袭鲁。孔子以公与季孙叔孙孟孙，入于费氏之宫，登武子之台；费人攻之，及台侧，孔子命申句须乐颀勒士众下伐之，费人北，遂隳三都之城。强公室，弱私家，尊君卑臣，政化大行。<br/>　　初，鲁之贩羊有沈犹氏者，常朝饮其羊以诈。市人有公慎氏者，妻淫不制。有慎溃氏，奢侈踰法。鲁之鬻六畜者，饰之以储价。及孔子之为政也，则沈犹氏不敢朝饮其羊。公慎氏出其妻。慎溃氏越境而徙。三月，则鬻牛马者不储价，卖羊豚者不加饰。男女行者，别其涂，道不拾遗。男尚忠信，女尚贞顺。四方客至于邑，不求有司，有司常供其职客不求而有司存焉皆如归焉。言如归家无所之也</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-349.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-349-5168.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-349.html" action-type="chapterComment" class="comment"><i></i>孔子家语章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

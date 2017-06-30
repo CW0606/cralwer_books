@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《二心集》正文_知难行难 _鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="二心集,二心集原文,二心集阅读,知难行难 全文,鲁迅作品" />
+<meta name="description" content="二心集原文阅读,知难行难 全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-534-6745.html";
+var nextpage="novel-read-534-6747.html";
+var indexpage = "novel-chapter-534.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-534.html">二心集</a></strong>
+<strong><a href="novel-chapter-534.html">二心集目录</a></strong>
+<span>知难行难 </span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-534-6745.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>知难行难 </strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 21:03:37<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>中国向来的老例，做皇帝做牢靠和做倒霉的时候，总要和文人学士扳一下子相好。做牢靠的时候是“偃武修文”②，粉饰粉饰；做倒霉的时候是又以为他们真有“治国平天下”③的大道，再问问看，要说得直白一点，就是见于《红楼梦》上的所谓“病笃乱投医”了。<br/>　　当“宣统皇帝”逊位逊到坐得无聊的时候，我们的胡适之博士曾经尽过这样的任务。④见过以后，也奇怪，人们不知怎的先问他们怎样的称呼，博士曰：<br/>　　“他叫我先生，我叫他皇上。”<br/>　　那时似乎并不谈什么国家大计，因为这“皇上”后来不过做了几首打油白话诗，终于无聊，而且还落得一个赶出金銮殿。现在可要阔了，听说想到东三省再去做皇帝呢。⑤而在上海，又以“蒋召见胡适之丁文江⑥”闻：“南京专电：丁文江，胡适，来京谒蒋，此来系奉蒋召，对大局有所垂询。……”（十月十四日《申报》。）现在没有人问他怎样的称呼。<br/>　　为什么呢？因为是知道的，这回是“我称他主席……”！<br/>　　安徽大学校长刘文典教授，因为不称“主席”而关了好多天，好容易才交保出外，⑦老同乡，旧同事，博士当然是知道的，所以，“我称他主席”！<br/>　　也没有人问他“垂询”些什么。<br/>　　为什么呢？因为这也是知道的，是“大局”。而且这“大局”也并无“国民党专政”和“英国式自由”的争论的麻烦，也没有“知难行易”和“知易行难”的争论⑧的麻烦，所以，博士就出来了。<br/>　　“新月派”的罗隆基⑨博士曰：“根本改组政府，……容纳全国各项人才代表各种政见的政府，……政治的意见，是可以牺牲的，是应该牺牲的。”（《沈阳事件》。）<br/>　　代表各种政见的人才，组成政府，又牺牲掉政治的意见，这种“政府”实在是神妙极了。但“知难行易”竟“垂询”于“知难，行亦不易”，倒也是一个先兆。 ======================================<br/><br/><br/>　　 本篇最初发表于一九三一年十二月十一日《十字街头》第一期，署名佩韦。<br/>　　②“偃武修文”语见《尚书·武成》。<br/>　　③“治国平天下”语出《礼记·大学》：“国治而后天下平。”<br/>　　④一九一二年一月一日南京临时政府成立后，清帝溥仪（宣统）于二月二十日被迫宣告退位；但按当时订立的优待皇室条件，仍留居故宫。关于胡适见溥仪的事，见《努力周报》第十二期（一九二二年七月）所载胡适的《宣统与胡适》一文。其中说：“阳历五月十七日清室宣统皇帝打电话来邀我进宫去谈谈。当时约定了五月三十日（阴历端午前一日）去看他。三十日上午，他派了一个太监来我家中接我。我们从神武门进宫，在养心殿见着清帝，我对他行了鞠躬礼，他请我坐，我就坐了。……他称我‘先生’；我称他‘皇上’。我们谈的大概都是文学的事，……他说他很赞成白话，他做旧诗，近来也试作新诗。”<br/>　　⑤溥仪于一九二四年冯玉祥的国民军进驻北京后，即被赶出清宫，搬进天津日本租界。一九三一年九一八事变后，日本帝国主义利用他作傀儡，于十一月间把他从天津送往东北；一九三二年三月伪“满洲国”成立时，他充当“执政”，一九三四年三月改称“康德皇帝”。<br/>　　⑥丁文江（1887～1936）字在君，江苏泰兴人，地质学家，政学系政客。一九二一年与胡适同办《努力周报》，提倡“好人政府”。一九二六年受孙传芳任命为淞沪商埠总办，后又投靠蒋介石。<br/>　　⑦刘文典（1889～1958）字叔雅，安徽合肥人。曾任北京大学、清华大学教授，安徽大学文学院院长兼预科主任等职。一九二八年十一月，他因安徽大学学潮被蒋介石召见时，称蒋为“先生”而不称“主席”，被蒋以“治学不严”为借口，当场拘押，同年十二月获释。<br/>　　⑧“知难行易”是孙中山提倡的一种学说，见于他一九一八年所写的《孙文学说》之中。这一学说认为“行先知后”，“不知亦能行”，批判了当时革命党人中的畏难退缩思想；但也夸大了所谓“先知先觉”者的个人作用。后来蒋介石等人利用这一学说，作为他们反革命反人民的哲学论据。《新月》第二卷第四号（一九二九年六月）转载了胡适所作的题为《知难，行亦不易》一文，批评“知难行易”学说，提出所谓“专家政治”的主张，要蒋介石政府“充分请教专家”，声言“此说（按指‘知难行易’）不修正，专家政治决不会实现”。当时胡适一派人的目的是要参加蒋介石政府。<br/>　　⑨罗隆基（1897～1965）字努生，江西安福人，新月派重要成员。曾留学美国。他写的《沈阳事件》，是评论九一八事变的小册子，一九三一年九月良友图书公司出版。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-534-6745.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-534-6747.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-534.html" action-type="chapterComment" class="comment"><i></i>二心集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

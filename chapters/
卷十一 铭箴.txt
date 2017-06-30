@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《文心雕龙》正文_卷十一 铭箴_刘勰作品 - 维普阅读网</title>
+<meta name="keywords" content="文心雕龙,文心雕龙原文,文心雕龙阅读,卷十一 铭箴全文,刘勰作品" />
+<meta name="description" content="文心雕龙原文阅读,卷十一 铭箴全文在线阅读,刘勰作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-665-8492.html";
+var nextpage="novel-read-665-8494.html";
+var indexpage = "novel-chapter-665.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-665.html">文心雕龙</a></strong>
+<strong><a href="novel-chapter-665.html">文心雕龙目录</a></strong>
+<span>卷十一 铭箴</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-665-8492.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷十一 铭箴</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘勰&amp;searchsubmit=yes"  target="_blank">刘勰</a><span class="divide">|</span>发布时间：2014-10-20 20:51:03<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　昔帝轩刻舆几以弼违，大禹勒笋虡而招谏。成汤盘盂，著日新之规；武王户席，题必诫之训。周公慎言于金人，仲尼革容于欹器，则先圣鉴戒，其来久矣。故铭者，名也，观器必也正名，审用贵乎慎德。盖臧武仲之论铭也，曰∶“天子令德，诸侯计功，大夫称伐。”夏铸九牧之金鼎，周勒肃慎之楛矢，令德之事也；吕望铭功于昆吾，仲山镂绩于庸器，计功之义也；魏颗纪勋于景钟，孔悝表勤于卫鼎，称伐之类也。若乃飞廉有石棺之锡，灵公有夺里之谥，铭发幽石，吁可怪矣！赵灵勒迹于番吾，秦昭刻博于华山，夸诞示后，吁可笑也！详观众例，铭义见矣。<br/><br/>　　至于始皇勒岳，政暴而文泽，亦有疏通之美焉。若班固《燕然》之勒，张昶《华阴》之碣，序亦盛矣。蔡邕铭思，独冠古今。桥公之钺，吐纳典谟；朱穆之鼎，全成碑文，溺所长也。至如敬通杂器，准矱武铭，而事非其物，繁略违中。崔骃品物，赞多戒少，李尤积篇，义俭辞碎。蓍龟神物，而居博奕之中；衡斛嘉量，而在臼杵之末。曾名品之未暇，何事理之能闲哉！魏文九宝，器利辞钝。唯张载《剑阁》，其才清采。迅足骎骎，后发前至，勒铭岷汉，得其宜矣。<br/><br/>　　箴者，针也，所以攻疾防患，喻针石也。斯文之兴，盛于三代。夏商二箴，馀句颇存。周之辛甲，百官箴阙，唯《虞箴》一篇，体义备焉。迄至春秋，微而未绝。故魏绛讽君于后羿，楚子训民于在勤。战代以来，弃德务功，铭辞代兴，箴文委绝。至扬雄稽古，始范《虞箴》，作《卿尹》、《州牧》二十五篇。及崔胡补缀，总称《百官》。指事配位，鞶鉴有征，信所谓追清风于前古，攀辛甲于后代者也。至于潘勖《符节》，要而失浅；温峤《侍臣》，博而患繁；王济《国子》，文多而事寡；潘尼《乘舆》，义正而体芜：凡斯继作，鲜有克衷。至于王朗《杂箴》，乃置巾履，得其戒慎，而失其所施；观其约文举要，宪章武铭，而水火井灶，繁辞不已，志有偏也。<br/><br/>　　夫箴诵于官，铭题于器，名目虽异，而警戒实同。箴全御过，故文资确切；铭兼褒赞，故体贵弘润。其取事也必核以辨，其攡文也必简而深，此其大要也。然矢言之道盖阙，庸器之制久沦，所以箴铭寡用，罕施后代，惟秉文君子，宜酌其远大焉。<br/><br/>　　赞曰∶<br/><br/>　　铭实器表，箴惟德轨。有佩于言，无鉴于水。<br/><br/>　　秉兹贞厉，警乎立履。义典则弘，文约为美。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-665-8492.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-665-8494.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-665.html" action-type="chapterComment" class="comment"><i></i>文心雕龙章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

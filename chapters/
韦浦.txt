@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《河东记》正文_韦浦_薛渔思作品 - 维普阅读网</title>
+<meta name="keywords" content="河东记,河东记原文,河东记阅读,韦浦全文,薛渔思作品" />
+<meta name="description" content="河东记原文阅读,韦浦全文在线阅读,薛渔思作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1027-10461.html";
+var nextpage="novel-read-1027-10463.html";
+var indexpage = "novel-chapter-1027.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1027.html">河东记</a></strong>
+<strong><a href="novel-chapter-1027.html">河东记目录</a></strong>
+<span>韦浦</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1027-10461.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>韦浦</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=薛渔思&amp;searchsubmit=yes"  target="_blank">薛渔思</a><span class="divide">|</span>发布时间：2014-11-27 20:20:56<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　韦浦者，自寿州士曹赴选。至阌乡逆旅，方就食。忽有一人前拜曰：“客归元昶，常力鞭辔之任，愿备门下厮养卒。”浦视之，衣甚垢而神彩爽迈，因谓曰：“尔何従而至？”对曰：“某早蒙冯六郎职在河中，岁月颇多，给事亦勤，甚见亲任。昨六郎绛州轩辕四郎同至此，求卞判官买腰带，某于其下丐茶酒直，遂有言语相及。六郎谓某有所欺，斥留于此。某佣贱，复鲜资用，非有符牒，不能越关禁。伏知二十二郎将西去，傥因而获归，为愿足矣。或不弃顽下，终赐鞭驱，小人之分，又何幸焉！”浦许之。食毕，乃行十数里，承顺指顾，无不先意，浦极谓得人。俄而憩于茶肆，有扁乘数十适至，方解辕纵牛，龁草路左。归趋过牛群，以手批一牛足，牛即鸣痛不能前。主初不之见，遽将求医，归谓曰：“吾常为兽医，为尔疗此牛。”即于墙下捻碎土少许，傅牛脚上，因疾驱数十步，牛遂如故。众皆兴叹。其主乃赏茶二斤，即进于浦曰：“庸奴幸蒙见诺，思以薄伎所获，效献芹者。”浦益怜之。次于潼关，主人有稚儿戏于门下，乃见归以手挃其背，稚儿即惊闷绝，食顷不寤。主人曰：“是状为中恶。”疾呼二娘，久方至。二娘，巫者也，至则以琵琶迎神。欠嚏良久，曰：“三郎至矣，传语主人，此客鬼为祟，吾且录之矣。”言其状与服色，真归也。又曰：“若以兰汤浴之，此患除矣。”如言而稚儿立愈。浦见归所为，已恶之，及巫者有说，呼则不至矣。明日又行，次赤水西，路傍忽见元昶，破弊紫衫，有若负而顾步甚重。曰：“某不敢以为羞耻，便不见二十二郎。某客鬼也，昨日之事，不敢复言。已见责于华岳神君。巫者所云三郎，即金天也。某为此界，不果闲行，受笞至重。方见二十二郎，到京当得本处县令，无足忧也，他日亦此伫还车耳。”浦云：“尔前所说冯六郎等，岂皆人也？”归曰：“冯六郎名夷，即河伯，轩辕天子之爱子也。卞判官名和，即昔刖足者也。善别宝，地府以为荆山玉使判官，轩辕家奴客。小事不相容忍，遽令某失冯六郎意，今日迍踬，实此之由。”浦曰：“冯何得第六？”曰：“冯水官也，水成数六耳。故黄帝四子，转辕四郎，即其最小者也。”浦其年选授霍丘令，如其言，及赴官至此，虽无所睹，肸飨如有物焉。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1027-10461.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1027-10463.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1027.html" action-type="chapterComment" class="comment"><i></i>河东记章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

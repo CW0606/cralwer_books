@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《韩非子》正文_南面第十八_韩非作品 - 维普阅读网</title>
+<meta name="keywords" content="韩非子,韩非子原文,韩非子阅读,南面第十八全文,韩非作品" />
+<meta name="description" content="韩非子原文阅读,南面第十八全文在线阅读,韩非作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-23-334.html";
+var nextpage="novel-read-23-336.html";
+var indexpage = "novel-chapter-23.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-23.html">韩非子</a></strong>
+<strong><a href="novel-chapter-23.html">韩非子目录</a></strong>
+<span>南面第十八</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-23-334.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>南面第十八</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=韩非&amp;searchsubmit=yes"  target="_blank">韩非</a><span class="divide">|</span>发布时间：2014-07-18 23:27:02<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　人主之过，在己任在臣矣，又必反与其所不任者备之，此其说必与其所任者为雠，而主反制于其所不任者。今所与备人者，且曩之所备也。人主不能明法而以制大臣之威，无道得小人之信矣。人主释法而以臣备臣，则相爱者比周而相誉，相憎者朋党而相非，非誉交争，则主惑乱矣。人臣者，非名誉请谒无以进取，非背法专制无以为威，非假于忠信无以不禁，三者，惛主坏法之资也。人主使人臣虽有智能不得背法而专制，虽有贤行不得逾功而先劳，虽有忠信不得释法而不<br/><br/>　　禁，此之谓明法。<br/><br/>　　人主有诱于事者，有壅于言者，二者不可不察也。人臣易言事者，少索资，以事诬主，主诱而不察，因而多之，则是臣反以事制主也，如是者谓之诱，诱于事者困于患。其进言少，其退费多，虽有功其进言不信，不信者有罪，事有功者必赏，则群臣莫敢饰言以惛主。主道者，使人臣前言不复于后，后言不复于前，事虽有功，必伏其罪，谓之任下。人臣为主设事而恐其非也，则先出说设言曰：‘议是事者，妒事者也。’人主藏是言不更听群臣，群臣畏是言不敢议事，二势者用，则忠臣不听而誉臣独任，如是者谓之壅于言，壅于言者制于臣矣。主道者，使人臣必有言之责，又有不言之责。言无端末、辩无所验者，此言之责也。以不言避责、持重位者，此不言之责也。人主使人臣言者必知其端以责其实，不言者必问其取舍以为之责，则人臣莫敢妄言矣，又不敢默然矣，言默则皆有责也。人主欲为事，不通其端末，而以明其欲，有为之者，其为不得利，必以害反，知此者，任理去欲。举事有道，计其入多，其出少者，可为也。惑主不然，计其入不计其出，出虽倍其入，不知其害，则是名得而实亡，如是者功小而害大矣。凡功者，其入多、其出少乃可谓功。今大费无罪而少得为功，则人臣出大费而成小功，小功成而主亦有害。<br/><br/>　　不知治者，必曰：‘无变古，毋易常。’变与不变，圣人不听，、正治而已。然则古之无变，常之毋易，在常古之可与不可。伊尹毋变、殷，太公毋变周，则汤、武不王矣。管仲毋易齐，郭偃毋更晋，则桓 、文不霸矣。凡人难变古者，惮易民之安也。夫不变古者，袭乱之迹；适民心者，恣奸之行也。民愚而不知乱，上懦而不能更，是治之失也。人主者，明能知治，严必行之，故虽拂于民心立其治。说在商君之内外而铁殳，重盾而豫戒也。故郭偃之始治也，文公有官卒；管仲始治也，桓公有武车；戒民之备也。是以愚赣窳墯之民，苦小费而忘大利也，故夤虎受阿谤。而(车辰) 小变而失长便，故邹贾非载旅。狎习于乱而容于治，故郑人不能归。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-23-334.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-23-336.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-23.html" action-type="chapterComment" class="comment"><i></i>韩非子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

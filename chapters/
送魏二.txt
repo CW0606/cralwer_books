@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《送魏二》正文_送魏二_王昌龄作品 - 维普阅读网</title>
+<meta name="keywords" content="送魏二,送魏二原文,送魏二阅读,送魏二全文,王昌龄作品" />
+<meta name="description" content="送魏二原文阅读,送魏二全文在线阅读,王昌龄作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-851.html";
+var nextpage="novel-chapter-851.html";
+var indexpage = "novel-chapter-851.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-851.html">送魏二</a></strong>
+<strong><a href="novel-chapter-851.html">送魏二目录</a></strong>
+<span>送魏二</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-851.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>送魏二</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王昌龄&amp;searchsubmit=yes"  target="_blank">王昌龄</a><span class="divide">|</span>发布时间：2014-11-06 20:47:36<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/><br/>　　醉别江楼橘柚香，江风引雨入舟凉。<br/><br/>　　忆君遥在潇湘月，愁听清猿梦里长。<br/><br/>【注释】<br/>⑴魏二：作者友人。排行第二，名字不详。<br/>⑵潇湘月：一作“湘江上”。潇湘：潇水在零陵县与湘水会合，称潇湘。泛指今湖南一带。<br/><br/>【译文】<br/>在橘柚清香的高楼上设宴为朋友送别，江风引来江雨感到了夜凉后送友人上船。<br/>想到了友人远远地在潇湘的月照之下，愁绪里听到两岸猿啼声而感到夜长难眠。<br/><br/>【赏析】<br/>　　送别魏二的饯宴设在靠江的高楼上，空中飘散着橘柚的香气，环境幽雅，气氛温馨。这一切因为朋友即将分手而变得尤为美好。这里叙事写景已暗挑依依惜别之情。“今日送君须尽醉，明朝相忆路漫漫”(贾至《送李侍郎赴常州》)，首句“醉”字，暗示着“酒深情亦深”。<br/><br/>　　“留恋处，兰舟催发”，送友人上船时，眼前秋风瑟瑟，“寒雨连江”，气候已变。次句字面上只说风雨入舟，却兼写出行人入舟;诗中不仅写了江雨入舟，然而“凉”字却明白的表现出登舟送客的惜别场景来，“凉”字既是身体上的感触，更暗含诗人心中对友人的不舍和对离别的伤怀。“引”字与“入”字呼应，有不疾不徐，飒然而至之感，善状秋风秋雨特点。此句寓情于景，句法字法运用皆妙，耐人涵咏。凄凄风雨烘托诗人惜别知音，借酒消愁的悲凉心情。<br/><br/>　　按通常作法，后二句似应归结到惜别之情。但诗人却将眼前情景推开，“忆君遥在潇湘月”，以“忆”字勾勒，从对面生情，为行人虚构了一个境界：在不久的将来，朋友夜泊在潇湘之上，那时风散雨收，一轮孤月高照，环境如此凄清，行人恐难成眠吧。即使他暂时入梦，两岸猿啼也会一声一声闯入梦境，令他睡不安恬，因而在梦中也摆不脱愁绪。诗人从视(月光)听(猿声)两个方面刻画出一个典型的旅夜孤寂的环境。月夜泊舟已是幻景，梦中听猿，更是幻中有幻。所以诗境颇具几分朦胧之美，有助于表现惆怅别情。<br/><br/>　　末句的“长”字状猿声相当形象，使人想起《水经注·三峡》关于猿声的描写：“时有高猿长啸，属引凄异，空谷传响，哀转久绝。”“长”字作韵脚用在此诗之末，更有余韵不绝之感。<br/><br/>　　这首诗运用了虚实结合的手法。第一、二两句写在一个空中飘散着橘柚清香的清秋的日子里，诗人在靠江的高楼上设宴为朋友送别，然后在秋风秋雨中送友人上船。这两句是写眼前实景。后两句诗人以“忆”为行人虚构了一个典型的旅夜孤寂的场景：友人难以成眠，即使友人暂时入梦，两岸猿啼也会一声一声闯入梦境，使他摆不脱愁绪。这两句是虚拟，月夜泊舟已是幻景，梦中听猿，更是幻中有幻。这样整首诗虚实结合，借助想像，拓展了表现空间，扩大了意境，使诗更具朦胧之美，深化了主题，更有助于表现惆怅别情。在艺术构思上是颇有特色的。<br/><br/>【点评】<br/><br/>　　敖英评此诗：“道伊旅况愁寂而已，惜别之情自寓。”（《唐诗绝句类选》）<br/>　　陆时雍评三、四两句诗：“代为之思，其情更远。”（《诗镜总论》）。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-851.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-851.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-851.html" action-type="chapterComment" class="comment"><i></i>送魏二章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

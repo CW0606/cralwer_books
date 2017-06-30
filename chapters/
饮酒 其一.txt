@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《饮酒》正文_饮酒 其一_陶渊明作品 - 维普阅读网</title>
+<meta name="keywords" content="饮酒,饮酒原文,饮酒阅读,饮酒 其一全文,陶渊明作品" />
+<meta name="description" content="饮酒原文阅读,饮酒 其一全文在线阅读,陶渊明作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-650.html";
+var nextpage="novel-read-650-7926.html";
+var indexpage = "novel-chapter-650.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-650.html">饮酒</a></strong>
+<strong><a href="novel-chapter-650.html">饮酒目录</a></strong>
+<span>饮酒 其一</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-650.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>饮酒 其一</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=陶渊明&amp;searchsubmit=yes"  target="_blank">陶渊明</a><span class="divide">|</span>发布时间：2014-10-16 20:10:23<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/><br/>　　饮酒二十首序:余闲居寡欢，兼比夜已长，偶有名酒，无夕不饮。顾影独尽，忽焉复醉。既醉之後，辄题数句自娱。纸墨遂多，辞无诠次。聊命故人书之，以为欢笑尔。<br/>衰荣无定在，彼此更共之。<br/>邵生瓜田中，宁似东陵时！<br/>寒暑有代谢，人道每如兹。<br/>达人解其会，逝将不复疑；<br/>忽与一樽酒，日夕欢相持。<br/><br/>【注释】<br/>(1)兼：加之，并且。比：近来。夜已长：秋冬之季，逐渐昼短夜长，到冬至达最大限度。<br/>(2)顾影：看着自己的身影。独尽：独自干杯。<br/>(3)忽焉：很快地。<br/>(4)辄：就，总是。<br/>(5)诠（quán 全）次：选择和编次。<br/>(6)聊：姑且。故人：老朋友。书：抄写。<br/>(7)尔：“而已”的合音，罢了。<br/>(8)这首诗从自然变化的盛衰更替，而联想到人生的福祸无常，正因为领悟了这个道理，所以要隐遁以远害，饮酒以自乐。<br/>(9)衰荣：这里是用植物的衰败与繁荣来比喻人生的衰与盛、祸与福。无定在：无定数，变化不定。更：更替，交替。共之：都是如此。<br/>(10)邵生：邵平，秦时为东陵侯，秦亡后为平民，因家贫而种瓜于长安城东，前后处境截然不同。（见《史记?萧相国世家》）这两句是说。邵平在瓜田中种瓜时，哪里还像做东陵侯时那般荣耀。<br/>(11)代谢：更替变化。人道：人生的道理或规律。每：每每，即常常。兹：此。<br/>(12)达人：通达事理的人；达观的人。会：指理之所在。《周易?系辞》：“圣人有以见天下之动，而观其会通。”朱熹《本义》：“会谓理之所聚。”逝：离去，指隐居独处。<br/>(13)忽：尽快。筋：指酒杯。持：拿着。<br/><br/>【译文】<br/>　　我闲居之时很少欢乐，加之近来夜已渐长，偶尔得到名酒，无夜不饮。对着自己的身影独自干杯，很快就醉了。醉了之后，总要写几句诗自乐。诗稿于是渐多，但未经选择和编次。姑且请友人抄写出来，以供自我取乐罢了。<br/>衰败繁荣无定数，<br/>交相更替变不休。<br/>邵平晚岁穷种瓜，<br/>哪似当年东陵侯！<br/>暑往寒来有代谢，<br/>人生与此正相符。<br/>通达之士悟其理。<br/>隐遁山林逍遥游。<br/>快快来他一杯酒。<br/>日夕畅饮消百忧。<br/><br/>【赏析】<br/>　　饮酒二十首序:余闲居寡欢，兼比夜已长，偶有名酒，无夕不饮。顾影独尽，忽焉复醉。既醉之後，辄题数句自娱。纸墨遂多，辞无诠次。聊命故人书之，以为欢笑尔。<br/><br/>　　关于这组诗的写作时间，存有不同的看法，其中当以王瑶先生之说为较可信，即约作于晋安帝义熙十三年（417），陶渊明五十三岁。诗人在诗序中已说明这组诗非一时之作，但从“比夜已长”之句和诗中有关景物环境的描写来看，这组诗大约是写于同一年的秋冬之际。<br/>　　在这二十首诗中，诗人多方面地反映了自己的生活、思想、志趣与情操。这些诗无论就内容还是就艺术而言，都足以代表陶诗成熟时期的风格，因此也深受历代人们的喜爱。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-650.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-650-7926.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-650.html" action-type="chapterComment" class="comment"><i></i>饮酒章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

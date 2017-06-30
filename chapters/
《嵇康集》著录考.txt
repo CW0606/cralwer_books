@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《古籍序跋集》正文_《嵇康集》著录考_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="古籍序跋集,古籍序跋集原文,古籍序跋集阅读,《嵇康集》著录考全文,鲁迅作品" />
+<meta name="description" content="古籍序跋集原文阅读,《嵇康集》著录考全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-554-7645.html";
+var nextpage="novel-read-554-7647.html";
+var indexpage = "novel-chapter-554.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-554.html">古籍序跋集</a></strong>
+<strong><a href="novel-chapter-554.html">古籍序跋集目录</a></strong>
+<span>《嵇康集》著录考</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-554-7645.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>《嵇康集》著录考</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-06 21:29:39<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>《隋书》《经籍志》：魏中散大夫《嵇康集》十三卷。（梁十五卷，录一卷。） <br/>　　《唐书》《经籍志》：《嵇康集》十五卷。 <br/>　　《新唐书》《艺文志》：《嵇康集》十五卷。 <br/>　　《宋史》《艺文志》：《嵇康集》十卷。 <br/>　　《崇文总目》（2）：《嵇康集》十卷。 <br/>　　郑樵《通志》《艺文略》：魏中散大夫《嵇康集》十五卷。 <br/>　　晁公武《郡斋读书志》（3）：《嵇康集》十卷。右魏嵇康叔夜也，谯国人。康美词气，有丰仪，不事藻饰。学不师受，博览该通；长好老庄，属文玄远。以魏宗室婚，拜中散大夫。景元初，钟会谮于晋文帝，遇害。 <br/>　　尤袤《遂初堂书目》（4）：《嵇康集》。 <br/>　　陈振孙（5）《直斋书录解题》：《嵇中散集》十卷。魏中散大夫谯嵇康叔夜撰。本姓奚，自会稽徙谯之铚县稽山，家其侧，遂氏焉；取稽字之上，志其本也。所著文论六七万言，今存于世者仅如此；《唐志》犹有十五卷。 <br/>　　马端临（6）《文献通考》《经籍考》：《嵇康集》十卷。（案下全引晁氏《读书志》，陈氏《解题》，并已见。）杨士奇（7）《文渊阁书目》：《嵇康文集》。（一部，一册。阙。）叶盛《菉竹堂书目》（8）：《嵇康文集》一册。 <br/>　　焦竑《国史》《经籍志》（9）：《嵇康集》十五卷。 <br/>　　钱谦益《绛云楼书目》：《嵇中散集》二册。（陈景云注云： <br/>　　十卷。黄刻佳。）（10）钱曾《述古堂藏书目》（11）：《嵇中散集》十卷。 <br/>　　《四库全书总目》（12）：《嵇中散集》十卷（两江总督采进本。）旧本题晋嵇康撰。案康为司马昭所害，时当涂之祚未终，则康当为魏人，不当为晋人，《晋书》立传，实房乔等之舛误。 <br/>　　本集因而题之，非也。《隋书》《经籍志》载康文集十五卷。新旧《唐书》并同。郑樵《通志略》所载卷数，尚合。至陈振孙《书录解题》，则已作十卷。且称“康所著文论六七万言，今存于世者，仅如此。”则宋时已无全本矣。疑郑樵所载亦因仍旧史之文，未必真见十五卷之本也。王楙《野客丛书》（见卷八）云：“《嵇康传》曰，康善谈名理，能属文，撰《高士传赞》，作《太师箴》，《声无哀乐论》。余（明刻本《野客丛书》作‘仆’）得毘陵贺方回家所藏缮写《嵇康集》十卷，有诗六十八首，今《文选》所载（有‘康诗’二字）才三数首； <br/>　　《选》惟载康《与山巨源绝交书》一首，不知又有《与吕长悌绝交》一书；《选》惟载《养生论》一篇，不知又有《与向子期论养生难答》一篇，四千余言，辩论甚悉。集又有《宅无吉凶摄生论难》上中下三篇；《难张辽（“辽”下尚有一字，已泐）自然好学论》一首；《管蔡论》，《释私论》，《明胆论》等文。（其词旨玄远，率根于理；读之可想见当时之风致。—— <br/>　　“文”下有此十九字。）《崇文总目》谓《嵇康集》十卷，正此本尔。《唐艺文志》谓《嵇康集》十五卷，不知五卷谓何？”观楙所言，则樵之妄载，确矣。此本凡诗四十七篇，赋一篇，杂著二篇，论九篇，箴一篇，家诫一篇，而杂著中《嵇荀录》一篇，有录无书，实共诗文六十二篇。又非宋本之旧，盖明乙酉吴县黄省曾所重辑也。杨慎《丹铅总录》，尝辨阮籍卒于康后，而世传籍碑为康作，此本不载此碑，则其考核犹为精审矣。 <br/>　　《四库简明目录》（13）：《嵇中散集》十卷，魏嵇康撰，《晋书》为康立传，旧本因题曰晋者，缪也。其集散佚，至宋仅存十卷。此本为明黄省曾所编，虽卷数与宋本同，然王楙《野客丛书》称康诗六十八首，此本仅诗四十二首，合杂文仅六十二首，则又多所散佚矣。 <br/>　　朱学勤《结一庐书目》：《嵇中散集》十卷。（计一本。魏嵇康撰。明嘉靖四年，黄氏仿宋刊本。）（14）洪颐煊《读书丛录》（15）：《嵇中散集》十卷。每卷目录在前。前有嘉靖乙酉黄省曾序。《三国志》《邴原传》裴松之注，“张貔父邈，字叔辽，《自然好学论》在《嵇康集》。”今本亦有此篇。又诗六十六首，与王楙《野客丛书》本同。是从宋本翻雕，每叶廿二行，行廿字。 <br/>　　钱泰吉《曝书杂记》（16）：平湖家梦庐翁天树，笃嗜古籍，尝于张氏《爱日精庐藏书志》眉间，记其所见，犹随斋批注《书录解题》也。余曾手钞。翁下世已有年，平生所见当不止此，录之以见梗概。《嵇中散集》余昔有明初钞本，即《解题》所载本，多诗文数首，此或即明黄省曾所集之本欤？ <br/>　　莫友芝《郘亭知见传本书目》（17）：《嵇中散集》十卷，魏嵇康撰。　明嘉靖乙酉黄省曾仿宋本，每叶二十二行，行二十字，板心有南星精舍四字。　程荣校刻本。　汪士贤本。　《百三名家集》本一卷。　《乾坤正气集》本。　静持室有顾沅以吴匏庵钞本校于汪本上。 <br/>　　江标《丰顺丁氏持静斋书目》（18）：《嵇中散集》十卷。明汪士贤刊本。康熙间，前辈以吴匏庵手抄本详校，后经藏汪伯子，张燕昌，鲍渌饮，黄荛圃，顾湘舟诸家。 <br/>　　缪荃孙《清学部图书馆善本书目》（19）：《嵇康集》十卷。魏嵇康撰。明吴匏庵丛书堂钞本。格心有丛书堂三字，有“陈贞莲书画记”朱方格界格方印。 <br/>　　陆心源《皕宋楼藏书志》（20）：《嵇康集》十卷。（旧钞本（21））晋嵇康撰。（案此下原本全录顾氏记及荛翁三跋，并已见（22）。）余向年知王雨楼表兄家藏《嵇中散集》，乃丛书堂校宋抄本，为藏书家所珍秘。从士礼居转归雨楼。今乙未冬，向雨楼索观，并出副录本见示。互校，稍有讹脱，悉为更正。朱改原字上者，抄人所误。标于上方者，已意所随正也。还书之日，附志于此。道光十五年十一月初九日，妙道人书（23）。 <br/>　　案：魏中散大夫《嵇康集》，《隋志》十三卷，注云：梁有十五卷，录一卷。新旧《唐志》并作十五卷，疑非其实。《宋志》及晁陈两家并十卷，则所佚又多矣。今世所通行者，惟明刻二本，一为黄省曾校刊本，一为张溥《百三家集》本。张本增多《怀香赋》一首，及原宪等赞六首，而不附赠答论难诸原作。其余大略相同。然脱误并甚，几不可读。昔年曾互勘一过，而稍以《文选》《类聚》读书参校之，终未尽善。此本从明吴匏庵丛书堂抄宋本过录。其传钞之误，吴君志忠已据钞宋原本校正。今朱笔改者，是也。余以明刊本校之，知明本脱落甚多。《答难养生论》“不殊于榆柳也”下，脱“然松柏之生，各以良殖遂性，若养松于灰壤”三句。《声无哀乐论》“人情以躁静”下，脱“专散为应，譬犹游观于都肆，则目滥而情放。留察于曲度，则思静”二十五字。《明胆论》“夫惟至”下，脱“明能无所惑至胆”七字。《答释难宅无吉凶摄生论》“为卜无所益也”下，脱“若得无恙，为相败于卜，何云成相邪”二句。“未若所不知”下，脱“者众，此较通世之常滞。然智所不知”十四字。及“不可以妄求也”脱“以”字，误“求”为“论”，遂至不成文义。其余单辞只句； <br/>　　足以校补误字缺文者，不可条举。书贵旧抄，良有以也。 <br/>　　祁承爗《澹生堂书目》（24）：《嵇中散集》三册。（十卷，嵇康。）《嵇中散集略》一册。（一卷。）孙星衍《平津馆鉴藏记》（25）：《嵇中散集》十卷。每卷目录在前。前有嘉靖乙酉黄省曾序，称“校次瑶编，汇为十卷”，疑此本为黄氏所定。然考王楙《野客丛书》，已称得毘陵贺方回家所藏缮写十卷本，又诗六十六首。与王楙所见本同。此本即从宋本翻雕；黄氏序文，特夸言之耳。每叶廿二行，行廿字，板心下方有南星精舍四字。收藏有世业堂印白文方印，绣翰斋朱文长方印。 <br/>　　赵琦美《脉望馆书目》：《嵇中散集》二本。（赵书后归绛云楼。）（26）高儒《百川书志》（27）：《嵇中散集》十卷。魏中散大夫，谯人嵇康叔夜撰。诗四十七，赋十三，文十五，附四。 <br/><br/>==========================================================================<br/><br/>　　 　本篇当写定于一九二四年六月之前。附鲁迅校本《嵇康集》后；收入一九三八年版《鲁迅全集》第九卷。 <br/>　　（2）　《崇文总目》　宋仁宗时宫廷藏书目录，王尧臣等奉敕编，原书六十六卷，已佚。清代修《四库全书》时，从《永乐大典》辑得十二卷。 <br/>　　（3）　晁公武　字子止，巨野（今属山东）人，南宋目录学家。所著《郡斋读书志》，四卷，又《后志》二卷，是我国第一部附有提要的私家藏书目录。 <br/>　　（4）　尤袤（1127—1194）　字延之，无锡（今属江苏）人，宋代诗人、目录学家。官至礼部尚书。《遂初堂书目》为其家藏书目，一卷。 <br/>　　所载书目皆不录撰人及卷数。 <br/>　　（5）　陈振孙　字伯玉，号直斋，安吉（今属浙江）人，南宋目录学家。 <br/>　　（6）　马端临（约1254—1323）　字贵与，乐平（今属江西）人，宋末元初史学家。 <br/>　　（7）　杨士奇（1365—1444）　名寓，泰和（今属江西）人，明初文学家。官至大学士。 <br/>　　（8）　叶盛（1420—1474）　字与中，昆山（今属江苏）人，明代藏书家。官至吏部侍郎。《菉竹堂书目》为其家藏书目，六卷。 <br/>　　（9）　焦竑（1540—1620）　字弱侯，号澹园，江宁（今江苏南京）人，明代学者。官翰林院修撰。万历间奉诏修国史，仅成《经籍志》六卷。 <br/>　　（10）　钱谦益（1582—1664）　字受之，号牧斋，常熟（今属江苏）人，明末文学家，后降清。《绛云楼书目》为其家藏书目，四卷。陈景云（1670—1747），字少章，清代吴江（今属江苏）人。著有《绛云楼书目注》。按文中括号内注文为鲁迅所加。 <br/>　　（11）　钱曾（1629—1701）　字遵王，号也是翁，常熟人，清代藏书家。《述古堂藏书目》为其家藏书目，四卷。 <br/>　　（12）　《四库全书总目》　即《四库全书总目提要》。清代乾隆时编《四库全书》所收入库书三四七○种、存目书六八一九种的目录提要，二百卷。乾隆第六子永瑢领衔主编，提要为纪昀等撰写。按本节括号内的注文，除“两江总督采进本”一句为原注外，余皆系鲁迅所加。 <br/>　　（13）　《四库简明目录》　《四库全书总目》入库书目提要的摘要本，二十卷。亦由永瑢领衔主编，纪昀等撰写。 <br/>　　（14）　朱学勤（1823—1875）　字伯修，仁和（今浙江杭州）人，清代藏书家。《结一庐书目》为其家藏书目，四卷。文中括号内注文是朱氏原注。 <br/>　　（15）　洪颐煊（1765—1833）　字旌贤，号筠轩，清代浙江临海人。所著《读书丛录》，二十四卷。 <br/>　　（16）　钱泰吉（1791—1863）　字辅宜，号警石，浙江嘉兴人，清代藏书家。所著《曝书杂记》，三卷。 <br/>　　（17）　莫友芝（1811—1871）　字子偲，号郘亭，贵州独山人，清末学者。所著《郘亭知见传本书目》，十六卷。按此条引文中的“静持室”疑当为“持静室”，清末丁日昌藏书室名。 <br/>　　（18）　江标（1860—1899）　字建霞，清末元和（今江苏吴县）人。 <br/>　　官翰林院编修，曾重刻《丰顺丁氏持静斋书目》一卷。丁氏，即丁日昌。 <br/>　　（19）　缪荃孙（1844—1919）　字筱珊，号艺风，江苏江阴人，清末学者。《清学部图书馆善本书目》，五卷。学部，清末设立的中央主管全国教育的机构。 <br/>　　（20）　陆心源（1834—1894）　字刚父，号存斋，归安（今浙江吴兴）人，清末藏书家。所著《皕宋楼藏书志》，一二○卷，《续志》四卷。 <br/>　　（21）　旧钞本　三字为《皕宋楼藏书志》原注。 <br/>　　（22）　顾氏记　指丛书堂钞本《嵇康集》后的顾广圻跋。顾广圻（1770—1839），字千里，号涧濱，元和（今江苏吴县）人，清代校勘学家。著有《思适斋集》。荛翁三跋，指丛书堂钞本《嵇康集》后的三则黄丕烈跋语。黄丕烈（1763—1825），字绍武，号荛圃，又号复翁，吴县（今江苏苏州）人，清代藏书家。著有《士礼居藏书题跋》。顾氏记及荛翁三跋皆已附入鲁迅校本《嵇康集》。此条案语系鲁迅所加。 <br/>　　（23）　妙道人　即吴志忠，字有堂，别号妙道人，清代吴县人。以上系《皕宋楼藏书志》所录《嵇康集》钞本的吴志忠跋语。 <br/>　　（24）　祈承爗　字尔光，山阴（今浙江绍兴）人，明代藏书家。 <br/>　　《澹生堂书目》为其家藏书目，十四卷。 <br/>　　（25）　孙星衍（1753—1818）　字渊如，阳湖（今江苏武进）人，清代学者。所著《平津馆鉴藏记》，三卷。 <br/>　　（26）　赵琦美（1563—1624）　字元度，号清常道人，常熟（今属江苏）人，明代藏书家。《脉望馆书目》为其家藏书目，四册。按括号内注文为鲁迅所加。 <br/>　　（27）　高儒　字子醇，涿州（今河北涿县）人，明代藏书家。《百川书志》为其家藏书目，二十卷。按下文中的“赋十三”原为“赋三”，即《琴赋》（全文），《酒赋》（残存四句），《白首赋》（仅存其目）。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-554-7645.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-554-7647.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-554.html" action-type="chapterComment" class="comment"><i></i>古籍序跋集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

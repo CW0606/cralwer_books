@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《脉经》正文_辨三部九候脉证_王叔和作品 - 维普阅读网</title>
+<meta name="keywords" content="脉经,脉经原文,脉经阅读,辨三部九候脉证全文,王叔和作品" />
+<meta name="description" content="脉经原文阅读,辨三部九候脉证全文在线阅读,王叔和作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-517-6178.html";
+var nextpage="novel-read-517-6180.html";
+var indexpage = "novel-chapter-517.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-517.html">脉经</a></strong>
+<strong><a href="novel-chapter-517.html">脉经目录</a></strong>
+<span>辨三部九候脉证</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-517-6178.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>辨三部九候脉证</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王叔和&amp;searchsubmit=yes"  target="_blank">王叔和</a><span class="divide">|</span>发布时间：2014-09-23 20:27:53<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>经言：所谓三部者，寸、关、尺也；九候者，每部中有天、地、人也。上部主候从胸以上至头，中部主候从膈以下至气街，下部主候从气街以下至足。浮、沉、牢、结、迟、疾、滑、涩，各自异名，分理察之，勿怠观变，所以别三部九候，知病之所起。审而明之，针灸亦然也。故先候脉寸中（寸中一作寸中于九）。浮在皮肤，沉细在里。昭昭天道，可得长久。<br/><br/>　　上部之候，牢、结、沉、滑，有积气在膀胱。微细而弱，卧引里急，头痛，咳嗽，逆气上下。心膈上有热者，口干渴燥。病从寸口，邪入上者名曰解。脉来至，状如琴弦，苦少腹痛，女子经月不利，孔窍生疮；男子病痔，左右胁下有疮。上部不通者，苦少腹痛，肠鸣。寸口中虚弱者，伤气，气不足。大如桃李实，苦痹也。寸口直上者，逆虚也。如浮虚者，泄利也。<br/><br/>　　中部脉结者，腹中积聚。若在膀胱、两胁下，有热。脉浮而大，风从胃脘入，水胀，干呕，心下澹澹，如有桃李核。胃中有寒，时苦烦、痛、不食，食即心痛，胃胀支满，膈上积。胁下有热，时寒热淋露。脉横出上者，胁气在膀胱，病即着。右横关入寸口中者，膈中不通，喉中咽难。刺关元，入少阴。下部脉者，其脉来至浮大者，脾也。与风集合，时上头痛，引腰背，小滑者，厥也。足下热，烦满，逆上抢心，上至喉中，状如恶肉，脾伤也。病少腹下，在膝、诸骨节间，寒清不可屈伸；脉急如弦者，筋急，足挛结者，四肢重。从尺邪入阳明者，寒热也。大风邪入少阴，女子漏白下赤，男子溺血，阴萎不起，引少腹痛。<br/><br/>　　人有三百六十脉，法三百六十日。三部者，寸、关、尺也。尺脉为阴，阴脉常沉而迟；寸、关为阳，阳脉俱浮而速。气出为动，入为息。故阳脉六息七息十三投，阴脉八息七息十五投，此其常也。<br/><br/>　　二十八脉相逐上下，一脉不来，知疾所苦。尺胜治下，寸胜治上，尺寸俱平治中央。脐以上阳也，法于天；脐以下阴也，法于地；脐为中关。头为天，足为地。有表无里，邪之所止，得鬼病。何谓表里？寸尺为表，关为里，两头有脉，关中绝不至也。尺脉上不至关为阴绝，寸脉下不至关为阳绝。阴绝而阳微，死不治。三部脉或至或不至，冷气在胃中，故令脉不通也。<br/><br/>　　上部有脉，下部无脉，其人当吐，不吐者，死。上部无脉，下部有脉，虽困无所苦。所以然者，譬如人之有尺，树之有根，虽枝叶枯槁，根本将自生，木有根本，即自有气，故知不死也。寸口脉平而死者，何也？然：诸十二经脉者，皆系于生气之原。所谓生气之原者，非谓十二经之根本也，谓肾间动气也。此五脏六腑之本，十二经之根，呼吸之门，三焦之原，一名守邪之神也。故气者，人根本也，根绝则茎枯矣。寸口脉平而死者，生气独绝于内也。（肾间动气，谓左为肾，右为命门，命门者，精神之所舍，原气之所系也，一名守邪之神。以命门之神固守，邪气不得妄入，入即死矣。此肾气先绝于内，其人便死。其脉不复，反得动病也）<br/><br/>　　岐伯曰：形盛脉细，少气不足以息者，死；形瘦脉大，胸中多气者，死。形气相得者，生；参伍不调者，病。三部九候皆相失者，死。上下左右之脉相应如参舂者，病甚；上下左右相失不可数者，死。中部之候虽独调，与众脏相失者，死；中部之候相减者，死。目内陷者，死。<br/><br/>　　黄帝曰：冬阴夏阳奈何？岐伯曰：九候之脉皆沉细悬绝者，为阴，主冬，故以夜半死；盛躁喘数者，为阳，主夏，故以日中死。是故寒热者，平旦死；热中及热病者，日中死；病风者，以日夕死；病水者，以夜半死；其脉乍数乍疏乍迟乍疾者，以日乘四季死；形肉已脱，九候虽调，犹死。七诊虽见，九候皆顺者，不死。所言不死者，风气之病及经月之病，似七诊之病而非也，故言不死。若有七诊之病，其脉候亦败者，死矣。必发哕噫，必审问其所始病与今之所方病，而后各切循其脉，视其经络浮沉，以上下逆顺循之。其脉疾者，不病；其脉迟者，病；脉不往来者，死；皮肤着者，死。两手脉，结上部者，濡；结中部者，缓；结三里者，豆起，弱反在关，濡反在巅。微在其上，涩反在下。微即阳气不足，沾热汗出；涩即无血，厥而且寒。<br/><br/>　　黄帝问曰：余每欲视色、持脉，独调其尺，以言其病，从外知内，为之奈何？岐伯对曰：审其尺之缓、急、小、大、滑、涩，肉之坚脆，而病形变定矣。调之何如？对曰：脉急者，尺之皮肤亦急；脉缓者，尺之皮肤亦缓；脉小者，尺之皮肤减而少；脉大者，尺之皮肤亦大；脉滑者，尺之皮肤亦滑；脉涩者，尺之皮肤亦涩。凡此六变，有微有甚。故善调尺者，不待于寸；善调脉者，不待于色。能参合行之，可为上工。<br/><br/>　　尺肤滑以淖泽者，风也；尺内弱，解安卧脱肉者，寒热也；尺肤涩者，风痹也；尺肤粗如枯鱼之鳞者，水淡饮也；尺肤热甚，脉盛躁者，病温也，其脉盛而滑者，汗且出；尺肤寒甚，脉小（一作急）者，泄，少气；尺肤然（然，《甲乙》作热炙人手），先热后寒者，寒热也；尺肤先寒，久持之而热者，亦寒热也；尺然热，人迎大者，尝夺血；尺紧人迎脉小甚则少气；色白有加者，立死。肘所独热者，腰以上热；肘前独热者，膺前热；肘后独热者，肩背热。肘后粗以下三四寸，肠中有虫；手所独热者，腰以上热；臂中独热者，腰腹热；掌中热者，腹中热；掌中寒者，腹中寒；鱼上白肉有青血脉者，胃中有寒。<br/><br/>　　诸浮、诸沉、诸滑、诸涩、诸弦、诸紧，若在寸口，膈以上病；若在关上，胃以下病；若在尺中，肾以下病。<br/><br/>　　寸口脉滑而迟，不沉不浮，不长不短，为无病。左右同法。<br/><br/>　　寸口太过与不及，寸口之脉，中手短者，曰头痛；中手长者，曰足胫痛；中手促上击者，曰肩背痛。<br/><br/>　　寸口脉浮而盛者，病在外。<br/><br/>　　寸口脉沉而坚者，病在中。<br/><br/>　　寸口脉沉而弱者，曰寒热（一作气，又作中）及疝瘕、少腹痛。<br/><br/>　　寸口脉沉而弱，发必堕落。<br/><br/>　　寸口脉沉而紧，苦心下有寒，时痛，有积聚。<br/><br/>　　寸口脉沉，胸中短气。<br/><br/>　　寸口脉沉而喘者，寒热。<br/><br/>　　寸口脉但实者，心劳。<br/><br/>　　寸口脉紧或浮，膈上有寒，肺下有水气。<br/><br/>　　脉紧而长过寸口者，注病。<br/><br/>　　脉紧上寸口者，中风。风头痛亦如之。（《千金翼》云：亦为伤寒头痛）脉弦上寸口者，宿食；降者，头痛。脉来过寸入鱼际者，遗尿。脉出鱼际逆气喘息。<br/><br/>　　寸口脉，如羹上肥，阳气微；连连如蜘蛛丝，阴气衰。<br/><br/>　　寸口脉偏绝，则臂偏不遂；其人两手俱绝者，不可治。两手前部阳绝者，苦心下寒毒，喙中热。关上脉浮而大，风在胃中，张口肩息，心下澹澹，食欲呕。关上脉微浮，积热在胃中，呕吐蛔虫，心健忘。关上脉滑而大小不匀（《千金》云：必吐逆），是为病方欲进，不出一二日复欲发动。其人欲多饮，饮即注利。如利止者，生；不止者，死。关上脉紧而滑者，蛔动。关上脉涩而坚，大而实，按之不减有力，为中焦实，有伏结在脾，肺气塞，实热在胃中。关上脉大，而尺寸细者，其人必心腹冷积，瘕结聚，欲热饮食。关上脉时来时去、乍大乍小、乍疏乍数者，胃中寒热，羸劣不欲饮食，如疟状。<br/><br/>　　尺脉浮者，客阳在下焦。<br/><br/>　　尺脉细微，溏泄，下冷利。<br/><br/>　　尺脉弱，寸强，胃络脉伤。<br/><br/>　　尺脉虚小者，足胫寒，痿痹脚疼。<br/><br/>　　尺脉涩，下血不利，多汗。（《素问》又云：尺涩脉滑谓之多汗）<br/><br/>　　尺脉滑而疾，为血虚。<br/><br/>　　尺脉沉而滑者，寸白虫。<br/><br/>　　尺脉细而急者，筋挛，痹不能行。<br/><br/>　　尺脉粗，常热者，谓之热中，腰胯疼，小便赤热。<br/><br/>　　尺脉偏滑疾，面赤如醉。外热则病。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-517-6178.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-517-6180.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-517.html" action-type="chapterComment" class="comment"><i></i>脉经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

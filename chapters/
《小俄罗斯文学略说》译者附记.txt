@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《文序跋集》正文_《小俄罗斯文学略说》译者附记_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="文序跋集,文序跋集原文,文序跋集阅读,《小俄罗斯文学略说》译者附记全文,鲁迅作品" />
+<meta name="description" content="文序跋集原文阅读,《小俄罗斯文学略说》译者附记全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-619-7802.html";
+var nextpage="novel-read-619-7804.html";
+var indexpage = "novel-chapter-619.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-619.html">文序跋集</a></strong>
+<strong><a href="novel-chapter-619.html">文序跋集目录</a></strong>
+<span>《小俄罗斯文学略说》译者附记</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-619-7802.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>《小俄罗斯文学略说》译者附记</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-13 21:49:22<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　右一篇（2）从G．Karpeles（3）的《文学通史》中译出，是一个从发生到十九世纪末的小俄罗斯文学的大略。但他们近代实在还有铮铮的作家，我们须得知道那些名姓的是：欧罗巴近世精神潮流的精通者Michael　Dragomarov（4），进向新轨道的著作者Ivan　Franko（1856—）与Vasyl　Stefanyk（5）；<br/>　　至于女人，则有女权的战士Olga　kobylanska（1865—）以及女子运动的首领Natalie　Kobrynska（6）（1855—）。<br/>　　一九二一年九月九日，译者记。<br/><br/>==========================================================================<br/><br/>　　 　本篇连同《小俄罗斯文学略说》的译文，最初发表于一九二一年十月《小说月报》第十二卷第十号“被损害民族的文学号”，署名唐俟。<br/>　　小俄罗斯，即乌克兰。乌克兰民族形成于十四、十五世纪，几个世纪以来迭受波兰、土耳其、奥地利、匈牙利以及帝俄的压迫。十月革命后成为苏联的加盟共和国之一。<br/>　　（2）　右一篇　即前一篇。过去我国的出版物一般都自右至左直排，故习惯上有此说法。<br/>　　（3）　G．Karpeles　凯尔沛来斯（1848—1909），奥地利文学史家。著有《犹太文学史》两卷以及关于海涅的评论集等。<br/>　　（4）　Michael　Dragomarov　米哈尔·德拉戈玛罗夫（M． HN^BTmNUTJ，1841—1895），乌克兰历史学家、政论家、文学评论家。他宣传十九世纪俄国批判现实主义的作品和革命民主主义的思想。一八七五年在基辅大学任教时，因抨击沙皇制度被解聘，次年起即流寓国外。<br/>　　（5）　Ivan　Franko　伊凡·弗兰柯（c．k．[HNF]T，1856—1916），乌克兰作家、社会活动家。他一生为乌克兰民族解放而斗争，一八七七年至一八九○年间，因出版刊物反对奥地利统治，曾三次被捕入狱。主要作品有诗集《高峰和低地》、长诗《摩西》及中短篇小说集。Vasyl　Stefanyk　华西里·斯杰法尼克（B．C．dYIoNFP]，1871—1936），乌克兰作家、社会活动家。大学时代曾参加过一些进步组织的活动。所著中短篇小说多反映西乌克兰农村贫困痛苦的生活。<br/>　　（6）　Olga　Kobylanska　奥尔加·科贝梁斯卡娅（O．G．gTSR^UBFX]NB，1863—1942），乌克兰女作家。她的作品表达了为争取妇女的社会权利而斗争的思想。一九四一年曾发表痛斥德国法西斯占领者的文章，因病亡始免遭迫害。主要作品有《人》、《他和她》等。Natalie　Kobrynska，娜达丽亚·卡布连斯卡娅（H．c．gTSHRFX]NB，1855—1920），乌克兰女作家，加里西亚妇女运动的创始人和组织者。曾写过许多反映资本主义社会的农村妇女痛苦的短篇小说，以及《亚夏和卡特鲁霞》、《谋生》、《复选代表》等中短篇小说。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-619-7802.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-619-7804.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-619.html" action-type="chapterComment" class="comment"><i></i>文序跋集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

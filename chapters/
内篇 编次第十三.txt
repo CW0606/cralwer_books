@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《史通》正文_内篇 编次第十三_刘知几作品 - 维普阅读网</title>
+<meta name="keywords" content="史通,史通原文,史通阅读,内篇 编次第十三全文,刘知几作品" />
+<meta name="description" content="史通原文阅读,内篇 编次第十三全文在线阅读,刘知几作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1030-10599.html";
+var nextpage="novel-read-1030-10601.html";
+var indexpage = "novel-chapter-1030.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1030.html">史通</a></strong>
+<strong><a href="novel-chapter-1030.html">史通目录</a></strong>
+<span>内篇 编次第十三</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1030-10599.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>内篇 编次第十三</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘知几&amp;searchsubmit=yes"  target="_blank">刘知几</a><span class="divide">|</span>发布时间：2014-11-28 23:05:53<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　昔《尚书》记言，《春秋》记事，以日月为远近，年世为前后，用使阅之者，雁行鱼贯，皎然可寻。至马迁始错综成篇，区分类聚。班固踵武，仍加祖述。于其间则有统体不一，名目相违，朱紫以之混淆，冠履于焉颠倒，盖可得而言者矣。<br/><br/>　　寻子长之列传也，其所编者，唯人而已矣。至于龟策异物，不类肖形，而辄与黔首同科，俱谓之传，不其怪乎？且龟策所记，全为志体，向若与八书齐列，而定以书名，庶几物得其朋，同声相应者矣。<br/><br/>　　孟坚每一姓有传，多附出余亲。其事迹尤异者，则分入它部。故博陆、去病昆弟非复一篇，外戚、元后妇姑分为二录。至于元王受封于楚，至孙戊而亡。案其行事，所载甚寡，而能独载一卷者，实由向、歆之助耳。但交封汉始，地启列藩；向居刘末，职才卿士。昭穆既疏，家国又别。适使分楚王子孙于高、惠之世，与荆、代并编；析刘向父子于元、成之间，与王、京共列。方于诸传，不亦类乎？<br/><br/>　　又自古王室虽微，天命未改，故台名逃责，尚曰周王；君未系颈，且云秦国。况神玺在握，火德犹存，而居摄建年，不编《平纪》之末；孺子主祭，咸书《莽传》之中。遂令汉余数岁，湮没无睹，求之正朔，不亦厚诬？<br/><br/>　　当汉氏之中兴也，更始升坛改元，寒暑三易。世祖称臣北面，诚节不亏。既而兵败长安，祚归高邑，兄亡弟及，历数相承。作者乃抑圣公于传内，登文叔于纪首，事等跻僖，位先不窟。夫东观秉笔，容或谄于当时，后来所修，理当刊革者也。<br/><br/>　　盖逐兔争捷，瞻乌靡定，群雄僣盗，为我驱除。是以史传所分，真伪有别，陈胜、项籍见编于高祖之后，隗嚣、孙述不列于光武之前。而陈寿《蜀书》首标二牧，次列先主，以继焉、璋。岂以蜀是伪朝，遂乃不遵恒例。但鹏鷃一也，何大小之异哉？<br/><br/>　　《春秋》嗣子谅暗，未逾年而废者，既不成君，故不别加篇目。是以鲁公十二，恶、视不预其流。及秦之子婴，汉之昌邑，咸亦因胡亥而得记，附孝昭而获闻。而吴均《齐春秋》乃以郁林为纪，事不师古，何滋章之甚欤！<br/><br/>　　观梁、唐二朝，撰《齐》、《隋》两史，东昏犹在，而遽列和年；炀帝未终，而已编《恭纪》。原其意旨，岂不以和为梁主所立，恭乃唐氏所承，所以黜永元而尊中兴，显义宁而隐大业。苟欲取悦当代，遂乃轻侮前朝。行之一时，庶叶权道；播之千载，宁为格言！<br/><br/>　　寻夫本纪所书，资传乃显；表志异体，不必相涉。旧史以表志之帙，介于纪传之间，降及蔚宗，肇加厘革，沈、魏继作，相与因循。既而子显《齐书》、颖达《隋史》，不依范例，重遵班法。盖择善而行，何有远近；闻义不徙，是吾忧也。<br/><br/>　　若乃先黄、老而后《六经》，后外戚而先夷狄；老子与韩非并列，贾诩将荀彧同编，《孙弘传赞》，宜居《武》、《宣》纪末；宗庙迭毁，枉入《玄成传》终。如斯舛谬，不可胜纪。今略其尤甚者耳，故不复一一而详之。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1030-10599.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1030-10601.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1030.html" action-type="chapterComment" class="comment"><i></i>史通章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

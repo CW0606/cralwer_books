@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《聊斋志异》正文_卷七 柳生_蒲松龄作品 - 维普阅读网</title>
+<meta name="keywords" content="聊斋志异,聊斋志异原文,聊斋志异阅读,卷七 柳生全文,蒲松龄作品" />
+<meta name="description" content="聊斋志异原文阅读,卷七 柳生全文在线阅读,蒲松龄作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1254-23401.html";
+var nextpage="novel-read-1254-23403.html";
+var indexpage = "novel-chapter-1254.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1254.html">聊斋志异</a></strong>
+<strong><a href="novel-chapter-1254.html">聊斋志异目录</a></strong>
+<span>卷七 柳生</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1254-23401.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷七 柳生</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-18.html" target="blank">古典小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=蒲松龄&amp;searchsubmit=yes"  target="_blank">蒲松龄</a><span class="divide">|</span>发布时间：2015-04-01 21:41:38<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>周生，顺天宦裔也。与柳生善。柳得异人之传，精袁许之术。尝谓周曰：“子功名无分；万锺之赀，尚可以人谋。然尊阃薄相，恐不能佐君成业。”未几，妇果亡。家室萧条，不可聊赖。因诣柳，将以卜姻。<br/><br/>　　入客舍，坐良久，柳归内不出。呼之再三，始出，曰：“我日为君物色佳偶，今始得之。适在内作小术，求月老系赤绳耳。”周喜问之。答曰：“甫有一人携囊出，遇之否？”曰：“遇之。褴褛若丐。”曰：“此君岳翁，宜敬礼之。”周曰：“缘相交好，遂谋隐密，何相戏之甚也！仆即式微，犹是世裔，何至下昏于市侩？”柳曰：“不然。犁牛尚有子，何害？”周问：“曾见其女耶？”答曰：“未也。我素与无旧，姓名亦问讯知之。”周笑曰：“尚未知犁牛，何知其子？”柳曰：“我以数信之。其人凶而贱，然当生厚福之女。但强合之必有大厄，容复禳之。”周既归，未肯以其言为信，诸方觅之，迄无一成。一日，柳生忽至，曰：“有一客，我已代折简矣。”问：“为谁？”曰：“且勿问，宜速作黍。”周不喻其故，如命治具。俄客至，盖傅姓营卒也。心内不合，阳浮道与之；而柳生承应甚恭。<br/><br/>　　少间，酒肴既陈，杂恶草具进。柳起告客：“公子向慕已久，每托某代访，曩夕始得晤。又闻不日远征，立刻相邀，可谓仓卒主人矣。”饮间，傅忧马病，不可骑。柳亦俛首为之筹思。既而客去，柳让周曰：“千金不能买此友，何乃视之漠漠？”借马骑归，因假周命，登门持赠傅。周既知，稍稍不快，已无如何。过岁，将如江西，投臬司幕。诣柳问卜。柳言：“大吉！”周笑曰：“我意无他，但薄有所猎，当购佳妇，几幸前言之不验也，能否？”柳云：“并如君愿。”及至江西，值大寇叛乱，三年不得归。后稍平，选日遵路，中途为土寇所掠，同难七八人，皆劫其金赀，释令去；惟周被掳至巢。盗首诘其家世，因曰：“我有息女，欲奉箕帚，当即无辞。”周不答，盗怒，立命枭斩。周惧，思不如暂从其请，因从容而弃之。遂告曰：“小生所以踟蹰者，以文弱不能从戎，恐益为丈人累耳。如使夫妇得相将俱去，恩莫厚焉。”盗曰：“我方忧女子累人，此何不可从也。”<br/><br/>　　引入内，妆女出见，年可十八九，盖天人也。当夕合卺，深过所望。细审姓氏，乃知其父，即当年荷囊人也。因述柳言，为之感叹。过三四日，将送之行，忽大军掩至，全家皆就执缚。有将官三员监视，已将妇翁斩讫，寻次及周。周自分已无生理，一员审视曰：“此非周某耶？”盖傅卒已以军功授副将军矣。谓僚曰：“此吾乡世家名士，安得为贼。”解其缚，问所从来。周诡曰：“适从江臬娶妇而归，不意途陷盗窟，幸蒙拯救，德戴二天！但室人离散，求借洪威，更赐瓦全。”傅命列诸俘，令其自认，得之。饷以酒食，助以资斧，曰：“曩受解骖之惠，旦夕不忘。但抢攘间不遑修礼，请以马二匹、金五十两，助君北旋。”又遣二骑持信矢护送之。途中，女告周曰：“痴父不听忠告，母氏死之。知有今日久矣；所以偷生旦暮者，以少时曾为相者所许，冀他日能收亲骨耳。某所窖藏巨金，可以发赎父骨；余者携归，尚足谋生产。”嘱骑者候于路，两人至旧处，庐舍已烬，于灰火中，取佩刀掘尺许，果得金；尽装入橐，乃返。以百金赂骑者，使瘗翁尸；又引拜母冢，始行。<br/><br/>　　至直隶界，厚赐骑者而去。周久不归，家人谓其已死，恣意侵冒，粟帛器具，荡无存者。及闻主人归，大惧，哄然尽逃；祇有一妪，一婢，一老奴在焉。周以出死得生，不复追问。及访柳，则不知所适矣。女持家逾于男子，择醇笃者授以赀本，而均其息。每诸商会计于檐下，女垂帘听之；盘中误下一珠，辄指其讹。内外无敢欺。数年，伙商盈百，家数十巨万矣。乃遣人移亲骨，厚葬之。<br/><br/>　　异史氏曰：“月老可以贿嘱，无怪媒妁之同于牙侩矣。乃盗也有是女耶？培塿无松柏，此鄙人之论耳。妇人女子犹失之，况以相天下士哉！”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1254-23401.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1254-23403.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1254.html" action-type="chapterComment" class="comment"><i></i>聊斋志异章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

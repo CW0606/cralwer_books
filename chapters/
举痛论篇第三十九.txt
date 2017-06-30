@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《素问》正文_举痛论篇第三十九_黄帝作品 - 维普阅读网</title>
+<meta name="keywords" content="素问,素问原文,素问阅读,举痛论篇第三十九全文,黄帝作品" />
+<meta name="description" content="素问原文阅读,举痛论篇第三十九全文在线阅读,黄帝作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-269-4620.html";
+var nextpage="novel-read-269-4622.html";
+var indexpage = "novel-chapter-269.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-269.html">素问</a></strong>
+<strong><a href="novel-chapter-269.html">素问目录</a></strong>
+<span>举痛论篇第三十九</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-269-4620.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>举痛论篇第三十九</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=黄帝&amp;searchsubmit=yes"  target="_blank">黄帝</a><span class="divide">|</span>发布时间：2014-08-30 14:35:34<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>黄帝问曰：余闻善言天者，必有验于人，善言古者，必有合于今；善言人者，必有厌于已。如此则道不惑而要数极，所谓明也。<br/>今余问于夫子，令言而可知，视而可见，扪而可得，令验于己而发蒙解惑，可得而闻乎？<br/>岐伯再拜稽首曰：何道之问也？<br/>帝曰：愿闻人之五脏卒痛，何气使然？<br/>岐伯对曰：经脉流行不止，环周不休，寒气入经而稽迟。泣而不行，客于脉外，则血少，客于脉中则气不通，故卒然而痛。<br/>帝曰：其痛或卒然而止者；或痛甚不休者；或痛甚不可按者；或按之而痛止者；或按之无益者；或喘动应手者；或心与背相引而痛者；或胁肋与少腹相引而痛者；或腹痛引阴股者；或痛宿昔而成积者；或卒然痛死不知人，有少间复生者；或痛而呕者；或腹痛而后泄者；或痛而闭不通者。凡此诸痛，各不同形，别之奈何？<br/>岐伯曰：寒气客于脉外，则脉寒，脉寒则缩蜷，缩蜷则脉绌急，则外引小络，故卒然而痛。得炅则痛立止，因重中于寒，则痛久矣。<br/>寒气客于经脉之中，与炅气相薄，则脉满，满则痛而不可按也。寒气稽留，炅气从上，则脉充大而血气乱，故痛甚不可按也。<br/>寒气客于肠胃之间，膜原之下，血不得散，小络急引故痛。按之则血气散，故按之痛止。<br/>寒气客于挟脊之脉则深，按之不能及，故按之无益也。<br/>寒气客于冲脉，冲脉起于关元，随腹直上，寒气客则脉不通，脉不通则气因之，故喘气应手矣。<br/>寒气客于背俞之脉，则脉泣，脉泣则血虚，血虚则痛。其俞注于心，故相引而痛。按之则热气至，热气至则痛上矣。<br/>寒气客于厥阴之脉，厥阴之脉者，络阴器，系于肝。寒气客于脉中，则血泣脉急，故胁肋与少腹相引痛矣。<br/>厥气客于阴股，寒气上及少腹，血泣在下相引，故腹痛引阴股。<br/>寒气客于小肠膜原之间，络血之中，血泣不得注入大经，血气稽留不得行，故宿昔而成积矣。<br/>寒气客于五脏，厥逆上泄，阴气竭，阳气未入，故卒然痛死不知人，气复反则生矣。<br/>寒气客于肠胃，厥逆上出，故痛而呕也。<br/>热气留于小肠，肠中痛，瘅热焦渴，则坚干不得出，故痛而闭不通矣。<br/>帝曰：所谓言而可知者也，视而可见奈何？<br/>岐伯曰：五脏六腑固尽有部，视其五色，黄赤为热，白为寒，青黑为痛，此所谓视而可见者也。<br/>帝曰：扪而可得奈何？<br/>岐伯曰：视其主病之脉坚，而血及陷下者，皆可扪而得也。<br/>帝曰：善。余知百病生于气也，怒则气上，喜则气缓，悲则气消，恐则气下，寒则气收，炅则气泄，惊则气乱，劳则气耗，思则气结。九气不同，何病之生？<br/>岐伯曰：怒则气逆，甚则呕血及飧泄，故气上矣。<br/>喜则气和志达，荣卫通利，故气缓矣。<br/>悲则心系急，肺布叶举，而上焦不通，荣卫不散，热气在中，故气消矣。<br/>恐则精却，却则上焦闭，闭则气还，还则下焦胀，故气不行矣。<br/>寒则腠理闭，气不行，故气收矣。<br/>炅则腠理开，荣卫通，汗大泄，故气泄。<br/>惊则心无所依，神无所归，虑无所定，故气乱矣。<br/>劳则喘息汗出，外内皆越，故气耗矣。<br/>思则心有所存，神有所归，正气留而不行，故气结矣。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-269-4620.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-269-4622.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-269.html" action-type="chapterComment" class="comment"><i></i>素问章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

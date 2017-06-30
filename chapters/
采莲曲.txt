@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《采莲曲》正文_采莲曲_刘方平作品 - 维普阅读网</title>
+<meta name="keywords" content="采莲曲,采莲曲原文,采莲曲阅读,采莲曲全文,刘方平作品" />
+<meta name="description" content="采莲曲原文阅读,采莲曲全文在线阅读,刘方平作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-1157.html";
+var nextpage="novel-chapter-1157.html";
+var indexpage = "novel-chapter-1157.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1157.html">采莲曲</a></strong>
+<strong><a href="novel-chapter-1157.html">采莲曲目录</a></strong>
+<span>采莲曲</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-1157.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>采莲曲</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘方平&amp;searchsubmit=yes"  target="_blank">刘方平</a><span class="divide">|</span>发布时间：2015-02-04 20:42:23<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　落日清江里，荆歌艳楚腰。<br/>　　采莲从小惯，十五即乘潮。<br/><br/>【赏析】<br/>　　《采莲曲》是乐府诗旧题，又称《采莲女》、《湖边采莲妇》等，为《江南弄》七曲之一，内容多描写江南采莲妇女的生活。历来写采莲曲的很多，但写得出色也颇不容易。而这首小诗只用了二十个字就维妙维肖地塑造了一个可爱的采莲劳动妇女形象。<br/>　　首二句写日落时分，江水清澈，余晖掩映，金波粼粼，荡漾着苗条美丽女子的宛转歌声。诗一开头就用朴素的语言描绘出江南日暮的迷人景色。第二句起首巧用“荆歌”二字进而渲染了江南气氛，接着作者又抓住最具特征的细腰来勾勒提掇江南女子的轻盈体态。此处“艳”字用得极妙，不仅与上句里的“清”字相映成趣，而且活灵活现地展现了她的美丽外貌，一字传神，足可与“春风又绿江南岸”中的“绿”字媲美。联系首句，不由得使人想象到红色的晚霞给她披上了绚丽的衣裳，给她增添了姿色；她的美貌与动人的歌声，也为“日暮清江”增添了风光。<br/>　　已经日落黄昏，她还在江上干什么呢？唱的又是什么歌儿呢？诗的第三句揭了这个谜，原来她在采莲。傍晚还在采莲，表现了她的勤劳，边采边唱，勾画出她开朗的性格和愉快的心情。至此，有声有色，有景有情，有静有动，一幅充满浓郁水乡生活气息的采莲图跃然纸上。但是诗人并不满足于绘声绘色地描写一个采莲的场面，而着重于刻画采莲人。由“从小惯”三字，我们一方面可以知晓她采莲熟练，另一方面也说明她健康朴实，从小就培养出勤劳的品质。联系日暮采莲，自然让人了解到采莲是项繁重的劳动，反映出当时劳动人民的艰苦生活，顺势带出第四句“十五即乘潮”，使意境更深一层，原来她在小小年纪就能驾驭风浪，该是多么勇敢多么勤劳啊！这两句不仅写出采莲女的能干和劳动本色，而且使人享受到一种健康纯朴的美。<br/>　　这具“象牙微雕”是从环境描写到人物外貌到人物心灵逐层深入，情景兼容，由于诗人择词炼字功力很深，使人恍若身历其境。诗的语言朴素自然，民歌味道很浓，寥寥数语，涵盖万千。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-1157.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-1157.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1157.html" action-type="chapterComment" class="comment"><i></i>采莲曲章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

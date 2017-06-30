@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《且介亭杂文》正文_关于新文字_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="且介亭杂文,且介亭杂文原文,且介亭杂文阅读,关于新文字全文,鲁迅作品" />
+<meta name="description" content="且介亭杂文原文阅读,关于新文字全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-544-7291.html";
+var nextpage="novel-read-544-7293.html";
+var indexpage = "novel-chapter-544.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-544.html">且介亭杂文</a></strong>
+<strong><a href="novel-chapter-544.html">且介亭杂文目录</a></strong>
+<span>关于新文字</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-544-7291.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>关于新文字</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-02 22:06:31<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>——答问 <br/><br/>　　比较，是最好的事情。当没有知道拼音字之前，就不会想到象形字的难；当没有看见拉丁化的新文字之前，就很难明确的断定以前的注音字母和罗马字拼法，也还是麻烦的，不合实用，也没有前途的文字。 <br/><br/>　　方块汉字真是愚民政策的利器，不但劳苦大众没有学习和学会的可能，就是有钱有势的特权阶级，费时一二十年，终于学不会的也多得很。最近，宣传古文的好处的教授，竟将古文的句子也点错了，（２）就是一个证据——他自己也没有懂。不过他们可以装作懂得的样子，来胡说八道，欺骗不明真相的人。 <br/><br/>　　所以，汉字也是中国劳苦大众身上的一个结核，病菌都潜伏在里面，倘不首先除去它，结果只有自己死。先前也曾有过学者，（３）想出拼音字来，要大家容易学，也就是更容易教训，并且延长他们服役的生命，但那些字都还很繁琐，因为学者总忘不了官话，四声，以及这是学者创造出来的字，必需有学者的气息。这回的新文字却简易得远了，又是根据于实生活的，容易学，有用，可以用这对大家说话，听大家的话，明白道理，学得技艺，这才是劳苦大众自己的东西，首先的唯一的活路。 <br/><br/>　　现在正在中国试验的新文字，给南方人读起来，是不能全懂的。现在的中国，本来还不是一种语言所能统一，所以必须另照各地方的言语来拼，待将来再图沟通。反对拉丁化文字的人，往往将这当作一个大缺点，以为反而使中国的文字不统一了，但他却抹杀了方块汉字本为大多数中国人所不识，有些知识阶级也并不真识的事实。 <br/><br/>　　然而他们却深知道新文字对于劳苦大众有利，所以在弥漫着白色恐怖的地方，这新文字是一定要受摧残的。现在连并非新文字，而只是更接近口语的“大众语”，也在受着苛酷的压迫和摧残。中国的劳苦大众虽然并不识字，但特权阶级却还嫌他们太聪明了，正竭力的弄麻木他们的思索机关呢，例如用飞机掷下炸弹去，用机关枪送过子弹去，用刀斧将他们的颈子砍断，就都是的。 <br/><br/>　　十二月九日。 <br/><br/>　　==========================================================================<br/><br/><br/>　　（１）本篇曾被译为拉丁化新文字，发表于《拥护新文字六日报》，期数未详。 <br/><br/>　　（２）指刘大杰。他在上海《人间世》半月刊创刊号（一九三四年四月五日）发表的《春波楼随笔》中说：“此等书（指《琅嬛文集》、《袁中郎全集》等）中，确有不少绝妙的小品文字，可恨清代士大夫，只会做滥调古文，不能赏识此等绝妙文章耳。”但他标点的《琅嬛文集》、《袁中郎全集》中却有不少断句错误。参看《花边文学·骂杀与捧杀》。 <br/><br/>　　（３）指王照、劳乃宣等人，参看本卷第１０８页注（４１）。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-544-7291.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-544-7293.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-544.html" action-type="chapterComment" class="comment"><i></i>且介亭杂文章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

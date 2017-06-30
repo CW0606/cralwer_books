@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《尔雅》正文_十三、释草_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="尔雅,尔雅原文,尔雅阅读,十三、释草全文,佚名作品" />
+<meta name="description" content="尔雅原文阅读,十三、释草全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-267-4570.html";
+var nextpage="novel-read-267-4572.html";
+var indexpage = "novel-chapter-267.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-267.html">尔雅</a></strong>
+<strong><a href="novel-chapter-267.html">尔雅目录</a></strong>
+<span>十三、释草</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-267-4570.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>十三、释草</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-08-29 22:37:38<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>蒮，山韭。<br/>　　茖，山葱。<br/>　　葝，山Ε。<br/>　　蒚，山蒜。<br/>　　薜，山蕲。<br/>　　椴，木槿。<br/>　　榇，木槿。<br/>　　?，山蓟。<br/>　　杨，枹蓟。<br/>　　葥，王蔧。<br/>　　菉，王刍。<br/>　　拜，蔏藋。<br/>　　蘩，皤蒿。<br/>　　蒿，菣。<br/>　　蔚，牡菣。<br/>　　齧彫蓬，荐黍蓬。<br/>　　{艹庳}，鼠莞。<br/>　　葝，鼠尾。<br/>　　菥蓂，大{艹齐}。<br/>　　蒤，虎杖。<br/>　　孟，狼尾。<br/>　　瓠栖，瓣。<br/>　　茹藘，茅蒐。<br/>　　果臝之实，栝楼。<br/>　　荼，苦菜。<br/>　　萑，蓷。<br/>　　虉，绶。<br/>　　粢，稷。<br/>　　众，秫。<br/>　　戎菽谓之荏菽。<br/>　　卉，草。<br/>　　萒，雀弁。<br/>　　{艹龠}，雀麦。<br/>　　蘾，鸟蕵。<br/>　　萰，菟荄。<br/>　　蘩，菟蒵。<br/>　　蔩，菟瓜。<br/>　　茢薽，豕首。<br/>　　荓，马帚。<br/>　　[1234]，怀羊。<br/>　　茭，牛蕲。<br/>　　{艹突}，芦萉。<br/>　　淔灌，苬芝。<br/>　　笋，竹萌，簜，竹。<br/>　　莪，萝。<br/>　　苨，菧苨。<br/>　　绖，履。<br/>　　莕，接余。<br/>　　其叶，苻。<br/>　　白华，野菅。<br/>　　薜，白蕲。<br/>　　菲，芴。<br/>　　葍，{艹富}。<br/>　　荧，委萎。<br/>　　葋，艼荧。竹{艹扁}蓄。<br/>　　葴，寒浆。<br/>　　薢茩，芵茪。<br/>　　莁荑，{艹杀}{艹墙}。<br/>　　瓞，瓝。<br/>　　其绍，瓞。<br/>　　芍，凫茈。<br/>　　蘱，薡蕫。<br/>　　{艹秭}，苵。<br/>　　钩，芺。<br/>　　Ε，鸿荟。<br/>　　苏，桂荏。<br/>　　蔷，虞蓼。<br/>　　{艹条}，蓚。<br/>　　虋，赤苗。<br/>　　芑，白苗。<br/>　　秬，黑黍。<br/>　　秠，一稃二米。<br/>　　稌，稻。<br/>　　葍，藑茅。<br/>　　台，夫须。<br/>　　藆，藅。<br/>　　莔，贝母。<br/>　　荍，蚍衃。<br/>　　艾，冰台。<br/>　　蕇，亭历。<br/>　　苻，鬼目。<br/>　　薜，庾草。<br/>　　蔜，[1234]{艹缕}。<br/>　　离南，活{艹兊}<br/>　　{艹龙}，天{艹龠}。<br/>　　须，葑苁。<br/>　　蒡，隐荵。<br/>　　莤，蔓于。<br/>　　蓾，蔖。<br/>　　柱夫，摇车。<br/>　　出隧，蘧蔬。<br/>　　蕲茝，蘪芜。<br/>　　茨，蒺藜。<br/>　　蘮蒘，窃衣。<br/>　　髦，颠蕀。<br/>　　雚芄，兰。<br/>　　荨，莐籓。<br/>　　蕍，蕮。<br/>　　蔨，鹿藿，其实莥。<br/>　　[1234]，侯莎，其实媞。<br/>　　莞，苻蓠。其上蒚。<br/>　　荷，芙渠。其茎茄，其叶蕸，其本蔤，其华菡萏，其实莲，其根藕，其中的，的中薏。<br/>　　红，茏。其大者{艹归}。<br/>　　蒫，荠实。<br/>　　{麻贲}，枲实。枲麻。<br/>　　须，蕵芜。<br/>　　菲，蒠菜。<br/>　　蕢，赤苋。<br/>　　{艹墙}蘼，虋冬。<br/>　　萹苻，止。<br/>　　泺，贯众。<br/>　　莙，牛藻。<br/>　　蓫、{艹殇}，马尾。<br/>　　萍，荓。<br/>　　其大者蘋。<br/>　　莃，菟葵。<br/>　　芹，楚葵。<br/>　　藬，牛蘈。<br/>　　藚，牛脣。<br/>　　苹，藾萧。<br/>　　连，异翘。<br/>　　泽，乌蕵。<br/>　　傅，横目。<br/>　　釐，蔓华。<br/>　　菱，蕨攗。<br/>　　大菊，蘧麦。<br/>　　薜，牡{艹赞}。<br/>　　葥，山莓。<br/>　　齧，苦堇。<br/>　　藫，石衣。<br/>　　蘜，治{艹墙}。<br/>　　唐、蒙，女萝。女萝，菟丝。<br/>　　苗，蓨。<br/>　　茥，蒛葐。<br/>　　芨，堇草。<br/>　　虃，百足。<br/>　　菺，戎葵。<br/>　　蘻，狗毒。<br/>　　垂，比叶。<br/>　　蕧，盗庚。<br/>　　茡，麻母。<br/>　　瓝，九叶。<br/>　　藐，茈草。<br/>　　倚商，活脱。<br/>　　蘵，黄蒢。<br/>　　藒车，{艹乞}舆。<br/>　　权，黄华。<br/>　　葞，春草。<br/>　　蔠葵，蘩露。<br/>　　菋，荎蕏。<br/>　　蒤，委叶。<br/>　　皇，守田。<br/>　　钩，藈姑。<br/>　　望，乘车。<br/>　　困，衱袶。<br/>　　攫，乌阶。<br/>　　杜，土卤。<br/>　　盱，虺床。<br/>　　[1234]蔜。<br/>　　赤枹蓟。<br/>　　菟奚，颗涷。<br/>　　中馗，菌，小者菌。<br/>　　{艹取}，小叶。<br/>　　召，陵苕。<br/>　　黄华蔈，白华茇。<br/>　　蘪，从水生。<br/>　　薇，垂水。<br/>　　薜，山麻。<br/>　　莽，数节。<br/>　　桃枝，四寸有节。<br/>　　粼，坚中。<br/>　　簢，筡中。<br/>　　仲，无笐。<br/>　　{笞心}，箭萌。<br/>　　筿，箭。<br/>　　枹，霍首。<br/>　　素华，轨鬷。<br/>　　芏，夫王。<br/>　　藄，月尔。<br/>　　葴，马蓝。<br/>　　姚茎涂荠。<br/>　　芐，地黄。<br/>　　蒙，王女。<br/>　　拔，茏葛。<br/>　　{艹?}，牡茅。<br/>　　菤耳，苓耳。<br/>　　蕨，{艹鳖}。<br/>　　荞，邛钜。<br/>　　繁，由胡。<br/>　　莣，杜荣。<br/>　　稂，童粱。<br/>　　藨，麃。<br/>　　的，薂。<br/>　　购，蔏蒌。<br/>　　茢，勃茢。<br/>　　葽绕，蕀{艹冤}。<br/>　　茦，刺。<br/>　　萧，萩。<br/>　　荨，海藻。<br/>　　长楚，铫芅。<br/>　　蘦，大苦。<br/>　　芣苡，马舄。马舄，车前。<br/>　　纶，似纶；组，似组，东海有之。<br/>　　帛，似帛；布，似布，华山有之。<br/>　　苀，东蠡。<br/>　　绵马，羊齿。<br/>　　萿，麋舌。<br/>　　搴，柜朐。<br/>　　蘩之丑，秋为蒿。<br/>　　芺，蓟。其实荂。<br/>　　蔈、荂，荼。<br/>　　猋、藨、芀，苇丑。<br/>　　芀，葭，华。<br/>　　蒹、薕；葭，芦；菼{艹乱}：其萌虇。<br/>　　萮、芛、葟，华荣。<br/>　　卷施草，拔心不死。<br/>　　荺，茭。<br/>　　荄，根。<br/>　　攫，橐含。<br/>　　华，荂也。<br/>　　荂，荣也。<br/>　　木谓之华，草谓之荣。<br/>　　不荣而实者谓之秀，荣而不实者谓之英。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-267-4570.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-267-4572.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-267.html" action-type="chapterComment" class="comment"><i></i>尔雅章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

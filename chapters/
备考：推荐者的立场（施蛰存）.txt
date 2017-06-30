@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《准风月谈》正文_备考：推荐者的立场（施蛰存）_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="准风月谈,准风月谈原文,准风月谈阅读,备考：推荐者的立场（施蛰存）全文,鲁迅作品" />
+<meta name="description" content="准风月谈原文阅读,备考：推荐者的立场（施蛰存）全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-551-7527.html";
+var nextpage="novel-read-551-7529.html";
+var indexpage = "novel-chapter-551.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-551.html">准风月谈</a></strong>
+<strong><a href="novel-chapter-551.html">准风月谈目录</a></strong>
+<span>备考：推荐者的立场（施蛰存）</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-551-7527.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>备考：推荐者的立场（施蛰存）</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-05 21:41:58<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　——《庄子》与《文选》之论争　　万秋先生： <br/>　　我在贵报向青年推荐了两部旧书，不幸引起了丰之余先生的训诲，把我派做“遗少中的一肢一节”。自从读了他老人家的《感旧以后》（上）一文后，我就不想再写什么，因为据我想起来，劝新青年看新书自然比劝他们看旧书能够多获得一些群众。丰之余先生毕竟是老当益壮，足为青年人的领导者。至于我呢，虽然不敢自认为遗少，但的确已消失了少年的活力，在这万象皆秋的环境中，即使丰之余先生那样的新精神，亦已不够振拔我的中年之感了。所以，我想借贵报一角篇幅，将我在九月二十九日贵报上发表的推荐给青年的书目改一下：我想把《庄子》与《文选》改为鲁迅先生的《华盖集》正续编及《伪自由书》。我想，鲁迅先生为当代“文坛老将”，他的著作里是有着很广大的活字汇的，而且据丰之余先生告诉我，鲁迅先生文章里的确也有一些从《庄子》与《文选》里出来的字眼，譬如“之乎者也”之类。 <br/>　　这样，我想对于青年人的效果也是一样的。本来我还想推荐一二部丰之余先生的著作，可惜坊间只有丰子恺先生的书，而没有丰之余先生的书，说不定他是像鲁迅先生印珂罗版木刻图一样的是私人精印本，属于罕见书之列，我很惭愧我的孤陋寡闻，未能推荐矣。 <br/>　　此外，我还想将丰之余先生介绍给贵报，以后贵报倘若有关于征求意见之类的计划，大可设法寄一份表格给丰之余先生，我想一定能够供给一点有价值的意见的。 <br/>　　不过，如果那征求是与“遗少的一肢一节”有关系的话，那倒不妨寄给我。 <br/>　　看见昨天的贵报，知道你预备将这桩公案请贵报的读者来参加讨论。我不知能不能请求你取销这个计划。我常常想，两个人在报纸上作文字战，其情形正如弧光灯下的拳击手，而报纸编辑正如那赶来赶去的瘦裁判，读者呢，就是那些在黑暗里的无理智的看客。瘦裁判总希望拳击手一回合又一回合地打下去，直到其中的一个倒了下来，Ｏｎｅ，Ｔｗｏ，Ｔｈｒｅｅ……站不起来，于是跑到那喘着气的胜者身旁去，举起他的套大皮手套的膀子，高喊着“Ｍｒ．Ｘ　Ｗｉｎ　ｔｈｅ　Ｃｈａｍｐｉｏｎ．”你试想想看，这岂不是太滑稽吗？现在呢，我不幸而自己做了这两个拳击手中间的一个，但是我不想为了瘦裁判和看客而继续扮演这滑稽戏了。并且也希望你不要做那瘦裁判。你不看见今天《自由谈》上止水先生的文章中引着那几句俗语吗？“舌头是扁的，说话是圆的”，难道你以为从读者的讨论中会得有真是非产生出来呢？ <br/>　　施蛰存。十月十八日。 <br/>　　十月十九日，《大晚报》《火炬》。 <br/>　　《扑空》正误　丰之余　　　　前几天写《扑空》的时候，手头没有书，涉及《颜氏家训》之处，仅凭记忆，后来怕有错误，设法觅得原书来查了一查，发见对于颜之推的记述，是我弄错了。其《教子篇》云：“齐朝有一士大夫，尝谓吾曰：我有一儿，年已十七，颇晓书疏，教其鲜卑语，及弹琵琶，稍欲通解，以此伏事公卿，无不宠爱，亦要事也。吾时俛而不答。异哉此人之教子也。若由此业，自致卿相，亦不愿汝曹为之。” <br/>　　然则齐士的办法，是庚子以后官商士绅的办法，施蛰存先生却是合齐士与颜氏的两种典型为一体的，也是现在一部分的人们的办法，可改称为“北朝式道德”，也还是社会上的严重的问题。 <br/>　　对于颜氏，本应该十分抱歉的，但他早经死去了，谢罪行否都不相干，现在只在这里对于施先生和读者订正我的错误。 <br/>　　十月二十五日。 <br/>　　突围　施蛰存 <br/>　　　（八）对于丰之余先生，我的确曾经“打了几拳”，这也许会成为我毕生的遗憾。但是丰先生作《扑空》，其实并未“空”，还是扑的我，站在丰先生那一方面（或者说站在正邪说那方面）的文章却每天都在“剿”我，而我却真有“一个人的受难”之感了。 <br/>　　但是，从《扑空》一文中我发现了丰先生作文的逻辑，他说“我早经声明，先前的文字并非专为他个人而发的”。 <br/>　　但下文却有“因为他辩驳的话比我所预料的还空虚”。不专为我而发，但已经预料我会辩驳，这又该作何解？ <br/>　　因为被人“指摘”了，我也觉得《庄子》与《文选》这两本书诚有不妥处，于是在给《大晚报》编辑的信里，要求他许我改两部新文学书，事实确是如此的。我并不说丰先生是恨我没有推荐这两部新文学书而“反对《庄子》与《文选》”的，而丰先生却说我存着这样的心思，这又岂是“有伦次”的话呢？ <br/>　　丰先生又把话题搭到《颜氏家训》，又搭到我自己正在读的两本书，并为一谈，说推荐《颜氏家训》是在教青年学鲜卑语，弹琵琶，以服事贵人，而且我还以身作则，在读一本洋书；说颜之推是“儒士似的，却又归心于佛”，因而我也看一本佛书；从丰先生的解释看起来，竟连我自己也失笑了，天下事真会这样巧！ <br/>　　我明明记得，《颜氏家训》中的确有一个故事，说有人教子弟学鲜卑语，学琵琶，但我还记得底下有一句：“亦不愿汝曹为之”，可见颜之推并不劝子弟读外国书。今天丰先生有“正误”了，他把这故事更正了之后，却说：“施蛰存先生却是合齐士与颜氏的两种典型为一体的。” <br/>　　这个，我倒不懂了，难道我另外还介绍过一本该“齐士”的著作给青年人吗？如果丰先生这逻辑是根据于“自己读外国书即劝人学鲜卑语”，那我也没话可说了。丰先生似乎是个想为儒家争正统的人物，不然何以对于颜之推受佛教影响如此之鄙薄呢？何以对于我自己看一本《释迦传》如此之不满呢？这里，有两点可以题出来：（一）《颜氏家训》一书之价值是否因《归心篇》而完全可以抹杀？况且颜氏虽然为佛教张目，但他倒并不鼓吹出世，逃避现实，他也不过列举佛家与儒家有可以并行不悖之点，而采佛家报应之说，以补儒家道德教训之不足，这也可以说等于现在人引《圣经》或《可兰经》中的话一样。（二）我看一本《佛本行经》，其意义也等于看一本《谟罕默德传》或《基督传》，既无皈佛之心，更无劝人学佛之行，而丰先生的文章却说是我的“渡世法”，妙哉言乎，我不免取案头的一本某先生舍金上梓的《百喻经》而引为同志矣。 <br/>　　我以前对于丰先生，虽然文字上有点太闹意气，但的确还是表示尊敬的，但看到《扑空》这一篇，他竟骂我为“洋场恶少”了，切齿之声俨若可闻，我虽“恶”，却也不敢再恶到以相当的恶声相报了。我呢，套一句现成诗：“十年一觉文坛梦，赢得洋场恶少名”，原是无足重轻，但对于丰先生，我想该是会得后悔的。今天读到《〈扑空〉正误》，则又觉得丰先生所谓“无端的诬赖，自己的猜测，撒娇，装傻”，又正好留着给自己“写照”了。（附注）《大晚报》上那两个标题并不是我自己加的，我并无“立场”，也并不愿意因我之故而使《庄子》与《文选》这两部书争吵起来。 <br/>　　右答丰之余先生。（二十七日）。 <br/>　　十月三十一行，十一月一日，《自由谈》。 <br/>　　<br/>===============================================================<br/>　　　　　 <br/>　　（１）　本篇最初发表于一九三三年十月二十三、二十四日《申报·自由谈》。 <br/>　　（２）　《大晚报》　参看本卷第２４页注（４）。该报自一九三三年四月起，增出《火炬》副刊，由崔万秋主编。 <br/>　　（３）　“逍遥游”　原为《庄子》书中的篇名，这里是借用。<br/>　　（４）　《颜氏家训》　北齐颜之推著。颜本为南朝梁人，后投奔鲜卑族政权北齐。隋初，太子召为学士。他生活的时代，正是经过五胡之乱，鲜卑族居统治地位的时期。 <br/>　　（５）　义和拳　即义和团，清末我国北方农民和手工业者武装反对帝国主义的自发的群众组织。一九○○年（庚子）曾英勇抗击八国联车的侵略，后来在帝国主义和清政府的联合镇压下遭到失败。<br/>　　（６）　施蛰存在《大晚报》征求答案的表格“目下所读之书”栏内，填了一部《文学批评之原理》（英国李却兹著）和一部《佛本行经》。 <br/>　　（７）　《归心篇》　是《颜氏家训》中的一篇。主旨在说明“内（佛）外（儒）两教，本为一体”，而对一些人加于佛教的批评和怀疑作种种解释，篇末并举有因果报应的例子数条。参看本篇“备考”《突围》。 <br/>　　（８）　丰子恺（１８９８—１９７５）　浙江桐乡人，美术家、散文家。<br/>　　（９）　《孟子》　儒家经典，是记载战国中期儒家代表人物孟轲的言行的书，由他的弟子纂辑而成。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-551-7527.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-551-7529.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-551.html" action-type="chapterComment" class="comment"><i></i>准风月谈章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

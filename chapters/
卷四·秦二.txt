@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《战国策》正文_卷四·秦二_刘向作品 - 维普阅读网</title>
+<meta name="keywords" content="战国策,战国策原文,战国策阅读,卷四·秦二全文,刘向作品" />
+<meta name="description" content="战国策原文阅读,卷四·秦二全文在线阅读,刘向作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-262-4300.html";
+var nextpage="novel-read-262-4302.html";
+var indexpage = "novel-chapter-262.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-262.html">战国策</a></strong>
+<strong><a href="novel-chapter-262.html">战国策目录</a></strong>
+<span>卷四·秦二</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-262-4300.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷四·秦二</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘向&amp;searchsubmit=yes"  target="_blank">刘向</a><span class="divide">|</span>发布时间：2014-08-28 20:46:42<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>齐助楚攻秦<br/><br/>　　齐助楚攻秦，取曲沃。其后，秦欲伐齐，齐、楚之交善，惠王患之，谓张仪曰：“吾欲伐齐，齐楚方欢，子为寡人虑之，奈何？”张仪曰：“王其为臣约车并币，臣请试之。”<br/><br/>　　张仪南见楚王曰：“弊邑之王所说甚者，无大大王；唯仪之所甚愿为臣者，亦无大大王。弊邑之王所甚憎者，亦无先齐王。唯仪甚憎者，亦无大齐王。今齐王之罪，其于弊邑之王甚厚，弊邑欲伐之，而大国与之欢，是以弊邑之王不得事[王]，（令）而[令]仪不得为臣也。大王茍能闭关绝齐，臣请使秦王献商于之地，方六百里。若此，齐必弱，齐弱则必为王役矣。则是北弱齐，西德于秦，而私商于之地以为利也，则此一计而三利俱至。”<br/><br/>　　楚王大说，宣言之于朝廷，曰：“不谷得商于之田，方六百里。”群臣闻见者毕贺，陈轸后见，独不贺。楚王曰：“不谷不烦一兵，不伤一人，而得商于之地六百里，寡人自以为智矣！诸士大夫皆贺，子独不贺，何也？”陈轸对曰：“臣见商于之地不可得，而患必至也，故不敢妄贺。”王曰：“何也？“对曰：“夫秦所以重王者，以王有齐也。今地未可得而齐先绝，是楚孤也，秦又何重孤国？且先出地[后]绝齐，秦计必弗为也；先绝齐后责地，且必受欺于张仪；受欺于张仪，王必惋之，是西生秦患，北绝齐交，则两国兵必至矣。”楚王不听，曰：“吾事善矣！子其弭口无言，以待吾事。”楚王使人绝齐，使者未来，又重绝之。<br/><br/>　　张仪反，秦使人使齐，齐、秦之交阴合。楚因使一将军受地于秦。张仪至，称病不朝。楚王曰：“张子以寡人不绝齐乎？”乃使勇士往詈齐王。张仪知楚绝齐也，乃出见使者曰：“从某至某，广从六里。”使者月：“臣闻六百里，不闻六里。“仪曰：“仪固以小人，安得六百里？”使者反报楚王，楚王大怒，欲兴师伐秦。陈轸曰：“臣可以言乎？”王曰：“可矣。“轸曰：“伐秦非计也，王不如因而赂之一名都，与之伐齐，是我亡于秦而取偿于齐也。楚国不尚全（事）[乎]？王今已绝齐，而责欺于秦，是吾合齐、秦之交也，（固）[国]必大伤。<br/><br/>　　楚王不听，遂举兵伐秦。秦与齐合，韩氏从之。楚兵大败于杜陵。故楚之土壤士民非削弱，仅以救亡者，计失于陈轸，过听于张仪。<br/><br/>　　----------------------------------------<br/><br/>　　楚绝齐齐举兵伐楚<br/><br/>　　楚绝齐,齐举兵伐楚。陈轸谓楚王曰：“王不如以地东解于齐，西讲于秦。”楚王使陈轸之秦，秦王谓轸曰：“子秦人也，寡人与子故也，寡人不佞，不能亲国事也，故子弃寡人事楚王。今齐、楚相伐，或谓救之便，或谓救之不便，子独不可以忠为子主计，以其余为寡人乎？”陈轸曰：“王独不闻吴人之游楚者乎？楚王甚爱之，病，故使人问之，曰：’诚病乎？意亦思乎？’左右曰：’臣不知其思与不思，诚思则将吴吟’。今轸将为王吴吟。王不闻夫管与之说乎？有两虎诤人而斗者，管庄子将刺之，管与止之曰：’虎者戾虫；人者甘饵也。今两虎诤人而斗，小者必死，大者必伤。子待伤虎而刺之，则是一举而兼两虎也。无刺一虎之劳，而有刺两虎之名。’齐、楚今战，战必败。败，王起兵救之，有救齐之利，而无伐楚之害。 “（计听知覆逆者，唯王可也。计者，事之本也；听者，存亡之机。计失而听过，能有国者寡也。故曰：’计有一二者难悖也，听无失本末者难惑。’”<br/><br/>　　----------------------------------------<br/><br/>　　秦惠王死公孙衍欲穷张仪<br/><br/>　　秦惠王死，公孙衍欲穷张仪。李雠谓公孙衍曰：“不如召甘茂于魏，召公孙显于韩，起樗里子于国。三人者，皆张仪之雠也，公用之，则诸侯必见张仪之无秦矣！”<br/><br/>　　----------------------------------------<br/><br/>　　义渠君之魏<br/><br/>　　义渠君之魏，公孙衍谓义渠君曰：“道远，臣不得复过矣，请谒事情。”义渠君曰：“愿闻之。”对曰：“中国无事于秦，则秦且烧焫（获）君之国；中国为有事于秦，则秦且轻使重币，而事君之国也。”义渠君曰：“谨闻命。”居无几何，五国伐秦。陈轸谓秦王曰：“义渠君者，蛮夷之贤君，王不如赂之以抚其心。”秦王曰：“善。”因以文绣千匹，好女百人，遗义渠君。义渠君致群臣而谋曰：“此乃公孙衍之所谓也。”因起兵袭秦，大败秦人于李帛之下。<br/><br/>　　----------------------------------------<br/><br/>　　医扁鹊见秦武王<br/><br/>　　医扁鹊见秦武王，武王示之病，扁鹊请除。左右曰：“君之病，在耳之前，目之下，除之未必已也，将使耳不听，目不明。”君以告扁鹊。扁鹊怒而投其石[曰] ：“君与知之者谋之，而与不知者败之。使此知秦国之政也，则君一举而亡国矣。”<br/><br/>　　----------------------------------------<br/><br/>　　秦武王谓甘茂<br/><br/>　　秦武王谓甘茂曰：“寡人欲车通三川，以窥周室，而寡人死不朽（乎）[矣] ！”甘茂对曰：“请之魏，约伐韩。”王令向寿辅行。甘茂至魏，谓向寿：“子归告王曰：’魏听臣矣，然愿王勿攻也。’事成，尽以为子功。”向寿归以告王，王迎甘茂于息壤。<br/><br/>　　甘茂至，王问其故。对曰：“宜阳，大县也，上党、南阳积之久矣，名为县，其实郡也。今王倍数险，行千里而攻之，难矣。臣闻张仪西并巴蜀之地，北取西河之外，南取上庸，天下不以（为）多张仪而贤先王。魏文侯令乐羊将，攻中山，三年而拔之，乐羊反而语功，文侯示之谤书一箧，乐羊再拜稽首曰：’此非臣之功，主君之力也。’今臣羁旅之臣也，樗里疾、公孙衍二人者，挟韩而议，王必听之，是王欺魏，而臣受公仲侈之怨也。昔者曾子处费，费人有与曾子同名族者而杀人，人告曾子母曰：“曾参杀人。’曾子之母曰：’吾子不杀人。’织自若。有顷焉，人又曰：’曾参杀人。’其母尚织自若也。顷之，一人又告之曰：’曾参杀人。’其母惧，投杼逾墙而走。夫以曾参之贤，与母之信也，而三人疑之，则慈母不能信也。今臣之贤不及曾子，而王之信臣又未若曾子之母也，疑臣者不适三人，臣恐王为臣之投杼也。”王曰：“寡人不听也，请与子盟。”于是与之盟于息壤。<br/><br/>　　果攻宜阳，五月而不能拔也。樗里疾、公孙衍二人在，争之王，王将听之，召甘茂而告之。甘茂对曰：“息壤在彼。”王曰：“有之。”因悉起兵，复使甘茂攻之，遂拔宜阳。<br/><br/>　　----------------------------------------<br/><br/>　　宜阳之役冯章谓秦王<br/><br/>　　宜阳之役，冯章谓秦王曰：“不拔宜阳，韩、楚乘吾弊，国必危矣！不如许楚汉中以欢之。楚欢而不进，韩必孤，无奈秦何矣！”王曰：“善。”果使冯章许楚汉中，而拔宜阳。楚王以其言责汉中于冯章，冯章谓秦王曰：“王遂亡臣，（固）[因]谓楚王曰：’寡人固无地而许楚王。’”<br/><br/>　　----------------------------------------<br/><br/>　　甘茂攻宜阳<br/><br/>　　甘茂攻宜阳，三鼓之而卒不上。秦之右将有尉对曰：“公不论兵，必大困。”甘茂曰：“我羁旅而得相秦者，我以宜阳饵王。今攻宜阳而不拔，公孙衍、樗里疾挫我于内，而公中以韩穷我于外，是无（伐）[荗]之日已！请明日鼓之而不可下，因以宜阳之郭为墓。”于是出私金以益公赏。明日鼓之，宜阳拔。<br/><br/>　　----------------------------------------<br/><br/>　　宜阳未得<br/><br/>　　宜阳未得，秦死伤者众,甘茂欲息兵。左陈谓甘茂曰：“公内攻于樗里疾、公孙衍，而外与韩侈为怨，今公用兵无功，公必穷矣。公不如进兵攻宜阳，宜阳拔，则公之功多矣。是樗里疾、公孙衍无事也，秦众尽怨之深矣。”<br/><br/>　　----------------------------------------<br/><br/>　　宜阳之役楚畔秦而合于韩<br/><br/>　　宜阳之役，楚畔秦而合于韩。秦王惧。甘茂曰：“楚虽合韩，不为韩氏先战；韩亦恐战而楚有变其后。韩、楚必相御也。楚言与韩，而不余怨于秦，臣是以知其御也。”<br/><br/>　　----------------------------------------<br/><br/>　　秦王谓甘茂<br/><br/>　　秦王谓甘茂曰：“楚客来使者多健，与寡人争辞，寡人数穷焉，为之奈何？”甘茂对曰：“王勿患之！其健者来使（者），则王勿听其事；其需弱者来使，则王必听之。然则需弱者用，而健者不用矣！王因而制之。”<br/><br/>　　----------------------------------------<br/><br/>　　甘茂亡秦且之齐<br/><br/>　　甘茂亡秦，且之齐，出关遇苏子，曰：“君闻夫江上之处女乎？”苏子曰：“不闻。”曰：“夫江上之处女，有家贫而无烛者，处女相与语，欲去之。家贫无烛者将去矣，谓处女曰：‘妾以无烛，故常先至，扫室布席，何爱余明之照四壁者？幸以赐妾，何妨于处女？妾自以有益于处女，何为去我？’处女<br/><br/>　　相语以为然而留之。今臣不肖，弃逐于秦而出关，愿为足下扫室布席，幸无我逐也。”苏子曰：“善。请重公于齐。”<br/><br/>　　乃西说秦王曰：“甘茂贤人，非恒士也。其居秦累世重矣，自淆塞、溪谷，地形险易尽知之。彼若以齐约韩、魏，反以谋秦，是非秦之利也。”秦王曰：“然则奈何？”苏代曰：“不如重其贽、厚其禄以迎之。彼来则置之槐谷，终身勿出，天下何从图秦？”秦王曰：“善。”与之上卿，以相迎之齐。甘茂辞不往。<br/><br/>　　苏秦（伪）[为]谓齐王曰：“甘茂，贤人也。今秦与之上卿，以相迎之，茂德王之赐，故不往，愿为王臣。今王何以礼之？王若不留，必不德王。彼以甘茂之贤得擅用强秦之众，则难图也！”齐王曰：“善。”赐之上卿，命而处之。<br/><br/>　　----------------------------------------<br/><br/>　　甘茂相秦<br/><br/>　　甘茂相秦。秦王爱公孙衍，与之间有所立，因自谓之曰：“寡人且相子。”甘茂之吏，道而闻之，以告甘茂。甘茂因入见王曰：“王得贤相，敢再拜贺。”王曰：“寡人托国于子，焉更得贤相？”对曰：“王且相犀首。”王曰：“子焉闻之？“对曰：“犀首告臣。”王怒于犀首之泄也，乃逐之。<br/><br/>　　----------------------------------------<br/><br/>　　甘茂约秦魏而攻楚<br/><br/>　　甘茂约秦、魏而攻楚。楚之（相）[拒]秦者屈盍，为楚和于秦，秦启关而听楚使。甘茂谓秦王曰：“怵于楚而不使魏制和，楚必曰：’秦鬻魏’。不悦而合于楚，楚、魏为一，国恐伤矣。王不如使魏制和，魏制和必悦。王不恶于魏，则寄地必多矣。”<br/><br/>　　----------------------------------------<br/><br/>　　陉山之事<br/><br/>　　陉山之事，赵且与秦伐齐。齐惧，令田章以阳武合于赵，而以顺子为质。赵王喜，乃案兵告于秦曰：“齐以阳武赐弊邑而纳顺子，欲以解伐。敢告下吏。”<br/><br/>　　秦王使公子他之赵，谓赵王曰：“齐与大国救魏而倍约，不可信恃，大国不义，以告弊邑，而赐之二社之地，以奉祭祀。今又案兵，且欲合齐而受其地，非使臣之所知也。请益甲四万，大国裁之。”<br/><br/>　　苏代为齐献书穰侯曰：“臣闻往来之者言曰：’秦且益赵甲四万人以伐齐。’臣窃必之弊邑之王曰：’秦王明而熟于计，穰侯智而习于事，必不益赵甲四万人以伐齐。’是何也？夫三晋相结，秦之深雠也。三晋百背秦，百欺秦，不为不信，不为无行。今破齐以肥赵，赵，秦之深雠，不利于秦。一也。秦之谋者必曰：’破齐弊晋，而后制晋楚之胜。’夫齐，罢国也，以天下击之，譬犹以千钧之弩[决]溃痈也。秦王安能制晋、楚哉！二也。秦少出兵，则晋、楚不信；多出兵，则晋、楚为制于秦。齐恐，则必不走于秦且走晋、楚。三也。齐割地以实晋、楚，则晋、楚安。齐举兵而为之顿剑，则秦反受兵。四也。是晋、楚以秦破齐，以齐破秦，何晋、楚之智而齐、秦之愚！五也。秦得安邑，善齐以安之，亦必无患矣。秦有安邑，则韩、魏必无上党（哉）[矣]。夫取三晋之肠胃与出兵而惧其不反也，孰利？故臣窃必之弊邑之王曰：’秦王明而熟于计，穰侯智而习于事，必不益赵甲四万以伐齐矣。’”<br/><br/>　　----------------------------------------<br/><br/>　　秦宣太后爱魏丑夫<br/><br/>　　秦宣太后爱魏丑夫。太后病将死，出令曰：“为我葬，必以魏子为殉。”魏子患之。庸芮为魏子说太后曰：“以死者为有知乎？”太后曰：“无知也。”曰：“若太后之神灵，明知死者之无知矣，何为空以生所爱，葬于无知之死人哉！若死者有知，先王积怒之日久矣，太后救过不赡，何暇乃私魏丑夫乎？”太后曰：“善。”乃止。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-262-4300.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-262-4302.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-262.html" action-type="chapterComment" class="comment"><i></i>战国策章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

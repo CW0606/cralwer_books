@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《盐铁论》正文_论诽第二十四_桓宽作品 - 维普阅读网</title>
+<meta name="keywords" content="盐铁论,盐铁论原文,盐铁论阅读,论诽第二十四全文,桓宽作品" />
+<meta name="description" content="盐铁论原文阅读,论诽第二十四全文在线阅读,桓宽作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-255-4070.html";
+var nextpage="novel-read-255-4072.html";
+var indexpage = "novel-chapter-255.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-255.html">盐铁论</a></strong>
+<strong><a href="novel-chapter-255.html">盐铁论目录</a></strong>
+<span>论诽第二十四</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-255-4070.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>论诽第二十四</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=桓宽&amp;searchsubmit=yes"  target="_blank">桓宽</a><span class="divide">|</span>发布时间：2014-08-26 21:18:43<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>丞相史曰：“晏子有言：‘儒者华于言而寡于实，繁于乐而舒于民，久丧以害生，厚葬以伤业，礼烦而难行，道迂而难遵，称往古而訾当世，贱所见而贵所闻。’此人本枉，以己为式。此颜异所以诛黜，而狄山死于匈奴也。处其位而非其朝，生乎世而讪其上，终以被戮而丧其躯，此独谁为负其累而蒙其殃乎？”<br/><br/>　　文学曰：“礼所以防淫，乐所以移风，礼兴乐正则刑罚中。故堤防成而民无水菑，礼义立而民无乱患。故礼义坏，堤防决，所以治者，未之有也。孔子曰：‘礼与其奢也宁俭，丧与其易也宁戚。’故礼之所为作，非以害生伤业也，威仪节文，非以乱化伤俗也。治国谨其礼，危国谨其法。昔秦以武力吞天下，而斯、高以妖孽累其祸，废古术，隳旧礼，专任刑法，而儒、墨既丧焉。塞士之涂，壅人之口，道谀日进而上不闻其过，此秦所以失天下而殒社稷也。故圣人为政，必先诛之，伪巧言以辅非而倾覆国家也。今子安取亡国之语而来乎？夫公卿处其位，不正其道，而以意阿邑顺风，疾小人浅浅面从，以成人之过也。故知言之死，不忍从苟合之徒，是以不免于螺绁。悲夫！”<br/><br/>　　丞相史曰：“檀柘而有乡，萑苇而有藂，言物类之相从也。孔子曰：‘德不孤，必有邻。’故汤兴而伊尹至，不仁者远矣。未有明君在上而乱臣在下也。今先帝躬行仁圣之道，以临海内，招举俊才贤良之士，唯仁是用，诛逐乱臣，不避所亲，务以求贤而简退不肖，犹尧之举舜、禹之族，殛鲧放驩兜也。而曰‘苟合之徒’，是则主非而臣阿，是也？”<br/><br/>　　文学曰：“皋陶对舜：‘在知人，惟帝其难之。’洪水之灾，尧独愁悴而不能治，得舜、禹而九州宁。故虽有尧明之君，而无舜、禹之佐，则纯德不流。春秋刺有君而无主。先帝之时，良臣未备，故邪臣得间。尧得舜、禹而鲧殛驩兜诛，赵简子得叔向而盛青肩诎。语曰：‘未见君子，不知伪臣。’诗云：‘未见君子，忧心忡忡。既见君子，我心则降。’此之谓也。”<br/><br/>　　丞相史曰：“尧任鲧、驩兜，得舜、禹而放殛之以其罪，而天下咸服，诛不仁也。人君用之齐民，而颜异，济南亭长也，先帝举而加之高位，官至上卿。狄山起布衣，为汉议臣，处舜、禹之位，执天下之中，不能以治，而反坐讪上；故驩兜之诛加而刑戮至焉。贤者受赏而不肖者被刑，固其然也。文学又何怪焉？”<br/><br/>　　文学曰：“论者相扶以义，相喻以道，从善不求胜，服义不耻穷。若相迷以伪，相乱以辞，相矜于后息，期于苟胜，非其贵者也。夫苏秦、张仪，荧惑诸侯，倾覆万乘，使人失其所恃；非不辩，然乱之道也。君子疾鄙夫之不可与事君，患其听从而无所不至也。今子不听正义以辅卿相，又从而顺之，好须臾之说，不计其后。若子之为人吏，宜受上戮，子姑默矣！”<br/><br/>　　丞相史曰：“盖闻士之居世也，衣服足以胜身，食饮足以供亲，内足以相恤，外不求于人。故身修然后可以理家，家理然后可以治官。故饭蔬粝者不可以言孝，妻子饥寒者不可以言慈，绪业不修者不可以言理。居斯世，行斯身，而有此三累者，斯亦足以默矣。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-255-4070.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-255-4072.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-255.html" action-type="chapterComment" class="comment"><i></i>盐铁论章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

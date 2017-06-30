@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《山海经》正文_海经·海外南经_先秦无名作品 - 维普阅读网</title>
+<meta name="keywords" content="山海经,山海经原文,山海经阅读,海经·海外南经全文,先秦无名作品" />
+<meta name="description" content="山海经原文阅读,海经·海外南经全文在线阅读,先秦无名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-222-2554.html";
+var nextpage="novel-read-222-2556.html";
+var indexpage = "novel-chapter-222.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-222.html">山海经</a></strong>
+<strong><a href="novel-chapter-222.html">山海经目录</a></strong>
+<span>海经·海外南经</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-222-2554.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>海经·海外南经</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=先秦无名&amp;searchsubmit=yes"  target="_blank">先秦无名</a><span class="divide">|</span>发布时间：2014-08-14 20:59:48<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　地之所载，六合之间，四海之内，照之以日月，经之以星辰，纪之以四时，要之以太岁，神灵所生，其物异形，或天或寿，唯圣人能通其道。<br/>　　海外自西南陬至东南陬者。<br/>　　结匈国在其西南，其为人结匈。<br/>　　南山在其东南。自此山来，虫为蛇，蛇号为鱼。一曰南山在结匈东南。<br/>　　比翼鸟在其东，其为鸟青、赤，两鸟比翼。一曰在南山东。<br/>　　羽民国在其东南，其为人长，身生羽。一曰在比翼鸟东南，其为人长颊。<br/>　　有神人二八，连臂，为帝司夜于此野。在羽民东。其为小人颊赤肩。尽十六人。<br/>　　毕方鸟在其东，青水西，其为鸟人面一脚。一曰在二八神东。<br/>　　讙头国在其南，其为人人面有翼，鸟喙，方捕鱼。一曰在毕方东。或曰讙朱国。<br/>　　厌火国在其国南，兽身黑色。生火出其口中。一曰在讙朱东。<br/>　　三株树在厌火北，生赤水上，其为树如柏，叶皆为珠。一曰其为树若彗。<br/>　　三苗国在赤水东，其为人相随。一曰三毛国。<br/>　　臷国在其东，其为人黄，能操弓射蛇。一曰臷国在三毛东。<br/>　　贯匈国在其东，其为人匈有窍。一曰在臷国东。<br/>　　交胫国在其东，其为大交胫。一曰在穿匈东。<br/>　　不死民在其东，其为人黑色，寿，不死。一曰在穿匈国东。<br/>　　歧舌国在其东。一曰在不死民东。<br/>　　昆仑虚在其东，虚四方。一曰在歧舌东，为虚四方。<br/>　　羿与凿齿战于寿华之野，羿射杀之。在昆仑虚东。羿持弓矢，凿齿持盾。一曰戈。<br/>　　三首国在其东，其为人一身三首。<br/>　　周饶国在东，其为人短小，冠带。一曰周饶国在三首东。<br/>　　长臂国在其东，捕鱼水中，两手保操一鱼。一曰在周饶东，捕鱼海中。<br/>　　狄山，帝尧葬于阳，帝喾葬于阴。爰有熊、罴、文虎、蜼、豹、离朱、视肉；吁咽、文王皆葬其所。一曰汤山。一曰爰有熊、罴、文虎、蜼、豹、离朱、【丘鸟】久、视肉、虖交。<br/>　　其范林方三百里。<br/>　　南祝融，兽身人面，乘两龙。 <br/><br/>【白话文】<br/>第一段<br/>地之所载，六合之间①，四海之内，照之以日月，经之以星辰，纪之以四时②，要之以太岁③。神灵所生，其物异形，或夭或寿，唯圣人能通其道。<br/>注解：<br/>①六合：古人以东、西、南、北、上、下六方为六合。<br/>②四时：古人以春、夏、秋、冬四季为四时。<br/>③太岁：又叫岁星，即木星。木星在黄道带里每年经过一宫，约十二年运行一周天，所以古人用以纪年。<br/>翻译：<br/>大地所负载的，包括上下四方之间的万物，在四海以内，有太阳和月亮照明，有大小星辰经历，又有春夏秋冬记季节，还有太岁正天时。大地上的一切都是神灵造化所生成，故万物各有不同的形状，有的夭折而有的长寿，只有圣明之人才能懂得其中的道理。<br/><br/>第二段<br/>海外自西南陬（z#u）至东南陬者①。<br/>注解：<br/>①陬：角。又本书自《海外南经》以下各篇，大概最早成书时先有图画，后有文字，而文字只是说明图画的 所以，每篇一开始都有表示方位的一句话，像本篇的“海外自西南陬至东南陬者”一句就是。<br/>翻译：<br/>海外从西南角到东南角的国家地区、山丘河川分别如下。<br/><br/>第三段<br/>结匈国在其西南①，其为人结匈②。<br/>注解：<br/>①其：代指邻近结匈国的灭蒙鸟。而灭蒙鸟在结匈国的北边，参看本书《海外西经》。<br/>②结匈：可能指现在所说的鸡胸。匈，同“胸”。<br/>翻译：<br/>结胸国在灭蒙鸟的西南面，那里的人都长着像鸡一样尖削凸出的胸脯。<br/><br/>第四段<br/>南山在其东南①。自此山来，虫为蛇，蛇号为鱼。一曰南山在结匈东南。<br/>注解：<br/>①其：也是代指灭蒙鸟，否则，后面“一曰南山在结匈东南”一句就重复而多余了。以下同此。<br/>翻译：<br/>南山在灭蒙鸟的东南面。从这座山来的人，把虫叫做蛇，把蛇叫做鱼。也有一种说法认为南山在结胸国的东南面。<br/><br/>第五段<br/>比翼鸟在其东，其为鸟青、赤，两鸟比翼。一曰在南山东。<br/>翻译：<br/>比翼鸟在灭蒙鸟的东面，它作为一种鸟有青色、红色间杂的羽毛，两只鸟的翅膀配合起来才能飞翔。也有一种说法认为比翼鸟在南山的东面。<br/><br/>第六段<br/>羽民国在其东南，其为人长头，身生羽。一曰在比翼鸟东南，其为人长颊（ji2）①。<br/>注解：<br/>①颊：面颊，脸的两侧。<br/>翻译：<br/>羽民国在灭蒙鸟的东南面，那里的人都长着长长的脑袋，全身生满羽毛。另一种说法认为羽民国在比翼鸟的东南面，那里的人都长着一副长长的脸颊。<br/><br/>第七段<br/>有神人二八，连臂，为帝司夜于此野①。在羽民东，其为人小颊赤肩，尽十六人。<br/>注解：<br/>①司：视察。这里是守候的意思。<br/>翻译：<br/>有叫二八的神人，手臂连在一起，在这旷野中为天帝守夜。这位神人在羽民国的东面，那里的人都是狭小的脸颊和赤红的肩膀，总共有十六个人。<br/><br/>第八段<br/>毕方鸟在其东，青水西，其为鸟人面一脚。一曰在二八神东。<br/>翻译：<br/>毕方鸟在它的东面，在青水的西面，这种鸟长着一副人的面孔却是一只脚。另一种说法认为毕方鸟在二八神人的东面。<br/><br/>第九段<br/>讙（hu1n）头国在其南，其为人人面有翼，鸟喙（hu@），方捕鱼①。一曰在毕方东。或曰讙朱国。<br/>注解：<br/>①方：正在，正当。因为是配合图画的说明文字，所以出现了这种记述具体的一举一动的词语。以下此类词语尚多。<br/>翻译：<br/>讙头国在它的南面，那里的人都是人的面孔却有两只翅膀，还长着鸟嘴，正在用它们的鸟嘴捕鱼。另一种说法认为讙头国在毕方鸟的东面。还有人认为讙头国就是讙朱国。<br/><br/>第十段<br/>厌火国在其（国）南，[其为人]兽身黑色，（生）火出其口中。一曰在讙朱东。<br/>翻译：<br/>厌火国在它的南面，那里的人都长着野兽一样的身子而且是黑色的，火从他们的口中吐出。另一种说法认为厌火国在讙朱国的东面。<br/><br/>第十一段<br/>三（株）[珠]树在厌火北，生赤水上，其为树如柏，叶皆为珠。一曰其为树若彗①。<br/>注解：<br/>①彗：即彗星。因为它拖着一条又长又散的尾巴就像扫帚，所以通常也称为扫帚星。这里实际是指树的形状像一把扫帚。<br/>翻译：<br/>三珠树在厌火国的北面，生长在赤水岸边，那里的树与普通的柏树相似，叶子都是珍珠。另一种说法认为那里的树像彗星的样子。<br/><br/>第十二段<br/>三苗国在赤水东，其为人相随。一曰三毛国。<br/>翻译：<br/>三苗国在赤水的东面，那里的人是一个跟着一个地行走。另一种说法认为三苗国就是三毛国。<br/><br/>第十三段<br/>戴（zh@）国在其东，其为人黄，能操弓射蛇。一曰（臷）[盛]国在三毛东。<br/>翻译：<br/>臷国在它的东面，那里的人都是黄色皮肤，能操持弓箭射死蛇。另一种说法认为盛国在三毛国的东面。<br/><br/>第十四段<br/>贯匈国在其东，其为人匈有窍。一曰在臷国东。<br/>翻译：<br/>贯胸国在它的东边，那里的人都是胸膛上穿个洞。另一种说法认为贯胸国在臷国的东面。<br/><br/>第十五段<br/>交胫（j@ng）国在其东，其为人交胫①。一曰在穿匈东②。<br/>注解：<br/>①胫：人的小腿。这里指整个腿脚。<br/>②穿匈：即贯匈国。穿、贯二字的音义相同。<br/>翻译：<br/>交胫国在它的东面，那里的人总是互相交叉着双腿双脚。另一种说法认为交胫国在穿胸国的东面。<br/><br/>第十六段<br/>不死民在其东，其为人黑色，寿[考]①，不死。一曰在穿匈国东。<br/>注解：<br/>①考：老。指长寿。<br/>翻译：<br/>不死民在它的东面，那里人的都是黑色的，个个长寿，人人不死。另一种说法认为不死民在穿胸国的东面。<br/><br/>第十七段<br/>（岐）[反]舌国在其东，[其为人反舌]。一曰在不死民东。<br/>翻译：<br/>反舌国在它的东面，那里的人都是舌根在前、舌尖伸向喉部。另一种说法认为反舌国在不死民的东面。<br/><br/>第十八段<br/>昆仑虚（q&）在其东①，虚（q&）四方②。一曰在（岐）[反]舌东，为虚四方。<br/>注解：<br/>①虚：大丘。这里是山的意思。<br/>②虚：所在地。这里指山下底部地基。<br/>翻译：<br/>昆仑山在它的东面，山基呈四方形。另一种说法认为昆仑山在反舌国的东面，山基向四方延伸。<br/><br/>第十九段<br/>羿（y@）与凿齿战于寿华之野①，羿射杀之。在昆仑虚（q&）东。羿持弓矢，凿齿持盾。一曰[持]戈。<br/>注解：<br/>①羿：神话传说中的天神。凿齿：传说是亦人亦兽的神人，有一个牙齿露在嘴外，有五、六尺长，形状像一把凿子。<br/>翻译：<br/>羿与凿齿在寿华的荒野交战厮杀，羿射死了凿齿。地方就在昆仑山的东面。在那次交战中羿手拿弓箭，凿齿手拿盾牌。另一种说法认为凿齿拿着戈。<br/><br/>第二十段<br/>三首国在其东，其为人一身三首。<br/>翻译：<br/>三首国在它的东面，那里的人都是一个身子三个头。<br/><br/>第二十一段<br/>周饶国在其东，其为人短小，冠带①。一曰焦侥国在三首东②。<br/>注解：<br/>①冠带：这里都作动词用，即戴上冠帽、系上衣带。<br/>②焦侥国：传说此国与周饶国的人只有三尺高。而“焦侥”、“周饶”都是“侏儒”之声转。侏儒是短小的人。则焦侥国即周饶国，就是现在所说的小人国。<br/>翻译：<br/>周饶国在它的东面，那里的人都是身材矮小的，戴帽子系腰带而整齐讲究。另一种说法认为周饶国在三首国的东面。<br/><br/>第二十二段<br/>长臂国在其东，捕鱼水中，两手各操一鱼。一曰在焦侥东，捕鱼海中。<br/>翻译：<br/>长臂国在它的东面，那里的人正在水中捕鱼，左右两只手各抓着一条鱼。另一种说法认为长臂国在焦侥国的东面，那里的人是在大海中捕鱼的。<br/><br/>第二十三段<br/>狄山，帝尧葬于阳，帝喾（k)）葬于阴①。爰有熊、罴（p0）、文虎、蜼（w7i）、豹、离朱、视肉②。吁咽、文王皆葬其所③。一曰汤山。一曰爰有熊、罴、文虎、蜼、豹、离朱、（■）[鸱]（ch9）久、视肉、虖交④。<br/>注解：<br/>①帝喾：传说中的上古帝王唐尧的父亲。<br/>②离朱：可能是神话传说中的三足鸟。这种鸟在太阳里，与乌鸦相似，但长着三只足。视肉：传说中的一种怪兽，形状像牛肝，有两只眼睛，割去它的肉吃了后，不长时间就又重新生长出来，完好如故。<br/>③吁咽：可能指传说中的上古帝王虞舜。文王：即周文王姬昌，是周朝开国君主。<br/>④虖交：不详何物。<br/>翻译：<br/>狄山，唐尧死后葬在这座山的南面，帝喾死后葬在这座山的北面。这里有熊、罴、花斑虎、长尾猿、豹子、三足乌、视肉。吁咽和文王也埋葬在这里。另一种说法认为是在汤山。还有一种说法认为这里有熊、罴、花斑虎、长尾猿、豹子、离朱鸟、鹞鹰、视肉、虖交。<br/><br/>第二十四段<br/>（其）[有]范林方三百里①。<br/>注解：<br/>①范林：树林繁衍茂密。<br/>翻译：<br/>有一片方圆三百里大小的范林。<br/><br/>第二十五段<br/>南方祝融①，兽身人面，乘两龙。<br/>注解：<br/>①祝融：神话传说中的火神。<br/>翻译：<br/>南方的祝融神，长着野兽的身子人的面孔，乘着两条龙。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-222-2554.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-222-2556.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-222.html" action-type="chapterComment" class="comment"><i></i>山海经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

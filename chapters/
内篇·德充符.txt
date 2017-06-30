@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《庄子》正文_内篇·德充符_庄子作品 - 维普阅读网</title>
+<meta name="keywords" content="庄子,庄子原文,庄子阅读,内篇·德充符全文,庄子作品" />
+<meta name="description" content="庄子原文阅读,内篇·德充符全文在线阅读,庄子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-39-986.html";
+var nextpage="novel-read-39-988.html";
+var indexpage = "novel-chapter-39.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-39.html">庄子</a></strong>
+<strong><a href="novel-chapter-39.html">庄子目录</a></strong>
+<span>内篇·德充符</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-39-986.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>内篇·德充符</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=庄子&amp;searchsubmit=yes"  target="_blank">庄子</a><span class="divide">|</span>发布时间：2014-07-22 20:59:35<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　鲁有兀者王骀，从之游者与仲尼相若。常季问于仲尼曰：“王骀， 兀者也，从之游者与夫子中分鲁。立不教，坐不议。虚而往，实而归 。固有不言之教，无形而心成者邪？是何人也？”仲尼曰：“夫子， 圣人也，丘也直后而未往耳！丘将以为师，而况不若丘者乎！奚假鲁 国，丘将引天下而与从之。”<br/><br/>　　常季曰：“彼兀者也，而王先生，其与庸亦远矣。若然者，其用心 也，独若之何？”仲尼曰：“死生亦大矣，而不得与之变；虽天地覆 坠，亦将不与之遗；审乎无假而不与物迁，命物之化而守其宗也。”<br/><br/>　　常季曰：“何谓也？”仲尼曰：“自其异者视之，肝胆楚越也；自 其同者视之，万物皆一也。夫若然者，且不知耳目之所宜，而游心乎 德之和。物视其所一而不见其所丧，视丧其足犹遗土也。”<br/><br/>　　常季曰：“彼为己，以其知得其心，以其心得其常心。物何为最之 哉？”仲尼曰：“人莫鉴于流水而鉴于止水。唯止能止众止。受命于 地，唯松柏独也正，在冬夏青青；受命于天，唯尧、舜独也正，在万 物之首。幸能正生，以正众生。夫保始之徵，不惧之实，勇士一人， 雄入于九军。将求名而能自要者而犹若是，而况官天地、府万物、直 寓六骸、象耳目、一知之所知而心未尝死者乎！彼且择日而登假，人 则从是也。彼且何肯以物为事乎！”<br/><br/>　　申徒嘉，兀者也，而与郑子产同师于伯昏无人。子产谓申徒嘉曰： “我先出则子止，子先出则我止。”其明日，又与合堂同席而坐。子 产谓申徒嘉曰：“我先出则子止，子先出则我止。今我将出，子可以 止乎？其未邪？且子见执政而不违，子齐执政乎？”申徒嘉曰：“先 生之门固有执政焉如此哉？子而说子之执政而后人者也。闻之曰：‘ 鉴明则尘垢不止，止则不明也。久与贤人处则无过。’今子之所取大 者，先生也，而犹出言若是，不亦过乎！”<br/><br/>　　子产曰：“子既若是矣，犹与尧争善。计子之德，不足以自反邪？ ”申徒嘉曰：“自状其过以不当亡者众；不状其过以不当存者寡。知 不可奈何而安之若命，唯有德者能之。游于羿之彀中。中央者，中地 也；然而不中者，命也。人以其全足笑吾不全足者众矣，我怫然而怒 ，而适先生之所，则废然而反。不知先生之洗我以善邪？吾之自寐邪 ？吾与夫子游十九年，而未尝知吾兀者也。今子与我游于形骸之内， 而子索我于形骸之外，不亦过乎！”子产蹴然改容更貌曰：“子无乃 称！”<br/><br/>　　鲁有兀者叔山无趾，踵见仲尼。仲尼曰：“子不谨，前既犯患若是 矣。虽今来，何及矣！”无趾曰：“吾唯不知务而轻用吾身，吾是以 亡足。今吾来也，犹有尊足者存，吾是以务全之也。夫天无不覆，地 无不载，吾以夫子为天地，安知夫子之犹若是也！”孔子曰：“丘则 陋矣！夫子胡不入乎？请讲以所闻。”无趾出。孔子曰：“弟子勉之 ！夫无趾，兀者也，犹务学以复补前行之恶，而况全德之人乎！”<br/><br/>　　无趾语老聃曰：“孔丘之于至人，其未邪？彼何宾宾以学子为？彼 且以蕲以諔诡幻怪之名闻，不知至人之以是为己桎梏邪？”老聃曰： “胡不直使彼以死生为一条，以可不可为一贯者，解其桎梏，其可乎？ ”无趾曰：“天刑之，安可解！”<br/><br/>　　鲁哀公问于仲尼曰：“卫有恶人焉，曰哀骀它。丈夫与之处者，思 而不能去也；妇人见之，请于父母曰：‘与为人妻，宁为夫子妾’者 ，数十而未止也。未尝有闻其唱者也，常和人而已矣。无君人之位以 济乎人之死，无聚禄以望人之腹，又以恶骇天下，和而不唱，知不出 乎四域，且而雌雄合乎前，是必有异乎人者也。寡人召而观之，果以 恶骇天下。与寡人处，不至以月数，而寡人有意乎其为人也；不至乎 期年，而寡人信之。国无宰，而寡人传国焉。闷然而后应，氾而若辞。 寡人丑乎，卒授之国。无几何也，去寡人而行。寡人恤焉若有亡也， 若无与乐是国也。是何人者也！”<br/><br/>　　仲尼曰：“丘也尝使于楚矣，适见豚子食于其死母者。少焉眴若， 皆弃之而走。不见己焉尔，不得其类焉尔。所爱其母者，非爱其形 也，爱使其形者也。战而死者，其人之葬也不以翣资；刖者之屡，无 为爱之。皆无其本矣。为天子之诸御：不爪翦，不穿耳；取妻者止于 外，不得复使。形全犹足以为尔，而况全德之人乎！今哀骀它未言而 信，无功而亲，使人授己国，唯恐其不受也，是必才全而德不形者也 。”<br/><br/>　　哀公曰：“何谓才全？”仲尼曰：“死生、存亡、穷达、贫富、贤 与不肖、毁誉、饥渴、寒暑，是事之变、命之行也。日夜相代乎前， 而知不能规乎其始者也。故不足以滑和，不可入于灵府。使之和豫， 通而不失于兑。使日夜无隙，而与物为春，是接而生时于心者也。是 之谓才全。”“何谓德不形？”曰：“平者，水停之盛也。其可以为 法也，内保之而外不荡也。德者，成和之修也。德不形者，物不能离 也。”<br/><br/>　　哀公异日以告闵子曰：“始也吾以南面而君天下，执民之纪而忧其 死，吾自以为至通矣。今吾闻至人之言，恐吾无其实，轻用吾身而亡 吾国。吾与孔丘非君臣也，德友而已矣！”<br/><br/>　　闉跂支离无脣说卫灵公，灵公说之，而视全人：其脰肩肩。甕 囗（上“央”下“瓦”音ａｎｇ４）大瘿说齐桓公，桓公说之，而视 全人：其脰肩肩。故德有所长而形有所忘。人不忘其所忘而忘其所不 忘，此谓诚忘。<br/><br/>　　故圣人有所游，而知为孽，约为胶，德为接，工为商。圣人不谋， 恶用知？不斵，恶用胶？无丧，恶用德？不货，恶用商？四者，天鬻也 。天鬻者，天食也。既受食于天，又恶用人！<br/><br/>　　有人之形，无人之情。有人之形，故群于人；无人之情，故是非不 得于身。眇乎小哉，所以属于人也；謷乎大哉，独成其天。<br/><br/>　　惠子谓庄子曰：“人故无情乎？”庄子曰：“然。”惠子曰：“人 而无情，何以谓之人？”庄子曰：“道与之貌，天与之形，恶得不谓 之人？”惠子曰：“既谓之人，恶得无情？”庄子曰：“是非吾所谓 情也。吾所谓无情者，言人之不以好恶内伤其身，常因自然而不益生 也。”惠子曰：“不益生，何以有其身？”庄子曰：“道与之貌，天 与之形，无以好恶内伤其身。今子外乎子之神，劳乎子之精，倚树而 吟，据槁梧而瞑。天选子之形，子以坚白鸣。”<br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-39-986.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-39-988.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-39.html" action-type="chapterComment" class="comment"><i></i>庄子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

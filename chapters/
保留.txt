@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《伪自由书》正文_保留_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="伪自由书,伪自由书原文,伪自由书阅读,保留全文,鲁迅作品" />
+<meta name="description" content="伪自由书原文阅读,保留全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-550-7461.html";
+var nextpage="novel-read-550-7463.html";
+var indexpage = "novel-chapter-550.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-550.html">伪自由书</a></strong>
+<strong><a href="novel-chapter-550.html">伪自由书目录</a></strong>
+<span>保留</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-550-7461.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>保留</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-04 21:00:47<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　这几天的报章告诉我们：新任政务整理委员会委员长黄郛（１）的专车一到天津，即有十七岁的青年刘庚生掷一炸弹，犯人当场捕获，据供系受日人指使，遂于次日绑赴新站外枭首示众（２）云。 <br/><br/>　　清朝的变成民国，虽然已经二十二年，但宪法草案的民族民权两篇，日前这才草成，尚未颁布。上月杭州曾将西湖抢犯当众斩决，据说奔往赏鉴者有“万人空巷”之概（３）。可见这虽与“民权篇”第一项的“提高民族地位”稍有出入，却很合于“民族篇”第二项的“发扬民族精神”。南北统一，业已八年，天津也来挂一颗小小的头颅，以示全国一致，原也不必大惊小怪的。 <br/><br/>　　其次，是中国虽说“惟女子与小人为难养也”（４），但一有事故，除三老通电，二老宣言，九四老人题字（５）之外，总有许多“童子爱国”，“佳人从军”的美谈，使壮年男儿索然无色。我们的民族，好像往往是“小时了了，大未必佳”（６），到得老年，才又脱尽暮气，据讣文，死的就更其了不得。则十七岁的少年而来投掷炸弹，也不是出于情理之外的。 <br/><br/>　　但我要保留的，是“据供系受日人指使”这一节，因为这就是所谓卖国。二十年来，国难不息，而被大众公认为卖国者，一向全是三十以上的人，虽然他们后来依然逍遥自在。至于少年和儿童，则拚命的使尽他们稚弱的心力和体力，携着竹筒或扑满（７），奔走于风沙泥泞中，想于中国有些微的裨益者，真不知有若干次数了。虽然因为他们无先见之明，这些用汗血求来的金钱，大抵反以供虎狼的一舐，然而爱国之心是真诚的，卖国的事是向来没有的。 <br/><br/>　　不料这一次却破例了，但我希望我们将加给他的罪名暂时保留，再来看一看事实，这事实不必待至三年，也不必待至五十年，在那挂着的头颅还未烂掉之前，就要明白了：谁是卖国者。（８）　　从我们的儿童和少年的头颅上，洗去喷来的狗血罢！五月十七日。 <br/><br/>　　这一篇和以后的三篇，都没有能够登出。 <br/><br/>　　七月十九日。 <br/>　<br/>===============================================================<br/><br/>　　（１）黄郛（１８８０—１９３６）浙江绍兴人。国民党政客，亲日派分子。一九二八年曾任国民党政府外交部长，因进行媚外投降活动，遭到各阶层人民的强烈反对，不久下台。一九三三年五月又被蒋介石起用，任行政院驻北平政务整理委员会委员长。 <br/><br/>　　（２）刘庚生炸黄郛案，发生于一九三三年五月。这年四月，日军向滦东及长城沿线发动总攻后，唐山、遵化、密云等地相继沦陷，平津形势危急。国民党政府为了向日本表示更进一步的投降，于五月上旬任黄郛为行政院驻北平政务整理委员会委员长；十五日黄由南京北上，十七日晨专车刚进天津站台，即有人投掷炸弹。据报载，投弹者当即被捕，送第一军部审讯，名叫刘魁生（刘庚生是“路透电”的音译），年十七岁，山东曹州人，在陈家沟刘三粪厂作工。当天中午刘被诬为“受日人指使”，在新站外枭首示众。事实上刘只是当时路过铁道，审讯时他坚不承认投弹。国民党将他杀害并制造舆论，显然是借以掩盖派遣黄郛北上从事卖国勾当的真相。 <br/><br/>　　（３）西湖抢案，见一九三三年四月二十四日《申报》载新闻《西湖有盗》：“二十三日下午二时，西湖三潭印月有沪来游客骆王氏遇匪谭景轩，出手枪劫其金镯，女呼救，匪开枪，将事主击毙，得赃而逸。旋在苏堤为警捕获，讯供不讳，当晚押赴湖滨运动场斩决，观者万人。匪曾任四四军连长。” <br/><br/>　　（４）“惟女子与小人为难养也”语见《论语·阳货》：“子曰：‘惟女子与小人为难养也，近之则不孙（逊），远之则怨。’”<br/><br/>　　（５）三老通电指马良、章炳麟、沈恩孚于一九三三年四月一日向全国通电，指斥国民党政府对日本侵略“阳示抵抗，阴作妥协”。二老宣言，指马良、章炳麟于一九三三年二月初发表的联合宣言，内容是依据历史证明东三省是中国领土。他们两人还在同年二月十八日发表宣言，驳斥日本侵略者捏造的热河不属中国领土的谰言；四月下旬又联名通电，勖勉国人坚决抗日，收回失地。九四老人，即马良（１８４０—１９３９），字相伯，江苏丹徒人。当年虚龄九十四岁，他常自署“九四老人”为各界题字。 <br/><br/>　　（６）“小时了了，大未必佳”语见《世说新语·言语》，是汉代陈韪戏谑孔融的话。 <br/><br/>　　（７）扑满陶制的储钱罐。 <br/><br/>　　（８）作者撰此文后十四天，即五月三十一日，黄郛就遵照蒋介石的指示，派熊斌同日本关东军代表冈村宁次签订了卖国的《塘沽协定》。根据这项协定，国民党政府实际上承认日本侵占长城及山海关以北的地区为合法，并把长城以南的察北、冀东的二十余县划为不设防地区，以利于日本帝国主义进一步侵吞中国。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-550-7461.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-550-7463.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-550.html" action-type="chapterComment" class="comment"><i></i>伪自由书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

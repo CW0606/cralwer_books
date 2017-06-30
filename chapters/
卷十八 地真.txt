@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《抱朴子》正文_卷十八 地真_葛洪作品 - 维普阅读网</title>
+<meta name="keywords" content="抱朴子,抱朴子原文,抱朴子阅读,卷十八 地真全文,葛洪作品" />
+<meta name="description" content="抱朴子原文阅读,卷十八 地真全文在线阅读,葛洪作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-504-5837.html";
+var nextpage="novel-read-504-5839.html";
+var indexpage = "novel-chapter-504.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-504.html">抱朴子</a></strong>
+<strong><a href="novel-chapter-504.html">抱朴子目录</a></strong>
+<span>卷十八 地真</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-504-5837.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷十八 地真</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=葛洪&amp;searchsubmit=yes"  target="_blank">葛洪</a><span class="divide">|</span>发布时间：2014-09-20 22:48:54<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>抱朴子曰：“余闻之师云，人能知一，万事毕。知一者，无一之不知也。不知一者，无一之能知也。道起於一，其贵无偶，各居一处，以象天地人，故曰三一也。天得一以清，地得一以宁，人得一以生，神得一以灵。金沈羽浮，山峙川流，视之不见，听之不闻，存之则在，忽之则亡，向之则吉，背之则凶，保之则遐祚罔极，失之则命彫气穷。老君曰：忽兮恍兮，其中有象；恍兮忽兮，其中有物。一之谓也。故仙经曰：子欲长生，守一当明；思一至饥，一与之粮；思一至渴，一与之浆。一有姓字服色，男长九分，女长六分，或在脐下二寸四分下丹田中，或在心下绛宫金阙中丹田也，或在人两眉閒，卻行一寸为明堂，二寸为洞房，三寸为上丹田也。此乃是道家所重，世世歃血口传其姓名耳。一能成阴生阳，推步寒暑。春得一以发，夏得一以长，秋得一以收，冬得一以藏。其大不可以六合阶，其小不可以毫芒比也。昔黄帝东到青丘，过风山，见紫府先生，受三皇内文，以劾召万神，南到圆陇阴建木，观百灵之所登，采若乾之华，饮丹峦之水；西见中黄子，受九加之方，过崆峒，从广成子受自然之经；北到洪隄，上具茨，见大隗君黄盖童子，受神芝图，还陟王屋，得神丹金诀记。到峨眉山，见天真皇人於玉堂，请问真一之道。皇人曰：子既君四海，欲复求长生，不亦贪乎？其相覆不可具说，粗举一隅耳。夫长生仙方，则唯有金丹；守形卻恶，则独有真一，故古人尤重也。仙经曰：九转丹，金液经，守一诀，皆在昆仑五城之内，藏以玉函，刻以金札，封以紫泥，印以中章焉。吾闻之於先师曰：一在北极大渊之中，前有明堂，後有绛宫；巍巍华盖，金楼穹隆；左罡右魁，激波扬空；玄芝被崖，朱草蒙珑；白玉嵯峨，日月垂光；历火过水，经玄涉黄；城阙交错，帷帐琳琅；龙虎列卫，神人在傍；不施不与，一安其所；不迟不疾，一安其室；能暇能豫，一乃不去；守一存真，乃能通神；少欲约食，一乃留息；白刃临颈，思一得生；知一不难，难在於终；守之不失，可以无穷；陆辟恶兽，水卻蛟龙；不畏魍魉，挟毒之虫；鬼不敢近，刃不敢中。此真一之大略也。”<br/>　　抱朴子曰：“吾闻之於师云，道术诸经，所思存念作，可以卻恶防身者，乃有数千法。如含影藏形，及守形无生，九变十二化二十四生等，思见身中诸神，而内视令见之法，不可胜计，亦各有效也。然或乃思作数千物以自卫，率多烦难，足以大劳人意。若知守一之道，则一切除弃此辈，故曰能知一则万事毕者也。受真一口诀，皆有明文，歃白牲之血，以王相之日受之，以白绢白银为约，剋金契而分之，轻说妄传，其神不行也。人能守一，一亦守人。所以白刃无所措其锐，百害无所容其凶，居败能成，在危独安也。若在鬼庙之中，山林之下，大疫之地，冢墓之閒，虎狼之薮，蛇蝮之处，守一不怠，众恶远迸。若忽偶忘守一，而为百鬼所害。或卧而魇者，即出中庭视辅星，握固守一，鬼即去矣。若夫阴雨者，但止室中，向北思见辅星而已。若为兵寇所围，无复生地，急入六甲阴中，伏而守一，则五兵不能犯之也。能守一者，行万里，入军旅，涉大川，不须卜日择时，起工移徙，入新屋舍，皆不复按堪舆星历，而不避太岁太阴将军、月建煞耗之神，年命之忌，终不复值殃咎也。先贤历试有验之道也。”<br/>　　抱朴子曰：“玄一之道，亦要法也。无所不辟，与真一同功。吾内篇第一名之为畅玄者，正以此也。守玄一复易於守真一。真一有姓字长短服色目，玄一但此见之。初求之於日中，所谓知白守黑，欲死不得者也。然先当百日洁斋，乃可候求得之耳，亦不过三四日得之，得之守之，则不复去矣。守玄一，并思其身，分为三人，三人已见，又转益之，可至数十人，皆如己身，隐之显之，皆自有口诀，此所谓分形之道。左君及蓟子训葛仙公所以能一日至数十处，及有客座上，有一主人与客语，门中又有一主人迎客，而水侧又有一主人投钓，宾不能别何者为真主人也。师言守一兼修明镜，其镜道成则能分形为数十人，衣服面貌，皆如一也。”<br/>　　抱朴子曰：“师言欲长生，当勤服大药，欲得通神，当金水分形。形分则自见其身中之三魂七魄，而天灵地祇，皆可接见，山川之神，皆可使役也。”<br/>　　抱朴子曰：“生可惜也，死可畏也。然长生养性辟死者，亦未有不始於勤，而终成於久视也。道成之後，略无所为也。未成之閒，无不为也。采掘草木之药，劬劳山泽之中，煎饵治作，皆用筋力，登危涉险，夙夜不怠，非有至志，不能久也。及欲金丹成而昇天，然其大药物，皆用钱直，不可卒办。当复由於耕牧商贩以索资，累年积勤，然後可合。及於合作之日，当复斋洁清净，断绝人事。有诸不易，而当复加之以思神守一，卻恶卫身，常如人君之治国，戎将之待敌，乃可为得长生之功也。以聪明大智，任经世济俗之器，而修此事，乃可必得耳。浅近庸人，虽有志好，不能克终矣。故一人之身，一国之象也。胸腹之位，犹宫室也。四肢之列，犹郊境也。骨节之分，犹百官也。神犹君也，血犹臣也，气犹民也。故知治身，则能治国也。夫爱其民所以安其国，养其气所以全其身。民散则国亡，气竭即身死，死者不可生也，亡者不可存也。是以至人消未起之患，治未病之疾，医之於无事之前，不追之於既逝之後。民难养而易危也，气难清而易浊也。故审威德所以保社稷，割嗜欲所以固血气。然後真一存焉，三七守焉，百害卻焉，年命延矣。”<br/>　　抱朴子曰：“师言服金丹大药，虽未去世，百邪不近也。若但服草木及小小饵八石，適可令疾除命益耳，不足以禳外来之祸也。或为鬼所冒犯，或为大山神之所轻凌，或为精魅所侵犯，唯有守真一，可以一切不畏此辈也。次则有带神符。若了不知此二事以求长生，危矣哉。四门而闭其三，盗犹得入，况尽开者邪？”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-504-5837.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-504-5839.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-504.html" action-type="chapterComment" class="comment"><i></i>抱朴子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

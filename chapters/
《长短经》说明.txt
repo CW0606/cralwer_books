@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《长短经》正文_《长短经》说明_赵蕤作品 - 维普阅读网</title>
+<meta name="keywords" content="长短经,长短经原文,长短经阅读,《长短经》说明全文,赵蕤作品" />
+<meta name="description" content="长短经原文阅读,《长短经》说明全文在线阅读,赵蕤作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-997-9572.html";
+var nextpage="novel-chapter-997.html";
+var indexpage = "novel-chapter-997.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-997.html">长短经</a></strong>
+<strong><a href="novel-chapter-997.html">长短经目录</a></strong>
+<span>《长短经》说明</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-997-9572.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>《长短经》说明</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=赵蕤&amp;searchsubmit=yes"  target="_blank">赵蕤</a><span class="divide">|</span>发布时间：2014-11-19 20:39:24<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　《钦定四库全书·提要》<br/><br/>　　《长短经》九卷<br/><br/>　　(浙江范懋柱家天一阁藏本)<br/><br/>　　唐·赵蕤撰。孙光宪《北梦琐言》载：“蕤，梓州盐亭人。博学韬钤，长于经世。夫妇俱有隐操，不应辟召。”《唐书·艺文志》亦载：“蕤，字太宾，梓州人。开元中，召之不赴。”与光宪所纪略同。惟书名作《长短要术》为少异。盖一书二名也。是书皆谈王伯经权之要，成于开元四年。自序称凡六十三篇，合为十卷。《唐志》与晁公武《读书志》卷数并同。今久无刊本。王士祯《居易录》记徐干学尝得宋椠于临清。此本前有“传是楼”一印，又有“健庵收藏图书”一印，后有“干学”一印。每卷之末皆题“杭州净戒院新印”七字。犹南宋旧刻，盖即士祯所言之本。然仅存九卷。末有洪武西已审新民《跋》，称其：“第十卷载阴谋家，本阙，今存者六十四篇”云云。(案此《跋》全剿用晁公武之言，疑书贾伪托)是佚其一卷，而反多一篇，与蕤《序》六十三篇之数不合。然勘验所存，实为六十有四。疑蕤《序》或传写之误也。第一卷八篇，题曰“文上”;第三卷四篇，题曰“文下”;第二卷四篇，则有子目而无总题。以例推之，当脱“文中”二字。第四卷一篇，题曰“霸纪上”;第五卷一篇，论七雄之事，题曰“霸纪中”;第六卷一篇，论三国之事，亦无总题。以例推之，当脱“霸纪下”三字;第七卷二篇，题曰“权议”;第八卷十九篇，题曰“杂说”;第九卷二十四篇，题曰“兵权”。其第十卷所谓“阴谋”者，则今不可考。篇中注文颇详，多引古书，盖即蕤所作。注首或标以“议曰”二字，或亦不标。体例不一，亦未详其故也。刘向序《战国策》，称或题曰“长短”。此书辨析事势，其言盖出于纵横家，故以“长短”为名。虽因时制变，不免为事功之学。而大旨主于实用，非策士诡谲之谋，其言固不悖于儒者。其文格亦颇近荀悦《申鉴》、刘邵《人物志》，犹有魏晋之遗。唐人著述，世远渐稀。虽佚十分之一，固当全璧视之矣。<br/><br/>　　《长短经》<br/><br/>　　此书之重要性不下于《太白阴经》，然时下之兵学研究者，皆只见李筌而未知赵蕤也。故于此浅论之，又本网所收之《长短经》乃据世界书局之《长短经》前后校过两次有余所得之版本。<br/><br/>　　《长短经·三国权·魏》：“自隋开皇十年庚戌岁灭陈，至今开元四年丙辰岁，凡一百二十六年，天下统一。”此为后人定其成书日期之证据。而此书唯《长短经·兵权》、《长短经·三国权》此两“权”有“序论”，它卷皆无，或亦脱佚，亦未可知。<br/><br/>　　《长短经》一书有两大重要性：一，保留了许多已逸兵书的文字，及许多尚存兵书的文字，而后者之引文尤较今本为佳。“天策府”中之《尉缭子·天官》即是以其《长短经·杂说·运命》篇与《群书治要·尉缭子》合校而得(与今本参校之后，取《长短经》之文)。二，是书在总结之中亦多所创见，如《长短经·兵权》：<br/><br/>　　赵子曰：“《诗》云‘允文允武’，《书》称‘乃武乃文’。”孔子曰：“君子有文事，必有武备。”《传》曰：“天生五材，民并用之，废一不可，谁能去兵?” 黄帝与蚩尤战，颛顼与共工争，尧伐歡兜，舜伐有苗，启伐有扈，汤伐有夏，文王伐崇，武王伐纣，汉高有京索之战，光武兴昆阳之师，魏动官渡之军，晋举平吴之役，故《吕氏春秋》曰：“圣王有仁义之兵，而无偃兵。”《淮南子》曰：“以废不义而授有德者也。”是知取威定霸，何莫由斯。自古兵书殆将千计，若不知合变，虽多亦奚以为?故曰：少则得，多则惑，所以举体要而作“兵权”云。<br/><br/>　　其“自古兵书殆将千计，若不知合变，虽多亦奚以为?”诚警世之语也。而《隋书·经籍志》所录兵书亦不过“一百三十三部，五百一十二卷”而已。其漏收者，亦不知几何矣!今之疑古者，每喜以《艺文志》、《经籍志》是否有收录某书为其疑古之“铁证”，缪矣缪矣!古籍何其之多，一人、数人岂能尽观之、尽收之?收录书名之与否，“左证”耳，以此为“主要证据”，不亦愚乎!<br/><br/>　　《流传载录》<br/><br/>　　《新唐书·艺文志·子录·杂家类》<br/><br/>　　赵蕤《长短要术》十卷。(字太宾，梓州人。开元，召之不赴)<br/><br/>　　《宋史·艺文志·子类·杂家类》<br/><br/>　　赵蕤《长短要术》九卷。<br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-997-9572.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-997.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-997.html" action-type="chapterComment" class="comment"><i></i>长短经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

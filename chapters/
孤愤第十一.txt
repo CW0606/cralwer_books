@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《韩非子》正文_孤愤第十一_韩非作品 - 维普阅读网</title>
+<meta name="keywords" content="韩非子,韩非子原文,韩非子阅读,孤愤第十一全文,韩非作品" />
+<meta name="description" content="韩非子原文阅读,孤愤第十一全文在线阅读,韩非作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-23-327.html";
+var nextpage="novel-read-23-329.html";
+var indexpage = "novel-chapter-23.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-23.html">韩非子</a></strong>
+<strong><a href="novel-chapter-23.html">韩非子目录</a></strong>
+<span>孤愤第十一</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-23-327.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>孤愤第十一</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=韩非&amp;searchsubmit=yes"  target="_blank">韩非</a><span class="divide">|</span>发布时间：2014-07-18 23:21:59<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　智术之士，必远见而明察，不明察不能烛私；能法之士，必强毅而劲直，不劲直不能矫奸。人臣循令而从事，案法而治官，非谓重人也。重人也者，无令而擅为，亏法以利私，耗国以便家，力能得其君，此所为重人也。智术之士，明察听用，且烛重人之阴情；能法之士，劲直听用，且矫重人之奸行。故智术能法之士用，则贵重之臣必在绳之外矣。是智法之士与当途之人不可两存之仇也。<br/>　　当途之人擅事要，则外内为之用矣。是以诸侯不因则事不应，故敌国为之讼；百官不因则业不进，故群臣为之用；郎中不因则不得近主，故左右为之匿；学士不因则养禄薄礼卑，故学士为之谈也。此四助者，邪臣之所以自饰也。重人不能忠主而进其仇，人主不能越四助而烛察其臣，故人主愈弊而大臣愈重。<br/>　　凡当途者之于人主也，希不信爱也，又且习故。若夫即主心同乎好恶，因其所自进也。官爵贵重，朋党又众，而一国为之讼。则法术之士欲干上者，非有所信爱之亲、习故之泽也；又将以法术之言矫人主阿辟之心，是与人主相反也。处势卑贱，无党孤特。夫以疏远与近爱信争，其数不胜也；以新旅与习故争，其数不胜也；以反主意与同好争，其数不胜也；以轻贱与贵重争，其数不胜也；以一口与一国争，其数不胜也。法术之士操五不胜之势，以岁数而又不得见；当途之人乘五胜之资，而旦暮独说于前：故法术之士奚道得进，而人主奚时得悟乎？故资必不胜而势不两存，法术之士焉得不危！其可以罪过诬者，以公法而诛之；其不可被以罪过者，以私剑而穷之。是明法术而逆主上者，不戮于吏诛，必死于私剑矣。朋党比周以弊主，言曲以便私者，必信于重人矣。故其可以攻伐借者，以官爵贵之；其可借以美名者，以外权重之。是以弊主上而趋于私门者，不显于官爵，必重于外权矣。今人主不合参验而行诛，不待见功而爵禄，故法术之士安能蒙死亡而进其说，奸邪之臣安肯乘利而退其身！故主上愈卑，私门益尊。<br/>　　夫越虽国富兵强，中国之主皆知无益于己也，曰：“非吾所得制也。”今有国者虽地广人众，然而人主壅蔽，大臣专权，是国为越也。智不类越，而不智不类其国，不察其类者也。人主所以谓齐亡者，非地与城亡也，吕氏弗制而田氏用之；所以谓晋亡者，亦非地与城亡也，姬氏不制而六卿专之也。今大臣执柄独断而上弗知收，是人主不明也。与死人同病者，不可生也；与亡国同事者，不可存也。今袭迹于齐、晋，欲国安存，不可得也。<br/>　　凡法术之难行也，不独万乘，千乘亦然。人主之左右不必智也，人主于人有所智而听之，因与左右论其言，是与愚人论智也。人主之左右不必贤也，人主于人有所贤而礼之，因与左右论其行，是与不肖论贤也。智者决策于愚人，贤士程行于不肖，则贤智之羞而人主之论悖矣。人臣之欲得官者，其修士且以精洁固身，其智士且以治辩进业。其修士不能以货赂事人，恃其精洁，而更不能以枉法为治，则修智之士不事左右，不听请谒矣。人主之左右，行非伯夷也，求索不得，货赂不至，则精辩之功息，而毁诬之言起矣。治乱之功制于近习，精洁之行决于毁誉，则修智之吏废而人主之明塞矣。不以功伐决智行，不以参伍审罪过，而听左右近习之言，则无能之士在廷而愚污之吏处官矣。<br/>　　万乘之患大臣太重，千乘之患左右太信，此人主之所公患也。且人臣有大罪，人主有大失，臣主之利相与异者也。何以明之哉？曰：主利在有能而任官，臣利在无能而得事；主利在有劳而爵禄，臣利在无功而富贵；主利在豪杰使能，臣利在朋党用私。是以国地削而私家富，主上卑而大臣重。故主失势而臣得国，主更称蕃臣，而相室剖符。此人臣之所以谲主便私也。故当世之重臣，主变势而得固宠者，十无二三。是其故何也？人臣之罪大也。臣有大罪者，其行欺主也，其罪当死亡也。智士者远见而畏于死亡，必不从重人矣；贤士者修廉而羞与奸臣欺其主，必不从重臣矣。是当途者之徒属，非愚而不知患者，必污而不避奸者也。大臣挟愚污之人上与之欺主，下与之收利，侵渔朋党，比周相与，一口惑主败法，以乱士民，使国家危削，主上劳辱，此大罪也。臣有大罪而主弗禁，此大失也。使其主有大失于上，臣有大罪於下，索国之不亡者，不可得也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-23-327.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-23-329.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-23.html" action-type="chapterComment" class="comment"><i></i>韩非子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

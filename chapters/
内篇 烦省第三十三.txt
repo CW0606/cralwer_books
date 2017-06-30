@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《史通》正文_内篇 烦省第三十三_刘知几作品 - 维普阅读网</title>
+<meta name="keywords" content="史通,史通原文,史通阅读,内篇 烦省第三十三全文,刘知几作品" />
+<meta name="description" content="史通原文阅读,内篇 烦省第三十三全文在线阅读,刘知几作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1030-10619.html";
+var nextpage="novel-read-1030-10621.html";
+var indexpage = "novel-chapter-1030.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1030.html">史通</a></strong>
+<strong><a href="novel-chapter-1030.html">史通目录</a></strong>
+<span>内篇 烦省第三十三</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1030-10619.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>内篇 烦省第三十三</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘知几&amp;searchsubmit=yes"  target="_blank">刘知几</a><span class="divide">|</span>发布时间：2014-11-28 23:09:53<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　昔荀卿有云：远略近详。则知史之详略不均，其为患者久矣。<br/><br/>　　及干令昇《史议》，历诋诸家，而独归美《左传》，云："丘明能以三十卷之约，括囊二百四十年之事，靡有孑遗。斯盖立言之高标，著作之良模也。"又张世伟著《班马优劣论》，云："迁叙三千年事，五十万言，固叙二百四十年事，八十万言。是班不如马也。"然则自古论史之烦省者，咸以左氏为得，史公为次，孟坚为甚。自魏、晋已还，年祚转促，而为其国史，亦不减班《书》。此则后来逾烦，其失弥甚者矣。<br/><br/>　　余以为近史芜累，诚则有诸，亦犹古今不同，势使之然也。辄求其本意，略而论之。何者？当春秋之时，诸侯力争，各闭境相拒，关梁不通。其有吉凶大事，见知于他国者，或因假道而方闻，或以通盟而始赴。苟异于是，则无得而称。鲁史所书，实用此道。至如秦、燕之据有西北，楚、越之大启东南，地僻界于诸戎，人罕通于上国。故载其行事，多有阙如。且其书自宣、成以前，三纪而成一卷，至昭、襄已下，数年而占一篇。是知国阻隔者，记载不详，年浅近者，撰录多备。此丘明随闻见而成传，何有故为简约者哉！<br/><br/>　　及汉氏之有天下也，普天率土，无思不服。会计之吏，岁奏于阙廷；輶轩之使，月驰于郡国。作者居府于京兆，征事于四方，用使夷夏必闻，远近无隔。故汉氏之史，所以倍增于《春秋》也。<br/><br/>　　降及东京，作者弥众。至如名邦大都，地富才良，高门甲族，代多髦俊。邑老乡贤，竞为别录；家牒宗谱，各成私传。于是笔削所采，闻见益多。此中兴之史，所以又广于《前汉》也。<br/><br/>　　夫英贤所出，何国而无？书之则与日月长悬，不书则与烟尘永灭。是以谢承尤悉江左，京洛事缺于三吴；陈寿偏委蜀中，巴、梁语详于二国。如宋、齐受命，梁、陈握纪，或地比《禹贡》一州，或年方秦氏二世。夫地之偏小，年之窘迫，适使作者采访易洽，巨细无遗，耆旧可询，隐讳咸露。此小国之史，所以不减于大邦也。<br/><br/>　　夫论史之烦省者，但当要其事有妄载，苦于榛芜，言有阙书，伤于简略，斯则可矣。必量世事之厚薄，限篇第以多少，理则不然。且必谓丘明为省也，若介葛辨牺于牛鸣，叔孙志梦于天压，楚人教晋以拔旆，城者讴华以弃甲。此而毕书，岂得谓之省邪？且必谓《汉书》为烦也，若武帝乞浆于柏父，陈平献计于天山，长沙戏舞以请地，杨仆怙宠而移关。此而不录，岂得谓之烦邪？由斯而言，则史之烦省不中，从可知矣。<br/><br/>　　又古今有殊，浇淳不等。帝尧则天称大，《书》惟一篇；周武观兵孟津，言成三誓；伏牺止画八卦，文王加以《系辞》。俱为大圣，行事若一，其丰俭不类，悬隔如斯。必以古方今，持彼喻此，如蚩尤、黄帝交战阪泉，施于春秋，则城濮、鄢陵之事也。有穷篡夏，少康中兴，施于两汉，则王莽、光武之事也。夫差既灭，句践霸世，施于东晋，则桓玄、宋祖之事也。张仪、马错为秦开蜀，施于三国，则邓艾、锺会之事也。而往之所载，其简如彼；后之所书，其审如此。若使同后来于往世，限一概以成书，将恐学者必诟其疏遗，尤其率略者矣。而议者苟嗤沈、萧之所记，事倍于孙、习；华、谢之所编，语烦于班、马，不亦谬乎！故曰："论史之烦省者，但当求其事有妄载，言有缺书，斯则可矣。必量世事之厚薄，限篇第以多少，理则不然。"其斯之谓也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1030-10619.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1030-10621.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1030.html" action-type="chapterComment" class="comment"><i></i>史通章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

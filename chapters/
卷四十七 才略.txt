@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《文心雕龙》正文_卷四十七 才略_刘勰作品 - 维普阅读网</title>
+<meta name="keywords" content="文心雕龙,文心雕龙原文,文心雕龙阅读,卷四十七 才略全文,刘勰作品" />
+<meta name="description" content="文心雕龙原文阅读,卷四十七 才略全文在线阅读,刘勰作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-665-8528.html";
+var nextpage="novel-read-665-8530.html";
+var indexpage = "novel-chapter-665.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-665.html">文心雕龙</a></strong>
+<strong><a href="novel-chapter-665.html">文心雕龙目录</a></strong>
+<span>卷四十七 才略</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-665-8528.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷四十七 才略</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘勰&amp;searchsubmit=yes"  target="_blank">刘勰</a><span class="divide">|</span>发布时间：2014-10-20 20:57:27<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　九代之文，富矣盛矣；其辞令华采，可略而详也。虞、夏文章，则有皋陶六德，夔序八音，益则有赞，五子作歌，辞义温雅，万代之仪表也。商周之世，则仲虺垂诰，伊尹敷训，吉甫之徒，并述《诗》、《颂》，义固为经，文亦足师矣。<br/><br/>　　及乎春秋大夫，则修辞聘会，磊落如琅玕之圃，焜耀似缛锦之肆，薳敖择楚国之令典，随会讲晋国之礼法，赵衰以文胜从飨，国侨以修辞扌干郑，子太叔美秀而文，公孙挥善于辞令，皆文名之标者也。<br/><br/>　　战代任武，而文士不绝。诸子以道术取资，屈宋以《楚辞》发采。乐毅报书辨而义，范雎上书密而至，苏秦历说壮而中，李斯自奏丽而动。若在文世，则扬班俦矣。荀况学宗，而象物名赋，文质相称，固巨儒之情也。<br/><br/>　　汉室陆贾，首发奇采，赋《孟春》而进《新语》，其辩之富矣。贾谊才颖，陵轶飞兔，议惬而赋清，岂虚至哉！枚乘之《七发》，邹阳之《上书》，膏润于笔，气形于言矣。仲舒专儒，子长纯史，而丽缛成文，亦诗人之告哀焉。相如好书，师范屈宋，洞入夸艳，致名辞宗。然核取精意，理不胜辞，故扬子以为“文丽用寡者长卿”，诚哉是言也！王褒构采，以密巧为致，附声测貌，泠然可观。子云属意，辞义最深，观其涯度幽远，搜选诡丽，而竭才以钻思，故能理赡而辞坚矣。<br/><br/>　　桓谭著论，富号猗顿，宋弘称荐，爰比相如，而《集灵》诸赋，偏浅无才，故知长于讽谕，不及丽文也。敬通雅好辞说，而坎壈盛世，《显志》自序，亦蚌病成珠矣。二班两刘，弈叶继采，旧说以为固文优彪，歆学精向，然《王命》清辩，《新序》该练，璿璧产于昆冈，亦难得而逾本矣。傅毅、崔骃，光采比肩，瑗寔踵武，能世厥风者矣。杜笃、贾逵，亦有声于文，迹其为才，崔、傅之末流也。李尤赋铭，志慕鸿裁，而才力沉膇，垂翼不飞。马融鸿儒，思洽识高，吐纳经范，华实相扶。王逸博识有功，而绚采无力。延寿继志，瑰颖独标，其善图物写貌，岂枚乘之遗术欤！张衡通赡，蔡邕精雅，文史彬彬，隔世相望。是则竹柏异心而同贞，金玉殊质而皆宝也。刘向之奏议，旨切而调缓；赵壹之辞赋，意繁而体疏；孔融气盛于为笔，祢衡思锐于为文，有偏美焉。潘勖凭经以骋才，故绝群于锡命；王朗发愤以托志，亦致美于序铭。然自卿、渊已前，多役才而不课学；雄向以后，颇引书以助文，此取与之大际，其分不可乱者也。<br/><br/>　　魏文之才，洋洋清绮。旧谈抑之，谓去植千里，然子建思捷而才俊，诗丽而表逸；子桓虑详而力缓，故不竞于先鸣。而乐府清越，《典论》辩要，迭用短长，亦无懵焉。但俗情抑扬，雷同一响，遂令文帝以位尊减才，思王以势窘益价，未为笃论也。仲宣溢才，捷而能密，文多兼善，辞少瑕累，摘其诗赋，则七子之冠冕乎！琳?禹以符檄擅声；徐干以赋论标美，刘桢情高以会采，应瑒学优以得文；路粹、杨修，颇怀笔记之工；丁仪、邯郸，亦含论述之美，有足算焉。刘劭《赵都》，能攀于前修；何晏《景福》，克光于后进；休琏风情，则《百壹》标其志；吉甫文理，则《临丹》成其采；嵇康师心以遣论，阮籍使气以命诗，殊声而合响，异翮而同飞。<br/><br/>　　张华短章，奕奕清畅，其《鹪鹩》寓意，即韩非之《说难》也。左思奇才，业深覃思，尽锐于《三都》，拔萃于《咏史》，无遗力矣。潘岳敏给，辞自和畅，锺美于《西征》，贾馀于哀诔，非自外也。陆机才欲窥深，辞务索广，故思能入巧而不制繁。士龙朗练，以识检乱，故能布采鲜净，敏于短篇。孙楚缀思，每直置以疏通；挚虞述怀，必循规以温雅；其品藻“流别”，有条理焉。傅玄篇章，义多规镜；长虞笔奏，世执刚中；并桢干之实才，非群华之韡萼也。成公子安，选赋而时美，夏侯孝若，具体而皆微，曹摅清靡于长篇，季鹰辨切于短韵，各其善也。孟阳、景阳，才绮而相埒，可谓鲁卫之政，兄弟之文也。刘琨雅壮而多风，卢谌情发而理昭，亦遇之于时势也。<br/><br/>　　景纯艳逸，足冠中兴，《郊赋》既穆穆以大观，《仙诗》亦飘飘而凌云矣。庾元规之表奏，靡密以闲畅；温太真之笔记，循理而清通，亦笔端之良工也。孙盛、干宝，文胜为史，准的所拟，志乎典训，户牖虽异，而笔彩略同。袁宏发轸以高骧，故卓出而多偏；孙绰规旋以矩步，故伦序而寡状。殷仲文之孤兴，谢叔源之闲情，并解散辞体，缥渺浮音，虽滔滔风流，而大浇文意。<br/><br/>　　宋代逸才，辞翰鳞萃，世近易明，无劳甄序。<br/><br/>　　观夫后汉才林，可参西京；晋世文苑，足俪鄴都。然而魏时话言，必以元封为称首；宋来美谈，亦以建安为口实。何也？岂非崇文之盛世，招才之嘉会哉？嗟夫！此古人所以贵乎时也。<br/><br/>　　赞曰∶<br/><br/>　　才难然乎！性各异禀。一朝综文，千年凝锦。<br/><br/>　　馀采徘徊，遗风籍甚。无曰纷杂，皎然可品。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-665-8528.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-665-8530.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-665.html" action-type="chapterComment" class="comment"><i></i>文心雕龙章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

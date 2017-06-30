@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《周礼》正文_地官司徒·师氏/媒氏_周公旦作品 - 维普阅读网</title>
+<meta name="keywords" content="周礼,周礼原文,周礼阅读,地官司徒·师氏/媒氏全文,周公旦作品" />
+<meta name="description" content="周礼原文阅读,地官司徒·师氏/媒氏全文在线阅读,周公旦作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-34-824.html";
+var nextpage="novel-read-34-826.html";
+var indexpage = "novel-chapter-34.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-34.html">周礼</a></strong>
+<strong><a href="novel-chapter-34.html">周礼目录</a></strong>
+<span>地官司徒·师氏/媒氏</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-34-824.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>地官司徒·师氏/媒氏</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=周公旦&amp;searchsubmit=yes"  target="_blank">周公旦</a><span class="divide">|</span>发布时间：2014-07-20 16:49:44<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/>　　师氏掌以媺诏王。以三德教国子：一曰至德，以为道本；二曰敏德，以为行本；三曰孝德，以知逆恶。教三行：一曰孝行，以亲父母；二曰友行，以尊贤良；三曰顺行，以事师长。居虎门之左，司王朝，掌国中失之事，以教国子弟，凡国之贵游子弟学焉。凡祭祀、宾客、会同、丧纪、军旅，王举则従，听治，亦如之。使其属帅四夷之隶，各以其兵服守王之门外。且跸，朝在野外，则守内列。<br/><br/>　　保氏掌谏王恶，而养国子以道。乃教之六艺，一曰五礼，二曰六乐，三曰五射，四曰五驭，五曰六书，六曰九数。乃教之六仪，一曰祭祀之容，二曰宾客之容，三曰朝廷之容，四曰丧纪之容，五曰军旅之容，六日车马之容。凡祭礼、宾客、会同、丧纪、军旅，王举则従。听治，亦如之。使其属守王闱。<br/><br/>　　司谏掌纠万民之德而劝之朋友。正其行而强之道艺，巡问而观察之，以时书其德行道艺，辨其能而可任于国事者，以考乡里之治，以诏废置，以行赦宥。<br/><br/>　　司救掌万民之袤恶过失而诛让之，以礼防禁而救之。凡民之有袤恶者，三让而罚，三罚而士加明刑，耻诸嘉石。役诸司空，其有过失者，三让而罚，三罚而归于圜土。凡岁时有天患民病，则以节巡国中及郊野，而以王命施惠。<br/><br/>　　调人掌司万民之难而谐和之。凡过而杀伤人者，以民成之。鸟兽亦如之。凡和难、父之仇辟诸海外，兄弟之仇辟诸千里之外，従父兄弟之仇不同国。君之仇眡父，师长之仇，眡兄弟，主友之仇，眡従父兄弟。弗辟，则与之瑞节而以执之。凡杀人有反杀者，使邦国交仇之。凡杀人而义者，不同国，令勿仇，仇之则死。凡有斗怒者，成之，不可成者，则书之。先动者，诛之。 媒氏掌万民之判。凡男女自成名以上，皆书年月日名焉。令男三十而娶，女二十而嫁。凡娶判妻入子者，皆书之。中春之月，令会男女，於是时也。奔者不禁。若无故而不用令者，罚之。司男女之无夫家者而会之，凡嫁子娶妻，入币纯帛无过五两。禁迁葬者与嫁殇者，男女之阴讼，听之于胜国之社。其附于刑者，归之于士。<br/><br/>译文：<br/>　　师氏负责以美善的道理告诉王。用三德教育国子：一是中庸之德，用作道德的根本；二是及时行仁义之德，用作行为的根本；三是孝德，用以制止犯上和邪恶的事。教国子三行：一是孝行，用以亲爱父母；二是善于交友之行，用以尊敬有德行而善良的人；三是敬顺之行，用以侍奉师长。<br/><br/>　　[王临朝时师氏]站在虎门外的左边，观察王处理朝政。掌握王国中符合礼和不符合礼的故事，用以教育国子弟。凡国中的贵游子弟也参加学习。凡有祭祀、接待宾客、会同、丧事、征伐之事，王如果亲自参加就随行。[王在野外]处理朝政，[师氏]也像在国中那样[观察王处理朝政]。<br/><br/>　　使自已的下属率领四夷奴隶，各自拿着本族的兵器、穿着本族的服装守卫在王的库门外，并禁止行人靠近王宫。朝设在野外，就负责内线的守卫。<br/><br/>　　保氏负责劝谏王的过失。用道艺来教养国子。教国子六艺：一是五礼，二是六乐，三是五射，四是五驭，五是六书，六是九数。教国子六种仪容：一是祭祀时的仪容，二是做宾客时的仪容，三是在朝廷上的仪容，四是丧事时的仪容，五是征伐时的仪容，六是驾车时的仪容。凡有举行祭祀、接待宾客、会同、丧事、征伐的事，王如果参加就随行。[王在野外]处理朝政，[保氏]也像在国中那样[站在路门的左边观察王处理朝政]。使下属守卫王的闱门。<br/><br/>　　司谏负责纠察万民的德行而鼓励他们在增进善道方面相互研讨，规正他们的品行而劝勉他们学习道艺，并到民间访问、观察，按时记录人们的德行和道艺，辨别其中有才能而可以担任国事的人。[通过访问、观察]以考察乡里的治理情况，以报告上级[决定对乡里官吏的]罢免或升迁，或[对有罪者]实行赦免。<br/><br/>　　司救负责[了解]民众的邪恶和过失，而对之加以责罚，用礼来防禁、挽救他们。凡民有邪恶的，三次谴责[不改]而后加以挞罚，三次挞罚[不改]而后[由司寇]施加明刑，让他坐在嘉石上羞辱他，再交到司空那里罚服劳役。那些有过失的，三次谴责[不改]而后加以挞罚，三次琏罚[不改]而后关进圜土。凡一年的四季有自然灾害而使民困病，就拿着旌节巡视国都中以及郊野，而用王的名义对灾民施行救济。<br/><br/>　　调人负责对民众间的仇怨加以调解。凡因过失杀伤人的，就与乡里民众共同评断其是非。对于因过失杀伤他人畜禽的也这样处理。凡调解仇怨：[如果是某人的]杀父的仇人就让他躲避到海外去，杀害兄弟的仇人就让他躲避到千里之外去，杀害从父兄弟的仇人就让他不要居住在同一国；对于杀君的仇人比同杀父之仇，杀害师长的仇人比同杀害兄弟之仇，杀害主子或朋友的仇人比同杀害从父兄弟之仇。如果不肯躲避，[王就]授给调人瑞节而抓捕他治罪。凡[官吏依法]诛杀有罪的人而[被杀者的亲属]有敢报复杀人的，就使天下各国都把他当作仇人[加以捕杀]。凡杀人而符合义理的，[就使杀人者与被杀者之家]不要同住在一国，劝令[被杀者之家]不要报仇，如果报仇就要判死罪。凡有吵嘴打架的，就加以评断和解；不可和解的，就[把双方的姓名和事端]记录下来，先行报复的要加以惩罚。<br/><br/>　　媒氏掌管民众的婚姻。凡男女自[出生三月]取名以上的，都要记录他们出生的年月日和姓名。使男子年满三十而娶妻，女子年满二十而出嫁。凡娶再嫁妇为妻和接纳再嫁妇所带子女的，都要加以记录。仲春二月，令男女成婚。这个时候，如果有私奔的也不加禁止。如果无故该嫁娶而不嫁娶的，就要处罚。了解男女[过了婚龄]尚未成婚的而帮助她们成婚。凡嫁女娶妻，送聘礼用缁帛，不超过五两。禁止[把生前没有夫妻名分的男女]迁葬在一起，禁止对于殇死的男女再行嫁娶。凡因男女淫浃引起的争讼，在胜国的社坛听断；其中有触犯刑律的，交给司法官处置。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-34-824.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-34-826.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-34.html" action-type="chapterComment" class="comment"><i></i>周礼章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

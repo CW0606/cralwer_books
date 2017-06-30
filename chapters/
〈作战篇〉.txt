@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孙子略解》正文_〈作战篇〉_曹操作品 - 维普阅读网</title>
+<meta name="keywords" content="孙子略解,孙子略解原文,孙子略解阅读,〈作战篇〉全文,曹操作品" />
+<meta name="description" content="孙子略解原文阅读,〈作战篇〉全文在线阅读,曹操作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-348-5155.html";
+var nextpage="novel-read-348-5157.html";
+var indexpage = "novel-chapter-348.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-348.html">孙子略解</a></strong>
+<strong><a href="novel-chapter-348.html">孙子略解目录</a></strong>
+<span>〈作战篇〉</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-348-5155.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>〈作战篇〉</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=曹操&amp;searchsubmit=yes"  target="_blank">曹操</a><span class="divide">|</span>发布时间：2014-09-05 21:20:49<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>〔曹操曰：欲战必先算其费，务因粮於敌也。〕<br/>　　孙子曰：<br/>　　凡用兵之法：驰车千驷，革车千乘，带甲十万。<br/>　　〔曹操曰：驰车，轻车也，驾驷马；革车，重车也，言万骑之重。车驾四马，率三万军，养二人主炊家子，一人主保固守衣装，厩二人主养马，凡五人。步兵十人，重以大车驾牛<br/>　　。养二人主炊家子，一人主守衣装，凡三人也。带甲十万，士卒数也。〕千里而馈粮，<br/>　　〔曹操曰：越境千里。〕<br/>　　则外内之费，宾客之用，胶漆之财，车甲之奉：费日千金，然後十万之师举矣。<br/>　　〔曹操曰：谓购赏犹在外之也。〕<br/>　　其用战：胜久则钝兵挫锐，攻城则屈力，久暴师则国用不足。〔曹操曰：钝，弊也；屈，尽也。〕夫钝兵挫锐、屈力、殚货，则诸侯乘其弊而起，虽智者，不能善其後矣。<br/>　　故兵闻拙速，未睹巧久。<br/>　　〔曹操曰：虽拙，有以速胜。未睹者，言无也。〕<br/>　　夫兵久而国利者，未之有也。故不尽知用兵之害，则不能得用兵之利矣。<br/>　　故善用兵者，役不再籍，粮不再载；<br/>　　〔曹操曰：籍，犹赋也。言初赋民，便取胜，不复归国发兵也。始用粮，後遂因食於敌，<br/>　　还兵入国，不复以粮迎之也。〕<br/>　　取用於国，因粮於敌：故军食可足也。<br/>　　〔曹操曰：兵甲战具，取用於国中，粮食则因敌也。〕<br/>　　国之贫於师者：远者远输，远输则百姓贫；<br/>　　近师者贵卖，贵卖则百姓财竭，<br/>　　〔曹操曰：军行已出界，近於师者贪财，皆贵卖，则百姓虚竭也。〕财竭则急於丘役。屈力中原，内虚於家，百姓之费，十去其六。<br/>　　〔曹操曰：丘，十六井也。百姓财殚尽而兵不解，则运粮尽力於原野也。十去其七者，所<br/>　　破费也。〕<br/>　　公家之用：破车疲马，甲胄矢弩，戟楯矛橹，丘牛大车，十去其七。<br/>　　〔曹操曰：丘牛，谓丘邑之牛；大车，乃长毂车也。〕<br/>　　故智将务食於敌，食敌一锺，当吾二十锺；[上艹下忌][上艹下干]一石，当吾二十石<br/>　　。<br/>　　〔曹操曰：[艹忌]，豆[禾皆]也；[禾干]，禾槁也。石，百二十斤也。转输之法，费二十<br/>　　石乃得一石。〕<br/>　　故杀敌者，怒也；<br/>　　〔曹操曰：威怒以致敌。〕<br/>　　取敌者，货也。<br/>　　〔曹操曰：军无财，士不来；军无赏，士不往。〕<br/>　　车战：得车十乘以上，赏其先得者，〔曹操曰：以车战能得敌车十乘已上，赏赐之。不言车战得车十乘已上者赏之，而言赏得<br/>　　者何？言欲开示赏其所得车之卒也。陈车之法：五车为队，仆射一人；十军为官，卒长一<br/>　　人；车满十乘，将吏二人。因而用之，故别言赐之，欲使将恩下及也。或曰：言使自有车十乘已上与敌战，但取其有功者赏之，其十乘已下，虽一乘独得，余九乘皆赏之，所以率进励士也。〕<br/>　　而更其旌旗；<br/>　　〔曹操曰：与吾同也。〕<br/>　　车杂而乘之，<br/>　　〔曹操曰：不独任也。〕<br/>　　卒共而养之，是谓胜敌而益强。〔曹操曰：益己之强。〕<br/>　　故兵贵速，不贵久。<br/>　　〔曹操曰：久则不利。兵犹火也，不戢将自焚也。〕<br/>　　故知兵之将，民之司命，而国安危之主也。<br/>　　〔曹操曰：将贤则国安也。〕</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-348-5155.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-348-5157.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-348.html" action-type="chapterComment" class="comment"><i></i>孙子略解章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

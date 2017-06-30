@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《灵枢》正文_邪客第七十一_黄帝作品 - 维普阅读网</title>
+<meta name="keywords" content="灵枢,灵枢原文,灵枢阅读,邪客第七十一全文,黄帝作品" />
+<meta name="description" content="灵枢原文阅读,邪客第七十一全文在线阅读,黄帝作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-268-4730.html";
+var nextpage="novel-read-268-4732.html";
+var indexpage = "novel-chapter-268.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-268.html">灵枢</a></strong>
+<strong><a href="novel-chapter-268.html">灵枢目录</a></strong>
+<span>邪客第七十一</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-268-4730.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>邪客第七十一</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=黄帝&amp;searchsubmit=yes"  target="_blank">黄帝</a><span class="divide">|</span>发布时间：2014-08-30 22:33:54<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>黄帝问于伯高曰：夫邪气之客人也，或令人目不瞑，不卧出者，何气使然？伯高曰：五谷入于胃也，其糟粕、津液、宗气分为三隧。故宗气积于胸中，出于喉咙，以贯心脉，而行呼吸焉。营气者，泌其津液，注之于脉，化以为血，以荣四末，内注五藏六府，以应刻数焉。卫气者，出其悍气之慓疾，而先行于四末、分肉、皮肤之间，而不休者也。昼日行于阳，夜行于阴，常从足少阴之分间，行于五藏六府。今厥气客于五藏六府，则卫气独卫其外，行于阳，不得入于阴。行于阳则阳气盛，阳气盛则阳蹻陷；不得入于阴，阴虚，故目不瞑。黄帝曰：善。治之奈何？伯高曰：补其不足，泻其有余，调其虚实，以通其道而去其邪，饮以半夏汤一剂，阴阳已通，其卧立至。黄帝曰：善。此所谓决渎壅塞，经络大通，阴阳和得者也。愿闻其方。伯高曰：其汤方以流水千里以外者八升，扬之万遍，取其清五升煮之，炊以苇薪，火沸，置秫米一升，治半夏五合，徐炊，令竭为一升半，去其滓，饮汁一小杯，日三，稍益，以知为度。故其病新发者，覆杯则卧，汗出则已矣；久者，三饮而已也。<br/>　　　 黄帝问于伯高曰：愿闻人之肢节以应天地奈何？伯高答曰：天圆地方，人头圆足方以应之。天有日月，人有两目。地有九州岛，人有九窍。天有风雨，人有喜怒。天有雷电，人有音声。天有四时，人有四肢。天有五音，人有五藏。天有六律，人有六府。天有冬夏，人有寒热。天有十日，人有手十指。辰有十二，人有足十指，茎、垂以应之，女子不足二节，以抱人形。天有阴阳，人有夫妻。岁有三百六十五日，人有三百六十五节。地有高山，人有肩膝。地有深谷，人有腋腘。地有十二经水，人有十二经脉。地有泉脉，人有卫气。地有草蓂，人有毫毛。天有昼夜，人有卧起。天有列星，人有牙齿。地有小山，人有小节。地有山石，人有高骨。地有林木，人有募筋。地有聚邑，人有A2U0肉。岁有十二月，人有十二节。地有四时不生草，人有无子。此人与天地相应者也。<br/>　　　 黄帝问于岐伯曰：余愿闻持针之数，内针之理，纵舍之意，扞皮开腠理，奈何？脉之屈折，出入之处，焉至而出，焉至而止，焉至而徐，焉至而疾，焉至而入？六府之输于身者，余愿尽闻其序。别离之处，离而入阴，别而入阳，此何道而从行？愿尽闻其方。岐伯曰：帝之所问，针道毕矣。黄帝曰：愿卒闻之。岐伯曰：手太阴之脉，出于大指之端，内屈，循白肉际，至本节之后太渊，留以澹，外屈，上于本节下，内屈，与阴诸络会于鱼际，数脉并注，其气滑利，伏行壅骨之下，外屈，出于寸口而行，上至于肘内廉，入于大筋之下，内屈，上行臑阴，入腋下，内屈，走肺。此顺行逆数之屈折也。心主之脉，出于中指之端，内屈，循中指内廉以上，留于掌中，伏行两骨之间，外屈，出两筋之间，骨肉之际，其气滑利，上行二寸，外屈，出行两筋之间，上至肘内廉，入于小筋之下，留两骨之会，上入于胸中，内络于心脉。<br/>　　　 黄帝曰：手少阴之脉独无腧何也？岐伯曰：少阴，心脉也。心者，五藏六府之大主也，精神之所舍也，其藏坚固，邪弗能容也。容之则心伤，心伤则神去，神去则死矣。故诸邪之在于心者，皆在于心之包络。包络者，心主之脉也，故独无腧焉。黄帝曰：少阴独无腧者，不病乎？岐伯曰；其外经病而藏不病，故独取其经于掌后锐骨之端。其余脉出入屈折，其行之徐疾，皆如手少阴、心主之脉行也。故本腧者，皆因其气之虚实疾徐以取之，是谓因冲而泻，因衰而补。如是者，邪气得去，真气坚固，是谓因天之序。<br/>　　　 黄帝曰：持针纵舍奈何？岐伯曰：必先明知十二经脉之本末，皮肤之寒热，脉之盛衰滑涩。其脉滑而盛者，病日进；虚而细者，久以持；大以涩者，为痛痹；阴阳如一者，病难治。其本末尚热者，病尚在；其热已衰者，其病亦去矣。持其尺，察其肉之坚脆、大小、滑涩、寒温、燥湿。因视目之五色，以知五藏而决死生；视其血脉，察其色，以知其寒热痛痹。黄帝曰：持针纵舍，余未得其意也。岐伯曰：持针之道，欲端以正，安以静，先知虚实，而行疾徐，左手执骨，右手循之，无与肉果。泻欲端以正，补必闭肤，辅针导气，邪得淫泆，真气得居。<br/>　　　 黄帝曰：扞皮开腠理奈何？岐伯曰：因其分肉，左别其肤，微内而徐端之，适神不散，邪气得去。<br/>　　　 黄帝问于岐伯曰：人有八虚，各何以候？岐伯答曰：以候五藏。黄帝曰：候之奈何？岐伯曰：肺心有邪，其气留于两肘；肝有邪，其气流于两腋；脾有邪，其气留于两髀；肾有邪，其气留于两腘。凡此八虚者，皆机关之室，直气之所过，血络之所游，邪气恶血，固不得住留，住留则伤筋络骨节，机关不得屈伸，故痀挛也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-268-4730.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-268-4732.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-268.html" action-type="chapterComment" class="comment"><i></i>灵枢章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

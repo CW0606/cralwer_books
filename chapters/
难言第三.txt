@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《韩非子》正文_难言第三_韩非作品 - 维普阅读网</title>
+<meta name="keywords" content="韩非子,韩非子原文,韩非子阅读,难言第三全文,韩非作品" />
+<meta name="description" content="韩非子原文阅读,难言第三全文在线阅读,韩非作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-23-319.html";
+var nextpage="novel-read-23-321.html";
+var indexpage = "novel-chapter-23.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-23.html">韩非子</a></strong>
+<strong><a href="novel-chapter-23.html">韩非子目录</a></strong>
+<span>难言第三</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-23-319.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>难言第三</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=韩非&amp;searchsubmit=yes"  target="_blank">韩非</a><span class="divide">|</span>发布时间：2014-07-18 23:17:41<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>臣非非难言孔，所以难言者：言顺比滑泽，洋洋纚々然，则见以为华而不实；敦祗恭厚，鲠固慎完，则见以为掘而不伦；多言繁称，连类比物，则见以为虚而无用；总微说约，径省而不饰，则见以为刿而不辩；激急亲近，探知人情，则见以为谮为不让；闳大广博，妙远不测，则见以为夸而无用；家计小谈，以具数言，则见以为陋；言而近世，辞不悖逆，则见以为贪生而谀上；言而远俗，诡躁人间，则见以为诞；捷敏辩给，繁于文采，则见以为史；殊释文学，以质信言，则见以为鄙；时称诗书，道法往古，则见以为诵。此臣非之所以难言而重患也。<br/>　　故度量虽正，未必听也；义理虽全，未必用也。大王若以此不信，而小者以为毁訾诽谤，大者患祸灾害死亡及其身。故子胥善谋而吴戮之，仲尼善说而匡围之，管夷吾实贤而鲁囚之。故此三大夫岂不贤哉？而三君不明也。上古有汤，至圣也：伊尹，至智也。夫至智说至圣，然且七十说而不受，身执鼎俎为包宰，昵近习亲，而汤乃仅知其贤而用之。故曰：以至智说至圣，未必至而见受，伊尹说汤是也；以智说愚必不听，文王说纣是也。故文王说纣而纣囚之；翼候炙；鬼候腊，比干剖心；梅伯酸；夷吾束缚；而曹羁奔陈；伯里子道乞；传说转鬻；孙子膑脚于魏；吴起收泣于岸门，痛西河之为秦，卒枝解于楚；公叔痤言国器反为悖，公孙鞅奔秦；关龙逢斩；苌弘分胣；尹子罕于棘；司马子期死而浮于江；田明辜射；宓子贱、西门豹不斗而死人手；董安于死而陈于市；宰予不免于田常；范雎折协于魏。此十数人者，皆世之仁贤忠良有道术之士也，不幸而遇悖乱暗惑之主而死。然则虽贤圣不能逃死亡避戮辱者何也？则愚者难说也，故君子难言也。且至言忤于耳而倒于心，非贤圣莫能听，愿大王熟察之也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-23-319.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-23-321.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-23.html" action-type="chapterComment" class="comment"><i></i>韩非子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

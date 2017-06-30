@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《集外集拾遗补编》正文_《郑季宣残碑》考_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="集外集拾遗补编,集外集拾遗补编原文,集外集拾遗补编阅读,《郑季宣残碑》考全文,鲁迅作品" />
+<meta name="description" content="集外集拾遗补编原文阅读,《郑季宣残碑》考全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-542-7140.html";
+var nextpage="novel-read-542-7142.html";
+var indexpage = "novel-chapter-542.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-542.html">集外集拾遗补编</a></strong>
+<strong><a href="novel-chapter-542.html">集外集拾遗补编目录</a></strong>
+<span>《郑季宣残碑》考</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-542-7140.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>《郑季宣残碑》考</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-01 20:42:08<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　郑季宣碑，今存上截。额字灭尽，翁方纲（２）见穿左有直纹一线，知是阳文。碑文行存十七字，以《隶续》（３）所载文补之，每行三十一字至三十八字不等。盖所注阙字之数转刻有误，碑又失其下半，无以审正。今可知者第十二行“卒�”至“是路”间，洪云阙四字，碑实阙五字。第十七行“赖祉”至“�”字间，洪云阙六字，碑实阙七字。铭辞宁成为韵，四字为句，则“达”至“显奕世”间当阙六字，而洪云五字。又第七行“据”洪作“折”，第九行“�燠”洪作“亻田丌”，第十三行“�”洪作“�”，并误。其旧拓可见而《隶续》所阙者：第四行“阝”半字，第五行“郎中”二字，第六行“帝”字“特”字，第七行“未”字“波”字，第十行“汰”字，第十二行“徽”字，“能惠”二字阙半，第十三行“立丨”字“约殁”二字，第十六行“庭”字，第十七行“目洪”二字，凡多得十六字又二半字也。碑阴，洪写作二列，跋云四横，今存上二列，列廿人，与《隶续》所载前半略相合。惟第二列第十七行“邯郸”，洪作“（阙三字）邵训（阙）张”，颇不同。第三横，当亦二十人，则洪云末有“直事干”四人，正在第三列之末。最后有“（上阙）音伯字”三字，当即造碑者所识文。然则第四列当为“直事小史”三人，“门下小史”一人也。 <br/><br/>　　==============================================================================<br/><br/><br/>　　（１）本篇据手稿编入，原无标题、标点。写作时间未详。《郑季宣残碑》，全称《汉尉氏令郑季宣碑》，在山东济宁学宫，东汉中平二年（１８５）四月辛酉立。碑侧刻有清代乾隆五十一年（１７８６）八月十六日黄易题记：“汉尉氏令郑季宣碑，正面向壁，其下久埋土中。翁詹事方纲欲显全文，属卫河通判黄易升碑向外。乃与知济宁直隶州事刘永铨、州判王所礼成其事。碑字复全露，殊可快也。”（２）翁方纲（１７３３—１８１８）字正三，号覃溪，顺天大兴（今属河北）人，清代学者。官至内阁学士。著有《两汉金石记》、《复初斋诗文集》等。《郑季宣碑》侧刻有翁方纲乾隆五十七年（１７９２）的一段题识：“壬子三月，翁方纲按试过此，与秋盦摩挲是碑，穿左有直纹一线，知额是阳文也。”按秋盦，黄易的字。 <br/><br/>　　（３）《隶续》辑录汉、魏石刻文字的字书，续《隶释》而作，宋代洪适辑，二十卷。《郑季宣碑》见于卷十九。洪适（１１１７—１１８４），字景伯，鄱阳（今属江西）人，宋代学者。官至尚书右仆射、观文殿学士。著有《隶释》、《隶续》、《盘洲集》。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-542-7140.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-542-7142.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-542.html" action-type="chapterComment" class="comment"><i></i>集外集拾遗补编章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

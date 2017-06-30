@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《史通》正文_内篇 辨职第三十五_刘知几作品 - 维普阅读网</title>
+<meta name="keywords" content="史通,史通原文,史通阅读,内篇 辨职第三十五全文,刘知几作品" />
+<meta name="description" content="史通原文阅读,内篇 辨职第三十五全文在线阅读,刘知几作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1030-10621.html";
+var nextpage="novel-read-1030-10623.html";
+var indexpage = "novel-chapter-1030.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1030.html">史通</a></strong>
+<strong><a href="novel-chapter-1030.html">史通目录</a></strong>
+<span>内篇 辨职第三十五</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1030-10621.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>内篇 辨职第三十五</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘知几&amp;searchsubmit=yes"  target="_blank">刘知几</a><span class="divide">|</span>发布时间：2014-11-28 23:10:17<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　夫设官分职，儜绩课能，欲使上无虚授，下无虚受，其难矣哉！昔汉文帝幸诸将营，而目周亚夫为真将军。嗟乎！必于史职求真，斯乃特为难遇者矣。<br/><br/>　　史之为务，厥途有三焉。何则？彰善贬恶，不避强御，若晋之董狐，齐之南史，此其上也。编次勒成，郁为不朽，若鲁之丘明，汉之子长，此其次也。高才博学，名重一时，若周之史佚，楚之倚相，此其下也。苟三者并阙，复何为者哉？<br/><br/>　　昔鲁叟之修《春秋》也，不藉三桓之势；汉臣之著《史记》也，无假七贵之权。而近古每有撰述，必以大臣居首。案《晋起居注》载康帝诏，盛称著述任重，理藉亲贤，遂以武陵王领秘书监。寻武陵才非河献，识异淮南，而辄以彼藩翰，董斯邦籍，求诸称职，无闻焉尔。既而齐撰礼书，和士开总知；唐修《本草》，徐世勣监统。夫使辟阳、长信指挥马、郑之前，周勃、张飞弹压桐、雷之右，斯亦怪矣。<br/><br/>　　大抵监史为难，斯乃尤之尤者。若使直若南史，才若马迁，精勤不懈若扬子云，谙识故事若应仲远，兼斯具美，督彼群才，使夫载言记事，藉为模楷，搦管操觚，归其仪的，斯则可矣。但今之从政则不然，凡居斯职者，必恩幸贵臣，凡庸贱品，饱食安步，坐啸画诺，若斯而已矣。夫人既不知善之为善，则亦不知恶之为恶。故凡所引进，皆非其才，或以势利见升，或以干祈取擢。遂使当官效用，江左以不落为谣，拜职辨名，洛中以职闲为说。言之可为大噱，可为长叹也。<br/><br/>　　曾试论之，世之从仕者，若使之为将也，而才无韬略；使之为吏也，而术靡循良；使之属文也，而匪闲于辞赋；使之讲学也，而不习于经典。斯则负乘致寇，悔吝旋及。虽五尺儿童，犹知调笑者矣。唯夫修史者则不然。或当官卒岁，竟无刊述，而人莫之省也；或辄不自揆，轻弄笔端，而人莫之见也。由斯而言，彼史曹者，崇扃峻宇，深附九重，虽地处禁中，而人同方外。可以养拙，可以藏愚，绣衣直指所不能绳，强项申威所不能及。斯固素餐之窟宅，尸禄之渊薮也。凡有国有家者，何事于斯职哉！<br/><br/>　　昔子贡欲去告朔之饩羊，子曰："尔爱其羊，我爱其礼。"又语云："虽无老成人，尚有典刑。"观历代之置史臣，有同嬉戏，而竟不废其职者，盖存夫爱礼，吝彼典刑者乎！昔丘明之修《传》也，以避时难；子长之立《记》也，藏于名山；班固之成《书》也，出自家庭；陈寿之草《志》也，创于私室。然则古来贤俊，立言垂后，何必身居廨宇，迹参僚属，而后成其事乎？<br/><br/>　　是以深识之士，知其若斯，退居清静，杜门不出，成其一家，独断而已。岂与夫冠猴献状，评议其得失者哉！</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1030-10621.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1030-10623.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1030.html" action-type="chapterComment" class="comment"><i></i>史通章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

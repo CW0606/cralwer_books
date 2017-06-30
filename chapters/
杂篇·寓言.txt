@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《庄子》正文_杂篇·寓言_庄子作品 - 维普阅读网</title>
+<meta name="keywords" content="庄子,庄子原文,庄子阅读,杂篇·寓言全文,庄子作品" />
+<meta name="description" content="庄子原文阅读,杂篇·寓言全文在线阅读,庄子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-39-1009.html";
+var nextpage="novel-read-39-1011.html";
+var indexpage = "novel-chapter-39.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-39.html">庄子</a></strong>
+<strong><a href="novel-chapter-39.html">庄子目录</a></strong>
+<span>杂篇·寓言</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-39-1009.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>杂篇·寓言</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=庄子&amp;searchsubmit=yes"  target="_blank">庄子</a><span class="divide">|</span>发布时间：2014-07-22 21:12:31<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　寓言十九，重言十七，卮言日出，和以天倪。寓言十九，藉外论之 。亲父不为其子媒。亲父誉之，不若非其父者也。非吾罪也，人之罪 也。与己同则应，不与己同则反。同于己为是之，异于己为非之。重 言十七，所以己言也。是为耆艾，年先矣，而无经纬本末以期年耆者 ，是非先也。人而无以先人，无人道也。人而无人道，是之谓陈人。 卮言日出，和以天倪，因以曼衍，所以穷年。不言则齐，齐与言不齐 ，言与齐不齐也。故曰：“言无言。”言无言：终身言，未尝言；终 身不言，未尝不言。有自也而可，有自也而不可；有自也而然，有自 也而不然。恶乎然？然于然；恶乎不然？不然于不然。恶乎可？可于 可；恶乎不可？不可于不可。物固有所然，物固有所可。无物不然， 无物不可。非卮言日出，和以天倪，孰得其久！万物皆种也，以不同 形相禅，始卒若环，莫得其伦，是谓天均。天均者，天倪也。<br/><br/>　　庄子谓惠子曰：“孔子行年六十而六十化。始时所是，卒而非之。 未知今之所谓是之非五十九非也。”惠子曰：“孔子勤志服知也。” 庄子曰：“孔子谢之矣，而其未之尝言也。孔子云：夫受才乎大本， 复灵以生。鸣而当律，言而当法。利义陈乎前，而好恶是非直服人之 口而已矣。使人乃以心服而不敢蘁，立定天下之定。已乎，已乎！吾 且不得及彼乎！”<br/><br/>　　曾子再仕而心再化，曰：“吾及亲仕，三釜而心乐；后仕，三千锺 而不洎，吾心悲。”弟子问于仲尼曰：“若参者，可谓无所县其罪乎 ？”曰：“既已县矣！夫无所县者，可以有哀乎？彼视三釜、三千锺 ，如观雀蚊虻相过乎前也。”<br/><br/>　　颜成子游谓东郭子綦曰：“自吾闻子之言，一年而野，二年而从， 三年而通，四年而物，五年而来，六年而鬼入，七年而天成，八年而 不知死、不知生，九年而大妙。生有为，死也。劝公以其私，死也有 自也，而生阳也，无自也。而果然乎？恶乎其所适，恶乎其所不适？ 天有历数，地有人据，吾恶乎求之？莫知其所终，若之何其无命也？ 莫知其所始，若之何其有命也？有以相应也，若之何其无鬼邪？无以 相应也，若之何其有鬼邪？”<br/><br/>　　众罔两问于景曰：“若向也俯而今也仰，向也括撮而今也被发；向 也坐而今也起；向也行而今也止：何也？”景曰：“搜搜也，奚稍问 也！予有而不知其所以。予，蜩甲也，蛇蜕也，似之而非也。火与日 ，吾屯也；阴与夜，吾代也。彼，吾所以有待邪，而况乎以无有待者 乎！彼来则我与之来，彼往则我与之往，彼强阳则我与之强阳。强阳 者，又何以有问乎！”<br/><br/>　　阳子居南之沛，老聃西游于秦。邀于郊，至于梁而遇老子。老子中 道仰天而叹曰：“始以汝为可教，今不可也。”阳子居不答。至舍， 进盥漱巾栉，脱屦户外，膝行而前，曰：“向者弟子欲请夫子，夫子 行不闲，是以不敢；今闲矣，请问其故。”老子曰：“而睢睢盱盱， 而谁与居！大白若辱，盛德若不足。”阳子居蹴然变容曰：“敬闻命 矣！”其往也，舍者迎将其家，公执席，妻执巾栉，舍者避席，炀者 避灶。其反也，舍者与之争席矣！<br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-39-1009.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-39-1011.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-39.html" action-type="chapterComment" class="comment"><i></i>庄子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

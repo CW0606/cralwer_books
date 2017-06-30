@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《文序跋集》正文_《哀尘》译者附记 _鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="文序跋集,文序跋集原文,文序跋集阅读,《哀尘》译者附记 全文,鲁迅作品" />
+<meta name="description" content="文序跋集原文阅读,《哀尘》译者附记 全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-619-7811.html";
+var nextpage="novel-read-619-7813.html";
+var indexpage = "novel-chapter-619.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-619.html">文序跋集</a></strong>
+<strong><a href="novel-chapter-619.html">文序跋集目录</a></strong>
+<span>《哀尘》译者附记 </span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-619-7811.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>《哀尘》译者附记 </strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-13 21:51:42<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　译者曰：此嚣俄（2）《随见录》之一，记一贱女子芳梯事者也。氏之《水夫传》（3）叙曰：“宗教、社会、天物者，人之三敌也。而三要亦存是：人必求依归，故有寺院；必求成立，故有都邑；必求生活，故耕地、航海。三要如此，而为害尤酷。<br/>　　凡人生之艰苦而难悟其理者，无一非生于斯者也。故人常苦于执迷，常苦于弊习，常苦于风火水土。于是，宗教教义有足以杀人者，社会法律有足以压抑人者，天物有不能以人力奈何者。作者尝于《诺铁耳谭》（4）发其一，于《哀史》（5）表其二，今于此示其三云（6）。”芳梯者，《哀史》中之一人，生而为无心薄命之贱女子，复不幸举一女，阅尽为母之哀，而转辗苦痛于社会之陷穻者其人也。“依定律请若尝试此六月间”（7），噫嘻定律，胡独加此贱女子之身！频那夜迦（8），衣文明之衣，跳踉大跃于璀璨庄严之世界；而彼贱女子者，乃仅求为一贱女子而不可得，谁实为之，而令若是！老氏有言：“圣人不死，大盗不止。”（9）彼非恶圣人也，恶伪圣之足以致盗也。嗟社会之陷穻兮，莽莽尘球，亚欧同慨；滔滔逝水，来日方长！使嚣俄而生斯世也，则剖南山之竹，会有穷时，（10）而《哀史》辍书，其在何日欤，其在何日欤？<br/><br/>==========================================================================<br/><br/>　　 　本篇连同《哀尘》的译文，最初发表于光绪二十九年五月二十日（一九○三年六月十五日）《浙江潮》月刊第五期，署名庚辰。<br/>　　（2）　嚣俄（V．Hugo，1802—1885）　又译雩俄，通译雨果。法国作家。著有《巴黎圣母院》、《悲惨世界》等长篇小说及剧本《克伦威尔》、《欧那尼》等。《哀尘》原是《随见录》中的一篇，题为《芳梯的来历》；后来作者将这一事件写入《悲惨世界》第五卷。<br/>　　（3）　《水夫传》　即《海上劳工》。<br/>　　（4）（）　铁耳谭》　即《巴黎圣母院》（简称《Notre　Dame》）的音译。<br/>　　（5）　《哀史》　即《可怜的人》，今译《悲惨世界》。<br/>　　（6）　雨果的这三部长篇小说：《巴黎圣母院》作于一八三一年，《悲惨世界》作于一八六一年至一八六九年之间，《海上劳工》作于一八六六年。<br/>　　（7）　这是《哀尘》中巡查对“贱女子”说的话，意思是：“依法应处以六个月之禁锢”。<br/>　　（8）　频那夜迦　又译毗那夜迦，即印度教神话中之欢喜天。欢喜天有男女二天，男天系大自在天的长子，为暴害世界之神。这里借以指那个“恶少年”。<br/>　　（9）　“圣人不死，大盗不止”　语见《庄子·胠箧》。这里说老氏（老子），或为误记。<br/>　　（10）　剖南山之竹，会有穷时　语出《旧唐书·李密传》：“罄南山之竹，书罪无穷。” </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-619-7811.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-619-7813.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-619.html" action-type="chapterComment" class="comment"><i></i>文序跋集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

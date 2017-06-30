@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《楚辞》正文_离骚_屈原作品 - 维普阅读网</title>
+<meta name="keywords" content="楚辞,楚辞原文,楚辞阅读,离骚全文,屈原作品" />
+<meta name="description" content="楚辞原文阅读,离骚全文在线阅读,屈原作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-257.html";
+var nextpage="novel-read-257-4127.html";
+var indexpage = "novel-chapter-257.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-257.html">楚辞</a></strong>
+<strong><a href="novel-chapter-257.html">楚辞目录</a></strong>
+<span>离骚</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-257.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>离骚</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=屈原&amp;searchsubmit=yes"  target="_blank">屈原</a><span class="divide">|</span>发布时间：2014-08-27 20:34:51<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>帝高阳之苗裔兮，朕皇考曰伯庸。<br/><br/>　　摄提贞于孟陬兮，惟庚寅吾以降。<br/><br/>　　皇览揆余初度兮，肇锡余以嘉名：<br/><br/>　　名余曰正则兮，字余曰灵均。<br/><br/>　　纷吾既有此内美兮，又重之以修能。<br/><br/>　　扈江离与辟芷兮，纫秋兰以为佩。<br/><br/>　　汨余若将不及兮，恐年岁之不吾与。<br/><br/>　　朝搴阰之木兰兮，夕揽洲之宿莽。<br/><br/>　　日月忽其不淹兮，春与秋其代序。<br/><br/>　　惟草木之零落兮，恐美人之迟暮。<br/><br/>　　不抚壮而弃秽兮，何不改乎此度？<br/><br/>　　乘骐骥以驰骋兮，来吾道夫先路！<br/><br/>　　昔三后之纯粹兮，固众芳之所在。<br/><br/>　　杂申椒与菌桂兮，岂维纫夫蕙茝！<br/><br/>　　彼尧、舜之耿介兮，既遵道而得路。<br/><br/>　　何桀纣之昌披兮，夫唯捷径以窘步。<br/><br/>　　惟党人之偷乐兮，路幽昧以险隘。<br/><br/>　　岂余身之僤殃兮，恐皇舆之败绩！<br/><br/>　　忽奔走以先後兮，及前王之踵武。<br/><br/>　　荃不揆余之中情兮，反信谗以齌怒。<br/><br/>　　余固知謇謇之为患兮，忍而不能舍也。<br/><br/>　　指九天以为正兮，夫唯灵修之故也。<br/><br/>　　曰黄昏以为期兮，羌中道而改路！<br/><br/>　　初既与余成言兮，後悔遁而有他。<br/><br/>　　余既不难夫离别兮，伤灵修之数化。<br/><br/>　　余既滋兰之九畹兮，又树蕙之百亩。<br/><br/>　　畦留夷与揭车兮，杂杜衡与芳芷。<br/><br/>　　冀枝叶之峻茂兮，原俟时乎吾将刈。<br/><br/>　　虽萎绝其亦何伤兮，哀众芳之芜秽。<br/><br/>　　众皆竞进以贪婪兮，凭不厌乎求索。<br/><br/>　　羌内恕己以量人兮，各兴心而嫉妒。<br/><br/>　　忽驰骛以追逐兮，非余心之所急。<br/><br/>　　老冉冉其将至兮，恐修名之不立。<br/><br/>　　朝饮木兰之坠露兮，夕餐秋菊之落英。<br/><br/>　　苟余情其信姱以练要兮，长顑颔亦何伤。<br/><br/>　　掔木根以结茝兮，贯薜荔之落蕊。<br/><br/>　　矫菌桂以纫蕙兮，索胡绳之纚々。<br/><br/>　　謇吾法夫前修兮，非世俗之所服。<br/><br/>　　虽不周於今之人兮，原依彭咸之遗则。<br/><br/>　　长太息以掩涕兮，哀民生之多艰。<br/><br/>　　余虽好修姱以鞿羁兮，謇朝谇而夕替。<br/><br/>　　既替余以蕙纕兮，又申之以揽茝。<br/><br/>　　亦余心之所善兮，虽九死其犹未悔。<br/><br/>　　怨灵修之浩荡兮，终不察夫民心。<br/><br/>　　众女嫉余之蛾眉兮，谣诼谓余以善淫。<br/><br/>　　固时俗之工巧兮，偭规矩而改错。<br/><br/>　　背绳墨以追曲兮，竞周容以为度。<br/><br/>　　忳郁邑余佗傺兮，吾独穷困乎此时也。<br/><br/>　　宁溘死以流亡兮，余不忍为此态也。<br/><br/>　　鸷鸟之不群兮，自前世而固然。<br/><br/>　　何方圜之能周兮，夫孰异道而相安？<br/><br/>　　屈心而抑志兮，忍尤而攘诟。<br/><br/>　　伏清白以死直兮，固前圣之所厚。<br/><br/>　　悔相道之不察兮，延伫乎吾将反。<br/><br/>　　回朕车以复路兮，及行迷之未远。<br/><br/>　　步余马於兰皋兮，驰椒丘且焉止息。<br/><br/>　　进不入以离尤兮，退将复修吾初服。<br/><br/>　　制芰荷以为衣兮，集芙蓉以为裳。<br/><br/>　　不吾知其亦已兮，苟余情其信芳。<br/><br/>　　高余冠之岌岌兮，长余佩之陆离。<br/><br/>　　芳与泽其杂糅兮，唯昭质其犹未亏。<br/><br/>　　忽反顾以游目兮，将往观乎四荒。<br/><br/>　　佩缤纷其繁饰兮，芳菲菲其弥章。<br/><br/>　　民生各有所乐兮，余独好修以为常。<br/><br/>　　虽体解吾犹未变兮，岂余心之可惩。<br/><br/>　　女嬃之婵媛兮，申申其詈予，曰：<br/><br/>　　“鲧婞直以亡身兮，终然殀乎羽之野。<br/><br/>　　汝何博謇而好修兮，纷独有此姱节？<br/><br/>　　薋菉葹以盈室兮，判独离而不服。”<br/><br/>　　众不可户说兮，孰云察余之中情？<br/><br/>　　世并举而好朋兮，夫何茕独而不予听？<br/><br/>　　依前圣以节中兮，喟凭心而历兹。<br/><br/>　　济沅、湘以南征兮，就重华而陈词：<br/><br/>　　启《九辨》与《九歌》兮，夏康娱以自纵。<br/><br/>　　不顾难以图後兮，五子用失乎家巷。<br/><br/>　　羿淫游以佚畋兮，又好射夫封狐。<br/><br/>　　固乱流其鲜终兮，浞又贪夫厥家。<br/><br/>　　浇身被服强圉兮，纵欲而不忍。<br/><br/>　　日康娱而自忘兮，厥首用夫颠陨。<br/><br/>　　夏桀之常违兮，乃遂焉而逢殃。<br/><br/>　　后辛之菹醢兮，殷宗用而不长。<br/><br/>　　汤、禹俨而祗敬兮，周论道而莫差。<br/><br/>　　举贤才而授能兮，循绳墨而不颇。<br/><br/>　　皇天无私阿兮，览民德焉错辅。<br/><br/>　　夫维圣哲以茂行兮，苟得用此下土。<br/><br/>　　瞻前而顾後兮，相观民之计极。<br/><br/>　　夫孰非义而可用兮？孰非善而可服？<br/><br/>　　阽余身而危死兮，览余初其犹未悔。<br/><br/>　　不量凿而正枘兮，固前修以菹醢。<br/><br/>　　曾歔欷余郁邑兮，哀朕时之不当。<br/><br/>　　揽茹蕙以掩涕兮，霑余襟之浪浪。<br/><br/>　　跪敷衽以陈辞兮，耿吾既得此中正。<br/><br/>　　驷玉虬以桀鹥兮，溘埃风余上征。<br/><br/>　　朝发軔於苍梧兮，夕余至乎县圃。<br/><br/>　　欲少留此灵琐兮，日忽忽其将暮。<br/><br/>　　吾令羲和弭节兮，望崦嵫而勿迫。<br/><br/>　　路曼曼其修远兮，吾将上下而求索。<br/><br/>　　饮余马於咸池兮，总余辔乎扶桑。<br/><br/>　　折若木以拂日兮，聊逍遥以相羊。<br/><br/>　　前望舒使先驱兮，後飞廉使奔属。<br/><br/>　　鸾皇为余先戒兮，雷师告余以未具。<br/><br/>　　吾令凤鸟飞腾兮，继之以日夜。<br/><br/>　　飘风屯其相离兮，帅云霓而来御。<br/><br/>　　纷总总其离合兮，斑陆离其上下。<br/><br/>　　吾令帝阍开关兮，倚阊阖而望予。<br/><br/>　　时暧暧其将罢兮，结幽兰而延儜。<br/><br/>　　世溷浊而不分兮，好蔽美而嫉妒。<br/><br/>　　朝吾将济於白水兮，登阆风而絏马。<br/><br/>　　忽反顾以流涕兮，哀高丘之无女。<br/><br/>　　溘吾游此春宫兮，折琼枝以继佩。<br/><br/>　　及荣华之未落兮，相下女之可诒。<br/><br/>　　吾令丰隆乘云兮，求宓妃之所在。<br/><br/>　　解佩纕以结言兮，吾令謇修以为理。<br/><br/>　　纷总总其离合兮，忽纬繣其难迁。<br/><br/>　　夕归次於穷石兮，朝濯发乎洧盘。<br/><br/>　　保厥美以骄傲兮，日康娱以淫游。<br/><br/>　　虽信美而无礼兮，来违弃而改求。<br/><br/>　　览相观於四极兮，周流乎天余乃下。<br/><br/>　　望瑶台之偃蹇兮，见有娀之佚女。<br/><br/>　　吾令雁为媒兮，雁告余以不好。<br/><br/>　　雄鸠之鸣逝兮，余犹恶其佻巧。<br/><br/>　　心犹豫而狐疑兮，欲自適而不可。<br/><br/>　　凤皇既受诒兮，恐高辛之先我。<br/><br/>　　欲远集而无所止兮，聊浮游以逍遥。<br/><br/>　　及少康之未家兮，留有虞之二姚。<br/><br/>　　理弱而媒拙兮，恐导言之不固。<br/><br/>　　世溷浊而嫉贤兮，好蔽美而称恶。<br/><br/>　　闺中既以邃远兮，哲王又不寤。<br/><br/>　　怀朕情而不发兮，余焉能忍而与此终古？<br/><br/>　　索琼茅以筳篿兮，命灵氛为余占之。<br/><br/>　　曰：“两美其必合兮，孰信修而慕之？<br/><br/>　　思九州之博大兮，岂惟是其有女？”<br/><br/>　　曰：“勉远逝而无狐疑兮，孰求美而释女？<br/><br/>　　何所独无芳草兮，尔何怀乎故宇？”<br/><br/>　　世幽昧以昡曜兮，孰云察余之善恶？<br/><br/>　　民好恶其不同兮，惟此党人其独异！<br/><br/>　　户服艾以盈要兮，谓幽兰其不可佩。<br/><br/>　　览察草木其犹未得兮，岂珵美之能当？<br/><br/>　　苏粪壤以充祎兮，谓申椒其不芳。<br/><br/>　　欲从灵氛之吉占兮，心犹豫而狐疑。<br/><br/>　　巫咸将夕降兮，怀椒糈而要之。<br/><br/>　　百神翳其备降兮，九疑缤其并迎。<br/><br/>　　皇剡剡其扬灵兮，告余以吉故。<br/><br/>　　曰：“勉升降以上下兮，求矩矱之所同。<br/><br/>　　汤、禹俨而求合兮，挚、咎繇而能调。<br/><br/>　　苟中情其好修兮，又何必用夫行媒？<br/><br/>　　说操筑於傅岩兮，武丁用而不疑。<br/><br/>　　吕望之鼓刀兮，遭周文而得举。<br/><br/>　　甯戚之讴歌兮，齐桓闻以该辅。<br/><br/>　　及年岁之未晏兮，时亦犹其未央。<br/><br/>　　恐鹈鴂之先鸣兮，使夫百草为之不芳。”<br/><br/>　　何琼佩之偃蹇兮，众薆然而蔽之。<br/><br/>　　惟此党人之不谅兮，恐嫉妒而折之。<br/><br/>　　时缤纷其变易兮，又何可以淹留？<br/><br/>　　兰芷变而不芳兮，荃蕙化而为茅。<br/><br/>　　何昔日之芳草兮，今直为此萧艾也？<br/><br/>　　岂其有他故兮，莫好修之害也！<br/><br/>　　余以兰为可恃兮，羌无实而容长。<br/><br/>　　委厥美以从俗兮，苟得列乎众芳。<br/><br/>　　椒专佞以慢慆兮，榝又欲充夫佩帏。<br/><br/>　　既干进而务入兮，又何芳之能祗？<br/><br/>　　固时俗之流从兮，又孰能无变化？<br/><br/>　　览椒兰其若兹兮，又况揭车与江离？<br/><br/>　　惟兹佩之可贵兮，委厥美而历兹。<br/><br/>　　芳菲菲而难亏兮，芬至今犹未沬。<br/><br/>　　和调度以自娱兮，聊浮游而求女。<br/><br/>　　及余饰之方壮兮，周流观乎上下。<br/><br/>　　灵氛既告余以吉占兮，历吉日乎吾将行。<br/><br/>　　折琼枝以为羞兮，精琼爢以为粻。<br/><br/>　　为余驾飞龙兮，杂瑶象以为车。<br/><br/>　　何离心之可同兮？吾将远逝以自疏。<br/><br/>　　邅吾道夫昆仑兮，路修远以周流。<br/><br/>　　扬云霓之�奄蔼兮，鸣玉鸾之啾啾。<br/><br/>　　朝发軔於天津兮，夕余至乎西极。<br/><br/>　　凤皇翼其承旂兮，高翱翔之翼翼。<br/><br/>　　忽吾行此流沙兮，遵赤水而容与。<br/><br/>　　麾蛟龙使梁津兮，诏西皇使涉予。<br/><br/>　　路修远以多艰兮，腾众车使径待。<br/><br/>　　路不周以左转兮，指西海以为期。<br/><br/>　　屯余车其千乘兮，齐玉轪而并驰。<br/><br/>　　驾八龙之婉婉兮，载云旗之委蛇。<br/><br/>　　抑志而弭节兮，神高驰之邈邈。<br/><br/>　　奏《九歌》而舞《韶》兮，聊假日以媮乐。<br/><br/>　　陟升皇之赫戏兮，忽临睨夫旧乡。<br/><br/>　　仆夫悲余马怀兮，蜷局顾而不行。<br/><br/>　　乱曰：已矣哉！国无人莫我知兮，又何怀乎故都！<br/><br/>　　既莫足与为美政兮，吾将从彭咸之所居！</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-257.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-257-4127.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-257.html" action-type="chapterComment" class="comment"><i></i>楚辞章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

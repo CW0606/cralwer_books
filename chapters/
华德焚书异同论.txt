@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《准风月谈》正文_华德焚书异同论_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="准风月谈,准风月谈原文,准风月谈阅读,华德焚书异同论全文,鲁迅作品" />
+<meta name="description" content="准风月谈原文阅读,华德焚书异同论全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-551-7591.html";
+var nextpage="novel-read-551-7593.html";
+var indexpage = "novel-chapter-551.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-551.html">准风月谈</a></strong>
+<strong><a href="novel-chapter-551.html">准风月谈目录</a></strong>
+<span>华德焚书异同论</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-551-7591.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>华德焚书异同论</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-06 20:38:58<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　孺牛 <br/>　　德国的希特拉先生们一烧书（２），中国和日本的论者们都比之于秦始皇（３）。然而秦始皇实在冤枉得很，他的吃亏是在二世而亡，一班帮闲们都替新主子去讲他的坏话了。 <br/>　　不错，秦始皇烧过书，烧书是为了统一思想。但他没有烧掉农书和医书；他收罗许多别国的“客卿”（４），并不专重“秦的思想”，倒是博采各种的思想的。秦人重小儿；始皇之母，赵女也，赵重妇人（５），所以我们从“剧秦”（６）的遗文中，也看不见轻贱女人的痕迹。 <br/>　　希特拉先生们却不同了，他所烧的首先是“非德国思想”的书，没有容纳客卿的魄力；其次是关于性的书，这就是毁灭以科学来研究性道德的解放，结果必将使妇人和小儿沉沦在往古的地位，见不到光明。而可比于秦始皇的车同轨，书同文（７）……之类的大事业，他们一点也做不到。阿剌伯人攻陷亚历山德府（８）的时候，就烧掉了那里的图书馆，那理论是：如果那些书籍所讲的道理，和《可兰经》（９）相同，则已有《可兰经》，无须留了；倘使不同，则是异端，不该留了。这才是希特拉先生们的嫡派祖师——虽然阿剌伯人也是“非德国的”——和秦的烧书，是不能比较的。 <br/>　　但是结果往往和英雄们的豫算不同。始皇想皇帝传至万世，而偏偏二世而亡，赦免了农书和医书，而秦以前的这一类书，现在却偏偏一部也不剩。希特拉先生一上台，烧书，打犹太人，不可一世，连这里的黄脸干儿们，也听得兴高彩烈，向被压迫者大加嘲笑，对讽刺文字放出讽刺的冷箭（１０）来——到底还明白的冷冷的讯问道：你们究竟要自由不要？不自由，无宁死。现在你们为什么不去拚死呢？ <br/>　　这回是不必二世，只有半年，希特拉先生的门徒们在奥国一被禁止，连党徽也改成三色玫瑰了。最有趣的是因为不准叫口号，大家就以手遮嘴，用了“掩口式”。（１１）这真是一个大讽刺。刺的是谁，不问也罢，但可见讽刺也还不是“梦呓”，质之黄脸干儿们，不知以为何如？六月二十八日。 <br/>　　<br/>===============================================================<br/>　　　　　 <br/>　　（１）　本篇最初发表于一九五三年七月十一日《申报·自由谈》。<br/>　　（２）　一九三三年希特勒执政后，实行文化专制政策，禁止所谓“非德意志”（即不符合纳粹思想）的书籍出版和流通。一九三三年五月起曾在柏林和其它城市焚烧书籍。 <br/>　　（３）　秦始皇　嬴政（前２５９—前２１０），战国时秦国国君，于公元前二二一年建立了我国第一个中央集权的封建王朝。据《史记·秦始皇本纪》载，始皇三十四年（前２１３年），丞相李斯因当时博士中有人怀疑郡县制、以古非今，向秦始皇建议：“史官非秦记，皆烧之。非博士官所职，天下敢有藏《诗》、《书》、百家语者，悉诣守尉杂烧之。有敢偶语《诗》、《书》者，弃市。以古非今者，族。吏见知不举者，与同罪。令下三十日，不烧，黥为城旦。所不去者，医药、卜筮、种树之书。若欲有学法令，以吏为师。”秦始皇采纳了李斯的建议，把秦以前除农书和医书之外的古籍烧毁。 <br/>　　（４）　“客卿”　战国时代，某一诸侯国任用他国人担任官职，称之为“客卿”。如秦始皇的丞相李斯就是楚国人。<br/>　　（５）　关于秦人重小儿，赵重妇人，见《史记·扁鹊列传》：“扁鹊名闻天下。过邯郸，闻（赵人）贵妇人，即为带下医；……来入咸阳，闻秦人爱小儿，即为小儿医：随俗为变。”又同书《秦始皇本纪》和《吕不韦列传》载，秦始皇的母亲，是赵国邯郸的一个“豪家女”。<br/>　　（６）　“剧秦”　意思就是很短促的秦朝。原语见汉代扬雄《剧秦美新》：“二世而亡，何其剧与（欤）！”《文选·剧秦美新》唐代李善注：“剧，甚也，言促甚也。” <br/>　　（７）　车同轨，书同文　原语出《史记·秦始皇本纪》：“一法度衡石丈尺，车同轨，书同文字。”战国时诸侯割据一方，各国制度不同，秦始皇统一六国后，规定车轨一致；又规定以秦国的小篆作为标准字体推行全国；同时，还统一了货币和度量衡。 <br/>　　（８）　亚历山德府　即亚历山大，埃及最大的海港城市，在埃及托勒密王朝时期（前３０５—前３０）是地中海东部政治、经济和文化的中心。该城图书馆藏书甚丰，公元前四十八年罗马人入侵时被焚烧过半；残存部分，传说公元六四一年阿拉伯人攻陷该城时被毁。<br/>　　（９）　《可兰经》　又译《古兰经》，伊斯兰教经典。共三十卷，为该教创立人穆罕默德的言行录，经后人整理成册传世。<br/>　　（１０）　对讽刺文字放出讽刺的冷箭　一九三三年六月十一日《大晚报·火炬》登载法鲁的《到底要不要自由》一文，对得不到写作自由而被迫用“弯弯曲曲”笔法的作者进行嘲讽。参看《伪自由书·后记》。 <br/>　　（１１）　一九三三年一月希特勒执政后，极力策划德奥合并运动。奥地利的法西斯政党国社党也希望奥国能早日合并于德国。当时奥总理陶尔斐斯反对法西斯党的合并运动，他在五月间下令除国旗外禁止悬挂一切政党旗帜，随着德奥关系的紧张，奥政府又于六月解散奥国国社党，禁止佩带该党党徽，禁呼该党口号。有的国社党员因而用黑红白三色玫瑰花代替该党的卐字标志；或直立举右手，以左手掩口，作为呼口号的表示。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-551-7591.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-551-7593.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-551.html" action-type="chapterComment" class="comment"><i></i>准风月谈章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

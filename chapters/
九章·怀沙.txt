@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《九章》正文_九章·怀沙_屈原作品 - 维普阅读网</title>
+<meta name="keywords" content="九章,九章原文,九章阅读,九章·怀沙全文,屈原作品" />
+<meta name="description" content="九章原文阅读,九章·怀沙全文在线阅读,屈原作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-87-1954.html";
+var nextpage="novel-read-87-1956.html";
+var indexpage = "novel-chapter-87.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-87.html">九章</a></strong>
+<strong><a href="novel-chapter-87.html">九章目录</a></strong>
+<span>九章·怀沙</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-87-1954.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>九章·怀沙</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=屈原&amp;searchsubmit=yes"  target="_blank">屈原</a><span class="divide">|</span>发布时间：2014-08-02 20:35:09<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文<br/>滔滔孟夏兮，草木莽莽。<br/>伤怀永哀兮，汩徂南土。<br/>眴兮杳杳，孔静幽默。<br/>郁结纡轸兮，离愍而长鞠。<br/>抚情效志兮，冤屈而自抑。<br/>刓方以为圜兮，常度未替。<br/>易初卞迪兮，君子所鄙。<br/>章画志墨兮，前图未改。<br/>内厚质正兮，大人所盛。<br/>巧倕不斫兮，孰察其拨正。<br/>玄文处幽兮，矇瞍谓之不章。<br/>离娄微睇兮，瞽以为无明。<br/>变白以为黑兮，倒上以为下。<br/>凤皇在女笯兮，鸡鹜翔舞。<br/>同糅玉石兮，一概而相量。<br/>夫惟党人之鄙固兮，羌不知余之所臧。<br/>任重载盛兮，陷滞而不济。<br/>怀瑾握瑜兮，穷不知所示。<br/>邑犬之群吠兮，吠所怪兮。<br/>非俊疑杰兮，固庸态也。<br/>文质疏内兮，众不知余之异采。<br/>材朴委积兮，莫知余之所有。<br/>重仁袭衣兮，谨厚以为丰。<br/>重华不可遌兮，孰知余之所有。<br/>古固有不并兮，岂知其故也。<br/>汤禹久远兮，邈不可慕也。<br/>惩违改忿兮，抑心而自强。<br/>离愍而不迁兮，愿志之有象。<br/>进路北次兮，日昧昧其将暮。<br/>舒忧娱哀兮，限之以大故。<br/>乱曰：浩浩沅湘，分流汩兮。<br/>修路幽薮，道远忽兮。<br/>怀质抱情，独无匹兮。<br/>伯乐既没，骥焉程兮。<br/>万民之生，各有所错兮。<br/>定心广志，余何畏惧兮。<br/>曾伤爰哀，永叹喟兮。<br/>世溷浊莫吾知，人心不可谓兮。<br/>知死不可让，愿勿爱兮。<br/>明告君子，吾将以为类兮。<br/><br/>赏析<br/>本诗作于屈原临死前，一般认为是诗人的绝命词。<br/><br/>　　对诗题“怀沙”，历代颇有歧见。洪兴祖《楚辞补注》、朱熹《楚辞集注》以为是“怀抱沙石以自沉”。汪瑗《楚辞集解》认为：“怀者，感也。沙，指长沙。”蒋骥《山带阁注楚辞》持相同见解：“曰怀沙者，盖寓怀其地(指长沙)，欲往而就死焉耳。”<br/><br/>　　从诗章本身内容情感和《史记》所载屈原身世经历看，“怀沙”指“怀抱沙石以自沉”的可信性应该更大些。<br/><br/>　　诗篇开首先刻画诗人南行时的心情，两句极度表述忧郁、哀伤心理的诗句，一下子扣住了读者的心弦：“伤怀永哀兮”、“郁结纡轸兮”，——表明诗人在初夏时节步向南方时，悲愤的情绪已达到了难以自抑的地步。客观环境对此时人物的心绪起了极好的衬托作用——“眴兮杳杳，孔静幽默”，唯此“杳杳”“无所见”、“静默”“无所闻”，才更显出“岑僻之境，昏瞀之情”(蒋骥《山带阁注楚辞》)。<br/><br/>　　如果诗人在临终前的心态仅仅只停留于这种悲哀的水准上，那么，无论诗篇本身还是诗人的形象，都难以令人产生共鸣和敬慕。诗人的与众不同之处在于：他没有将笔墨仅仅诉诸于个人遭遇的不幸与感伤上，而是始终同理想抱负的实现与否相联系，希冀以自身肉体的死亡来最后震撼民心、激励君主，唤起国民、国君精神上的觉醒，因而，诗篇在直抒胸臆之后，笔锋自然转到了对不能见容于时的原因与现状的叙述。随之出现的是一系列的形象比喻：或富理性色彩——“刓方为圜”、“章画志墨”、“巧倕不斵”——以标明自己坚持直道、不随世俗浮沉的节操；或通俗生动——“玄文处幽兮，矇瞍谓之不章”、“离娄微睇兮，瞽以为无明”、“凤皇在笯兮，鸡鹜翔舞”、“同糅玉石兮，一概而相量”、“怀瑾握瑜兮”、“邑犬之群吠兮”——用大量生活中习见的例子作譬，以显示自己崇高的志向与追求；这些比喻集中到一点，都旨在表述作者的清白、忠诚却不能见容于时，由此激发起读者的同情、理解与感慨，从而充实了作品丰厚的内在蕴含力，使之产生了强烈的感染力。正是由于有了上述一系列感情的铺垫，故而作者发抒临终前的慨叹便有了厚实的基础与前提，诗篇正文末段的“舒忧娱哀兮，限之以大故”，人们读来也便更觉悲慨而泫然了。<br/><br/>　　最后部分的“乱辞”，可以说是诗人情感达到高潮的表露。在前面历述现状、原因、心情等以后，诗人至此发出了浩叹与歌唱，它是全诗内容的总结与概括，也是诗人心声的集中倾诉。毫无疑问，在诗人看来，悲哀是悲哀，理想是理想，决不能因为自己行将死去而悲痛至放弃毕生追求的理想，唯有以己身之一死而殉崇高理想，才是最完美、最圆满的结局，人虽会死去，而理想却永远不会消亡。故而诗人最后唱道：“知死不可让，愿勿爱兮。明告君子，吾将以为类兮!”<br/><br/>　　通读全诗，我们发现，本篇在语言上有一个十分鲜明的特点，似有别于《九章》其他篇(《橘颂》除外)：全诗句子大都不长，显得简短有力，读上去颇有急促感。从首句“滔滔孟夏兮”到篇终“乱辞”，几乎大多是四言句(加“兮”字为五言)，——这显然是诗人的精心设计。作为临终前的绝命词，诗篇这样的处理，完全符合诗人的实际心境，或换言之，正因为面临自我选择的死亡，才会有气促情迫之感，而运用短促句，正是这种真切心境的实剖，既反映了此时此刻诗人的实际感受与心态，也在情感与表达形式上与诗的内涵浑然一体，从而使读者产生了强烈的共鸣。诗人高超的艺术功力与匠心于此可见一斑。　(徐志啸) </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-87-1954.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-87-1956.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-87.html" action-type="chapterComment" class="comment"><i></i>九章章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

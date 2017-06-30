@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《三国志》正文_陈寿简介_陈寿作品 - 维普阅读网</title>
+<meta name="keywords" content="三国志,三国志原文,三国志阅读,陈寿简介全文,陈寿作品" />
+<meta name="description" content="三国志原文阅读,陈寿简介全文在线阅读,陈寿作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-503-5759.html";
+var nextpage="novel-read-503-5761.html";
+var indexpage = "novel-chapter-503.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-503.html">三国志</a></strong>
+<strong><a href="novel-chapter-503.html">三国志目录</a></strong>
+<span>陈寿简介</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-503-5759.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>陈寿简介</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=陈寿&amp;searchsubmit=yes"  target="_blank">陈寿</a><span class="divide">|</span>发布时间：2014-09-18 21:22:57<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　陈寿（233—297年），字承祚，西晋巴西安汉（今四川南充北）人。他少好学，师事同郡学者谯周，在蜀汉时曾任卫将军主簿、东观秘书郎、观阁令史、散骑黄门侍郎等职。当时，宦官黄皓专权，大臣都曲意附从。陈寿因为不肯屈从黄皓，所以屡遭遣黜。入晋以后，历任著作郎、长平太守、治书待御史等职。280年，晋灭东吴，结束了分裂局面。陈寿当时四十八岁，开始撰写《三国志》。<br/><br/>　　《三国志》是一部记载魏、蜀、吴三国鼎立时期的纪传体国别史。其中，《魏书》三十卷，《蜀书》十五卷，《吴书》二十卷，共六十五卷。记载了从魏文帝黄初元年（220年），到晋武帝太康元年（280年）六十年的历史。<br/><br/>　　陈寿是晋臣，晋是承魏而有天下的。所以，《三国志》便尊魏为正统。在《魏书》中为曹操写了本纪，而《蜀书》和《吴书》则只有传，没有纪。记刘备则为《先主传》，记孙权则称《吴主传》。这是编史书为政治服务的一个例子，也是《三国志》的一个特点。<br/><br/>　　陈寿虽然名义上尊魏为正统，实际上却是以魏、蜀、吴三国各自成书，如实地记录了三国鼎立的局势，表明了它们各自为政，互不统属，地位是相同的。就记事的方法来说，《先主传》和《吴主传》，也都是年经事纬，与本纪完全相同，只是不称纪而已。陈寿这样处理，是附合当时实际情况的，这足见他的卓识和创见。《三国志》总起来说记事比较简略，这可能与史料的多少有关。陈寿是三国时人，蜀国灭亡时三十一岁。他所修的《三国志》在当时属于现代史，很多事是他亲身经历、耳闻目见的，比较真切，按说是有条件搜集史料的。但因为时代近，有许多史料还没有披露出来；同时，因为恩怨还没有消除，褒贬很难公允，也给材料的选用和修史带来了一定的困难。<br/><br/>　　从魏、蜀、吴三书比较来看，《蜀书》仅得十五卷，较魏、吴两书更简。这大概是魏、吴两国的史料多于蜀的原故。陈寿写《三国志》时，魏国已有王沈的《魏书》、鱼豢的《魏略》，吴国也有韦昭的《吴书》可作参考，这给陈寿搜集史料提供了极大方便。而蜀汉既没有史官，也没有现成的史书可借鉴，搜集史料就非常困难。陈寿费了很大气力，连一些零篇残文也注意搜寻，《蜀书》才仅得十五卷之数。《蜀书》中的许多重要人物的事迹，记载都十分简略，可见蜀汉的史料是相当缺乏的。另外，因为政治上的原因，陈寿也可能舍弃了一些材料，如牵涉到司马懿的一些不光彩的事，不便写，只好舍弃了。<br/><br/>　　陈寿所著的《三国志》，与前三史一样，也是私人修史。他死后，尚书郎范頵上表说：“陈寿作《三国志》，辞多劝诫，朋乎得失，有益风化，虽文艳不若相如，而质直过之，愿垂采录。”由此可见，《三国志》书成之后，就受到了当时人们的好评。陈寿叙事简略，三书很少重复，记事翔实。在材料的取舍上也十分严慎，为历代史学家所重视。史学界把《史记》、《汉书》、《后汉书》和《三国志》合称前四史，视为纪传体史学名著。<br/><br/>　　但是，唐朝房玄龄等奉诏撰写的《晋书·陈寿传》，在承认陈寿“善叙事，有良史之才”的同时，又认为陈寿因为私仇而在书中有所表现。说“丁仪、丁廙有盛名于魏，寿谓其子曰：可觅千斛米见与，当为尊公作佳传。丁不与之，竟不为立传。寿父为马谡参军，谡为诸葛亮所诛，寿父亦坐被髡，诸葛瞻又轻寿。寿为亮立传，谓亮将略非长，无应敌之才；言瞻惟工书，名过其实。议者以此少之。”<br/><br/>　　《晋书·陈寿传》关于陈寿索米的这条史料，只有少数几位史学家如北周的柳虬、唐朝的刘知几等相信，而多数的史学家则认为这条史料不合事实，是假的。清朝的潘眉在《三国志考证》中指出：“丁仪、丁廙，官不过右刺奸掾及黄门侍郎，外无摧锋接刃之功，内无升堂庙胜之效，党于陈思王，冀摇冢嗣，启衅骨肉，事既不成，刑戮随之，斯实魏朝罪人，不得立传明矣。《晋书》谓索米不得不为立传，此最无识之言。”赵翼在《廿二史札记》中也指出：《晋书》谓“寿父为马谡参军，谡为诸葛亮所诛，寿父被髡，故寿为《亮传》，谓将略非所长。此真无识之论也。亮之不可及处，原不必以用兵见长。观寿校定《诸葛集》，表言亮科教严明，赏罚必信，无恶不惩，无善不显，至于吏不容奸，人怀自励。至今梁、益之民，虽《甘棠》之咏召公，郑人之歌子产，无以过也。又《亮传》后评曰：亮之为治也，开诚心，布公道，善无微而不赏，恶无纤而不贬。终于邦域之内，咸畏而爱之，刑政虽峻而无恶怨者，以其用心平而劝戒明也。其颂孔明可谓独见其大矣。”由此可见，《晋书》贬陈寿之说，实为不实之词，不可尽信。<br/><br/>　　然而，《三国志》也有其不足之处，不可不注意。在叙事时，除了在某些人的纪和传中有矛盾之处外，其最大的缺点，就是对曹魏和司马氏多有回护、溢美之词，受到了历代史学家的批评。另外，全书只有纪和传，而无志和表，这是一大缺欠。<br/><br/>　　《三国志》成书之后，由于叙事过于简要，到了南朝宋文帝时，著名史学家裴松之便为其作注，又增补了大量材料。<br/><br/>　　魏、蜀、吴三书，原是各自为书，一直到北宋才合而为一，改称《三国志》。<br/><br/>　　陈寿还著有《益部耆旧传》、《古国志》等书，整理编辑过《诸葛亮集》，可惜这些书后来都亡佚了。<br/><br/>　　当1700年前的南充人陈寿挥笔写下这三个字的时候，他或许不会想到，这部耗费了他毕生精力创作出来的史书会跨越时间的阻隔，影响着之后历朝历代的中国社会，直至1700年后衍变成为一种独特的文化现象。<br/><br/>　　对于今天的多数人来说，了解“三国文化”多是通过明代罗贯中所写的古典名著《三国演义》，那么，这两部相距数百年的著作之间究竟是一种什么样的关系呢？<br/><br/>　　“《三国志》和《三国演义》，《三国志》是史书，《三国演义》是小说，《三国演义》的全称是《三国志通俗演义》，现在我们都统称《三国演义》，演义就是小说的作者他可以根据《三国志》去即兴发挥。”<br/><br/>　　《三国志》与《史记》、《汉书》、《后汉书》一起被后世史学家尊称为“中华史学名著前四史”，历代史学家对《三国志》都有着极高的评价。据此，国内外众多专家学者认为：陈寿的《三国志》是时至今日已经形成的“三国文化”的源头。<br/><br/>　　早在唐代，在陈寿的故乡南充，陈寿的父老乡亲就在他少年读书的地方建起了万卷楼，以示纪念。南充，也由此成为“三国文化”的发源地。1992年，财政并不富裕的南充市政府拨款一千多万元，重新建起了这规模宏大的万卷楼，在南充人的心中，前人留下的这笔文化的财富显然要比很多事情都要重要。从那之后，无数人来到万卷楼，寻找他们向往的三国文化。<br/><br/>　　《三国志》中的故事已被世人所熟知，在这部经典史书的背后、在陈寿的故乡又隐藏着一些怎样的历史故事和人物的命运呢？<br/><br/>　　南充在三国时叫巴西郡安汉县，是蜀国领地。陈寿出生于蜀后主刘禅建兴十一年，也就是刘备在白帝城向诸葛亮托孤后的第十一年，三国争霸已进入尾声。<br/><br/>　　陈寿少年时就聪慧好学，从小就对历史著作表现出了特别的兴趣。他先通读了最为古老的《尚书》和《春秋》，更精细地研习了西汉司马迁的《史记》和东汉班固的《汉书》，熟悉了写作史书的方法。同时，他所写的文章又富艳动人，深得长辈们的赞许。陈寿小时候就在家中读书，时时受到父亲的关注和督促。<br/><br/>　　“陈寿的父亲是马谡的参军，失街亭以后，陈寿的父亲和马谡一样受到处罚，马谡被诸葛亮投进大狱，死在狱中，陈寿的父亲受到困刑的处罚，就是削发，剃去头发，是种污辱性的处罚，然后逐出军营，这个时候陈寿的父亲才回到家乡，几年之后结婚生子，得了陈寿，陈寿的父亲把他在失街亭当中满腔的义愤和不得志寄予他儿子陈寿的身上，从小对陈寿要求非常严格。”<br/><br/>　　1992年，在修建万卷楼时，在陈寿的故居中出土了这样一块汉砖，经仔细辨认，确定汉砖的内容是教子图，这使得陈寿的父亲的形象更加清晰起来，正是在这样的教学之中，陈寿与父亲建立了深厚的感情。<br/><br/>　　后来，陈寿的父亲病故，陈寿匆忙赶回家中，守孝三年。而在其后来编撰而成的《三国志》中，对于因卷入失街亭一战而受牵连的老父却只字未提，对于惩罚父亲的诸葛亮却大加颂扬，足见陈寿对待历史的客观公正的态度。也因此，陈寿的父亲在历史上连名字都没有留下。后人常有提及，只能称其为陈寿父。<br/><br/>　　陈寿在大约在18岁时进入了蜀国都城成都的太学学习，遇到了影响他的人生的第二个人物——同是南充人的谯周。在谯周门下学习时，陈寿进一步刻苦攻读史学，在南充的民间至今流传许多陈寿刻苦读书的故事。<br/><br/>　　谯周作为三国后期的重要人物或许不被今天的人们所熟知。陈寿在他的《三国志》中专门为这位同乡的老师写了一篇传记。谯周语言幽默，传记中说诸葛亮都被他幽默的话语逗乐。就是这样一个诙谐幽默的人，最终却左右了三国鼎立的格局。<br/><br/>　　三国后期，魏国逐渐强大。蜀、吴均无力与魏国抗衡。魏国伐蜀时，兵至阴平。危急关头，谯周力劝后主刘禅降魏。并打消刘禅顾虑，说如果降魏后魏国不封你为王，我愿冒险去魏国说理，刘禅听从了谯周的意见，投降魏国。三国鼎立的格局被打破。<br/><br/>　　“这样又能够保证后主刘禅不至于身败名裂，另一方面又能使全蜀老百姓不至于生灵涂炭。”<br/><br/>　　陈寿在《三国志》中也是如此评价他的老师的，然而，在那个忠义为本的封建社会中，谯周的所作所为在很多人看来无疑是违背忠义之道的，在当世和后世的人对于谯周都有着诸多的非议。<br/><br/>　　南充人宽容地接纳了这位颇具争议的老乡。蜀国降魏后，谯周数次拒绝了魏王封赏给他的高官厚禄。七年后，谯周在家乡于纷扰中离开了人世，誓死不肯穿魏王赐给他的寿衣。这其中的是非曲直，只能任由后世评说了。今天的谯周墓坐落在一处颇为热闹的市民小区中，人们在茶余饭后不知是否会偶尔想起这位用名节换来这一方平安的老乡。<br/><br/>　　之后形式的演变，果然如同谯周所预料的那样，蜀国在归入魏国两年后，魏国的晋王司马昭之子司马炎以受禅让之名取代魏国建立晋朝，也就是历史上的西晋，公元280年，晋朝消灭吴国，至此，长达84年分裂割据的局面终于结束。<br/><br/>　　蜀汉灭亡那一年，陈寿31岁，渐入中年。他留在了故乡南充，闲居家中，埋头读书数年，造诣日深。外面世界所发生的一切他也都看在眼中，《三国志》的构思也许从那几年就开始了。<br/><br/>　　公元268年，36岁的陈寿离开故乡南充赶赴晋都城洛阳，担任西晋著作郎，专门负责编撰史书，从此人生步入了一个新的阶段。天下一统的政治环境使得陈寿编撰《三国志》的设想成为可能。从小就在蜀国成长起来的陈寿早已积累了大量蜀国的资料，后又补充魏，吴两国资料，一部长达65卷的宏篇史学巨著终能编撰而成。<br/><br/>　　在《三国志》完成那一刻起就在当世引起了轰动。晋惠帝在看过《三国志》后当即下诏，命令全国百姓每家每户都要抄写《三国志》，这也使得《三国志》中的故事很快就在民间普及，到唐朝时，社会上出现了一种新兴的行业——说书，又进一步推动了三国故事在民间的普及。<br/><br/>　　《三国志》中的人物及故事以说书的形式在民间流传了一千多年，至今，我们在南充的老茶馆中仍可听到许多关于三国故事的评书。流传中，人们对《三国志》中记载的历史故事按照自己的价值观念进行取舍演义，后来罗贯中的《三国演义》便是根据说书人的记载完成的。<br/><br/>　　在南充的民间剪纸艺术中，有大量的体裁取自于三国的故事和人物，《三国志》中记载的多是历史事实，关于人物形象的描述很少，这就给了后人很多想象和发挥的空间。关于人物形象和故事也便有了许多不同的版本。<br/><br/>　　汉恒候张飞曾在南充阆中驻守了七年，在当地流传着许多关于张飞的传说。时光流转，当地的们对于张飞固有的爆头环眼形象也产生了怀疑。<br/><br/>　　“那么张飞到底长什么样呢？我们这有尊像，这尊像就是张飞的长子张苞的儿子张遵的像，你看这尊像，它做的面目很清秀，很符合现代人的审美情趣，同时这尊像它是一直在张飞庙里就做成这样的。它是有依据的，如此说来，按现代的遗传说的观点来看，那么，要是倒退的话，他的爷爷张飞也不会太丑陋。这算是一个证明吧！证明之二呢，就是，据史料记载，张飞的两个女儿，一个被后主刘禅立为皇后，还有一个呢，后来他成为刘禅的妃子，相继的两姐妹都被喜欢美色的刘禅看上了，你想想，那么她们的父亲张飞会是什么形象呢？不会太丑吧？”<br/><br/>　　《三国志》中记载，猛将张飞死在阆中，被其手下范强与张达所害，但却没有说明范强、张达为何要杀张飞。在南充地区流传着一种张飞之死的传说，也被当地人改编成川北皮影戏，详细解说了其中的原因。<br/><br/>　　张飞在阆中所说二哥关羽败走麦城，被吴国军队所害，异常悲愤，命手下范强、张达赶制盔甲要讨伐吴国为二哥报仇。<br/><br/>　　范强、张达心想完不成任务也是死，便心生杀机，杀害了酒后沉睡中的张飞，提着张飞首级投奔东吴而去。却在路上将张飞头颅扔在了四川云阳。因此在南充民间至今仍有张飞“头在云阳，身在阆中”的说法。<br/><br/>　　后来刘备为替两个弟弟报仇，贸然讨伐东吴，失利后病死于白帝城。“桃原三结义”的情景给今天的人们留下了无穷的回味空间。刘备，关羽，张飞虽未能同年同月同日死，却也为了相互间的情义而相继死去。此种情义成为了三国故事中最为华彩的段落。陈寿在《三国志》中树立起的刘、关、张三人之间“君贤臣忠”的关系也成为了此后封建社会中君臣关系的典范，备受推崇。南充人为表达对张飞的崇敬为他雕塑了皇帝的金身，却也不忘他和刘备的君臣关系，让他持笏称臣。《三国志》的故事便以这样的方式在民间流传着。<br/><br/>　　陈寿因《三国志》而备受赞誉，却也因为秉笔直书而得罪了很多当世的权贵，晚年屡次被贬，在仕途中始终郁郁而不得志。公元297年，65岁的陈寿没能赶回老家南充便病死在都城洛阳。然而他一定不会想到，他在历史的长河中摘取下来的这段历史在1700年后不仅被中国人奉为经典，更进而影响着这个世界，《三国志》中所体现出来的智慧与谋略现今被世界各国的人们广泛应用在政治、军事、商业等各个领域。并被改编成小说、戏剧、电影甚至漫画与电子游戏在这个世界更为广泛的传播着。人们说，《三国志》是展现中华民族集体智慧的最壮美的篇章。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-503-5759.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-503-5761.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-503.html" action-type="chapterComment" class="comment"><i></i>三国志章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

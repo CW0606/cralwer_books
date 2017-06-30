@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《南腔北调集》正文_声明_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="南腔北调集,南腔北调集原文,南腔北调集阅读,声明全文,鲁迅作品" />
+<meta name="description" content="南腔北调集原文阅读,声明全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-543-7080.html";
+var nextpage="novel-read-543-7082.html";
+var indexpage = "novel-chapter-543.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-543.html">南腔北调集</a></strong>
+<strong><a href="novel-chapter-543.html">南腔北调集目录</a></strong>
+<span>声明</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-543-7080.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>声明</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-01 20:24:22<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>大约一个多月以前，从开明书店转到Ｍ女士（２）的一封信，其中有云： <br/><br/>　　“自一月十日在杭州孤山别后，多久没有见面了。前蒙允时常通讯及指导……。” <br/><br/>　　我便写了一封回信，说明我不到杭州，已将十年，决不能在孤山和人作别，所以她所看见的，是另一人。两礼拜前，蒙Ｍ女士和两位曾经听过我的讲义的同学见访，三面证明，知道在孤山者，确是别一“鲁迅”。但Ｍ女士又给我看题在曼殊（３）师坟旁的四句诗：“我来君寂居，唤醒谁氏魂？ <br/><br/>　　飘萍山林迹，待到它年随公去。 <br/><br/>　　鲁迅游杭吊老友曼殊句一，一○，十七年。” <br/><br/>　　我于是写信去打听寓杭的Ｈ君（４），前天得到回信，说确有人见过这样的一个人，就在城外教书，自说姓周，曾做一本《彷徨》，销了八万部，但自己不满意，不远将有更好的东西发表云云。 <br/><br/>　　中国另有一个本姓周或不姓周，而要姓周，也名鲁迅，我是毫没法子的。但看他自叙，有大半和我一样，却有些使我为难。那首诗的不大高明，不必说了，而硬替人向曼殊说“待到它年随公去”，也未免太专制。“去”呢，自然总有一天要“去”的，然而去“随”曼殊，却连我自己也梦里都没有想到过。但这还是小事情，尤其不敢当的，倒是什么对别人豫约“指导”之类……。 <br/><br/>　　我自到上海以来，虽有几种报上说我“要开书店”，或“游了杭州”。其实我是书店也没有开，杭州也没有去，不过仍旧躲在楼上译一点书。因为我不会拉车，也没有学制无烟火药，所以只好这样用笔来混饭吃。因为这样在混饭吃，于是忽被推为“前驱”，忽被挤为“落伍”，（５）那还可以说是自作自受，管他娘的去。但若再有一个“鲁迅”，替我说教，代我题诗，而结果还要我一个人来担负，那可真不能“有闲，有闲，第三个有闲”，连译书的工夫也要没有了。 <br/><br/>　　所以这回再登一个启事。要声明的是：我之外，今年至少另外还有一个叫“鲁迅”的在，但那些个“鲁迅”的言动，和我也曾印过一本《彷徨》而没有销到八万本的鲁迅无干。三月二十七日，在上海。 <br/><br/>　　==========================================================================<br/><br/><br/>　　（１）本篇最初发表于一九二八年四月二日《语丝》第四卷第十四期。 <br/><br/>　　（２）Ｍ女士指马湘影，当时上海法政大学的学生。《鲁迅日记》一九二八年二月二十五日：“午得开明书店……转交马湘影信，即复。” <br/><br/>　　（３）曼殊苏曼殊（１８８４—１９１８），名玄瑛，字子谷，出家后法号曼殊，广东中山县人，文学家。著作有《曼殊全集》。他的坟墓在杭州西湖孤山。 <br/><br/>　　（４）Ｈ君指许钦文，浙江绍兴人，当时的青年作家。作品有小说集《故乡》等。 <br/><br/>　　（５）“前驱”高长虹在一九二六年八月号《新女性》所刊的“狂飙社广告”中，说《狂飙》是“与思想界先驱者鲁迅及少数最进步的青年合办”。“落伍”，参看本卷第６７页注（２）。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-543-7080.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-543-7082.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-543.html" action-type="chapterComment" class="comment"><i></i>南腔北调集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

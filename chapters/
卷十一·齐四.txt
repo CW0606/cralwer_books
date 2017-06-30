@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《战国策》正文_卷十一·齐四_刘向作品 - 维普阅读网</title>
+<meta name="keywords" content="战国策,战国策原文,战国策阅读,卷十一·齐四全文,刘向作品" />
+<meta name="description" content="战国策原文阅读,卷十一·齐四全文在线阅读,刘向作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-262-4307.html";
+var nextpage="novel-read-262-4309.html";
+var indexpage = "novel-chapter-262.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-262.html">战国策</a></strong>
+<strong><a href="novel-chapter-262.html">战国策目录</a></strong>
+<span>卷十一·齐四</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-262-4307.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷十一·齐四</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘向&amp;searchsubmit=yes"  target="_blank">刘向</a><span class="divide">|</span>发布时间：2014-08-28 20:48:47<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>齐人有冯谖者<br/><br/>　　齐人有冯谖者，贫乏不能自存，使人属孟尝君，愿寄食门下。孟尝君曰：“客何好？”曰：“客无好也。”曰：“客何能？”曰：“客无能也。”孟尝君笑而受之曰：“诺。”左右以君贱之也，食以草具。居有顷，倚柱弹其剑，歌曰：“长铗归来乎！食无鱼。”左右以告。孟尝君曰：“食之，比门下之客。”居有顷，复弹其铗，歌曰：“长铗归来乎！出无车。”左右皆笑之，以告。孟尝君曰：“为之驾，比门下之车客。”于是乘其车，接其剑过其友曰：“孟尝君客我。”后有顷，复弹其剑铗，歌曰：“长铗归来乎！无以为家。”左右皆恶之,以为贪而不知足。孟尝君闻：“冯公有亲乎？”对曰：“有老母。”孟尝君使人给其食用，无使乏。于是冯谖不复歌。<br/><br/>　　后孟尝君出记，闻门下诸客：“谁习计会，能为文收责于薛乎？”冯谖署曰：“能。”孟尝君怪之，曰：“此谁也？”左右曰：“乃歌夫长铗归来者也。”孟尝君笑曰：“客果有能也，吾负之，未尝见也。”请而见之，谢曰：“文倦于事，愦于忧，而性懦愚，沉于国家之事，开罪于先生。先生不羞，乃有意欲为收责于薛乎？”冯谖曰：“愿之。”于是约车治装载券契而行，辞曰：“责毕收，以何市而反？”孟尝君曰：“视吾家所寡有者。”驱而之薛，使吏召诸民当偿者，悉来合券。券遍合，起矫命以责赐诸民，因烧其券，民称万岁。<br/><br/>　　长驱到齐，晨而求见。孟尝君怪其疾也，衣冠而见之，曰：“责毕收乎？来何疾也！”曰：“收毕矣。”“以何市而反？”冯谖曰：“君云’视吾家所寡有者。’臣窃计，君宫中积珍宝，狗马实外厩，美人充下陈。君家所寡有者以义耳！窃以为君市义。”孟尝君曰：“市义奈何？”曰：“今君有区区之薛，不拊爱子其民，因而贾利之。臣窃矫君命，以责赐诸民，因烧其券，民称万岁。乃臣所以为君市义也”。孟尝君不说，曰：“诺，先生休矣！”<br/><br/>　　后期年，齐王谓孟尝君曰：“寡人不敢以先王之臣为臣。“孟尝君就国于薛，未至百里，民扶老携幼，迎君道中。孟尝君顾谓冯谖：“先生所为文市义者，乃今日见之。”冯谖曰：“狡兔有三窟，仅得免其死耳。今君有一窟，未得高枕而卧也。请为君复凿二窟。”孟尝君予车五十乘，金五百斤，西游于梁，谓惠王曰：“齐放其大臣孟尝君于诸侯，诸侯迎之者，富而兵强。”于是，梁王虚上位，以故相为上将军，遣使者，黄金千斤，车百乘，往聘孟尝君。冯谖先驱诫孟尝君曰：“千金，重币也；百乘，显使也。齐其闻之矣。。”梁使三反，孟尝君固辞不往也。齐王闻之，君臣恐惧，遣太傅赍黄金千斤，文车二驷，服剑一，封书谢孟尝君曰：“寡人不祥，被于宗庙之祟，沉于谄謀之臣，开罪于君，寡人不足为也。愿君顾先王之宗庙，姑反国统万人乎？”冯谖诫孟尝君曰：“愿请先王之祭器，立宗庙于薛。”庙成，还报孟尝君曰：“三窟已就，君姑高枕为乐矣。”孟尝君为相数十年，无纤介之祸者，冯谖之计也。<br/><br/>　　----------------------------------------<br/><br/>　　孟尝君为从<br/><br/>　　孟尝君为从。公孙弘谓孟尝君曰：“君不以使人先观秦王？意者秦王帝王之主也，君恐不得为臣，奚暇从以难之？意者秦王不肖之主也，君从以难之，未晚。”孟尝君曰：“善，愿因请公往矣。”公孙弘敬诺，以车十乘之秦。昭王闻之，而欲媿之以辞。公孙弘见，昭王曰：“薛公之地，大小几何？”公孙弘对曰：“百里。”昭王笑而曰：“寡人地数千里。犹未敢以有难也。今孟尝君之地方百里，而因欲难寡人，犹可乎？”公孙弘对曰：“孟尝君好人，大王不好人。。”昭王曰：“孟尝君之好人也，奚如？”公孙弘曰：“义不臣乎天子,不友乎诸侯，得志不惭为人主，不得志不肯为人臣，如此者三人；而治可为管、商之师，说义听行，能致其如此者五人；万乘之严主也，辱其使者，退而自刎，必以其血污其衣，如臣者十人。”昭王笑而谢之曰：“客胡为若此，寡人直与客论耳！寡人善孟尝君，欲客之必谕寡人之志也！”公孙弘曰：“敬诺。”公孙弘可谓不侵矣。昭王，大国也，孟尝，千乘也。立千乘之义而不可凌，可谓足使矣。<br/><br/>　　----------------------------------------<br/><br/>　　鲁仲连谓孟尝<br/><br/>　　鲁仲连谓孟尝：“君好士也！雍门养椒亦，阳得子养，饮食、衣裘与之同之，皆得其死。今君之家富于二公，而士未有为君尽游者也。”君曰：“文不得是二人故也。使文得二人者，岂独不得尽？”对曰：“君之厩马百乘，无不被绣衣而食菽粟者，岂有骐麟？騄耳哉？后宫十妃，皆衣缟纻，食梁肉，岂有毛嫱、西施哉？色与马取于今之世，士何必待古哉？故曰君之好士未也。”<br/><br/>　　----------------------------------------<br/><br/>　　孟尝君逐于齐而复反<br/><br/>　　孟尝君逐于齐而复反。谭拾子迎之于境,谓孟尝君曰：“君得无有所怨齐士大夫？”孟尝君曰：“有。”“君满意杀之乎？”孟尝君曰：“然。”谭拾子曰：“事有必至，理有固然，君知之乎？”孟尝君曰：“不知。”谭拾子曰：“事之必至者，死也；理之固然者，富贵则就之，贫贱则去之。此事之必至，理之固<br/><br/>　　然者。请以市谕。市，朝则满，夕则虚，非朝爱市而夕憎之也。求存故往，亡故去。愿君勿怨。”孟尝君乃取所怨五百牒削去之，不敢以为言。<br/><br/>　　----------------------------------------<br/><br/>　　齐宣王见颜斶<br/><br/>　　齐宣王见颜斶，曰：“斶前！”斶亦曰：“王前！”宣王不悦。左右曰：“王，人君也。斶，人臣也。王曰’斶前’，亦曰’王前’，可乎？”斶对曰：“夫斶前为慕势，王前为趋士。与使斶为趋势，不如使王为趋士。”王忿然作色曰：“王者贵乎？士贵乎？”对曰：“士贵耳，王者不贵。”王曰：“有说乎？”斶曰：“有。昔者秦攻齐，令曰：’有敢去柳下季陇五十步而樵采者，死不赦。’令曰：’有能得齐王头者，封万户侯，赐金千镒。’由是观之，生王之头，曾不若死士之陇也。”王默然不悦。左右皆曰：“斶来，斶来！大王据千乘之地，而建千石钟，万石簴。天下之士，仁义皆来役处；辩士并进，莫不来语；东西南北，莫敢不服。求万物不备具，而百姓无不亲附。今夫士之高者，乃称匹夫，徒步而处农亩，下则鄙野、监门、闾里，士之贱也，亦甚矣！”斶对曰：“不然。斶闻古大禹之时，诸侯万国。何则？德厚之道，得贵士之力也。故舜起农亩，出于野鄙，而为天子。及汤之时，诸侯三千。当今之世，南面称寡者，乃二十四。由此观之，非得失之策与？稍稍诛灭，灭亡无族之时，欲为监门、闾里，安可得而有乎哉？是故《易传》不云乎：’居上位，未得其实，以喜其为名者，必以骄奢为行。据慢骄奢，则凶从之。是故无其实而喜其名者削，无德而望其福者约，无功而受其禄者辱，祸必握。’故曰：’矜功不立，虚愿不至。’此皆幸乐其名，华而无其实德者也。是以尧有九佐，舜有七友，禹有五丞，汤有三辅，自古及今，而能虚成名于天下者，无有。是以君王无羞亟问，不愧下学；是故成其道德而扬功名于后世者，尧、舜、禹、汤、周文王是也。故曰：’无形者，形之君也。无端者，事之本也。’夫上见其原，下通其流，至圣人明学，何不吉之有哉！老子曰：’虽贵，必以贱为本；虽高，必以下为基。是以侯王称孤、寡、不谷，是其贱之本与？（非）夫孤寡者，人之困贱下位也，而侯王以自谓，岂非下人而尊贵士与？夫尧传舜，舜传禹，周成王任周公旦，而世世称曰明主，是以明乎士之贵也。”宣王曰：“嗟乎！君子焉可侮哉，寡人自取病耳！及今闻君子之言，乃今闻细人之行，愿请受为弟子。且颜先生与寡人游，食必太牢，出必乘车，妻子衣服丽都。”颜斶辞去曰：“夫玉生于山，制则破焉，非弗宝贵矣，然大璞不完。士生乎鄙野，推选则禄焉，非不得尊遂也，然而形神不全。斶愿得归，晚食以当肉，安步以当车，无罪以当贵，清静贞正以自虞。制言者王也，尽忠直言者斶也。言要道已备矣，愿得赐归，安行而反臣之邑屋。”则再拜而辞去也。斶知足矣，归反于朴，则终身不辱也。<br/><br/>　　先生王斗造门而欲见齐宣王，宣王使谒者延入。王斗曰：“斗趋见王为好势，王趋见斗为好士，于王何如？”使者复还报。王曰：“先生徐之，寡人请从。”宣王因趋而迎之于门，与入，曰：“寡人奉先君之宗庙，守社稷，闻先生直言正谏不讳。”王斗对曰：“王闻之过。斗生于乱世，事乱君，焉敢直言正谏。”宣王忿然作色，不说。<br/><br/>　　有间，王斗曰：“昔先君桓公所好者，九合诸侯，一匡天下，天子受籍，立为大伯。今王有四焉。”宣王说，曰：“寡人愚陋，守七国，惟恐失抎之，焉能有四焉？”斗曰：“否。先君好马，王亦好马。先君好狗，王亦好狗。先君好酒，王亦好酒。先君好色，王亦好色。先君好士，是王不好士。”宣王曰：“当今之世无士，寡人何好？”王斗曰：“世无骐驎騄耳，王驷已备矣。世无东郭俊、庐氏之狗，王之走狗已具矣。世无毛嫱、西施，王宫已充矣。王亦不好士也，何患无士？”王曰：“寡人忧国爱民，固愿得士以治之。”王斗曰：“王之忧国爱民，不若王爱尺縠也。”王曰：“何谓也？”王斗曰：“王使人为冠，不使左右便辟而使工者何也？为能之也。今王治齐，非左右便辟无使也，臣故曰不如爱尺縠也。”宣王谢曰：“寡人有罪国家。”于是举士五人任官，齐国大治。<br/><br/>　　齐王使使者问赵威后。书未发，威后问使者曰：“岁亦无恙耶？民亦无恙耶？王亦无恙耶？”使者不说，曰：“臣奉使使威后，今不问王，而先问岁与民，岂先贱而后尊贵者乎？”魏后曰：“不然。茍无岁，何以有民？茍无民，何以有君？故有问舍本而问末者耶？”乃进而问之曰：“齐有处士曰钟离子，无恙耶？是其为人也，有粮者亦食，无粮者亦食；有衣者亦衣，无衣者亦衣。是助王养其民也，何以至今不业也？叶阳子无恙乎？是其为人，哀鳏寡，恤孤独，振困穷，补不足。是<br/><br/>　　助王息其民者也，何以至今不业也？北宫之女婴儿子无恙耶？彻其环瑱，至老不嫁，以养父母。是皆率民而出于孝情者也，胡为至今不朝也？此二士弗业，一女不朝，何以王齐国，子万民乎？于陵子仲尚存乎？是其为人也，上不臣于王，下不治其家，中不索交诸侯。此率民而出于无用者，何为至今不杀乎？”<br/><br/>　　----------------------------------------<br/><br/>　　齐王见田骈<br/><br/>　　齐王见田骈，曰：“闻先生好议，设为不宦，而愿为役。“田骈曰：“子何闻之？”对曰：“臣闻之邻人之女。”田品曰：“何谓也？”对曰：“臣邻人之女，设为不嫁，行年三十而有七子，不嫁则不嫁，然嫁过毕矣。今先生设为不宦，訿养千钟，徒百人，不宦则然矣，而富过毕也。”田子辞。<br/><br/>　　----------------------------------------<br/><br/>　　管燕得罪齐王<br/><br/>　　管燕得罪齐王，谓其左右曰：“子孰而与我赴诸侯乎？”左右默然莫对。管燕连然流涕曰：“悲夫！士何其易得而难用<br/><br/>　　也！”田需对曰：“士三食不得餍，而君鹅鹜有余食；下宫糅罗纨，曳绮縠，而士不得以为缘。且财者君之所轻，死者士之所重，君不肯以所轻与士，而责士以所重事君，非士易得而难用也。”<br/><br/>　　----------------------------------------<br/><br/>　　苏秦自燕之齐<br/><br/>　　苏秦自燕之齐，见于华章南门。齐王曰：“嘻！子之来也。秦使魏冉致帝，子以为何如？”对曰：“王之问臣也卒，而患之所从生者微。今不听，是恨秦也；听之，是恨天下也。不如听之以卒秦，勿庸称也以为天下。秦称之，天下听之，王亦称之，先后之事，帝名为无伤也。秦称之，而天下不听，王因勿称，（其于）以收天下，此大资也。”苏秦谓齐王<br/><br/>　　苏秦谓齐王曰：“齐、秦立为两帝，王以天下为尊秦乎？且尊齐乎？”王曰：“尊秦。”“释帝则天下爱齐乎？且爱秦乎？”王曰：“爱齐而憎秦。”“两帝立，约伐赵，孰与伐宋之利也？”对曰：“夫约然与秦为帝，而天下独尊秦而轻齐；齐释帝，则天下爱齐而憎秦；伐赵不如伐宋之利。故臣愿王明释帝，以就天下；倍约傧秦，勿使争重；而王以其间举宋。夫有宋则卫之阳城危；有淮北则楚之东国危；有济西则赵之河东危；有阴、平陆则梁门不启。故释帝而贰之以伐宋之事，则国重而名尊，燕、楚以形服，天下不敢不听，此汤、武之举也。敬秦以为名，而后使天下憎之，此所谓以卑易尊者也！愿王熟虑之也！”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-262-4307.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-262-4309.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-262.html" action-type="chapterComment" class="comment"><i></i>战国策章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

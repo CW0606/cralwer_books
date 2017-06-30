@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《灵枢》正文_根结第五_黄帝作品 - 维普阅读网</title>
+<meta name="keywords" content="灵枢,灵枢原文,灵枢阅读,根结第五全文,黄帝作品" />
+<meta name="description" content="灵枢原文阅读,根结第五全文在线阅读,黄帝作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-268-4581.html";
+var nextpage="novel-read-268-4664.html";
+var indexpage = "novel-chapter-268.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-268.html">灵枢</a></strong>
+<strong><a href="novel-chapter-268.html">灵枢目录</a></strong>
+<span>根结第五</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-268-4581.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>根结第五</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=黄帝&amp;searchsubmit=yes"  target="_blank">黄帝</a><span class="divide">|</span>发布时间：2014-08-29 22:59:15<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p> 岐伯曰：天地相感，寒暖相移，阴阳之道，孰少孰多？阴道偶，阳道奇，发于春夏，阴气少，阳气多，阴阳不调，何补何泻？发于秋冬，阳气少，阴气多，阴气盛而阳气衰，故茎叶枯槁，湿雨下归，阴阳相移，何泻何补？奇邪离经，不可胜数，不知根结，五藏六府，折关败枢，开阖而走，阴阳大失，不可复取。九针之玄，要在终始，故能知终始，一言而毕，不知终始，针道咸绝。太阳根于至阴，结于命门。命门者，目也。阳明根于厉兑，结于颡大。颡大者，钳耳也。少阳根于窍阴，结于窗笼。窗笼者，耳中也。太阳为开，阳明为阖，少阳为枢。故开折则肉节渎而暴病起矣，故暴病者，取之太阳，视有余不足。渎者，皮肉宛膲而弱也。阖折则气无所止息而痿疾起矣，故痿疾者，取之阳明，视有余不足。无所止息者，真气稽留，邪气居之也。枢折即骨繇而不安于地，故骨繇者，取之少阳，视有余不足。骨繇者，节缓而不收也。所谓骨繇者，摇故也。当穷其本也。太阳根于隐白，结于太仓。少阴根于涌泉，结于廉泉。厥阴根于大敦，结于玉英，络于膻中。太阴为开，厥明为阖，少阴为枢。故开折则仓廪无所输膈洞，膈洞者，取之太阴，视有余不足。故开折者，气不足而生病也。阖折即气绝而喜悲，悲者，取之厥阴，视有余不足。枢折则脉有所结而不通，不通者，取之少阴，视有余不足。有结者，皆取之不足。足太阳根于至阴，溜于京骨，注于昆仑，入于天柱、飞扬也。足少阳根于窍阴，溜于丘墟，注于阳辅，入于天容、光明也。足阳明根于厉兑，溜于冲阳，注于下陵，入于人迎、丰隆也。手太阳根于少泽，溜于阳谷，注于小海，入于天窗、支正也。手少阳根于关冲，溜于阳地，注于支沟，入于天牖、外关也。手阳明根于商阳，溜于合谷，注于阳溪，入于扶突、偏历也。此所谓十二经者，盛络皆当取之。一日一夜五十营，以营五藏之精，不应数者，名曰狂生。所谓五十营者，五藏皆受气，持其脉口，数其至也，五十动而不一代者，五藏皆受气；四十动一代者，一藏无气；三十动一代者，二藏无气；二十动一代者，三藏无气；十动一代者，四藏无气；不满十动一代者，五藏无气。予之短期，要在《终始》。所谓五十动而不一代者，以为常也，以知五藏之期。予之短期者，乍数乍疏也。<br/>　　　 黄帝曰：逆顺五体者，言人骨节之小大，肉之坚脆，皮之厚薄，血之清浊，气之滑涩，脉之长短，血之多少，经络之数，余已知之矣，此皆布衣匹夫之士也。夫王公大人，血食之君，身体柔脆，肌肉软弱，血气慓悍滑利，其刺之徐疾浅深多少，可得同之乎？岐伯答曰：膏粱菽藿之味，何可同也？气滑即出疾，其气涩则出迟，气悍则针小而入浅，气涩则针大而入深，深则欲留，浅则欲疾。以此观之，刺布衣者，深以留之；刺大人者，微以徐之。此皆因气慓悍滑利也。<br/>　　　 黄帝曰：形气之逆顺奈何？岐伯曰；形气不足，病气有余，是邪胜也，急泻之。形气有余，病气不足，急补之。形气不足，病气不足，此阴阳气俱不足也，不可刺之，刺之则重不足，重不足则阴阳俱竭，血气皆尽，五藏空虚，筋骨髓枯，老者绝灭，壮者不复矣。形气有余，病气有余，此谓阴阳俱有余也，急泻其邪，调其虚实。故曰：有余者泻之，不足者补之，此之谓也。故曰：刺不知逆顺，真邪相搏。满而补之，则阴阳四溢，肠胃充郭，肝肺内A1J8，阴阳相错。虚而泻之，则经脉空虚，血气竭枯，肠胃A2F2辟，皮肤薄着，毛股夭膲，予之死期。故曰：用针之要，在于知调阴与阳。调阴与阳，精气乃光，合形与气，使神内藏。故曰：上工平气，中工乱脉，下工绝气危生。故曰：下工不可不慎也。必审五藏变化之病，五脉之应，经络之实虚，皮之柔粗，而后取之也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-268-4581.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-268-4664.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-268.html" action-type="chapterComment" class="comment"><i></i>灵枢章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

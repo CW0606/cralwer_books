@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《周礼》正文_地官司徒·遂人/土均_周公旦作品 - 维普阅读网</title>
+<meta name="keywords" content="周礼,周礼原文,周礼阅读,地官司徒·遂人/土均全文,周公旦作品" />
+<meta name="description" content="周礼原文阅读,地官司徒·遂人/土均全文在线阅读,周公旦作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-34-826.html";
+var nextpage="novel-read-34-828.html";
+var indexpage = "novel-chapter-34.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-34.html">周礼</a></strong>
+<strong><a href="novel-chapter-34.html">周礼目录</a></strong>
+<span>地官司徒·遂人/土均</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-34-826.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>地官司徒·遂人/土均</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=周公旦&amp;searchsubmit=yes"  target="_blank">周公旦</a><span class="divide">|</span>发布时间：2014-07-20 16:51:33<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/>　　遂人掌邦之野。以土地之图经田野，造县鄙，形体之法。五家为邻，五邻为里，四里为赞阝，五赞阝为鄙，五鄙为县，五县为遂，皆有地域，沟树之，使各掌其政令刑禁。以岁时稽其人民，而授之田野，简其兵器，教之稼穑。凡治野，以下剂致甿，以田里安氓，以乐昏扰氓，以土宜教氓稼穑，以兴锄利氓，以时器劝氓，以疆予任氓，以土均平政。辨其野之土：上地、中地、下地、以颁田里。上地，夫一廛，田百亩莱五十亩，余夫亦如之。中地，夫一廛，田百亩，余夫亦如之。下地，夫一廛，田百亩，菜二百亩，余夫亦如之。凡治野，夫间有遂，遂上有径，十夫有沟，沟上有畛，百夫有洫，洫上有涂，千夫有浍，浍上有道，万夫有川，川上有路，以达于几。以岁时登其夫家之众寡，及其六畜、车辇，辨其老、幼、废、疾，与其施舍者，以颁职作事，以令贡赋，以令师田，以起政役。若起野役，则令各帅其所治之民而至，以遂之大旗致之，其不用命者，诛之。凡国祭祀，共野牲；令野职。凡宾客，令修野道而委积。大丧，帅六遂之役而致之，掌其政令。及葬，帅而属六紼，及窆，陈役。凡事致野役，而师田作野民，帅而至，掌其政治禁令。 遂师各掌其遂之政令戒禁。以时登其夫家之众寡、六畜、车辇，辨其施舍与其可任者。经牧其田野，辨其可食者，周知其数而任之，以征财征。作役事，则听其治讼。巡其稼穑，而移用其民，以救其时事。凡国祭祀，审其誓戒，共其野牲，入野职野赋于玉府。宾客，则巡其道修，庀其委积。大丧，使帅其属以幄帟先，道野役。及窆，抱磨，共丘笼及蜃车之役。军旅、田猎，平野民，掌其禁令，比叙其事而赏罚。<br/><br/>　　遂大夫备掌其遂之政令。以岁时稽其夫家之众寡、六畜田野，辨其可任者与其可施舍者，以教稼穑，以稽功事，掌其政令戒禁，听其治讼，令为邑者。岁终则会政致事。正岁，简稼器，修稼政。三岁大比，则帅其吏而兴甿，明其有功者，属其地治者。凡为邑者，以四达戒其功事，而诛赏废兴之。<br/><br/>　　县正各掌其县之政令、征、比。以颁田里，以分职事，掌其治讼，趋其稼事而赏罚之。若将用野民，师田、行役、移执事，则帅而至，治其政令。既役，则稽功会事而诛赏。<br/><br/>　　鄙师各掌其鄙之政令祭祀。凡作民，则掌其戒令。以时数其众庶，而察其<br/>　　恶而诛赏。岁终，则会其鄙之政而致事。 赞阝长各掌其赞阝之政令。以时校登其夫家，比其众寡，以治其丧纪祭祀之事。若作其民而用之，则以旗、鼓、兵革帅而至。若岁时简器，与有司数之。凡岁时之戒令，皆听之。趋其耕耨，稽其女功。 里宰掌比其邑之众寡，与其六畜兵器，治其政令。以岁时合耦于锄，以治稼穑。趋其耕耨，行其秩叙，以待有司之政令，而征敛其财赋。<br/><br/>　　邻长掌相纠相爱。凡邑中之政，相赞。徙于他邑，则従而授之。 旅师掌聚野之锄粟、屋粟、间粟，而用之。以质剂致民，平颁其兴积，施其惠，散其利，而均其政令。凡用粟，春颁而秋敛之，凡新氓之治皆听之，使无征役，以地之媺恶为之等。<br/><br/>　　稍人掌令丘乘之政令。若有会同、师田、行役之事，则以县师之法作其同徒輂辇，帅而以至，治其政令，以听於司马。大丧，帅蜃车与其役以至，掌其政令，以听於司徒。<br/><br/>　　委人掌敛野之赋敛薪刍。凡疏材木材，凡畜聚之物，以稍聚待宾客，以甸聚待羁旅。凡其余聚，以待颁赐，以式法共祭祀之薪蒸木材。宾客，共其刍薪。丧纪，共其薪蒸、木材。军旅，共其委积、薪刍，凡疏材，共野委兵器，与其野囿财用。凡军旅之宾客馆焉。<br/><br/>　　土均掌平土地之政。以均地守，以均地事，以均地贡，以和邦国、都鄙之政令、刑禁。与其施舍、礼俗、丧纪、祭祀。皆以地媺恶为轻重之法而行之，掌其禁令。<br/><br/>译文：<br/>　　遂人掌管王国的野地。按照地图划分田野，制定县鄙等的区划。五家为一邻，五邻为一里，四里为一酇，五酇为一鄙，五鄙为一县，五县为一遂，都有一定的地域，挖沟种树为界，使各自掌管区域内的政令、刑罚和禁令，按照一年的四季清查区域内的人民，而授给他们田地，检阅他们的武器和器械，教他们种庄稼。凡治理野地：用最低服役人数的名册来征召民夫[服役]，用田地和房宅使民众安定，用鼓励民众成婚来使民和顺，用各种土壤所适宜的种植来教民种庄稼，用兴起互助来使民获得好处，用铸造四时所用的农具来鼓励农民耕作，用多授给强有余力的农民土地来任用民力，用按土地合理征收赋税的法则来使赋税公平。<br/><br/>　　辨别野地的土地，分为上地、中地、下地，据以颁授田地和宅地。上地，一夫授给一处宅地，田一百亩，休耕地五十亩，余夫也照这样授田；中地，一夫授给一处宅地，田一百亩，休耕地一百亩，余夫也照这样授田；下地，一夫授给一处宅地，田一百亩。休耕地二百亩，余夫也照这样授田。 <br/><br/>　　凡治理野地的田地，夫与夫的田之间有遂，遂上有径；十夫与十夫的田之间有沟，沟上有畛；百夫与百夫的田之间有洫，洫上有途；千夫与千夫的田之间有浍，浍上有道；万夫与万夫的田之间有川，川上的路，通达畿内各地。<br/><br/>　　按照一年的四季登记男女人数的多少，以及六畜、车辆的数目，辨别老幼、残疾和那些应当免除赋税徭役的人，以分配职事使民众工作，以使民众缴纳贡赋，以征调民众参加征伐、田猎，以起用民众服劳役。如果起用野地民众服役，就命令[属吏]各自率领所治理的民众到来，用遂的大旗召集他们，有不服从命令的就加以诛罚。凡国家举行祭祀，命令供给野地所牧养的牲畜，供给柴炭。凡接待宾客，命令修治野地的道路并具备粮草。有大丧，就率领六遂的役徒而到大司徒那里，并掌管有关役徒的政令。到出葬的时候，率领役徒牵引六绰。到下棺的时候，就陈列役徒。凡有[兴建工程的]事就召集野地的役徒，而有征伐、田猎的事就征调野地的民众，率领他们到来，掌管有关他们的政令、治理和禁令。<br/><br/>　　遂师各自掌管所治理的遂的政令和戒禁，按时登记遂中男女人数的多少，以及六畜、车辆的数目，辨别其中应当免除徭役的以及可以胜任役事的人。在田野上划分田界和井田，辨别今年可以耕种的土地，全面了解它的数量而任用农民耕种，据以征收赋税。征发役徒就听断有关的事项和争讼。巡视地里的庄稼，而安排农民互助，以帮助农忙时节[困难农户的]农事。<br/><br/>　　凡国家举行祭祀，督察遂民遵守誓戒，供给野地所牧养的牲畜。[把所征收的]野地民众的从业税、地税[适合于王用的]交给玉府。[将有]宾客到来，就巡视所修整的道路，具备粮草。有大丧，[大宰]使遂师率领下属拿幄、帘先行，引导野地的役徒[前往墓地]。到下棺的时候，手持执绰人名册[查核和陈列役徒]，供给用笼取土填圹起坟以及从蜃车上卸下棺柩所需的役徒。征伐和田猎，整齐野地服役民众的队伍，掌管有关的禁令，比较、排列役徒的工作表现而行赏罚。<br/><br/>　　遂大夫掌管本遂的政令，按照一年的四季稽查遂中男女的多少，以及六畜、田地的数量，辨别遂中可任役事的和可以免除役事的人，教他们种庄稼，考察他们的工作成绩，掌管有关的政令和禁戒，听断有关的事项和争讼。命令治理邑里的属吏，每年[夏历]年终总结政事上报。<br/><br/>　　[夏历]正月，检阅农具，[教民]做好各项备耕工作。三年大校比，就率领属吏荐举民众中贤能的人，表彰属吏中有功的人，聚集各级属吏[教导他们做好工作]。凡治理邑里的官吏，告诫他们以四项大事作为工作的重点，并据此对他们进行赏赐、诛罚、罢免或提升。<br/><br/>　　县正各自掌管本县的政令、征发和校比，而颁授田地和宅地，分配各种职事，掌管听断有关的事项和争讼，督促人们耕作，并进行赏罚。如果将征用野地的民众参加征伐、田猎、巡狩、劳役，或调用民众帮助困难户．就率领役徒到来，，掌管有关的政令。役事完毕后，就稽考、总结他们的工作情况并加以赏罚。<br/><br/>　　鄙师各自掌管本鄙的政令和祭祀。凡征调民众服役就掌管有关的戒令。按季节清点鄙中的民众，考察他们的表现好坏而加以赏罚。[夏历]年终，就总结本鄙的政事而向上级报告。<br/><br/>　　酇长各自掌管本都的政令，按季清查登记酇中男女的多少，治理酇中的丧事、祭祀等事。如果征调酇民服役，就率领役徒带着旗鼓兵器和甲胄到来。如果到了每年按季检查农具、武器和器械的时候，就同遂大夫共同统计。凡一年四季[上级卡，达的]最令，都接受而执行、督促酇民耕作，考核妇女的工作成绩。<br/><br/>　　里宰掌管清查本里男数的多少，以及六畜、武器和器械数，执行有关本里的政令。按照一年的四季在锄处对农民进行耦耕的搭配，以进行耕种，督促农民耕作，安排[农民相互帮助以行耦耕的]先后次序，以待执行遂人和司稼征税的命令，而征收里中的赋税。<br/><br/>　　邻长掌管[使邻中居民]相互纠察和相互托付。凡[上级下达]里中的政令都协助执行。[邻中有居民]迁徙到别的邑里，就跟从[迁徙者]把他交付给当地官吏。<br/><br/>　　旅师掌管储积野地的锄粟、屋粟和闲粟而(在必要时]加以运用。[用时]凭质剂会聚民众，平均地颁授所征收储积的以上三种税粮，以救济民众的生活和生产，而使[有关救济的]政令执行得公正。凡所用粮，春季借贷[给困难的民户]而秋季要收回。凡新迁来的民众有所请求都处理答复，[在一定时期内]使他们不负担赋税徭役，按照土地的好坏分等级[授给他们]。<br/><br/>　　稍人掌管发布有关井田[出车徒]的政令。如果有会同、征伐、田猎、巡狩、劳役的事，就依照县师的指示，征发公邑各同的士徒和车辆，率领着来到[大司马那里]，掌管[对于所率徒众的]政令，而听从大司马的指挥。有大丧，率领蜃车及其役徒到来，掌管对于题率役徒的政令，而听从大司徒的指挥。<br/><br/>　　委人掌管征收野地的从业税，收取薪柴和饲草，凡草木的果实、木材，凡可以蓄聚之物[都加以收取储备]。用稍地的蓄聚物接待宾客，用甸地的蓄聚物供应寄居的旅客，用县地、都地的蓄聚物颁授[困难的民众]或赏赐[所喜欢的人]。依旧例供给祭祀所需的粗细薪柴和木材，接待宾客供给所需的饲草和薪柴，有丧事供给所需的粗细薪柴和木材，有征伐供给所储备的薪柴、饲草和草木果实，供给守卫野外储备所需的武器和器械，以及为苑囿设置藩篱所需的木材。凡助王征伐的诸侯，为他们安排馆舍。<br/><br/>　　土均掌管使土地税合理，使山林川泽之税合理，使各种从业税合理，使[各诸侯国进献的]贡物合理。宣布有关诸侯国和采邑的政令、刑法、禁令以及免除赋税徭役的原则，礼俗、丧事、祭祀，都依据土地的好坏作为轻重的原则而加以实行，掌管有关的禁令。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-34-826.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-34-828.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-34.html" action-type="chapterComment" class="comment"><i></i>周礼章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

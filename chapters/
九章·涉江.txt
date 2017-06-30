@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《九章》正文_九章·涉江_屈原作品 - 维普阅读网</title>
+<meta name="keywords" content="九章,九章原文,九章阅读,九章·涉江全文,屈原作品" />
+<meta name="description" content="九章原文阅读,九章·涉江全文在线阅读,屈原作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-87-1951.html";
+var nextpage="novel-read-87-1953.html";
+var indexpage = "novel-chapter-87.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-87.html">九章</a></strong>
+<strong><a href="novel-chapter-87.html">九章目录</a></strong>
+<span>九章·涉江</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-87-1951.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>九章·涉江</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=屈原&amp;searchsubmit=yes"  target="_blank">屈原</a><span class="divide">|</span>发布时间：2014-08-02 20:33:21<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文<br/>余幼好此奇服兮，年既老而不衰。<br/>带长铗之陆离兮，冠切云之崔嵬。被明月兮珮宝璐。<br/>世溷浊而莫余知兮，吾方高驰而不顾。<br/>驾青虬兮骖白螭，吾与重华游兮瑶之圃。<br/>登昆仑兮食玉英，与天地兮比寿，与日月兮同光。<br/>哀南夷之莫吾知兮，旦余济乎江湘。<br/>乘鄂渚而反顾兮，欸秋冬之绪风。<br/>步余马兮山皋，邸余车兮方林。<br/>乘舲船余上沅兮，齐吴榜以击汰。<br/>船容与而不进兮，淹回水而疑滞。<br/>朝发枉渚兮，夕宿辰阳。<br/>苟余心其端直兮，虽僻远之何伤？<br/>入溆浦余儃佪兮，迷不知吾所如。<br/>深林杳以冥冥兮，下幽晦以多雨。<br/>霰雪纷其无垠兮，云霏霏与承宇。<br/>哀吾生之无乐兮，幽独处乎山中。<br/>吾不能变心而从俗兮，固将愁苦而终穷。<br/>接舆髡首兮，桑扈裸行。<br/>忠不必用兮，贤不必以。<br/>伍子逢殃兮，比干菹醢。<br/>与前世而皆然兮，吾又何怨乎今之人。<br/>余将董道而不豫兮，固将重昏而终身。<br/>乱曰：鸾鸟凤凰，日以远兮。<br/>燕雀乌鹊，巢堂坛兮。<br/>露申辛夷，死林薄兮。<br/>腥臊并御，芳不得薄兮。<br/>阴阳易位，时不当兮。<br/>怀信侘傺，忽乎吾将行兮。<br/><br/>赏析<br/>关于《涉江》篇的题旨，王逸《楚辞章句》说：“此章言己佩服殊异，抗志高远，国无人知之者，徘徊江之上，叹小人在位，而君子遇害也。”汪瑗《楚辞集解》说：“此篇言己行义之高洁，哀浊世而莫我知也。欲将渡湘沅，入林之密，入山之深，宁甘愁苦以终身，而终不能变心以从俗，故以‘涉江’名之，盖谓将涉江而远去耳。”这两种意见都比较准确地概括出了本文的主题思想，以后学人对此文主题的解释大多与之相同。关于本篇的写作时间，则有许多分歧，大概有以下四种意见：一说是作于楚怀王时期，这种意见以汪瑗为代表，汪瑷《楚辞集解》认为本篇“末又援引古人以自慰，其词和，其气平，其文简而洁，无一语及壅君谗人之怨恨，其作于遭谗人之始，未放之先欤！与《惜诵》相表里，皆一时之作”。第二种说法是作于顷襄王初年，如林云铭《楚辞灯》说作于顷襄王二年(前297)。戴震《屈原赋注》也说：“至此重遭谗谤，济江而南，往斥逐之所。盖顷襄王复迁之江南时也。”第三种意见认为作于被放逐期间，时约顷襄王九年左右，如蒋骥《山带阁注楚辞》说“《涉江》、《哀郢》，皆顷襄时放于江南所作，然《哀郢》发郢而至陵阳，皆自西往东。《涉江》从鄂渚入溆浦，乃自东北往西南，当在既放陵阳之后”，又说：“顷襄即位，自郢放陵阳。……居陵阳九年，作《哀郢》，已而自陵阳入辰溆，作《涉江》。”第四种意见认为是临死前的作品，如郭沫若《屈原研究》认为，顷襄王二十一年白起破郢后，屈原被赶到江南，“接连着做了《涉江》、《怀沙》、《惜往日》诸篇，终于自沉了”。以上诸说中，汪瑗作于怀王时代说不可取，因其词实际上并不平和，其作于放逐后之情景甚为明显。在作于顷襄王时代之说中，蒋骥说较为可取，因从整篇文章的思想来看，此时的屈原对楚王已完全失望，与《离骚》等中年之作不同，虽具体年代有待商榷，但大致可定为是流放江南多年之后，是屈原晚年的作品。<br/><br/>　　全篇一般分为五段。<br/><br/>　　从开头至“旦余济乎江湘”为第一段，述说自己高尚理想和现实的矛盾，阐明这次涉江远走的基本原因，“奇服”、“长铗”、“切云”之“冠”、“明月”、“宝璐”等都用以象征自己高尚的品德与才能，蒋骥说：“与世殊异之服，喻志行之不群也。”自流放以来，屈原的年龄一天天大起来，身体也一天天衰老下去，可他为楚国的进步的努力绝没有放弃过，朱熹说：“登昆仑，言所致之高；食玉英，言所养之洁。”(《楚辞集注》)他坚持改革，希望楚国强盛的想法始终没有减弱，决不因为遭受打击，遇到流放而灰心。但他心中感到莫名的孤独。“世溷浊而莫余知兮”、“哀南夷之莫吾知兮”，自己的高行洁志却不为世人所理解，这真使人太伤感了。因此，决定渡江而去。<br/><br/>　　从“乘鄂渚而反顾兮”至“虽僻远之何伤”为第二段，叙述一路走来，途中的经历和自己的感慨。“乘鄂渚”四句，言自己登上今湖北武昌西面的鄂渚，不禁回头看看自己走过的路途，又放马在山皋上小跑，直到方林(亦在今长江北岸)才把车子停住。“乘舲船”四句言自己沿沅江上溯行舟，船在逆水与漩涡中艰难行进，尽管船工齐心协力，用桨击水，但船却停滞不动，很难前进，此情此景不是正如诗人自己的处境吗?“朝发枉陼”四句，接写自己的行程，早上从枉陼出发，晚上到了辰阳，足有一日行程，行程愈西，作者思想愈加坚定。他坚信自己的志向是正确的，是忠诚的，是无私的。同时，坚信无论如何的艰难困苦，自己都不感到悲伤。<br/><br/>　　从“入溆浦余儃佪兮”至“固将愁苦而终穷”为第三段，写进入溆浦以后，独处深山的情景。“入淑浦”四句言已进入溆浦。溆浦在辰阳的万山之中。这里深林杳冥，榛莽丛生，是猿狖所居，而不是人所宜去的地方。“山峻高”四句写深山之中，云气弥漫，天地相连，更进一步描绘沅西之地山高林深，极少人烟的景象。这是对流放地的环境的形容夸张，也是对自己所处政治环境的隐喻，为下文四句作好铺垫。“哀吾生之无乐兮”四句言自己在这样的政治环境和生活环境当中，是无乐可言了。然而就是这样，也绝不改变自己原先的政治理想与生活习惯，决不与黑暗势力同流合污，妥协变节。<br/><br/>　　从“接舆髡首兮”至“固将重昏而终身”是第四段，从自己本身经历联系历史上的一些忠诚义士的遭遇，进一步表明自己的政治立场。接舆是春秋时楚国的隐士，即《论语》所说的“楚狂接舆”，与孔子同时。《论语·微子》说：“楚狂接舆歌而过孔子曰：'凤兮凤兮！何德之衰！'”《战国策·秦三》说：“箕子接舆，漆身而为厉，被发而为狂。”髡首，剃发，是古时一种刑罚，接舆被发佯狂，是坚决不与统治者合作的表示。桑扈，也是古隐士，即《论语》所说的子桑伯子，《庄子》所说的子桑户。《孔子家语》说他“不衣冠而处”，也是一种玩世不恭，不与统治者合作的行为。伍子即伍子胥，春秋时吴国的贤臣，吴王夫差听信伯嚭(pi3)的谗言，逼迫伍员自杀。比干，殷纣王的叔伯父(一说是纣王的庶兄)。传说纣王淫乱，不理朝政，比干强谏，被纣王剖心而死。诗中“菹醢”二字极云其被刑之惨酷(寒砧：大概作者将比干与梅伯所受之刑混淆了)。“接舆”六句是通过两种不同类型的四个事例来说明一个观点：接舆、桑扈是消极不合作，结果为时代所遗弃；伍员、比干是想拯救国家改变现实的，但又不免杀身之祸，所以结论是“忠不必用兮，贤不必以”。“与前世而皆然兮”四句说自己知道，所有贤士均是如此，我又何怨于今天之人！表明自己仍将正道直行，毫不犹豫，而这样势必遭遇重重黑暗，必须准备在黑暗中奋斗终身。<br/><br/>　　“乱曰”以下为第五段。批判楚国政治黑暗，邪佞之人执掌权柄，而贤能之人却遭到迫害。“鸾鸟凤皇”四句，比喻贤士远离，小人窃位。凤凰是古传说中的神鸟，这里比喻贤士。“燕雀乌鹊”用以比喻小人。“露申辛夷”四句言露申辛夷等香草香木竟死于丛林之中，“腥臊”比喻奸邪之人陆续进用，而忠诚义士却被拒之门外。“阴阳易位”四句更点出了社会上阴阳变更位置的情况，事物的是非一切都颠倒了，他竟不得其时。不言而喻，他一方面胸怀坚定的信念，另一方面又感到失意徬徨。既然龌龊的环境难以久留，他将要离开这里远去。<br/><br/>　　本篇是屈原晚年之作，写作时间当在《哀郢》之后，这首诗一个最突出的特点是诗中有一大段记行文字。姜亮夫先生《屈原赋校注》说：“此章言自陵阳渡江而入洞庭，过枉陼、辰阳入溆浦而上焉，盖纪其行也。发轫为济江，故题曰《涉江》也，……文义皆极明白，路径尤为明晰。”这段文字描绘了沅水流域的景物，成为我国最早的一首卓越的纪行诗歌，对后世同类诗歌的创作发生了影响。诗中景物描写和情感抒发的有机结合，达到了十分完美的程度。在诗歌的第二段，通过行程、景物、季节、气候的描写和诗人心灵思想的抒发，我们仿佛看到了一位饱经沧桑，孤立无助，登上鄂渚回顾走过的道路的老年诗人的形象，又仿佛看到了一叶扁舟在急流漩涡中艰难前进，舟中的逐臣的心绪正与这小船的遭遇一样，有着抒发不完的千丝万缕的感情。而诗歌第三段进入溆浦之后的深山老林的描写，衬托出了诗人寂寞、悲愤的心情，也令读者不禁扼腕叹绝。本篇比喻象征手法的运用也十分纯熟。诗歌一开始，诗人便采用了象征手法，用好奇服、带长铗、冠切云、被明月、佩宝璐来表现自己的志行，以驾青虬骖白螭、游瑶圃、食玉英来象征自己高远的志向。最后一段，又以鸾鸟、凤凰、香草来象征正直、高洁；以燕雀、乌鹊、腥臊来比喻邪恶势力，充分抒发了诗人内心对当前社会的深切感受。　(林家骊)</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-87-1951.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-87-1953.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-87.html" action-type="chapterComment" class="comment"><i></i>九章章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

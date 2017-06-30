@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《百家姓》正文_阚_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="百家姓,百家姓原文,百家姓阅读,阚全文,佚名作品" />
+<meta name="description" content="百家姓原文阅读,阚全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-230-3332.html";
+var nextpage="novel-read-230-3334.html";
+var indexpage = "novel-chapter-230.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-230.html">百家姓</a></strong>
+<strong><a href="novel-chapter-230.html">百家姓目录</a></strong>
+<span>阚</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-230-3332.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>阚</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-08-20 22:19:56<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>历史来源<br/>　　出自姜姓，以封地名为氏。春秋时期，齐国有一个大夫名止，被封于阚（今山东省汶上县西南），世称阚止，他的后代以封邑为姓，形成阚氏。<br/>　　出自姞姓，以国名为氏。上古时有阚国（今山东省嘉祥县北），是黄帝吉姓子孙的封国，其后代以国名为姓，称为阚氏。<br/><br/>家族名人<br/>　　阚泽：字德润。三国时吴国山阴人。少时家贫，帮人抄书为业，每抄完一篇，朗读一遍，追师论讲，究览群籍。后来不但成为学者，而且精通历法数学，并举孝廉。进拜太子太傅。每次朝廷大议，经典所疑，都请教于他。以儒学勤劳，封为都乡侯。<br/>　　阚骃：字玄阴，后魏时敦煌人，自小聪敏好学，博通经传，三史群言，经目则诵，在学界就已出名，时人谓之宿读，后来在朝中做尚书官。他整理校定了前代学者的著作三千多卷，为中国文化史的整理出了一份力。他注王朗《易传》，又撰《十三州志》行于世。官秘书考课郎中时，给文吏30人，典校经籍，刊定诸子3000余卷。留下文化遣产，为中国文化史的整理作出了贡献。<br/>　　阚棱：伏威邑人，唐朝猛将，其貌魁雄，善用两刃刀，其长丈，名曰“陌刀”，一挥杀数人，前无坚对。伏威据江淮，以战功显，署左将军。部兵皆群盗，横相侵牟，棱案罪杀之，虽亲故无脱者，至道不举遗。从伏威入朝，拜左领军将军、越州都督。公祏反，棱与南讨，青山之战，与陈正通遇，阵方接，棱脱兜鍪谓众曰：“不识我邪？何敢战１其徒多棱旧部，气遂索，至有拜者。公祏破，棱功多，然颇自伐。公祏被禽，乃诬与己谋；又伏威、王雄诞及棱赀产在丹阳者当原，而赵郡王孝恭悉籍入之，棱自诉，忤孝恭。遂以谋反诛。<br/><br/>迁徙分布<br/>　　阚姓在大陆和台湾都没有列入百家姓前一百位。古代春秋时期，齐国有位高官叫“止”，受封享用阚地的物产，人们就称他为阚止。他的后代，就以封地为姓，世代相传。阚地就在现今山东汶上县一带。而阚的先人，追溯上去就是姜太公，即辅助周文王，周武王的姜尚。姜尚也是齐国的创建人。所以阚姓是源自姜姓的。而姜姓始祖正是神农炎帝，炎帝出生于陕西歧山西南的姜水之演，就以姜为姓，阚屯正是炎帝的传人。据《尚友录》的记载，春秋时期，齐国有个大夫名止，受封于阚地（在今山东省坟上县境），人们就称他为阚止，他的后代就以封地为姓，世代相传姓阚。其中一支沿京杭运河南迁至眙盱，扬州，江浙，闽台。又有一小支，从眙盱沿淮河上溯向西，散居于淮河两岸。一支于明朝末年，随军驻扎北京南口镇，因屡立战功，朝廷降旨家族坟地可种45棵万年松，现后人多居于昌平区南口镇北虎峪村，约有200人，一支于民国左右北上，来到北京，现散居于北京通州区，又以通州区胡各庄乡黎辛庄居多，约有150人左右，之后有部分外分。而阚止的后代，大部分现都居住在山东境内，其中：新太的汶南、放城、土门，莱芜的寨子、丈八丘、录家以及泰安、荷泽、博山、高密、临沂、沂源、沂水、平阴居多。新中国成立前后有部分人外迁之东北及山西一带。根据《姓氏考略》记载：音瞰。齐邑，鲁昭公在乾侯取阚是也。齐大夫食采者氏焉。望出天水、会稽。<br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-230-3332.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-230-3334.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-230.html" action-type="chapterComment" class="comment"><i></i>百家姓章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

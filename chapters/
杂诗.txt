@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《杂诗》正文_杂诗_王维作品 - 维普阅读网</title>
+<meta name="keywords" content="杂诗,杂诗原文,杂诗阅读,杂诗全文,王维作品" />
+<meta name="description" content="杂诗原文阅读,杂诗全文在线阅读,王维作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-1184.html";
+var nextpage="novel-chapter-1184.html";
+var indexpage = "novel-chapter-1184.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1184.html">杂诗</a></strong>
+<strong><a href="novel-chapter-1184.html">杂诗目录</a></strong>
+<span>杂诗</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-1184.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>杂诗</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王维&amp;searchsubmit=yes"  target="_blank">王维</a><span class="divide">|</span>发布时间：2015-02-10 15:00:32<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　君自故乡来，应知故乡事。<br/>　　来日绮窗前，寒梅著花未。<br/><br/>【注释】<br/>⑴君：对对方的尊称，您。<br/>⑵故乡：家乡，这里指作者的故乡。<br/>⑶来日：来的时候。<br/>⑷绮窗：雕画花纹的窗户。<br/>⑸寒梅：冬天绽放的梅花。<br/>⑹著花未：开花没有？着（zhuó）花，开花。未，用于句末，相当于“否”，表疑问。<br/><br/>【译文】<br/>您是刚从我们家乡来的，一定了解家乡的人情世态。请问您来的时候我家雕画花纹的窗户前，那一株腊梅花开了没有？<br/><br/>【赏析】<br/>　　这首诗表现作者的情趣与倾向。诗人想念故乡，自然是情理之中；而喜欢梅花，则溢于言表。本诗信手拈来，自然天成。<br/>　　诗中的抒情主人公（“我”，不一定是作者），是一个久在异乡的人，忽然遇上来自故乡的旧友，首先激起的自然是强烈的乡思，是急欲了解故乡风物、人事的心情。开头两句，正是以一种不加修饰、接近于生活的自然状态的形式，传神地表达了“我”的这种感情。“故乡”一词迭见，正表现出乡思之殷：“应知”云云，迹近噜?，却表现出了解乡事之情的急切，透露出一种儿童式的天真与亲切。纯用白描记言，却简洁地将“我”在特定情形下的感情、心理、神态、口吻等表现得栩栩如生，这其实是很省俭的笔墨。<br/>　　关于“故乡事”，那是可以开一张长长的问题清单的。初唐的王绩写过一篇《在京思故园见乡人问》，从朋旧童孩、宗族弟侄、旧园新树、茅斋宽窄、柳行疏密一直问到院果林花，仍然意犹未尽，“羁心只欲问”；而这首诗中的“我”却撇开这些，独问对方：来日绮窗前，寒梅著花未？仿佛故乡之值得怀念，就在窗前那株寒梅。这就很有些出乎常情。但又绝非故作姿态。<br/>　　一个人对故乡的怀念，总是和那些与自己过去生活有密切关系的人、事、物联结在一起。所谓“乡思”，完全是一种“形象思维”，浮现在思乡者脑海中的，都是一个个具体的形象或画面。故乡的亲朋故旧、山川景物、风土人情，都值得怀念。但引起亲切怀想的，有时往往是一些看来很平常、很细小的情事，这窗前的寒梅便是一例。它可能蕴含着当年家居生活亲切有趣的情事。因此，这株寒梅，就不再是一般的自然物，而成了故乡的一种象征。它已经被诗化、典型化了。因此这株寒梅也自然成了“我”的思乡之情的集中寄托。从这个意义上去理解，独问“寒梅著花未”是完全符合生活逻辑的。<br/>　　古代诗歌中常有这种质朴平淡而诗味浓郁的作品。它质朴到似乎不用任何技巧，实际上却包含着最高级的技巧。象这首诗中的独问寒梅，就不妨看成一种通过特殊体现一般的典型化技巧，而这种技巧却是用一种平淡质朴得如叙家常的形式来体现的。这正是所谓寓巧于朴。王绩的那首《在京思故园见乡人问》，朴质的程度也许超过这首诗，但它那一连串的发问，其艺术力量却远远抵不上王维的这一问。其中消息，不是正可深长思之的吗？<br/>　　“君自故乡来，应知故乡事。”这一句看起来是问家乡的情况，但诗人只是笼统的以“故乡事”来设问，可是问什么好呢？诗人心里满腹的问题竟然不知从何问起。于是我们可以想象诗人的踌躇，对方的诧异。“来日绮窗前，寒梅著花未？”这一问倒令对方感到困惑，不问人事而问物事，这时梅花开没开花？想必读者对此也感到突兀。可是正是这样一问，才是妙趣横生，令人回味无穷。其实诗人的真正目的，哪里是梅花啊。诗人想说的话，想问的问题不知从何说起，对家乡的思念竟在这一个不经意的问题之中。这是诗人留给人们的空白，让读者去想象。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-1184.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-1184.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1184.html" action-type="chapterComment" class="comment"><i></i>杂诗章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《贾谊新书》正文_道术_贾谊作品 - 维普阅读网</title>
+<meta name="keywords" content="贾谊新书,贾谊新书原文,贾谊新书阅读,道术全文,贾谊作品" />
+<meta name="description" content="贾谊新书原文阅读,道术全文在线阅读,贾谊作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-235-3466.html";
+var nextpage="novel-read-235-3468.html";
+var indexpage = "novel-chapter-235.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-235.html">贾谊新书</a></strong>
+<strong><a href="novel-chapter-235.html">贾谊新书目录</a></strong>
+<span>道术</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-235-3466.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>道术</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=贾谊&amp;searchsubmit=yes"  target="_blank">贾谊</a><span class="divide">|</span>发布时间：2014-08-21 21:07:16<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>曰：“数闻道之名矣，而未知其实也。请问道者何谓也？”对曰：“道者，所从接物也。其本者谓之虚，其末者谓之术。虚者，言其精微也，平素而无设施也。术也者，所从制物也，动静之数也。凡此皆道也。”<br/><br/>　　曰：“请问虚之接物，何如？”对曰：“镜仪而居，无执不臧，美恶毕至，各得其当。衡虚无私，平静而处，轻重毕悬，各得其所。明主者，南面而正，清虚而静，令名自宣，命物自定，如鉴之应，如衡之称，有舋和之，有端随之，物鞠其极，而以当施之。此虚之接物也。”<br/><br/>　　曰：“请问术之接物何如？”对曰：“人主仁而境内和矣，故其士民莫弗亲也；人主义而境内理矣，故其士民莫弗顺也；人主有礼而境内肃矣，故其士民莫弗敬也；人主有信而境内贞矣，故其士民莫弗信也；人主公而境内服矣，故其士民莫弗戴也；人主法而境内轨矣，故其士民莫弗辅也。举贤则民化善，使能则官职治，英俊在位则主尊，羽翼胜任则民显，操德而固则威立，教顺而必则令行。周听则不蔽，稽验则不惶，明好恶则民心化，密事端则人主神。术者，接物之队。凡权重者必谨于事，令行者必谨于言，则过败鲜矣。此术之接物之道也。其为原无屈，其应变无极，故圣人尊之。夫道之详，不可胜述也。”<br/><br/>　　曰：“请问品善之体何如？”对曰：“亲爱利子谓之慈，反慈为嚚；子爱利亲谓之孝，反孝为孽。爱利出中谓之忠，反忠为倍。心省恤人谓之惠；反惠为困。兄敬爱弟谓之友，反友为虐。弟敬爱兄谓之悌，反悌为敖。接遇慎容谓之恭，反恭为媟。接遇肃正谓之敬，反敬为嫚。言行抱一谓之贞，反贞为伪。期果言当谓之信，反信为慢。衷理不辟谓之端，反端为(足方)。据当不倾谓之平，反平为险。行善决衷谓之清，反清为浊。辞利刻谦谓之廉，反廉为贪。兼覆无私谓之公，反公为私。方直不曲谓之正，反正为邪。以人自观谓之度，反度为妄。以己量人谓之恕，反恕为荒。恻隐怜人谓之慈，反慈为忍。厚志隐行谓之洁，反洁为汰。施行得理谓之德，反德为怨。放理洁静谓之行，反行为污。功遂自却谓之退，反退为伐。厚人自薄谓之让，反让为冒。心兼爱人谓之仁，反仁为戾。行充其宜谓之义，反义为懵。刚柔得适谓之和，反和为乖。合得密周谓之调，反调为盭。优贤不逮谓之宽，反宽为阨。包众容易谓之裕，反裕为褊。欣熏可安谓之熅，反熅为鸷。安柔不苛谓之良，反良为啮。缘法循理谓之轨，反轨为易。袭常缘道谓之道，反道为辟。广较自敛谓之俭，反俭为侈。费弗过适谓之节，反节为靡。僶勉就善谓之慎，反慎为怠。思恶勿道谓之戒，反戒为傲。深知祸福谓之知，反知为愚。亟见窕察谓之慧，反慧为童。动有文体谓之礼，反礼为滥。容服有义谓之仪，反仪为诡。行归而过谓之顺，反顺为逆。动静摄次谓之比，反比为错。容志审道谓之?，反?为野。辞令就得谓之雅，反雅为陋。论物明辩谓之辩，反辩为讷。纤微皆审谓之察，反察为旄。诚动可畏谓之威，反威为圂。临制不犯谓之严，反严为软。仁义修立谓之任，反任为欺。伏义诚必谓之节，反节为罢。持节不恐谓之勇，反勇为怯。信理遂惔谓之敢，反敢为揜。志操精果谓之诚，反诚为殆。克行遂节谓之必，反必为怛。凡此品也，善之体也，所谓道也。<br/><br/>　　故守道者谓之士，乐道者谓之君子，知道者谓之明，行道者谓之贤。且明且贤，此谓圣人。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-235-3466.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-235-3468.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-235.html" action-type="chapterComment" class="comment"><i></i>贾谊新书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

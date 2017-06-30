@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《何满子》正文_何满子_张祜作品 - 维普阅读网</title>
+<meta name="keywords" content="何满子,何满子原文,何满子阅读,何满子全文,张祜作品" />
+<meta name="description" content="何满子原文阅读,何满子全文在线阅读,张祜作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-1193.html";
+var nextpage="novel-chapter-1193.html";
+var indexpage = "novel-chapter-1193.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1193.html">何满子</a></strong>
+<strong><a href="novel-chapter-1193.html">何满子目录</a></strong>
+<span>何满子</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-1193.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>何满子</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=张祜&amp;searchsubmit=yes"  target="_blank">张祜</a><span class="divide">|</span>发布时间：2015-02-10 16:16:00<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>故国三千里，深宫二十年。<br/>一声何满子，双泪落君前。<br/> <br/>【注释】<br/>1.故国：指故乡。<br/>2.君：指唐武宗。<br/> <br/>【译文】<br/>故乡远隔三千里，（别了兄弟父母）；深宫幽闭二十年，（好比笼中鹦鹉）。<br/>听一声何满子曲，（不禁想我身世）；双眼落泪在君前。（你害得我多苦）！<br/> <br/>【赏析】<br/>　　一般以绝句体裁写的篇幅短小的宫怨诗，总是只揭开生活画图的一角，让读者从一个片断场景看到宫人悲惨的一生；同时往往写得委婉含蓄，一些内容留待读者自己去想象，去玩味。这首诗却与众不同。它展示的是一幅生活全图，而且是直叙其事，直写其情。<br/>　　诗总共只有二十个字。作者在前半首里，以举重若轻、驭繁如简的笔力，把一个宫人远离故乡、幽闭深宫的整个遭遇浓缩在短短十个字中。首句“故国三千里”，是从空间着眼，写去家之远；次句“深宫二十年”，是从时间下笔，写入宫之久。这两句诗，不仅有高度的概括性，而且有强烈的感染力；不仅把诗中女主角的千愁万恨一下子集中地显示了出来，而且是加一倍、进一层地表达了她的愁恨。一个少女不幸被选入宫，与家人分离，与外界隔绝，失去幸福，失去自由，本来已经够悲惨了，何况家乡又在三千里之外，岁月已有二十年之长，这就使读者感到其命运更加悲惨，其身世更可同情。与这两句诗相似的有柳宗元《别舍弟宗一》诗中“一身去国六千里，万死投荒十二年”一联，也是以距离的遥远、时间的久长来表明去国投荒的分外可悲。这都是以加一倍、进一层的写法来增加诗句的重量和深度。 更多唐诗欣赏敬请关注“习古堂国学网”的唐诗三百首栏目。<br/>　　后半首诗转入写怨情，以一声悲歌、双泪齐落的事实，直截了当地写出了诗中人埋藏极深、蓄积已久的怨情。这后两句诗也以强烈取胜，不以含蓄见长。过去一些诗论家有诗贵含蓄、忌直贵曲的说法，其实并不是绝对的。应当说，一首诗或曲或直，或含蓄或强烈，要服从它的内容。这首诗的前半首已经把诗中人的处境之悲惨写到了极点，为逼出怨情蓄足了力量，因而在下半首中就势必让诗中人的怨情喷薄而出、一泻为快了。这样才能使整首诗显得强烈有力，更能收到打动读者的艺术效果。这里，特别值得拈出的一点是：有些宫怨诗把宫人产生怨情的原因写成是由于见不到皇帝或失宠于皇帝，那是不可取的；这首诗反其道而行之，它所写的怨情是在“君前”、在诗中人的歌舞受到皇帝赏识的时候迸发出来的。这个怨情，联系前两句看，决不是由于不得进见或失宠，而是对被夺去了幸福和自由的抗议，正是刘皂在一首《长门怨》中所说，“不是思君是恨君”。<br/>　　这首诗还有两个特点。一是：四句诗中，前三句都是没有谓语的名词句。谢榛在《四溟诗话》中曾指出，诗句中“实字多，则意简而句健”，而他所举的“皆用实字”的例句，就是名词句。这首诗之所以特别简括凝炼、强烈有力，与运用这种特殊的诗句结构有关。另一特点是：四句诗中，以“三千里”表明距离，以“二十年”表明时间，以“一声”写歌唱，以“双泪”写泣下，句句都用了数目字。而数字在诗歌中往往有其特殊作用，它能把一件事情、一个问题表达得更清晰，更准确，给读者以更深刻的印象，也使诗句特别精炼有力。这首诗的这两个艺术形式上的特点，与它的内容互为表里，相得益彰。<br/>　　与张祜同时的诗人杜牧非常欣赏这首诗，在一首酬张祜的诗中有“可怜故国三千里，虚唱歌词满六宫”句。这说明，张祜的这首诗道出了宫人的辛酸，讲出了宫人要讲的话，当时传入宫中，曾为宫人广泛歌唱。<br/> <br/>【点评】<br/>　　张祜是非常善于用数字说话的唐朝诗人。<br/>　　这是一串饱含泪水的数字：远离故国“三千里”、嫁入深宫“二十年”，所有的悲愤凝烟成这“一声”何满子，但见“双泪”落君前。<br/>　　四个数字，二十个字，高度提炼了一个惨绝人寰的人生故事，并且如此精确、清晰、精炼、有力。真乃举重若轻、大题小做之经典！美好青春、如诗如画的如水年以及价更高的自由都被断送剥夺了！其忧、其伤，其悲、其痛、其凄、其苦、其惨、其哀。。。。。。犹如那“一声”愤懑的何满子，余音绕梁、不绝如缕、久久萦回、挥之不去。<br/>　　“不是思君是恨君”！（刘皂《长门怨》）<br/>　　白居易有诗写道：“世传满子是人名。临就刑时曲始成。一曲四词歌八叠，从头便是断肠声。”并自注云：“开元中，沧州歌者姓名，临刑进此曲，以赎死，上竟不免。”<br/>　　《四库全书·集部·诗文评类·韵语阳秋》——张祜诗云：“故国三千里，深宫二十年。”杜牧赏之，作诗云：“可怜故国三千里，虚唱歌词满六宫。”故郑谷云：“张生故国三千里，知者惟应杜紫微。”<br/>　　张祜的这首诗道出了宫人的辛酸，讲出了宫人要讲的话，当时传入宫中，曾为宫人广泛歌唱。 更多唐诗欣赏敬请关注“习古堂国学网”的唐诗三百首栏目。<br/>　　关于这首诗，还有这么一段往事：后来这首词传入宫中，唐武宗病重时，宠妃孟才人恳请为上歌一曲。当唱到“一声何满子”，竟气绝肠断而死。黑格尔说过：“所谓感动，就是感情上的共鸣。”这首《何满子》堪称是唐诗里最为著名的断肠之作，何满子从此成为哀伤的代名词。<br/>　　张祜早年寓居苏州，常往来于烟花扬州、杭州等都市，游山玩水，题咏名寺。张祜诗集10卷468首至今保存完好。其诗风沉静浑厚，有隐逸之气，但略显不够清新生动；吟咏的题材相当丰富（这里面包括众多寺庙的题作和有关各种乐器及鸟禽的诗咏等等）。代表作有《题金陵渡》、《雁门太守行》、《送苏绍之归岭南》、《旅次石头岸》、《隋宫怀古》、《从军行》、《爱妾换马》、《宫词二首》、《夜宿湓浦逢崔升》、《听筝》、《散花楼》、《悲纳铁》、《樱桃》等，其中《题金陵渡》和《宫词二首》流传颇广。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-1193.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-1193.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1193.html" action-type="chapterComment" class="comment"><i></i>何满子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

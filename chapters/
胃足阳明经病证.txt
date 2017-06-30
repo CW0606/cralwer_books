@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《脉经》正文_胃足阳明经病证_王叔和作品 - 维普阅读网</title>
+<meta name="keywords" content="脉经,脉经原文,脉经阅读,胃足阳明经病证全文,王叔和作品" />
+<meta name="description" content="脉经原文阅读,胃足阳明经病证全文在线阅读,王叔和作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-517-6196.html";
+var nextpage="novel-read-517-6198.html";
+var indexpage = "novel-chapter-517.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-517.html">脉经</a></strong>
+<strong><a href="novel-chapter-517.html">脉经目录</a></strong>
+<span>胃足阳明经病证</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-517-6196.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>胃足阳明经病证</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王叔和&amp;searchsubmit=yes"  target="_blank">王叔和</a><span class="divide">|</span>发布时间：2014-09-23 20:32:13<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>胃病者，腹胀，胃脘当心而痛，上支两胁，膈咽不通，饮食不下，取三里。饮食不下，隔塞不通，邪在胃脘。在上脘，则抑而刺之；在下脘，则散而去。胃脉搏坚而长，其色赤，当病折髀。其软而散者，当病食痹，髀痛。胃中有癖，食冷物者，痛，不能食；食热即能食。胃胀者，腹满，胃脘痛，鼻闻焦臭，妨于食，大便难。<br/><br/>　　诊得胃脉，病形何如？<br/><br/>　　曰：胃实则胀，虚则泄。病先发于胃，胀满；五日之肾，少腹腰脊痛，胫；三日之膀胱，背膂筋痛，小便闭；五日上之脾，闭塞不通，身痛体重（《灵枢》云：上之心）。六日不已，死，冬夜半后，夏日。（六日一作三日）<br/><br/>　　脉浮而芤，浮则为阳，芤则为阴，浮芤相搏，胃气生热，其阳则绝。<br/><br/>　　趺阳脉浮者，胃气虚也。<br/><br/>　　趺阳脉浮大者，此胃家微，虚烦，圊必日再行。<br/><br/>　　芤而有胃气者，脉浮之大而软，微按之芤，故知芤而有胃气也。<br/><br/>　　趺阳脉数者，胃中有热，即消谷引食。<br/><br/>　　趺阳脉涩者，胃中有寒，水谷不化。<br/><br/>　　趺阳脉粗粗而浮者，其病难治。趺阳脉浮迟者，故久病。<br/><br/>　　趺阳脉虚则遗溺，实则失气。<br/><br/>　　动作头痛重，热气朝者，属胃。厥气客于胃，则梦饮食。足阳明之脉，起于鼻交中，旁约太阳之脉，下循鼻外，入上齿中，还出挟口，环唇，下交承浆。却循颐后下廉出大迎，循颊车，上耳前，过客主人，循发际，至额颅。其支者，从大迎前下人迎，循喉咙，入缺盆，下膈，属胃，络脾。其直者，从缺盆下乳内廉，下挟脐，入气街中。其支者，起胃下口，循腹里，下至气街中而合，以下髀关，抵伏菟，下入膝膑中，下循外廉，下足跗，入中指内间。其支者，下膝三寸而别，以下入中指外间。其支者，别跗上，入大指间，出其端。是动则病凄凄然振寒，善伸，数欠，颜黑。病至恶人与火，闻木音则惕然而惊，心动，欲独闭户牖而处，甚则欲上高而歌，弃衣而走，贲响腹胀，是为厥。是主血（血一作胃）所生病者，狂，疟（一作螈），温，淫汗出，鼽衄，口，唇紧，颈肿，喉痹，大腹水肿，膝膑痛，循膺、乳、街、股、伏菟、外廉、足跗上皆痛，中指不用。气盛，则身以前皆热，其有余于胃，则消谷善饥，溺色黄；气不足，则身以前皆寒栗，胃中寒则胀满。盛者，则人迎大三倍于寸口；虚者，则人迎反小于寸口也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-517-6196.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-517-6198.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-517.html" action-type="chapterComment" class="comment"><i></i>脉经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

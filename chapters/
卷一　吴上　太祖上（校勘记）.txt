@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《建康实录》正文_卷一　吴上　太祖上（校勘记）_许嵩作品 - 维普阅读网</title>
+<meta name="keywords" content="建康实录,建康实录原文,建康实录阅读,卷一　吴上　太祖上（校勘记）全文,许嵩作品" />
+<meta name="description" content="建康实录原文阅读,卷一　吴上　太祖上（校勘记）全文在线阅读,许嵩作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1033-10830.html";
+var nextpage="novel-read-1033-10832.html";
+var indexpage = "novel-chapter-1033.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1033.html">建康实录</a></strong>
+<strong><a href="novel-chapter-1033.html">建康实录目录</a></strong>
+<span>卷一　吴上　太祖上（校勘记）</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1033-10830.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷一　吴上　太祖上（校勘记）</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=许嵩&amp;searchsubmit=yes"  target="_blank">许嵩</a><span class="divide">|</span>发布时间：2014-11-29 20:50:45<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>〔1〕吴上 “吴上”二字原缺，库本有“吴”字，据本书体例当作“吴上”，今补正。<br/>　　〔2〕建业者古之金陵地 其前一行原有标题“吴太祖”三字，今据库本删。<br/>　　〔3〕梅里平墟今常州无锡县东三十里 《史记?吴太伯世家正义》云，梅里“在常州无锡县东南六十里”。<br/>　　〔4〕秦本纪渭南（至）蜀郡已上三十六郡也 “渭南、河上、中山、平原”，《史记?秦始皇本纪集解》作“黔中、长沙、内史、九原”。《实录》误。<br/>　　〔5〕楚亡以后一十三年当始皇三十六始皇东巡 《汉书?武帝纪》《通鉴》七皆云，秦始皇东巡在始皇三十七年。秦灭楚在始皇二十四年，此亦云“楚亡以后十三年”始皇东巡，以此推算，亦为始皇三十七年，此“三十六”当为“三十七”之误。<br/>　　〔6〕汉武帝元封二年（至）置一十二州刺史以领天下诸郡 《汉书?武帝纪》颜师古注引《汉旧仪》及《通鉴》二一皆云，汉武帝元封五年“初置刺史部十三州”，据此“二年”当作“五年”、“十二州”亦当作“十三州”。<br/>　　〔7〕时扬州刺史刘繇为袁术所逼　“袁术”底本作“袁述”，据甘钞本、徐钞本改正。刘繇为袁术所逼事，见《三国志?吴志?刘繇传》。<br/>　　〔8〕末城　《汉书?地理志》上作“宣城”。<br/>　　〔9〕太祖上　“太祖上”上原有“吴”字，其下有“太祖下废帝景帝后主”九字，今皆据库本删。<br/>　　〔10〕仕汉为破虏将军长沙太守　陶札云：“据《吴志·孙坚传》，坚以长沙太守起兵讨董卓，至鲁阳，袁术表坚行破虏将军。《实录》叙坚为破虏将军在举兵前，误。”<br/>　　〔11〕破卓军于阳夏　“阳夏”，《三国志?吴志?孙坚传》作“阳人”。陶札云：“《实录》作‘阳夏’，误。”陶说是，《通鉴》六○亦作“阳人”。<br/>　　〔12〕海贼胡玉劫南人物　陶札云：“《实录》‘南’字应为‘商’字之讹。”陶说是，《吴志·孙坚传》作“贾人”亦可证。<br/>　　〔13〕案志林孙坚生五子策权翊匡吴氏所生仁即庶子　“志林”原作“志”、“庶子”原作“戏子”。陶札云：“《吴志·孙坚传》注《志林》曰：‘坚有五子：策、权、翊、匡，吴氏所生，少子朗，庶生也，一名仁。’案《实录》‘志’下脱‘林’字，徐钞本《实录》‘戏’作‘庶’。”陶说是，库本即作“志林”，今据改。<br/>　　〔14〕表为汉折冲校尉使破庐江太守陆康　陶札云：“《吴志·孙策传》，术表策为折冲校尉在策破陆康后，是也。”<br/>　　〔15〕僮芝自署庐陵太守　“庐陵”原作“庐江”。陶札云：“《吴志·太史慈传》注《江表传》‘又丹阳僮芝自擅庐陵，诈言被诏书为太守’。案《实录》‘庐江’乃‘庐陵’之讹。”陶说是，周钞本正作“卢陵”，僮芝据庐陵事亦见《通鉴》六二，今据改。<br/>　　〔16〕案江表传　“案”原作“策”。郦校云：“‘策’疑当作‘案’。”郦说是，库本即作“案”，今据改。<br/>　　〔17〕复为子章取策从兄贲女为夫人　“章”当作“彰”，谓曹操子任城威王彰也。<br/>　　〔18〕丹徒　原作“丹阳”。周钞本及《吴志·孙坚传》注引《江表传》并作“丹徒”，是，今据改。<br/>　　〔19〕克昌堂构　“构”字原缺。宋本避高宗名讳遇“构”字皆空阙，或注“今上御名”，后之翻宋本亦因之。库本、徐钞本及《吴志·张昭传》皆作“构”，今据补。下不一一具校。<br/>　　〔20〕江表记　《吴志·孙权传》作“江表传”。《旧唐书·经籍志》上、《新唐书?艺文志》二并云：“《江表传》五卷，虞溥撰。”<br/>　　〔21〕二万人　《通鉴》六三作“二万余人”，周钞本及《吴志·孙权传》注引《江表传》并作“三万余人”。<br/>　　〔22〕是岁丹阳都尉妫览（至）谋杀太守孙翊　陶札云：“《吴志》孙翊被杀在建安九年，《实录》系于十年，误。”陶说是，《通鉴》六四亦见载于建安九年。<br/>　　〔23〕问讯老母 “问”原作“间”。陶札云：“《实录》‘间’字应为‘问’字之讹。”陶说是，宋本及《吴志·太史慈传》皆作“问”，今据改。<br/>　　〔24〕门下都督 周钞本眉批云：“不当有‘都’字。”《吴志·太史慈传》作“门下督”。<br/>　　〔25〕乃令孤攻庐江 陶札云：“《吴志·太史慈传》注《江表传》记孙策语‘仍令孤攻庐江’，案《实录》‘乃’字应为‘仍’字之讹，徐钞本《实录》‘庐江’下有‘太守陆康’四字注。”<br/>　　〔26〕但其后不遵臣节自弃作邪僭事 “僭”原作“谮”。陶札云：“《吴志·太史慈传》注《江表传》‘谮’作‘僭’。案《江表传》作‘僭’是也。徐钞本《实录》正作‘僭’。”陶说是，周钞本、刘钞本亦作‘僭’，今据改。<br/>　　〔27〕刘公丧亡 《吴志·太史慈传》注引《江表传》作“刘繇丧亡”。周钞本眉批云：“初但称牧，此不当称公，策之于刘固甚轻视，原作刘名似为当也。”<br/>　　〔28〕庐江 陶札云：“‘江’字误。”《吴志·太史慈传》注引《江表传》作“庐陵”。<br/>　　〔29〕其于尽节 陶札云：“《吴志·太史慈传》注《江表传》‘其’作‘期’，是也。”<br/>　　〔30〕猨臂善射 “猨”原作“蝯”（黑旋风附注：“猨”与“蝯”简体字都是“猿”），今据库本、徐钞本、周钞本、刘钞本及《吴志·太史慈传》改正。<br/>　　〔31〕时年四十二 “四十二”，徐钞本、《吴志·太史慈传》皆作“四十一”。<br/>　　〔32〕始新 原作“始所”，据徐钞本、周钞本及《吴志·孙权传》改正。<br/>　　〔33〕权许之乃密使鲁肃上往观衅 陶札云：“案《实录》叙权遣鲁肃观衅在决计拒曹后，误。”<br/>　　〔34〕刘璋 各本皆作“刘章”，今据库本及《蜀志》本传改正。<br/>　　〔35〕乃自诣京（至）得蜀使鲁肃固守其地 陶札云：“《吴志·周瑜传》‘乞与奋威俱进取蜀，得蜀而并张鲁，因留奋威固守其地’，案奋威指孙瑜，《吴志·孙瑜传》迁奋威将军。《蜀志先主传》注《献帝春秋》，孙权‘遣孙瑜率水军住夏口，备不听军过’，足证《实录》盖因鲁肃曾拜奋武校尉而误。”<br/>　　〔36〕瑜归江陵治行道病卒于巴丘 《吴志·周瑜传》云：“瑜还江陵，为行装，而道于巴丘病卒。”陶札云：“《实录》脱‘装’。”<br/>　　〔37〕男修尚公主 “修”，《吴志·周瑜传》《通鉴》六六皆作“循”。<br/>　　〔38〕驸马都尉 《吴志·周瑜传》《通鉴》六六皆作“骑都尉”。<br/>　　〔39〕乃密下扬州 “密”字原缺，今据库本及《吴志·周瑜传》注引《江表传》补。周钞本“密”作“自”。<br/>　　〔40〕称瑜雅量高智 陶札云：‘智’，《吴志·周瑜传》注《江表传》作‘致’，是也。”<br/>　　〔41〕瑜筹略万人（至）恐不久为人臣 陶札云：“《吴志·周瑜传》注《江表传》谓刘备因言次，叹瑜云云，是此数句为刘备语。”<br/>　　〔42〕聊复观卿胆耳 宋本、库本、张本、徐钞本、周钞本、刘钞本皆无此七字。<br/>　　〔43〕人转相惊 “人”，《吴志·孙权传》作“民”，盖许嵩避唐讳改。<br/>　　〔44〕乃分荆州长沙江夏桂阳四郡属吴 《吴志·孙权传》《通鉴》六七并云：“遂分荆州长沙、江夏、桂阳以东属权；南郡、零陵、武陵以西属备。”<br/>　　〔45〕二十一年（至）营于津北 据《吴志·孙权传》《通鉴》六七此为建安二十年事，《实录》系于二十一年，疑有误。<br/>　　〔46〕徐祥 《吴志·孙权传》《胡综传》及《通鉴》六八皆作“徐详”。<br/>　　〔47〕有二子烈封 “烈”原作“列”，今据库本、徐钞本及《吴志·凌统传》改正。<br/>　　〔48〕葛先 《吴志·凌统传》作“葛光”，先、光形近，未知孰是。<br/>　　〔49〕二十三年（至）秋横江将军益阳侯鲁肃卒 《吴志·鲁肃传》《通鉴》六八皆云肃卒于建安二十二年。<br/>　　〔50〕见孙策英杰遂定议共事之 据《吴志·鲁肃传》，肃决计事孙氏在孙策死后。卢弼《三国志集解》引梁章巨云：“肃还曲阿，欲北行。会瑜已徙肃母到吴，肃具以状语瑜，时孙策已薨。是肃先未渡江，亦未尝见策也。”<br/>　　〔51〕当阳麦陵城 “麦陵城”，《吴志·吕蒙传》《通鉴》六八皆作“麦城”，胡注云：“《荆州记》曰，南郡当阳县东南有麦城。”<br/>　　〔52〕邓当 原作“刘当”。库本、徐钞本及《吴志·吕蒙传》皆作“邓当”，是，今据改。<br/>　　〔53〕庞肃 《吴志·吕蒙传》《通鉴》六五皆作“袭肃”，胡注云：“袭，姓；肃，名。”<br/>　　〔54〕时上屯戍将徐硕宋芝等二人皆死子弟小弱 《吴志·吕蒙传》作“时蒙与成当、宋定、徐顾屯次比近，三将死，子弟幼弱”。<br/>　　〔55〕年四十卒于宫中 《吴志·吕蒙传》《通鉴》六八皆云，吕蒙卒时，年四十二。<br/>　　〔56〕此一快也 “快”原作“决”，今据徐钞本及《吴志·吕蒙传》《通鉴》六八改。下文“此二快也”亦同。<br/>　　〔57〕意出张陈远矣 “张陈”，库本、《吴志·吕蒙传》皆作“张苏”。<br/>　　〔58〕子明少时不辞剧易果敢有胆而已 《吴志·吕蒙传》及《通鉴》六八“少时”下有“孤谓”二字。<br/>　　〔59〕筹略奇正 《吴志·吕蒙传》《通鉴》六八皆作“筹略奇至”。<br/>　　〔60〕此内不能辩 “辩”，宋本、库本、徐钞本、周钞本、刘钞本皆作“辨”，《吴志·吕蒙传》《通鉴》六八作“办”。辩、辨、办古通。<br/>　　〔61〕以应天顺人 “人”，《吴志·孙权传》注引《吴书》作“民”，盖许嵩避唐讳改。<br/>　　〔62〕孙桓 原作“孙植”。库本及《吴志·陆逊传》、本传及《通鉴》六九皆作“孙桓”，今据改。<br/>　　〔63〕桓阶 原作“桓峙”。库本、徐钞本及《吴志·孙权传》《通鉴》六九皆作“桓阶”，是，桓阶《魏志》有传，今据改。<br/>　　〔64〕拜陆逊为辅国大将军郢州牧 “郢州牧”，《吴志·陆逊传》《通鉴》六九皆作“荆州牧”。<br/>　　〔65〕孙劭 《通鉴》七0同。《吴志·孙权传》《张昭传》《顾雍传》皆作“孙邵”。<br/>　　〔66〕十一月蜀使致书于权 前文已见“十一月”，此重出，当为衍文。<br/>　　〔67〕吴将孙韶（至）获辎车羽盖而归 《吴志·孙权传》注引《吴录》叙此事在黄武四年，《实录》系此事于黄武三年，疑误。又“辎车”，《吴录》作“副车”。<br/>　　〔68〕拜郎中使魏 《吴志·孙权传》注引《吴书》作“为郎中令使魏”。<br/>　　〔69〕拜太常兼尚书 “尚书”，《吴志·孙权传》注引《吴书》作“尚书令”。<br/>　　〔70〕雍字元凯 《吴志·顾雍传》及《吴录》《世说人名谱·吴国吴郡顾氏谱》皆云，雍字元叹，疑此“凯”乃“叹”之讹。<br/>　　〔71〕累迁至尚书 《吴志·顾雍传》作“累迁大理奉常，领尚书令”。<br/>　　〔72〕冬十一月陆逊以便宜奏施德缓刑宽赋息调 《吴志·孙权传》叙此事在冬十月。<br/>　　〔73〕中郎褚逢 “中郎”，《吴志·孙权传》作“郎中”。<br/>　　〔74〕除巫令 “巫”原作“丞”，今据宋本及《吴志·士燮传》改正。<br/>　　〔75〕徐闻令鲔 “鲔”，《吴志·士燮传》作“&lt;黄有&gt;”。<br/>　　〔76〕韩当子综 “综”原作“琮”，今据宋本及《吴志·孙权传》《孙亮传》《韩当传》改正。<br/>　　〔77〕夹石亭 《吴志·孙权传》《通鉴》七一作“石亭”，胡注云：“其地当在今舒州怀宁、桐城二县之间。”<br/>　　〔78〕印绶始下而薨 《吴志·吕范传》作“印绶未下疾卒”。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1033-10830.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1033-10832.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1033.html" action-type="chapterComment" class="comment"><i></i>建康实录章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

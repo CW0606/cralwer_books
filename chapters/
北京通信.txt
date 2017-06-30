@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《华盖集》正文_北京通信_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="华盖集,华盖集原文,华盖集阅读,北京通信全文,鲁迅作品" />
+<meta name="description" content="华盖集原文阅读,北京通信全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-537-6845.html";
+var nextpage="novel-read-537-6847.html";
+var indexpage = "novel-chapter-537.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-537.html">华盖集</a></strong>
+<strong><a href="novel-chapter-537.html">华盖集目录</a></strong>
+<span>北京通信</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-537-6845.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>北京通信</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 21:34:58<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>蕴儒，培良（2）两兄：<br/>　　昨天收到两份《豫报》（3），使我非常快活，尤其是见了那《副刊》。因为它那蓬勃的朝气，实在是在我先前的豫想以上。<br/>　　你想：从有着很古的历史的中州（4），传来了青年的声音，仿佛在豫告这古国将要复活，这是一件如何可喜的事呢？<br/>　　倘使我有这力量，我自然极愿意有所贡献于河南的青年。<br/>　　但不幸我竟力不从心，因为我自己也正站在歧路上，——或者，说得较有希望些：站在十字路口。站在歧路上是几乎难于举足，站在十字路口，是可走的道路很多。我自己，是什么也不怕的，生命是我自己的东西，所以我不妨大步走去，向着我自以为可以走去的路；即使前面是深渊，荆棘，狭谷，火坑，都由我自己负责。然而向青年说话可就难了，如果盲人瞎马，引入危途，我就该得谋杀许多人命的罪孽。<br/>　　所以，我终于还不想劝青年一同走我所走的路；我们的年龄，境遇，都不相同，思想的归宿大概总不能一致的罢。但倘若一定要问我青年应当向怎样的目标，那么，我只可以说出我为别人设计的话，就是：一要生存，二要温饱，三要发展。有敢来阻碍这三事者，无论是谁，我们都反抗他，扑灭他！<br/>　　可是还得附加几句话以免误解，就是：我之所谓生存，并不是苟活；所谓温饱，并不是奢侈；所谓发展，也不是放纵。<br/>　　中国古来，一向是最注重于生存的，什么“知命者不立于岩墙之下”咧，什么“千金之子坐不垂堂”咧，什么“身体发肤受之父母不敢毁伤”咧，（5）竟有父母愿意儿子吸鸦片的，一吸，他就不至于到外面去，有倾家荡产之虞了。可是这一流人家，家业也决不能长保，因为这是苟活。苟活就是活不下去的初步，所以到后来，他就活不下去了。意图生存，而太卑怯，结果就得死亡。以中国古训中教人苟活的格言如此之多，而中国人偏多死亡，外族偏多侵入，结果适得其反，可见我们蔑弃古训，是刻不容缓的了。这实在是无可奈何，因为我们要生活，而且不是苟活的缘故。<br/>　　中国人虽然想了各种苟活的理想乡，可惜终于没有实现。<br/>　　但我却替他们发见了，你们大概知道的罢，就是北京的第一监狱。这监狱在宣武门外的空地里，不怕邻家的火灾；每日两餐，不虑冻馁；起居有定，不会伤生；构造坚固，不会倒塌；禁卒管着，不会再犯罪；强盗是决不会来抢的。住在里面，何等安全，真真是“千金之子坐不垂堂”了。但阙少的就有一件事：自由。<br/>　　古训所教的就是这样的生活法，教人不要动。不动，失错当然就较少了，但不活的岩石泥沙，失错不是更少么？我以为人类为向上，即发展起见，应该活动，活动而有若干失错，也不要紧。惟独半死半生的苟活，是全盘失错的。因为他挂了生活的招牌，其实却引人到死路上去！<br/>　　我想，我们总得将青年从牢狱里引出来，路上的危险，当然是有的，但这是求生的偶然的危险，无从逃避。想逃避，就须度那古人所希求的第一监狱式生活了，可是真在第一监狱里的犯人，都想早些释放，虽然外面并不比狱里安全。<br/>　　北京暖和起来了；我的院子里种了几株丁香，活了；还有两株榆叶梅，至今还未发芽，不知道他是否活着。<br/>　　昨天闹了一个小乱子（6），许多学生被打伤了；听说还有死的，我不知道确否。其实，只要听他们开会，结果不过是开会而已，因为加了强力的迫压，遂闹出开会以上的事来。俄国的革命，不就是从这样的路径出发的么？<br/>　　夜深了，就此搁笔，后来再谈罢。<br/>　　鲁迅。五月八日夜。<br/><br/>　　　<br/>===============================================================<br/><br/><br/><br/>　　（1）本篇最初发表于一九二五年五月十四日开封《豫报副刊》。<br/>　　（2）蕴儒　姓吕，名琦，河南人，作者在北京世界语专门学校任教时的学生。当时他与向培良、高歌等同在开封编辑《豫报副刊》。<br/>　　培良，姓向，湖南黔阳人，文学团体狂飙社的主要成员。当时常为《莽原》周刊写稿，后来堕落为国民党反动派的走卒。参看《二心集·上海文艺之一瞥》。<br/>　　（3）《豫报》　在河南开封出版的日报，一九二五年五月四日创刊。<br/>　　（4）中州　上古时代我国分为九州，河南是古代豫州的地方，位于九州中央，所以又称中州。<br/>　　（5）“知命者不立于岩墙之下”　语出《孟子·尽心上》：“知命者不立乎岩墙之下”。岩墙，危墙。“千金之子坐不垂堂”，语见《史记·袁盎传》。意思是有钱的人不坐在屋檐下（以免被坠瓦击中）。“身体发肤受之父母不敢毁伤”，语见《孝经·开宗明义章》。<br/>　　（6）指北京学生纪念国耻的集会遭压迫一事。一九二五年五月七日，北京各校学生为纪念国耻（一九一五年五月七日，日本帝国主义向袁世凯提出最后通牒，要求承认“二十一条”）和追悼孙中山，拟在天安门举行集会。但事前北洋政府教育部已训令各校不得放假，当日上午警察厅又派遣巡警分赴各校前后门戒备，禁止学生外出。因此各校学生或行至校门即为巡警拦阻，或在天安门一带被武装警察与保安队马队殴打，多人受伤。午后被迫改在神武门开会，会后结队赴魏家胡同教育总长章士钊住宅，质问压迫学生爱国运动的理由，又与巡警冲突，被捕十八人。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-537-6845.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-537-6847.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-537.html" action-type="chapterComment" class="comment"><i></i>华盖集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

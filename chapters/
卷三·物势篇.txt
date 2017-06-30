@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《论衡》正文_卷三·物势篇_王充作品 - 维普阅读网</title>
+<meta name="keywords" content="论衡,论衡原文,论衡阅读,卷三·物势篇全文,王充作品" />
+<meta name="description" content="论衡原文阅读,卷三·物势篇全文在线阅读,王充作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-247-3812.html";
+var nextpage="novel-read-247-3814.html";
+var indexpage = "novel-chapter-247.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-247.html">论衡</a></strong>
+<strong><a href="novel-chapter-247.html">论衡目录</a></strong>
+<span>卷三·物势篇</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-247-3812.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷三·物势篇</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王充&amp;searchsubmit=yes"  target="_blank">王充</a><span class="divide">|</span>发布时间：2014-08-24 22:08:32<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>儒者论曰：“天地故生人。”此言妄也。夫天地合气，人偶自生也；犹夫妇合气，子则自生也。夫妇合气，非当时欲得生子；情欲动而合，合而生子矣。且夫妇不故生子，以知天地不故生人也。然则人生於天地也，犹鱼之於渊，饥虱之於人也。因气而生，种类相产，万物生天地之间，皆一实也。传曰：天地不故生人，人偶自生。<br/><br/>　　若此，论事者何故云“天地为炉，万物为铜，阴阳为火，造化为工”乎？案陶冶者之用烁铜燔器，故为之也。而云天地不故生人，人偶自生耳，可谓陶冶者不故为器而器偶自成乎？夫比不应事，未可谓喻；文不称实，未可谓是也。曰：“是喻人禀气不能纯一，若烁铜之下形，燔器之得火也，非谓天地生人与陶冶同也。”兴喻人皆引人事。人事有体，不可断绝。以目视头，头不得不动；以手相足，足不得不摇。目与头同形，手与足同体。今夫陶冶者，初埏埴作器，必模范为形，故作之也；燃炭生火，必调和炉灶，故为之也。及铜烁不能皆成，器燔不能尽善，不能故生也。夫天不能故生人，则其生万物，亦不能故也。天地合气，物偶自生矣。夫耕耘播种，故为之也；及其成与不熟，偶自然也。<br/><br/>　　何以验之？如天故生万物，当令其相亲爱，不当令之相贼害也。或曰：五行之气，天生万物。以万物含五行之气，五行之气更相贼害。曰：天自当以一行之气生万物，令之相亲爱，不当令五行之气反使相贼害也。或曰：欲为之用，故令相贼害；贼害相成也。故天用五行之气生万物，人用万物作万事。不能相制，不能相使，不相贼害，不成为用。金不贼木，木不成用。火不烁金，金不成器。故诸物相贼相利，含血之虫相胜服、相啮噬、相啖食者，皆五行气使之然也。”曰：“天生万物欲令相为用，不得不相贼害也。则生虎狼蝮蛇及蜂虿之虫，皆贼害人，天又欲使人为之用邪？且一人之身，含五行之气，故一人之行，有五常之操。五常，五行之道也。五藏在内，五行气俱。如论者之言，含血之虫，怀五行之气，辄相贼害。一人之身，胸怀五藏，自相贼也；一人之操，行义之心，自相害也。且五行之气相贼害，含血之虫相胜服，其验何在？曰：寅，木也，其禽虎也；戍，土也，其禽犬也。丑、未，亦土也，丑禽牛，未禽羊也。木胜土，故犬与牛羊为虎所服也。亥水也，其禽豕也；巳，火也，其禽蛇也；子亦水也，其禽鼠也。午亦火也，其禽马也。水胜火，故豕食蛇；火为水所害，故马食鼠屎而腹胀。曰：审如论者之言，含血之虫，亦有不相胜之效。午，马也，子，鼠也，酉，鸡也，卯兔也。水胜火，鼠何不逐马？金胜木，鸡何不啄兔？亥，豕也，（未，羊也。）丑，牛也。土胜水，牛羊何不杀豕？巳，蛇也。申，猴也。火胜金，蛇何不食獼猴？獼猴者，畏鼠也。啮獼猴者，犬也。鼠，水。獼猴，金也。水不胜金，獼猴何故畏鼠也？戍，土也，申，猴也。土不胜金，猴何故畏犬？东方，木也，其星仓龙也。西方，金也，其星白虎也；南方，火也，其星硃鸟也。北方，水也，其星玄武也。天有四星之精，降生四兽之体。含血之虫，以四兽为长，四兽含五行之气最较郑鼇案龙虎交不相贼，鸟龟会不相害。以四兽验之，以十二辰之禽效之，五行之虫以气性相刻，则尤不相应。<br/><br/>　　凡万物相刻贼，含血之虫则相服，至於相啖食者，自以齿牙顿利，筋力优劣，动作巧便，气势勇桀。若人之在世，势不与适，力不均等，自相胜服。以力相服，则以刃相贼矣。夫人以刃相贼，犹物以齿角爪牙相触刺也。力强角利，势烈牙长，则能胜；气微爪短，胆小距顿，则服畏也。人有勇怯，故战有胜负，胜者未必受金气，负者未必得木精也。孔子畏阳虎，却行流汗，阳虎未必色白，孔子未必面青也。鹰之击鸠雀，鸮之啄鹄雁，未必鹰鸮、生於南方，而鸠雀鹄雁产於西方也，自是筋力勇怯相胜服也。<br/><br/>　　一堂之上，必有论者；一乡之中，必有讼者。讼必有曲直，论必有是非，非而曲者为负，是而直者为胜。亦或辩口利舌，辞喻横出为胜；或诎弱缀跲，�连蹇不比者为负。以舌论讼，犹以剑戟斗也。利剑长戟，手足健疾者胜；顿刀短矛，手足缓留者负。夫物之相胜，或以筋力，或以气势，或以巧便。小有气势，口足有便，则能以小而制大；大无骨力，角翼不劲，则以大而服小。鹊食蝟皮，博劳食蛇，蝟、蛇不便也。蚊虻之力，不如牛马，牛马困於蚊虻，蚊虻乃有势也。鹿之角，足以触犬，獼猴之手，足以博鼠，然而鹿制於犬，獼猴服於鼠，角爪不利也。故十年之牛，为牧竖所驱；长仞之象，为越僮所钩，无便故也。故夫得其便也，则以小能胜大；无其便也，则以强服於羸也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-247-3812.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-247-3814.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-247.html" action-type="chapterComment" class="comment"><i></i>论衡章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

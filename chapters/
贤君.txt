@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孔子家语》正文_贤君_王肃作品 - 维普阅读网</title>
+<meta name="keywords" content="孔子家语,孔子家语原文,孔子家语阅读,贤君全文,王肃作品" />
+<meta name="description" content="孔子家语原文阅读,贤君全文在线阅读,王肃作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-349-5178.html";
+var nextpage="novel-read-349-5180.html";
+var indexpage = "novel-chapter-349.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-349.html">孔子家语</a></strong>
+<strong><a href="novel-chapter-349.html">孔子家语目录</a></strong>
+<span>贤君</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-349-5178.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>贤君</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王肃&amp;searchsubmit=yes"  target="_blank">王肃</a><span class="divide">|</span>发布时间：2014-09-05 21:41:49<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>哀公问于孔子曰：“当今之君，孰为最贤？”孔子对曰：“丘未之见也，抑有卫灵公乎？”公曰：“吾闻其闺门之内无别，而子次之贤，何也？”孔子曰：“臣语其朝廷行事，不论其私家之际也。”公曰：“其事何如？”孔子对曰：“灵公之弟曰，灵公弟子渠牟，其智足以治千乘，其信足以守之，灵公爱而任之。又有士林国者，见贤必进之，而退与分其禄，是以灵公无游放之士，灵公贤而尊之。又有士曰庆足者，卫国有大事则必起而治之，国无事则退而容贤，言其所以退者欲以容贤于朝灵公悦而敬之。又有大夫史？，以道去卫，而灵公郊舍三日，琴瑟不御，必待史？之入，而后敢入。臣以此取之，虽次之贤，不亦可乎。”<br/>　　子贡问于孔子曰：“今之人臣，孰为贤？”子曰：“吾未識也，？者齊有鮑叔，鄭有子皮，则贤者矣。”子贡曰：“齐无管仲，郑无子产。”子曰：“赐，汝徒知其一，未知其二也。汝闻用力为贤乎？进贤为贤乎？”子贡曰：“进贤贤哉。”子曰：“然，吾闻鲍叔达管仲，子皮达子产，未闻二子之达贤己之才者也。”<br/>　　哀公问于孔子曰：“寡人闻忘之甚者，徙而忘其妻，有诸？”孔子对曰：“此犹未甚者也。甚者乃忘其身。”公曰：“可得而闻乎？”孔子曰：“昔者夏桀，贵为天子，富有四海，忘其圣祖之道，坏其典法，废其世祀，荒于淫乐，耽湎于酒，佞臣谄谀，窥导其心，忠士折口，逃罪不言，折口杜口天下诛桀。而有其国，此谓忘其身之甚矣。”<br/>　　颜渊将西游于宋，问于孔子曰：“何以为身？”子曰：“恭敬忠信而已矣。恭则远于患，敬则人爱之，忠则和于众，信则人任之，勤斯四者，可以政国，岂特一身者哉。特但故夫不比于数，而比于?，不亦远乎；不比亲数近疏远也不修其中，而修外者，不亦反乎；虑不先定，临事而谋，不亦晚乎。”　　孔子读诗于正月六章，惕焉如惧，曰：“彼不达之君子，岂不殆哉。从上依世则道废，违上离俗则身危，时不兴善，己独由之，则曰非妖即妄也。故贤也既不遇天，恐不终其命焉，桀杀龙逢，纣杀比干，皆类是也。诗曰：‘谓天盖高，不敢不局，谓地盖厚，不敢不蹐。’此正月六章之辞也局曲也言天至高己不敢不曲身危行恐上干忌讳也蹐累足也言地至厚己不敢不累足恐陷累在位之罗网此言上下畏罪，无所自容也。”<br/>　　子路问于孔子曰：“贤君治国，所先者何？”孔子曰：“在于尊贤而贱不肖。”子路曰：“由闻晋中行氏尊贤而贱不肖矣，其亡何也？”孔子曰：“中行氏尊贤而不能用，贱不肖而不能去，贤者知其不用而怨之，不肖者知其必己贱而雠之，怨雠并存于国，邻敌构兵于郊，中行氏虽欲无亡，岂可得乎。”<br/>　　孔子闲处，喟然而叹曰：“向使铜鞮伯华无死，则天下其有定矣。”子路曰：“由愿闻其人也。”子曰：“其幼也敏而好学，其壮也有勇而不屈，其老也有道而能下人，有此三者，以定天下也，何难乎哉！”子路曰：“幼而好学，壮而有勇，则可也。若夫有道下人，又谁下哉？”子曰：“由不知，吾闻以众攻寡，无不克也，以贵下贱，无不得也。昔者周公居冢宰之尊，制天下之政，而犹下白屋之士，草屋也日见百七十人，斯岂以无道也，欲得士之用也。恶有道而无下天下君子哉？”<br/>　　齐景公来适鲁，舍于公馆，使晏婴迎孔子，孔子至，景公问政焉。孔子答曰：“政在节财。”公悦，又问曰：“秦穆公国小处僻而霸，何也？”孔子曰：“其国虽小其志大，处虽僻而政其中，其举也果，其谋也和，法无私而令不愉，愉宜为偷愉苟且也首拔五羖，爵之大夫，首宜为身五羖大夫百里奚也与语三日而授之以政，此取之虽王可，其霸少矣。”景公曰：“善哉。”　　哀公问政于孔子。孔子对曰：“政之急者，莫大乎使民富且寿也。”公曰：“为之奈何？”孔子曰：“省力役，薄赋敛，则民富矣；敦礼教，远罪疾，则民寿矣。”公曰：“寡人欲行夫子之言，恐吾国贫矣。”孔子曰：“诗云：‘恺悌君子，民之父母。’未有子富而父母贫者也。”<br/>　　卫灵公问于孔子曰：“有语寡人有国家者，计之于庙堂之上，则政治矣，何如？”孔子曰：“其可也，爱人者则人爱之，恶人者则人恶之，知得之己者则知得之，人所谓不出环堵之室而知天下者，知反己之谓也。”<br/>　　孔子见宋君，君问孔子曰：“吾欲使长有国，而列都得之，国之列都皆得其道吾欲使民无惑，吾欲使士竭力，吾欲使日月当时，吾欲使圣人自来，吾欲使官府治理，为之奈何？”孔子对曰：“千乘之君，问丘者多矣，而未有若主君之问，问之悉也。然主君所欲者，尽可得也。丘闻之，邻国相亲，则长有国；君惠臣忠，则列都得之；不杀无辜，无释罪人，则民不惑；士益之禄，则皆竭力；尊天敬鬼，则日月当时；崇道贵德，则圣人自来；任能黜否，则官府治理。”宋君曰：“善哉！岂不然乎！寡人不佞，不足以致之也。”孔子曰：“此事非难，唯欲行之云耳。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-349-5178.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-349-5180.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-349.html" action-type="chapterComment" class="comment"><i></i>孔子家语章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

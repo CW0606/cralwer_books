@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《文心雕龙》正文_卷三十八 事类_刘勰作品 - 维普阅读网</title>
+<meta name="keywords" content="文心雕龙,文心雕龙原文,文心雕龙阅读,卷三十八 事类全文,刘勰作品" />
+<meta name="description" content="文心雕龙原文阅读,卷三十八 事类全文在线阅读,刘勰作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-665-8519.html";
+var nextpage="novel-read-665-8521.html";
+var indexpage = "novel-chapter-665.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-665.html">文心雕龙</a></strong>
+<strong><a href="novel-chapter-665.html">文心雕龙目录</a></strong>
+<span>卷三十八 事类</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-665-8519.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷三十八 事类</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘勰&amp;searchsubmit=yes"  target="_blank">刘勰</a><span class="divide">|</span>发布时间：2014-10-20 20:55:47<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　事类者，盖文章之外，据事以类义，援古以证今者也。昔文王繇《易》，剖判爻位。《既济》九三，远引高宗之伐，《明夷》六五，近书箕子之贞：斯略举人事，以征义者也。至若胤征羲和，陈《政典》之训；盘庚诰民，叙迟任之言：此全引成辞以明理者也。然则明理引乎成辞，征义举乎人事，乃圣贤之鸿谟，经籍之通矩也。《大畜》之象，“君子以多识前言往行”，亦有包于文矣。<br/><br/>　　观夫屈宋属篇，号依诗人，虽引古事，而莫取旧辞。唯贾谊《鵩赋》，始用鹖冠之说；相如《上林》，撮引李斯之书，此万分之一会也。及扬雄《百官箴》，颇酌于《诗》、《书》；刘歆《遂初赋》，历叙于纪传；渐渐综采矣。至于崔班张蔡，遂捃摭经史，华实布濩，因书立功，皆后人之范式也。<br/><br/>　　夫姜桂因地，辛在本性；文章由学，能在天资。才自内发，学以外成，有学饱而才馁，有才富而学贫。学贫者迍邅于事义，才馁者劬劳于辞情，此内外之殊分也。是以属意立文，心与笔谋，才为盟主，学为辅佐；主佐合德，文采必霸，才学褊狭，虽美少功。夫以子云之才，而自奏不学，及观书石室，乃成鸿采。表里相资，古今一也。故魏武称张子之文为拙，以学问肤浅，所见不博，专拾掇崔杜小文，所作不可悉难，难便不知所出。斯则寡闻之病也。<br/><br/>　　夫经典沉深，载籍浩瀚，实群言之奥区，而才思之神皋也。扬班以下，莫不取资，任力耕耨，纵意渔猎，操刀能割，必裂膏腴。是以将赡才力，务在博见，狐腋非一皮能温，鸡?庶必数千而饱矣。是以综学在博，取事贵约，校练务精，捃理须核，众美辐辏，表里发挥。刘劭《赵都赋》云∶“公子之客，叱劲楚令歃盟；管库隶臣，呵强秦使鼓缶。”用事如斯，可称理得而义要矣。故事得其要，虽小成绩，譬寸辖制轮，尺枢运关也。或微言美事，置于闲散，是缀金翠于足胫，靓粉黛于胸臆也。<br/><br/>　　凡用旧合机，不啻自其口出，引事乖谬，虽千载而为瑕。陈思，群才之英也，《报孔璋书》云∶“葛天氏之乐，千人唱，万人和，听者因以蔑《韶》、《夏》矣。”此引事之实谬也。按葛天之歌，唱和三人而已。相如《上林》云∶“奏陶唐之舞，听葛天之歌，千人唱，万人和。”唱和千万人，乃相如推之。然而滥侈葛天，推三成万者，信赋妄书，致斯谬也。陆机《园葵》诗云∶“庇足同一智，生理合异端。”夫葵能卫足，事讥鲍庄；葛藟庇根，辞自乐豫。若譬葛为葵，则引事为谬；若谓庇胜卫，则改事失真：斯又不精之患。夫以子建明练，士衡沉密，而不免于谬。曹洪之谬高唐，又曷足以嘲哉！夫山木为良匠所度，经书为文士所择，木美而定于斧斤，事美而制于刀笔，研思之士，无惭匠石矣。<br/><br/>　　赞曰∶<br/><br/>　　经籍深富，辞理遐亘。皓如江海，郁若昆邓。<br/><br/>　　文梓共采，琼珠交赠。用人若己，古来无懵。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-665-8519.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-665-8521.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-665.html" action-type="chapterComment" class="comment"><i></i>文心雕龙章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

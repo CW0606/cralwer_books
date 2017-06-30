@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《准风月谈》正文_备考：致黎烈文先生书（施蛰存）_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="准风月谈,准风月谈原文,准风月谈阅读,备考：致黎烈文先生书（施蛰存）全文,鲁迅作品" />
+<meta name="description" content="准风月谈原文阅读,备考：致黎烈文先生书（施蛰存）全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-551-7529.html";
+var nextpage="novel-read-551-7531.html";
+var indexpage = "novel-chapter-551.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-551.html">准风月谈</a></strong>
+<strong><a href="novel-chapter-551.html">准风月谈目录</a></strong>
+<span>备考：致黎烈文先生书（施蛰存）</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-551-7529.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>备考：致黎烈文先生书（施蛰存）</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-05 21:42:36<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>——兼示丰之余先生 <br/>　　烈文兄： <br/>　　那天电车上匆匆一晤，我因为要到民九社书铺去买一本看中意了的书，所以在王家沙下车了。但那本书终于因价钱不合，没有买到，徒然失去了一个与你多谈一刻的机会，甚怅怅。 <br/>　　关于“《庄子》与《文选》”问题，我决不再想说什么话。本来我当时填写《大晚报》编辑部寄来的那张表格的时候，并不含有如丰先生的意见所看出来的那样严肃。我并不说每一个青年必须看这两部书，也不是说每一个青年只要看这两部书，也并不是说我只有这两部书想推荐。大概报纸副刊的编辑，想借此添一点新花样，而填写者也大都是偶然觉得有什么书不妨看看，就随手写下了。早知这一写竟会闯出这样大的文字纠纷来，即使《大晚报》副刊编者崔万秋先生给我磕头我也不肯写的。 <br/>　　今天看见《涛声》第四十期上有一封曹聚仁先生给我的信，最后一句是：“没有比这两部书更有利于青年了吗？ <br/>　　敢问。”这一问真问得我啼笑皆非了。（曹聚仁先生的信态度很真挚，我将有一封复信给他，也许他会得刊在《涛声》上，我希望你看一看。） <br/>　　对于丰之余先生我也不愿再冒犯他，不过对于他在《感旧》（上）那一篇文章里三点另外的话觉得还有一点意见—— <br/>　　（一）丰先生说：“有些新青年可以有旧思想，有些旧形式也可以藏新内容。”是的，新青年尚且可以有旧思想，那么像我这种“遗少之群中的一肢一节”之有旧思想似乎也可以存而不论的了。至于旧形式也可以藏新内容，则似乎写《庄子》那样的古文也不妨，只要看它的内容如何罢了。 <br/>　　（二）丰先生说不懂我劝青年看《庄子》与《文选》与做了考官以词取士有何分界，这其实是明明有着分界的。前者是以一己的意见供献给青年，接受不接受原在青年的自由；后者却是代表了整个阶级（注：做官的阶级也），几乎是强迫青年全体去填词了。（除非这青年不想做官。） <br/>　　（三）说鲁迅先生的文章是从《庄子》与《文选》中来的，这确然是滑稽的，我记得我没有说过那样的话。我的文章里举出鲁迅先生来作例，其意只想请不反对青年从古书求得一点文学修养的鲁迅先生来帮帮忙。鲁迅先生虽然一向是劝青年多读外国书的，但这是他以为从外国书中可以训练出思想新锐的青年来；至于像我那样给青年从做文章（或说文学修养）上着想，则鲁迅先生就没有反对青年读古书过。举两个证据来罢：一，“少看中国书，其结果不过不能作文而已。”（见北新版《华盖集》第四页。）这可见鲁迅先生也承认要能作文，该多看中国书了。而这所谓中国书，从上文看来，似乎并不是指的白话文书。二，“我常被询问，要弄文学，应该看什么书？……我以为倘要弄旧的呢，倒不如姑且靠着张之洞的《书目答问》去摸门径去。”（见北新版《而已集》第四十五页。） <br/>　　现在，我想我应该在这里“带住”了，我曾有一封信给《大晚报》副刊的编者，为了尊重丰之余先生的好意，我曾请求允许我换两部书介绍给青年。除了我还写一封信给曹聚仁先生之外，对于这“《庄子》与《文选》”的问题我没有要说的话了。我曾经在《自由谈》的壁上，看过几次的文字争，觉得每次总是愈争愈闹意气，而离本题愈远，甚至到后来有些参加者的动机都是可以怀疑的，我不想使自己不由自主地被卷入漩涡，所以我不再说什么话了。昨晚套了一个现成偈语：此亦一是非　彼亦一是非唯无是非观　庶几免是非倘有人能写篆字者乎？颇想一求法挥，张之素壁。施蛰存上（十九日）。 <br/>　　十月二十日，《申报》《自由谈》。 <br/>　　<br/>===============================================================<br/>　　　　　 <br/>　　（１）　本篇最初发表于一九三三年十月二十六日《申报·自由谈》。 <br/>　　（２）　“少看中国书”二句见《华盖集·青年必读书》。<br/>　　（３）　《易经》　又名《周易》，儒家经典，古代记载占卜的书。其中卦辞、爻辞部分，可能萌芽于殷周之际。《书经》，又名《尚书》，儒家经典，我国上古历史文件的汇编。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-551-7529.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-551-7531.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-551.html" action-type="chapterComment" class="comment"><i></i>准风月谈章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

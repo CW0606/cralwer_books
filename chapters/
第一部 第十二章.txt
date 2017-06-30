@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《战争与和平》正文_第一部 第十二章_列夫·托尔斯泰作品 - 维普阅读网</title>
+<meta name="keywords" content="战争与和平,战争与和平原文,战争与和平阅读,第一部 第十二章全文,列夫·托尔斯泰作品" />
+<meta name="description" content="战争与和平原文阅读,第一部 第十二章全文在线阅读,列夫·托尔斯泰作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1211-20579.html";
+var nextpage="novel-read-1211-20581.html";
+var indexpage = "novel-chapter-1211.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1211.html">战争与和平</a></strong>
+<strong><a href="novel-chapter-1211.html">战争与和平目录</a></strong>
+<span>第一部 第十二章</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1211-20579.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第一部 第十二章</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-28.html" target="blank">外国名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=列夫·托尔斯泰&amp;searchsubmit=yes"  target="_blank">列夫·托尔斯泰</a><span class="divide">|</span>发布时间：2015-02-21 21:26:23<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　“MoncherBoris，”①当他们搭乘名叫罗斯托娃的伯爵夫人的四轮轿式马车经过铺有麦秆的街道，驶入基里尔-弗拉基米罗维奇-别祖霍夫家的大庭院时，名列安娜-米哈伊洛夫娜的公爵夫人对儿子说道，“moncherBoris，”母亲从旧式女外套下面伸出手来，胆怯地、温存地把手搁在儿子手上说道，“待人要殷勤、体贴。基里尔-弗拉基米罗维奇毕竟是你的教父，你未来的命运以他为转移。moncher，你要记住，要和蔼可爱，你会这样做……”——<br/><br/>　　①法语：我亲爱的鲍里斯。<br/><br/>　　“如果我知道，除开屈辱而外，这能得到什么结果……，”儿子冷漠地答道，“但是我向您许了愿，我要为您而效劳。”<br/><br/>　　虽然有一辆什么人的四轮轿式马车停在台阶前面，但是门房还是把偕同儿子的母亲仔细观察一番（他们并没有通报姓氏，径直地走进两排壁龛雕像之间的玻璃穿堂里），意味深长地望了望她那身旧式的女外衣，问他们访问何人，是访问公爵小姐，还是访问伯爵，得知访问伯爵之后，便说大人今天病情更严重，不接见任何人。<br/><br/>　　“我们可以走啦。”儿子说了一句法国话。<br/><br/>　　“monami！”①母亲用央求的嗓音说道，又用手碰碰儿子的手臂，仿佛这一触动就可以使他平静，或者使他兴奋似的。<br/><br/>　　鲍里斯默不作声，没有脱下军大衣，他用疑问的目光望着母亲——<br/><br/>　　①法语：我的朋友。<br/><br/>　　“老兄，”安娜-米哈伊洛夫娜把脸转向门房，用温柔的嗓音说道，“我知道，基里尔-弗拉基米罗维奇伯爵的病情严重，……因此我才来探视……我是他的亲戚……老兄，我不会惊动他……不过，我必须见见瓦西里-谢尔盖耶维奇公爵，他不是呆在这里么。请通报一声。”<br/><br/>　　门房忧郁地拉了一下通到楼上的门铃的引线，就扭过脸去。<br/><br/>　　“名叫德鲁别茨卡娅的公爵夫人求见瓦西里-谢尔盖耶维奇公爵，”他向那走下楼来、从楼梯凸缘下面向外张望的穿着长袜、矮-皮靴和燕尾服的堂倌喊道。<br/><br/>　　母亲把那染过的丝绸连衣裙的裙褶弄匀整，照了照嵌在墙上的纯正的威尼斯穿衣镜。她脚上穿着一双矮-破皮靴，沿着楼梯地毯，走上楼去了。<br/><br/>　　“moncher，vousm’avezpromis，”①她又向儿子转过脸去说道，她用手碰碰儿子，要他振作起来。<br/><br/>　　儿子低垂着眼睛，不慌不忙地跟在她后面。<br/><br/>　　他们走进了大厅，厅里有扇门通往瓦西里公爵的内室。<br/><br/>　　当母亲随带儿子走到屋子中间，正想向那个看见他们走进来便飞快起身的老堂倌问路的时候，一扇门的青铜拉手转动了，瓦西里公爵走出门来，他按照家常的穿戴方式，披上一件天鹅绒面的皮袄，只佩戴一枚金星勋章，正在送走一个头发黝黑的美男子。这个美男子是大名鼎鼎的彼得堡的罗兰大夫。<br/><br/>　　“C’estdoncpositif？”②公爵说道。<br/><br/>　　“Monprince，‘Errarehummanumest’，mais…③大夫答道，弹动小舌发喉音，用法国口音说出几个拉丁词。<br/><br/>　　“C’estbien，c’estbien…”④——<br/><br/>　　①法语：我的朋友，你向我许愿了。<br/><br/>　　②法语：这是确实的吗？<br/><br/>　　③法语；我的公爵，“人本来就难免犯错误，”可是……<br/><br/>　　④法语：好啦，好啦……<br/><br/>　　瓦西里公爵看见了安娜-米哈伊洛夫娜和她带在身边的儿子，便鞠了一躬把那个大夫打发走了，他沉默地、但现出发问的样子向他们面前走去。她儿子发现母亲的眼中忽然流露出极度的忧伤，便微微一笑了之。<br/><br/>　　“是呀，公爵，我们是在多么忧愁的情况下会面啊！……哦，我们亲爱的病人现在怎样了？”她说道，仿佛没有注意到向她凝视的非常冷漠的、令人屈辱的目光。<br/><br/>　　瓦西里公爵现出疑虑的惶惑不安的神态看看她，而后又看看鲍里斯。鲍里斯彬彬有礼地鞠了一躬。瓦西里公爵没有躬身答礼，却向安娜-米哈伊洛夫娜转过脸来，摇摇头，努努嘴，以示回答她的问话，公爵的动作意味着病人没有多大希望了。<br/><br/>　　“莫不是？”安娜-米哈伊洛夫娜惊叫道，“啊！这多么可怕！想起来真是骇人哩……这是我的儿子。”她用手指着鲍里斯补充了一句，“他想亲自向您表示感激。”<br/><br/>　　鲍里斯又彬彬有礼地鞠了一躬。<br/><br/>　　“公爵，请您相信我吧，母亲心眼里永远也不会忘记您为我们做的善事。”<br/><br/>　　“我亲爱的安娜-米哈伊洛夫娜，我能做一点使你们愉快的事情，我感到非常高兴。”瓦西里公爵说道，又把胸口的皱褶花边弄平。在这儿，在莫斯科，在受庇护的安娜-米哈伊洛夫娜面前，和在彼得堡安内特-舍列尔举办的晚会上相比较，他的姿态和声调都表明他高傲得多了。<br/><br/>　　“你好好供职，尽力而为，做个当之无愧的臣民，”他很严肃地对着鲍里斯补充说，“我感到非常高兴……您在这里休假么？”他用冷漠的语调说，迫使他照办。<br/><br/>　　“大人，我听候命令，接到新的任命就动身。”鲍里斯答道，他不因公爵的生硬语调而恼怒，也不表示他有交谈的心意，但他心地平静，态度十分恭敬，公爵禁不住用那凝集的目光朝他瞥了一眼。<br/><br/>　　“您和您母亲住在一起吗？”<br/><br/>　　“我住在那个叫做罗斯托娃的伯爵夫人那里，”鲍里斯说道，又补充一句话：“大人。”<br/><br/>　　“这就是那个娶了娜塔莉娅-申申娜的伊利亚-罗斯托夫。”安娜-米哈伊洛夫娜说道。<br/><br/>　　“我知道，我知道，”瓦西里公爵用单调的嗓音说道，“Jen’aijamaispuconcevoir，commentNathalies’estdécideeàépousercetoursmal-leche！Unpersonnagecomplétementstupideetridicule．Etjoueuràcequ’ondit。”①。<br/><br/>　　“maistresbravehomme，monprince，”②安娜-米哈伊洛夫娜说道，脸上流露出令人感动的微笑，仿佛她也知道，罗斯托夫伯爵值得这样评价似的，可是她请求人家怜悯一下这个可怜的老头。<br/><br/>　　“大夫们说了什么呢？”公爵夫人沉默片刻后发问，她那泪痕斑斑的脸上又流露出极度的哀愁。<br/><br/>　　“希望不大了。”公爵说道。<br/><br/>　　“不过我很想再一次地感谢叔叔对我和鲍里斯的恩赐。C’estsonfilleul。”③她补充一句，那语调听来仿佛这个消息必然会使瓦西里公爵分外高兴似的——<br/><br/>　　①法语：我从来都不明白，娜塔莎竟然拿定主意嫁给这头邋遢的狗熊。十分愚蠢而荒唐。据说，还是个赌棍哩。<br/><br/>　　②公爵，但他为人厚道。<br/><br/>　　③法语：这是他的教子。<br/><br/>　　瓦西里公爵陷入了沉思，蹙起了额头。安娜-米哈伊洛夫娜心中明白，根据别祖霍夫的遗嘱来看，他怕她成为争夺财产的敌手，她赶快让他安心下来。<br/><br/>　　“如果不是我有真挚的爱心，对叔叔一片忠诚，”她说道，露出特别自信和漫不经心的样子说出“叔叔”这个词：“我熟悉他的性格，高尚而坦率，可是要知道，他身边尽是一些公爵小姐……她们都很年轻……”她低下头来，轻言细语地补充说道：“公爵，他是否履行了最后的义务，送了他的终？这最后的时刻多么宝贵啊！要知道，比这临终更糟的事是不会有的了，既然他的病情如此沉重，就必须给他准备后事。公爵，我们妇女辈，”她很温和地微微一笑，“一向就知道这些话应该怎样说哩。我务必要去见他一面。无论这件事使我怎样难受，可我养成了忍受痛苦的习惯。”<br/><br/>　　公爵显然已经明了，甚至在安内特-舍列尔举办的晚会上就已明了，很难摆脱开安娜-米哈伊洛夫娜这位夫人。<br/><br/>　　“亲爱的安娜-米哈伊洛夫娜，这次见面不会使他难受吧，”他说道，“我们就等到晚上好了。大夫们预告了危象。”<br/><br/>　　“公爵，可是在这种时刻，不能等待啊。Pensez，ilyvadusalutdesoname…Ah！c’estterrible，lesdevoirsd’unchrétien…”①——<br/><br/>　　①法语：我想想看，这事情涉及他的灵魂的拯救……啊！这多么可怕，一个基督徒的义务……<br/><br/>　　内室里的一扇门开了，一位公爵小姐——伯爵的侄女走出来了，显露出忧郁的冷淡的脸色，她腰身太长，和两腿很不相称。<br/><br/>　　瓦西里公爵向她转过脸来。<br/><br/>　　“哦，他怎么样了？”<br/><br/>　　“还是那个样子。不管您认为怎样，这一阵喧嚣……”公爵小姐说道，回头望着安娜-米哈伊洛夫娜便像望着一个陌生人拟的。<br/><br/>　　“Ah，chère，jenevousreconnaissaispas，”①安娜-米哈伊洛夫娜含着幸福的微笑，说道，她迈着轻盈而迅速的脚步向伯爵的侄女面前走去，“JeviensdamivenetjesnisanauspounvousaidenasoignenmononcleJ’imagine，comlienvousanegsouggent．”②她同情地翻着白眼，补充说道。<br/><br/>　　公爵小姐一言未答，甚至没有微微一笑，就立刻走出去了。安娜-米哈伊洛夫娜脱下了手套，摆出洋洋自得的姿态，在安乐椅里坐下来了，并请瓦西里公爵坐在她近旁。<br/><br/>　　“鲍里斯！”她微微一笑，对儿子说道，“我上伯爵叔叔那里去，我的朋友，你先到皮埃尔那里去，别忘记转告他，罗斯托夫家邀请他。他们请他用午饭。我想他去不成，是吗？”<br/><br/>　　她把脸转向公爵说道。<br/><br/>　　“正好相反，”公爵说道，看来他的心绪欠佳，“Jeseraistrescontentsivousmedebarrassezdecejeunehomme<br/><br/>　　……③他就在这里，伯爵一次也没有询问他的情况。”<br/><br/>　　他耸耸肩。堂倌领着这个年轻人下楼，从另一座楼梯上楼，到彼得-基里洛维奇那里去了——<br/><br/>　　①法语：啊，亲爱的，我没有认出您了。<br/><br/>　　②法语：我来帮助您照料叔叔。我想象得到，你够辛苦的了。<br/><br/>　　③法语：如果您能够使我摆脱这个年轻人，那我就会感到非常高兴……——<br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1211-20579.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1211-20581.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1211.html" action-type="chapterComment" class="comment"><i></i>战争与和平章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

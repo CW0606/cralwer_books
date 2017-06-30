@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孔丛子》正文_抗志_孔鲋作品 - 维普阅读网</title>
+<meta name="keywords" content="孔丛子,孔丛子原文,孔丛子阅读,抗志全文,孔鲋作品" />
+<meta name="description" content="孔丛子原文阅读,抗志全文在线阅读,孔鲋作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-217-2401.html";
+var nextpage="novel-read-217-2403.html";
+var indexpage = "novel-chapter-217.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-217.html">孔丛子</a></strong>
+<strong><a href="novel-chapter-217.html">孔丛子目录</a></strong>
+<span>抗志</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-217-2401.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>抗志</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=孔鲋&amp;searchsubmit=yes"  target="_blank">孔鲋</a><span class="divide">|</span>发布时间：2014-08-12 20:25:46<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>曾申参之子谓子思曰、屈巳以伸道乎．抗志以贫贱乎．<br/>子思曰道伸．吾所愿也．今天下王侯其孰能哉．与屈巳以富贵．不若抗志以贫贱屈巳则制于人抗志则不愧于道．<br/><br/>子思居卫、卫人钓于河、得鳏鱼焉、其大盈车、子思问之、曰鳏鱼、鱼之难得者也、子果何得之、对曰吾始下钓．垂一鲂之饵鳏过而弗视也．更以豚之半体．则吞之矣．子思喟然曰鳏虽难得．贪以死饵．士虽怀道贪以死禄矣．<br/><br/>子思居卫、鲁穆公卒、县子使乎卫、闻丧而服、谓子思曰子虽未臣、鲁父母之国也、先君宗庙在焉、奈何不服、子思曰吾岂爱乎．礼不得也．县子曰请问之．答曰臣而去国．君不扫其宗庙．则为之服．寄公寓乎是国而为国服．吾既无列于鲁．而祭在卫．吾何服哉．是寄臣而服所寄之君．则旧君无服．明不二君之义也．县子曰善哉．我未之思也．卫君言计是非、而群臣和者如出一口、子思曰以吾观所为．君不君臣不臣者也．公丘懿子曰何乃若是．子思曰人主自臧．则众谋不进．事是而臧之．犹却众谋．况和非以长乎．夫不察事之是非．而悦人之赞巳．闇莫甚焉．不度理之所在．而阿谀求容．谄莫甚焉．君闇臣谄．以居百姓之上．民弗与也．若此不巳．国无类矣．<br/><br/>子思谓卫君曰、君之国事将日非矣．君曰何故．对曰有由然焉．君出言皆自以为是．而卿大夫莫敢矫其非．卿大夫出言亦皆自以为是．而士庶莫敢矫其非．君臣既自贤矣．而群下同声贤之．贤之则顺而有福．矫之则逆而有祸．故使如此如此则善安从生．诗曰具曰予圣、谁知鸟之雌雄抑亦似卫之君臣乎、卫君问子思曰、寡人之政何如、答曰无非．君曰寡人不知其不肖．亦望其如此也．子思曰希旨容媚．则君亲之．中正弼非．则君疏之．夫能使人富贵贫贱者．君也在朝之士．孰肯舍所以见亲而取其所以见疏者乎．是故竞求射君之心．而莫敢有非君之非者．此臣所谓无非也．公曰然乎．寡人之过也．今知改矣．答曰君弗能焉．口顺而心不怿者．临其事必疣．君虽有命．臣未敢受也．<br/><br/>司徒文子改葬其叔父、问服于子思、子思曰礼、父母改葬缌．既葬而除．不忍无服送至亲也．非父母无服．无服则吊而加麻．文子曰丧服既除、然后乃葬则其服何服、答曰三年之丧．未葬服不变．除何有焉．期大功之丧．服其所除之服以葬．既葬而除之．其虞也．吉服以行事也．<br/><br/>公叔木谓申祥曰、卫公叔文子之子定公十四年奔鲁木或作朱春秋作戍吾于子思亲而敬之．子思未吾察也．申祥以告．曰人求亲敬于子．子何辱焉．子思答曰义也．申祥曰请闻之．答曰公叔氏之子爱人之同巳慢而不知贤．夫其亲敬非心见吾所可亲敬也以人口而亲敬吾则亦以人口而疏慢吾矣申祥曰其不知贤奈何．答曰有龙穆者、徒好饰美辞说．观于坐席．相人眉睫以为之意．天下之浅人也．而公叔子交之．桥子良、修实而不修名．为善不为人之知巳．不撞不发．如大钟然．天下之深人也．而公叔子与之同邑而弗能知此其所以为爱同巳而不知贤也．子思自齐反卫、卫君馆而问曰、卫敬公先生鲁国之士、然不以卫之褊小、犹步玉趾而慰存之、愿有赐于寡人也、子思曰臣羇旅于此．而辱君之威尊亟临荜门．其荣多矣欲报君以财币．则君之府藏巳盈而伋又贫．欲报君以善言．恐未合君志而徒言不听也．顾未有可以报君者．唯进贤尔．卫君曰贤固寡人之所愿也．子思曰未审君之愿将何以为君曰必用以治政．子思曰君弗能也．君曰何故．答曰卫国非无贤才之士．而君未有善政．是贤才不见用故也．君曰虽然．愿闻先生所以为贤者．答曰君将以名取士耶．以实取士耶．君曰必以实．子思曰卫之东境有李音者．贤而有实者也．君曰其父祖何也．答曰世农夫也．卫君乃胡卢大笑．曰寡人不好农．农夫之子无所用之．且世臣之子未悉官之．子思曰臣称李音、称其贤才也．周公大圣．康叔大贤．今鲁卫之君未必皆同其祖考．李音父祖虽善农．则音亦未必与之同也．君言世臣之子未悉官之．则臣所谓有贤才而不见用果信矣．臣之问君．固疑君之取士不以实也．今君不问李音之所以为贤才．而闻其世农夫因笑而不爱．则君取士果信名而不由实者也．卫君屈而无辞．<br/><br/>卫君曰夫道大而难明、非吾所能也、今欲学术何如、子思曰君无然也．体道者逸而不穷．任术者劳而无功．古之笃道君子．生不足以喜之．利何足以动之．死不足以禁之．害何足以怨之．禁或作忌怨或作惧故明于死生之分．通于利害之变．虽以天下易其胫毛．无所□于志矣．是以与圣人居．使穷士忘其贫贱．使王公简其富贵．君无然也．卫君曰善．<br/><br/>齐王谓子思曰、今天下扰扰、诸侯无伯、吾国大人众、图帝何如、子思曰不可也、君不能去君贪利之心、王曰何如、子思曰夫水之性清而土壤汨之．人之性安而嗜欲乱之．故能有天下者．必无以天下为者也．能有名誉者．必无以名誉为者也．达此则其利心外矣．<br/><br/>卫将军文子之内子死、复者曰皋媚女复、子思闻之．曰此女氏之字．非夫氏之名也．妇人于夫氏．以姓氏称礼也．<br/><br/>费子阳鲁大夫家臣谓子思曰、吾念宗周将灭、泣涕不可禁也、子思曰然此亦子之善意也．夫能以智知可知．而不能以智知未可知．危之道也．今以一人之身．忧世之不治．而泣涕不禁．是忧河水之浊而以泣清之也．其为无益莫大焉．故微子去殷．纪季入齐．良知时也．唯能不忧世之乱而患身之不治者．可与言道矣．<br/><br/>齐王戮其臣不辜、谓子思曰、吾知其不辜、而适触吾忿故戮之、以为不足伤义也、子思曰、文王葬枯骨而天下知仁．商纣斩朝涉而天下称暴．夫义者不必遍利天下也．暴者不必尽虐海内也．以其所施而观其意民乃去就焉．今君因心之忿．迁戮不辜．以为无伤于义．此非臣之所敢知也．王曰寡人实过．乃今闻命．请改之．<br/><br/>卫公子交见于子思、曰先生圣人之后、执清高之操、天下之君子、莫不服先生之大名也、交虽不敏、窃慕下风、愿师先生之行、幸顾恤之、子思曰公子不宜也．夫清高之节．不以私自累．不以利烦意．择天下之至道．行天下之正路．今公子绍康叔之绪．处战伐之世．当务收英雄保其疆土．非所以明臧否立规检修匹夫之行之时也．<br/><br/>卫公子交馈马四乘于子思、曰交不敢以此求先生之欢而辱先生之洁也．先生久降于鄙土．盖为宾主之饩焉．子思曰伋寄命以来．度身以服卫之衣量腹以食卫之粟矣．又且朝夕受酒脯及祭燔之赐．衣食巳优．意气巳定．以无行志．未敢当车马之贶．礼虽有爵赐人．不逾父兄．今重违公子之盛旨．则有失礼之僣焉．若何．公子曰交巳言于君矣．答曰不可．为人子者三赐不及车马．公子曰我未之闻也．谨受教．<br/><br/>穆公欲相子思、子思不愿．将去鲁、鲁君曰天下之王亦犹寡人也、去将安之、子思答曰盖闻君子犹鸟也．疑之则举．今君既疑矣．又以巳限天下之君臣窃为言之过也．<br/><br/>齐王谓子思曰、先生名高于海内、吐言则天下之士莫不属耳目、今寡人欲相梁起、起也名少、愿先谈说之也、子思曰天下之士所以属耳目者．欲伋之言是非当也．今君使伋虚谈于起．则天下之士必改耳目矣．耳目既改．又无益于起．是两有丧也．故不敢承命．齐君曰起之不贤何也．子思曰君岂未之知乎．厚于财物必薄于德．自然之道也．今起以贪成富、闻于诸侯．而无救施之惠焉．以好色闻于齐国．而无男女之别焉．有一于此．犹受其咎．而起二之．能无累乎．王曰寡人之言实过．愿先生赦焉．子思见老莱子、老莱子闻穆公将相子思、老莱子曰若子事君、将何以为乎、子思曰顺吾性情．以道辅之．无死亡焉．老莱子曰不可顺子之性也子性刚而傲不肖又且无所死亡．非人臣也．子思曰不肖固人之所傲也．夫事君道行言听．则何所死亡．道不行言不听．则亦不能事君．所谓无死亡也．老莱子曰子不见夫齿乎．齿坚刚卒尽相磨．舌柔顺终以不獘．子思曰吾不能为舌．故不能事君．<br/><br/>孔丛卷上终<br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-217-2401.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-217-2403.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-217.html" action-type="chapterComment" class="comment"><i></i>孔丛子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

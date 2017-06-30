@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孙子兵法》正文_作战篇_孙武作品 - 维普阅读网</title>
+<meta name="keywords" content="孙子兵法,孙子兵法原文,孙子兵法阅读,作战篇全文,孙武作品" />
+<meta name="description" content="孙子兵法原文阅读,作战篇全文在线阅读,孙武作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-56-1645.html";
+var nextpage="novel-read-56-1647.html";
+var indexpage = "novel-chapter-56.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-56.html">孙子兵法</a></strong>
+<strong><a href="novel-chapter-56.html">孙子兵法目录</a></strong>
+<span>作战篇</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-56-1645.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>作战篇</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=孙武&amp;searchsubmit=yes"  target="_blank">孙武</a><span class="divide">|</span>发布时间：2014-07-28 20:54:13<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/>孙子曰：凡用兵之法，驰车千驷，革车千乘，带甲十万，千里馈粮，则内外之费，宾客之用，胶漆之材，车甲之奉，日费千金，然后十万之师举矣。<br/>　　其用战也胜，久则钝兵挫锐，攻城则力屈，久暴师则国用不足。夫钝兵挫锐，屈力殚货，则诸侯乘其弊而起，虽有智者，不能善其后矣。故兵闻拙速，未睹巧之久也。夫兵久而国利者，未之有也。故不尽知用兵之害者，则不能尽知用兵之利也。<br/>　　善用兵者，役不再籍，粮不三载；取用于国，因粮于敌，故军食可足也。<br/>　　国之贫于师者远输，远输则百姓贫；近师者贵卖，贵卖则百姓财竭，财竭则急于丘役。力屈财殚，中原内虚于家。百姓之费，十去其七；公家之费，破车罢马，甲胄矢弩，戟楯蔽橹，丘牛大车，十去其六。<br/>　　故智将务食于敌，食敌一钟，当吾二十钟；萁秆一石，当吾二十石。故杀敌者，怒也；取敌之利者，货也。故车战，得车十乘以上，赏其先得者，而更其旌旗，车杂而乘之，卒善而养之，是谓胜敌而益强。<br/>　　故兵贵胜，不贵久。<br/>　　故知兵之将，生民之司命，国家安危之主也。<br/><br/>译文：<br/>　　孙子说：要兴兵作战，需做的物资准备有，轻车千辆，重车千辆，全副武装的士兵十万，并向千里之外运送粮食。那么前后方的军内外开支，招待使节、策士的用度，用于武器维修的胶漆等材料费用，保养战车、甲胄的支出等，每天要消耗千金。按照这样的标准准备之后，十万大军才可出发上战场。<br/>　　因此，军队作战就要求速胜，如果拖的很久则军队必然疲惫，挫失锐气。一旦攻城，则兵力将耗尽，长期在外作战还必然导致国家财用不足。如果军队因久战疲惫不堪，锐气受挫，军事实力耗尽，国内物资枯竭，其他诸侯必定趁火打劫。这样，即使足智多谋之士也无良策来挽救危亡了。所以，在实际作战中，只听说将领缺少高招难以速胜，却没有见过指挥高明巧于持久作战的。战争旷日持久而有利于国家的事，从来没有过。所以，不能详尽地了解用兵的害处，就不能全面地了解用兵的益处。<br/>　　善于用兵的人，不用再次征集兵员，不用多次运送军粮。武器装备由国内供应，从敌人那里设法夺取粮食，这样军队的粮草就可以充足了。国家之所以因作战而贫困，是由于军队远征，不得不进行长途运输。长途运输必然导致百姓贫穷。驻军附近处物价必然飞涨，物价飞涨，必然导致物资枯竭，物财枯竭，赋税和劳役必然加重。在战场上，军力耗尽，在国内财源枯竭，百姓私家财产损耗十分之七。公家的财产，由于车辆破损，马匹疲惫，盔甲、弓箭、矛戟、盾牌、牛车的损失，而耗去十分之六。所以明智的将军，一定要在敌国解决粮草，从敌国搞到一钟的粮食，就相当于从本国启运时的二十钟，在当地取得饲料一石，相当于从本国启运时的二十石。所以，要使士兵拼死杀敌，就必须怒之，激励之。要使士兵勇于夺取敌方的军需物资，就必须以缴获的财物作奖赏。所以，在车战中，抢夺十辆车以上的，就奖赏最先抢得战车的。而夺得的战车，要立即换上我方的旗帜，把抢得的战车编入我方车队。要善待俘虏，使他们有归顺之心。这就是战胜敌人而使自己越发强大的方法。.所以，作战最重要、最有利的是速胜，最不宜的是旷日持久。真正懂得用兵之道、深知用兵利害的将帅，掌握着民众的的生死，主宰着国家的安危。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-56-1645.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-56-1647.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-56.html" action-type="chapterComment" class="comment"><i></i>孙子兵法章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

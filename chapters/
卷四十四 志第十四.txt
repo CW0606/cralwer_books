@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《辽史》正文_卷四十四 志第十四_脱脱作品 - 维普阅读网</title>
+<meta name="keywords" content="辽史,辽史原文,辽史阅读,卷四十四 志第十四全文,脱脱作品" />
+<meta name="description" content="辽史原文阅读,卷四十四 志第十四全文在线阅读,脱脱作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1434-27530.html";
+var nextpage="novel-read-1434-27532.html";
+var indexpage = "novel-chapter-1434.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1434.html">辽史</a></strong>
+<strong><a href="novel-chapter-1434.html">辽史目录</a></strong>
+<span>卷四十四 志第十四</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1434-27530.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷四十四 志第十四</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=脱脱&amp;searchsubmit=yes"  target="_blank">脱脱</a><span class="divide">|</span>发布时间：2016-08-16 22:39:00<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>◎历象志下<br/><br/>　　○朔考<br/><br/>　　古者太史掌正岁年以叙事，国史以事系日，以日、月、时系年。时月不正，则叙事不一。故二史合为一官，颁历授时，必大一统。辽、汉、周、宋，俱行夏时，各自为历。国史闰朔，颇有异同。辽初用《乙未元历》，本何承天《元嘉历》法，后用《大明历》，本祖冲之《甲子元历》法。承天日食晦朏，一章必七闰；冲之日食必朔，或四年一闰。用《乙未历》，汉、周多同；用《大明历》，则间与宋异。　国史叙事，甲子不殊，闰朔多异，以此故也。耶律俨《纪》以《大明》法追正《乙未》月朔，又与陈大任《纪》时或抵牾。稽古君子，往往惑之。<br/><br/>　　用《五代职方考》志契丹州军例，作《朔考》。法殊曰“异”，传讹曰“误”；辽史不书国，俨、大任偏见并见各名；他史以国冠朔。并见注于后。<br/><br/>　　(表略)<br/><br/>　　宋元丰元年十二月，诏司天监考辽及高丽、日本国历与《奉元历》同异。辽己未岁气朔与《宣明历》合，日本戊午岁与辽历相近，高丽戊午年朔与《奉元历》合，气有不同。戊午，辽大康四年，己未，五年也。当辽、宋之世，二国司天固相参考矣。<br/><br/>　　高丽所进《大辽事迹》载诸王册文，颇见月朔，因附入。<br/><br/>　　象<br/><br/>　　孟子有言：“天之高也，星辰之远也，苟求其故，千岁之日至可坐而致。”甚哉，圣人之用心，可谓广大精微，至矣尽矣！<br/><br/>　　日有晷景，月有明魄，斗有建除，星有昏旦。观天之变而制器以候之，八尺之表，六尺之筒，百刻之漏，日月星辰示诸掌上。运行即察，度分即审，于是像天圜以显运行，置地柜以验出入，浑象是作。天道之常，寻尺之中可以俯窥，陶唐之象是矣。设三仪以明度分，管一衡以正辰极，浑仪是作。天文之变，六合之表可以仰观，有虞之玑是矣。体莫固于金，用莫利于水。范金走水，不出户而知天道，此圣人之所以为圣也。<br/><br/>　　历代仪象表漏，各具于志。太宗大同元年，得晋历象、刻漏、浑象。后唐清泰二年已称损折不可施用，其至中京者概可知矣。古之炼铜，黑黄白青之气尽，然后用之，故可施久远。唐沙门一行铸浑天仪，时称精妙，未几铜铁渐涩，不能自转，置不复用。金质不精，水性不行，况移之沍寒之地乎！<br/><br/>　　刻漏<br/><br/>　　晋天福三年造。《周官》契壶氏，悬壶必爨之以火。地虽沍寒，盖可施也。<br/><br/>　　官星<br/><br/>　　古者官星万余名。遭秦焚灭图籍，世秘不传。汉收散亡，得甘德、石申、巫咸三家图经。经纬合千余官，仅存什一。分为三垣、四宫、二十八宿，枢以二极，建以北斗，纬以五星，日月代明，贵而太一，贱逮屎糠。占决之用，亦云备矣。司马迁《天官书》既以具录，后世保章守候，无出三家官星之外者。天象昭垂，历代不易，而汉、晋、隋、唐之书累志天文，近于衍矣。且天象禨祥，律格有禁，书于胜国之史，诖误学者，不宜书。其日食、星变、风云、震雪之祥，具载《帝纪》，不复书。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1434-27530.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1434-27532.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1434.html" action-type="chapterComment" class="comment"><i></i>辽史章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

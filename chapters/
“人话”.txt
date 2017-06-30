@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《伪自由书》正文_“人话”_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="伪自由书,伪自由书原文,伪自由书阅读,“人话”全文,鲁迅作品" />
+<meta name="description" content="伪自由书原文阅读,“人话”全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-550-7457.html";
+var nextpage="novel-read-550-7459.html";
+var indexpage = "novel-chapter-550.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-550.html">伪自由书</a></strong>
+<strong><a href="novel-chapter-550.html">伪自由书目录</a></strong>
+<span>“人话”</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-550-7457.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>“人话”</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-04 20:59:14<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　记得荷兰的作家望蔼覃（Ｆ．ＶａｎＥｅｄｅｎ）（２）——可惜他去年死掉了——所做的童话《小约翰》里，记着小约翰听两种菌类相争论，从旁批评了一句“你们俩都是有毒的”，菌们便惊喊道：“你是人么？这是人话呵！” <br/><br/>　　从菌类的立场看起来，的确应该惊喊的。人类因为要吃它们，才首先注意于有毒或无毒，但在菌们自己，这却完全没有关系，完全不成问题。 <br/><br/>　　虽是意在给人科学知识的书籍或文章，为要讲得有趣，也往往太说些“人话”。这毛病，是连法布耳（Ｊ．Ｈ．Ｆａｂｒｅ）（３）做的大名鼎鼎的《昆虫记》（ＳｏｕｖｅｎｉｒｓＥｎｔｏｍｏｌｏｇｉｑｕｅｓ），也是在所不免的。随手抄撮的东西不必说了。近来在杂志上偶然看见一篇教青年以生物学上的知识的文章（４），内有这样的叙述—— <br/><br/>　　“鸟粪蜘蛛……形体既似鸟粪，又能伏着不动，自己假做鸟粪的样子。” <br/><br/>　　“动物界中，要残食自己亲丈夫的很多，但最有名的，要算前面所说的蜘蛛和现今要说的螳螂了。……” <br/><br/>　　这也未免太说了“人话”。鸟粪蜘蛛只是形体原像鸟粪，性又不大走动罢了，并非它故意装作鸟粪模样，意在欺骗小虫豸。螳螂界中也尚无五伦（５）之说，它在交尾中吃掉雄的，只是肚子饿了，在吃东西，何尝知道这东西就是自己的家主公。但经用“人话”一写，一个就成了阴谋害命的凶犯，一个是谋死亲夫的毒妇了。实则都是冤枉的。 <br/><br/>　　“人话”之中，又有各种的“人话”：有英人话，有华人话。华人话中又有各种：有“高等华人话”，有“下等华人话”。浙西有一个讥笑乡下女人之无知的笑话——“是大热天的正午，一个农妇做事做得正苦，忽而叹道：‘皇后娘娘真不知道多么快活。这时还不是在床上睡午觉，醒过来的时候，就叫道：太监，拿个柿饼来！’” <br/><br/>　　然而这并不是“下等华人话”，倒是高等华人意中的“下等华人话”，所以其实是“高等华人话”。在下等华人自己，那时也许未必这么说，即使这么说，也并不以为笑话的。 <br/><br/>　　再说下去，就要引起阶级文学的麻烦来了，“带住”。 <br/><br/>　　现在很有些人做书，格式是写给青年或少年的信。自然，说的一定是“人话”了。但不知道是那一种“人话”？为什么不写给年龄更大的人们？年龄大了就不屑教诲么？还是青年和少年比较的纯厚，容易诓骗呢？ <br/><br/>　　三月二十一日。 <br/>　<br/>===============================================================<br/><br/>　　（１）本篇最初发表于一九三三年三月一十八日《申报·自由谈》，署名何家干。 <br/><br/>　　（２）望·蔼覃（１８６０—１９３２）荷兰作家、医生。《小约翰》发表于一八八五年，一九二七年曾由鲁迅译成中文，一九二八年北平未名社出版。菌类的争论见于该书第五章。 <br/><br/>　　（３）法布耳（１８２３—１９１５）法国昆虫学家。他的《昆虫记》共十卷，第一卷于一八七九年出版，第十卷于一九一○年出版，是一部介绍昆虫生活情态的书。 <br/><br/>　　（４）指一九三三年三月号《中学生》刊载的王历农《动物的本能》一文。 <br/><br/>　　（５）五伦我国封建社会称君臣、父子、夫妇、兄弟、朋友五种关系为“五伦”，《孟子·滕文公》中说这五种关系的准则是“父子有亲，君臣有义，夫妇有别，长幼有序，朋友有信”。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-550-7457.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-550-7459.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-550.html" action-type="chapterComment" class="comment"><i></i>伪自由书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《文子》正文_精誠_文子作品 - 维普阅读网</title>
+<meta name="keywords" content="文子,文子原文,文子阅读,精誠全文,文子作品" />
+<meta name="description" content="文子原文阅读,精誠全文在线阅读,文子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-38-961.html";
+var nextpage="novel-read-38-963.html";
+var indexpage = "novel-chapter-38.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-38.html">文子</a></strong>
+<strong><a href="novel-chapter-38.html">文子目录</a></strong>
+<span>精誠</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-38-961.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>精誠</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=文子&amp;searchsubmit=yes"  target="_blank">文子</a><span class="divide">|</span>发布时间：2014-07-22 20:45:02<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　老子〔文子〕曰：天致其高，地致其厚，日月照，列星朗，陰陽和，非有為焉，正其道而物自然。陰陽四時，非生萬物也；雨露時降，非養草木也。神明接，陰陽和，萬物生矣。夫道者，藏精于內，棲神于心，靜漠恬惔，悅穆胸中，廓然無形，寂然無聲。官府若無事，朝廷若無人，無隱士，無逸民，無勞役，無冤刑，天下莫不仰上之德，象主之旨，絕國殊俗，莫不重譯而至，非家至而人見之也，推其誠心，施之天下而已。故賞善罰暴者，正令也；其所以能行者，精誠也。令雖明不能獨行，必待精誠，故總道以被民而民弗從者，精誠弗至也。<br/><br/>　　老子〔文子〕曰：天設日月，列星辰，張四時，調陰陽；日以暴之，夜以息之，風以乾之，雨露以濡之。其生物也，莫見其所養而萬物長；其殺物也，莫見其所喪而萬物亡，此謂神明。是故，聖人象之。其起福也，不見其所以而福起；其除禍也，不見其所由而禍除。稽之不得，察之不虛，日計不足，歲計有餘，寂然無聲，一言而大動天下，是以天心動化者也。故精誠內形，氣動于天，景星見，黃龍下，鳳凰至，醴泉出，嘉穀生，河不滿溢，海不波涌；逆天暴物，即日月薄蝕，五星失行，四時相乘，晝冥宵光，山崩川涸，冬雷夏霜。天之與人，有以相通，故國之殂亡也，天文變，世俗亂，虹蜺見。萬物有以相連，精氣有以相薄，故神明之事，不可以智巧為也，不可以強力致也。大人與天地合德，與日月合明，與鬼神合靈，與四時合信，懷天心，抱地氣，執沖含和，不下堂而行四海，變易習俗，民化遷善，若出諸己，能以神化者也。<br/><br/>　　老子〔文子〕曰：夫人道者，全性保真，不虧其身，遭急迫難，精通乎天，若乃未始出其宗者，何為而不成；死生同域，不可脅凌，又況官天地，府萬物，返造化，含至和，而己未嘗死者也。精誠形乎內，而外愈于人心，此不傳之道也。聖人在上，懷道而不言，澤及萬民，故不言之教，芒乎大哉！君臣乖心，倍譎見乎天，神氣相應徵矣，此謂不言之辨，不道之道也。夫召遠者，使無為焉；親近者，言無事焉。唯夜行者能有之，故「卻走馬以糞」，車軌不接于遠方之外，是謂坐馳陸沉。夫天道無私就也，無私去也，能者有餘，拙者不足，順之者利，逆之者凶。是故，以智為治者，難以持國；唯同乎大和而持自然應者，為能有之。<br/><br/>　　老子〔文子〕曰：夫道之與德，若韋之與革，遠之即近，近之即疏，稽之不得，察之不虛。是故，聖人若鏡，不將不迎，應而不藏，萬物而不傷。其得之也，乃失之也；其失之也，乃得之也，故通于大和者，暗若醇醉而甘臥以游其中，若未始出其宗，是謂大通，此假不用能成其用也。<br/><br/>　　老子〔文子〕曰：昔黃帝之治天下，調日月之行，治陰陽之氣，節四時之度，正律曆之數，別男女，明上下，使強不掩弱，眾不暴寡，民保命而不夭，歲時熟而不凶，百官正而無私，上下調而無尤，法令明而不暗，輔佐公而不阿，田者讓畔，道不拾遺，市不預賈，故于此時，日月星辰不失其行，風雨時節，五穀豐昌，鳳凰翔于庭，麒麟游于郊。慮犧氏之王天下也，枕石寢繩，殺秋約冬，負方州，抱員天。陰陽所擁、沈滯不通者，窮理之；逆氣戾物、傷民厚積者，絕止之。其民童蒙不知東西，視瞑瞑，行蹎蹎，侗然自得，莫知其所由，浮游泛然，不知所本，自養不知所如往；當此之時，禽獸蟲蛇無不懷其爪牙，藏其螫毒，功揆天地。至黃帝要繆乎太祖之下，然而不章其功，不揚其名，隱真人之道，以從天地之固然，何即？道德上通，而智故消滅也。<br/><br/>　　老子〔文子〕曰：天不定，日月無所載；地不定，草木無所立；身不寧，是非無所形。是故，有真人而後有真智，其所持者不明，何知吾所謂知之非不知與？積惠重貨，使萬民欣欣，人樂其生者，仁也；舉大功，顯令名，體君臣，正上下，明親疏，存危國，繼絕世，立無後者，義也；閉九竅，藏志意，棄聰明，反無識，芒然仿佯乎塵垢之外，逍遙乎無事之際，含陰吐陽而與萬物同和者，德也；是故，道散而為德，德溢而為仁義，仁義立而道德廢矣。<br/><br/>　　老子〔文子〕曰：神越者言華，德蕩者行偽。至精芒乎中，而言行觀乎外，此不免以身役物也。精有愁盡而行無窮極，所守不定而外淫于世俗之風。是故，聖人內修道術而不外飾仁義，知九竅四肢之宜，而游乎精神之和，此聖人之游也。<br/><br/>　　老子〔文子〕曰：若夫聖人之游也，即動乎至虛，游心乎大無，馳于方外，行于無門，聽于無聲，視于無形，不拘于世，不繫于俗。故聖人所以動天下者，真人不過，賢人所以矯世俗者，聖人不觀。夫人拘于世俗，必形繫而神泄，故不免于累，使我可拘繫者，必其命自有外者矣。<br/><br/>　　老子〔文子〕曰：人主之思，神不馳于胸中，智不出于四域，懷其仁誠之心，甘雨以時，五穀蕃殖，春生夏長，秋收冬藏，月省時考，終歲獻貢；養民以公，威厲不誡，法省不煩，教化如神，法寬刑緩，囹圄空虛，天下一俗，莫懷奸心，此聖人之恩也。夫上好取而無量，即下貪功而無讓，民貧苦而分爭生，事力勞而無功，智詐萌生，盜賊滋彰，上下相怨，號令不行，夫水濁者魚[口撿去手]，政苛者民亂，上多欲即下多詐，上煩擾即下不定，上多求即下交爭，不治其本而救之于末，無以異于鑿渠而止水，抱薪而救火。聖人事省而治，求寡而贍，不施而仁，不言而信，不求而得，不為而成，懷自然，保至真，抱道推誠，天下從之如響之應聲，影之象形，所修者本也。<br/><br/>　　老子〔文子〕曰：精神越于外，智慮蕩于內者，不能治形，神之所用者遠，則所遺者近。故「不出于戶，以知天下；不窺于牖，以知天道。其出彌遠，其知彌少。」此言精誠發于內，神氣動于天也。<br/><br/>　　老子〔文子〕曰：冬日之陽，夏日之陰，萬物歸之而莫之使，極自然至精之感，弗召自來，不去而往，窈窈冥冥，不知所為者而功自成；待目而照見，待言而使命，其于治難矣。皋陶喑而為大理，天下無虐刑，何貴乎言者也；師曠瞽而為太宰，晉國無亂政，何貴乎見者也；不言之令，不視之見，聖人所以為師也。民之化上，不從其言，從其所行，故人君好勇，弗使鬥爭而國家多難，其漸必有劫殺之亂矣；人君好色，弗使風議而國家昏亂，其積至于淫[水失]之難矣，故聖人精誠別于內，好憎明于外，出言以副情，發號以明指。是故，刑罰不足以移風，殺戮不足以禁奸，唯神化為貴，精至為神，精之所動，若春氣之生，秋氣之殺。故君子者，其猶射者也，于此毫末，于彼尋丈矣！故理人者，慎所以感之。<br/><br/>　　老子〔文子〕曰：懸法設賞而不能移風易俗者，誠心不抱也，故聽其音則知其風，觀其樂即知其俗，見其俗即知其化。夫抱真效誠者，感動天地，神逾方外，令行禁止，誠通其道而達其意，雖無一言，天下萬民、禽獸、鬼神與之變化。故太上神化，其次使不得為非，其下賞賢而罰暴。<br/><br/>　　老子〔文子〕曰：大道無為，無為即為有，無有者不居也，不居者即處無形，無形者不動，不動者無言也，無言者即靜而無聲無形；無聲無形者，視之不見，聽之不聞，是謂微妙，是謂至神，「綿綿若存，是謂天地之根。」道無形無聲，故聖人強為之形，以一字為名，天地之道。大以小為本，多以少為始，天子以天地為品，以萬物為資，功德至大，勢名至貴，二德之美與天地配，故不可不軌大道以為天下母。<br/><br/>　　老子〔文子〕曰：賑窮補急則名生，起利除害即功成，世無災害，雖聖無所施其德，上下和睦，雖賢無所立其功。故至人之治，含德抱道，推誠樂施，無窮之智，寢說而不言，天下莫貴其不言者，故「道可道，非常道；名可名，非常名也。」著于竹帛，鏤于金石，可傳于人者，皆其粗也。三皇五帝三王，殊事而同心，異路而同歸。末世之學者，不知道之所體一，德之所總要，取成事之跡，跪坐而言之，雖博學多聞，不免于亂。<br/><br/>　　老子〔文子〕曰：心之精者，可以神化，而不可說道。聖人不降席而匡天下，情甚于[言梟]呼，故同言而信，信在言前也；同令而行，誠在令外也。聖人在上，民化如神，情以先之，動于上不應于下者，情令殊也。三月嬰兒未知利害，而慈母愛之愈篤者，情也。故言之用者變，變乎小哉；不言之用者變，變乎大哉。信君子之言，忠君子之意，忠信形于內，感動應乎外，賢聖之化也。<br/><br/>　　老子〔文子〕曰：子之死父，臣之死君，非出死以求名也，恩心藏于中而不違其難也。君子之憯怛非正為也，自中出者也，亦察其所行，聖人不慚于景，君子慎其獨也，舍近期遠，塞矣。故聖人在上，則民樂其治；在下，則民慕其意，志不忘乎欲利人也。<br/><br/>　　老子〔文子〕曰：勇士一呼，三軍皆辟，其出之誠也；唱而不和，意而不載，中必有不合者也。不下席而匡天下者，求諸己也，故說之所不至者，容貌至焉，容貌所不至者，感忽至焉，感乎心發而成形，精之至者可形接，不可以照期。<br/><br/>　　老子〔文子〕曰：言有宗，事有本，失其宗本，伎能雖多，不如寡言。害眾者倕而使斷其指，以明大巧之不可為也，故匠人智為，不以能以時，閉不知閉也，故必杜而後開。<br/><br/>　　老子〔文子〕曰：聖人之從事也，所由異路而同歸，存亡定傾若一，志不忘乎欲利人也。故秦、楚、燕、魏之歌，異聲而皆樂也，九夷、八狄之哭，異聲而皆哀。夫歌者樂之徵也，哭者哀之效也，愔于中，發于外，故在所以感之矣。聖人之心，日夜不忘乎欲利人，其澤之所及亦遠矣。<br/><br/>　　老子〔文子〕曰：人無為而治，有為也即傷。無為而治者，為無為，為者不能無為也，不能無為者，不能有為也。人無言而神，有言也即傷。無言而神者，載無言，則傷有神之神者。<br/><br/>　　文子曰：「名可強立，功可強成。昔南榮[走朱]恥聖道而獨亡于己，南見老子，受教一言，精神曉靈，屯閔條達，勤苦十日不食，如享太牢，是以明照海內，名立後世，智略天地，察分秋毫，稱譽華語，至今不休，此謂名可強立也。故田者不強，囷倉不滿；官御不勵，誠心不精；將相不強，功烈不成，王侯懈怠，後世無名。至人潛行，譬猶雷霆之藏也，隨時而舉事，因資而立功，進退無難，無所不通。夫至人精誠內形，德流四方，見天下有利也，喜而不忘；天下有害也，怵若有喪。夫憂民之憂者，民亦憂其憂，樂民之樂者，民亦樂其樂，故憂以天下，樂以天下，然而不王者，未之有也。聖人之法，始于不可見，終于不可極，處于不傾之地，積于不盡之倉，載于不竭之府；出令如流水之原，使民于不爭之官，開必得之門，不為不可成，不求不可得，不處不可久，不行不可復。大人行可說之政，而人莫不順其命，命順則從，小而致大，命逆則以善為害，以成為敗。夫所謂大丈夫者，內強而外明，內強如天地，外明如日月，天地無不覆載，日月無不照明。大人以善示人，不變其故，不易其常，天下聽令，如草從風，政失于春，歲星盈縮，不居其常；政失于夏，熒惑逆行；政失于秋，太白不當，出入無常；政失于冬，辰星不效其鄉，四時失政，鎮星搖蕩，日月見謫，五星悖亂，慧星出。春政不失，禾黍滋；夏政不失，雨降時；秋政不失，民殷昌；冬政不失，國家寧康。<br/><br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-38-961.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-38-963.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-38.html" action-type="chapterComment" class="comment"><i></i>文子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

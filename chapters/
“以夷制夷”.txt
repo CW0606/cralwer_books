@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《伪自由书》正文_“以夷制夷”_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="伪自由书,伪自由书原文,伪自由书阅读,“以夷制夷”全文,鲁迅作品" />
+<meta name="description" content="伪自由书原文阅读,“以夷制夷”全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-550-7458.html";
+var nextpage="novel-read-550-7460.html";
+var indexpage = "novel-chapter-550.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-550.html">伪自由书</a></strong>
+<strong><a href="novel-chapter-550.html">伪自由书目录</a></strong>
+<span>“以夷制夷”</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-550-7458.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>“以夷制夷”</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-04 20:59:56<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　我还记得，当去年中国有许多人，一味哭诉国联的时候，日本的报纸上往往加以讥笑，说这是中国祖传的“以夷制夷”（２）的老手段。粗粗一看，也仿佛有些像的，但是，其实不然。那时的中国的许多人，的确将国联看作“青天大老爷”，心里何尝还有一点儿“夷”字的影子。 <br/><br/>　　倒相反，“青天大老爷”们却常常用着“以华制华”的方法的。 <br/><br/>　　例如罢，他们所深恶的反帝国主义的“犯人”，他们自己倒是不做恶人的，只是松松爽爽的送给华人，叫你自己去杀去。他们所痛恨的腹地的“共匪”，他们自己是并不明白表示意见的，只将飞机炸弹卖给华人，叫你自己去炸去。对付下等华人的有黄帝子孙的巡捕和西崽，对付智识阶级的有高等华人的学者和博士。 <br/><br/>　　我们自夸了许多日子的“大刀队”，好像是无法制伏的了，然而四月十五日的《××报》上，有一个用头号字印《我斩敌二百》的题目。粗粗一看，是要令人觉得胜利的，但我们再来看一看本文罢——“（本报今日北平电）昨日喜峰口右翼，仍在滦阳城以东各地，演争夺战。敌出现大刀队千名，系新开到者，与我大刀队对抗。其刀特长，敌使用不灵活。我军挥刀砍抹，敌招架不及，连刀带臂，被我砍落者纵横满地，我军伤亡亦达二百余。……” <br/><br/>　　那么，这其实是“敌斩我军二百”了，中国的文字，真是像‘国步”（３）一样，正在一天一天的艰难起来。但我要指出来的却并不在此。 <br/><br/>　　我要指出来的是“大刀队”乃中国人自夸已久的特长，日本人员有击剑，大刀却非素习。现在可是“出现”了，这不必迟疑，就可决定是满洲的军队。满洲从明末以来，每年即大有直隶山东人迁居，数代之后，成为土著，则虽是满洲军队，而大多数实为华人，也决无疑义。现在已经各用了特长的大刀，在滦东相杀起来，一面是“连刀带臂，纵横满地”，一面是“伤亡亦达二百余”，开演了极显著的“以华制华”的一幕了。 <br/><br/>　　至于中国的所谓手段，由我看来，有是也应该说有的，但决非“以夷制夷”，倒是想“以夷制华”。然而“夷”又那有这么愚笨呢，却先来一套“以华制华”给你看。 <br/><br/>　　这例子常见于中国的历史上，后来的史官为新朝作颂，称此辈的行为曰：“为王前驱”（４）！ <br/><br/>　　近来的战报是极可诧异的，如同日同报记冷口失守云：“十日以后，冷口方面之战，非常激烈，华军……顽强抵抗，故继续未曾有之大激战”，但由宫崎部队以十余兵士，作成人梯，前仆后继，“卒越过长城，因此宫崎部队牺牲二十三名之多云”。越过一个险要，而日军只死了二十三人，但已云“之多”，又称为“未曾有之大激战”，也未免有些费解。所以大刀队之战，也许并不如我所猜测。但既经写出，就姑且留下以备一说罢。 <br/><br/>　　四月十七日。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-550-7458.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-550-7460.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-550.html" action-type="chapterComment" class="comment"><i></i>伪自由书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

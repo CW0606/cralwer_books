@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《集外集拾遗》正文_报《奇哉所谓》_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="集外集拾遗,集外集拾遗原文,集外集拾遗阅读,报《奇哉所谓》全文,鲁迅作品" />
+<meta name="description" content="集外集拾遗原文阅读,报《奇哉所谓》全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-541-6985.html";
+var nextpage="novel-read-541-6987.html";
+var indexpage = "novel-chapter-541.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-541.html">集外集拾遗</a></strong>
+<strong><a href="novel-chapter-541.html">集外集拾遗目录</a></strong>
+<span>报《奇哉所谓》</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-541-6985.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>报《奇哉所谓》</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-30 19:51:51<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>有所谓熊先生者，以似论似信的口吻，惊怪我的“浅薄无知识”和佩服我的胆量。我可是大佩服他的文章之长。现在只能略答几句。 <br/><br/>　　一、中国书都是好的，说不好即不懂；这话是老得生了锈的老兵器。讲《易经》（２）的就多用这方法：“易”，是玄妙的，你以为非者，就因为你不懂。我当然无凭来证明我能懂得任何中国书，和熊先生比赛；也没有读过什么特别的奇书。但于你所举的几种，也曾略略一翻，只是似乎本子有些两样，例如我所见的《抱朴子》（３）外篇，就不专论神仙的。杨朱（４）的著作我未见；《列子》（５）就有假托的嫌疑，而况他所称引。我自愧浅薄，不敢据此来衡量杨朱先生的精神。 <br/><br/>　　二、“行要学来辅助”，我知道的。但我说：要学，须多读外国书。“只要行，不要读书”，是你的改本，你虽然就此又发了一大段牢骚，我可是没有再说废话的必要了。但我不解青年何以就不准做代表，当主席，否则就是“出锋头”。莫非必须老头子如赵尔巽（６）者，才可以做代表当主席么？三、我说，“多看外国书”，你却推演为将来都说外国话，变成外国人了。你是熟精古书的，现在说话的时候就都用古文，并且变了古人，不是中华民国国民了么？你也自己想想去。我希望你一想就通，这是只要有常识就行的。 <br/><br/>　　四、你所谓“五胡中国化……满人读汉文，现在都读成汉人了”这些话，大约就是因为懂得古书而来的。我偶翻几本中国书时，也常觉得其中含有类似的精神，——或者就是足下之所谓“积极”。我或者“把根本忘了”也难说，但我还只愿意和外国以宾主关系相通，不忍见再如五胡乱华（７）以至满洲入关那样，先以主奴关系而后有所谓“同化”！假使我们还要依据“根本”的老例，那么，大日本进来，被汉人同化，不中用了，大美国进来，被汉人同化，又不中用了……以至黑种红种进来，都被汉人同化，都不中用了。此后没有人再进来，欧美非澳和亚洲的一部都成空地，只有一大堆读汉文的杂种挤在中国了。这是怎样的美谈！ <br/><br/>　　五、即如大作所说，读外国书就都讲外国话罢，但讲外国话却也不即变成外国人。汉人总是汉人，独立的时候是国民，覆亡之后就是“亡国奴”，无论说的是那一种话。因为国的存亡是在政权，不在语言文字的。美国用英文，并非英国的隶属；瑞士用德法文，也不被两国所瓜分；比国用法文，没有请法国人做皇帝。满洲人是“读汉文”的，但革命以前，是我们的征服者，以后，即五族共和（８），和我们共存同在，何尝变了汉人。但正因为“读汉文”，传染上了“僵尸的乐观”，所以不能如蒙古人那样，来蹂躏一通之后就跑回去，只好和汉人一同恭候别族的进来，使他同化了。但假如进来的又像蒙古人那样，岂不又折了很大的资本么？ <br/><br/>　　大作又说我“大声急呼”之后，不过几年，青年就只能说外国话。我以为是不省人事之谈。国语的统一鼓吹了这些年了，不必说一切青年，便是在学校的学生，可曾都忘却了家乡话？即使只能说外国话了，何以就“只能爱外国的国”？蔡松坡反对袁世凯（９），因为他们国语不同之故么？满人入关，因为汉人都能说满洲话，爱了他们之故么？清末革命，因为满人都忽而不读汉文了，所以我们就不爱他们了之故么？浅显的人事尚且不省，谈什么光荣，估什么价值。 <br/><br/>　　六、你也同别的一两个反对论者一样，很替我本身打算利害，照例是应该感谢的。我虽不学无术，而于相传“处于才与不才之间”（１０）的不死不活或入世妙法，也还不无所知，但我不愿意照办。所谓“素负学者声名”，“站在中国青年前面”这些荣名，都是你随意给我加上的，现在既然觉得“浅薄无知识”了，当然就可以仍由你随意革去。我自愧不能说些讨人喜欢的话，尤其是合于你先生一流人的尊意的话。但你所推测的我的私意，是不对的，我还活着，不像杨朱墨翟（１１）们的死无对证，可以确定为只有你一个懂得。我也没有做什么《阿鼠传》，只做过一篇《阿Ｑ正传》。 <br/><br/>　　到这里，就答你篇末的诘问了：“既说‘从来没有留心过’”者，指“青年必读书”，写在本栏内；“何以果决地说这种话”者，以供若干读者的参考，写在“附记”内。虽然自歉句子不如古书之易懂，但也就可以不理你最后的要求。而且，也不待你们论定。纵使论定，不过空言，决不会就此通行天下，何况照例是永远论不定，至多不过是“中虽有坏的，而亦有好的；西虽有好的，而亦有坏的”之类的微温说而已。我虽至愚，亦何至呈书目于如先生者之前乎？ <br/><br/>　　临末，我还要“果决地”说几句：我以为如果外国人来灭中国，是只教你略能说几句外国话，却不至于劝你多读外国书，因为那书是来灭的人们所读的。但是还要奖励你多读中国书，孔子（１２）也还要更加崇奉，像元朝和清朝一样。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-541-6985.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-541-6987.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-541.html" action-type="chapterComment" class="comment"><i></i>集外集拾遗章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

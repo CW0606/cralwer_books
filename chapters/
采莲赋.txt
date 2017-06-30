@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《采莲赋》正文_采莲赋_萧绎作品 - 维普阅读网</title>
+<meta name="keywords" content="采莲赋,采莲赋原文,采莲赋阅读,采莲赋全文,萧绎作品" />
+<meta name="description" content="采莲赋原文阅读,采莲赋全文在线阅读,萧绎作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-786.html";
+var nextpage="novel-chapter-786.html";
+var indexpage = "novel-chapter-786.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-786.html">采莲赋</a></strong>
+<strong><a href="novel-chapter-786.html">采莲赋目录</a></strong>
+<span>采莲赋</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-786.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>采莲赋</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=萧绎&amp;searchsubmit=yes"  target="_blank">萧绎</a><span class="divide">|</span>发布时间：2014-10-30 22:39:05<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/><br/>　　紫茎兮文波，红莲兮芰荷；绿房兮翠盖，素实兮黄螺。<br/><br/>　　於时妖童媛女，荡舟心许；鹢首徐回，兼传羽杯。<br/><br/>　　棹将移而藻挂，船欲动而萍开。尔其纤腰束素，迁延顾步。<br/><br/>　　夏始春馀，叶嫩花初，恐沾裳而浅笑，畏倾船而敛裾。<br/><br/>　　故以水溅兰桡，芦侵罗袸，菊泽未反，梧台迥见。<br/><br/>　　荇湿沾衫，菱长绕钏。泛柏舟而容与，歌采莲於枉渚。<br/><br/>　　歌曰：碧玉小家女，来嫁汝南王；莲花乱脸色，荷叶杂衣香。<br/><br/>　　因持荐君子，愿袭芙容裳。<br/><br/>【注释】<br/><br/>1.文波：微波。此句语本《楚辞·招魂》：“紫茎屏风，文缘波些。”<br/>2.芰（jì）荷：出水荷叶。<br/>3.绿房：指莲蓬。因莲房呈圆孔状间隔排列如房，故称。翠盖：形容荷叶圆大如帷盖。<br/>4.素实：白色的莲籽。黄螺：莲蓬外形团团如螺，成熟后由绿渐黄，故称。<br/>5.妖童：俊俏少年。媛女：美女。<br/>6.心许：谓心中互有情意。<br/>7.鷁（yì）首：船头。鷁是一种大鸟，古代常被画在船头作装饰。徐：缓缓。<br/>8.羽杯：一种雀形酒杯，左右形如鸟羽翼。一说，插鸟羽于杯上，促人速饮。<br/>9.櫂（zhào）：划船用的工具。代指船。一作“棹”。<br/>10.束素：捆扎起来的白绢。形容女子细腰。素：白绢。<br/>11.迁延：拖延。顾步：一边走一边回视。<br/>12.敛裾（jū）：把衣襟紧抓成一团。形容害怕船倾的样子。裾：衣襟。<br/>13.兰桡：兰木做的船楫。<br/>14.罗袸（jiàn）：绫罗垫子。袸：同“荐”，垫子。<br/>15.菊泽：指湖泊。菊字是藻饰词，芬芳之意。反：同“返”。<br/>16.梧台：梧木搭建之台。梧木是良材。迥：远。<br/>17.荇（xìng）：荇菜，水草名。<br/>18.菱（chuàn）：水生草本植物。钏：臂环。<br/>19.柏舟：柏木做的船只。容与：闲暇自得貌。<br/>20.江渚：江边陆地。<br/>21.碧玉：古乐府有《碧玉歌》，属《吴声曲辞》。郭茂倩《乐府诗集》四五引《乐苑》曰：“《碧玉歌》者，宋汝南王所作也。碧玉，汝南王妾名。”<br/>22.荐：进献。<br/>23.袭：衣上加衣。荚蓉裳：有莲花图案的衣裳。芙蓉是莲的别称。<br/><br/>【译文】<br/><br/>　　紫茎亭亭呵立于粼粼清波，红莲朵朵呵映衬重重芰荷。莲蓬作房屋呵荷叶作屋顶，莲籽儿洁白呵莲蓬如黄螺。<br/>　　值此时节中的俊男美女，摇起船儿心中荡漾柔情。鷁形画船迂回慢进，雀状酒杯传递频频。水草挽住船桨不肯离去，浮萍移开偏为船儿放行。美女摆动娇柔的细腰，欲行又止几番回眸传情。夏季刚刚开始春意尚未散尽，鲜嫩的荷叶映衬着初开的荷花。生怕沾湿衣裳而低声浅笑，担心船儿倾覆而紧紧抓住衣襟。于是船桨击水缓缓向前，芦花点点飞上绫罗绣垫。荡舟湖上不思回返，梧台已经遥遥可见。带水的荇菜沾湿了衣衫，长长的菱草缠住了臂环。泛着柏木舟多么悠闲自在，水洲边放开歌喉唱一曲《采莲》。<br/>　　歌唱道：碧玉姑娘本是小户人家之女，前来嫁给身世显贵的汝南王。莲花映衬着她的容貌，荷叶染上了她的衣香。手持莲花荷叶进献给君子，希望穿上用它制作的美丽衣裳。<br/><br/>【赏析】<br/><br/>　　这篇小赋以状物传神见长。<br/>　　全文可分三个层次。<br/>　　首四句为第一层，以描写河中红莲开篇。淡紫的茎干出于绿水，微风吹来，拂起阵阵波纹。它擎起一团红莲，亭亭玉立，绿色荷叶为其扶枝。荷叶仿佛一面高大的翠盖，遮盖住绿色的苞蕊。丰硕的苞蕊中，藏着素白的莲子，它那丝丝黄瓣，仿佛轻盈的霓裳羽衣。短短四句，就像一个特写镜头，直逼夏水轻波中的荷花，把它的枝叶蕊实，全盘呈呈现出来。其描写笔法，细致准确，丝丝入扣，表现出相当高的白描技巧。<br/>　　“于是妖童媛女”到“歌采莲于江渚”为第二层，将描写的镜头摇向远方，于是画面逐渐扩大，一幅夏日采莲图渐次展现。但见一群少男少女，轻舟荡桨而来，他们同心相映，杯酒传情。这段描写有两处特别入神。一是“棹将移而藻挂，船欲动而萍开”，写舟船泛于河中情景。兰棹将举，已被水藻牵挂；船身未移，浮萍早已漾开，宛然一艘水波荡漾中的画船，轻摆慢摇而来，整个画面因之全活。二是“恐沾裳丽浅笑，畏倾船而敛裾”，写船中男女调笑之态。其中“纤腰束素，迁延顾步。夏始春馀，叶嫩花初”，写少女的情态入神。“夏始春馀”喻其芳龄正盛，“叶嫩花初”喻其青春正美，都是未经人道的妙笔。但虽有胜日之高情雅趣，也不敢纵情任性，不敢开怀放声，因为着轻舟而荡兰桨，生怕动作大了，溅水沾了衣裳，甚至翻了船。因此，这一“浅笑”、“敛裾”，直把少女的神情心态，刻画得维妙维肖，仿佛身临其境。作者在这里用笔不轻不重，好像蜻蜓点水，妙处全在那漫不经心的漾漾涟漪之中，而文中人物之夏日情趣，突现于读者眼前。下面继续写船在水中行进的情态。“水溅兰桡，芦侵罗荐”，“荇湿沾衫，菱长绕钏”等语，无不是写船上人与水和水中的植物打交道，写得轻盈俏皮，似是芦苇荇菱特爱与人为难，别饶情趣。<br/>　　最后一层，为五言六句小歌一阕，说他们泛舟的悠闲快活，然后女子唱起歌来，作画龙点睛式的渲染，碧玉小家女之形象，若隐若现，翩然而出。“莲花乱脸色，荷叶杂衣香”，以浑沌比拟手法，营造出一种错觉感受：莲花亦脸色，脸色亦莲花；衣亦荷，荷亦衣；衣香荷香，浑然一体。作者运用这种笔法，把碧玉女放在了绿一片、香满天的莲荷图中，在大自然的美景中点缀以人的精灵，造成一种美景美人浑然一体的胜境，产生了只可意会不可言传的美感效应，有美不胜收之感。<br/>　　全篇以莲起，以莲结，而中间核心部分只写了少男少女的荡舟嬉游，似与主题“采莲”无干。实际上自”棹移”、“船动”以至“荇湿”、“菱长”等等，无不是采莲过程中的动态渲染，因为是暗写，使读者不觉。如果是明写如何如何采莲，反倒呆了。<br/>　　赋，在东晋经过一段短暂的沉寂之后复呈崭新气象，到了梁代，赋风有所变化，文体以华美繁复著称，这篇文章属于那个时代的典型代表。全文语言整饬，首尾周全，换韵频繁，音节谐美。而其举体小巧轻灵，笔调婉娈多姿，闪现出玲珑剔透、潇洒飘逸之气。<br/><br/>【点评】<br/><br/>　　清人许梿《六朝文絮笺注》卷一：体物浏亮，斯为不负。<br/>　　近人尹赛夫等《中国历代赋选》：《采莲赋》描写了一幅江南“妖童媛女”荡舟采莲的风俗画面，但这并非是民间劳动女性的采莲生活的再现，而是融透着作者帝王后苑生活情趣的作品。赋中占据画面主体的是莲花丛中的采莲媛女的形象，作者所着意描写的是女性的声色与容态。赋末之歌，以采莲女因持莲花、荷叶进荐“君子”，希望君子“制芰荷以为衣，集芙蓉以为裳”，隐蕴投以木桃，永以为好之意。此赋篇幅短小，婉丽多情，清美自然，具有典型的南朝赋体的风格特色。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-786.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-786.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-786.html" action-type="chapterComment" class="comment"><i></i>采莲赋章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

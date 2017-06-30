@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《金陵秋》正文_第十五章 用间_林纾作品 - 维普阅读网</title>
+<meta name="keywords" content="金陵秋,金陵秋原文,金陵秋阅读,第十五章 用间全文,林纾作品" />
+<meta name="description" content="金陵秋原文阅读,第十五章 用间全文在线阅读,林纾作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1095-17115.html";
+var nextpage="novel-read-1095-17117.html";
+var indexpage = "novel-chapter-1095.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1095.html">金陵秋</a></strong>
+<strong><a href="novel-chapter-1095.html">金陵秋目录</a></strong>
+<span>第十五章 用间</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1095-17115.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第十五章 用间</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-18.html" target="blank">古典小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=林纾&amp;searchsubmit=yes"  target="_blank">林纾</a><span class="divide">|</span>发布时间：2015-01-14 20:36:50<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　石头城者，东以赤山为成皋，南以长、淮为伊洛，北以钟山为曲阜，西以大江为黄河。此言南都之胜，等于北都者。六朝以后，明太祖曾建［都］于此。迨及燕棣，始都燕，以此为陪京。直至洪、杨之役，南都遂成瓦砾之场，元气久久未复。<br/>　　然形胜仍存，可以扼守。古无炮台，但守陆而不备水。取金陵者，陆军多向新亭一路。今则炮台扼塞处，其险有五，曰乌龙山，曰幕府山，曰雨花台，曰狮子山，曰富贵山。此外尚有紫金山，纯乎天险，用为屏蔽。乌龙去城六十里，前临大江，有二十一生炮二尊，可迎击龙潭进趣之军队。幕府山炮台，足以守护齐化门。富贵山之炮，可击朝阳、太平门外之军队。雨花台临句容。狮子山备下关。此非联五镇之兵，佐以炮队，万难为功。而镇军不过一镇，骑兵八十、炮四尊，浙军、苏军，炮骑略具，然亦寥寥。沪军仅一千六百，城中旗兵合北军，数逾二万，骑兵二千余。主客之势既殊，胜负之局可定。<br/>　　述卿谓仲英曰：“北军能战，而又据天险，势不可与争锋。<br/>　　当日洪、杨挫败之余，李臣典、萧孚泗诸人，拚命兜围，仅乃克之。然尚以地道进。今工程队能任此否？”仲英曰：“然则仍用收镇之策，隐中联络炮台守者耳。”述卿曰：“然。”遂以说上官承纲及汪虎二将。汪、官既降，诸台望风款纳。城中主兵者防炮台潜通民军，下令将莅台检核诸将。诸将潜取炮机，归镇江。及黎天生军占领炮台，各炮台一时同下，乃广布间谍入城，多印刷谕降之书。清将校佘明勋遂为述卿所用，将城中所有部署，绘图示民军，盖未战之先，已了了洞澈敌情矣。联军虽有同胞之义，然势同乌合，谣诼起如云浪。述卿焦思五夜不寝，将奉身求退。仲英极力劝止。<br/>　　时议急于进兵，而镇军中尚有一队枪炮未及整备。时已改推程德荃为海陆总司令，定策与述卿合。梁乔丹者，老谋壮事人也。易帅之谋，均梁主之。且以书告述卿，人言可畏，善为之备。<br/>　　初六日，大军前进，驻马群。得鄂中急电，言汉阳危甚。<br/>　　仲英曰：“此电宜秘。出则军心必乱。”遂草檄饬兵舰数艘赴援。初七日，程公德荃至军。时幕府山炮声已动，盖内向以轰北军。而浙军在孝陵卫与北军接，大胜。而述卿军进驻林庄，居破庙中，地湿如膏，以稻草铺地，厚尺许，坐卧其间。夜得鄂中急电，言武昌血战六昼夜，敌军火器较利。我军坚守武昌，乞以海陆军队，星夜接济。述卿复电，已以兵舰数艘赴援。<br/>　　此间稍定，即发陆军。初八日进兵，述卿进谒俞司令。司令述鄂中危急，且言北军已由津浦南来。述卿告以白额虎已扼浦口矣。时幕府山弹尽，而沪上续运未到。炸药藏贮至伙，顾无电力，不能发。而军中已下令前进，述卿危之。延陶参谋定策。陶以命令已发，不能反汗。述卿大忧。是夜鄂中急电再至。<br/>　　而宋渔父来电，言与黎同。述卿遂飞电海军，趣其急进。时已潜遣小队，隐埋炸药于朝阳门外。夜中接战，枪声如沸。述卿急装登紫金山，望朝阳门，巨炮一声，屋瓦皆震。闻雨花台有冲锋声，而朝阳门枪声亦益烈。迨晓，枪声渐稀，众皆以为城破矣。已而三十四标谭排长至，言昨夕亲赴城瘗埋炸药，城内忽出炸弹，适触炸药作奇响，非城破也。彼此相顾懊丧。<br/>　　述卿建策，攻此严城，非巨炮不为功。俞司令遂饬祁豹嘉赴沪运炮。述卿以独骑归营。道中规划，非得天保城，则全军均无柄握。遂决计以镇军攻太平门一路。午后，陶参谋至，言俞司令图天保城，举军无肯行者。<br/>　　述卿奋然曰：“生死分也。《尉缭子》曰：‘众已聚不虚散，兵已出不徒归。’非吾军居前敌，决无敢死之人。今当大聚镇兵而申讨之，俾人人尽其死力，方能成功。”陶君曰：“吾以死助述公为之！”述卿呼仲英曰：“仲英试同行，事之成败系此着矣！”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1095-17115.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1095-17117.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1095.html" action-type="chapterComment" class="comment"><i></i>金陵秋章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

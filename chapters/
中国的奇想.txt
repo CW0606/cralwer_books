@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《准风月谈》正文_中国的奇想_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="准风月谈,准风月谈原文,准风月谈阅读,中国的奇想全文,鲁迅作品" />
+<meta name="description" content="准风月谈原文阅读,中国的奇想全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-551-7609.html";
+var nextpage="novel-read-551-7611.html";
+var indexpage = "novel-chapter-551.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-551.html">准风月谈</a></strong>
+<strong><a href="novel-chapter-551.html">准风月谈目录</a></strong>
+<span>中国的奇想</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-551-7609.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>中国的奇想</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-06 20:47:29<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　游光 <br/>　　外国人不知道中国，常说中国人是专重实际的。其实并不，我们中国人是最有奇想的人民。 <br/>　　无论古今，谁都知道，一个男人有许多女人，一味纵欲，后来是不但天天喝三鞭酒（２）也无效，简直非“寿（？）终正寝”不可的。可是我们古人有一个大奇想，是靠了“御女”，反可以成仙，例子是彭祖（３）有多少女人而活到几百岁。这方法和炼金术一同流行过，古代书目上还剩着各种的书名。不过实际上大约还是到底不行罢，现在似乎再没有什么人们相信了，这对于喜欢渔色的英雄，真是不幸得很。 <br/>　　然而还有一种小奇想。那就是哼的一声，鼻孔里放出一道白光，无论路的远近，将仇人或敌人杀掉。白光可又回来了，摸不着是谁杀的，既然杀了人，又没有麻烦，多么舒适自在。这种本倾，前年还有人想上武当山（４）去寻求，直到去年，这才用大刀队来替代了这奇想的位置。现在是连大刀队的名声也寂寞了。对于爱国的英雄，也是十分不幸的。 <br/>　　然而我们新近又有了一个大奇想。那是一面救国，一面又可以发财，虽然各种彩票（５），近似赌博，而发财也不过是“希望”。不过这两种已经关联起来了却是真的。固然，世界上也有靠聚赌抽头来维持的摩那科王国（６），但就常理说，则赌博大概是小则败家，大则亡国；救国呢，却总不免有一点牺牲，至少，和发财之路总是相差很远的。然而发见了一致之点的是我们现在的中国，虽然还在试验的途中。 <br/>　　然而又还有一种小奇想。这回不用一道白光了，要用几回启事，几封匿名的信件，几篇化名的文章，使仇头落地，而血点一些也不会溅着自己的洋房和洋服（７）。并且映带之下，使自己成名获利。这也还在试验的途中，不知道结果怎么样，但翻翻现成的文艺史，看不见半个这样的人物，那恐怕也还是枉用心机的。 <br/>　　狂赌救国，纵欲成仙，袖手杀敌，造谣买田，倘有人要编续《龙文鞭影》（８）的，我以为不妨添上这四句。八月四日。 <br/>　<br/>===============================================================<br/>　　　　　　 <br/>　　（１）　本篇最初发表于一九三三年八月六日《申报·自由谈》。<br/>　　（２）　三鞭酒　用三种动物的雄性生殖器泡制的强身药酒。<br/>　　（３）　彭祖　传说中人物。晋代葛洪《神仙传》卷一：“彭祖者，姓篯讳铿，帝颛顼之玄孙也。殷末已七百六十七岁，而不衰老。”传内记彭祖曾说过这样的话：“男女相成，犹天地相生也。……天地昼分而夜合，一岁三百六十交而精气和合，故能生产万物而不穷；人能则之，可以长存。” <br/>　　（４）　武当山　在湖北均县北，山上有紫霄宫、玉虚宫等宫观，为我国著名的道教胜地。《太平御览》卷四十三引南朝宋郭仲产《南雍州记》说：“武当山广三四百里，……学道者常百数，相继不绝。”在旧小说中常把武当山描写为剑侠修炼的神奇的地方。<br/>　　（５）　彩票　又称奖券。这里指国民党政府同一九三三年起发行的“航空公路建设奖券”，当时报纸宣传购买奖券是“既爱国，又获奖”。 <br/>　　（６）　摩那科王国（Ｔｈｅ　ｐｒｉｎｃｉｐａｌｉｔｙ　ｏｆ　Ｍｏｎａｃｏ）　通译摩纳哥公国，法国东南地中海滨的一个君主立宪国，境内蒙的卡罗（Ｍｏｎｔｅ　Ｃａｒｌｏ）城有世界著名的大赌场，赌场收入为该国政府主要财政来源之一。 <br/>　　（７）　指当时《社会新闻》、《微言》一类刊物上发表的文章和张资平、曾今可等人的启事，参看《伪自由书·后记》。<br/>　　（８）　《龙文鞭影》　明代萧良友编著，内容都是从古书中摘取来的一些故事，四字一句，每两句自成一联，按韵谱列为长编。旧时书塾常采用为儿童课本。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-551-7609.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-551-7611.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-551.html" action-type="chapterComment" class="comment"><i></i>准风月谈章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

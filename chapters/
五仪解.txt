@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孔子家语》正文_五仪解_王肃作品 - 维普阅读网</title>
+<meta name="keywords" content="孔子家语,孔子家语原文,孔子家语阅读,五仪解全文,王肃作品" />
+<meta name="description" content="孔子家语原文阅读,五仪解全文在线阅读,王肃作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-349-5172.html";
+var nextpage="novel-read-349-5174.html";
+var indexpage = "novel-chapter-349.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-349.html">孔子家语</a></strong>
+<strong><a href="novel-chapter-349.html">孔子家语目录</a></strong>
+<span>五仪解</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-349-5172.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>五仪解</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王肃&amp;searchsubmit=yes"  target="_blank">王肃</a><span class="divide">|</span>发布时间：2014-09-05 21:38:27<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>哀公问于孔子曰：“寡人欲论鲁国之士，与之为治，敢问如何取之？”孔子对曰：“生今之世，志古之道，居今之俗，服古之服，舍此而为非者，不亦鲜乎？”曰：“然则章甫絇履，章甫冠也絇履履头有钩饰也绅带缙笏者，皆贤人也。”绅大带缙捶也笏所以执书思对命孔子曰：“不必然也。丘之所言，非此之谓也。夫端衣玄裳，冕而乘轩者，则志不在于食焄；端衣玄裳斋服也轩轩车焄辛菜也斩衰管菲，杖而歠粥者，则志不在于酒肉。生今之世，志古之道，居今之俗，服古之服，谓此类也。”公曰：“善哉！尽此而已乎？”孔子曰：“人有五仪，有庸人、有士人、有君子、有贤人、有圣人，审此五者，则治道毕矣。”公曰：“敢问何如斯可谓之庸人？”孔子曰：“所谓庸人者，心不存慎终之规，口不吐训格之言，格法不择贤以托其身，不力行以自定；见小闇大，而不知所务，从物如流，不知其所执；此则庸人也。”公曰：“何谓士人？”孔子曰：“所谓士人者，心有所定，计有所守，虽不能尽道术之本，必有率也；率犹行也虽不能备百善之美，必有处也。是故知不务多，必审其所知；言不务多，必审其所谓；所务者谓言之要也行不务多，必审其所由。智既知之，言既道之，得其要也行既由之，则若性命之形骸之不可易也。富贵不足以益，贫贱不足以损。此则士人也。”公曰：“何谓君子？”孔子曰：“所谓君子者，言必忠信而心不怨，怨咎仁义在身而色无伐，无伐善之色也思虑通明而辞不专；笃行信道，自强不息，油然若将可越而终不可及者。此则君子也。”油然不进之貌也越过也公曰：“何谓贤人？”孔子曰：“所谓贤人者，德不踰闲，闲法行中规绳，言足以法于天下，而不伤于身，言满天下无口过也道足以化于百姓，而不伤于本；本亦身富则天下无宛财，宛积也古字亦或作此故或误不着草矣施则天下不病贫。此则贤者也。”公曰：“何谓圣人？”孔子曰：“所谓圣者，德合于天地，变通无方，穷万事之终始，协庶品之自然，敷其大道而遂成情性；明并日月，化行若神，下民不知其德，睹者不识其邻。此谓圣人也。”邻以喻界畔也公曰：“善哉！非子之贤，则寡人不得闻此言也。虽然，寡人生于深宫之内，长于妇人之手，未尝知哀，未尝知忧，未尝知劳，未尝知惧，未尝知危，恐不足以行五仪之教若何？”孔子对曰：“如君之言已知之矣，则丘亦无所闻焉。”君如此言已为知之故无所复言谦以诱进哀公矣公曰：“非吾子，寡人无以启其心，吾子言也。”孔子曰：“君子入庙，如右，登自阼阶，仰视榱桷，俯察机筵，其器皆存，而不睹其人，君以此思哀，则哀可知矣。昧爽夙兴，正其衣冠，爽明也昧明始明也夙早兴起平旦视朝，虑其危难，一物失理，乱亡之端，君以此思忧，则忧可知矣。日出听政，至于中●，中日中●映中诸侯子孙，？来为宾，行礼揖让，慎其威仪，君以此思劳，则劳亦可知矣。缅然长思，出于四门，周章远望，睹亡国之墟，必将有数焉，言亡国故墟非但一君以此思惧，则惧可知矣。夫君者，舟也；庶人者，水也；水所以载舟，亦所以覆舟，君以此思危，则危可知矣。君既明此五者，又少留意于五仪之事，则于政治，何有失矣。”<br/>　　哀公问于孔子曰：“请问取人之法。”孔子对曰：“事任于官，言各当以其所能之事任于官无取捷捷，无取钳钳，钳钳妄对不谨诚无取啍啍，啍啍多言捷捷贪也，捷捷而不已食所以为贪也钳钳乱也，啍啍诞也。诞欺诈也故弓调而后求劲焉，马服而后求良焉，士必悫而后求智能者焉，不悫而多能，譬之豺狼不可迩。”言人无智者虽性悫信不能为大恶不悫信而有智然后乃可畏也<br/>　　哀公问于孔子曰：“寡人欲吾国小而能守，大则攻，其道如何？”孔子对曰：“使君朝廷有礼，上下相亲，天下百姓皆君之民，将谁攻之？苟为此道，民畔如归，皆君之雠也，将与谁守？”公曰：“善哉！于是废山泽之禁，弛关市之税，以惠百姓。”<br/>　　哀公问于孔子曰：“吾闻君子不博，有之乎？”孔子曰：“有之。”公曰：“何为？”对曰：“为其二乘。”公曰：“有二乘，则何为不博？”子曰：“为其兼行恶道也。”此具博三十六道也哀公惧焉，有间，复问曰：“若是乎君之恶恶道至甚也？”孔子曰：“君子之恶恶道不甚，则好善道亦不甚；好善道不甚，则百姓之亲上亦不甚。诗云：‘未见君子，忧心惙惙，亦既见止，亦既觏止，我心则悦。’诗之好善道甚也如此。”公曰：“美哉！夫君子成人之善，不成人之恶，微吾子言焉，吾弗之闻也。”<br/>　　哀公问于孔子曰：“夫国家之存亡祸福，信有天命，非唯人也。”孔子对曰：“存亡祸福，皆己而已，天灾地妖，不能加也。”公曰：“善！吾子之言，岂有其事乎？”孔子曰：“昔者殷王帝辛之世，帝纣有雀生大鸟于城隅焉，占之曰：‘凡以小生大，则国家必王而名必昌。’于是帝辛介雀之德，介助也以雀之德为助也不修国政，亢暴无极，朝臣莫救，外寇乃至殷国以亡，此即以己逆天时，诡福反为祸者也。又其先世殷王太戊之时，道缺法圮，以致夭櫱、桑榖于朝，七日大拱，占之者曰：‘桑榖野木而不合生朝，意者国亡乎！’太戊恐骇，侧身修行，思先王之政，明养民之道，三年之后，远方慕义重译至者，十有六国，此即以己逆天时，得祸为福者也。故天灾地妖，所以儆人主者也；寤梦征？，所以儆人臣者也；儆戒灾妖不胜善政，寤梦不胜善行，能知此者，至治之极也，唯明王达此。”公曰：“寡人不鄙固此，亦不得闻君子之教也。”<br/>　　哀公问于孔子曰：“智者寿乎？仁者寿乎？”孔子对曰：“然，人有三死，而非其命也，行己自取也。夫寝处不时，饮食不节，逸劳过度者，疾共杀之；居下位而上干其君，嗜欲无厌而求不止者，刑共杀之；以少犯众，以弱侮强，忿怒不类，动不量力者，兵共杀之。此三者死非命也，人自取之。若夫智士仁人，将身有节，将行动静以义，喜怒以时，无害其性，虽得寿焉，不亦可乎？”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-349-5172.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-349-5174.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-349.html" action-type="chapterComment" class="comment"><i></i>孔子家语章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

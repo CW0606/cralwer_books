@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《大戴礼记》正文_诰志第七十一_汉·戴德作品 - 维普阅读网</title>
+<meta name="keywords" content="大戴礼记,大戴礼记原文,大戴礼记阅读,诰志第七十一全文,汉·戴德作品" />
+<meta name="description" content="大戴礼记原文阅读,诰志第七十一全文在线阅读,汉·戴德作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1427-26432.html";
+var nextpage="novel-read-1427-26434.html";
+var indexpage = "novel-chapter-1427.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1427.html">大戴礼记</a></strong>
+<strong><a href="novel-chapter-1427.html">大戴礼记目录</a></strong>
+<span>诰志第七十一</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1427-26432.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>诰志第七十一</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=汉·戴德&amp;searchsubmit=yes"  target="_blank">汉·戴德</a><span class="divide">|</span>发布时间：2016-07-25 21:53:21<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>公曰："诰志无荒，以会民义，斋戒必敬，会时必节，牺牲必全，齐盛必洁，上下禋祀，外内无失节，其可以省怨远灾乎？"子曰："丘未知其可以省怨也！"<br/><br/>　　公曰："然则何以事神？"子曰："以礼会时。夫民见其礼则上下援，援则乐，乐斯毋忧，以此省怨而乱不作也。夫礼会其四时，四孟四季，五牲五穀，顺至必时其节也，丘未知其可以为远灾也。"<br/><br/>　　公曰："然则为此何以？"子曰："知仁合则天地成，天地成则庶物时，庶物时则民财敬，民财敬以时作；时作则节事，节事以动众，动众则有极；有极以使民则劝，劝则有功，有功则无怨，无怨则嗣世久，唯圣人！<br/><br/>　　是故政以胜众，非以陵众；众以胜事，非以伤事；事以靖民，非以徵民；故地广而民众，长之禄也。<br/><br/>　　丘闻周太史曰："政不率天，下不由人，则凡事易坏而难成。"虞史伯夷曰："明，孟也。幽，幼也。明幽，雌雄也。雌雄迭兴而顺至，正之统也。日归于西，起明于东；月归于东，起明于西。"<br/><br/>　　虞夏之历，正建於孟春。於时冰泮发蛰，百草权舆，瑞雉无释。物乃岁俱生於东，以顺四时，卒於冬分。<br/><br/>　　於时鸡三号，卒明。载于青色，抚十二月节，卒于丑。日月成岁历，再闰以顺天道，此谓岁虞汁月。<br/><br/>　　天曰作明。曰与，惟天是戴。地曰作昌，曰与，惟地是事。人曰作乐，曰与，惟民是嬉。民之动能，不远厥事；民之悲色，不远厥德。此谓表里时合，物之所生，而蕃昌之道如此。<br/><br/>　　天生物，地养物，物备兴而时用常节曰圣人，主祭于天曰天子。天子崩，步于四川，代于四山，卒葬曰帝。<br/><br/>　　天作仁，地作富，人作治。乐治不倦，财富时节，是故圣人嗣则治。<br/><br/>　　文王治以俟时，汤治以伐乱；禹治以移众，众服，以立天下；尧贵以乐治时，举舜；舜治以德使力。<br/><br/>　　在国统民如恕，在家抚官而国，安之勿变，劝之勿沮，民咸废恶如进良，上诱善而行罚，百姓尽於仁而遂安之，此古之明制之治天下也。<br/><br/>　　仁者为圣，贵次，力次，美次，射御次，古之治天下者必圣人。<br/><br/>　　圣人有国，则日月不食，星辰不陨，勃海不运，河不满溢，川泽不竭，山不崩解，陵不施谷，川浴不处，深渊不涸。<br/><br/>　　於时龙至不闭，凤降忘翼，蛰兽忘攫，爪鸟忘距，蜂虿不螫婴儿，●虻不食夭驹，雒出服，河出图。<br/><br/>　　自上世以来，莫不降仁，国家之昌，国家之臧，信仁。是故不赏不罚，如民咸尽力；车不建戈，远迩咸服，允使来往，地宾毕极；无怨无恶，率惟懿德。<br/><br/>　　此无空礼，无空名，贤人并忧，残毒以时省；举良良，举善善，恤民使仁，日斅仁宾也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1427-26432.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1427-26434.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1427.html" action-type="chapterComment" class="comment"><i></i>大戴礼记章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

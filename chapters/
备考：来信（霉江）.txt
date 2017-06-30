@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《集外集》正文_备考：来信（霉江）_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="集外集,集外集原文,集外集阅读,备考：来信（霉江）全文,鲁迅作品" />
+<meta name="description" content="集外集原文阅读,备考：来信（霉江）全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-540-6921.html";
+var nextpage="novel-read-540-6923.html";
+var indexpage = "novel-chapter-540.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-540.html">集外集</a></strong>
+<strong><a href="novel-chapter-540.html">集外集目录</a></strong>
+<span>备考：来信（霉江）</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-540-6921.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>备考：来信（霉江）</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-30 19:23:09<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>鲁迅先生： <br/><br/>　　从近来《现代评论》之主张单独对英以媚亲日派的政府，侮辱学界之驱章为“打学潮糊涂账”以媚教育当局，骂“副刊至少有产生出来以备淘汰的价值”以侮辱“青年叛徒”及其领导者，藉达其下流的政客式的学者的拍卖人格的阴谋等等方面看来，我们深觉得其他有良心的学者和有人格的青年太少，太没有责任心，太怯懦了！ <br/><br/>　　从牠的消售数目在各种周刊之上看（虽然有许多是送看的），从牠的页数增加上看，我们可以知道卑污恶浊的社会里的读者最欢迎这类学术界中的《红》，《半月》或《礼拜六》。自从《新青年》停刊以后，思想界中再没有得力的"缰南拭鞯某宸娑恿恕Ｈ缃瘛*新青年的老同志有的投降了，有的退伍了，而新的还没练好”，而且“势力太散漫了。”我今天上午着手草《联合战线》一文，致猛进社，语丝社，莽原社同人及全国的叛徒们的，目的是将三社同人及其他同志联合起来，印行一种刊物，注全力进攻我们本阶级的恶势力的代表：一系反动派的章士钊的《甲寅》，一系与反动派朋比为好的《现代评论》。我正在写那篇文章的时候，Ｎ君拿着一份新出来的《语丝》，指给我看这位充满“阿Ｑ精神”兼“推敲大教育家”江绍原的“小杂种”，里面说道，“至于民报副刊，有人说是共产党办的。”江君翻打自己的嘴巴，乱生“小杂种”，一被谑于米先生（见京报副刊），再见斥于作《阿Ｑ的一点精神》（见民报副刊）的辛人，老羞成怒，竟迁怒到民副记者的身上去了。最巧妙的是江君偏在不入大人老爷之×（原刊不清）的语丝上诡谲地加上“有人说”三个字。Ｎ君××（原刊不清）“大约这位推敲大家在共出十五期的民副上，曾推出一句共产的宣来同而睡，（原刊如此）时对于这位归国几满三年，从未作过一句宣传的文章，从未加入任何政党，从未卷入任何风潮，从未作任何活动的民副记者——一个颓废派诗人梭罗古勃的爱慕者，也终不能查出共产党的证据，所以只能加上‘有人说’三字，一方面可以摆脱责任，一方面又可造谣。 <br/><br/>　　而拈阄还凑巧正拈到投在语丝上……”我于是立刻将我的《联合战线》一文撕得粉碎；我万没想到这《现代评论》上的好文章，竟会在《语丝》上刊出来。实在，在这个世界上谁是谁的伙伴或仇敌呢？我们永远感受着胡乱握手与胡乱刺杀的悲哀。 <br/><br/>　　我看你们时登民副记者的文章，那末，你不是窝藏共产党的（即使你不是共产党）么？至少“有人说”你是的。章士钊褫你的职还不足以泄其愤吧，谨防着他或者又会“私禀执政”把你当乱党办的。一笑。 <br/><br/>　　下一段是Ｎ君仿江绍原的“小杂种”体编的，我写的—— <br/><br/>　　“……胡适之怎样？……想起来了，那位博士近来盛传被‘皇上’‘德化’了，招牌怕不香吧。 <br/><br/>　　“陈西滢怎样？……听说近来被人指为‘英日帝国主义者和某军阀的走狗章士钊’的‘党徒’……“至于江绍原，有人说他是一般人所指为学者人格拍卖公司现代评论社的第O支部总经理。……””竞�瓤筛�г�拱祝�衅斫陶��呛伞* <br/><br/>　　霉江谨上。 <br/><br/><br/><br/>　　（１）本篇最初发表于一九二五年九月四日《莽原》周刊第二十期。 <br/><br/>　　（２）江先生即江绍原，安徽旌德人，当时北京大学讲师。他在《语丝》周刊第四十二期（一九二五年八月三十一日）发表《仿近人体骂章川岛》一文，其中多用反话，如说“至于《民报》副刊，有人说是共产党办的”等，霉江误以为是正面的诬蔑，表示愤慨。（３）章士钊（１８８１—１９７３）字行严，湖南长沙人，当时任段祺瑞执政府司法总长兼教育总长。他在所办的《甲寅》周刊发表的一些文章中，常有“密呈执政”和“密言于执政”一类话。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-540-6921.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-540-6923.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-540.html" action-type="chapterComment" class="comment"><i></i>集外集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

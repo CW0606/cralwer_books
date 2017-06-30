@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《辽史》正文_卷一百五 列传第三十五_脱脱作品 - 维普阅读网</title>
+<meta name="keywords" content="辽史,辽史原文,辽史阅读,卷一百五 列传第三十五全文,脱脱作品" />
+<meta name="description" content="辽史原文阅读,卷一百五 列传第三十五全文在线阅读,脱脱作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1434-27589.html";
+var nextpage="novel-read-1434-27591.html";
+var indexpage = "novel-chapter-1434.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1434.html">辽史</a></strong>
+<strong><a href="novel-chapter-1434.html">辽史目录</a></strong>
+<span>卷一百五 列传第三十五</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1434-27589.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷一百五 列传第三十五</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=脱脱&amp;searchsubmit=yes"  target="_blank">脱脱</a><span class="divide">|</span>发布时间：2016-08-16 22:52:03<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>◎能吏<br/><br/>　　○大公鼎 萧文 马人望 耶律铎鲁斡 杨遵勖 王棠<br/><br/>　　汉以玺书赐二千石，唐疏刺史、县令于屏，以示奖率，故二史有《循吏》、《良吏》之传。辽自太祖创业，太宗抚有燕、蓟，任贤使能之道，亦略备矣。然惟朝廷参置国官，吏州县者多遵唐制。历世既久，选举益严。时又分遣重臣巡行境内，察贤否而进退之。是以治民、理财、决狱、弭盗，各有其人。考其德政，虽未足以与诸循、良之列，抑亦可谓能吏矣。作《能吏传》。<br/><br/>　　大公鼎，渤海人，先世籍辽阳率宾县。统和间，徙辽东豪右以实中京，因家于大定。曾祖忠，礼宾使。父信，兴中主簿。公鼎幼庄愿，长而好学。咸雍十年，登进士第，调沈州观察判官。时辽东雨水伤稼，北枢密院大发濒河丁壮以完堤防。有司承令峻急，公鼎独曰：“边障甫宁，大兴役事，非利国便农之道。”乃疏奏其事。朝廷从之，罢役，水亦不为灾。濒河千里，人莫不悦。改良乡令，省徭役，务农桑，建孔子庙学，部民服化。累迁兴国军节度副使。时有隶鹰坊者，以罗毕为名，扰害田里。岁久，民不堪。公鼎言于上，即命禁戢。会公鼎造朝，大臣谕上嘉纳之意，公鼎曰：“一郡获安，诚为大幸；他郡如此者众，愿均其赐于天下。”从之。徙长春州钱帛都提点。车驾如春水，贵主例为假贷，公鼎曰：“岂可辍官用，徇人情？”拒之。颇闻怨詈语，曰：“此吾职，不敢废也。”俄拜大理卿，多所平反。天祚即位，历长宁军节度使、南京副留守，改东京户部使。时盗杀留守萧保先，始利其财，因而倡乱。民亦互生猜忌，家自为斗。公鼎单骑行郡，陈以祸福，众皆投兵而拜曰：“是不欺我，敢弗听命。”安辑如故。拜中京留守，赐贞亮功臣，乘传赴官。时盗贼充斥，有遇公鼎于路者，即叩马乞自新。公鼎给以符约，俾还业，闻者接踵而至。不旬日，境内清肃。天祚闻之，加赐保节功臣。时人心反侧，公鼎虑生变，请布恩惠以安之，为之肆赦。公鼎累表乞归，不许。会奴贼张撒八率无赖啸聚，公鼎欲击而势有不能。叹曰：“吾欲谢事久矣，为世故所牵，不幸至此，岂命也夫！”因忧愤成疾。保大元年卒，年七十九。<br/><br/>　　子昌龄，左承制；昌嗣，洺州刺史；昌朝，镇宁军节度。<br/><br/>　　萧文，字国华，外戚之贤者也。父直善，安州防御使。文笃志力学，喜愠不形。大康初，掌秦越国王中丞司事，以才干称。寻知北面贴黄。王邦彦子争荫，数岁不能定，有司以闻。上命文诘之，立决。车驾将还宫，承诏阅习仪卫，虽执事林林，指顾如一。迁同知奉国军节度使，历国舅都监。寿隆末，知易州，兼西南面安抚使。高阳土沃民富，吏其邑者，每黩于货，民甚苦之。文始至，悉去旧弊，务农桑，崇礼教，民皆化之。时大旱，百九忧甚，文祷之辄雨。属县又蝗，议捕除之，文曰：“蝗，天灾，捕之何益！”但反躬自责，蝗尽飞去，遗者亦不食苗，散在草莽，为乌鹊所食。会霪雨不止，文复随祷而霁。是岁，大熟。朝廷以文可大用，迁唐古部节度使，高阳勒石颂之。后不知所终。<br/><br/>　　马人望，字俨叔，高祖胤卿，为石晋青州刺史，太宗兵至，坚守不降。城破被执，太宗义而释之，徙其族于医巫闾山，因家焉。曾祖廷煦，南京留守。祖渊，中京副留守。父诠，中京文思使。人望颖悟。幼孤，长以才学称。咸雍中，第进士，为松山县令。岁运泽州官炭，独役松山，人望请于中京留守萧吐浑均役他邑。吐浑怒，下吏，系几百日。复引诘之，人望不屈，萧喜曰：“君为民如此，后必大用。”以事闻于朝，悉从所请。徙知涿州新城县。县与宋接境，驿道所从出。人望治不扰，吏民畏爱。近臣有聘宋还者，帝问以外事，多荐之，擢中京度支司盐铁判官。转南京三司度支判官，公私兼裕。迁警巡使。京城狱讼填委，人望处决，无一冤者。曾检括户口，未两旬而毕。同知留守萧保先怪而问之，人望曰：“民产若括之无遗，他日必长厚敛之弊，大率十得六七足矣。”保先谢曰：“公虑远，吾不及也。”<br/><br/>　　先是，枢密使乙辛窃弄威柄，卒害太子。及天祚嗣位，将报父仇，选人望与萧报恩究其事。人望平心以处，所活甚众。改上京副留守。会剧贼赵钟哥犯阙，劫宫女、御物，人望率众捕之。右臂中矢，炷以艾，力疾驰逐，贼弃所掠而遁。人望令关津讥察行旅，悉获其盗。寻擢枢密都承旨。<br/><br/>　　宰相耶律俨恶人望与己异，迁南京诸宫提辖制置。岁中，为保静军节度使。有二吏凶暴，民畏如虎。人望假以辞色，阴令发其事，黥配之。是岁诸处饥乏，惟人望所治粒食不阙，路不鸣桴。遥授彰义军节度使。迁中京度支使，始至，府廪皆空；视事半岁，积粟十五万斛，钱二十万繦。徙左散骑常侍，累迁枢密直学士。未几，拜参知政事，判南京三司使事。时钱粟出纳之弊，惟燕为甚。人望以缣帛为通历，凡库物出入，皆使别籍，名曰“临库”。奸人黠吏莫得轩轾，乃以年老扬言道路。朝论不察，改南院宣徽使，以示优老。逾年，天祚手书“宣马宣徽”四字诏之。既至，谕曰：“以卿为老，误听也。”遂拜南院枢密使。人不敢干以私，用人必公议所当与者。如曹勇义、虞仲文尝为奸人所挤，人望推荐，皆为名臣。当时民所甚患者，驿递、马牛、旗鼓、乡正、厅隶、仓司之役，至破产不能给。人望使民出钱，官自募役，时以为便。久之请老，以守司徒、兼侍中致仕。卒，谥曰文献。<br/><br/>　　人望有操守，喜怒不形，未尝附丽求进。初除执政，家人贺之。人望愀然曰：“得勿喜，失勿忧。抗之甚高，挤之必酷。”其畏慎如此。<br/><br/>　　耶律铎鲁斡，字乙辛隐，季父房之后。廉约重义。重熙末，给事诰院。咸雍中，累迁同知南京留守事。被召，以部民恳留，乃赐诏褒奖。大康初，改西南面招讨使，为北面林牙，迁左夷离毕。大安五年，拜南府宰相。寿隆初，致仕，卒。<br/><br/>　　铎鲁斡所至有声，吏民畏爱。及退居乡里，子普古为乌古部节度使，遣人来迎。既至，见积委甚富。谓普古曰：“辞亲入仕，当以裕国安民为事。枉道欺君，以苟货利，非吾志也。”命驾而归。普古后为盗所杀。<br/><br/>　　杨遵勖，字益诫，涿州范阳人。重熙十九年登进士第，调儒州军事判官，累迁枢密院副承旨。咸雍三年，为宋国贺正使；还，迁都承旨。天下之事，丛于枢府，簿书填委。遵勖一目五行俱下，剖决如流，敷奏详敏。上嘉之。奉诏征户部逋钱，得四十余万缗，拜枢密直学士，改枢密副使。大康初，参知政事，徙知枢密院事，兼门下侍郎、平章事，拜南府宰相。耶律乙辛诬皇太子，诏遵勖与燕哥按其事，遵勖不敢正言，时议短之。寻拜北府宰相。大安中暴卒，年五十六。赠守司空，谥康懿。子晦，终昭文馆直学士。<br/><br/>　　王棠，涿州新城人。博古善属文。重熙十五年擢进士。乡贡、礼部、廷试对皆第一。累迁上京盐铁使。或诬以贿，无状，释之。迁东京户部使。大康二年，辽东饥，民多死，请赈恤，从之。三年，入为枢密副使，拜南府宰相。大安末，卒。<br/><br/>　　棠练达朝政，临事不怠，在政府修明法度，有声。<br/><br/>　　论曰：孟子谓“民为贵，社稷次之”，司牧者当如何以尽心。公鼎奏罢完堤役以息民，拒公主假贷以守法，单骑行郡，化盗为良，庶几召、杜之美。文知易州，雨暍应祷，蝗不为灾。人望为民不避囚系，判度支，公私兼裕，亦卓乎未易及已。铎鲁斡吏畏民爱，杨遵勖决事如流，真能吏哉！</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1434-27589.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1434-27591.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1434.html" action-type="chapterComment" class="comment"><i></i>辽史章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

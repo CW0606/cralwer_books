@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《周礼》正文_春官宗伯·肆师_周公旦作品 - 维普阅读网</title>
+<meta name="keywords" content="周礼,周礼原文,周礼阅读,春官宗伯·肆师全文,周公旦作品" />
+<meta name="description" content="周礼原文阅读,春官宗伯·肆师全文在线阅读,周公旦作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-34-832.html";
+var nextpage="novel-read-34-834.html";
+var indexpage = "novel-chapter-34.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-34.html">周礼</a></strong>
+<strong><a href="novel-chapter-34.html">周礼目录</a></strong>
+<span>春官宗伯·肆师</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-34-832.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>春官宗伯·肆师</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=周公旦&amp;searchsubmit=yes"  target="_blank">周公旦</a><span class="divide">|</span>发布时间：2014-07-20 16:55:47<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/>　　肆师之职，掌立国祀之礼，以佐大宗伯。立大祀，用玉帛、牲牷；立次祀，用牲币；立小祀，用牲。以岁时序其祭礼，及其祈珥。大祭祀，展牺牲，系于牢，颁于职人。凡祭祀之卜日，宿为期，诏相其礼；□涤濯，亦如之。祭之日，表齍盛；告絜，展器陈，告备。及果，筑鬻，相治小礼诛其慢怠者。掌兆中庙中之禁令。凡祭祀礼成，则告事毕。大宾客，莅筵几，筑鬻，赞果将。大朝觐，佐傧，共设匪瓮之礼。飨食，授祭，与祝侯禳于疆及郊。大丧，大渳以鬯，则筑鬻，令外内命妇序哭，禁外内命男女之衰不中法者，且授之杖。凡师甸，用牲于社宗，则为位，类造上帝，封于大神。祭兵于山川，亦如之。凡师不功，则助牵主车。凡四时之大甸猎，祭表貉，则为位。尝之日，莅卜来岁之芟。猕之日，莅卜来岁之戒。社之日，莅卜来岁之稼。若国有大故，则令国人祭。岁时之祭祀，亦如之。凡卿大夫之丧，相其礼。凡国之大事，治其礼仪，以佐宗伯。凡国之小事，治其礼仪而掌其事，如宗伯癣礼。<br/><br/>译文：<br/>　　肆师的职责是，掌管建立王国的祭祀之礼，而协助大宗伯。建立大祭祀之礼，[规定]用玉、束帛和纯色而完好的牲；建立次一等祭祀之礼，[规定]用牲和束帛；建立小祭祀之礼，[规定]用牲。按照一年的四季安排祭祀的次序，以及[对新落成的庙]行衅礼。举行大祭祀时，负责察看牺牲，[将符合要求的牲]拴系在栏圈中，交付给充人和监门[负责喂养]。凡祭祀占卜日期、[祭前三日]重申对百官的告诫，以及[祭祀前夕]确定明日开始祭祀的时间，都告教并协助[大宗伯]行礼事。视察祭器是否洗涤干净时也这样做。祭祀那天，[用标签]标明器物中所盛的谷物，报告谷物洁净；察看所陈列的馔具，报告陈列齐备；到将行裸礼时，筑捣郁金香草并煮[而用以调和鬯酒]。告教并协助[群臣]行祭祀的小礼，责罚怠慢礼事的人。掌管各祭坛兆域中以及庙中的禁令。凡祭祀的礼仪完成，就报告礼事完毕。<br/><br/>　　招待来朝诸侯，临视布设的席和几，筑捣郁金香草并煮[而调和鬯酒]，协助[大宗伯向宾客]行裸礼。诸侯大朝觐，[担任承摈而]协助上摈。[王如因故不能参加飨礼或食礼]，就供给所当设的酒食，[派人送到宾客的馆舍去]；[王亲自为宾客]举行飨礼或食礼，就把当祭的食物授给宾[以供宾行食前祭礼]。同小祝一起在畿疆及国郊举行侯祭和禳祭。<br/><br/>　　有大丧，将用郁鬯洗沐尸体，就筑捣郁金香草并煮[而调和鬯酒]。令外命妇和内命妇依次而哭。禁止外内命夫、命妇的丧服不合定制者，并授给他们丧杖。凡征伐或田，用牲祭祀军社和迁主，就设置祭位。用类祭祭及上帝，就封土筑坛以向上帝行祭礼。为军事而告祭山川，也负责设置祭位。凡军队战败，就协助[大司马]牵载有迁庙主的斋车。凡四季大田猎，在立表处举行貉祭，就设立神位。用尝祭祭先王那天，临视占卜明年是否需要芟除杂草。开始田猎那天，临视占卜明年是否有外敌入侵、是否有盗贼。祭社神那天，临视占卜明年庄稼好坏。如果国家遭受大的灾害，就命令国人祭祀。一年四季的常祀也命令国人进行。<br/><br/>　　凡卿大夫的丧事，相赞他们的嫡长子行礼事。凡国家的大事，演习有关的礼仪，而协助大宗伯。凡国家的小事，演习有关的礼仪，而掌管礼事，如同大、小宗伯的礼法。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-34-832.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-34-834.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-34.html" action-type="chapterComment" class="comment"><i></i>周礼章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

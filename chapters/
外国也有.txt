@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《准风月谈》正文_外国也有_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="准风月谈,准风月谈原文,准风月谈阅读,外国也有全文,鲁迅作品" />
+<meta name="description" content="准风月谈原文阅读,外国也有全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-551-7596.html";
+var nextpage="novel-read-551-7598.html";
+var indexpage = "novel-chapter-551.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-551.html">准风月谈</a></strong>
+<strong><a href="novel-chapter-551.html">准风月谈目录</a></strong>
+<span>外国也有</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-551-7596.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>外国也有</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-06 20:40:43<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>符灵 <br/>　　凡中国所有的，外国也都有。 <br/>　　外国人说中国多臭虫，但西洋也有臭虫；日本人笑中国人好弄文字，但日本人也一样的弄文字。不抵抗的有甘地（２）；禁打外人的有希特拉（３）；狄昆希（４）吸鸦片；陀思妥夫斯基（５）赌得发昏。斯惠夫德（６）带枷，马克斯反动。林白（７）大佐的儿子，就给绑匪绑去了。而裹脚和高跟鞋，相差也不见得有多么远。 <br/>　　只有外国人说我们不问公益，只知自利，爱金钱，却还是没法辩解。民国以来，有过许多总统和阔官了，下野之后，都是面团团的，或赋诗，或看戏，或念佛，吃着不尽，真也好像给批评者以证据。不料今天却被我发见了：外国也有的！ <br/>　　“十七日哈伐那电——避居加拿大之古巴前总统麦查度……在古巴之产业，计值八百万美元，凡能对渠担保收回此项财产者，无论何人，渠愿与以援助。又一消息，谓古巴政府已对麦及其旧僚属三十八人下逮捕令，并扣押渠等之财产，其数达二千五百万美元。……” <br/>　　以三十八人之多，而财产一共只有这区区二千五百万美元，手段虽不能谓之高，但有些近乎发财却总是确凿的，这已足为我们的“上峰”雪耻。不过我还希望他们在外国买有地皮，在外国银行里另有存款，那么，我们和外人折冲樽俎（８）　　的时候，就更加振振有辞了。假使世界上只有一家有臭虫，而遭别人指摘的时候，实在也不大舒服的，但捉起来却也真费事。况且北京有一种学说，说臭虫是捉不得的，越捉越多。即使捉尽了，又有什么价值呢，不过是一种消极的办法。最好还是希望别家也有臭虫，而竟发见了就更好。发见，这是积极的事业。哥仑布与爱迪生（９），也不过有了发见或发明而已。 <br/>　　与其劳心劳力，不如玩跳舞，喝咖啡。外国也有的，巴黎就有许多跳舞场和咖啡店。 <br/>　　即使连中国都不见了，也何必大惊小怪呢，君不闻迦勒底与马基顿乎（１０）？—— <br/>　　外国也有的！十月十九日。 <br/>　　<br/>===============================================================<br/>　　　　　 <br/>　　（１）　本篇最初发表于一九三三年十月二十三日《申报自由谈》。 <br/>　　（２）　甘地（Ｍ．Ｇａｎｄｈｉ，１８６９—１９４８）　印度民族独立运动领袖。他提出“非暴力抵抗”口号，发起“不合作运动”，领导印度人民反抗当时统治印度的英国殖民政府。 <br/>　　（３）　禁打外人的有希特拉　据一九三三年八月二十一日《申报》载：德国国社党冲锋队队员殴伤美国医生慕尔比希，希特勒出于外交需要，即派员赴美使馆道歉，并下令禁止冲锋队殴打外侨。<br/>　　（４）　狄昆希（Ｔ．Ｄｅ　Ｑｕｉｎｃｅｙ，１７８５—１８５９）　英国散文家。曾服食鸦片；著有《一个吃鸦片的英国人的忏悔》，于一八二二年出版。<br/>　　（５）　陀思妥夫斯基（_．Ｍ．`GQRGXYQ\JS，１８２１—１８８１）　通译陀斯妥耶夫斯基，俄国作家。主要作品有长篇小说《穷人》、《被侮辱与被损害的》、《罪与罚》等。在他夫人的回忆录中曾谈到他赌博的事，并引有陀思妥耶夫斯基在一八七一年四月二十八日信中的话说：“那个使我痛苦了十年的下流的幻想……消失了。我以前老是梦想赢钱，梦想得很厉害，很热烈，……赌博将我全身缚住了。……但是现在我要想到工作，我不再像以前那样夜夜梦想着赌博的结果了。”<br/>　　（６）　斯惠夫德（Ｊ．Ｓｗｉｆｔ，１６６７—１７４５）　通译斯威夫特，英国作家。著有《格列佛游记》等。鲁迅这里所说，似系另一英国作家、《鲁滨孙飘流记》的著者笛福（Ｄ．Ｄｅｆｏｅ，约１６６０—１７３１）之误。一七○三年笛福曾为了一本讽刺教会的小册子《惩治不从国教者的捷径》，被英国政府逮捕，同年七月二十九日至三十一日，被罚在闹市带枷示众三天。 <br/>　　（７）　林白（Ｃ．Ａ．Ｌｉｎｄｂｅｒｇｈ，１９０２—１９７４）　美国飞行家，一九二七年五月首次驾机横渡大西洋，完成由纽约到巴黎的不着陆飞行，获空军预备队上校衔。一九三二年三月，他的儿子在纽约被绑匪绑去。 <br/>　　（８）　折冲樽俎　语出《晏子春秋内篇杂上》。原指诸侯在会盟的宴席上制胜对方，后泛指外交谈判。 <br/>　　（９）　哥仑布（Ｃ．Ｃｏｌｕｍｂｕｓ，约１４５１—１５０６）　意大利探险家，美洲大陆的发现者。爱迪生，参看本卷第１５页注（４）。<br/>　　（１０）　迦勒底（Ｃｈａｌｄａｅａ）　古代西亚经济繁盛的奴隶制国家，又称新巴比伦王国。公元前六二六年建立，前五三八年为波斯人所灭。马基顿（Ｍａｃｅｄｏｎｉａ），通译马其顿，古代巴尔干半岛中部的奴隶制军事强国，约形成于公元前六世纪，前二世纪被罗马帝国吞并。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-551-7596.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-551-7598.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-551.html" action-type="chapterComment" class="comment"><i></i>准风月谈章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

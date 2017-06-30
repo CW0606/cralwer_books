@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《长杨赋》正文_长杨赋_扬雄作品 - 维普阅读网</title>
+<meta name="keywords" content="长杨赋,长杨赋原文,长杨赋阅读,长杨赋全文,扬雄作品" />
+<meta name="description" content="长杨赋原文阅读,长杨赋全文在线阅读,扬雄作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-298.html";
+var nextpage="novel-chapter-298.html";
+var indexpage = "novel-chapter-298.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-298.html">长杨赋</a></strong>
+<strong><a href="novel-chapter-298.html">长杨赋目录</a></strong>
+<span>长杨赋</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-298.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>长杨赋</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=扬雄&amp;searchsubmit=yes"  target="_blank">扬雄</a><span class="divide">|</span>发布时间：2014-09-01 21:35:36<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>明年，上将大夸胡人以多禽兽。秋，命右扶风发民入南山。西自褒斜，东至弘农，南敺汉中，张罗网罝罘，捕熊罴豪猪，虎豹狖玃，狐兔麋鹿，载以槛车，输长杨射熊馆。以网为周阹，纵禽兽其中，令胡人手搏之，自取其获，上亲临观焉。是时，农民不得收敛。雄从至射熊馆，还，上《长杨赋》。聊因笔墨之成义章，故借翰林以为主人，子墨为客卿以风。其辞曰：<br/><br/>　　子墨客卿问于翰林主人曰：盖闻圣主之养民也，仁沾而恩洽，动不为身。今年猎长杨，先命右扶风，左太华而右褒斜，椓巀嶭而为弋，纤南山以为罝，罗千乘于林莽，列万骑于山隅，帅军踤阹，锡戎获胡。搤熊罴，拖豪猪，木拥枪纍，以为储胥，此天下之穷览极观也。虽然，亦颇扰于农人。三旬有余，其勤至矣，而功不图。恐不识者外之则以为娱乐之游，内之则不以为乾豆之事，岂为民乎哉？且人君以玄默为神，澹泊为德，今乐远出以露威灵，数摇动以罢车甲，本非人主之急务也。蒙窃惑焉。翰林主人曰：吁，客何谓之兹耶？若客所谓知其一未睹其二，见其外不识其内也。仆尝倦谈，不能一二其详，请略举其凡，而客自览其切焉。客曰：唯唯。<br/><br/>　　主人曰；昔有强秦，封豕其土，窫窳其民，凿齿之徒相与摩牙而争之。豪俊麋沸云扰，群黎为之不康。于是上帝眷顾高祖，高祖奉命，顺斗极，运天关，横钜海，漂昆仑，提剑而叱之。所过麾城摲邑，下将降旗，一日之战，不可殚记。当此之勤，头蓬不暇梳，饥不及餐，鞮鍪生虮虱，介胄被沾汗，以为万姓请命乎皇天。乃展人之所诎，振人之所乏，规亿载，恢帝业，七年之间而天下密如也。<br/><br/>　　逮至圣文，随风乘流，方垂意于至宁。躬服节俭，绨衣不獘，革鞜不穿，大厦不居，木器无文。于是后宫贱瑇瑁而疏珠玑，却翡翠之饰，除雕琢之巧。恶丽靡而不近，斥芬芳而不御。抑止丝竹晏衍之乐，憎闻郑卫幼砂之声。是以玉衡正而泰阶平也。<br/><br/>　　其后熏鬻作虐，东夷横畔，羌戎睚眥，闽越相乱，遐 为之不安，中国蒙被其难。于是圣武勃怒，爰整其旅，乃命骠卫，汾沄沸渭，云合电发，猋腾波流，机骇蠭轶，疾如奔星，击如震霆。碎轒辒，破穹庐，脑沙幕，髓余吾。遂躐乎王庭，驱橐驼，烧熐蠡，分剓单于，磔裂属国。夷阬谷，拔卤莽，刊山石，蹂尸舆厮，系累老弱。 铤瘢耆，金镞淫夷者数十万人。皆稽颡树颌，扶服蛾伏，二十余年矣，尚不敢惕息。夫天兵四临，幽都先加，回戈邪指，南越相夷，靡节西征，羌僰东驰。是以遐方疏俗，殊邻绝党之域，自上仁所不化，茂德所不绥，莫不 蹻足抗首，请献厥珍。使海内澹然，永亡边城之灾，金革之患。<br/><br/>　　今朝廷纯仁，遵道显义，并包书林，圣风云靡，英华沈浮，洋溢八区。普天所覆，莫不沾儒。士有不谈王道者，则樵夫笑之。意者以为事罔隆而不杀，物靡盛而不亏，故平不肆险，安不忘危。乃时以有年出兵，整舆竦戎，振师五柞，习马长杨，简力狡兽，校武票禽。乃萃然登南山，瞰乌弋，西厌月 ，东震日域，又恐后代迷于一时之事，常以此为国家之大务，淫荒田猎，陵夷而不御也。是以车不安轫，日未靡旃，从者仿佛，委属而还；亦所以奉太尊之烈，遵文武之度，复三王之田，反五帝之虞。使农不辍耰，工不下机，婚姻以时，男女莫违，出凯弟，行简易，矜劬劳，休力役，见百年，存孤弱，帅与之同苦乐。然后陈钟鼓之乐，鸣鞀磬之和，建碣磍之虡，拮隔鸣球，掉八列之舞。酌允铄，肴乐胥，听庙中之雍雍，受神人之福祜。歌投颂，吹合雅，其勤若此，故真神之所劳也。方将俟元符，以禅梁甫之基，增泰山之高，延光于将来，比荣乎往号。岂徒欲淫览浮观，驰骋秔稻之地，周流梨栗之林，蹂践刍荛，夸诩众庶，盛狖狸之收，多麋鹿之获哉！且盲者不见咫尺，而离娄烛千里之隅。客徒爱胡人之获我禽兽，曾不知我亦已获其王侯。<br/><br/>　　言未卒，墨客降席，再拜稽首曰：大哉体乎！允非小人之所能及也。乃今日发蒙，廓然已昭矣。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-298.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-298.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-298.html" action-type="chapterComment" class="comment"><i></i>长杨赋章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

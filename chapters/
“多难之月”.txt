@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《伪自由书》正文_“多难之月”_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="伪自由书,伪自由书原文,伪自由书阅读,“多难之月”全文,鲁迅作品" />
+<meta name="description" content="伪自由书原文阅读,“多难之月”全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-550-7456.html";
+var nextpage="novel-read-550-7458.html";
+var indexpage = "novel-chapter-550.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-550.html">伪自由书</a></strong>
+<strong><a href="novel-chapter-550.html">伪自由书目录</a></strong>
+<span>“多难之月”</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-550-7456.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>“多难之月”</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-04 20:58:20<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　前月底的报章上，多说五月是“多难之月”。这名目，以前是没有见过的。现在这“多难之月”已经临头了。从经过了的日子来想一想，不错，五一是“劳动节”，可以说很有些“多难”；五三是济南惨案（２）纪念日，也当然属于“多难”之一的。但五四是新文化运动的发扬，五五是革命政府成立（３）的佳日，为什么都包括在“难”字堆里的呢？这可真有点儿希奇古怪！ <br/><br/>　　不过只要将这“难”字，不作国民“受难”的“难”字解，而作令人“为难”的“难”字解，则一切困难，可就涣然冰释了。 <br/><br/>　　时势也真改变得飞快，古之佳节，后来自不免化为难关。 <br/><br/>　　先前的开会，是听大众在空地上开的，现在却要防人“乘机捣乱”了，所以只得函请代表，齐集洋楼，还要由军警维持秩序。（４）先前的要人，虽然出来要“清道”（俗名“净街”），但还是走在地上的，现在却更要防人“谋为不轨”了，必得坐着飞机，须到出洋的时候，才能放心送给朋友。（５）名人逛一趟古董店，先前也不算奇事情的，现在却“微服”（６）“微服”的嚷得人耳聋，只好或登名山，或入古庙，比较的免掉大惊小怪。总而言之，可靠的国之柱石，已经多在半空中，最低限度也上了高楼峻岭了，地上就只留着些可疑的百姓，实做了“下民”，且又民匪难分，一有庆吊，总不免“假名滋扰”。向来虽靠“华洋两方当局，先事严防”，没有闹过什么大乱子，然而总比平时费力的，这就令人为难，而五月也成了“多难之月”，纪念的是好是坏，日子的为戚为喜，都不在话下。 <br/><br/>　　但愿世界上大事件不要增加起来；但愿中国里惨案不要再有；但愿也不再有什么政府成立；但愿也不再有伟人的生日和忌日增添。否则，日积月累，不久就会成个“多难之年”，不但华洋当局，老是为难，连我们走在地面上的小百姓，也只好永远身带“嫌疑”，奉陪戒严，呜呼哀哉，不能喘气了。五月五日。 <br/>　<br/>===============================================================<br/><br/>　　（１）本篇最初发表于一九三三年五月八日《申报·自由谈》，署名丁萌。 <br/><br/>　　（２）济南惨案指一九二八年五月三日，日本帝国主义派兵侵占济南，打死打伤中国军民五千余人的五三惨案。<br/><br/>　　（３）革命政府成立指一九二一年孙中山为反对北洋军阀统治的北京政府，取消了原广州军政府，于五月五日在广州正式成立中华民国政府，并就任非常大总统。 <br/><br/>　　（４）一九三三年五月五日，国民党上海市党部举行“革命政府成立十二周年纪念”大会，事前通知各界“于是日上午九时，在本党部三楼大礼堂，召集各界代表举行纪念大会”，并规定纪念办法九条，末条是“函请警备司令部暨市公安局，严防反动分子，乘机捣乱；并酌派军警若干，维持会场秩序”。 <br/><br/>　　（５）要人送飞机给朋友的事，指张学良在一九三三年二月将一架自备的福特机选给宋子文，又在四月辞职出国时，将另一架福特机送给蒋介石。 <br/><br/>　　（６）旧时“要人”在外出时，改换常服以免被人认识，叫做“微服”。一九三三年四月四日，国民党政府主席林森到南京夫子庙文物店购买古玩，报纸纷纷宣传，如次日《申报》“南京专电”说：“林主席今日微服到旧书店购古籍数本，骨董数件。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-550-7456.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-550-7458.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-550.html" action-type="chapterComment" class="comment"><i></i>伪自由书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

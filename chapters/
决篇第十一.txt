@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《鬼谷子》正文_决篇第十一_鬼谷子作品 - 维普阅读网</title>
+<meta name="keywords" content="鬼谷子,鬼谷子原文,鬼谷子阅读,决篇第十一全文,鬼谷子作品" />
+<meta name="description" content="鬼谷子原文阅读,决篇第十一全文在线阅读,鬼谷子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-24-361.html";
+var nextpage="novel-read-24-363.html";
+var indexpage = "novel-chapter-24.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-24.html">鬼谷子</a></strong>
+<strong><a href="novel-chapter-24.html">鬼谷子目录</a></strong>
+<span>决篇第十一</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-24-361.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>决篇第十一</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鬼谷子&amp;searchsubmit=yes"  target="_blank">鬼谷子</a><span class="divide">|</span>发布时间：2014-07-19 00:41:14<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/><br/>　　凡决物，必托于疑者。善其用福，恶其用患；善至于诱也，终无惑偏。有利焉，去其利，则不受也；奇之所托。若有利于善者，隐托于恶，则不受矣，致疏远。故其有使失利者，有使离害者，此事之失。<br/>　　圣人所以能成其事者有五：有以阳德之者，有以阴贼之者，有以信诚之者，有以蔽匿之者，有以平素之者。阳励于一言，阴励于二言，平素、枢机以用；四者微而施之。于事度之往事，验之来事，参之平素，可则决之。<br/>　　王公大人之事也，危而美名者，可则决之；不用费力而易成者，可则决之；用力犯勤苦，然不得已而为之者，可贵则决之；去患者，可贵则决之；从福者，可则决之。故夫决情定疑，万事之基，以正治乱，决成败，难为者。故先王乃用蓍龟者，以自决也。<br/><br/>译文：<br/><br/>　　凡为他人决断事情，都是受托于有疑难的人。一般说来，人们都希望遇到有利的事，不希望碰上祸患和被骗诱，希望最终能排除疑惑。在为人作决断时，如果只对一方有利，那么没有利的一方就不会接受，这是因为依托的基础不平衡。任何决断本来都应有利于决断者的，但是如果在其中隐含着不利的因素，那么决断者就不会接受，彼此之间的关系也会疏远，这样对为人决断的人就不利了，甚至还会遭到灾难，这样决断是失误的。<br/><br/>　　圣人所以能完成大业，主要有五个途径：有用阳道来感化的；有用阴道来惩治的；有用信义来教化的；有用爱心来庇护的；有用廉洁来净化的。行阳道则努力守常如一，行阴道则努力掌握事物对立的两面。要在平时和关键时刻巧妙地运用这四方面，小心谨慎行事。推测以往的事，验证未来的事，再参考日常的事，如果可以，就作出决断；王公大臣的事，崇高而享有美名的，如果可以就作出决断；不用费力轻易可获成功的事，如果可以就作出决断；费力气又辛苦，但不得不做的，如果可以就作出决断；能消除忧患的，如果可以就作出决断；能实现幸福的，如果可以就作出决断。因此说，解决事情，确定疑难，是万事的关键。澄清动乱，预知成败，这是一件很难做到的事。所以古代先王就用筮草和龟甲来决定一些大事。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-24-361.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-24-363.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-24.html" action-type="chapterComment" class="comment"><i></i>鬼谷子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

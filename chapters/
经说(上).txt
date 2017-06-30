@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《墨子》正文_经说(上)_墨子作品 - 维普阅读网</title>
+<meta name="keywords" content="墨子,墨子原文,墨子阅读,经说(上)全文,墨子作品" />
+<meta name="description" content="墨子原文阅读,经说(上)全文在线阅读,墨子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-32-776.html";
+var nextpage="novel-read-32-778.html";
+var indexpage = "novel-chapter-32.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-32.html">墨子</a></strong>
+<strong><a href="novel-chapter-32.html">墨子目录</a></strong>
+<span>经说(上)</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-32-776.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>经说(上)</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=墨子&amp;searchsubmit=yes"  target="_blank">墨子</a><span class="divide">|</span>发布时间：2014-07-20 15:15:31<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　故：小故，有之不必然，无之必不然。体也，若有端。大故，有之必无然，若见之成见也。<br/><br/>　　体：若二之一、尺之端也。<br/><br/>　　知材：知也者，所以知也，而必知，若明。<br/><br/>　　虑：虑也者，以其知有求也，而不必得之，若睨。<br/><br/>　　知：知也者，以其知过物而能貌之，若见。<br/><br/>　　■：■也者，以其知论物，而其知之也著，若明。<br/><br/>　　仁：爱己者，非为用己也，不若爱马，著若明。<br/><br/>　　义：志以天下为芬，而能能利之，不必用。<br/><br/>　　礼：贵者公，贱者名，而俱有敬僈焉。等，异论也。<br/><br/>　　行：所为不善名，行也。所为善名，巧也，若为盗。<br/><br/>　　实：其志气之见也，使人如己，不若金声玉服。<br/><br/>　　忠：不利弱子亥。足将入，止容。<br/><br/>　　孝：以亲为芬，而能能利亲，不必得。<br/><br/>　　信：不以其言之当也，使人视城得金。<br/><br/>　　佴：与人遇，人众，■。<br/><br/>　　■：为是为是之台彼也，弗为也。<br/><br/>　　廉：己惟为之，知其■也。<br/><br/>　　所令：非身弗行。<br/><br/>　　任：为身之所恶，以成人所急。<br/><br/>　　勇：以其敢于是也命之，不以其不敢于彼也害之。<br/><br/>　　力：重之谓。下、与；重，奋也。<br/><br/>　　生：楹之生，商不可必也。<br/><br/>　　平：惔然。<br/><br/>　　利：得是而喜，则是利也。其害也，非是也。<br/><br/>　　害：得是而恶，则是害也。其利也，非是也。<br/><br/>　　治：吾事治矣，人有治，南北。<br/><br/>　　誉之，必其行也。其言之忻，使人督之。<br/><br/>　　诽：必其行也。其言之忻。<br/><br/>　　举：告以文名，举彼实也。<br/><br/>　　故言也者，诸口能之出民者也。民若画俿也。言也谓言，犹石致也。<br/><br/>　　且：自前曰且，自后曰己，方然亦且。若石者也。<br/><br/>　　君：以若名者也。<br/><br/>　　功：不待时，若衣裘。<br/><br/>　　赏：上报下之功也。<br/><br/>　　罪：不在禁，惟害无罪，殆姑。上报下之功也。<br/><br/>　　罚：上报下之罪也。<br/><br/>　　同：二人而俱见是楹也，若事君。<br/><br/>　　久：古今旦莫。<br/><br/>　　宇：东西家南北。<br/><br/>　　穷：或不容尺，有穷；莫不容尺，无穷也。<br/><br/>　　尽：但止动。<br/><br/>　　始：时或有久，或无久。始当无久。<br/><br/>　　化：若蛙为鹑。<br/><br/>　　损：偏去也者，兼之体也。其体或去或存，谓其存者损。<br/><br/>　　儇：昫民也。<br/><br/>　　库：区穴若，斯貌常。<br/><br/>　　动：偏祭从者，户枢免瑟。<br/><br/>　　止：无久之不止，当牛非马，若矢过楹。有久之不止，当马非马，若人过梁。<br/><br/>　　必：谓台执者也，若弟兄。一然者，一不然者，必不必也，是非必也。<br/><br/>　　同：捷与狂之同长也。<br/><br/>　　心中自是往相若也。<br/><br/>　　厚：惟无所大。<br/><br/>　　圜：规写支也。<br/><br/>　　方：矩见支也。<br/><br/>　　倍：二尺与尺，但去一。<br/><br/>　　端：是无同也。<br/><br/>　　有间：谓夹之者也。<br/><br/>　　间：谓夹者也。尺，前于区穴。而后于端，不夹于端与区内。及：及非齐之，及也。<br/><br/>　　■：间虚也者，两木之间，谓其无木者也。<br/><br/>　　盈：无盈无厚。于尺，无所往而不得，得二。坚异处不相盈，相非，是相外也。<br/><br/>　　撄：尺与尺俱不尽，端与端俱尽。尺与或尽或不尽。坚白之撄相尽，体撄不相尽。端。<br/><br/>　　仳：两有端而后可。<br/><br/>　　次：无厚而后可。<br/><br/>　　法：意、规、员三也，俱可以为法。<br/><br/>　　佴：然也者，民若法也。<br/><br/>　　彼：凡牛，枢非牛，两也，无以非也。<br/><br/>　　辩：或谓之牛，谓之非牛，是争彼也，是不俱当。不俱当，必或不当，<br/><br/>　　不若当犬。<br/><br/>　　为：欲■其指，智不知其害，是智之罪也。若智之慎文也，无遗于其害也，而犹欲养之，则离之。是犹食脯也，骚之利害，未可知也，欲而骚，是不以所疑止所欲也。墙外之利害，未可知也，趋之而得力，则弗趋也，是以所疑止所欲也。观“为，穷知而县于欲”之理，养脯而非■也，养指而非愚也，所为与不所与为相疑也，非谋也。<br/><br/>　　已：为衣，成也。治病，亡也。<br/><br/>　　使：令，谓谓也，不必成；湿，故也，必待所为之成也。<br/><br/>　　名：物，达也，有实必待文多也。命之马，类也，若实也者，必以是名也。命之臧，私也，是名也，止于是实也。声出口，俱有名，若姓宇洒。<br/><br/>　　谓：狗犬，命也。狗犬，举也。叱狗，加也。<br/><br/>　　知：传受之，闻也；方不障，说也；身观焉，亲也。所以谓，名也；所谓，实也；名实耦，合也；志行，为也。<br/><br/>　　闻：或告之，传也；身观焉，亲也。<br/><br/>　　见：时者，体也；二者，尽也。<br/><br/>　　古：兵立反中，志工，正也；臧之为，宜也；非彼，必不有，必也。圣者用而勿必，必去者可勿疑。<br/><br/>　　仗者两而勿偏。<br/><br/>　　为：早台，存也；病，亡也；买鬻，易也；霄尽，荡也；顺长，治也；蛙买，化也。<br/><br/>　　同：二名一实，重同也；不外于兼，体同也；俱处于室，合同也；有以同，类同也。<br/><br/>　　异：二必异，二也；不连属，不体也；不同所，不合也；不有同，不类也。<br/><br/>　　同异交得：于福家良，恕有无也；比度，多少也；免■还园，去就也；鸟折用桐，坚柔也；剑尤早，生死也；处室子子母，长少也；两绝胜，白黑也；中央，旁也；论行行行学实，是非也；难宿，成未也；兄弟，俱适也；身处志往，存亡也；霍，为姓故也；贾宜，贵贱也。<br/><br/>　　诺：超、城、员、止也。相从、相去、先知、是、可，五色。长短、前后、轻重援，执服难成。言务成之，九则求执之。<br/><br/>　　法：法取同，观巧。传法，取此择彼，问故观宜。以人之有黑者有不黑者也，止黑人；与以有爱于人有不爱于人，心爱人是孰宜？<br/><br/>　　心：彼举然者，以为此其然也，则举不然者而问之。若圣人有非而不非。<br/><br/>　　正：五诺，皆人于知有说；过五诺，若负，无直无说；用五诺，若自然矣。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-32-776.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-32-778.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-32.html" action-type="chapterComment" class="comment"><i></i>墨子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

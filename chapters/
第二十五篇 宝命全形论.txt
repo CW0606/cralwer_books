@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《黄帝内经》正文_第二十五篇 宝命全形论_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="黄帝内经,黄帝内经原文,黄帝内经阅读,第二十五篇 宝命全形论全文,佚名作品" />
+<meta name="description" content="黄帝内经原文阅读,第二十五篇 宝命全形论全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-58-1782.html";
+var nextpage="novel-read-58-1784.html";
+var indexpage = "novel-chapter-58.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-58.html">黄帝内经</a></strong>
+<strong><a href="novel-chapter-58.html">黄帝内经目录</a></strong>
+<span>第二十五篇 宝命全形论</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-58-1782.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第二十五篇 宝命全形论</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-07-29 21:56:03<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【本篇重点】<br/>　　一:说明治病之道养生之法均离不开内外环境的统一;天人相应的整体观念,是医生必须掌握的基本原则.<br/>　　二:具体阐述针刺必须懂得五个关键问题及气候的重要意义.<br/>　　三;指出医务工作者的临证态度.应该审察至微,全神贯注,小心用针.<br/>　　【原文与译文】<br/>　　黄帝问曰：天复地载，万物悉备，莫贵于人。人以天地之气生，四时之法成。君王众庶，尽欲全形。形之疾病，莫知其情，留淫日深，着于骨髓，心私虑之。余欲针除其疾病，为之奈何？<br/>　　黄帝问道：天地之间，万物俱备，没有一样东西比人更宝贵了。人依靠天地之大气和水谷之精气生存，并随着四时生长收藏的规律而生活着，上至君主，下至平民，任何人都愿意保全形体的健康，但是往往有了病，却因病轻而难于察知，让病邪稽留，逐渐发展，日益深沉，乃至深入骨髓，我为之甚感忧虑。我要想解除他们的痛苦，应该怎样办才好？<br/>　　岐伯对曰：夫盐之味咸者，其气令器津泄；弦绝者，其音嘶败；木敷者，其叶发，病深者，其声哕。人有此三者，是谓坏府，毒药无治，短针无取，此皆绝皮伤内，血气争黑。<br/>　　岐伯回答说：比如盐味是咸的，当贮藏在器具中的时候，看到渗出水来，这就是盐气外泄；比如琴弦将要断的时候，就会发出嘶败的声音；内部已溃的树木，其枝叶好象很繁茂，实际上外盛中空，极容易萎谢；人在疾病深重的时候，就会产生呃逆。人要是有了这样的现象，说明内脏已有严重破坏，药物和针炙都失去治疗作用，因为皮肤肌肉受伤败坏，血气枯槁，就很难挽回了。<br/>　　帝曰：余念其痛，心为之乱惑反甚。其病不可更代，百姓闻之，以为残贼，为之奈何。<br/>　　黄帝道：我很同情病人的痛苦，但思想上有些慌乱疑惑，因治疗不当反使病势加重，又没有更好的方法来替代，人们看起来，将要认为我残忍粗暴，究竟怎麽好呢？<br/>　　岐伯曰：夫人生于地，悬命于天；天地合气，命之曰人。人能应四时者，天地为之父母；知万物者，谓之天子。天有阴阳，人有十二节。天有寒暑，人有虚实。能经天地阴阳之化者，不失四时。知十二节之理者，圣智不能欺也，能存八动之变，五胜更立，能达虚实之数者独出独入，呿吟至微，秋毫在目。<br/>　　岐伯说：一个人的生活，和自然界是密切相关联的。人能适应四时变迁，则自然界的一切，都成为他生命的泉源。能够知道万物生长收藏的道理的人，就有条件承受和运用万物。所以天有阴阳，人有十二经脉；天有寒暑，人有虚实盛衰。能够应天地阴阳的变化，不违背四时的规律，了解十二经脉的道理，就能明达事理，不会被疾病现象弄糊涂了。掌握八风的演变，五行的衰旺，通达病人虚实的变化，就一定能有独到的见解，哪怕病人的呵欠呻吟极微小的动态，也能够明察秋毫，洞明底细。<br/>　　帝曰：人生有形，不离阴阳。天地合气，别为九野，分为四时，月有大小，日有短长。万物并至，不可胜量。虚实呿吟，敢问其方？<br/>　　黄帝道：人生而有形体，离不开阴阳的变化，天地二气相合，从经纬上来讲，可以分为九野，从气候上来讲，可以分为四时，月行有小大，日行有短长，这都是阴阳消长变化的体现。天地间万物的生长变化更是不可胜数，根据患者微细呵欠及呻吟，就能判断出疾病的虚实变化。请问运用什麽方法，能够提纲挈领，来加以认识和处理呢？<br/>　　岐伯曰：木得金而伐，火得水而灭，土得木而达，金得火而缺，水得土而绝，万物尽然，不可胜竭。故针有悬布天下者五：黔首共余食，莫知之也。一曰治神，二曰知养身，三曰知毒药为真，四曰制砭石大小，五曰知腑脏血气之诊。五法俱立，各有所先。今末世之刺也，虚者实之，满者泄之，此皆众工所共知也。若夫法天则地，随应而动，和之者若响，随之者若影，道无鬼神，独来独往。<br/>　　岐伯说：可根据五行变化的道理来分析：木遇到金，就能折伐；火受到水，就能熄灭；土被木殖，就能疏松；金遇到火，就能熔化；水遇到土，就能遏止。这种变化，万物都是一样，不胜枚举。所以用针刺来治疗疾病，能够嘉惠天下人民的，有五大关键，但人们都弃余不顾，不懂得这些道理。所谓五大关键：一是要精神专一，二是要了解养身之道，三是要熟悉药物真正的性能，四要注意制取砭石的大小，五是要懂得脏腑血气的诊断方法。能够懂得这五项要道，就可以掌握缓急先后。近世运用针刺，一般的用补法治虚，泻法制满，这是大家都知道的。若能按照天地阴阳的道理，随机应变，那末疗效就能更好，如响之应，如影随形，医学的道理并没有什麽神秘，只要懂得这些道理，就能运用自如了。<br/>　　帝曰：愿闻其道。<br/>　　黄帝道：希望听你讲讲用针刺的道理。<br/>　　岐伯曰：凡刺之真，必先治神，五脏已定，九候已备，后乃存针，众脉不见，众凶弗闻，外内相得，无以形先，可玩往来，乃施于人。人有虚实，五虚勿近，五实勿远，至其当发，间不容瞚。手动若务，针耀而匀。静意视义，观适之变，是谓冥冥，莫知其形。见其乌乌，见其稷稷，从见其飞，不知其谁。伏如横弩，起如发机。<br/>　　岐伯说：凡用折的关键，必先集中思想，了解五脏的虚实，三部九侯脉象的变化，然后下针。还要注意有没有真脏脉出现，五脏有无败绝现象，外形与内脏是否协调，不能单独以外形为依据，更要熟悉经脉血气往来的情况，才可施针于病人。病人有虚实之分，见到五虚，不可草率下针治疗，见到五实，不可轻易放弃针刺治疗，应该要掌握针刺的时机，不然在瞬息之间就会错过机会。真刺时手的动作要专一协调，针要洁净而均匀，平心静意，看适当的时间，好象鸟一样集合，气盛之时，好象稷一样繁茂。气之往来，正如见鸟之飞翔，而无从捉摸他形迹的起落。所以用针之法，当气未至的时候，应该留针侯气，正如横弩之待发，气应的时候，则当迅速起针，正如弩箭之疾出。<br/>　　帝曰：何如而虚？何如而实？<br/>　　黄帝道：怎样治疗虚症？怎样治疗实症？<br/>　　岐伯曰：刺虚者须其实，刺实者须其虚。经气已至，慎守勿失，深浅在志，远近若一，如临深渊，手如握虎，神无营于众物。<br/>　　岐伯说：刺虚症，须用补法，刺实症，须用泻法；当针下感到经气至，则应慎重掌握，不失时机地运用补泻方法。针刺无论深浅，全在灵活掌握，取穴无论远近，侯针取气的扫道是一致的，针刺时都必须精神专一，好象面临万丈深渊，小心谨慎，又好象手中捉着猛虎那样坚定有力，全神贯注，不为其他事物所分心。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-58-1782.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-58-1784.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-58.html" action-type="chapterComment" class="comment"><i></i>黄帝内经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

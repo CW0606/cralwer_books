@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《黄帝内经》正文_第八十一篇 解精微论_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="黄帝内经,黄帝内经原文,黄帝内经阅读,第八十一篇 解精微论全文,佚名作品" />
+<meta name="description" content="黄帝内经原文阅读,第八十一篇 解精微论全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-58-1838.html";
+var nextpage="novel-read-58-1840.html";
+var indexpage = "novel-chapter-58.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-58.html">黄帝内经</a></strong>
+<strong><a href="novel-chapter-58.html">黄帝内经目录</a></strong>
+<span>第八十一篇 解精微论</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-58-1838.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第八十一篇 解精微论</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-07-29 22:12:43<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　黄帝在明堂，雷公请曰：臣授业传之，行教以经论，从容形法，阴阳刺灸，汤液所滋，行治有贤不肖，未必能十全。若先言悲哀喜怒，燥湿寒暑，阴阳妇女， 请问其所以然者。卑贱富贵，人之形体所从，群下通使，临事以适道术，谨闻命矣。请问有(上免下免)愚仆漏之问，不在经者，欲闻其状。<br/>　　帝曰：大矣。<br/>　　公请问：哭泣而泪不出者，若出而少涕，其故何也？<br/>　　帝曰：在经有也。<br/>　　【译文】<br/>　　黄帝在明堂里，雷公请问说：我接受了您传给我的医道，再教给我的学生，教的内容是经典所论，从容形法，阴阳刺灸，汤药所滋。然而他们在临症上，因有贤愚之别，所以未必能十全。至于教的方法，是先告诉他们悲哀喜怒，燥湿寒暑，阴阳妇女等方面的问题，再叫他们回答所以然的道理，并向他们讲述贱富贵及人之形体的适从等，使他们通晓这些理论，再通过临症适当地运用，这些起在过去我已经听您讲过了。现在我还有一些很愚陋的问题，在经典中找不到，要请您解释。<br/>　　黄帝道：你钻研的问题真实深而大啊！<br/>　　雷公请问：有哭泣而泪涕皆出，或泪出而很少有鼻涕的，这是什么道理？<br/>　　黄帝说：在医经中有记载。<br/>　　【原文】<br/>　　复问：不知水所从生，涕所从出也。<br/>　　帝曰：若问此者，无益于治也。工之所知，道之所生也。夫心者，五脏之专精也，目者其窍也，华色者其荣也。是以人有德也，则气和于目，有亡，忧知于色。是以悲 哀则泣下，泣下水所由生。水宗者，积水也，积水者，至阴也。至阴者，肾之精也。宗精之水所以不出者，是精持之也，辅之裹之，故水不行也。夫水之精为志，火 之精为神，水火相感，神志俱悲，是以目之水生也。故谚曰：心悲名曰志悲，志与心精共凑于目也。是以俱悲则神气传于心，精上不传于志，而志独悲，故泣出也。 泣涕者，脑也，脑者阴也。髓者，骨之充也。故脑渗为涕。志者骨之主也，是以水流而涕从之者，其行类也。夫涕之与泣者，譬如人之兄弟，急则俱死，生则俱生， 其志以早悲，是以涕泣俱出而横行也。夫人涕泣俱出而相从者，所属之类也。<br/>　　雷公曰：大矣。请问人哭泣而泪不出者，若出而少，涕不从之何也？<br/>　　帝曰：夫泣不出者，哭不悲也。不泣者，神不慈也。神不慈，则志不悲，阴阳相持，泣安能独来。夫志悲者惋，惋则冲阴，冲阴则志去目，志去则神不守精，精神去 目，涕泣出也。且子独不诵不念夫经言乎？厥则目无所见。夫人厥则阳气并于上，阴气并于下，阳并于上则火独光也；阴并于下则足寒，足寒则胀也。夫一水不胜五 火，故目眦盲。是以冲风，泣下而不止。夫风之中目也，阳气内守于精。是火气燔目，故见风则泣下也。有以比之，夫火疾风生，乃能雨，此之类也。<br/>　　【译文】<br/>　　雷公又问：眼泪是怎样产生的？鼻涕是从哪里来的？<br/>　　黄帝道：你问这些问题，对治疗上没有多大帮助，但也是医生应该知道的，因为他是医学中的基本知识。心为五脏之专精，两目是它的外窍，光华色泽是它的外荣。所以一个人在心里有得意的事，则神气和悦于两目；假如心有所失意，则表现忧愁之色。因此悲哀就会哭泣，泣下的泪水所产生的。水的来源，是体内积聚的水液；积聚的水液，是至阴；所谓至阴，就是肾藏之精。来源于肾精的水液，平时所以不出，是受着精的约制，是神，水火相互交感，神志俱悲，因而泪水就出来了。所以俗语说：心悲叫做志悲，因为肾志与心精，同时上凑于目，所以心肾俱悲，则神气传于心精，而不传于肾志，肾志独悲，水失去了精的约制，故而泪水就出来了。哭泣而涕出的，其故在脑，脑属阴，贿充于骨并且藏于脑，而鼻窍通于脑，所以脑髓渗漏而成涕。肾志是骨之主，所以泪水出而鼻涕也随之而出，是因为鼻涕泪是同类的关系。涕之与泪，譬如兄弟，危急则同死，安乐则共存，肾志先悲而脑髓随之，所以涕随泣出而涕泪横流。涕泪所以俱出而相随，是由于涕泪同属水类的缘故。<br/>　　雷公说：你讲的道理真博大！请问有人哭泣而眼泪不出的，或虽出而量少，且涕不随出的，这是什么道理？<br/>　　黄帝道：哭而没有眼泪，是内心上并不悲伤。不出眼泪，是心神没有被感动；神不感动，则志亦不悲，心神与肾志相持而不能相互交感，眼泪怎么能出来呢？大凡志悲就会有凄惨之意。凄惨之意冲动于脑，则肾志去目凄；肾志去目，则神不守精；精和神都离开了眼睛，眼泪和鼻涕才能出来。你难道没有读过或没有想到医经上所说的话吗？厥则眼睛一无所见。当一个人在厥的时候，阳气并走于上部，阴气并走于下部，阳并于上，则上部亢热，阴并与下则足冷，足冷则发胀。因为一水不胜五火，所以眼目就看不见了。所以迎风就会流泪不止的，因风邪中于目而流泪，是由于阳气内守于精，也就是火气燔目的关系，所以遇到风吹就会流泪了。举一个比喻来说：火热之气炽甚而风生，风生而有雨，与这个情况是相类同的。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-58-1838.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-58-1840.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-58.html" action-type="chapterComment" class="comment"><i></i>黄帝内经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

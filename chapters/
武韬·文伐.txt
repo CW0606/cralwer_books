@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《六韬》正文_武韬·文伐_姜子牙作品 - 维普阅读网</title>
+<meta name="keywords" content="六韬,六韬原文,六韬阅读,武韬·文伐全文,姜子牙作品" />
+<meta name="description" content="六韬原文阅读,武韬·文伐全文在线阅读,姜子牙作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-40-1030.html";
+var nextpage="novel-read-40-1032.html";
+var indexpage = "novel-chapter-40.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-40.html">六韬</a></strong>
+<strong><a href="novel-chapter-40.html">六韬目录</a></strong>
+<span>武韬·文伐</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-40-1030.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>武韬·文伐</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=姜子牙&amp;searchsubmit=yes"  target="_blank">姜子牙</a><span class="divide">|</span>发布时间：2014-07-22 21:26:48<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　文王问太公曰：“文伐之法奈何？”太公曰：“凡文伐有十二节：<br/><br/>　　“一曰，因其所喜，以顺其志，彼将生骄，必有好事，苟能因之，必能去之。<br/><br/>　　“二曰，亲其所爱，以分其威。一人两心，其中必衰。廷无忠臣，社稷必苊。<br/><br/>　　“三曰，阴赂左右，得情甚深，身内情外，国将生害。<br/><br/>　　“四曰，辅其淫乐，以广其志，厚赂珠玉，娱以美人。卑辞委听，顺命而合。彼将不争，奸节乃定。<br/><br/>　　“五曰，严其忠臣，而薄其赂，稽留其使，勿听其事。亟为置代，遗以诚事。亲而信之，其君将复合之，苟能严之，国乃可谋。<br/><br/>　　“六曰，收其内，间其外，才臣外相，敌国内侵，国鲜不亡。<br/><br/>　　“七曰，欲锢其心，必厚赂之；收其左右忠爱，阴示以利；令之轻业，而蓄积空虚。<br/><br/>　　“八曰，赂以重宝，因与之谋，谋而利之，利之必信，是谓重亲；重亲之积，必为我用，有国而外，其地大败。<br/><br/>　　“九曰，尊之以名，无难其身；示以大势，从之必信，致其大尊；先为之荣，微饰圣人，国乃大偷。<br/><br/>　　“十曰，下之必信，以得其情；承意应事，如与同生；既以得之，乃微收之；时及将至，若天丧之。<br/><br/>　　“十一曰，塞之以道。人臣无不重贵与富，恶死与咎。阴示大尊，而微输重宝，收其豪杰。内积甚厚，而外为乏。阴纳智士，使图其计；纳勇士，使高其气。富贵甚足，而常有繁滋。徒党已具，是谓塞之。有国而塞，安能有国。<br/><br/>　　“十二曰：养其乱臣以迷之，进美女淫声以惑之，遗良犬马以劳之，时与大势以诱之，上察而与天下图之。<br/><br/>　　“十二节备，乃成武事。所谓上察天，下察地，征已见，乃伐之。”<br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-40-1030.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-40-1032.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-40.html" action-type="chapterComment" class="comment"><i></i>六韬章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

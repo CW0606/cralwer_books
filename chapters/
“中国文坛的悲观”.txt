@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《准风月谈》正文_“中国文坛的悲观”_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="准风月谈,准风月谈原文,准风月谈阅读,“中国文坛的悲观”全文,鲁迅作品" />
+<meta name="description" content="准风月谈原文阅读,“中国文坛的悲观”全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-551-7523.html";
+var nextpage="novel-read-551-7525.html";
+var indexpage = "novel-chapter-551.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-551.html">准风月谈</a></strong>
+<strong><a href="novel-chapter-551.html">准风月谈目录</a></strong>
+<span>“中国文坛的悲观”</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-551-7523.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>“中国文坛的悲观”</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-05 21:40:34<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>旅隼 <br/>　　文雅书生中也真有特别善于下泪的人物，说是因为近来中国文坛的混乱（２），好像军阀割据，便不禁“呜呼”起来了，但尤其痛心诬陷。 <br/>　　其实是作文“藏之名山”的时代一去，而有一个“坛”，便不免有斗争，甚而至于谩骂，诬陷的。明末太远，不必提了；清朝的章实斋和袁子才（３），李莼客和赵厓叔（４），就如水火之不可调和；再近些，则有《民报》和《新民丛报》之争（５），《新青年》派和某某派之争（６），也都非常猛烈。当初又何尝不使局外人摇头叹气呢，然而胜负一明，时代渐远，战血为雨露洗得干干净净，后人便以为先前的文坛是太平了。在外国也一样，我们现在大抵只知道嚣俄和霍普德曼（７）是卓卓的文人，但当时他们的剧本开演的时候，就在戏场里捉人，打架，较详的文学史上，还载着打架之类的图。 <br/>　　所以，无论中外古今，文坛上是总归有些混乱，使文雅书生看得要“悲观”的。但也总归有许多所谓文人和文章也者一定灭亡，只有配存在者终于存在，以证明文坛也总归还是干净的处所。增加混乱的倒是有些悲观论者，不施考察，不加批判，但用“彼亦一是非，此亦一是非”（８）的论调，将一切作者，诋为“一丘之貉”。这样子，扰乱是永远不会收场的。然而世间却并不都这样，一定会有明明白白的是非之别，我们试想一想，林琴南（９）攻击文学革命的小说，为时并不久，现在那里去了？<br/>　　只有近来的诬陷，倒像是颇为出色的花样，但其实也并不比古时候更厉害，证据是清初大兴文字之狱的遗闻。况且闹这样玩意的，其实并不完全是文人，十中之九，乃是挂了招牌，而无货色，只好化为黑店，出卖人肉馒头的小盗；即使其中偶然有曾经弄过笔墨的人，然而这时却正是露出原形，在告白他自己的没落，文坛决不因此混乱，倒是反而越加清楚，越加分明起来了。 <br/>　　历史决不倒退，文坛是无须悲观的。悲观的由来，是在置身事外不辨是非，而偏要关心于文坛，或者竟是自己坐在没落的营盘里。 <br/>　　八月十日。 <br/>　<br/>===============================================================<br/>　　　　　　 <br/>　　（１）　本篇最初发表于一九三三年八月十四日《申报·自由谈》，原题《悲观无用论》。 <br/>　　（２）　中国文坛的混乱　一九三三年八月九日《大晚报·火炬》载小仲的《中国文坛的悲观》一文，其中说：“中国近几年来的文坛，处处都呈现着混乱，处处都是政治军阀割据式的小缩影”，“文雅的书生，都变成狰狞面目的凶手”，“把不相干的帽子硬套在你的头上，……直冤屈到你死！”并慨叹道：“呜呼！中国的文坛！”<br/>　　（３）　章实斋（１７３８—１８０１）　名学诚，字实斋，浙江会稽（今绍兴）人，清代史学家。袁子才（１７１６—１７９８），名枚，字子才，浙江钱塘（今杭县）人，清代诗人。袁枚死后，章学诚在《丁巳札记》内针对袁枚论诗主张性灵及收纳女弟子的事，攻击袁枚为“无耻妄人，以风流自命，蛊惑士女”。此外，他又著有《妇学》、《妇学篇书后》、《书坊刻诗话后》等文，也都是攻击袁枚的。 <br/>　　（４）　李莼客（１８３０—１８９４）　名慈铭，字无心伯，号莼客，浙江会稽人，清末文学家。赵"质澹ǎ保福玻埂�保福福矗������*"质澹�憬�峄�耍�迥┦*画篆刻家。李慈铭在所著《越缦堂日记》中常称赵之谦为“妄人”，攻击赵之谦“亡赖险诈，素不知书”，“是鬼蜮之面而狗彘之心”。（见光绪五年十一月廿九日日记） <br/>　　（５）　《民报》和《新民丛报》之争　指清末同盟会机关报《民报》同梁启超主办的《新民丛报》关于民主革命和君主立宪的论争。《民报》，月刊，一九○五年十一月在日本东京创刊，一九○八年冬被日本政府查禁，一九一○年初在日本秘密印行两期后停刊。《新民丛报》，半月刊，一九○二年二月在日本横滨创刊，一九○七年冬停刊。<br/>　　（６）　《新青年》派和某某派之争　指《新青年》派和当时反对新文化运动的封建复古派进行的论争。《新青年》，“五四”时期倡导新文化运动、传播马克思主义的重要综合性月刊。一九一五年九月创刊于上海，由陈独秀主编，第一卷名《青年杂志》，第二卷起改名《新青年》。一九一八年一月起李大钊等参加该刊编辑工作，一九二二年七月休刊。 <br/>　　（７）　嚣俄　通译雨果。一八三○年二月二十五日，雨果的浪漫主义剧作《欧那尼》在巴黎法兰西剧院上演时，拥护浪漫主义文学的人们同拥护古典主义文学的人们在剧院发生尖锐冲突，喝采声和反对声混成一片。霍普德曼（Ｇ．Ｈａｕｐｔｍａｎｎ，１８６２—１９４６），通译霍普特曼，德国剧作家，著有剧本《织工》等。一八八九年十月二十日，霍普特曼的自然主义剧作《日出之前》在柏林自由剧院上演时，拥护者和反对者也在剧院发生尖锐冲突，欢呼声和嘲笑声相杂，一幕甚于一幕。<br/>　　（８）　“彼亦一是非，此亦一是非”　语见《庄子·齐物论》。<br/>　　（９）　林琴南（１８５２—１９２４）　名纾，字琴南，福建闽侯（今属福州）人，翻译家。他曾据别人口述，以文言翻译欧美文学作品一百多种，在当时影响很大，后集为《林译小说》。他晚年是反对“五四”新文化运动的守旧派代表人物之一。他攻击文学革命的小说，有《荆生》与《妖梦》（分别载于一九一九年二月十七日至十八日、三月十九日至二十三日上海《新申报》），前篇写一个所谓“伟丈夫”荆生，将大骂孔丘、提倡白话者打骂了一顿；后篇写一个所谓“罗睺罗阿修罗王”将“白话学堂”（影射北京大学）的校长、教务长吃掉等事。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-551-7523.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-551-7525.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-551.html" action-type="chapterComment" class="comment"><i></i>准风月谈章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

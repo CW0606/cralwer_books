@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《北堂书钞》正文_●北堂书钞卷第六十七　　　　设官部十九_虞世南作品 - 维普阅读网</title>
+<meta name="keywords" content="北堂书钞,北堂书钞原文,北堂书钞阅读,●北堂书钞卷第六十七　　　　设官部十九全文,虞世南作品" />
+<meta name="description" content="北堂书钞原文阅读,●北堂书钞卷第六十七　　　　设官部十九全文在线阅读,虞世南作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-999-9673.html";
+var nextpage="novel-read-999-9675.html";
+var indexpage = "novel-chapter-999.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-999.html">北堂书钞</a></strong>
+<strong><a href="novel-chapter-999.html">北堂书钞目录</a></strong>
+<span>●北堂书钞卷第六十七　　　　设官部十九</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-999-9673.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>●北堂书钞卷第六十七　　　　设官部十九</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=虞世南&amp;searchsubmit=yes"  target="_blank">虞世南</a><span class="divide">|</span>发布时间：2014-11-20 20:47:40<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　三老五更一百二十九　　祭酒一百三十国子祭酒一百三十一　　博士一百三十二学士一百三十三<br/><br/>　　○三老五更一百二十九<br/><br/>　　以崇至敬「魏氏春秋云甘露二年詔曰右者必有三老五更以崇至敬○今案俞本同陈本脱必字今魏志四作三年然本钞下文引魏氏春秋亦作二年」三代所尊「汉书仪云三老五更三代所尊○今案平津馆收入汉旧仪补遗陈本亦作汉旧仪然本钞下文引及后汉书明帝纪注续汉志补注引皆作汉官仪」三老道成於三「孝经援神契云尊三老五更宠以度接三老道成於三○今案续汉礼仪志刘昭注引援神契度接以上御五百三十五引道成句陈本但注援神契三字」五更训於五碞「孝经援神契云尊五更五者训於五品○今案亦见御览五百三十五引」尊事三老兄事五更「东观汉记明帝纪云永平二年元日始尊事三老兄事五更○今案聚珍本卷二同姚辑本亦同陈本已改注范书」独拜于屏「汉旧仪云天子父事三老兄事五更天子独拜于屏其明日三老诣■〈门外卦内〉○今案■〈门外卦内〉即闕字本钞多作闻陈本脱明日句平津馆辑本据旧钞引同」北面乞言「王晋书曰王祥字休徵魏帝高贵乡公入学将崇先典乃命祥為三老○今案初学记十八引王隐晋书同陈本改注今晋书见卷三十三王祥传」执酱而馈执爵而酳「礼记内则云食三老五更於太学天子袒而割牲执酱而馈执爵而冕而惣干○今案此文见礼记乐记篇不是内则」祝硬在前祝咽在后「东观汉记明帝纪云永平二年元日始尊事三老兄事五更朕亲袒割牲云云○今案聚珍本无祝硬二句考范书明帝纪有之咽作噎此特聚珍本有残缺耳陈本但注后汉明帝纪五字姚辑本脱」<br/><br/>　　三公设几九卿正履「汉官仪云三老五更三代所尊三代公设几九卿正履祝硬在前祝咽在后○今案陈本无三老以下平津辑本谓三老八字书钞引作天子父事三老兄事五更此则非也书钞上文引父事二句系汉旧仪与汉官仪无涉」<br/><br/>　　授以玉杖「续汉书百官志云三老五更杖玉杖又曰仲秋之月郡县道皆案行户此民年七十者授之玉杖以鳩為饰為饰也○今案俞本删陈本脱三老以下近本续汉志此文」<br/><br/>　　迎而輭轮「东观汉记云明帝永平二年元日始尊事三老兄事五更安享輭轮○今案陈本迎而作安车并注后汉明帝纪五字考聚珍本无輭轮句惟范书有之姚辑本脱」<br/><br/>　　桓荣尚书赐爵「东观汉记云明帝永平二年詔曰五更沛国桓荣以尚书教朕十有餘年其赐爵关内侯食邑五千户○今案聚珍本东观记十六教作授千作百考范书明帝纪载此詔书正作五千姚辑本脱」<br/><br/>　　李躬学明赐爵「东观汉记明帝纪云永平二年詔曰三老常山李躬年耆学明○今案陈本改注范书俞本删明帝十字学明下增以二千石禄养身句考聚珍本明帝纪无此文李躬传与俞本同又夹注云此明帝永平二年詔文与旧钞脗合姚辑本亦脱」<br/><br/>　　王祥秉义湻固小同温恭孝友「魏氏春秋云甘露二年詔曰关内侯王祥秉义湻固关内侯郑小同温恭孝友可以祥為三老小同為五更於是天子乃亲率群司躬行古礼○今案陈俞本同魏志四作甘露三年然本钞下文引亦作二年」<br/><br/>　　○祭酒一百三十<br/><br/>　　聪明者為祭酒「晋百官表注云光武好古学廉考太常差次博士有聪明威重者為祭酒○今案陈本同」取长者為祭酒「徐野民绎祭酒义云主人具饌则宾中取长者一人举酒祭地是则长者為祭酒也○今案御览二百三十六引无义字主上有古字又脱取字陈本主作王」以酒沃酹「辩释名云祭酒者谓祭六神以酒沃酹之也○今案陈本玉函山房辑本神下有先字类聚四十六引辩释名沃酹之作醊之」以酒先祭吴王年老不朝「辩释名云祭酒者谓祭六神云云以為刘氏祭酒受几杖○今案陈俞本皆脱类聚四十六引辩释名先祭作祭先无未字」苏武苦节优宠「汉书苏武传云宣帝召武待詔宦者署以武苦节老臣令朝朔望○今案汉书五十四苦作著望下有号称祭酒甚优宠之八字陈本已照改王氏读书杂志据旧钞苦字以证近本汉书之误」<br/><br/>　　荀卿有秀才「史记荀卿传云卿名况齐宣王时三為祭酒○今案名况二字非史记文乃索隐也近本史记宣作襄又无有秀才三字陈本亦作襄并改有秀才三字作為老师三字」<br/><br/>　　杜夷秉真素「晋中兴书云杜夷字行齐庐江人世以儒称尚秉真素中宗以夷為祭酒○今案东观汉记二百三十六引中兴书无庐江句尚秉句陈本脱字行齐六字世作素」<br/><br/>　　○国子祭酒一百三十一<br/><br/>　　选有道人「汉旧仪云博士祭酒选有道之人习学者祭酒国子卿大夫之子弟○今案陈本同平津馆辑本习作有」宜素业士「孔严用阮叔為儒林祭酒教云方当庠序之教云云○今案陈俞本严作儼」掌国子学「晋百官表注云博士祭酒掌国子学○今案陈本同类聚四十六引亦同亦见类聚三十八引晋诸公赞」领五官掾「蜀志秦宓传云先主亲定益州请宓為师友祭酒领五官掾○今案陈本脱亲字蜀志卷八亲作既」安车迎君宾「汉书龚腾传龚胜字君宾王莽遣使者拜胜為讲学祭酒称疾不应徵后莽奉书太子师印綬安车迎胜○今案见汉书卷七十二」执经问行齐「臧荣绪晋书杜机字行齐徐国子祭酒皇太子礼之执经问义○今案陈俞本义作焉又俞本机作畿御览二百三十六引臧晋书机作夷脱礼之二字」戴逵素业祭酒发蒙冑子「王询啟戴逵為国子祭酒云前散骑常侍国子博士戴逵远概云云○今案陈俞本远上增绰有二字概下有堪发冑子之蒙句」庾纯儒行训导国子「臧荣绪晋书云咸寍三年詔曰议郎庾纯篤志好古敦说诗书文说儒行宜训导国子○今案陈俞本无文说二字行下有也字餘同今晋书五十庾纯传只有為国子祭酒句」刻石写经「晋诸公赞云裴頠惠帝时拜為国子祭酒奏立国子太学起讲堂筑门闕刻石以写五经○严氏校以本钞此文窜入上条注中已移正矣今案类聚三十八引晋诸公赞与旧钞同俞本闕作阁餘同陈本亦作阁頠作领今书三十五奏立十二字作奏修国学写下无五字餘同」<br/><br/>　　上疏兴国学「晋中兴书陈郡袁录云瓌字山甫為祭酒上疏云古人有言诗书义之府○今案陈俞本瓌作环并有窜改今晋书八十三袁瓌传府下有国学之兴自瓌始也二句餘同」<br/><br/>　　刘毅博学多闻「臧荣绪晋书武纪云泰始二年詔曰刘毅惠忠好古云云其以毅為散骑常侍国子祭酒○今案陈俞本无惠忠四字武下有帝字无纪云六字」刘智学行优著「又云咸亨四年詔曰南阳王师刘智政化之绪其以智為国子祭酒○今案陈俞本政化四字作学行优著」<br/><br/>　　○博士一百三十二<br/><br/>　　博士秦官「汉书百官公卿表云博士秦官也掌通古今○今案见汉书卷十九上」端委佩玉「晋中兴书博士之职端委佩玉朝之大典必询度之当以直道○今案陈俞本脱当以句御览二百二十九引中兴书道作正」四海渊源「汉书成纪儒林之官四海源宜□古今○今案见汉书卷十陈俞本多增窜」道之渊藪「魏志云文帝即位时博士执经高柔上疏曰博士者道之渊藪也○今案魏志二十四高柔传文作明陈俞本已照改」博习旧说训教学徒「晋中兴书博士之职非徒博习旧说训教学徒而已端委佩玉烈為朝吏人大典○今案陈本同」阐弘冑子「晋起居注云咸寍二年詔曰甄诚公曹志為行道履达觉通义宜在儒林阐弘冑子○今案陈俞本达作先无通义二字又俞本诚作城」参训国子「晋中兴书潁川荀录云崧上疏云国子博士一则应对殿堂奉觴问顾二则参训国子以弘儒训○案陈俞本脱潁川四字以弘四字又俞本觴作酬今晋书七十五荀崧传亦作酬」明典义「晋令云博士皆取履行清湻通明典义若散骑中书侍欴○今案类聚四十六引晋令湻通作通湻非也陈本注内作典明亦非」晓古文「汉旧仪云武帝初置博士取学通行修专学多艺晓古文尔雅○今案平津辑本雅下有為高弟三字类聚四十六引文误今取误所餘同陈本无博学句文误入无尔雅二字」通古今「○今案见类聚四十六引汉官仪旧钞误连下条陈本已改正」通艺事「晋百官表云博士俸有二十五斛云云○今案陈本脱此条」稽合同异「汉官解故云博士稽合同异讲论五始為春秋○今案平津辑本同陈本论作语无為春秋三字」辨於然否「汉书仪云博士秦官博者通於古今士者辨於然否○今案类聚四十六引作汉官仪陈本作汉旧仪平津馆六分入二书颇非矣」礼义所寄「晋中兴书云郭璞言秦博士典於职礼义所寄○今案陈俞本於职作教职」典义是修「杨雄博士箴云洋洋三代典礼是修画為辟雍国有学教○今案百三家本杨子云集及陈本教作校又陈本国误固」入平尚书出部刺史「汉官仪云博士入平尚书出部刺史诸侯相次转諫大夫○今案平津辑本陈本同」张冯太常好选「郭子云张冯字嗣宗刘真长荐之抚军曰下官今日為公得一太常博士好选抚军称善○今案陈俞本脱类聚四十六御览六百十七引郭子无字嗣宗三字餘亦字句微异本钞冯误平长误张据本钞九十八谈讲篇订正」<br/><br/>　　陈元博士第一「华嶠汉书陈元字襄孙时范升奏左氏浅末不宜立博士元争之帝立博士四人元為第一○今案姚辑汪辑本华后汉同陈本改注范书」公孙对策第一「汉书公孙弘传对策為第一召入见容貌甚丽拜為博士待詔金马门○今案近本汉书五十八召下有入字」匡衡射甲科「汉书匡衡字稚规好学射策甲科為博士○今案见书八十一匡衡传规作圭」桓荣说经拜博士「东观汉记桓荣授皇太子经每朝会輒令荣於公卿前说经○今案聚珍本十六公卿句下有因拜荣為博士句陈本已改范书姚辑本同」贾谊通经為博士「汉书贾谊年十八颇通诸家之书文帝詔為博士○今案汉书四十八」长孺通尚书為博士「汉书韦贤字长孺為人质朴少篤志於学兼通礼尚书以讨教授号称大○今案见汉书七十三」仲舒治春秋為博士「汉书董仲舒少治春秋景帝时為博士下帷讲诵弟子以次相授业○今案见汉书五十六」延得间失「汉书翼奉字少君以中郎為博士治齐诗经术皆明○今案见汉书七十五翼奉传此掇拾通传内非连文也无延得句陈俞本作延问得失」用质疑滞「晋中兴书陈郡谢录云沈字行思康帝时朝议七庙迭毁於是以太学博士徵之用质疑滞○今案翰苑新书前集卷五引中兴书无字行思三字时作即位餘同陈本脱陈郡十一字及迭字俞本脱康帝二字迭字」<br/><br/>　　曹褎差序礼仪「汉名臣奏云博士曹褎上疏言圣人莫不制礼作乐詔褎差序○今案御览二百四十二引汉名臣奏无博士□字圣人作王者差作先仪作乐陈俞本已改范书」<br/><br/>　　董钧参议礼乐「范汉书董钧字文伯永平初為博士时草创郊天祭祀及宗庙礼乐威仪輒令钧参议○今案范书一百九下董钧传初作中郊天作五郊陈本已照改」高堂议饗会「魏志高堂隆字叔平為博士文帝初践阼群臣或以為宜饗会○今案俞本同魏志二十五及陈本叔作升」叔孙起朝仪「史记叔孙通為博上及号稷嗣君徵鲁诸生共起朝仪○今案史记叔孙通传及陈俞本无及字」上陈制礼「续汉书曹褎字叔通徵拜博士上疏陈嘉瑞并臻制作之符事下太常上不可许复上疏陈刖礼仪○今案姚辑汪辑本续汉书脱徵拜以下陈俞本已改范书」上言制乐「又云鲁充為博士受詔议立七部三雍大射养老○今案陈本俞本姚辑本汪辑本皆同」灾异问子思「汉书平当字子思以明经為博士每灾异輒问常引经术言得失也○今案汉书七十一平当传每灾作每有灾輒问四字作当輒傅陈俞本已照改惟删当字」大议访范升「东观汉记范升字辨卿迁博士每有大议輒见访问○今案聚珍本无字辨卿二字陈俞本亦然又升误叔姚辑本与陈俞同」录冠狱行风俗「汉书孔光字子夏经学尤明成帝举為博士数使录晚云云○今案见汉书八十一」元世学义著名「王晋书江统字元世以学义著名為国子博士○今案陈俞本同然武帝只有太始太康无太熙年号疑有误也御览四百七十五引诸公赞有卢浮為国子博士句亦可借证」<br/><br/>　　张禹经学精习「汉书张禹字子文萧望之奏為经学精习试為博士○今案见汉书八十一」申公為诗最精「鲁国先贤传云汉文帝时闻申公為诗最精以為博士○今案类聚四十六引御览二百三十六引同陈本国误子」鲁丕兼通五经「东观汉记鲁丕字叔陵专心於学朝夕孜孜云云○今案陈本同聚珍本东观十九姚辑本卷六作沈深好孳孳不倦姚又丕误平略同」张玄兼通数家「又云张玄字君夏其学兼通数家○今案陈本聚珍本姚辑本东观记同」乐祥五业并受「魏略云乐祥字文载少好学黄初中徵拜博士时太学初立惟祥五业并授○今案魏志十六杜畿传注引魏略及陈俞本祥作详」长卿以鲁诗教授「汉书薛广德字长卿经术明宜充博士○今案见汉书七十一」子叔善苍雅「魏略曰邯郸湻字子叔博学有文章又善苍雅虫篆為博士○今案魏志二十一裴注引魏略及陈本文章误才章俞本不误」孝友通字指「魏略云苏林字孝友博学多通古今字指几诸书传皆释之○今案魏志二十一刘劭传注引魏略同」朱云登论难「汉书朱云字游是时少府五鹿充宗贵幸○今案汉书六十七幸下有云登堂既论难连拄五鹿君繇是為博士等句陈俞本已照增」子华重席讲学「殷氏世传云亮字子华為博士称讲学大夫论胜者赐席亮重席八九○今案御览二百三十六引殷世传脱字子华三字餘同类聚四十六引亦然又称作迁」儒者高之「续汉书桓荣字春卿為博士荣之官车驾亲幸儒者高之○今案姚辑汪辑本作字子春餘同陈俞本脱字春卿三字」学者自远而至「谢汉书路仲翁好学家居授学者自远方而至徵博士○今案陈俞本姚辑汪辑本谢书徵下有為字」著录自远方至「东观汉记薛汉字子公才高名远兼通书传苶不昭览推道术尤精教授常数百弟子自远方至者著為录○今案聚珍本东观十七昭作照无推字餘同陈本子公作公子昭作招无推字姚辑本仍作子公餘与陈本同」<br/><br/>　　○学士一百三十三<br/><br/>　　顺帝二百人「胡伯始汉官仪云顺帝时学士二百人○今案陈俞本学士作学生同」汉末至千人「挚虞决疑要注云汉初置弟子五千人与博士共习礼仪○今案通典选举二引决疑注同陈本脱共字」通二经补文学「又云弟子满二岁通二经者补文掌故不通者后辈试之○今案陈俞本脱不通七字御览五百三十四引亦然二百四十六引决疑注略异」通一经称弟子「又云魏时募学者好诵大学為门人满三年试通一经者称弟子○今案陈俞本脱试字」甲科补文学「胡伯始汉官仪云弟子乙科补国学甲科补文学○今案陈本脱补国以下五字俞本亦然惟甲乙两字俱作丙」上书请嵇康「王晋书云晋文王教云嵇康学生三千人上书请康為博士○今案陈俞本教云九字」下牀拜符融「广奋传云仇香在太学符融与郭泰齎刺就房与谈日暮二人因宿至旦泰乃叹曰君非郭泰友耶下牀為拜○今案俞本标目改拜仇香广上增后汉二字符作马与谈二十字作謁之遂请留宿泰嗟叹餘同考范书无广奋传惟仇览传与此文略同俞本於谈以下改从范书陈本则全改范书并合下文宾言一条非原钞之旧矣」<br/><br/>　　孔嵩游集帝学「谢承后汉书孔嵩宇巨山与范式俱在太学嵩家贫佣為新野阿里街○今案姚辑本谢书无嵩家以下又附注谓范书作仲山嵩家贫為佣卒汪辑本家贫作贫居為作於无阿里街三字餘同陈俞本巨改仲脱嵩家二句」<br/><br/>　　郭宪游志太学「汝南先浿传云郭宪字子横体忠烈之节游志太学贯通祕奥光武赋之○今案俞本赋作嘉陈本脱贯通以下」仇香不与宾言「广奋传云仇香在太学符融与香比字有高名宾客如云香终年不与宾客言融奇之乃要与之语香高揖正色曰天子设太学豆但使人游谈○今案俞本符作马年作日餘同陈本改从书并合注在上条」<br/><br/>　　北堂书钞卷第六十七 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-999-9673.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-999-9675.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-999.html" action-type="chapterComment" class="comment"><i></i>北堂书钞章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

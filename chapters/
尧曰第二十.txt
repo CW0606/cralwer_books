@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《论语》正文_尧曰第二十_孔子作品 - 维普阅读网</title>
+<meta name="keywords" content="论语,论语原文,论语阅读,尧曰第二十全文,孔子作品" />
+<meta name="description" content="论语原文阅读,尧曰第二十全文在线阅读,孔子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-25-385.html";
+var nextpage="novel-chapter-25.html";
+var indexpage = "novel-chapter-25.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-25.html">论语</a></strong>
+<strong><a href="novel-chapter-25.html">论语目录</a></strong>
+<span>尧曰第二十</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-25-385.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>尧曰第二十</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=孔子&amp;searchsubmit=yes"  target="_blank">孔子</a><span class="divide">|</span>发布时间：2014-07-19 11:03:03<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/>　　尧曰：“咨，尔舜，天之历数在尔躬，允执其中。四海困穷，天禄永终。”舜亦以命禹，曰：“予小子履，敢用玄牡，敢昭告于皇皇后帝，有罪不敢赦，帝臣不蔽，简在帝心。朕躬有罪，无以万方，万方有罪，罪在朕躬。周有大赉，善人是富。虽有周亲，不如仁人。百姓有过，在予一人。谨权量，审法度，修废官，四方之政行焉。兴灭国，继绝世，举逸民，天下之民归心焉。所重民，食丧祭。宽则得众，信则民任焉，敏则有功，公则说。”<br/>　　子张问于孔子曰：“何如，斯可以从政矣？”子曰：“尊五美，屏四恶，斯可以从政矣。”子张曰：“何谓五美？”曰：“君子惠而不费，劳而不怨，欲而不贪，泰而不骄，威而不猛。”子张曰：“何谓惠而不费？”子曰：“因民之所利而利之，斯不亦惠而不费乎？择可劳而劳之，又谁怨？欲仁得仁，又焉贪？君子无众寡、无小大、无敢慢，斯不亦泰而不骄乎？君子正其衣冠，尊其瞻视，俨然人望而畏之，斯不亦威而不猛乎？”子张曰：“何谓四恶？”子曰：“不教而杀谓之虐，不戒视成谓之暴，慢令致期谓之贼，犹之与人也，出纳之吝，谓之有司。”<br/>　　子曰：“不知命，无以为君子；不知礼，无以立也；不知言，无以知人也。”<br/><br/>逐句翻译：<br/><br/>【本篇引语】<br/>本篇共3章，但段落都比较长。本篇中著名的文句有：“君子惠而不费，劳而不怨，欲而不贪，泰而不骄，威而不猛”；“宽则得众，信则民任”；“兴灭国，继绝世，举逸民”等。这一篇中，主要谈到尧禅让帝位给舜，舜禅让帝位给禹，即所谓三代的善政和孔子关于治理国家事务的基本要求。<br/>20.1<br/>【原文】<br/>尧曰：“咨！尔舜！天之历数在尔躬，允执其中。四海困穷，天禄永终。”<br/>舜亦以命禹。<br/>曰：“予小子履，敢用玄牡，敢昭告于皇皇后帝：有罪不敢赦。帝臣不蔽，简在帝心。朕躬有罪，无以万方；万方有罪，罪在朕躬。”<br/>周有大赉，善人是富。“虽有周亲，不如仁人。百姓有过，在予一人。”<br/>谨权量，审法度，修废官，四方之政行焉。兴灭国，继绝世，举逸民，天下之民归心焉。<br/>所重：民、食、丧、祭。<br/>宽则得众，信则民任焉，敏则有功，公则说。<br/>【注释】<br/>尧：传说我国父系氏族社会后期的部落联盟首领，把帝位禅（shàn）让给舜。<br/>咨（zī）：感叹词，相当于啧啧。<br/>舜：接受尧禅让的君主，后把帝位禅让给了禹。传说他的眼睛有两个瞳仁，又叫重华。<br/>天之历数：天命，古代帝王认为自己能当皇帝是由天命决定的，常假托天命。<br/>允：公平，公允。<br/>执：执守，保持。<br/>予小子：上古帝王自称词，或称予一人。<br/>履：商汤的名字。<br/>玄：黑色。<br/>牡：公牛。<br/>皇皇：大，伟大。<br/>后：古代天子诸侯都称作后，后世皇帝的正妻称后。<br/>帝：古代指最高的天神。这里，帝、后都指天帝。<br/>朕（zhèn）：我。秦代之前不论地位尊卑都自称朕。<br/>赉（lài）：赏赐。<br/>权：衡量轻重。<br/>量：容量。<br/>法度：不是指法律制度，而是指度量衡。度，长度。<br/>说：同“悦”。<br/>【大意】<br/>尧说：“啧啧！你舜！天命落到你身上了，你要公允地执守中正之道。如果你执行不好，天下百姓陷入穷困，那么上天给你的禄位就永远终结了。” 舜也把同样的话嘱咐了禹。商汤说：“我履，谨用黑色公牛来做牺牲，冒昧地向天帝祷告：对有罪的人，我不敢擅自赦免。您的贤人仆臣我也不敢隐瞒掩盖，您心里是清楚的。如果我自身有罪过，不要累及天下万方；如果万方有罪，都该由我一人负责。” 周武王大行赏赐，使善人都富了起来。周武王说：“虽然有至亲近戚，都不如仁人。百姓有过错的话，都该由我一人承担。” 审定度量衡，务求统一公平，恢复已经废弃的官职，四方的政令就容易推行了。恢复被灭亡的国家，承续已绝的族世，推举任用在野隐居的贤人，天下的民心就归服了。所重视的是人民、饮食、丧礼、祭礼。在上位的人宽厚就会获得民心，能守信，民众就信任他，能勤勉做事就能取得成功，处事公平人民就会高兴。<br/>【评析】<br/>这一大段文字，记述了从尧帝以来历代先圣先王的遗训，中间或许有脱落之处，衔接不起来。后来的部分里，孔子对三代以来的美德善政作了高度概括，可以说是对《论语》全书中有关治国安邦平天下的思想加以总结，对后代产生了很大的影响力。<br/>20.2<br/>【原文】<br/>子张问于孔子曰：“何如斯可以从政矣？”<br/>子曰：“尊五美，屏四恶，斯可以从政矣。”<br/>子张曰：“何谓五美？”<br/>子曰：“君子惠而不费，劳而不怨，欲而不贪，泰而不骄，威而不猛。”<br/>子张曰：“何谓惠而不费？”<br/>子曰：“因民之所利而利之，斯不亦惠而不费乎？择可劳而劳之，又谁怨？欲仁而得仁，又焉贪？君子无众寡，无小大，无敢慢，斯不亦泰而不骄乎？君子正其衣冠，尊其瞻视，俨然人望而畏之，斯不亦威而不猛乎？”<br/>子张曰：“何谓四恶？”<br/>子曰：“不教而杀谓之虐；不戒视成谓之暴；慢令致期谓之贼；犹之与人也，出纳之吝，谓之有司。”<br/>【注释】<br/>斯：就。<br/>有司：原指官吏的统称。这里指库吏一类的小官，他们在财务进出时都精确计算，若从政的人这样就显得吝啬小气了。<br/>【大意】<br/>子张问孔子说：“怎么样就可以从政了呢？” 孔子说：“尊崇五种美德，摒弃四种恶行，就可以从政了。” 子张说：“什么是五种美德？” 孔子说：“君子给人民恩惠，而自己却无所耗费；役使人民，却不会遭到怨恨；求施行仁道，自己不贪求财利；矜持却不骄傲；威严却不凶猛。” 子张说：“什么是给人民恩惠而自己不耗费？” 孔子说：“看人民在哪方面可以得利，就在哪方面引导他们去得利，这不也是自己没什么耗费吗？选择人民干得了的劳役让他们干，谁又会怨恨你呢？欲求施行仁德而得到了仁德，又贪什么财利呢？君子不论对方人多少，势力大小，都不敢怠慢，这不也是矜持而不骄傲吗？君子衣冠端正，神色庄严，别人见了他就生敬畏之心，这不是威严而不凶猛吗？” 子张问：“什么是四恶？” 孔子说：“不事先教育，犯了错就杀的叫做虐；不提前告诫，却马上要求成功的叫暴；很晚才下命令，却要限期完成的叫贼；同样是要给予别人的，但在拿出来时很吝啬，这叫小气。”<br/>【评析】<br/>这是子张向孔子请教为官从政的要领。这里，孔子讲了“五美四恶”，这是他政治主张的基本点，其中包含有丰富的“民本”思想，比如：“因民之所利而利之”，“择可劳而劳之”，反对“不教而杀”、“不戒视成”的暴虐之政。从这里可以看出，孔子对德治、礼治社会有自己独到的主张，在今天仍不失其重要的借鉴价值。<br/>20.3<br/>【原文】<br/>孔子曰：“不知命，无以为君子也；不知礼，无以立也；不知言，无以知人也。”<br/>【注释】<br/>孔子曰：或作“子曰”。<br/>【大意】<br/>孔子说：“不懂得天命，就无法成为君子；不懂得礼，就无法立身于社会；不懂得辨别别人的言论，就无法了解知道别人。”<br/>【评析】<br/>这一章，孔子再次向君子提出三点要求，即“知命”、“知礼”、“知言”，这是君子立身处世需要特别注意的问题。《论语》一书最后一章谈君子人格的内容，表明此书之侧重点，就在于塑造具有理想人格的君子，培养治国安邦平天下的志士仁人。 <br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-25-385.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-25.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-25.html" action-type="chapterComment" class="comment"><i></i>论语章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《集外集》正文_备考：来信（未名）_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="集外集,集外集原文,集外集阅读,备考：来信（未名）全文,鲁迅作品" />
+<meta name="description" content="集外集原文阅读,备考：来信（未名）全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-540-6923.html";
+var nextpage="novel-read-540-6925.html";
+var indexpage = "novel-chapter-540.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-540.html">集外集</a></strong>
+<strong><a href="novel-chapter-540.html">集外集目录</a></strong>
+<span>备考：来信（未名）</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-540-6923.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>备考：来信（未名）</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-30 19:24:11<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>我们学校里也有一个小小的图书馆，虽说不到国内的报章刊物杂志一切尽有，大概也有一二种；而办学者虽说不到以全副力量在这里办学，总算得是出了一点狗力在这里厮闹。 <br/><br/>　　有一天，一位同学要求图书馆主任订购《莽原》，主任把这件事提交教授会议——或者是评议会，经神圣的教授会审查，说《莽原》是谈社会主义的，不能订。然而主任敌不过那同学的要求，终究订了。 <br/><br/>　　我自从听到《莽原》是谈社会主义的以后，便细心的从第一期起，重行翻阅一回，始终一点儿证据也找不着。不知他们所说的根据在何处？——恐怕他们的见解独到罢。这是要问你的一点。 <br/><br/>　　因为我喜欢看《莽原》，忽然听到教授老爷们说它谈社会主义，像我这样的学生小子，自然是要起恐慌的。因为社会主义这四字是不好的名词，像洪水猛兽的一般，——在他们看起来。因为现在谈社会主义的书，就像从前“有图画的本子，就要被塾师，就是当时的‘引导青年的前辈’禁止，呵斥，甚而至于打手心”一样。因为恐怕他们禁止我读我爱读的《莽原》，而要我去读“人之初性本善”，至于呵斥，打手心，所以害怕得要死。这也是要问你的一点，要问你一个明白的一点。 <br/><br/>　　有此两点，所以要问你，因为大学教授说的话，比较的真确——不是放屁，所以要问你，要问你《莽原》到底是不是谈社会主义。 <br/><br/>　　六，一，未名于武昌。 <br/><br/>　　我并不是姓未名名，也不是名未名，未名也不是我的别号，也不是像你们未名社没有取名字的意义。我的名二十一年前已经取好了，只是怕你把它宣布出来，那末他们教授老爷就要加害于我，所以不写出来。因为没有写出自己的真名字，就名之曰未名。 <br/><br/><br/><br/>　　（１）本篇最初发表于一九二六年六月二十五日《莽原》半月刊第十二期。 <br/><br/>　　（２）关于学生因为投稿被教授谋害的事，北京大学英语系学生董秋芳在一九二六年三月三十日《京报副刊》发表《可怕与可杀》一文，指斥陈西滢等把三一八惨案的责任“放在群众领袖的身上”。陈便利用北大英语系主任的职权，拒发英语翻译本给董，使他得不到该课成绩而影响毕业。董曾将此事经过告诉鲁迅。 <br/><br/>　　（３）指牛荣声的《开倒车》一文，见《现代评论》第七十八期（一九二六年六月五日），其中说：“即如现在急进派骂稳健派为‘开倒车’，照他们的主张，必须把知识阶级打倒，把一切社会制度根本推翻，方不是‘开倒车’。不过大家要细想：假设我们把知识阶级完全打倒后一百年，世界成个什么世界呢。” <br/><br/>　　（４）“心上有杞天之虑”这是杨荫榆掉弄成语“杞人忧天”而成的不通的文句。见她发表于一九二五年五月二十日《晨报》的《对于暴烈学生之感言》。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-540-6923.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-540-6925.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-540.html" action-type="chapterComment" class="comment"><i></i>集外集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《从军行》正文_从军行_卢思道作品 - 维普阅读网</title>
+<meta name="keywords" content="从军行,从军行原文,从军行阅读,从军行全文,卢思道作品" />
+<meta name="description" content="从军行原文阅读,从军行全文在线阅读,卢思道作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-972.html";
+var nextpage="novel-chapter-972.html";
+var indexpage = "novel-chapter-972.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-972.html">从军行</a></strong>
+<strong><a href="novel-chapter-972.html">从军行目录</a></strong>
+<span>从军行</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-972.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>从军行</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=卢思道&amp;searchsubmit=yes"  target="_blank">卢思道</a><span class="divide">|</span>发布时间：2014-11-18 19:49:14<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>朔方烽火照甘泉，长安飞将出祁连。<br/>犀渠玉剑良家子，白马金羁侠少年。<br/>平明偃月屯右地，薄暮鱼丽逐左贤。<br/>谷中石虎经衔箭，山上金人曾祭天。<br/>天涯一去无穷已，蓟门迢递三千里。<br/>朝见马岭黄沙合，夕望龙城阵云起。<br/>庭中奇树已堪攀，塞外征人殊未还。<br/>白云初下天山外，浮云直向五原间。<br/>关山万里不可越，谁能坐对芳菲月。<br/>流水本自断人肠，坚冰旧来伤马骨。<br/>边庭节物与华异，冬霰秋霜春不歇。<br/>长风萧萧渡水来，归雁连连映天没。<br/>从军行，军行万里出龙庭，单于渭桥今已拜，将军何处觅功名。<br/><br/>【译文】<br/>　　北方边塞的战火已照在秦汉离宫故地的甘泉山上，似同李广那样的飞将军兵出长安再出祁连山关隘。执掌犀皮之盾和冰玉利剑的士兵都是征来的良家子弟，跨白马执金缰的都是侠义少年。凌晨起就在边塞之地摆下“偃月”之阵，夜幕临近时便以“鱼丽”之阵战胜驱除匈奴的左贤之官。历战的山谷中都留下了状如李广以石为虎箭入石中的神力无穷的故事，山岭上则是汉将霍去病胜敌后缴械敌方祭天用具的的美传。战事绵绵似天涯般没有穷尽，战场距蓟门(今北京城北)迢迢三千里之遥。早上见到的是马岭关上的滚滚黄沙，晚上看见的是匈奴王庭处的兵阵如云。(征人行前)庭院中植下的佳树已长到可以攀人的大小，可塞外作战的亲人仍未回还。心如飘雪随夫远至于新疆中部的天山之外，又若浮云飞悬到内蒙西部的五原城中。而那万里之遥的关隘高山是不可穿越的，如何独自应对百花芬芳下的清明月色呢？别离后的时光飞逝似流水使人有断肠之痛，那塞外的苦战和寒冷连战马之骨都屡屡受伤。塞外的节气与物候与内地大不相同，冬秋长而春季短。萧萧长风尚可伴河而渡，南归之雁也可依时不断的逝向天边。从军而去，直到离皇城万里去远征。想那汉宣帝渭桥见匈奴单于而和好罢战之事(事在公元前51年)，欲战不能的将军们还将何处寻求征战以邀功名呢？ <br/><br/>【赏析】<br/>　　《从军行》属乐府《相和歌辞·平调曲》。<br/><br/>　　在历代众多《从军行》诗作中，卢思道的这首是传播得较为广泛的。据《古今诗话》载：唐玄宗自巴蜀回，夜登勤政楼就吟咏了本诗中的“庭前奇树已堪攀，塞外征人殊未还”句，可见在唐代这首诗就很受欣赏。<br/><br/>　　古乐府《从军行》大多写军旅生活的艰苦和征人思妇两地相思的痛苦，本篇也是如此。<br/><br/>　　这首诗的前半部是写征战将士英勇奋战，长戍不归的戎马生活。“朔方烽火照甘泉，长安飞将出祁连”，诗篇一开头，便渲染了强烈的战争气氛：北方的烽火接连不断地传来战争的消息，军情紧急，令人担忧。甘泉是西汉的皇宫名，“照甘泉”在这里代指向朝廷报警。“飞将”即西汉著名将领李广。接着，诗中便描绘了这位“长安飞将”的英姿。“犀渠玉剑良家子，白马金羁侠少年”，据《史记·李将军列传》载：“孝文帝十四年，匈奴大入箫关，而广以良家子从军击胡……”“犀渠”是盾的一种。“平明偃月屯右地，薄暮鱼丽逐左贤”，这两句中“右地”指右北平，左贤代指匈奴的重要首领。“平明”和“薄暮”写出了将士们在边塞度过了数不清的日日夜夜。“偃月”和“鱼丽”是古代的两种战阵的名称。这里诗人用了极简炼的文字，生动地写出了将士们紧张的征战生活。“屯右地”“逐左贤”都是李广所为。接下来“谷中石虎经衔箭，山上金人曾祭天”用了两个典故。《史记·李将军列传》中记道：“广出猎，见草中石，以为虎而射之，中石没镞，视之石也。因复更射之，终不能复入石矣。”“山上金人曾祭天”也用的是汉代典故，汉大将霍去病出征西域，获胜，“收休屠祭天金人”。诗人通过这两个典故进一步表现出征匈奴的将士的神威，也正因为有了这些英勇的将士，才取得了战争的胜利。<br/><br/>　　诗的前半部着重塑造了飞将军李广的形象，以李广来代指当时的征战将士，采取了虚中有实，实中有虚的写法，既是赞扬汉代名将李广的业绩，又是当时征战将士生活的写照。把历史和现实揉合在一起。<br/><br/>　　自“天涯一去无穷已”开始，写将士和他们妻子的两地相思。诗从两处落笔，感情转为忧怨。“无穷已”原指路途遥远，这里写出了将士们遥无归期的征战生活。“蓟门”“马岭”“龙城”均为北方的地名，在这里都是虚指。连年的战争使将士家中的亲人，对着遥远的塞北望眼欲穿，但是“庭中奇树已堪攀，塞外征人殊未还”，诗人用衬托的手法写出了战争的长期和残酷。“白雪初下天山外，浮云直上五原间”，五原在今内蒙古包头西北，这里写了亲人们在极寒冷的塞外，远隔千里，因此人们只能发出“关山万里不可越，谁能坐对芳菲月”的叹息。《乐府诗集·横吹曲辞》中有《关山月》曲，《乐府题解》说：“关山月，伤离别也”在写征夫思妇的诗中，常用到关山和月。人们想着万里之外的亲人，谁能独自欣赏那美丽动人的月亮呢?“流水本自断人肠，坚冰旧来伤马骨”既写出了边地将上的生活苦寒，又写出了他们悲切的怨情。“伤马骨”出自陈琳的“饮马长城窟，水寒伤马骨”，冬去春来，在远离故土的异地他乡，将士们度过了多少日日夜夜，“长风萧萧渡水来，归雁连连映天没”雁归而人未归，萧萧长风，行行归雁，蕴含着征夫思妇无限的思乡离情。<br/><br/>　　“从军行，军行万里出龙庭”可说是全诗的总结，龙庭是匈奴祭祀的地方，“出龙庭”在诗中指出征之远。“单于渭桥今已拜，将军何处觅功名。“意思是说匈奴已投降了，将军再到哪里去建功立业呢?言外之意是：边塞的将士总该回来了吧!<br/><br/>　　《诗薮》说“六朝歌行可入初唐者，卢思道《从军行》，薛道衡《豫章行》，音响格调咸自停匀，气体丰神，尤为焕发。”可以说《从军行》影响了唐以来的七言歌行。<br/><br/>　　隋朝统一了分裂三百来年的中国，结束了东晋以来南北对峙的局面。作为隋代的诗人卢思道，在他的诗中，也融会了南朝和北朝的风格，在《从军行》中，既写将士的英勇出征，又写了思妇闺怨，既有“长安飞将出祁连”“白马金羁侠少年”的奔放、雄健，又有“谁能坐对芳菲月”“流水本自断人肠”的清丽、哀怨，南北的风格在卢思道的《从军行》里得到了较和谐的统一。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-972.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-972.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-972.html" action-type="chapterComment" class="comment"><i></i>从军行章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

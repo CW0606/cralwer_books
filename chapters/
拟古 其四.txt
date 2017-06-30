@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《拟古九首》正文_拟古 其四_陶渊明作品 - 维普阅读网</title>
+<meta name="keywords" content="拟古九首,拟古九首原文,拟古九首阅读,拟古 其四全文,陶渊明作品" />
+<meta name="description" content="拟古九首原文阅读,拟古 其四全文在线阅读,陶渊明作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-645-7886.html";
+var nextpage="novel-read-645-7888.html";
+var indexpage = "novel-chapter-645.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-645.html">拟古九首</a></strong>
+<strong><a href="novel-chapter-645.html">拟古九首目录</a></strong>
+<span>拟古 其四</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-645-7886.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>拟古 其四</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=陶渊明&amp;searchsubmit=yes"  target="_blank">陶渊明</a><span class="divide">|</span>发布时间：2014-10-15 21:13:34<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>迢迢百尺楼，分明望四荒，<br/>暮作归云宅，朝为飞鸟堂。<br/>山河满目中，平原独茫茫。<br/>古时功名士，慷慨争此场。<br/>一旦百岁後，相与还北邙。<br/>松柏为人伐，高坟互低昂。<br/>颓基无遗主，游魂在何方！<br/>荣华诚足贵，亦复可怜伤。<br/><br/>【注释】<br/>(1)这首诗写由登楼远眺而引起的感慨沉思。江山满目，茫茫无限，历史沧桑，古今之变，尤显人生一世，何其短暂！曾经在这片土地上追逐功名利禄的古人，早已身死魂灭，只剩下荒坟一片，实在可怜可伤。从而抒发了诗人不慕荣华富贵、坚持隐居守节的志向与情怀。<br/>(2)迢迢（tiáo 条）：本义指遥远的样子，这里形容高高的样子。分明：清楚。四荒：四方荒远之地。<br/>(3)归云宅：是说白云晚上把它当作住宅。形容楼之高。《古诗十九首》之五：“西北有高楼，上与浮云齐。”飞鸟堂：飞鸟聚集的厅堂。<br/>(4)茫茫：辽阔，深远。<br/>(5)功名土：追逐功名利禄之人。此场：指山河、平原。<br/>(6)百岁后：去世以后。相与：共同，同样。北邙（máng 忙）：山名，在洛阳城北，东汉、魏，西晋君臣多葬此山。这里泛指墓地。<br/>(7)互低昂：形容坟堆高低不齐。昂：高。<br/>(8)颓基：倒塌毁坏了的墓基。遗主：指坟墓的主人，即死者的后代。<br/>(9)这两句是说，对于那些生前追求功名的人来说，荣华的确是珍贵的，但死后一无所得，且如此凄凉，也实在可怜可悲。<br/><br/>【译文】<br/>登上高高百尺楼，<br/>清晰可见远四方。<br/>夜间云聚栖其内，<br/>白日鸟集作厅堂。<br/>远处山河尽在目，<br/>平原一片渺茫茫。<br/>古时热恋功名者，<br/>慷慨争逐在此场。<br/>一旦丧身离人世，<br/>结局一样葬北邙。<br/>墓边松柏被人伐，<br/>坟墓高低甚凄凉。<br/>无主墓基已毁坏，<br/>谁知魂魄在何方？<br/>生前名利实可贵，<br/>如此凄凉堪悲伤！</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-645-7886.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-645-7888.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-645.html" action-type="chapterComment" class="comment"><i></i>拟古九首章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

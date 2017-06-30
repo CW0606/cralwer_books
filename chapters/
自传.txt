@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《集外集拾遗补编》正文_自传_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="集外集拾遗补编,集外集拾遗补编原文,集外集拾遗补编阅读,自传全文,鲁迅作品" />
+<meta name="description" content="集外集拾遗补编原文阅读,自传全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-542-7261.html";
+var nextpage="novel-read-542-7263.html";
+var indexpage = "novel-chapter-542.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-542.html">集外集拾遗补编</a></strong>
+<strong><a href="novel-chapter-542.html">集外集拾遗补编目录</a></strong>
+<span>自传</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-542-7261.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>自传</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-01 21:21:41<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　鲁迅，以一八八一年生于浙江之绍兴城内姓周的一个大家族里。父亲是秀才；母亲姓鲁，乡下人，她以自修到能看文学作品的程度。家里原有祖遗的四五十亩田，但在父亲死掉之前，已经卖完了。这时我大约十三四岁，但还勉强读了三四年多的中国书。 <br/><br/>　　因为没有钱，就得寻不用学费的学校，于是去到南京，住了大半年，考进了水师学堂。不久，分在管轮班，我想，那就上不了舱面了，便走出，又考进了矿路学堂，在那里毕业；被送往日本留学。但我又变计，改而学医，学了两年，又变计，要弄文学了。于是看些文学书，一面翻译，也作些论文，设法在刊物上发表。直到一九一○年，我的母亲无法生活，这才回国，在杭州师范学校作助教，（２）次年在绍兴中学作监学（３）。一九一二年革命后，被任为绍兴师范学校校长（４）。但绍兴革命军的首领（５）是强盗出身，我不满意他的行为，他说要杀死我了，我就到南京，在教育部办事，由此进北京，做到社会教育司的第二科科长。一九一八年“文学革命”运动起，我始用“鲁迅”的笔名作小说，登在《新青年》（６）上，以后就时时作些短篇小说和短评；一面也做北京大学，师范大学，女子师范大学的讲师。因为做评论，敌人就多起来，北京大学教授陈源开始发表这“鲁迅”就是我，（７）由此弄到段祺瑞将我撤职，并且还要逮捕我。我只好离开北京，到厦门大学做教授；约有半年，和校长以及别的几个教授冲突了，便到广州，在中山大学做了教务长兼文科教授。 <br/><br/>　　又约半年，国民党北伐分明很顺利，厦门的有些教授就也到广州来了，不久就清党（８），我一生从未见过有这么杀人的，我就辞了职，回到上海，想以译作谋生。但因为加入自由大同盟（９），听说国民党在通缉我了，我便躲起来。此后又加入了左翼作家联盟（１０），民权同盟（１１）。到今年，我的一九二六年以后出版的译作，几乎全被国民党所禁止。 <br/><br/>　　我的工作，除翻译及编辑的不算外，创作的有短篇小说集二本，散文诗一本，回忆记一本，论文集一本，短评八本，《中国小说史略》一本。 <br/><br/>　　==============================================================================<br/><br/><br/>　　（１）本篇据手稿编入，原无标题，当写于一九三四年三、四月间。 <br/><br/>　　当时鲁迅正和茅盾一起应美国人伊罗生之托选编一部题名《草鞋脚》的中国现代短篇小说集。该书计划收入各入选作者的小传。本篇即为此而写。 <br/><br/>　　（２）鲁迅于一九○九年七、八月间回国，同年九月在杭州浙江两级师范学堂任日籍教员的翻译，同时讲授生理学和化学。（３）绍兴中学即绍兴府中学堂。一九一○年九月，鲁迅到该校任监学兼生物教员。监学，负责管理学生的职员，一般也兼任教学工作。 <br/><br/>　　（４）鲁迅于一九一一年十一月绍兴光复后任山会师范学堂监督（校长）。一九一二年初该校改名为绍兴师范学校。（５）指王金发（１８８２—１９１５），名逸，字季高，浙江嵊县人。浙东洪门会平阳党首领，后由陶成章介绍加入光复会。一九一一年十一月任绍兴军政分府都督。“二次革命”失败后，在一九一五年七月被袁世凯的走狗浙江督军朱瑞杀害于杭州。一九一二年，因鲁迅支持的《越铎日报》对军政分府的弊端有所批评，曾出现过王金发要派人暗杀鲁迅的传言。参看《朝花夕拾·范爱农》。 <br/><br/>　　（６）《新青年》综合性月刊，“五四”时期倡导新文化运动、传播马克思主义的重要刊物，陈独秀主编。一九一五年九月创刊于上海。第一卷名《青年杂志》，第二卷起改名《新青年》。一九一六年底迁至北京。从一九一八年一月起，李大钊等参加编辑工作。一九二二年七月休刊，共出九卷，每卷六期。鲁迅在“五四”时期同该刊联系密切，是它的重要撰稿人，并曾参与该刊编辑工作。（７）陈源（１８９６—１９７０）字通伯，笔名西滢，江苏无锡人，现代评论派重要成员。著有《西滢闲话》等。在“女师大风潮”中，他一再散布流言，攻击鲁迅等“挑剔风潮”，又在一九二六年一月二十日《晨报副刊》发表《致志摩》的信，其中有“鲁迅，即教育部佥事周树人”等语。 <br/><br/>　　（８）清党一九二四年，国民党在孙中山主持下改组以后，承认共产党员以个人资格参加该党。一九二七年国民党反动派发动“四一二”政变，公布“清党”决议案，大肆捕杀共产党员和国民党左派分子，这就是所谓“清党运动”。 <br/><br/>　　（９）自由大同盟中国自由运动大同盟的简称，中国共产党支持和领导下的进步团体，一九三○年二月成立于上海。其宗旨是争取集会、结社、言论、出版等自由，反对国民党的反动统治。鲁迅是发起人之一，国民党浙江省党部即以此为罪名，呈请国民党中央通缉“堕落文人鲁迅”，鲁迅被迫于三月十九日离寓避难，四月一日回寓。（１０）左翼作家联盟即中国左翼作家联盟，简称“左联”，中国共产党领导的革命文学团体。领导成员有鲁迅、夏衍、冯雪峰、冯乃超、周扬等。一九三○年三月成立于上海。一九三五年底自行解散。（１１）民权同盟中国民权保障同盟的简称，宋庆龄、蔡元培、杨铨、鲁迅等发起组织的进步团体。一九三二年十二月成立于上海。其宗旨是反对国民党的法西斯专制，援救政治犯，争取集会、结社、言论、出版等自由权利。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-542-7261.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-542-7263.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-542.html" action-type="chapterComment" class="comment"><i></i>集外集拾遗补编章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

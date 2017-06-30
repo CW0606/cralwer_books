@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孝经注疏》正文_卷二 卿大夫章第四_注 唐·李隆基，疏 宋·邢昺作品 - 维普阅读网</title>
+<meta name="keywords" content="孝经注疏,孝经注疏原文,孝经注疏阅读,卷二 卿大夫章第四全文,注 唐·李隆基，疏 宋·邢昺作品" />
+<meta name="description" content="孝经注疏原文阅读,卷二 卿大夫章第四全文在线阅读,注 唐·李隆基，疏 宋·邢昺作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1425-26372.html";
+var nextpage="novel-read-1425-26374.html";
+var indexpage = "novel-chapter-1425.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1425.html">孝经注疏</a></strong>
+<strong><a href="novel-chapter-1425.html">孝经注疏目录</a></strong>
+<span>卷二 卿大夫章第四</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1425-26372.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷二 卿大夫章第四</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=注 唐·李隆基，疏 宋·邢昺&amp;searchsubmit=yes"  target="_blank">注 唐·李隆基，疏 宋·邢昺</a><span class="divide">|</span>发布时间：2016-07-22 22:46:12<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p> [疏]正义曰：次诸侯之贵者即卿大夫焉。《说文》云：“卿，章也。”《白虎通》云：“卿之为言章也，章善明理也。大夫之为言大扶，扶进人者也。故传云：进贤达能谓之卿大夫。”《王制》云：“上大夫，卿也。”又《典命》云：“王之卿六命，其大夫四命。”则为卿与大夫异也。今连言者，以其行同也。<br/><br/>　<br/><br/>　　“非先王之法服不敢服，服者，身之表也。先王制五服，各有等差。言卿大夫遵守礼法，不敢僣上逼下。非先王之法言不敢道，非先王之德行不敢行。法言，谓礼法之言。德行，谓道德之行。若言非法，行非德，则亏孝道，故不敢也。是故非法不言，非道不行。言必守法，行必遵道。口无择言，身无择行。言行皆遵法道，所以无可择也。言满天下无口过，行满天下无怨恶。礼法之言，焉。有口过。道德之行，自无怨恶。三者备矣，然后能守其宗庙。三者，服、言、行也。礼：卿大夫立三庙，以奉先祖。言能备此三者，则能长守宗庙之祀。盖卿大夫之孝也。<br/><br/>　　[疏]非先王至孝也。<br/><br/>　　○正义曰：夫子述诸侯行孝之事终毕，次明卿大夫之行孝也。言大夫委质事君，学以从政，立朝则接对宾客，出聘则将命他邦。服饰、言、行，须遵礼典。非先王礼法之衣服，则不敢服之於身。若非先王礼法之言辞，则不敢道之於口。若非先王道德之景行，亦不敢行之於身。就此三事之中，言行尤须重慎。是故非礼法则不言，非道德则不行。所以口无可择之言，身无可择之行也。使言满天下无口过，行满天下无怨恶。服饰、言、行三者无亏，然后乃能守其先祖之宗庙。盖是卿大夫之行孝也。《援神契》云：“卿大夫行孝曰誉，盖以声誉为义。”谓言行布满天下，能无怨恶，遐迩称誉，是荣亲也。旧说云：“天子、诸侯。各有卿大夫。”此章既云言行满於天下，又引《诗》云：“夙夜匪懈，以事一人”，是举天子卿大夫也。天子卿大夫尚尔，则诸侯卿大夫可知也。<br/>　　○注服者至逼下。<br/>　　○正义曰：“服者，身之表也”者，此依孔传也。《左传》曰：“衣，身之章也。”彼注云“章贵贱”，言服饰所以章其贵贱，章则表之义也。云“先王制五服，各有等差”者，案《尚书·皋陶篇》曰：“天命有德，五服五章哉。”孔传云：“五服：天子、诸侯、卿、大夫、士之服也。”尊卑采章各异，是有等差也。云“言卿大夫遵守礼法，不敢僣上逼下”者，“僣上”谓服饰过制，僣拟於上也；“逼下”谓服饰俭固，逼迫於下也。卿大夫言必守法，行必遵德，服饰须合礼度，无宜僣逼。故刘炫引《礼》证之曰“君子上不僣上，下不逼下”是也。又案《尚书·益稷篇》称命禹曰：“予欲观古人之象，日、月、星辰、山、龙、华蟲作会，宗彝、藻、火、粉、米、黼、黻絺绣，以五采章施於五色，作服，汝明。”孔传曰：“天子服日、月而下，诸侯自龙衮而下，至黼、黻，士服藻、火，大夫加粉、米。上得兼下，下不得僣上此古之天子冕服十二章，以日、月、星辰及山、龙、华蟲六章画於衣。衣法於天，画之为阳也。以藻、火、粉、米、黼、黻六章绣之於裳。裳法於地，绣之为阴也。日、月、星辰，取照临於下；山取兴云致雨，龙取变化无穷；华蟲谓雉，取耿介；藻取文章，火取炎上以助其德；粉取絜白，米取能养；黼取断割，黻取背恶乡善：皆为百王之明戒，以益其德。诸侯白龙衮而下八章也，四章画於衣，四章绣於裳。大夫藻、火、粉、米四章也，二章画於衣，二章绣於裳孔安国盖约夏、殷章服为说周制，则天子冕服九章，象阳之数极也。案郑注《周礼·司服》称，至周而以日、月、星辰画於旌旗，所谓“三辰旂旗，昭其明也”。又云：“登龙於山，登火於宗彝，尊其神明也。”古文以山为九章之首，火在宗彝之下。周制以龙为九章之首，火在宗彝之上。是登龙於山，登火於宗彝也。又案《司服》云：“王祀昊天上帝则服大裘而冕，祀五帝亦如之，享先王则衮冕，享先公、飨、射则鷩冕，祀四望山川则毳冕，祭社稷、五祀则絺冕，群小祀则玄冕。”而冕服九章也。又案郑注：“九章：初一曰龙、次二曰山、次三曰华蟲、次四曰火、次五曰宗彝，皆画以为缋；次六曰藻、次七曰粉米、次八曰黼、次九曰黻，皆絺以为绣，则衮之衣五章，裳四章，凡九也。鷩画以雉，谓华蟲也。其衣三章，裳四章，凡七也。毳画虎蜼，谓宗彝也。其衣三章，裳二章，凡五也。絺刺粉米，无画也。其衣一章，裳二章，凡三也。玄者衣无文，裳刺黻而已，是以谓玄焉。凡冕服皆玄衣纁裳。”又案《司服》：“公之服自衮冕而下，如王之服；侯伯之服自鷩冕而下；子男之服自毳冕而下；卿大夫之服自玄冕而下；士之服自皮弁而下，如大夫之服。”则周自公侯伯子男，其服之章数又与古之象服差矣。<br/>　　○注法言至敢也。<br/>　　○正义曰：“法言，谓礼法之言”者，此则《论语》云“非礼勿言”是也。云“德行，谓道德之行”者，即《论语》云“志於道，据於德”是也。“若言非法，行非德”者，即《王制》云“言伪而辩，行伪而坚”是也。云“则亏孝道，故不敢也”者，释所以不敢之意也。<br/>　　○注言必至遵道。<br/>　　○正义曰：此依王义，释“非法不言，非道不行”也。<br/>　　○注言行至择也。<br/>　　○正义曰：言不守礼法，行不遵道德，皆已而法之。经言“无择”，谓令言行无可择也。<br/>　　○注礼法至怨恶。<br/>　　○正义曰：口有过恶者，以言之非礼法；行有怨恶者，以所行非道德也。若言必守法，行必遵道，则口无过怨，恶无从而生。<br/>　　○注三者至之祀。<br/>　　○正义曰：云“三者，服、言、行者”也。此谓法服、法言、德行也。然言之与行，君子所最谨。出已加人，发迩见远，出言不善，千里违之。其行不善，谴辱斯及。故首章一叙不毁而再叙立身，此章一举法服而三复言行也。则知表身者以言行，不亏不毁犹易，立身难备也。皇侃云：“初陈教本，故举三事。服在身外可见，不假多戒；言行出於内府难明，必须备言。最於后结，宜应总言。”谓人相见，先观容饰，次交言辞，后谓德行，故言三者以服为先，德行为后也。云“礼：卿大夫立三庙”者，义见末章。云“以奉先祖”者，谓奉事其祖考也。云“言能备此三者，则能长守宗庙之祀”者，谓卿大夫若能备服饰、言、行，故能守宗庙也。<br/>　<br/><br/>　　《诗》云：‘夙夜匪懈，以事一人。’”夙，早也。懈，惰也。义取为卿大夫能早夜不惰，敬事其君也。<br/><br/>　　[疏]诗云至一人。<br/><br/>　　○正义曰：夫子既述卿大夫行孝终毕，乃引《大雅·烝民》之诗以结之，言卿大夫当早起夜寐，以事天子，不得懈惰。匪，犹不也。<br/>　　○注夙夜至君也。<br/>　　○正义曰：“夙，早也。《释古》文。“懈，惰也”，《释言》文。云“义取为卿大夫能早夜不惰”者，引《诗》大意如此。云“敬事其君也”者，释“以事一人”，不言天子而言君者，欲通诸侯卿大夫也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1425-26372.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1425-26374.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1425.html" action-type="chapterComment" class="comment"><i></i>孝经注疏章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《三十六计》正文_第二十计 混水摸鱼_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="三十六计,三十六计原文,三十六计阅读,第二十计 混水摸鱼全文,佚名作品" />
+<meta name="description" content="三十六计原文阅读,第二十计 混水摸鱼全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-232-3054.html";
+var nextpage="novel-read-232-3056.html";
+var indexpage = "novel-chapter-232.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-232.html">三十六计</a></strong>
+<strong><a href="novel-chapter-232.html">三十六计目录</a></strong>
+<span>第二十计 混水摸鱼</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-232-3054.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第二十计 混水摸鱼</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-08-19 22:45:59<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>比喻趁混乱时机攫取不正当的利益。也作“浑水摸鱼”。<br/>【原典】<br/>乘其阴乱①，利其弱而无主。随，以向晦入宴息②。<br/>【注释】<br/>①乘其阴乱：阴，内部。意为乘敌人内部发生混乱。<br/>②随，以向晦入宴息：语出《易经．随》卦。随，卦名。本卦为异卦相叠（震下兑上）。本卦上卦为兑为泽；下卦为震为雷。言雷入泽中，大地寒凝，万物蛰伏，故如象名“随”。随，顺从之意。《随卦》的《象》辞说：“泽中有雷，随，君子以向晦入宴息。”意为人要随应天时去作息，向晚就当入室休息。<br/>此计运用此象理，是说打仗时要得于抓住敌方的可乘之隙，而我借机行事，使乱顺我之意，我便乱中取利。<br/>【按语】<br/>动荡之际，数力冲撞，弱者依违无主，散蔽而不察，我随而取之。《六韬》日：“三军数惊，士卒不齐，相恐以敌强，相语以不利，耳目相属，妖言不止，众口相惑，不畏法令，不重其将：此弱征也。”是鱼，混战之际，择此而取之。如：刘备之得荆州，取西川，皆此计也。<br/>【故事】<br/>　　混水摸鱼，原意是，在混浊的水中，鱼晕头转向，乘机摸鱼，可以得到意外的好处。此计用于军事，是指当敌人混乱无主时，乘机夺取胜利的谋略。在混浊的水中，鱼儿辨不清方向，在复杂的战争中，弱小的一方经常会动摇不定，这里就有可乘之机。更多的时候，这个可乘之机不能只靠等待，而应主动去制造这种可乘之机。一方主动去把水搅浑，一切情况开始复杂起来，然后可借机行事。<br/><br/>张守圭计破契丹军<br/>　　唐朝开元年间，契丹叛乱，多次侵犯唐朝。朝廷派张守圭为幽州节度使，平定契丹之乱。契丹大将可突干几次攻幽州，未能攻下。可突干想探听唐军虚实，派使者到幽州，假意表示愿意重新归顺朝廷，永不进犯。张守圭知道契丹势力正旺，主动求和，必定有诈。他将计就计，客气地接待了来使。第二天，他派王悔代表朝廷到可突干营中宣抚，并命王悔一定要探明契丹内部的底细。王悔在契丹营中受到热情接待，他在招待酒宴上仔细观察契丹众将的一举一动。他发现，契丹全将在对朝廷的态度上并不一致。他又从一个小兵口中探听到分掌兵权的李过折一向与可突干有矛盾，两人貌合神离．互不服气。王悔特意去拜访李过折，装作不了解他和可突干之间的矛盾，当着李过折的面，假意大肆夸奖可突干的才干。李过折听罢，怒火中烧，说可突干主张反唐，使契丹陷于战乱，人民十分怨恨。并告诉王悔，契丹这次求和完全是假意，可突干已向突厥借兵，不日就要攻打幽州。王悔乘机劝说李过折，唐军势力浩大，可突汗肯定失败。他如脱离可突汗，建功立业，朝廷保证一定会重用他。李过折果然心动，表示愿意归顺朝廷。王悔任务完成，立即辞别契丹王返回幽州。第二天晚上，李过折率领本部人马，突袭可突干的中军大帐。可突干毫无防备，被李过折斩于营中，这一下，契丹营大乱。忠于可突干的大将涅礼召集人马，与李过折展开激战，杀了李过折。张守圭探得消息，立即亲率人马赶来接应李过折的部从。唐军火速冲入契丹军营，契丹军内正在火并，混乱不堪。张守圭乘势发动猛攻，生擒涅礼，大破契丹军。从此，契丹叛乱被平息。<br/><br/>真假使者取弓高<br/>　　公元821年（唐穆宗长庆元年），幽州兵反叛，这消息震惊朝廷内外。<br/>　　第二年，幽州兵气势汹汹，直扑弓高城（今河北东光西）。哪知，弓高城上森严壁垒，弓箭如雨射下。幽州兵虽骁勇异常，也无法攻下这固若金汤的城。<br/>　　幽州兵强攻不下，只能勉强退后安营扎寨。说来也巧，唐朝朝廷派来的特使，星夜抵达城下。使者一行10人，勒马站在城下，高声呼喊：“守城官兵，快快开门，我们是大唐使者!”<br/>　　守城的唐朝官员心里绷紧了弦，硬是不信，直到天亮，才放他们入城。使者进城后，气得暴跳如雷，刚踏进弓高城官衙，便破口大骂：“弓高守将胆大妄为，竟敢如此对待朝廷命官!”满脸狰狞，一腔愤怒。<br/>　　弓高守将这才真正感到问题的严重性，忙打拱作揖赶紧赔罪：“大人，日后如有这类事端发生，本官定当只身赴朝廷，负荆请罪，将手下有眼不识泰山者砍头!”<br/>　　这事让潜伏在弓高城里的幽州兵奸细打听到。奸细马上向幽州叛军将领汇报。统兵将军一听，连连大笑：“好，天助我也!再攻弓高，不费吹灰之力!”<br/>　　这一天，幽州兵派出一个人装扮成了朝廷使者，夜色溶溶，大地漆黑一片。这位假使者悄悄潜到弓高城下，大队人马无声无息尾随在他的后面。<br/>　　假使者在城下高声吆喝：“我是朝廷派来的使者，另有急令传告弓高城守将和前一位使者!”<br/>　　一听“使者”两字，守城官员早惊吓得魂飞魄散：“昨天没开门，使者发脾气，守将臭骂了我一场。这次再不开，守将不砍了我的头，剥了我的皮?”他稍探出头向下观望一眼，马上高声答道：“好，马上开城门!”<br/>　　“呀呀!”一声响，城门大开。<br/>　　“哗!”假使者和他身后的大队人马一下子涌进城内。顿时，杀声盈城。转眼间，毫无戒备的唐朝将士纷纷倒在血泊之中，弓高城在顷刻之间被幽州兵攻克。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-232-3054.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-232-3056.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-232.html" action-type="chapterComment" class="comment"><i></i>三十六计章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

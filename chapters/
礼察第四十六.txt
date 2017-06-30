@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《大戴礼记》正文_礼察第四十六_汉·戴德作品 - 维普阅读网</title>
+<meta name="keywords" content="大戴礼记,大戴礼记原文,大戴礼记阅读,礼察第四十六全文,汉·戴德作品" />
+<meta name="description" content="大戴礼记原文阅读,礼察第四十六全文在线阅读,汉·戴德作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1427-26408.html";
+var nextpage="novel-read-1427-26410.html";
+var indexpage = "novel-chapter-1427.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1427.html">大戴礼记</a></strong>
+<strong><a href="novel-chapter-1427.html">大戴礼记目录</a></strong>
+<span>礼察第四十六</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1427-26408.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>礼察第四十六</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=汉·戴德&amp;searchsubmit=yes"  target="_blank">汉·戴德</a><span class="divide">|</span>发布时间：2016-07-25 21:48:09<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>孔子曰："君子之道譬犹防与？夫礼之塞，乱之所从生也；犹防之塞，水之所从来也。故以旧防为无用而坏之者，必有水败；以旧礼为无所用而去之者，必有乱患。"故昏姻之礼废，则夫妇之道苦，而淫辟之罪多矣；乡饮酒之礼废，则长幼之序失，而争斗之狱繁矣。聘射之礼废，则诸侯之行恶，而盈溢之败起矣。丧祭之礼废，则臣子之恩薄，而倍死忘生之礼众矣。<br/><br/>　　凡人之知，能见已然，不能见将然。礼者，禁於将然之前；而法者，禁於已然之后。是故法之用易见，而礼之所为生难知也。<br/><br/>　　若夫庆赏以劝善，刑罚以惩恶，先王执此之正，坚如金石，行此之信，顺如四时；处此之功，无私如天地尔，岂顾不用哉？然如曰礼云礼云，贵绝恶於未萌、而起信於微眇，使民日从善远罪而不自知也。孔子曰："听讼，吾犹人也，必也使无讼乎。"此之谓也。<br/><br/>　　为人主计者，莫如安审取舍。取舍之极，定於内；安危之萌，应於外。安者，非一日而安也；危者，非一日而危也；皆以积然，不可不察也。善不积，不足以成名；恶不积，不足以灭身。而人之所行，各在其取舍。以礼义治之者积礼义，以刑罚治之者积刑罚；刑罚积而民怨倍，礼义积而民和亲。故世主欲民之善同，而所以使民之善者异。或导之以德教，或欧之以法令。导之以德教者，德教行而民康乐；欧之以法令者，法令极而民哀戚。哀乐之感，祸福之应也。<br/><br/>　　我以为秦王之欲尊宗庙而安子孙，与汤武同。然则如汤武能广大其德，久长其后，行五百岁而不失；秦王亦欲至是，而不能持天下十馀年，即大败之。此无佗故也，汤武之定取舍审，而秦王之定取舍不审也。易曰："君子慎始，差若毫釐，缪之千里。"取舍之谓也。然则为人主师傅者，不可不日夜明此。<br/><br/>　　问："为天下如何？"曰："天下，器也。今人之置器，置诸安处则安，置诸危处则危；而天下之情，与器无以异，在天子所置尔。汤武置天下於仁义礼乐而德泽洽，禽兽草木广育，被蛮貊四夷，累子孙十馀世，历年久五六百岁，此天下之所共闻也。秦王置天下於法令刑罚，德泽无一有，而怨毒盈世，民憎恶如仇雠，祸几及身，子孙诛绝，此天下之所共见也。夫用仁义礼乐为天下者，行五六百岁犹存；用法令为天下者，十馀年即亡；是非明斅大验乎？人言曰：'听言之道，必以其事观之，则言者莫妄言。'今子或言礼义之不如法令，教化之不如刑罚。人主胡不承殷周秦事以观之乎？"</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1427-26408.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1427-26410.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1427.html" action-type="chapterComment" class="comment"><i></i>大戴礼记章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

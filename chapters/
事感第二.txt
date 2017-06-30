@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《本事诗》正文_事感第二_孟棨作品 - 维普阅读网</title>
+<meta name="keywords" content="本事诗,本事诗原文,本事诗阅读,事感第二全文,孟棨作品" />
+<meta name="description" content="本事诗原文阅读,事感第二全文在线阅读,孟棨作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1038-11059.html";
+var nextpage="novel-read-1038-11061.html";
+var indexpage = "novel-chapter-1038.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1038.html">本事诗</a></strong>
+<strong><a href="novel-chapter-1038.html">本事诗目录</a></strong>
+<span>事感第二</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1038-11059.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>事感第二</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-18.html" target="blank">古典小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=孟棨&amp;searchsubmit=yes"  target="_blank">孟棨</a><span class="divide">|</span>发布时间：2014-12-01 20:47:44<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　天宝末，玄宗尝乘月登勤政楼，命梨园弟子歌数阕。有唱李峤诗者云：“富贵荣华能几时，山川满目泪沾衣。不见只今汾水上，惟有年年秋雁飞。”时上春秋已高，问是谁诗，或对曰李峤，因凄然泣下，不终曲而起，曰：“李峤真才子也。”又明年，幸蜀，登白卫岭，览眺久之，又歌是词，复言“李峤真才子”，不胜感叹。时高力士在侧，亦挥涕久之。<br/><br/>　　刘尚书自屯田员外左迁郎州司马，凡十年始征还。方春，作《赠看花诸君子》诗曰：“紫陌红尘拂面来，无人不道看花回。玄都观里桃千树，尽是刘郎去后栽。”其诗一出，传于都下。有素嫉其名者，白于执政，又诬其有怨愤。他日见时宰，与坐，慰问甚厚。既辞，即曰：“近者新诗，未免为累，奈何？”不数日，出为连州刺史。其自叙云：“贞元二十一年春，余为屯田员外，时此观未有花。是岁出牧连州，至荆南，又贬朗州司马。居十年，诏至京师，人人皆言有道士手植仙桃满观，盛如红霞，遂有前篇，以记一时之事。旋又出牧，于今十四年，始为主客郎中。重游玄都，荡然无复一树，唯兔葵燕麦动摇于春风耳。因再题二十八字，以俟后再游。时太和二年三月也。”诗曰：“百亩庭中半是苔，桃花净尽菜花开。种桃道士归何处？前度刘郎今独来。”<br/><br/>　　元相公稹为御史，奉使东川，于褒城题黄明府诗，其序云：“昔年曾于解县饮酒，余尝为觥录事。尝于窦少府厅，有一人后至，频犯语令，连飞十数觥，不胜其困，逃席而去。醒后问人，前虞乡黄丞也。此后绝不复知。元和四年三月，奉使东川，十六日，至褒城望驿，有大池，楼榭甚盛。逡巡有黄明府见迎，瞻其形容，仿佛似识，问其前衔，即往日之逃席黄丞也。说向前事，黄生惘然而悟，因馈酒一樽，舣舟请余同载。余不免其意，与之尽欢。遍问座隅山水，则褒女所奔走城在其左，诸葛所征之路次其右。感今怀古，作赠黄明府诗曰：‘昔年曾痛饮，黄令困飞觥。席上当时走，马前今日迎。依稀迷姓字，即渐识平生。故友身皆远，他乡眼暂明。便邀同榻坐，兼共刺一作剔船行。酒思临风乱，霜稜拂地平。不看深浅酌，还怆古今情。逦迤七盘路，陂陁数大城。花疑褒女笑，栈想武侯征。一种埋幽石，老闲千载名。’”<br/><br/>　　白尚书姬人樊素，善歌，妓人小蛮，善舞。尝为诗曰：“樱桃樊素口，杨柳小蛮腰。”年既高迈，而小蛮方丰艳，因为杨柳之词以托意，曰：“一树春风万万枝，嫩于金色软于丝。永丰坊里东南角，尽日无人属阿谁？”及宣宗朝，国乐唱是词，上问谁词，永丰在何处，左右具以对之。遂因东使，命取永丰柳两枝，植于禁中。白感上知其名，且好尚风雅，又为诗一章，其末句云：“定知此后天文里，柳宿光中添两枝。”<br/><br/>　　李章武学识好古，有名于时。太和末，敕僧尼试经若干纸，不通者勒还俗。章武时为成都少尹，有山僧来谒云：“禅观有年，未尝念经。今被追试，前业弃矣。愿长者宥之。”章武赠诗曰：“南宗尚许通方便，何处心中更有经。好去苾蒭雪水畔，何山松柏不青青。”主者免之而去。<br/><br/>　　诗人许浑，尝梦登山，有宫室凌云，人云：“此昆仑也。”既入，见数人方饮酒，招之，至暮而罢。诗云：“晓入瑶台露气清，坐中唯有许飞琼。尘心未断俗缘在，十里下山空月明。”他日复至其梦，飞琼曰：“子何故显余姓名于人间？”座上即改为“天风吹下步虚声”，曰：“善。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1038-11059.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1038-11061.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1038.html" action-type="chapterComment" class="comment"><i></i>本事诗章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

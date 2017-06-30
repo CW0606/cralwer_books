@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《九日闲居》正文_九日闲居_陶渊明作品 - 维普阅读网</title>
+<meta name="keywords" content="九日闲居,九日闲居原文,九日闲居阅读,九日闲居全文,陶渊明作品" />
+<meta name="description" content="九日闲居原文阅读,九日闲居全文在线阅读,陶渊明作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-604.html";
+var nextpage="novel-chapter-604.html";
+var indexpage = "novel-chapter-604.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-604.html">九日闲居</a></strong>
+<strong><a href="novel-chapter-604.html">九日闲居目录</a></strong>
+<span>九日闲居</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-604.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>九日闲居</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=陶渊明&amp;searchsubmit=yes"  target="_blank">陶渊明</a><span class="divide">|</span>发布时间：2014-10-11 21:51:02<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　世短意常多，斯人乐久生。<br/><br/>　　日月依辰至，举俗爱其名。<br/><br/>　　露凄暄风息，气澈天象明。<br/><br/>　　往燕无遗影，来雁有馀声。<br/><br/>　　酒能祛百虑，菊解制颓龄。<br/><br/>　　如何蓬庐士，空视时运倾！<br/><br/>　　尘爵耻虚壘，寒华徒自荣；<br/><br/>　　敛襟独闲谣，缅焉起深情。<br/><br/>　　栖迟固多娱，淹留岂无成。<br/><br/>【注释】<br/>(1)爱重九之名：农历九月九日为重九；古人认为九属阳之数，故重九又称重阳。“九”和“久”<br/>谐音，有活得长久之意，所以说“爱重九之名。”<br/>(2)醪（lao劳）：汁滓混合的酒，即浊酒，今称甜酒或醪糟。靡（mi米）：无。靡由，即无来<br/>由，指无从饮酒。<br/>(3)九华：重九之花，即菊花。华同“花”。<br/>(4)世短意常多：人生短促，忧思往往很多。这句本《古诗十九首》其十五“生年不满百，常怀千岁忧”之意。斯人：指人人。乐久生：喜爱活得长久。<br/>(5)依辰至：依照季节到来。辰：指日、月的衷会点。《左传·昭公七年》：“日月之会是谓辰。”<br/>举俗爱其名：整个社会风俗都喜爱“重九”的名称。魏文帝曹丕《九日与钟繇书》说：“岁往月来，忽复九月九日。九为阳数，而日月并应，俗嘉其名，以为宜于长久，故以享宴高会。”<br/>(6)露凄：秋霜凄凉。暄风：暖风，指夏季的风。气澈：空气清澈。天象明：天空明朗。<br/>(7)这两句是说，南去的燕子已无踪影，从北方飞来的大雁鸣声不绝。以上四句写秋之佳景。<br/>(8)祛（qu区）：除去。制：止。颓龄：衰暮之年。<br/>(9)蓬庐士：居住在茅草房子中的人，即贫士，作者自指。空视：意谓白白地看着。时运：时节，这里指重九节。倾：尽。<br/>(10)尘爵耻虚罍（lei雷）：酒杯的生尘是空酒壶的耻辱。爵：饮酒器，指酒杯。因无酒而生灰尘，故曰“尘爵”。罍：古代器名，用以盛酒或水，这里指大酒壶。此句意本《诗经·小雅·蓼莪》：“瓶之罄矣，惟罍之耻。”寒华：指秋菊。徒：徒然，白白地。荣：开花。<br/>(11)敛襟：整一整衣襟，指正坐。谣：不用乐器伴奏的歌唱。《诗经·魏风·园有桃》：“我<br/>歌且谣。”毛传：“曲合乐曰歌，徒歌曰谣。”这里指作诗。缅：遥远的样子，形容后面的“深情”。<br/>(12)栖迟：游息，指闲居。淹留：久留，指长期隐退。淹留岂无成：反用《楚辞·九辨》“蹇淹留而无成”，意谓长期隐退，难道就一事无成！</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-604.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-604.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-604.html" action-type="chapterComment" class="comment"><i></i>九日闲居章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

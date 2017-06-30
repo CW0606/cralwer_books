@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《难经》正文_第69－81难_扁鹊作品 - 维普阅读网</title>
+<meta name="keywords" content="难经,难经原文,难经阅读,第69－81难全文,扁鹊作品" />
+<meta name="description" content="难经原文阅读,第69－81难全文在线阅读,扁鹊作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-35-867.html";
+var nextpage="novel-chapter-35.html";
+var indexpage = "novel-chapter-35.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-35.html">难经</a></strong>
+<strong><a href="novel-chapter-35.html">难经目录</a></strong>
+<span>第69－81难</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-35-867.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第69－81难</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=扁鹊&amp;searchsubmit=yes"  target="_blank">扁鹊</a><span class="divide">|</span>发布时间：2014-07-21 20:38:51<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　六十九难曰：经言，虚者补之，实者泻之，不实不虚，以经取之，何谓也？然：虚者补其母，实者泻其子，当先补之，然后泻之。不实不虚，以经取之者，是正经自生病，不中他邪也，当自取其经，故言以经取之。　　七十难曰：春夏刺浅，秋冬刺深者，何谓也？然：春夏者，阳气在上，人气亦在上，故当浅取之；秋冬者，阳气在下，人气亦在下，故当深取之。春夏各致一阴，秋冬各致一阳者，何谓也？然：春夏温，必致一阴者，初下针，沉之至肾肝之部，得气，引持之阴也。秋冬寒，必致一阳者，初内针，浅而浮之至心肺之部，得气，推内之阳也。是谓春夏必致一阴，秋冬必致一阳。七十一难曰：经言，刺荣无伤卫，刺卫无伤荣，何谓也？然：针阳者，卧针而刺之；刺阴者，先以左手摄按所针荥俞之处，气散乃内针。是谓刺荣无伤卫，刺卫无伤荣也。<br/><br/>　　七十二难曰：经言，能知迎随之气，可令调之；调气之方，必在阴阳。何谓也？然：所谓迎随者，知荣卫之流行，经脉之往来也。随其逆顺而取之，故曰迎随。调气之方，必在阴阳者，知其内外表里，随其阴阳而调之，故曰调气之方，必在阴阳。<br/><br/>　　七十三难曰：诸井者，肌肉浅薄，气少不足使也，刺之奈何？然：诸井者，木也；荥者，火也。火者，木之子，当刺井者，以荥泻之。故经言，补者不可以为泻，泻者不可以为补，此之谓也。　　七十四难曰；经言，春刺井，夏刺荥，季夏刺俞，秋刺经，冬刺合者，何谓也？然：春刺井者，邪在肝；夏刺荥者，邪在心；季夏刺俞者，邪在脾；秋刺经者，邪在肺；冬刺合者，邪在肾。其肝、心、脾、肺、肾，而系于春、夏、秋、冬者，何也？然：五脏一病，辄有五也（色）。假令肝病，色青者肝也，臊臭者肝也，喜酸者肝也，喜呼者肝也，喜泣者，肝也。其病众多，不可尽言也。四时有数，而并系于春、夏、秋、冬者也。针之要妙，在于秋毫者也。<br/><br/>　　七十五难曰：经言，东方实，西方虚；泻南方，补北方，何谓也？然：金、木、水、火、土，当更相平。东方木也，西方金也。木欲实，金当平之；火欲实，水当平之；土欲实，木当平之；金欲实，火当平之；水欲实，土当平之。东方肝也，则知肝实；西方肺也，则知肺虚。泻南方火，补北方水。南方火，火者，木之子也；北方水，水者，木之母也。水胜火。子能令母实，母能令子虚，故泻火补水，欲令金不得平木也。经曰：不能治其虚，何问其余，此之谓也。<br/><br/>　　七十六难曰：何谓补泻？当补之时，何所取气？当泻之时，何所置气？然：当补之时，从卫取气；当泻之时，从荣置气。其阳气不足，阴气有余，当先补其阳，而后泻其阴；阴气不足，阳气有余，当先补其阴，而后泻其阳。营卫通行，此其要也。<br/><br/>　　七十七难曰：经言，上工治未病，中工治已病，何谓也？然：所谓治未病者，见肝之病，则知肝当传之与脾，故先实其脾气，无令得受肝之邪，故曰治未病焉。中工者，见肝之病，不晓相传，但一心治肝，故曰治已病也。<br/><br/>　　七十八难曰：针有补泻，何谓也？然：补泻之法，非必呼吸出内针也。知为针者，信其左；不知为针者，信其右。当刺之时，先以左手厌按所针荥、俞之处，弹面努之，爪而下之，其气之来，如动脉之状，顺针而刺之。得气，因推而内之，是谓补，动而伸之，是谓泻。不得气，乃与，男外女内；不得气，是为十死不治也。<br/><br/>　　七十九难曰：经言，迎而夺之，安得无虚？随而济之，安得无实，虚之与实，若得若失；实之与虚，若有若无，何谓也？然：迎而夺之者，泻其子也；随而济之者，补其母也。假令心病，泻手心主俞，是谓迎而夺之者也；补手心主井，是谓随而济之者也。所谓实之与虚者，牢濡之意也。气来实牢者为得，濡虚者为失，故曰若得若失也。<br/><br/>　　八十难曰：经言，有见如入，有见如出者，何谓也？然：所谓有见如入、有见如出者，谓左手见气来至，乃内针，针入，见气尽，乃出针。是谓有见如入，有见如出也。　　八十一难曰：经言，无实实虚虚，损不足而益有余，是寸口脉耶？将病自有虚实耶？其损益奈何？然：是病，非谓寸口脉也，谓病自有虚实也。假令肝实而肺虚，肝者木也，肺者金也，金木当更相平，当知金平木。假令肺实而肝虚，微少气，用针不补其肝，而反重实其肺，故曰实实虚虚，损不足而益有余。此者，中工之所害也。<br/><br/>　 八十一难曰：经言无实实虚虚，损不足而益有余，是寸口脉耶?将病自有虚实耶?其损益奈何?<br/>然。是病非谓寸口脉也，谓病自有虚实也。假令肝实而肺虚，肝者木也，肺者金也，金木当更相平，当知金平木。假令肺实而肝虚微少气，用针不补[19]其肝，而反重实其肺，故曰实实虚虚，损不足而益有余，此者中工之所害也。<br/><br/>书　　后<br/><br/>　　医有道焉，有术焉。道，难知也，即知之而无可用者也。知道而能用夫道，则道精矣。术，易知也，知之而无与乎道者也。知术而能通乎道，则术神矣。譬如谈兵，日诵夫六韬三略、车攻马战之法，而一临小战无不汗流色沮神慑股慄。此谈道者之过也。其能挽强执锐奋死先登者，与之坐而询夫握奇八阵之说，则又张目挢舌，茫然而不知为何语。此拘术者之过也。若此者俱不得名大将。大将者以庙算见其智，以临敌见其勇者也。然而学为大将之法，则先从庙算始。故《内经》及《难经》皆无方药治病之书，乃兵家之韬略也。执此而欲治病，无一病之能治。然不明乎此，则所治之病虽多幸中，而必非古圣所垂之法，其隐受其害而伏于不觉者正多耳。抑更有说焉。夫韬略为用兵设也，而读韬略者不必其身当用兵也。然苟韬略明，则虽不能自为行阵，而行阵者之得失自能晓然，断不以兴亡之柄授之庸儒之人。读是书则虽不能自为治病，而治病者之浅深自能洞见，安得以生死之权付之愚妄之辈。犹之辨工人之巧拙，岂必自为工人。审歌者之从奸，岂必身为歌者。知其道则术不得而眩之也。故椿之注是书者，不欲使负戟之徒端坐而谋经国，正欲使垂绅之士抵掌而谈王伯也。<br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-35-867.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-35.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-35.html" action-type="chapterComment" class="comment"><i></i>难经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

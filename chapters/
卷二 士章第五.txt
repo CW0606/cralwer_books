@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孝经注疏》正文_卷二 士章第五_注 唐·李隆基，疏 宋·邢昺作品 - 维普阅读网</title>
+<meta name="keywords" content="孝经注疏,孝经注疏原文,孝经注疏阅读,卷二 士章第五全文,注 唐·李隆基，疏 宋·邢昺作品" />
+<meta name="description" content="孝经注疏原文阅读,卷二 士章第五全文在线阅读,注 唐·李隆基，疏 宋·邢昺作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1425-26373.html";
+var nextpage="novel-read-1425-26375.html";
+var indexpage = "novel-chapter-1425.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1425.html">孝经注疏</a></strong>
+<strong><a href="novel-chapter-1425.html">孝经注疏目录</a></strong>
+<span>卷二 士章第五</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1425-26373.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷二 士章第五</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=注 唐·李隆基，疏 宋·邢昺&amp;searchsubmit=yes"  target="_blank">注 唐·李隆基，疏 宋·邢昺</a><span class="divide">|</span>发布时间：2016-07-22 22:46:31<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p> [疏]正义曰：次卿大夫者，即士也。案《说文》曰：“数始於一，终於十。”孔子曰：“推一合十为士。”《毛诗传》曰：“士者事也。”《白虎通》曰：“士者事也，任事之称也。”故《礼辨名记》曰：“士者任事之称也。传曰：通古今，辨然不然，谓之士。”<br/><br/>　<br/><br/>　　资於事父以事母，而爱同；资於事父以事君，而敬同。资，取也。言爱父与母同，敬父与君同。故母取其爱，而君取其敬，兼之者父也。言事父兼爱与敬也。故以孝事君则忠，移事父孝以事於君，则为忠矣。以敬事长则顺。移事兄敬以事於长，则为顺矣。忠顺不失，以事其上，然后能保其禄位，而守其祭祀。能尽忠顺以事君长，则常安禄位，永守祭祀。盖士之孝也。<br/><br/>　　[疏]资於至孝也。正义曰：夫子述卿大夫行孝之事终，次明士之行孝也。言士始升公朝，离亲入仕，故此叙事父之爱敬，宜均事母与事君，以明割恩从义也。“资”者，取也。取於事父之行以事母，则爱父与爱母同。取於事父之行以事君，则敬父与敬君同。母之於子，先取其爱；君之於臣，先取其敬，皆不夺其性也。若兼取爱敬者，其惟父乎？既说爱敬取舍之理，遂明出身入仕之行。“故”者，连上之辞也。谓以事父之孝移事其君，则为忠矣；以事兄之敬移事於长，则为顺矣。“长”谓公卿大夫，言其位长於士也。又言事上之道，在於忠顺，二者皆能不失，则可事上矣。“上”谓君与长也，言以忠顺事上，然后乃能保其禄秩官位，而长守先祖之祭祀。盖士之孝也。《援神契》云：“士行孝曰究。”以明审为义，当须能明审资亲事君之道，是能荣亲也。《白虎通》云：“天子之士独称元士。盖士贱，不得体君之尊，故加“元”以别於诸侯之士也。”此直言士，则诸侯之士；前言大夫，是戒天子之大夫，诸侯之大夫可知也。此章戒诸侯之士，则天子之士亦可知也。<br/><br/>　　○注资取至君同。<br/>　　○正义曰：云“资，取也”，此依孔传也。案郑注《表记》、《考工记》，并同训“资，取也”。云“言爱父与母同，敬父与君同”者，谓事母之爱，事君之敬，并同於父也。然爱之与敬，俱出於心。君以尊高而敬深，母以鞠育而爱厚。刘炫曰：“夫亲至则敬不极，此情亲而恭也。尊至则爱不极，此心敬而恩杀也。故敬极於君，爱极於母。”梁王云：“《天子章》陈爱敬以辨化也。此章陈爱敬以辨情也。”<br/>　　○注言事至敬也。<br/>　　○正义曰：此依王注也。刘炫曰：“母亲至而尊不至，岂则尊之不极也？君尊至而亲不至，岂则亲之不极也？惟父既亲且尊，故曰兼也。”刘瓛曰：“父情天属，尊无所屈。故爱敬双极也。”<br/>　　○注移事至忠矣。<br/>　　○正义曰：此依郑注也。《扬名章》云“君子之事亲孝，故忠可移於君”是也。旧说云：“入仕本欲安亲，非贪荣贵也。若用安亲之心，则为忠也。若用贪荣之心，则非忠也。”严植之曰：“上云君父敬同，则忠孝不得有异。”言以至孝之心事君，必忠也。<br/>　　○注移事至顺矣。<br/>　　○正义曰：此依郑注也。下章云：“事兄悌，故顺可移於长。”注不言悌而言敬者，顺经文也。《左传》曰：“兄爱弟敬。”又曰：“弟顺而敬。”则知悌之与敬，其义同焉。《尚书》云：“邦伯师长。”安国曰：“众长，公卿也。”则知大夫已上，皆是上之长。<br/>　　○注能尽至祭祀。<br/>　　○正义曰：谓能尽忠顺以事君长，则能保其禄位也。禄谓廪食，位谓爵位。《广雅》曰：“位，莅也。莅下为位。”《王制》云：“上农夫食九人。”谓诸侯之下士，视上农夫，中士倍下士，上士倍中士。祭者际也，人神相接，故曰际也。祀者似也，谓祀者似将见先人也。士亦有庙，经不言耳。大夫既言宗庙，士可知也；士言祭祀，则大夫之祭祀亦可知也：皆互以相明也。诸侯言保其社稷，大夫言守其宗庙，士则“保”“守”并言者，皇侃云：“称保者安镇也，守者无逸也。社稷禄位是公，故言保。宗庙祭祀是私，故言守也。士初得禄位，故两言之也。”<br/>　<br/><br/>　　《诗》云：‘夙兴夜寐，无忝尔所生。’”忝，辱也。所生，谓父母也。义取早起夜寐，无辱其亲也。<br/><br/>　　[疏]诗云至所生。<br/><br/>　　○正义曰：夫子述士行孝毕，乃引《小雅·小宛》之诗以证之也。言士行孝，当早起夜寐，无辱其父母也。<br/>　　○注忝辱至亲也。<br/>　　○正义曰：云“忝，辱也”，《释言》文。“所生，谓父母也”，下章云“父母生之”是也。云“义取早起夜寐，无辱其亲也”者，亦引《诗》之大意也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1425-26373.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1425-26375.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1425.html" action-type="chapterComment" class="comment"><i></i>孝经注疏章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

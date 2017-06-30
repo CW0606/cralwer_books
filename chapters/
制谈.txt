@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《尉缭子》正文_制谈_尉缭子作品 - 维普阅读网</title>
+<meta name="keywords" content="尉缭子,尉缭子原文,尉缭子阅读,制谈全文,尉缭子作品" />
+<meta name="description" content="尉缭子原文阅读,制谈全文在线阅读,尉缭子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-53-1292.html";
+var nextpage="novel-read-53-1294.html";
+var indexpage = "novel-chapter-53.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-53.html">尉缭子</a></strong>
+<strong><a href="novel-chapter-53.html">尉缭子目录</a></strong>
+<span>制谈</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-53-1292.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>制谈</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=尉缭子&amp;searchsubmit=yes"  target="_blank">尉缭子</a><span class="divide">|</span>发布时间：2014-07-27 16:17:48<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　凡兵，制必先定。制先定则士不乱，士不乱则形乃明。金鼓所指，则百人尽斗。陷行乱陈，则千人尽斗。覆军杀将，则万人齐刃。天下莫能当其战矣。<br/><br/>　　古者，士有什伍，车有偏列。鼓鸣旗麾，先登者未尝非多力国士也，先死者［亦］未尝非多力国士［也］。损敌一人而损我百人，此资敌而伤我甚焉，世将不能禁。征役分军而逃归，或临战自北，则逃伤甚焉，世将不能禁。杀人于百步之外者，弓矢也。杀人于五十步之内者，矛戟也。将已鼓，而士卒相嚣，拗矢折矛抱戟，利后发。战有此数者，内自败也，世将不能禁。士失什伍，车失偏列，奇兵捐将而走，大众亦走，世将不能禁。夫将能禁此四者，则高山陵之，深水绝之，坚陈犯之。不能禁此四者，犹亡舟楫绝江河，不可得也。<br/><br/>　　民非乐死而恶生也，号令明，法制审，故能使之前。明赏于前，决罚于后，是以发能中利，动则有功。（今）［令］百人一卒，千人一司马，万人一将，以少诛众，以弱诛强。试听臣言其术，足使三军之众诛一人无失刑。父不敢舍子，子不敢舍父，况国人乎？一贼杖剑击于市，万人无不避之者，臣谓非一人之独勇，万人皆不肖也。何则？必死与必生，固不侔也。听臣之术，足使三军之众为一死贼，莫当其前，莫随其后，而能独出独入焉。独出独入者，王霸之兵也。<br/><br/>　　有提十万之众，而天下莫当者谁？曰桓公也。有提七万之众，而天下莫当者谁？曰吴起也。有提三万之众，而天下莫当者谁？曰武子也。今天下诸国士，所率无不及二十万众者，然不能济功名者，不明乎禁舍开塞也。明其制，一人胜之，则十人亦以胜之也。十人胜之，则百千万人亦以胜之也。故曰：便吾器用，养吾武勇，发之如鸟击，如赴千仞之溪。<br/><br/>　　今国被患者，以重宝出聘，以爱子出质，以地界出割，得天下助卒。名为十万，其实不过数万尔。其兵来者，无不谓其将曰：“无为天下先战。”其实不可得而战也。<br/><br/>　　量吾境内之民，无伍莫能正矣。经制十万之众，而王必能使之衣吾衣，食吾食。战不胜，守不固者，非吾民之罪，内自致也。天下诸国助我战，犹良骥騄耳之驶，彼驽马鬐兴角逐，何能绍吾气哉？吾用天下之用为用，吾制天下之制为制。修吾号令，明吾刑赏，使天下非农无所得食，非战无所得爵，使民扬臂争出农战，而天下无敌矣。故曰：发号出令，信行国内。<br/><br/>　　民言有可以胜敌者，毋许其空言，必试其能战也。视人之地而有之，分人之民而畜之，必能内有其贤者也。不能内有其贤而欲有天下，必覆军杀将。如此，虽战胜而国益弱，得地而国益贫，由国中之制弊矣。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-53-1292.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-53-1294.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-53.html" action-type="chapterComment" class="comment"><i></i>尉缭子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

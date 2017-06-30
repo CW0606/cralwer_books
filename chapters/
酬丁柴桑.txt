@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《酬丁柴桑》正文_酬丁柴桑_陶渊明作品 - 维普阅读网</title>
+<meta name="keywords" content="酬丁柴桑,酬丁柴桑原文,酬丁柴桑阅读,酬丁柴桑全文,陶渊明作品" />
+<meta name="description" content="酬丁柴桑原文阅读,酬丁柴桑全文在线阅读,陶渊明作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-614.html";
+var nextpage="novel-chapter-614.html";
+var indexpage = "novel-chapter-614.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-614.html">酬丁柴桑</a></strong>
+<strong><a href="novel-chapter-614.html">酬丁柴桑目录</a></strong>
+<span>酬丁柴桑</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-614.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>酬丁柴桑</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=陶渊明&amp;searchsubmit=yes"  target="_blank">陶渊明</a><span class="divide">|</span>发布时间：2014-10-12 22:17:38<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　有客有客，爰来爰止。<br/><br/>　　秉直司聪，于惠百里。<br/><br/>　　餐胜如归，聆善若始。<br/><br/>　　匪惟谐也，屡有良由。<br/><br/>　　载言载眺，以写我忧。<br/><br/>　　放欢一遇，既醉还休。<br/><br/>　　实欣心期，方从我游。<br/><br/>【注释】<br/>（1）酬：本义为客人给主人祝酒后，主人再次给客人敬酒作答。东汉许慎《说文解字》：“酬,主人进客也。”后又指以诗文相赠答，如唱酬，酬对。<br/>丁柴桑：柴桑县令，名字不详。<br/>一说：柴桑县令刘程之于元兴二年（403）弃官归隐，接替他的便是诗题中姓丁的县令。由此推知此诗约作于义熙元年（405）前后，陶渊明41岁左右。<br/>（2）“有客”二句：有客有客：现代古直《陶靖节诗笺注定本》引春秋《诗经·周颂·有客》：“有客有客。”东汉郑玄笺注：“重言之者，异之也。”又引《诗经·邶风·斯干》：“爰居爰处。”郑玄笺注：“爰，于也。” 止：语助词。爰止：袁行霈《陶渊明集笺注》：《诗经·小雅·采芑》：“鴪彼飞隼，其飞戾天，亦集爰止。”此二句的意思是，陶渊明所敬重的柴桑丁县令，自外地来，居于此。<br/>（3）“秉直”二句：秉：持。直：正直。唐房玄龄《晋书·李舍传》：“实有史鱼秉直之风。” 司：掌管。聪：听闻。司聪：①谓司听察。指弹劾纠察。春秋左丘明等撰《左传·昭公九年》：“女为君耳，将司聪也。”②官名，西汉王莽新政设置，负责听察臣下过失。此处“司聪”之意，当代逯钦立《陶渊明集》校注为：“司聪，为皇帝听察民隐。”于：当代袁行霈《陶渊明集笺注》：为。西汉司马相如《长门赋》：“因于解悲愁之辞。”东汉郑玄《仪礼注》：“于，为也。”惠：仁爱，恩惠。《左传·僖公三十二年》：“君之惠。”百里：代指一县所管辖的区域。《汉书·百官公卿表上》：“县大率方百里。”东汉蔡邕《太尉陈公赞》：“公在百里，有西产之惠，赐命方伯，分陕余庆。”<br/>（4）“餐胜”二句：餐：吸取，听从。胜：胜理，至言，指正确的道理、中肯的言论。归：归依、归属。西汉刘向编、战国《战国策·燕策》：“樊将军以贫困来归丹, 丹不忍以己之私,而伤长者之意。”飡胜如归：意思是采纳正确的意见就像归顺于明主一样喜悦。矜：jīn，注重，崇尚，敬重。西汉贾谊《陈政事疏》：“故人矜节行。” 矜善若始：袁行霈《陶渊明集笺注》：意谓珍惜自己之善德，久而不怠，一如开始。<br/>（5）“匪惟”二句：匪：同“非”。匪惟：不只是，不仅仅。谐：和谐，融洽。由：原由，缘故。西汉司马迁《史记》：“盖闻古者祖有功而宗有德,制礼乐各有由。”<br/>（6）“载言”二句：载：且，又。写：倾诉，宣泄，抒发。春秋《诗经·邶风·泉水》：“驾言出游,以写我忧。” 西晋陆云《失题》：“何以含忍，寄之此诗；何以写思，记之斯辞。”<br/>（7）“放欢”二句：放欢：放开胸怀，尽情欢畅。此二句说，一见就尽情欢畅痛饮，醉方休。此为陶渊明待挚友的常态。其诗《与殷晋安别》：“一遇尽殷勤。”<br/>（8）“实欣”句：心期：①1. 两心契合，心中相许，知心。②深交。南朝梁代任昉《赠郭桐庐出溪口见候》诗：“客心幸自弭，中道遇心期。”南朝李大师、唐李延寿《南史·向柳传》：“我与士逊心期久矣，岂可一旦以势利处之。” 实欣：实为欢欣之事。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-614.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-614.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-614.html" action-type="chapterComment" class="comment"><i></i>酬丁柴桑章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

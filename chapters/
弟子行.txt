@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孔子家语》正文_弟子行_王肃作品 - 维普阅读网</title>
+<meta name="keywords" content="孔子家语,孔子家语原文,孔子家语阅读,弟子行全文,王肃作品" />
+<meta name="description" content="孔子家语原文阅读,弟子行全文在线阅读,王肃作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-349-5177.html";
+var nextpage="novel-read-349-5179.html";
+var indexpage = "novel-chapter-349.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-349.html">孔子家语</a></strong>
+<strong><a href="novel-chapter-349.html">孔子家语目录</a></strong>
+<span>弟子行</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-349-5177.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>弟子行</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王肃&amp;searchsubmit=yes"  target="_blank">王肃</a><span class="divide">|</span>发布时间：2014-09-05 21:41:36<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>卫将军文子，卫卿名弥牟也问于子贡曰：“吾闻孔子之施教也，先之以诗书，而道之以孝悌，说之以仁义，观之以礼乐，然后成之以文德，盖入室升堂者，七十有余人，其孰为贤？”子贡对以不知。文子曰：“以吾子常与学贤者也，不知何谓？”子贡对曰：“贤人无妄，贤人无妄举动不妄知贤即难，故君子之言曰：‘智莫难于知人，是以难对也。’”文子曰：“若夫知贤莫不难，今吾子亲游焉，是以敢问。”子贡曰：“夫子之门人盖有三千就焉，赐有逮及焉，未逮及焉，故不得遍知以告也。”文子曰：“吾子所及者，请问其行。”子贡对曰：“夫能夙兴夜寐，讽诵崇礼，行不贰过，贰再也有不善未尝不知知之未尝复行也称言不苟，举言典法不苟且也是颜回之行也。孔子说之以诗曰：‘媚兹一人，应侯慎德，一人天子也应当也侯惟也言颜渊之德之以媚爱天子当于其心惟慎德永言孝思，孝思惟则。’言能长是孝道足以为法则也若逢有德之君，世受显命，不失厥名，以御于天子，则王者之相也。在贫如客，言不以贫累志矜庄如为客也使其臣如借，言不有其臣如借使之也不迁怒，不深怨，不录旧罪，是冉雍之行也。孔子论其材曰：‘有土之君子也，有众使也，有刑用也，然后称怒焉。’言有土地之君有众足使有刑足用然后可以称怒冉雍非有土之君故使其臣如借而不加怒也孔子告之以诗曰：‘靡不有初，鲜克有终，冉雍能终其行疋夫不怒，唯以亡其身。’因说不怒之义遂及疋夫以怒亡身不畏强御，不侮矜寡，其言循性，循其性也而言不诬其尔其都以富，仲由长于富贵材任治戎，戎军旅也是仲由之行也。孔子和之以文，说之以诗曰：‘受小拱大拱而为下国骏庞，荷天子之龙，孔子曰和仲由以文说之以诗此其义也拱法也骏大也庞厚也龙荷之言受大小法为下国大厚乃可任天下道也不戁不悚，敷奏其勇。’戁恐悚惧敷陈奏荐强乎武哉，文不胜其质，言子路强勇文不胜其质恭老恤幼，不忘宾旅，宾旅谓寄客也好学博艺，省物而勤也，省录诸事而能勤也是冉求之行也。孔子因而语之曰：‘好学则智，恤孤则惠，恭则近礼，勤则有继，尧舜笃恭以王天下，其称之也，曰宜为国老。’国老助宣德教齐庄而能肃，志通而好礼，摈相两君之事，笃雅有节，是公西赤之行也。子曰：‘礼经三百，可勉能也，’礼经三百可勉学而能知威仪三千则难也。能躬行三千之威仪则难可为而公西赤能躬行之公西赤问曰：‘何谓也？’子曰：‘貌以傧礼，礼以傧辞，是谓难焉。’言所以为者当观容貌而傧相其礼度其礼而傧相其辞度事制仪故难也众人闻之，以为成也。孔子语人曰：‘当宾客之事，则达矣。”众人闻公西赤能行三千之威仪故以为成也孔子曰当宾客之事则达未尽达于治国之本体也谓门人曰：‘二三子之欲学宾客之礼者，其于赤也，满而不盈，实而如虚，过之如不及，先王难之。’盈而如虚过而不及是先王之所难而会参体其行博无不学，其貌恭，其德敦，其言于人也，无所不信，其骄于人也，常以浩浩，浩然志大骄太貌也大人富贵者也是以眉寿，不慕富贵安静虚无所以为之富贵是曾参之行也。孔子曰：‘孝，德之始也；悌，德之序也；悌以敬长是德之次序也信，德之厚也；忠，德之正也。参中夫四德者也，以此称之。’美功不伐，贵位不善，不侮不佚侮佚贪功慕势之貌不傲无告，鳏寡孤独此四者天民之穷而无告者也子张之行不傲此四者是颛孙师之行也。孔子言之曰：‘其不伐，则犹可能也，其不弊百姓，则仁也，不弊愚百姓即所谓不傲之也诗云：恺悌君子，民之父母。恺乐悌易也乐以强教之易以说安之民皆有是父之尊母之亲也夫子以其仁为大学之深。’学而能入其深义也送迎必敬送迎宾客常能敬也上交下接若截焉，是卜商之行也。孔子说之以诗曰：‘式夷式已，无小人殆，式用夷平也言用平则已也殆危也无以小人至于危也若商也，其可谓不险矣。’险危也言子夏常厉以断之近小人断不危贵之不喜，贱之不怒，苟利于民矣，廉于行己，其事上也以佑其下，言所以事上乃欲佑助其下也是澹台灭明之行也。孔子曰：‘独贵独富，君子助之，夫也中之矣。’夫谓灭明中犹当也先成其虑，及事而用之，故动则不妄，是言偃之行也。孔子曰：‘欲能则学，欲知则问，欲善则详，欲善其事当详慎也欲给则豫，事欲给而不碍则莫若于豫当是而行，偃也得之矣。’独居思仁，公言仁义，其于诗也，则一日三覆白圭之玷，玷缺也诗曰白圭之玷尚可磨也斯言之玷不可为也一日三覆之慎之至也是宫绦之行也。孔子信其能仁，以为异士。殊异之士也大戴引之曰以为异姓婚姻也以兄之女妻之者也自见孔子，出入于户，未尝越礼，？来过之，足不履影，言其？来常迹故迹不履影也启蛰不杀，春分当发蛰虫启户咸出于此时不杀生也方长不折，春夏生长养时草木不折执亲之丧，未尝见齿，是高柴之行也。孔子曰：‘柴于亲丧，则难能也，启蛰不杀，则顺人道，方长不折，则恕仁也，成汤恭而以恕，是以日隮。’隮升也成汤行恭而能恕出见博鸟焉四面绝网乃去其三面诗曰汤降不迟圣敬日隮言汤疾行下人之道其圣敬之德日升闻也凡此诸子，赐之所亲睹者也，吾子有命而讯赐，讯问赐也固不足以知贤。”文子曰：“吾闻之也，国有道则贤人兴焉，中人用焉中庸之人为时用也乃百姓归之，若吾子之论，既富茂矣，壹诸侯之相也，壹皆抑世未有明君，所以不遇也。”子贡既与卫将军文子言，适鲁见孔子曰：“卫将军文子问二三子之于赐，不壹而三焉，赐也辞不获命，以所见者对矣，未知中否，请以告。”孔子曰：“言之乎。”子贡以其辞状告孔子。子闻而笑曰：“赐，汝次焉人矣。”言为知人之次子贡对曰：“赐也何敢知人，此以赐之所睹也。”孔子然：“吾亦语汝耳之所未闻，目之所未见者，岂思之所不至，智之所未及哉。”子贡曰：“赐愿得闻之。”孔子曰：“不克不忌，不念旧怨，盖伯夷叔齐之行也；思天而敬人，服义而行信，孝于父母，恭于兄弟，从善而不教，盖赵文子之行也；其事君也，不敢爱其死，然亦不敢忘其身，谋其身不遗其友，君陈则进而用之，陈谓陈列于君为君之使用也不陈则行而退，盖随武子之行也；其为人之渊源也，多闻而难诞，诞叹内植足以没其世，国家有道，其言足以治，无道，其默足以生，盖铜鍉伯华之行也；外宽而内正，自极于隐括之中，隐括所以自极直己而不直人，汲汲于仁，以善自终，盖蘧伯玉之行也；孝恭慈仁，允德义图，允信也图谋也约货去怨，夫利怨之所聚故约省其货以远去其怨轻财不匮，盖柳下惠之行也；其言曰，君虽不量于其身，谓不量度其臣之德器也臣不可以不忠于其君，是故君择臣而任之，臣亦择君而事之，有道顺命，君有道则顺从其命无道衡命，衡横也谓不受其命之隐居者也盖晏平仲之行也；蹈忠而行信，终日言不在尤之内，尤过国无道，处贱不闷，闷忧贫而能乐，盖老子之行也；易行以俟天命，易治居下不援其上，虽在下位不攀援其上以求进其亲观于四方也，不忘其亲，不尽其乐，虽有观四方之乐常念其亲不尽其归之以不能则学，不为己终身之忧，凡忧忧所知不能则学何忧之有盖介子山之行也。”子贡曰：“敢问夫子之所知者，盖尽于此而已乎？”孔子曰：“何谓其然？亦略举耳目之所及而矣。昔晋平公问祁奚曰：‘羊舌大夫，晋之良大夫也，其行如何？’祁奚辞以不知。公曰：‘吾闻子少长乎其所，于其所长今子掩之，何也？’祁奚对曰：‘其少也恭而顺，心有耻而不使其过宿；心常有所耻恶及其有过不令更宿辄改其为大夫，悉善而谦其端；尽善道而谦让是其正也其为舆尉也，信而好直其功，言其功直，至于其为容也，温良而好礼，博闻而时出其志。’时出以其出之诲未及之是其志也公曰：‘曩者问子，子奚曰不知也？’祁奚曰：‘每位改变，未知所止，是以不敢得知也，此又羊舌大夫之行也。’”子贡跪曰：“请退而记之。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-349-5177.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-349-5179.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-349.html" action-type="chapterComment" class="comment"><i></i>孔子家语章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

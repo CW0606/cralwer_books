@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《伪自由书》正文_崇实_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="伪自由书,伪自由书原文,伪自由书阅读,崇实全文,鲁迅作品" />
+<meta name="description" content="伪自由书原文阅读,崇实全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-550-7470.html";
+var nextpage="novel-read-550-7472.html";
+var indexpage = "novel-chapter-550.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-550.html">伪自由书</a></strong>
+<strong><a href="novel-chapter-550.html">伪自由书目录</a></strong>
+<span>崇实</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-550-7470.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>崇实</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-04 21:05:24<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>事实常没有字面这么好看。 <br/><br/>　　例如这《自由谈》，其实是不自由的，现在叫作《自由谈》，总算我们是这么自由地在这里谈着。 <br/><br/>　　又例如这回北平的迁移古物（２）和不准大学生逃难（３），发令的有道理，批评的也有道理，不过这都是些字面，并不是精髓。 <br/><br/>　　倘说，因为古物古得很，有一无二，所以是宝贝，应该赶快搬走的罢。这诚然也说得通的。但我们也没有两个北平，而且那地方也比一切现存的古物还要古。禹是一条虫（４），那时的话我们且不谈罢，至于商周时代，这地方却确是已经有了的。为什么倒撇下不管，单搬古物呢？说一句老实话，那就是并非因为古物的“古”，倒是为了它在失掉北平之后，还可以随身带着，随时卖出铜钱来。 <br/><br/>　　大学生虽然是“中坚分子”，然而没有市价，假使欧美的市场上值到五百美金一名口，也一定会装了箱子，用专车和古物一同运出北平，在租界上外国银行的保险柜子里藏起来的。 <br/><br/>　　但大学生却多而新，惜哉！ <br/><br/>　　费话不如少说，只剥崔颢（５）《黄鹤楼》诗以吊之，曰——阔人已骑文化去，此地空余文化城。（６）文化一去不复返，古城千载冷清清。 <br/><br/>　　专车队队前门站，晦气重重大学生。 <br/><br/>　　日薄榆关何处抗，烟花场上没人惊。 <br/><br/>　　一月三十一日。 <br/>　<br/>===============================================================<br/><br/>　　（１）本篇最初发表于一九三三年二月六日《申报·自由谈》，署名何家干。 <br/><br/>　　（２）北平的迁移古物一九三三年一月日本侵占山海关后，国民党政府以“减少日军目标”为理由，慌忙将历史语言研究所、故宫博物院等收藏的古物分批从北平运至南京、上海。<br/><br/>　　（３）不准大学生逃难一九三三年一月二十八日，国民党政府教育部电令北平各大学：“据各报载榆关告紧之际，北平各大学中颇有逃考及提前放假等情，……查大学生为国民中坚分子，讵容妄自惊扰，败坏校规；学校当局迄无呈报，迹近宽纵，亦属非是。”<br/><br/>　　（４）禹是一条虫这是顾颉刚在一九二三年讨论古史的文章中提出的看法。他在对禹作考证时，曾以《说文解字》训“禹”为“虫”作根据，提出禹是“蜥蜴之类”的“虫”的推断。（见《古史辨》第一册六十三页） <br/><br/>　　（５）崔颢（？—７５４）汴州（今河南开封）人，唐代诗人。他的《黄鹤楼》诗原文为：“昔人已乘黄鹤去，此地空余黄鹤楼。黄鹤一去不复返，白云千载空悠悠。睛川历历汉阳树，芳草萋萋鹦鹉洲。日暮乡关何处是，烟波江上使人愁。” <br/><br/>　　（８）文化城一九三二年十月间，北平文教界江瀚等三十多人，在日军进逼关内，华北危急时，向国民党政府呈送意见书，以北平保存有“寄付着国家命脉，国民精神的文化品物”和“全国各种学问的专门学者，大多荟萃在北平”为理由，要求“明定北平为文化城”，将“北平的军事设备挪开”，用不设防来求得北平免遭日军炮火。这实际上迎合国民党政府的卖国投降政策，有利于日本帝国主义的侵略。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-550-7470.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-550-7472.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-550.html" action-type="chapterComment" class="comment"><i></i>伪自由书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

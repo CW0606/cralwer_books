@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《管子》正文_四时_管仲作品 - 维普阅读网</title>
+<meta name="keywords" content="管子,管子原文,管子阅读,四时全文,管仲作品" />
+<meta name="description" content="管子原文阅读,四时全文在线阅读,管仲作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-43-1154.html";
+var nextpage="novel-read-43-1156.html";
+var indexpage = "novel-chapter-43.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-43.html">管子</a></strong>
+<strong><a href="novel-chapter-43.html">管子目录</a></strong>
+<span>四时</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-43-1154.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>四时</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=管仲&amp;searchsubmit=yes"  target="_blank">管仲</a><span class="divide">|</span>发布时间：2014-07-24 20:56:35<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　管子曰：令有时。无时则必视，顺天之所以来，五漫漫，六惛惛，孰知之哉？唯圣人知四时。不知四时，乃失国之基。不知五谷之故，国家乃路。故天曰信明，地曰信圣，四时曰正。其王信明圣，其臣乃正。何以知其王之信明信圣也？曰：慎使能而善听信之。使能之谓明，听信之谓圣。信明圣者，皆受天赏。使不能为惛，惛而忘也者，皆受天祸。是故上见成事而贵功，则民事接劳而不谋。上见功而贱，则为人下者直，为人上者骄。是故阴阳者，天地之大理也；四时者，阴阳之大经也；刑德者，四时之合也。刑德合于时则生福，诡则生祸。<br/><br/>　　然则春夏秋冬将何行？东方曰星，其时曰春，其气曰风，风生木与骨。其德喜嬴，而发出节时。其事：号令修除神位，谨祷弊梗，宗正阳，治堤防，耕芸树艺，正津梁，修沟渎，甃屋行水，解怨赦罪，通四方。然则柔风甘雨乃至，百姓乃寿，百虫乃蕃，此谓星德。星者掌发，为风。是故春行冬政则雕，行秋政则霜，行夏政则欲。是故春三月以甲乙之日发五政。一政曰：论幼孤，舍有罪；二政曰：赋爵列，授禄位；三政曰：冻解修沟渎，复亡人；四政曰：端险阻，修封疆，正千伯；五政曰：无杀麑夭，毋蹇华绝芋。五政苟时，春雨乃来。<br/><br/>　　南方曰日，其时曰夏，其气曰阳，阳生火与气。其德施舍修乐。其事：号令赏赐赋爵，受禄顺乡，谨修神祀，量功赏贤，以动阳气。九暑乃至，时雨乃降，五谷百果乃登，此谓日德。日掌赏，赏为暑，夏行春政则风，行秋政则水，行冬政则落。是故夏三月以丙丁之日发五政。一政曰：求有功发劳力者而举之；二政曰：开久墳，发故屋，辟故卵以假贷；三政曰：令禁扇去笠，毋扱免，除急漏田庐；四政曰：求有德赐布施于民者而赏之；五政曰：令禁罝设禽兽，毋杀飞鸟。五政苟时，夏雨乃至也。<br/><br/>　　中央曰土，土德实辅四时入出，以风雨节，土益力。土生皮肌肤。其德和平用均，中正无私，实辅四时：春嬴育，夏养长。秋聚收，冬闭藏。大寒乃极，国家乃昌，四方乃服，此谓岁德。岁掌和，和为雨。<br/><br/>　　西方曰辰，其时曰秋，其气曰阴，阴生金与甲。其德忧哀、静正、严顺，居不敢淫佚。其事：号令毋使民淫暴，顺旅聚收，量民资以畜聚。赏彼群干，聚彼群材，百物乃收，使民毋怠。所恶其察，所欲必得，我信则克。此谓辰德。辰掌收，收为阴。秋行春政则荣，行夏政则水，行冬政则耗。是故秋三月以庚辛之日发五政：一政曰：禁博塞，圉小辩，斗译跽。二政曰：毋见五兵之刃；三政曰：慎旅农，趣聚收；四政曰：补缺塞坼；五政曰：修墙垣，周门闾。五政苟时，五谷皆入。<br/><br/>　　北方曰月，其时曰冬，其气曰寒，寒生水与血。其德淳越、温怒、周密。其事，号令修禁徙民，令静止，地乃不泄，断刑致罚，无赦有罪，以符阴气。大寒乃至，甲兵乃强，五谷乃熟，国家乃昌，四方乃备，此谓月德。月掌罚，罚为寒。冬行春政则泄，行夏政则雷，行秋政则旱。是故冬三月以壬癸之日发五政。一政曰：论孤独，恤长老；二政曰：善顺阴，修神祀，赋爵禄，授备位；三政曰：效肢计，毋发山川之藏；四政曰：捕奸遁，得盗贼者有赏；五政曰：禁迁徙，止流民，圉分异。五政苟时，冬事不过，所求必得，所恶必伏。<br/><br/>　　是故春凋，秋荣，冬雷，夏有霜雪，此皆气之贼也。刑德易节失次，则贼气遬至；贼气遬至，则国多灾殃。是故圣王务时而寄政焉，作教而寄武，作祀而寄德焉。此三者圣王所以合于天地之行也。日掌阳，月掌阴，星掌和。阳为德，阴为刑，和为事。是故日食，则失德之国恶之；月食，则失刑之国恶之；彗星见，则失和之国恶之；风与日争明，则失生之国恶之。是故，圣王日食则修德，月食则修刑，彗星见则修和，风与日争明则修生。此四者，圣王所以免于天地之诛也。信能行之，五谷蕃息，六畜殖，而甲兵强。治积则昌，暴虐积则亡。<br/><br/>　　道生天地，德出贤人。道生德，德生正，正生事。是以圣王治天下，穷则反，终则始。德始于春，长于夏；刑始于秋，流于冬。刑德不失，四时如一。刑德离乡，时乃逆行。作事不成，必有大殃。月有三政，王事必理，以为久长。不中者死，失理者亡。国有四时，固执王事，四守有所，三政执辅。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-43-1154.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-43-1156.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-43.html" action-type="chapterComment" class="comment"><i></i>管子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

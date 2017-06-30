@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《论衡》正文_卷二十四·讥日篇_王充作品 - 维普阅读网</title>
+<meta name="keywords" content="论衡,论衡原文,论衡阅读,卷二十四·讥日篇全文,王充作品" />
+<meta name="description" content="论衡原文阅读,卷二十四·讥日篇全文在线阅读,王充作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-247-3868.html";
+var nextpage="novel-read-247-3870.html";
+var indexpage = "novel-chapter-247.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-247.html">论衡</a></strong>
+<strong><a href="novel-chapter-247.html">论衡目录</a></strong>
+<span>卷二十四·讥日篇</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-247-3868.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷二十四·讥日篇</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王充&amp;searchsubmit=yes"  target="_blank">王充</a><span class="divide">|</span>发布时间：2014-08-24 22:22:47<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>世俗既信岁时，而又信日。举事若病死灾患，大则谓之犯触岁月，小则谓之不避日禁。岁月之传既用，日禁之书亦行。世俗之人，委心信之；辩论之士，亦不能定。是以世人举事，不考於心而合於日，不参於义而致於时。时日之书，众多非一，略举较著，明其是非，使信天时之人，将一疑而倍之。夫祸福随盛衰而至，代谢而然。举事曰凶，人畏凶有效；曰吉，人冀吉有验。祸福自至，则述前之吉凶，以相戒惧此日禁所以累世不疑，惑者所以连年不悟也。<br/><br/>　　《葬历》曰：“葬避九空、地臽，及日之刚柔，月之奇耦。”日吉无害，刚柔相得，奇耦相应，乃为吉良。不合此历，转为凶恶。”夫葬，藏棺也；敛，藏尸也。初死藏尸於棺，少久藏棺於墓。墓与棺何别？敛与葬何异？敛於棺不避凶，葬於墓独求吉。如以墓为重，夫墓，土也，棺，木也，五行之性，木土钧也。治木以赢尸，穿土以埋棺，治与穿同事，尸与棺一实也。如以穿土贼地之体，凿沟耕园，亦宜择日。世人能异其事，吾将听其禁；不能异其事，吾不从其讳。日之不害，又求日之刚柔；刚柔既合，又索月之奇耦。夫日之刚柔，月之奇耦，合於《葬历》，验之於吉，无不相得。何以明之？春秋之时，天子、诸侯、卿、大夫死以千百数，案其葬日，未必合於历。<br/><br/>　　又曰：“雨不克葬，庚寅日中乃葬。”假令鲁小君以刚日死，至葬日己丑，刚柔等矣。刚柔合，善日也。不克葬者，避雨也。如善日，不当以雨之故，废而不用也。何则？雨不便事耳，不用刚柔，重凶不吉，欲便事而犯凶，非鲁人之意，臣子重慎之义也。今废刚柔，待庚寅日中，以为吉也。《礼》：“天子七月而葬，诸侯五月，卿、大夫、士三月。”假令天子正月崩，七月葬；二月崩，八月葬。诸侯、卿、大夫、士皆然。如验之《葬历》，则天子、诸侯葬月常奇常耦也。衰世好信禁，不肖君好求福。春秋之时，可谓衰矣！隐、哀之间，不肖甚矣。然而葬埋之日，不见所讳，无忌之故也。周文之世，法度备具，孔子意密，《春秋》义纤，如废吉得凶，妄举触祸，宜有微文小义，贬讥之辞。今不见其义，无《葬历》法也。<br/><br/>　　祭祀之历，亦有吉凶。假令血忌、月杀之日固凶，以杀牲设祭，必有患祸。夫祭者，供食鬼也；鬼者，死人之精也。若非死人之精，人未尝见鬼之饮食也。推生事死，推人事鬼，见生人有饮食，死为鬼当能复饮食，感物思亲，故祭祀也。及他神百鬼之祠，虽非死人，其事之礼，亦与死人同。盖以不见其形，但以生人之礼准况之也。生人饮食无日，鬼神何故有日？如鬼神审有知，与人无异，则祭不宜择日。如无知也，不能饮食，虽择日避忌，其何补益？实者，百祀无鬼，死人无知。百祀报功，示不忘德。死如事生，示不背亡。祭之无福，不祭无祸。祭与不祭，尚无祸福，况日之吉凶，何能损益？如以杀牲见血，避血忌、月杀，则生人食六畜亦宜辟之。海内屠肆，六畜死者，日数千头，不择吉凶，早死者，未必屠工也。天下死罪，冬月断囚亦数千人，其刑於市，不择吉日，受祸者，未必狱吏也。肉尽杀牲，狱具断囚。囚断牲杀，创血之实，何以异於祭祀之牲？独为祭祀设历，不为屠工、狱吏立见，世俗用意不实类也。祭非其鬼，又信非其讳，持二非往求一福，不能得也。<br/><br/>　　《沐书》曰：“子日沐，令人爱之。卯日沐，令人白头。”夫人之所爱憎，在容貌之好丑；头发白黑，在年岁之稚老。使丑如嫫母，以子日沐，能得爱乎？使十五女子以卯日沐，能白发乎？且沐者，去首垢也。洗去足垢，盥去手垢，浴去身垢，皆去一形之垢，其实等也。洗、盥、浴不择日，而沐独有日。如以首为最尊，则浴亦治面，面亦首也。如以发为最尊，则栉亦宜择日。栉用木，沐用水，水与木俱五行也。用木不避忌，用水独择日。如以水尊於木，则诸用水者宜皆择日。且水不若火尊，如必以尊卑，则用火者宜皆择日。且使子沐，人爱之；卯沐，其首白者，谁也？夫子之性，水也；卯，木也。水不可爱，木色不白。子之禽鼠，卯之兽兔也。鼠不可爱，兔毛不白。以子日沐，谁使可爱？卯日沐，谁使凝白者？夫如是，沐之日无吉凶，为沐立日历者，不可用也。<br/><br/>　　裁衣有书，书有吉凶。凶日制衣则有祸，吉日则有福。夫衣与食俱辅人体，食辅其内，衣卫其外。饮食不择日，制衣避忌日，岂以衣为於其身重哉？人道所重，莫如食急，故八政一曰食，二曰货。衣服，货也。如以加之於形为尊重，在身之物，莫大於冠。造冠无禁，裁衣有忌，是於尊者略，卑者详也。且夫沐去头垢，冠为首饰；浴除身垢，衣卫体寒。沐有忌，冠无讳；浴无吉凶，衣有利害。俱为一体，共为一身，或善或恶，所讳不均，欲人浅知，不能实也。且衣服不如车马。九锡之礼，一曰车马，二曰衣服。作车不求良辰，裁衣独求吉日，俗人所重，失轻重之实也。<br/><br/>　　工伎之书，起宅盖屋必择日。夫屋覆人形，宅居人体，何害於岁月而必择之？如以障蔽人身者神恶之，则夫装车、治船、着盖、施帽，亦当择日。如以动地穿土神恶之，则夫凿沟耕园亦宜择日。夫动土扰地神，地神能原人无有恶意，但欲居身自安，则神之圣心，必不忿怒。不忿怒，虽不择日，犹无祸也。如土地之神不能原人之意，苟恶人动扰之，则虽择日，何益哉？王法禁杀伤人，杀伤人皆伏其罪，虽择日犯法，终不免罪；如不禁也，虽妄杀伤，终不入法。县官之法，犹鬼神之制也；穿凿之过，犹杀伤之罪也。人杀伤，不在择日，缮治室宅何，故有忌？<br/><br/>　　又学书讳丙日，云：“仓颉以丙日死也。”礼不以子卯举乐，殷、夏以子卯日亡也。如以丙日书，子卯日举乐，未必有祸，重先王之亡日，凄怆感动，不忍以举事也。忌日之法，盖丙与子卯之类也，殆有所讳，未必有凶祸也。堪舆历，历上诸神非一，圣人不言，诸子不传，殆无其实。天道难知，假令有之，诸神用事之日也，忌之何福？不讳何祸？王者以甲子之日举事，民亦用之，王者闻之，不刑法也。夫王者不怒民不与己相避，天神何为独当责之？王法举事，以人事之可否，不问日之吉凶。孔子曰：“卜其宅兆而安厝之。”《春秋》祭祀，不言卜日。《礼》曰：“内事以柔日，外事以刚日。”刚柔以慎内外，不论吉凶以为祸福。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-247-3868.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-247-3870.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-247.html" action-type="chapterComment" class="comment"><i></i>论衡章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

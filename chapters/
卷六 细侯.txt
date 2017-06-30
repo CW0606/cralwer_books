@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《聊斋志异》正文_卷六 细侯_蒲松龄作品 - 维普阅读网</title>
+<meta name="keywords" content="聊斋志异,聊斋志异原文,聊斋志异阅读,卷六 细侯全文,蒲松龄作品" />
+<meta name="description" content="聊斋志异原文阅读,卷六 细侯全文在线阅读,蒲松龄作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1254-23349.html";
+var nextpage="novel-read-1254-23351.html";
+var indexpage = "novel-chapter-1254.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1254.html">聊斋志异</a></strong>
+<strong><a href="novel-chapter-1254.html">聊斋志异目录</a></strong>
+<span>卷六 细侯</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1254-23349.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷六 细侯</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-18.html" target="blank">古典小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=蒲松龄&amp;searchsubmit=yes"  target="_blank">蒲松龄</a><span class="divide">|</span>发布时间：2015-04-01 21:20:40<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>昌化满生，设帐于余杭。偶涉廛市，经临街阁下，忽有荔壳坠肩头。仰视，一雏姬凭阁上，妖姿要妙，不觉注目发狂。姬俯哂而入，询之，知为娼楼贾氏女细侯也。其声价颇高，自顾不能适愿。归斋冥想，终宵不枕。<br/><br/>　　明日，往投以刺，相见，言笑甚欢，心志益迷。托故假贷同人，敛金如干，携以赴女，款洽臻至。即枕上口占一绝赠之云：“膏腻铜盘夜未央，床头小语麝兰香。新鬟明日重妆凤，无复行云梦楚王。”细侯蹙然曰：“妾虽污贱，每愿得同心而事之。君既无妇，视妾可当家否？”生大悦，即叮咛，坚相约。细侯亦喜曰：“吟咏之事，妾自谓无难，每于无人处，欲效作一首，恐未能便佳，为听观所讥。倘得相从，幸教妾也。”因问生家田产几何，答曰：“薄田半顷，破屋数椽而已。”细侯曰：“妾归君后，当长相守，勿复设帐为也。四十亩聊足自给，十亩可以种黍，织五匹绢，纳太平之税有余矣。闭户相对，君读妾织，暇则诗酒可遣，千户侯何足贵！”生曰：“卿身价略可几多？”曰：“依媪贪志，何能盈也？多不过二百金足矣。可恨妾齿稚，不知重赀财，得辄归母，所私蓄者区区无多。君能办百金，过此即非所虑。”生曰：“小生之落寞，卿所知也，百金何能自致。有同盟友，令于湖南，屡相见招，仆以道远，故惮于行。今为卿故，当往谋之。计三四月，可以复归，幸耐相候。”细侯诺之。”<br/><br/>　　生即弃馆南游，至则令已免官，以罣误居民舍，宦囊空虚，不能为礼。生落魄难返，就邑中授徒焉。三年，莫能归。偶笞弟子，弟子自溺死。东翁痛子而讼其师，因被逮囹圄。幸有他门人，怜师无过，时致馈遗，以是得无苦。细侯自别生，杜门不交一客。母诘知故，不可夺，亦姑听之。有富贾某，慕细侯名，托媒于媪，务在必得，不靳直。细侯不可。贾以负贩诣湖南，敬侦生耗。时狱已将解，贾以金赂当事吏，使久锢之。归告媪云：“生已瘐死。”细侯疑其信不确。媪曰：“无论满生已死，纵或不死，与其从穷措大，以椎布终也，何如衣锦而厌粱肉乎？”细侯曰：“满生虽贫，其骨清也；守龌龊商，诚非所愿。且道路之言，何足凭信！”贾又转嘱他商，假作满生绝命书寄细侯，以绝其望。<br/><br/>　　细侯得书，惟朝夕哀哭，媪曰：“我自幼于汝，抚育良劬。汝成人二三年，所得报者，日亦无多。既不愿隶籍，即又不嫁，何以谋生活？”细侯不得己，遂嫁贾。贾衣服簪珥，供给丰侈。年余，生一子。无何，生得门人力，昭雪而出，始知贾之锢己也；然念素无郄，反复不得其由。门人义助资斧以归。既闻细侯已嫁，心甚激楚，因以所苦，托市媪卖浆者达细侯，细侯大悲。方悟前此多端，悉贾之诡谋。乘贾他出，杀抱中儿，携所有亡归满；凡贾家服饰，一无所取。贾归，怒质于官。官原其情，置不问。呜呼！寿亭侯之归汉，亦复何殊？顾杀子而行，亦天下之忍人也！</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1254-23349.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1254-23351.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1254.html" action-type="chapterComment" class="comment"><i></i>聊斋志异章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

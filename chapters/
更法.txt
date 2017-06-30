@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《商君书》正文_更法_商鞅作品 - 维普阅读网</title>
+<meta name="keywords" content="商君书,商君书原文,商君书阅读,更法全文,商鞅作品" />
+<meta name="description" content="商君书原文阅读,更法全文在线阅读,商鞅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-50.html";
+var nextpage="novel-read-50-1255.html";
+var indexpage = "novel-chapter-50.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-50.html">商君书</a></strong>
+<strong><a href="novel-chapter-50.html">商君书目录</a></strong>
+<span>更法</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-50.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>更法</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=商鞅&amp;searchsubmit=yes"  target="_blank">商鞅</a><span class="divide">|</span>发布时间：2014-07-26 22:15:40<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　孝公平画，公孙鞅、甘龙、杜挚三大夫御于君。虑世事之变，讨正法之本，求使民之道。<br/><br/>　　君曰：“代立不忘社稷，君之道也；错法务明主长，臣之行也。今吾欲变法以治，更礼以教百姓，恐天下之议我也。”<br/><br/>　　公孙鞅曰：“臣闻之：‘疑行无成，疑事无功。‘君亟定变法之虑，殆无顾天下之议之也。且夫有高人之行者，固见负于世；有独知之虑者，必见骜于民。语曰：’愚者暗于成事，知者见于未萌。民不可与虑始，而可与乐成。郭偃之法曰：‘论至德者不和于俗，成大功者不谋于众。’法者所以爱民也，礼者所以便事也。是以圣人苟可以强国，不法其故；苟可以利民，不循其礼。”<br/><br/>　　孝公曰：“善！”<br/><br/>　　甘龙曰：“不然。臣闻之：‘圣人不易民而教，知者不变法而治。’因民而教者，不劳而功成；据法而治者，吏习而民安。今若变法，不循秦国之故，更礼以教民，臣恐天下之议君，愿孰察之。”<br/><br/>　　公孙鞅曰：“子之所言，世俗之言也。夫常人安于故习，学者溺于所闻。此两者，所以居官而守法，非所与论于法之外也。三代不同礼而王，五霸不同法而霸。故知者作法，而愚者制焉；贤者更礼，而不肖者拘焉。拘礼之人不足与言事，制法之人不足与论变。君无疑矣。”<br/><br/>　　杜挚曰：“臣闻之：‘利不百，不变法；功不十，不易器’。臣闻：‘法古无过，循礼无邪。君其图之！’”<br/><br/>　　公孙鞅曰：“前世不同教，何古之法？帝王不相复，何礼之循？伏羲、神农，教而不诛；黄帝、尧、舜，诛而不怒；及至文、武，各当时而立法，因事而制礼。礼、法以时而定；制、令各顺其宜；兵甲器备，各便其用。臣故曰：治世不一道，便国不必法古。汤、武之王也，不脩古而兴；殷、夏之灭也，不易礼而亡。然则反古者未必可非，循礼者未足多是也。君无疑矣。”<br/><br/>　　孝公曰：“善！吾闻穷巷多怪，曲学多辩。愚者之笑，智者哀焉；狂夫之乐，贤者丧焉。拘世以议，寡人不之疑矣。”<br/><br/>　　于是遂出垦草令。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-50.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-50-1255.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-50.html" action-type="chapterComment" class="comment"><i></i>商君书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

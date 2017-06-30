@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《荀子》正文_天论_荀子作品 - 维普阅读网</title>
+<meta name="keywords" content="荀子,荀子原文,荀子阅读,天论全文,荀子作品" />
+<meta name="description" content="荀子原文阅读,天论全文在线阅读,荀子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-41-1092.html";
+var nextpage="novel-read-41-1094.html";
+var indexpage = "novel-chapter-41.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-41.html">荀子</a></strong>
+<strong><a href="novel-chapter-41.html">荀子目录</a></strong>
+<span>天论</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-41-1092.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>天论</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=荀子&amp;searchsubmit=yes"  target="_blank">荀子</a><span class="divide">|</span>发布时间：2014-07-24 20:18:25<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　天行有常，不为尧存，不为桀亡。应之以治则吉，应之以乱则凶。强本而节用， 则天不能贫；养备而动时，则天不能病；修道而不贰，则天不能祸。故水旱不能使 之饥，寒暑不能使之疾，祆怪不能使之凶。本荒而用侈，则天不能使之富；养略而 动罕，则天不能使之全；倍道而妄行，则天不能使之吉。故水旱未至而饥，寒暑未 薄而疾，祆怪未至而凶－－受时与治世同，而殃祸与治世异，不可以怨天，其道然 也。故明于天人之分，则可谓至人矣。<br/><br/>　　不为而成，不求而得，夫是之谓天职。如是者，虽深、其人不加虑焉；虽大、 不加能焉；虽精、不加察焉，夫是之谓不与天争职。天有其时，地有其财，人有其 治，夫是之谓能参。舍其所以参，而愿其所参，则惑矣。<br/><br/>　　列星随旋，日月递照，四时代御，阴阳大化，风雨博施，万物各得其和以生， 各得其养以成，不见其事，而见其功，夫是之谓神。皆知其所以成，莫知其无形， 夫是之谓天功。唯圣人为不求知天。<br/><br/>　　天职既立，天功既成，形具而神生，好恶喜怒哀乐臧焉，夫是之谓天情。耳目 鼻口形能各有接而不相能也，夫是之谓天官。心居中虚，以治五官，夫是之谓天君。 财非其类以养其类，夫是之谓天养。顺其类者谓之福，逆其类者谓之祸，夫是之谓 天政。暗其天君，乱其天官，弃其天养，逆其天政，背其天情，以丧天功，夫是之 谓大凶。圣人清其天君，正其天官，备其天养，顺其天政，养其天情，以全其天功。 如是，则知其所为，知其所不为矣；则天地官而万物役矣。其行曲治，其养曲适， 其生不伤，夫是之谓知天。<br/><br/>　　故大巧在所不为，大智在所不虑。所志于天者，已其见象之可以期者矣；所志 于地者，已其见宜之可以息者矣：所志于四时者，已其见数之可以事者矣；所志于 阴阳者，已其见和之可以治者矣。官人守天，而自为守道也。<br/><br/>　　治乱，天邪？曰：日月星辰瑞历，是禹桀之所同也，禹以治，桀以乱；治乱非 天也。<br/><br/>　　时邪？曰：繁启蕃长于春夏，畜积收臧于秋冬，是禹桀之所同也，禹以治，桀 以乱；治乱非时也。<br/><br/>　　地邪？曰：得地则生，失地则死，是又禹桀之所同也，禹以治，桀以乱；治乱 非地也。诗曰：“天作高山，大王荒之。彼作矣，文王康之。”此之谓也。<br/><br/>　　天不为人之恶寒也辍冬，地不为人之恶辽远也辍广，君子不为小人之匈匈也辍 行。天有常道矣，地有常数矣，君子有常体矣。君子道其常，而小人计其功。诗曰： “礼义之不愆，何恤人之言兮！”此之谓也。<br/><br/>　　楚王后车千乘，非知也；君子啜菽饮水，非愚也；是节然也。若夫志意修，德 行厚，知虑明，生于今而志乎古，则是其在我者也。故君子敬其在己者，而不慕其 在天者；小人错其在己者，而慕其在天者。君子敬其在己者，而不慕其在天者，是 以日进也；小人错其在己者，而慕其在天者，是以日退也。故君子之所以日进，与 小人之所以日退，一也。君子小人之所以相县者，在此耳。<br/><br/>　　星队木鸣，国人皆恐。曰：是何也？曰：无何也！是天地之变，阴阳之化，物 之罕至者也。怪之，可也；而畏之，非也。夫日月之有蚀，风雨之不时，怪星之党 见，是无世而不常有之。上明而政平，则是虽并世起，无伤也；上闇而政险，则是 虽无一至者，无益也。夫星之队，木之鸣，是天地之变，阴阳之化，物之罕至者也； 怪之，可也；而畏之，非也。<br/><br/>　　物之已至者，人祆则可畏也：楛耕伤稼，楛耨失岁，政险失民；田薉稼恶，籴 贵民饥，道路有死人：夫是之谓人祆。政令不明，举错不时，本事不理，勉力不时， 则牛马相生，六畜作祆：夫是之谓人祆。礼义不修，内外无别，男女淫乱，则父子 相疑，上下乖离，寇难并至：夫是之谓人祆。祆是生于乱。三者错，无安国。其说 甚尔，其菑甚惨。勉力不时，则牛马相生，六畜作祆，可怪也，而亦可畏也。传曰： “万物之怪书不说。”无用之辩，不急之察，弃而不治。若夫君臣之义，父子之亲， 夫妇之别，则日切瑳而不舍也。<br/><br/>　　雩而雨，何也？曰：无何也，犹不雩而雨也。日月食而救之，天旱而雩，卜筮 然后决大事，非以为得求也，以文之也。故君子以为文，而百姓以为神。以为文则 吉，以为神则凶也。<br/><br/>　　在天者莫明于日月，在地者莫明于水火，在物者莫明于珠玉，在人者莫明于礼 义。故日月不高，则光明不赫；水火不积，则晖润不博；珠玉不睹乎外，则王公不 以为宝；礼义不加于国家，则功名不白。故人之命在天，国之命在礼。君人者，隆 礼尊贤而王，重法爱民而霸，好利多诈而危，权谋倾覆幽险而亡矣。<br/><br/>　　大天而思之，孰与物畜而制之！从天而颂之，孰与制天命而用之！望时而待之， 孰与应时而使之！因物而多之，孰与骋能而化之！思物而物之，孰与理物而勿失之 也！愿于物之所以生，孰与有物之所以成！故错人而思天，则失万物之情。<br/><br/>　　百王之无变，足以为道贯。一废一起，应之以贯，理贯不乱。不知贯，不知应 变。贯之大体未尝亡也。乱生其差，治尽其详。故道之所善，中则可从，畸则不可 为，匿则大惑。水行者表深，表不明则陷。治民者表道，表不明则乱。礼者，表也。 非礼，昏世也；昏世，大乱也。故道无不明，外内异表，隐显有常，民陷乃去。<br/><br/>　　万物为道一偏，一物为万物一偏。愚者为一物一偏，而自以为知道，无知也。 慎子有见于后，无见于先。老子有见于诎，无见于信。墨子有见于齐，无见于畸。 宋子有见于少，无见于多。有后而无先，则群众无门。有诎而无信，则贵贱不分。 有齐而无畸，则政令不施，有少而无多，则群众不化。书曰：“无有作好，遵王之 道；无有作恶，遵王之路。”此之谓也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-41-1092.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-41-1094.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-41.html" action-type="chapterComment" class="comment"><i></i>荀子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

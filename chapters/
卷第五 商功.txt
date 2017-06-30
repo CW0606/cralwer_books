@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《九章算术》正文_卷第五 商功_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="九章算术,九章算术原文,九章算术阅读,卷第五 商功全文,佚名作品" />
+<meta name="description" content="九章算术原文阅读,卷第五 商功全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-250-3953.html";
+var nextpage="novel-read-250-3955.html";
+var indexpage = "novel-chapter-250.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-250.html">九章算术</a></strong>
+<strong><a href="novel-chapter-250.html">九章算术目录</a></strong>
+<span>卷第五 商功</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-250-3953.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷第五 商功</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-08-25 21:20:55<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>〔一〕今有穿地积一万尺。问为坚、壤各几何？　　答曰：　　为坚七千五百尺。<br/><br/>　　为壤一万二千五百尺。　　术曰：穿地四，为壤五，为坚三，为墟四。以穿地求壤，五之；求坚，三之，皆四而一。以壤求穿，四之；求坚，三之，皆五而一。以坚求穿，四之；求壤，五之，皆三而一。　　城、垣、隄、沟、?、渠，皆同术。<br/><br/>　　术曰：并上下广而半之，以高若深乘之，又以袤乘之，即积尺。　　〔二〕今有城下广四丈，上广二丈，高五丈，袤一百二十六丈五尺。问积几何？<br/><br/>　　答曰：一百八十九万七千五百尺。<br/><br/>　　〔三〕今有垣下广三尺，上广二尺，高一丈二尺，袤二十二丈五尺八寸。问积几何？<br/><br/>　　答曰：六千七百七十四尺。<br/><br/>　　〔四〕今有隄下广二丈，上广八尺，高四尺，袤一十二丈七尺。问积几何？<br/><br/>　　答曰：七千一百一十二尺。<br/><br/>　　冬程人功四百四十四尺。问用徒几何？<br/><br/>　　答曰：一十六人、一百一十一分人之二。<br/><br/>　　术曰：以积尺为实，程功尺数为法，实如法而一，即用徒人数。<br/><br/>　　〔五〕今有沟上广一丈五尺，下广一丈，深五尺，袤七丈。问积几何？<br/><br/>　　答曰：四千三百七十五尺。<br/><br/>　　春程人功七百六十六尺，并出土功五分之一，定功六百一十二尺、五分尺之四。问用徒几何？<br/><br/>　　答曰：七人、三千六十四分人之四百二十七。<br/><br/>　　术曰：置本人功，去其五分之一，馀为法。以沟积尺为实。实如法而一，得用徒人数。<br/><br/>　　〔六〕今有堑上广一丈六尺三寸，下广一丈，深六尺三寸，袤一十三丈二尺一寸。问积几何？<br/><br/>　　答曰：一万九百四十三尺八寸。<br/><br/>　　夏程人功八百七十一尺。并出土功五分之一，沙砾水石之功作太半，定功二百三十二尺、一十五分尺之四。问用徒几何？<br/><br/>　　答曰：四十七人、三千四百八十四分人之四百九。　　术曰：置本人功，去其出土功五分之一，又去沙砾水石之功太半，馀为法。以堑积尺为实。实如法而一，即用徒人数。　　〔七〕今有穿渠上广一丈八尺，下广三尺六寸，深一丈八尺，袤五万一千八百二十四尺。问积几何？<br/><br/>　　答曰：一千七万四千五百八十五尺六寸。<br/><br/>　　秋程人功三百尺，问用徒几何？<br/><br/>　　答曰：三万三千五百八十二人功。内少一十四尺四寸。<br/><br/>　　一千人先到，问当受袤几何？<br/><br/>　　答曰：一百五十四丈三尺二寸、八十一分寸之八。<br/><br/>　　术曰：以一人功尺数，乘先到人数为实。并渠上下广而半之，以深乘之为法。实如法得袤尺。<br/><br/>　　〔八〕今有方堡壔方一丈六尺，高一丈五尺。问积几何？　　答曰：三千八百四十尺。<br/><br/>　　术曰：方自乘，以高乘之，即积尺。<br/><br/>　　〔九〕今有圆堡壔，周四丈八尺，高一丈一尺。问积几何？<br/><br/>　　答曰：二千一百一十二尺。<br/><br/>　　术曰：周自相乘，以高乘之，十二而一。<br/><br/>　　〔一０〕今有方亭，下方五丈，上方四丈，高五丈。问积几何？<br/><br/>　　答曰：一十万一千六百六十六尺、太半尺。<br/><br/>　　术曰：上下方相乘，又各自乘，并之，以高乘之，三而一。<br/><br/>　　〔一一〕今有圆亭，下周三丈，上周二丈，高一丈。问积几何？<br/><br/>　　答曰：五百二十七尺、九分尺之七。<br/><br/>　　术曰：上、下周相乘，又各自乘，并之，以高乘之，三十六而一。<br/><br/>　　〔一二〕今有方锥下方二丈七尺，高二丈九尺。问积几何？<br/><br/>　　答曰：七千四十七尺。　　术曰：下方自乘，以高乘之，三而一。<br/><br/>　　〔一三〕今有圆锥下周三丈五尺，高五丈一尺。问积几何？<br/><br/>　　答曰：一千七百三十五尺、一十二分尺之五。　　术曰：下周自乘，以高乘之，三十六而一。〔一四〕今有堑堵下广二丈，袤一十八丈六尺，高二丈五尺。问积几何？<br/><br/>　　答曰：四万六千五百尺。<br/><br/>　　术曰：广袤相乘，以高乘之，二而一。<br/><br/>　　〔一五〕今有阳马，广五尺，袤七尺，高八尺。问积几何？　　答曰：九十三尺、少半尺。<br/><br/>　　术曰：广袤相乘，以高乘之，三而一。<br/><br/>　　〔一六〕今有鳖臑下广五尺，无袤，上袤四尺，无广，高七尺。问积几何？<br/><br/>　　答曰：二十三尺、少半尺。　　术曰：广袤相乘，以高乘之，六而一。<br/><br/>　　〔一七〕今有羡除，下广六尺，上广一丈，深三尺，末广八尺，无深，袤七尺。问积几何？<br/><br/>　　答曰：八十四尺。　　术曰：并三广，以深乘之，又以袤乘之，六而一。<br/><br/>　　〔一八〕今有刍甍，下广三丈，袤四丈，上袤二丈，无广，高一丈。问积几何？<br/><br/>　　答曰：五千尺。<br/><br/>　　术曰：倍下袤，上袤从之，以广乘之，又以高乘之，六而一。<br/><br/>　　刍童、曲池、盘池、冥谷，皆同术。　　术曰：倍上袤，下袤从之，亦倍下袤，上袤从之，各以其广乘之，并，以高若深乘之，皆六而一。其曲池者，并上中、外周而半之，以为上袤；亦并下中、外周而半之，以为下袤。　　〔一九〕今有刍童，下广二丈，袤三丈，上广三丈，袤四丈，高三丈。问积几何？<br/><br/>　　答曰：二万六千五百尺。　　〔二０〕今有曲池，上中周二丈，外周四丈，广一丈，下中周一丈四尺，外周二丈四尺，广五尺，深一丈。问积几何？　　答曰：一千八百八十三尺三寸、少半寸。<br/><br/>　　〔二一〕今有盘池，上广六丈，袤八丈，下广四丈，袤六丈，深二丈。问积几何？<br/><br/>　　答曰：七万六百六十六尺、太半尺。　　负土往来七十步，其二十步上下棚除。棚除二当平道五，踟蹰之间十加一，载输之间三十步，定一返一百四十步。土笼积一尺六寸，秋程人功行五十九里半。问人到、积尺、用徒各几何？<br/><br/>　　答曰：　　人到二百四尺。<br/><br/>　　用徒三百四十六人、一百五十三分人之六十二。<br/><br/>　　术曰：以一笼积尺乘程行步数为实。往来上下，棚除二当平道五。置定往来步数，十加一，及载输之间三十步以为法。除之，所得即一人所到尺。以所到约积尺，即用徒人数。<br/><br/>　　〔二二〕今有冥谷上广二丈，袤七丈，下广八尺，袤四丈，深六丈五尺。问积几何？<br/><br/>　　答曰：五万二千尺。<br/><br/>　　载土往来二百步，载输之间一里，程行五十八里，六人共车，车载三十四尺七寸。问人到积尺及用徒各几何？<br/><br/>　　答曰：<br/><br/>　　人到二百一尺、五十分尺之十三。<br/><br/>　　用徒二百五十八人、一万六十三分人之三千七百四十六。　　术曰：以一车积尺乘程行步数为实。置今往来步数，加载输之间一里，以车六人乘之，为法。除之，所得即一人所到尺。以所到约积尺，即用徒人数。<br/><br/>　　〔二三〕今有委粟平地，下周一十二丈，高二丈。问积及为粟几何？　　答曰：<br/><br/>　　积八千尺。　　为粟二千九百六十二斛、二十七分斛之二十六。<br/><br/>　　〔二四〕今有委菽依垣，下周三丈，高七尺。问积及为菽各几何？<br/><br/>　　答曰：<br/><br/>　　积三百五十尺。<br/><br/>　　为菽一百四十四斛、二百四十三分斛之八。<br/><br/>　　〔二五〕今有委米依垣内角，下周八尺，高五尺。问积及为米几何？<br/><br/>　　答曰：<br/><br/>　　积三十五尺、九分尺之五。<br/><br/>　　为米二十一斛，七百二十九分斛之六百九十一。　　委粟术曰：下周自乘，以高乘之，三十六而一。其依垣者，十八而一。其依垣内角者，九而一。<br/><br/>　　程粟一斛，积二尺七寸。其米一斛，积一尺六寸、五分寸之一。其菽、答、麻、麦一斛，皆二尺四寸、十分寸之三。<br/><br/>　　〔二六〕今有穿地，袤一丈六尺，深一丈，上广六尺，为垣积五百七十六尺。问穿地下广几何？<br/><br/>　　答曰：三尺、五分尺之三。<br/><br/>　　术曰：置垣积尺，四之为实。以深、袤相乘，又三之，为法。所得倍之，减上广，馀即下广。　　〔二七〕今有仓广三丈，袤四丈五尺，容粟一万斛。问高几何？　　答曰：二丈。<br/><br/>　　术曰：置粟一万斛积尺为实。广袤相乘为法。实如法而一，得高尺。<br/><br/>　　〔二八〕今有圆困，高一丈三尺三寸、少半寸，容米二千斛。问周几何？<br/><br/>　　答曰：五丈四尺。<br/><br/>　　术曰：置米积尺，以十二乘之，令高而一，所得，开方除之，即周。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-250-3953.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-250-3955.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-250.html" action-type="chapterComment" class="comment"><i></i>九章算术章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

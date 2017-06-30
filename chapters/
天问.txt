@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《楚辞》正文_天问_屈原作品 - 维普阅读网</title>
+<meta name="keywords" content="楚辞,楚辞原文,楚辞阅读,天问全文,屈原作品" />
+<meta name="description" content="楚辞原文阅读,天问全文在线阅读,屈原作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-257-4127.html";
+var nextpage="novel-read-257-4129.html";
+var indexpage = "novel-chapter-257.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-257.html">楚辞</a></strong>
+<strong><a href="novel-chapter-257.html">楚辞目录</a></strong>
+<span>天问</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-257-4127.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>天问</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=屈原&amp;searchsubmit=yes"  target="_blank">屈原</a><span class="divide">|</span>发布时间：2014-08-27 20:35:43<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>曰：遂古之初，谁传道之？<br/>上下未形，何由考之？<br/>冥昭瞢闇，谁能极之？<br/>冯翼惟像，何以识之？<br/>明明闇闇，惟时何为？<br/>阴阳三合，何本何化？<br/><br/>圜则九重，孰营度之？<br/>惟兹何功，孰初作之？<br/>斡维焉系，天极焉加？<br/>八柱何当，东南何亏？<br/>九天之际，安放安属？<br/>隅隈多有，谁知其数？<br/><br/>天何所沓？十二焉分？<br/>日月安属？列星安陈？<br/>出自汤谷，次于蒙氾。<br/>自明及晦，所行几里？<br/>夜光何德，死则又育？<br/>厥利维何，而顾菟在腹？<br/>女歧无合，夫焉取九子？<br/>伯强何处？惠气安在？<br/>何阖而晦？何开而明？<br/>角宿未旦，曜灵安藏？<br/><br/>不任汩鸿，师何以尚之？<br/>佥曰“何忧”，何不课而行之？<br/>鸱龟曳衔，鲧何听焉？<br/>顺欲成功，帝何刑焉？<br/>永遏在羽山，夫何三年不施？<br/>伯禹愎鲧，夫何以变化？<br/>纂就前绪，遂成考功。<br/>何续初继业，而厥谋不同？<br/>洪泉极深，何以窴之？<br/>地方九则，何以坟之？<br/>河海应龙？何尽何历？<br/>鲧何所营？禹何所成？<br/>康回冯怒，坠何故以东南倾？<br/><br/>九州安错？川谷何洿？<br/>东流不溢，孰知其故？<br/>东西南北，其修孰多？<br/>南北顺堕，其衍几何？<br/>昆仑县圃，其尻安在？<br/>增城九重，其高几里？<br/>四方之门，其谁从焉？<br/>西北辟启，何气通焉？<br/>日安不到？烛龙何照？<br/>羲和之未扬，若华何光？<br/>何所冬暖？何所夏寒？<br/><br/>焉有石林？何兽能言？<br/>焉有虬龙、负熊以游？<br/>雄虺九首，鯈忽焉在？<br/>何所不死？长人何守？<br/>靡蓱九衢，枲华安居？<br/>灵蛇吞象，厥大何如？<br/>黑水、玄趾，三危安在？<br/>延年不死，寿何所止？<br/>鲮鱼何所？鬿堆焉处？<br/>羿焉彃日？乌焉解羽？<br/><br/>禹之力献功，降省下土四方。<br/>焉得彼嵞山女，而通之於台桑？<br/>闵妃匹合，厥身是继。<br/>胡为嗜不同味，而快朝饱？<br/><br/>启代益作后，卒然离蠥。<br/>何启惟忧，而能拘是达？<br/>皆归射鞠，而无害厥躬。<br/>何后益作革，而禹播降？<br/>启棘宾商，《九辨》、《九歌》。<br/>何勤子屠母，而死分竟地？<br/><br/>帝降夷羿，革孽夏民。<br/>胡射夫河伯，而妻彼雒嫔？<br/>冯珧利决，封豨是射。<br/>何献蒸肉之膏，而后帝不若？<br/>浞娶纯狐，眩妻爰谋。<br/>何羿之射革，而交吞揆之？<br/>阻穷西征，岩何越焉？<br/>化为黄熊，巫何活焉？<br/><br/>咸播秬黍，莆雚是营。<br/>何由并投，而鲧疾修盈？<br/><br/>白蜺婴茀，胡为此堂？<br/>安得夫良药，不能固臧？<br/>天式从横，阳离爰死。<br/>大鸟何鸣，夫焉丧厥体？<br/>蓱号起雨，何以兴之？<br/>撰体胁鹿，何以膺之？<br/>鼇戴山抃，何以安之？<br/>释舟陵行，何之迁之？<br/><br/>惟浇在户，何求于嫂？<br/>何少康逐犬，而颠陨厥首？<br/>女歧缝裳，而馆同爰止。<br/>何颠易厥首，而亲以逢殆？<br/>汤谋易旅，何以厚之？<br/>覆舟斟寻，何道取之？<br/><br/>桀伐蒙山，何所得焉？<br/>妹嬉何肆，汤何殛焉？<br/>舜闵在家，父何以鱞？<br/>尧不姚告，二女何亲？<br/>厥萌在初，何所意焉？<br/>璜台十成，谁所极焉？<br/>登立为帝，孰道尚之？<br/>女娲有体，孰制匠之？<br/>舜服厥弟，终然为害。<br/>何肆犬豕，而厥身不危败？<br/>吴获迄古，南岳是止。<br/>孰期去斯，得两男子？<br/><br/>缘鹄饰玉，后帝是飨。<br/>何承谋夏桀，终以灭丧？<br/>帝乃降观，下逢伊挚。<br/>何条放致罚，而黎服大说？<br/><br/>简狄在台，喾何宜？<br/>玄鸟致贻，女何喜，<br/><br/>该秉季德，厥父是臧。<br/>胡终弊于有扈，牧夫牛羊？<br/>干协时舞，何以怀之？<br/>平胁曼肤，何以肥之？<br/>有扈牧竖，云何而逢？<br/>击床先出，其命何从？<br/><br/>恆秉季德，焉得夫朴牛？<br/>何往营班禄，不但还来？<br/><br/>昏微遵迹，有狄不宁。<br/>何繁鸟萃棘，负子肆情？<br/>眩弟并淫，危害厥兄。<br/>何变化以作诈，而後嗣逢长？<br/><br/>成汤东巡，有莘爰极。<br/>何乞彼小臣，而吉妃是得？<br/>水滨之木，得彼小子。<br/>夫何恶之，媵有莘之妇？<br/>汤出重泉，夫何罪尤？<br/>不胜心伐帝，夫谁使挑之？<br/><br/>会晁争盟，何践吾期？<br/>苍鸟群飞，孰使萃之？<br/>列击纣躬，叔旦不嘉。<br/>何亲揆发，何周之命以咨嗟？<br/>授殷天下，其位安施？<br/>反成乃亡，其罪伊何？<br/>争遣伐器，何以行之？<br/>并驱击翼，何以将之？<br/><br/>昭后成游，南土爰底。<br/>厥利惟何，逢彼白雉？<br/><br/>穆王巧挴，夫何周流？<br/>环理天下，夫何索求？<br/><br/>妖夫曳衒，何号于市？<br/>周幽谁诛？焉得夫褒姒？<br/><br/>天命反侧，何罚何佑？<br/>齐桓九会，卒然身杀。<br/><br/>彼王纣之躬，孰使乱惑？<br/>何恶辅弼，谗谄是服？<br/>比干何逆，而抑沉之？<br/>雷开何顺，而赐封之？<br/>何圣人之一德，卒其异方：<br/>梅伯受醢，箕子详狂？<br/><br/>稷维元子，帝何竺之？<br/>投之於冰上，鸟何燠之？<br/>何冯弓挟矢，殊能将之？<br/>既惊帝切激，何逢长之？<br/><br/>伯昌号衰，秉鞭作牧。<br/>何令彻彼岐社，命有殷国？<br/>迁藏就岐，何能依？<br/>殷有惑妇，何所讥？<br/>受赐兹醢，西伯上告。<br/>何亲就上帝罚，殷之命以不救？<br/>师望在肆，昌何识？<br/>鼓刀扬声，后何喜？<br/>武发杀殷，何所悒？<br/>载尸集战，何所急？<br/>伯林雉经，维其何故？<br/>何感天抑坠，夫谁畏惧？<br/>皇天集命，惟何戒之？<br/>受礼天下，又使至代之？<br/><br/>初汤臣挚，後兹承辅。<br/>何卒官汤，尊食宗绪？<br/><br/>勋阖、梦生，少离散亡。<br/>何壮武历，能流厥严？<br/><br/>彭铿斟雉，帝何飨？<br/>受寿永多，夫何久长？<br/><br/>中央共牧，后何怒？<br/>蜂蛾微命，力何固？<br/>惊女采薇，鹿何祐？<br/>北至回水，萃何喜？<br/>兄有噬犬，弟何欲？<br/>易之以百两，卒无禄？<br/><br/>薄暮雷电，归何忧？<br/>厥严不奉，帝何求？<br/>伏匿穴处，爰何云？<br/>荆勋作师，夫何长？<br/>悟过改更，我又何言？<br/>吴光争国，久余是胜。<br/>何环穿自闾社丘陵，爰出子文？<br/>吾告堵敖以不长。<br/>何试上自予，忠名弥彰？</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-257-4127.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-257-4129.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-257.html" action-type="chapterComment" class="comment"><i></i>楚辞章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

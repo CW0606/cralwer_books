@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《准风月谈》正文_各种捐班_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="准风月谈,准风月谈原文,准风月谈阅读,各种捐班全文,鲁迅作品" />
+<meta name="description" content="准风月谈原文阅读,各种捐班全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-551-7583.html";
+var nextpage="novel-read-551-7585.html";
+var indexpage = "novel-chapter-551.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-551.html">准风月谈</a></strong>
+<strong><a href="novel-chapter-551.html">准风月谈目录</a></strong>
+<span>各种捐班</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-551-7583.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>各种捐班</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-06 20:19:41<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>洛文 <br/>　　清朝的中叶，要做官可以捐，叫做“捐班”的便是这一伙。财主少爷吃得油头光脸，忽而忙了几天，头上就有一粒水晶顶，有时还加上一枝蓝翎（２），满口官话，说是“今天天气好”了。 <br/>　　到得民国，官总算说是没有了捐班，然而捐班之途，实际上倒是开展了起来，连“学士文人”也可以由此弄得到顶戴。开宗明义第一章，自然是要有钱。只要有钱，就什么都容易办了。譬如，要捐学者罢，那就收买一批古董，结识几个清客，并且雇几个工人，拓出古董上面的花纹和文字，用玻璃板印成一部书，名之曰“什么集古录”或“什么考古录”。李富孙（３）做过一部《金石学录》，是专载研究金石（４）的人们的，然而这倒成了“作俑”（５），使清客们可以一续再续，并且推而广之，连收藏古董，贩卖古董的少爷和商人，也都一榻括子（６）的收进去了，这就叫作“金石家”。 <br/>　　捐做“文学家”也用不着什么新花样。只要开一只书店，拉几个作家，雇一些帮闲，出一种小报，“今天天气好”是也须会说的，就写了出来，印了上去，交给报贩，不消一年半载，包管成功。但是，古董的花纹和文字的拓片是不能用的了，应该代以电影明星和摩登女子的照片，因为这才是新时代的美术。“爱美”的人物在中国还多得很，而“文学家”或“艺术家”也就这样的起来了。 <br/>　　捐官可以希望刮地皮，但捐学者文人也不会折本。印刷品固然可以卖现钱，古董将来也会有洋鬼子肯出大价的。 <br/>　　这又叫作“名利双收”。不过先要能“投资”，所以平常人做不到，要不然，文人学士也就不大值钱了。 <br/>　　而现在还值钱，所以也还会有人忙着做人名辞典，造文艺史，出作家论，编自传。我想，倘作历史的著作，是应该像将文人分为罗曼派，古典派一样，另外分出一种“捐班”派来的，历史要“真”，招些忌恨也只好硬挺，是不是？八月二十四日。 <br/>　　<br/>===============================================================<br/><br/>　　（１）　本篇最初发表于一九三三年八月二十六日《申报·自由谈》。 <br/>　　（２）　水晶顶、蓝翎　都是清代用以区别官员等级的帽饰。五品官礼帽上用亮白色水晶顶。帽后又分别垂戴孔雀翎（五品以上）或鹖羽蓝翎（六品以下）。富家子弟也可以因捐官而得到这种“顶戴”。<br/>　　（３）　李富孙（１７６４—１８４３）　字芗沚，清代嘉兴人。著有《金石学录》、《汉魏六朝墓铭纂例》等书。 <br/>　　（４）　金石　这里金指铜器，石指石碑等，古代常在这些东西上面铸字或刻字以记事，故称这类历史文物为金石。<br/>　　（５）　“作俑”《孟子·梁惠王》：“仲尼曰：‘始作俑者，其无后乎！’”后来即称开头做坏事为“作俑”。俑，古代殉葬用的木偶或泥人。 <br/>　　（６）　一榻括子　上海话，统统、全盘的意思。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-551-7583.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-551-7585.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-551.html" action-type="chapterComment" class="comment"><i></i>准风月谈章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

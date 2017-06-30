@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《龟虽寿》正文_龟虽寿_曹操作品 - 维普阅读网</title>
+<meta name="keywords" content="龟虽寿,龟虽寿原文,龟虽寿阅读,龟虽寿全文,曹操作品" />
+<meta name="description" content="龟虽寿原文阅读,龟虽寿全文在线阅读,曹操作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-483.html";
+var nextpage="novel-chapter-483.html";
+var indexpage = "novel-chapter-483.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-483.html">龟虽寿</a></strong>
+<strong><a href="novel-chapter-483.html">龟虽寿目录</a></strong>
+<span>龟虽寿</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-483.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>龟虽寿</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=曹操&amp;searchsubmit=yes"  target="_blank">曹操</a><span class="divide">|</span>发布时间：2014-09-17 21:10:26<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/><br/>　　神龟虽寿，猷有竟时。<br/><br/>　　腾蛇乘雾，终为土灰。<br/><br/>　　老骥伏枥，志在千里；<br/><br/>　　烈士暮年，壮心不已。<br/><br/>　　盈缩之期，不但在天；<br/><br/>　　养怡之福，可得永年。<br/><br/>　　幸甚至哉，歌以咏志。<br/><br/>【注释】<br/><br/>⑴曹操所作乐府组诗《步出夏门行》中的第四章。诗中融哲理思考、慷慨激情和艺术形象于一炉，表现了老当益壮、积极进取的人生态度。此诗是曹操的乐府诗《步出夏门行》四章中的最后一章。<br/>⑵神龟，传说中的通灵之龟，能活几千岁。寿，长寿。<br/>⑶竟：终结，这里指死亡。<br/>⑷螣蛇，传说中龙的一种，能乘云雾升天。<br/>⑸骥：良马，千里马。<br/>⑹伏：趴，卧。<br/>⑺枥（lì）：马槽。<br/>⑻烈士：有远大抱负的人。<br/>⑼暮年：晚年。<br/>⑽已：停止。<br/>⑾盈缩：原指岁星的长短变化，这里指人的寿命长短。盈，增长。缩，亏，引申为短。<br/>⑿但：仅，只。<br/>⒀养怡：指调养身心，保持身心健康。怡，愉快、和乐。<br/>⒁咏：长久。永年：长寿，活得长。<br/>⒂幸甚至哉：庆幸得很，好极了。幸，庆幸。至，极点。最后两句每章都有，应为合乐时的套语，与正文内容没有直接关系<br/>（16）养怡两句：保养身心健康<br/><br/>【译文】<br/><br/>神龟即使十分长寿，但生命终究会有结束的一天；螣龙尽管能腾云乘雾飞行，但终究也会死亡化为土灰。<br/>年老的千里马虽然伏在马槽旁，雄心壮志却是驰骋千里；壮志凌云的人士即便到了晚年，奋发思进的心也永不止息。<br/>人寿命长短，不只是由上天决定；调养好身心，就定可以益寿延年。<br/>真是幸运极了，用歌唱来表达自己的思想感情吧。<br/><br/>【背景】<br/><br/>　　此诗约作于公元208年初。曹操率领大军征伐当时东北方的大患乌桓。平定乌桓叛乱、消灭袁绍残余势力之后，南下征讨荆、吴之前。曹操统一北方大业中的一次重要战争。远征途中，写下了乐府歌辞《步出夏门行》。包括五个部分，开头为“艳”辞，即序诗，各篇分别取诗句命名，依次为《观沧海》、《冬十月》、《河朔寒》、《龟虽寿》。此时曹操已到天命之年，所以诗一开头便说道：“神龟虽寿，犹有竟时，螣蛇乘雾，终为土灰。”<br/>　　《庄子·秋水篇》说:“吾闻楚有神龟，死已三千岁矣。”曹操反其意而用之，说神龟纵活三千年，可还是难免一死呀！<br/><br/>【鉴赏】<br/><br/>　　南朝钟嵘写了一部《诗品》，品评诗人，区分第等，把曹操的诗置于下品。可是，曹操的诗却有了一种震撼人心的巨大力量，使后代无数英雄志士为之倾倒若狂。据《世说新语》记载：东晋时代重兵在握的大将军王敦，每酒后辄咏曹操“老骥伏枥，志在千里。烈士暮年，壮心不已”。以如意击打唾壶为节，壶口尽缺。为什么理论家的眼光同读者的赏爱如此大不相同呢？这是一个颇为发人深思的问题。王大将军击节赞赏的诗，是曹操乐府诗《步出夏门行》的第四章《龟虽寿》。曹操当时击败袁绍父子，平定北方乌桓，踌躇满志，乐观自信，便写下这一组诗，抒写胸怀建功立业的豪情壮志。此时曹操已经五十三岁了，不由想起了人生的路程，所以诗一开头便无限感慨地吟道：“神龟虽寿，犹有竟时，腾蛇乘雾，终为土灰。”<br/>　　《庄子·秋水篇》说:“吾闻楚有神龟，死已三千岁矣。”曹操反其意而用之，说神龟纵活三千年，可还是难免一死呀！《韩非子·难势篇》记载：“飞龙乘云，腾蛇游雾，云罢雾霁，而龙蛇与 同矣！”“腾蛇”和龙一样能够乘云驾雾，本领可谓大矣！然而，一旦云消雾散，就和苍蝇蚂蚁一样，灰飞烟灭了！古来雄才大略之主如秦皇汉武，服食求仙，亦不免于神仙长生之术的蛊惑，而独曹操对生命的自然规律有清醒的认识，这在谶纬迷信猖炽的时代是难能可贵的。更可贵的是如何对待这有限的人生？曹操一扫汉末文人感叹浮生若梦、劝人及时行乐的悲调，慷慨高歌曰：“老骥伏枥，志在千里。烈士暮年，壮心不已。”曹操自比一匹上了年纪的千里马，虽然形老体衰，屈居枥下，但胸中仍然激荡着驰骋千里的豪情。他说，有志干一番事业的人，虽然到了晚年，但一颗勃勃雄心永不会消沉，一种对宏伟理想追求永不会停息啊！<br/>　　这首诗始于人生哲理的感叹，继发壮怀激烈的高唱，复而回到哲理的思辨：“盈缩之期，不但在天；养怡之福，可得永年。”曹操对人生的看法颇有一点辩证的思维，他首先讲尊重自然规律，人总是要死的。接着讲人在有限的生命里，要充分发挥主观能动性，去积极进取，建功立业。<br/>　　最后再谈到人在自然规律面前也不是完全无能为力的，一个人寿命的长短虽然不能违背客观规律，但也不是完全听凭上天安排。如果善自保养身心，使之健康愉快，不是也可以延年益寿吗？曹操所云“养怡之福”，不是指无所事事，坐而静养，而是说一个人精神状态是最重要的，不应因年暮而消沉，而要“壮心不已”－－要有永不停止的理想追求和积极进取精神，永远乐观奋发，自强不息，保持思想上的青春。曹操以切身体验揭示了人的精神因素对健康的重要意义，从这方面来说，它不又是一篇绝妙的养生论吗！<br/>　　《龟虽寿》更可贵的价值在于这是一首真正的诗歌，它开辟了一个诗歌的新时代，汉武帝罢黜百家，独尊儒术，把汉代人的思想禁锢了三四百年，弄得汉代文人不会写诗，只会写那些歌颂帝王功德的大赋和没完没了地注释儒家经书，真正有感情，有个性的文学得不到发展。直到东汉末年天下分崩，风云扰攘，政治思想文化发生重大变化，作为一世之雄而雅爱诗章的曹操，带头叛经离道，给文坛带来了自由活跃的空气。他“外定武功，内兴文学”，身边聚集了“建安七子”等 一大批文人，他们都是天下才志之士，生活在久经战乱的时代，思想感情常常表现得慷慨激昂。正如《文心雕龙·时序》说：“观其时文，雅好慷慨，良由世积乱离，风衰俗怨，并志深而笔长，故梗慨而多气也。”尤其是曹操，鞍马为文，横槊赋诗，其诗悲壮慷慨，震烁古今，前无古人，后无来者。这种充满激情诗歌所表现出来的爽朗刚健的风格，后人称之为“建安风骨”，曹操是最突出的代表。千百年来，曹操的诗就是以这种“梗慨多气”风骨及其内在的积极进取精神，震荡着天下英雄的心灵。也正是这种可贵特质，使建安文学在中国文学史上闪灼着夺目光彩。钟嵘将曹操置于下品，主要是嫌其“古直”而少文彩，殊不知曹操这样一位豪气盖世的英雄，是不屑于雕章啄句的。钟嵘六朝时人，当时文学之士很讲究文彩华美，所谓“俪采百字之偶，争价一句之奇”，钟嵘对曹操的评价过低，显然是时代风气使然。我们知道，任何文学－－包括诗歌在内，文彩较之内容，毕竟是第二位的。关于曹操的文学地位，过去常为其政治业绩所掩，而不为人重视，其实，他在中国文学发展史上，是有卓越贡献的人物，特别对建安文学有开创之功，实在是应当大书一笔的。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-483.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-483.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-483.html" action-type="chapterComment" class="comment"><i></i>龟虽寿章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

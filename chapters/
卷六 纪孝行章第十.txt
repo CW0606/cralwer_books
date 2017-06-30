@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孝经注疏》正文_卷六 纪孝行章第十_注 唐·李隆基，疏 宋·邢昺作品 - 维普阅读网</title>
+<meta name="keywords" content="孝经注疏,孝经注疏原文,孝经注疏阅读,卷六 纪孝行章第十全文,注 唐·李隆基，疏 宋·邢昺作品" />
+<meta name="description" content="孝经注疏原文阅读,卷六 纪孝行章第十全文在线阅读,注 唐·李隆基，疏 宋·邢昺作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1425-26378.html";
+var nextpage="novel-read-1425-26380.html";
+var indexpage = "novel-chapter-1425.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1425.html">孝经注疏</a></strong>
+<strong><a href="novel-chapter-1425.html">孝经注疏目录</a></strong>
+<span>卷六 纪孝行章第十</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1425-26378.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷六 纪孝行章第十</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=注 唐·李隆基，疏 宋·邢昺&amp;searchsubmit=yes"  target="_blank">注 唐·李隆基，疏 宋·邢昺</a><span class="divide">|</span>发布时间：2016-07-22 22:47:48<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p> [疏]正义曰：此章纪录孝子事亲之行也。前章孝冶天下，所施政教，不待严肃，自然成理，故君子皆由事亲之心，所以孝行有可纪也。故以名章，次《圣治》之后。或於“孝行”之下，又加“犯法”两字，今不取也。<br/><br/>　<br/><br/>　　子曰：“孝子之事亲也，居则致其敬，平居必尽其敬。养则致其乐，就养能致其欢。病则致其忧，色不满容，行不正履。丧则致其哀，擗踊哭泣，尽其哀情。祭则致其严。齐戒沐浴，明发不寐。五者备矣，然后能事亲。五者阙一，则未为能。<br/><br/>　　[疏]子曰至事亲。<br/><br/>　　○正义曰：致犹尽也。言为人子能事其亲而称孝者，谓平常居处家之时也，当须尽於恭敬。若进饮食之时，怡颜悦色，致亲之欢；若亲之有疾，则冠者不栉，怒不至詈，尽其忧谨之心，若亲丧亡，则攀号毁瘠，终其哀情也；若卒哀之后，当尽其祥练；及春秋祭祀，又当尽其严肃：此五者，无限贵贱，有尽能备者，是其能事亲。<br/>　　○注平居必尽其敬。<br/>　　○正义曰：此依王注也。平居，谓平常在家，孝子则须恭敬也。案《礼记·内则》云：“子事父母，鸡初鸣，咸盥漱，至於父母之所，敬进甘脆而后退。”又《祭义》曰：“养可能也，敬为难。”皆是尽敬之义也。<br/>　　○注就养能致其欢。<br/>　　○正义曰：此依魏注也。案《檀弓》曰“事亲有隐而无犯，左右就养无方”，言孝子冬温夏凊，昏定晨省，及进饮食以养父母，皆须尽其敬安之心。不然，则难以致亲之欢。<br/>　　○注色不至正履。<br/>　　○正义曰：此依郑注也。案《礼记·文王世子》云：王季“有不安节，则内竖以告文王，文王色忧，行不能正履”。又下文此古之世子亦朝夕问於内竖，其有不安节，“世子色忧不满容”。此注减“忧”“能”二字者，以此章通於贵贱，虽拟人非其伦，亦举重以明轻之义也。<br/>　　○注擗踊至哀情。<br/>　　○正义曰：此依郑注也，并约《丧亲章》文。其义具於彼。<br/>　　○注斋戒至不寐。<br/>　　○正义曰：此皆说祭祀严敬之事也。案《祭义》曰：“孝子将祭，夫妇斋戒，沐浴盛服，奉承而进之。”言将祭必先齐戒沐浴也。又云：“文王之祭也，事死如事生。《诗》云：‘明发不寐，有怀二人。’文王之诗也。”郑注云：“明发不寐，谓夜而至旦也。二人，谓父母也。”言文王之严敬祭祀如此也。<br/>　　○注五者至为能。<br/>　　○正义曰：此依魏注也。凡为孝子者，须备此五等事也。五事若阙於一，则未为能事亲也。<br/>　<br/><br/>　　事亲者居上不骄，当庄敬以临下也，为下不乱，当恭谨以奉上也。在丑不争。丑，众也。争，竞也。当和顺以从众也。居上而骄则亡，为下而乱则刑，在丑而争则兵。谓以兵刃相加三者不除，虽日用三牲之养，犹为不孝也。”三牲，太牢也，孝以不毁为先。言上三事皆可亡身，而不除之，虽日致太牢之养，固非孝也。<br/><br/>　　[疏]事亲至孝也。<br/><br/>　　○正义曰：此言居上位者不可为骄溢之事，为臣下者不可为挠乱之事，在丑辈之中不可为忿争之事。是以居上须去骄，不去则危亡也；为下须去乱，不去则致刑辟；在丑辈须去争，不去则兵刃或加於身。若三者不除，虽复日日能用三牲之养，终贻父母之忧，犹为不孝之子也。<br/>　　○注丑，众也。争，竞也。<br/>　　○正义曰：此依魏注也。“丑，众”，《释诂》文。《左传》曰：“师竞已甚。”杜预云：“竞犹争也。”故注以竞释争也。<br/>　　○注谓以兵刃相加。<br/>　　○正义曰：此依常义。案《左传》云：“晋范鞅用剑以帅卒。”杜预曰：“用短兵接敌。”此则刃剑之属谓之兵也。必有刃，堪害於人，则《左传》齐庄公请自刃於庙是也。言处侪众之中而每事好争竞，或有以刃相仇害也。<br/>　　○注三牲至非孝也。<br/>　　○正义曰：云“三牲，太牢也”者，三牲，牛、羊、豕、也。案《尚书·召诰》称“越翼日戊午，乃社於新邑，牛一、羊一、豕一”。孔云：“用太牢也。”是谓三牲为太牢也。云“孝以不毁为先”者，则首章“不敢毁伤”也。云“言上三事皆可亡身”者，谓上居上而骄，为下而乱，在丑而争之三事，皆可丧亡其身命也。云“而不除之，虽日致太牢之养，固非孝也”者，言奉养虽优，不除骄，乱及争竞之事，使亲常忧，故非孝也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1425-26378.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1425-26380.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1425.html" action-type="chapterComment" class="comment"><i></i>孝经注疏章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

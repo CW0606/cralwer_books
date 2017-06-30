@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《战争与和平》正文_第九部 第十章_列夫·托尔斯泰作品 - 维普阅读网</title>
+<meta name="keywords" content="战争与和平,战争与和平原文,战争与和平阅读,第九部 第十章全文,列夫·托尔斯泰作品" />
+<meta name="description" content="战争与和平原文阅读,第九部 第十章全文在线阅读,列夫·托尔斯泰作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1211-20740.html";
+var nextpage="novel-read-1211-20742.html";
+var indexpage = "novel-chapter-1211.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1211.html">战争与和平</a></strong>
+<strong><a href="novel-chapter-1211.html">战争与和平目录</a></strong>
+<span>第九部 第十章</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1211-20740.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第九部 第十章</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-28.html" target="blank">外国名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=列夫·托尔斯泰&amp;searchsubmit=yes"  target="_blank">列夫·托尔斯泰</a><span class="divide">|</span>发布时间：2015-03-06 22:21:53<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>	<br/>　　当巴克雷吃饭时转告博尔孔斯基说，皇帝本人要招见安德烈公爵，向他垂询有关土耳其的情况。下午六点钟，安德烈公爵要来到贝尼格森的寓所，此时这封信还没有呈交皇帝。<br/><br/>　　就在这一天，皇帝行辕收到一则有关拿破仑的新的行动可能危及我方军队的消息，这个消息后来证明不准确，也在这天早晨，米绍上校陪同皇帝巡视了德里萨的防御工事，并向皇帝证明说，由普弗尔设计构筑的这个牢固的阵地被认为是空前的战术家的chef-d’oeuvre①，它可以置拿破仑于死地，——这个阵地没有任何意义，倒是俄罗斯军队的坟墓——<br/><br/>　　①法语：杰作。<br/><br/>　　安德烈公爵来到贝尼格森将军的寓所，它坐落在紧邻河岸的一所不大的地主宅院里，那里既没有贝尼格森，也无皇帝，但是皇帝的侍从武官切尔内绍夫接待了博尔孔斯基，向他解释说皇上带着贝尼格森将军和保罗西侯爵今天第二次去视察德里萨营地防御工事，他们对这座营地防御工事的适用性开始产生极大的怀疑。<br/><br/>　　切尔内绍夫拿着一本法国小说坐在第一间屋的窗子旁边，大概这间房屋以前曾是大厅；屋内还有一架风琴，风琴上堆放着地毯，屋角里放着贝尼格森的副官的行军床。这个副官正在那儿，显然他被宴会或事务累得疲惫不堪，坐在卷着的被盖上打瞌睡，大厅有两道门：一道门直通原先的客厅，另一道往右通向书房。从第一道门里传来用德语、偶尔也用法语谈话的声音。那里，原先的客厅里，按皇帝的旨意正举行非军事性会议（皇帝喜欢含糊），他希望知道在目前困境下几个人的意见。这不是军事会议，好像是为皇帝个人阐明某些问题而召开的特邀会议。被邀出席这次非正式会议的有，瑞典将军阿姆菲尔德，侍从武官沃尔佐根，温岑格罗德，他被拿破仑称为法国逃亡者，米绍，托尔，完全不是军人的施泰因伯爵，最后是普弗尔本人，正如安德烈公爵听说的那样，他是所有事情的lachevilleouvrière①。安德烈公爵有机会仔细打量他，因为普弗尔在安德烈到后不久就来了，去客厅时他停下来与切尔内绍夫谈过一会儿话——<br/><br/>　　①法语：主脑。<br/><br/>　　乍看起来，普弗尔穿着裁剪很差的俄罗斯将军制服，好像被化了装似的，穿着不合身，安德烈公爵觉得他很面熟，虽然他从未见过他，他身上具有魏罗特尔、马克、施米特和其他许多安德烈公爵一八○五年见到过的德国军事理论家所具备的特点；但是他比其他所有人都更典型，安德烈公爵还从未见过一位如此把那些德国人的特点集于一身的德国军事理论家。<br/><br/>　　普弗尔身材不高，很瘦，但骨架宽大、体格健康，臀部宽阔，肩胛骨棱角分明。他满脸绉纹，眼窝深隐，额前的鬓发显然匆匆地梳理过，脑后的头发却一撮撮地翘起显得幼稚可笑。他一边走进房间，一边心神不宁地忿忿地四处张望，好像他害怕他走进的那一大间房中的一切似的。他笨手笨脚地扶着佩刀，用德语向切尔内绍夫打听皇帝在哪儿。显然，他想尽快穿过房间，结束礼仪和问候，在地图边坐下来着手工作，他觉得那才是舒适的地方，他一边听切尔内绍夫说皇帝去视察他普弗尔按自己的理论构筑的工事，一边匆匆地点着头，带着讥讽的意味微笑着，他自言自语地嘟囔了一句什么，仿佛像所有自信的德国人那样低沉而急促地抱怨Dummkopf……①或者：ZuGrundedieganzeGeschichte……②或者：S’wirdwasgescheitesd’rauswerden……③安德烈公爵没有听清他说什么，想走过去，但是切尔内绍夫把安德烈公爵介绍给普弗尔认识，并说安德烈公爵刚从土耳其回来，那里的战事幸运地结束了，普弗尔瞟了一眼安德烈公爵，与其说是看他，毋宁说是眼光一扫而过，大笑着说：“DaMusseinschoCnertactischerKrieggewesensein．”④随后，轻蔑地笑笑，向那传出谈话声的房间走去——<br/><br/>　　①德语：愚蠢。<br/><br/>　　②法语：整个事情就要完蛋。<br/><br/>　　③法语：哼，有好戏看啦！<br/><br/>　　④法语：对啦，那一仗准是战术运用得正确。<br/><br/>　　普弗尔显然就爱讽刺挖苦人，特别是现在有人背着他去视察他的阵地并且妄加评判，这就更刺激了他。安德烈公爵通过这一次与普弗尔的短暂会见，再加之对奥斯特利茨战役的回忆，就为这个人勾划出了鲜明的形象。普弗尔是那类自信到不可救药，一成不变，以致于宁愿殉道的人之一，这类人只能是德国人，因为只有德国人根据远离现实的观念——科学，即臆想到的完善无缺的真理的知识才建立这样的自信。法国人所以自信是因为他认为自己无论智力还是肉体，无论对男人还是对女人都有不可抗拒的迷人的力量，英国人的自信是基于他是世界上组织得最好的国家的公民，是因为他作为一个英国人，总是知道该作什么，而且知道作为一个英国人所做的一切无疑是正确的，意大利人自信是因为他总是激动万分，容易忘掉自己和别人，俄罗斯人自信却是因为他什么也不知道，而且不愿知道，因为他不相信有什么事是可以完全了解的，德国人的那种自信比所有其他的都糟，都更顽固，更讨厌，因为他想象他知道真理，知道科学，那真理和科学是他自己杜撰出来的，可他却认为是绝对真理——显然，普弗尔就是这样的人，他有一种科学——他从腓特烈大帝战争史得出的迂回运动理论，他遇到的现代战争史中的一切，都使他觉得那些是毫无意义的、野蛮、混乱的冲突，其中战斗的双方都犯了如此多的错误，以致那些战争不能称为战争，它们不符合理论，不能作为科学研究的对象。<br/><br/>　　一八○六年，普弗尔是结束于耶那和奥尔施泰特的那场战争的计划拟定人之一；但是在这场战争的结局中他没有看见自己的理论有任何错误。相反，他认为所有失败的唯一原因是没有按照他的理论去做。他用自己特有的幸灾乐祸的讽刺口吻说：“Ichsagteja，dassdieganzeGeschichtezumTeufelgehenwerde．”①普弗尔是那种理论家之一，这种理论家如此偏爱自己的理论，以致于忘掉了理论的目的——应用于实际，他们由于偏爱理论而憎恨一切实际，连了解也不愿意。他甚至为失败而高兴，因为实际是由于背离理论而导致失败的，对他来说这种失败只能证明其理论的正确性——<br/><br/>　　①德语：我早就说过，整个事情都要完蛋。<br/><br/>　　他与安德烈公爵和切尔内绍夫说了几句关于当前战争的话，他的神情仿佛在说，我早就知道一切都会弄糟的，甚至对此抱有得意之色，那脑后一撮撮翘起的头发和匆匆梳过的鬓角都说明了这点。<br/><br/>　　他走进另一间房，那儿立刻传来他低沉而愤慨的声音——</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1211-20740.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1211-20742.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1211.html" action-type="chapterComment" class="comment"><i></i>战争与和平章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《素问》正文_阴阳别论篇第七_黄帝作品 - 维普阅读网</title>
+<meta name="keywords" content="素问,素问原文,素问阅读,阴阳别论篇第七全文,黄帝作品" />
+<meta name="description" content="素问原文阅读,阴阳别论篇第七全文在线阅读,黄帝作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-269-4588.html";
+var nextpage="novel-read-269-4590.html";
+var indexpage = "novel-chapter-269.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-269.html">素问</a></strong>
+<strong><a href="novel-chapter-269.html">素问目录</a></strong>
+<span>阴阳别论篇第七</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-269-4588.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>阴阳别论篇第七</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=黄帝&amp;searchsubmit=yes"  target="_blank">黄帝</a><span class="divide">|</span>发布时间：2014-08-29 23:04:07<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>黄帝问曰：人有四经、十二从，何谓？岐伯对曰：四经应四时，十二从应十二月，十二月应十二脉。<br/>　　　 脉有阴阳，知阳者知阴，知阴者知阳。凡阳有五，五五二十五阳。所谓阴者，真藏也，见则为败，败必死也。所谓阳者，胃脘之阳也。别于阳者，知病处也；别于阴者，知死生之期。三阳在头，三阴在手，所谓一也。别于阳者，知病忌时；别于阴者，知死生之期。谨熟阴阳，无与众谋。<br/>　　　 所谓阴阳者，去者为阴，至者为阳；静者为阴，动者为阳；迟者为阴，数者为阳。凡持真脉之藏脉者，肝至悬绝急，十八日死；心至悬绝，九日死；肺至悬绝，十二日死；肾至悬绝，七日死；脾至悬绝，四日死。<br/>　　　 曰：二阳之病发心脾，有不得隐曲，女子不月。其传为风消，其传为息贲者，死不治。曰：三阳为病发寒热，下为痈肿，及为痿厥腨A2T6，其传为索泽，其传为颓疝。曰：一阳发病，少气，善咳，善泄。其传为心掣，其传为隔。二阳一阴发病，主惊骇、背痛、善噫、善欠，名曰风厥。二阴一阳发病，善胀，心满，善气。三阳三阴发病，为偏枯痿易，四支不举。<br/>　　　 鼓一阳曰钩，鼓一阴曰毛，鼓阳胜急曰弦，鼓阳至而绝曰石，阴阳相过曰溜。<br/>　　　 阴争于内，阳扰于外，魄汗未藏，四逆而起，起则熏肺，使人喘鸣。阴之所生，和本曰和。是故刚与刚，阳气破散，阴气乃消亡。淖则刚柔不和，经气乃绝。<br/>　　　 死阴之属，不过三日而死；生阳之属，不过四日而已。所谓生阳、死阴者，肝之心，谓之生阳；心之肺，谓之死阴；肺之肾，谓之重阴；肾之脾，谓之辟阴，死不治。<br/>　　　 结阳者，肿四支；结阴者，便血一升，再结二升，三结三升；阴阳结斜，多阴少阳曰石水，少腹肿；二阳结谓之消；三阳结谓之隔；三阴结谓之水；一阴一阳结谓之喉痹。<br/>　　　 阴搏阳别谓之有子；阴阳虚，肠辟死；阳加于阴谓之汗；阴虚阳搏谓之崩。三阴俱搏，二十日夜半死；二阴俱搏，十三日夕时死；一阴俱搏，十日死；三阳俱搏且鼓，三日死；三阴三阳俱搏，心腹满，发尽，不得隐曲，五日死；二阳俱搏，其病温，死不治，不过十日死。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-269-4588.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-269-4590.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-269.html" action-type="chapterComment" class="comment"><i></i>素问章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

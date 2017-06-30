@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《黄帝内经》正文_第八篇 本神_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="黄帝内经,黄帝内经原文,黄帝内经阅读,第八篇 本神全文,佚名作品" />
+<meta name="description" content="黄帝内经原文阅读,第八篇 本神全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-58-1847.html";
+var nextpage="novel-read-58-1849.html";
+var indexpage = "novel-chapter-58.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-58.html">黄帝内经</a></strong>
+<strong><a href="novel-chapter-58.html">黄帝内经目录</a></strong>
+<span>第八篇 本神</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-58-1847.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第八篇 本神</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-07-29 22:16:19<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【本章要点】<br/>　　一、阐述了广义的“神”，一方面本于先天的父母之精，另一方面又依靠后天的不断补给，包括自然界的大气和水谷之精气。因此，针刺治疗上必须首先掌握人的生命活动情况——“本于神”；在日常养生上，要经常注意适应周围环境的变化和调摄精神情志活动，否则可能产生各种病变。<br/>　　二、阐述了神、魂、魄、意、志的意义及其与五脏的关系。<br/>　　三、叙述各脏因情志不节的影响所发生的病症，指出要根据虚实的不同征候进行调治。<br/>　　【原文】<br/>　　黄帝问于岐伯曰：凡刺之法，先必本于神。血、脉、营、气、精、神，此五脏之所藏也。至其淫泆离脏①则精失、魂魄飞扬、志意恍乱、智虑去身者，何因而然乎？天之罪与？人之过乎？何谓德、气、生、精、神、魂、魄、心、意、志、思、智、虑？请问其故。<br/>　　岐伯答曰：天之在我者德②也，地之在我者气也。德流气薄而生者也。故生之来谓之精；两精相搏谓之神；随神往来者谓之魂；并精而出入者谓之魄；所以任物者谓之心；心有所忆谓之意；意之所存谓之志；因志而存变谓之思；因思而远慕谓之虑；因虑而处物谓之智。<br/>　　故智者之养生也，必顺四时而适寒暑，和喜怒而安居处，节阴阳而调刚柔。如是，则僻邪不至，长生久视。<br/>　　是故怵惕思虑者则伤神，神伤则恐惧流淫而不止。因悲哀动中者，竭绝而失生。喜乐者，神惮散而不藏。愁忧者，气闭塞而不行。盛怒者，迷惑而不治。恐惧者，神荡惮而不收。<br/>　　心，怵惕思虑则伤神，神伤则恐惧自失。破月囷脱肉，毛悴色夭死于冬③。<br/>　　脾，愁忧而不解则伤意，意伤则恍乱，四肢不举，毛悴色夭死于春。<br/>　　肝，悲哀动中则伤魂，魂伤则狂忘不精，不精则不正，当人阴缩而挛筋，两胁骨不举，毛悴色夭死于秋。<br/>　　肺，喜乐无极则伤魄，魄伤则狂，狂者意不存人，皮革焦，毛悴色夭死于夏。<br/>　　肾，盛怒而不止则伤志，志伤则喜忘其前言，腰脊不可以俛仰屈伸，毛悴色夭死于季夏。<br/>　　恐惧而不解则伤精，精伤则骨酸痿厥，精时自下。是故五脏主藏精者也，不可伤，伤则失守而阴虚；阴虚则无气，无气则死矣。<br/>　　是故用针者，察观病人之态，以知精、神、魂、魄之存亡，得失之意，五者以伤，针不可以治之也。<br/>　　肝藏血，血舍魂，肝气虚则恐，实则怒。<br/>　　脾藏营，营舍意，脾气虚则四肢不用，五脏不安，实则腹胀经溲不利。<br/>　　心藏脉，脉舍神，心气虚则悲，实则笑不休。<br/>　　肺藏气，气舍魄，肺气虚，则鼻塞不利少气，实则喘喝胸盈仰息④。<br/>　　肾藏精，精舍志，肾气虚则厥，实则胀。五脏不安。必审五脏之病形，以知其气之虚实，谨而调之也。<br/>　　【注释】<br/>　　①淫泆离脏：淫，过度，这里指过度放纵。离藏，五脏所藏的血气精神耗散。<br/>　　②德：天地万物的运化规律，如四季更替、万物盛衰的自然变化。<br/>　　③死于冬：按五行配属，心属火，冬季为水，而水克火，心气在冬季受克更为虚弱，属于心的病症就会加重，如果不能耐受将会死亡。以下的“死于春”、“死于秋”、“死于夏”也为同理。<br/>　　④胸盈仰息：胸部胀满，仰面呼吸的意思。<br/>　　【译文】<br/>　　黄帝问岐伯道：运用针刺的一般法则，必须以人的生命活动为根本。因为血、脉、营、气、精、神，这些都属五脏所藏的维持生命活动的物质和动力。如果七情过度，使其与内脏分离，那么精气就随之而散失，魂魄不定而飞扬，志意无主而恍乱，思考决断能力丧失，这是什么原因造成的呢？究竟是天生的灾难，还是人为的过失呢？什么叫德、气、生、精、神、魂、魄、心、意、志、思、智、虑？请教其中的道理。<br/>　　岐伯回答说：天所赋予人的是“德”（如自然界的气候、日光雨露等），地所赋予人的是“气”（如地面上的物产）。因此，由于天之德下行与地之气上交，阴阳相结合，使万物化生，人才能生存。人之生命的原始物质，叫做精；男女交媾，两精结合而成的生机，叫做神；随从神气往来的精神活动，叫做魂；从乎精的先天本能，叫做魄；脱离母体之后，主宰生命活动的，叫做心；心里忆念而未定的，叫做意；主意已考虑决定，叫做志；根据志而反复思考，叫做思；思考范围由近及远，叫做虑；通过考虑后而毅然处理，叫做智。<br/>　　所以聪明的人保养身体，必定是顺从四时节令变化，来适应气候的寒暑，不让喜怒过度，注意正常的饮食起居，节制阴阳的偏颇，调剂刚柔的活动。这样，四时不正的邪气也难以侵袭，从而能够获致长寿而不易衰老。<br/>　　恐惧和思虑太过能损伤心神，神伤而恐惧的情绪时时流露于外。因悲哀太甚，内伤肝脏，能使正气耗竭以至绝灭而死亡。喜乐过度，使神气涣散而不守。忧愁太甚，使气机闭塞不通。大怒以后，能使神识昏迷。恐惧太甚，也使神气散失而不收。<br/>　　心因恐惧和思虑太过而伤及所藏之神，神伤便会时时恐惧，不能自主，久而大肉瘦削，皮毛憔悴，气色枯夭，死亡在冬季。<br/>　　脾因忧愁不解而伤及所藏之意，意伤便会胸膈烦闷，手足无力举动，皮毛憔悴，气色枯夭，死亡在春季。<br/>　　肝因悲哀太过而伤及所藏的魂，魂伤便会狂妄而不能精明，举动失常，同时使人前阴萎缩，筋脉拘挛，两胁不能舒张，皮毛憔悴，气色枯夭，死亡在秋季。<br/>　　肺因喜乐太过而伤及所藏的魄。魄伤便会形成癫狂，语无伦次，皮毛肌肤憔悴，气色枯夭，死亡在夏季。<br/>　　肾因大怒不止而伤及所藏的志，志伤便会记忆力衰退，腰脊不能俯仰转动，皮毛憔悴，气色枯夭，死亡在夏季。<br/>　　又因恐惧不解而伤精，精伤则骨节酸软痿弱，四肢发冷，精液时时外流。所以说，五脏都主藏精，不能损伤，伤则所藏之精失守而为阴不足，阴不足则正气的化源断绝，人无正气则死。<br/>　　因此，用针治病，应当仔细察看病人的神情与病态，从而了解其精、神、魂、魄、意、志有无得失的情况，如果五脏之精已经耗伤，就不可以妄用针刺治疗。<br/>　　肝脏主藏血，血中舍魂，肝气虚则易产生恐惧，肝气实则容易发怒。<br/>　　脾脏主藏营，营中舍意，脾气虚则四肢不能运动，五脏缺乏营气而不能发挥正常的功能，脾气实则发生腹中胀满，大小便不利。<br/>　　心脏主藏脉，脉中舍神，心气虚易产生悲感，心气实则喜笑不止。<br/>　　肺脏主藏气，气中舍魄，肺气虚则发生鼻塞呼吸不利、短气，肺气实则喘促胸满，仰面呼吸。<br/>　　肾脏主藏精，精中舍志，肾气虚则四肢厥冷，肾气实则小腹作胀。五脏发生病变，必须审察其病状，进一步分析其病症属虚还是属实，然后谨慎地进行调治。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-58-1847.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-58-1849.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-58.html" action-type="chapterComment" class="comment"><i></i>黄帝内经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

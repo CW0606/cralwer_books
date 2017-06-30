@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《吴越春秋》正文_吴太伯传第一_赵晔作品 - 维普阅读网</title>
+<meta name="keywords" content="吴越春秋,吴越春秋原文,吴越春秋阅读,吴太伯传第一全文,赵晔作品" />
+<meta name="description" content="吴越春秋原文阅读,吴太伯传第一全文在线阅读,赵晔作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-259.html";
+var nextpage="novel-read-259-4247.html";
+var indexpage = "novel-chapter-259.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-259.html">吴越春秋</a></strong>
+<strong><a href="novel-chapter-259.html">吴越春秋目录</a></strong>
+<span>吴太伯传第一</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-259.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>吴太伯传第一</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=赵晔&amp;searchsubmit=yes"  target="_blank">赵晔</a><span class="divide">|</span>发布时间：2014-08-27 21:11:41<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>吴之前君太伯者，后稷之苗裔也。后稷其母台氏之女姜嫄，为帝喾元妃。年少未孕，出游于野，见大人迹而观之，中心欢然，喜其形像，因履而践之。身动，意若为人所感。后妊娠。恐被淫泆之祸，遂祭祀以求，谓无子履上帝之迹，天犹令有之。姜嫄怪而弃于厄狭之巷，牛马过者折易而避之。复弃于林中，适会伐木之人多。复置于泽中冰上，众鸟以羽覆之。后稷遂得不死。姜嫄以为神，收而养之，长因名弃。为儿时，好种树禾、黍、桑、麻五榖、相五土之宜，青、赤、黄、黑，陵、水、高、下，粢、稷、黍、禾、蕖、麦、豆、稻，各得其理。尧遭洪水，人民泛滥，遂高而居。尧聘弃使教民山居，随地造区，研营种之术。三年余，行人无饥乏之色。乃拜弃为农师，封之台，号为后稷，姓姬氏。后稷就国为诸侯。卒，子不窋立。遭夏氏世衰，失官奔戎狄之间。<br/><br/>　　其孙公刘，公刘慈仁，行不履生草，运车以避葭苇。公刘避夏桀于戎狄，变易风俗，民化其政。公刘卒，子庆节立。<br/><br/>　　其后八世而得古公亶甫。修公刘后稷之业，积德行义，为狄人所慕。薰鬻戎姤而伐之，古公事之以犬马牛羊，其伐不止；事以皮币、金玉重宝，而亦伐之不止。古公问何所欲？曰：欲其土地。古公曰："君子不以养害害所养。国所以亡也而为身害，吾所不居也。"古公乃杖策去邠，逾梁山而处岐周曰："彼君与我何异？"邠人父子兄弟相帅，负老携幼，揭釜甑而归古公。居三月成城郭，一年成邑，二年成都，而民五倍其初。<br/><br/>　　古公三子，长曰太伯，次曰仲雍，雍一名吴仲，少曰季历。季历娶妻太任氏，生子昌。昌有圣瑞。古公知昌圣，欲传国以及昌，曰："兴王业者，其在昌乎？"因更名曰季历。太伯、仲雍望风知指，曰："历者，适也。"知古公欲以国及昌。古公病，二人托名采药于衡山，遂之荆蛮。断发文身，为夷狄之服，示不可用。<br/><br/>　　古公卒，太伯、仲雍归，赴丧毕，还荆蛮。国民君而事之，自号为勾吴。吴人或问何像而为勾吴，太伯曰："吾以伯长居国，绝嗣者也，其当有封者，吴仲也。故自号勾吴，非其方乎？"荆蛮义之，从而归之者千有余家，共立以为勾吴。数年之间，民人殷富。遭殷之末世衰，中国侯王数用兵，恐及于荆蛮，故太伯起城，周三里二百步，外郭三百余里。在西北隅，名曰故吴，人民皆耕田其中。<br/><br/>　　古公病将卒，令季历让国于太伯，而三让不受，故云太伯三以天下让。于是季历莅政，修先王之业，守仁义之道。季历卒，子昌立，号曰西伯。遵公刘、古公之术业于养老，天下归之。西伯致太平，伯夷自海滨而往。西伯卒，太子发立，任周召而伐殷，天下已安，乃称王。追谥古公为大王，追封太伯于吴。<br/><br/>　　太伯祖卒葬于梅里平墟。仲雍立，是为吴仲雍。仲雍卒，子季简、简子叔达、达子周章、章子熊、熊子遂、遂子柯相、相子强鸠夷、夷子余乔疑吾、吾子柯庐、庐子周繇、繇子屈羽、羽子夷吾、吾子禽处，处子专、专子颇高、高子句毕立。是时，晋献公灭周北虞虞公，以开晋之伐虢氏。毕子去齐、齐子寿梦立，而吴益强，称王。凡从太伯至寿梦之世，与中国时通朝会，而国斯霸焉。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-259.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-259-4247.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-259.html" action-type="chapterComment" class="comment"><i></i>吴越春秋章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

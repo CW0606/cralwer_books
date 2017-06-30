@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《黄帝内经》正文_第十七篇 脉度_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="黄帝内经,黄帝内经原文,黄帝内经阅读,第十七篇 脉度全文,佚名作品" />
+<meta name="description" content="黄帝内经原文阅读,第十七篇 脉度全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-58-1856.html";
+var nextpage="novel-read-58-1858.html";
+var indexpage = "novel-chapter-58.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-58.html">黄帝内经</a></strong>
+<strong><a href="novel-chapter-58.html">黄帝内经目录</a></strong>
+<span>第十七篇 脉度</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-58-1856.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第十七篇 脉度</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-07-29 22:18:42<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【题解】脉度是指脉的长度，文中说明了二十八脉的长度和测量的方法，以及二十八脉对应的生理、病理情况和治疗方法，故篇名&quot;脉度&quot;。<br/>　　【原文】黄帝日愿闻脉度。岐伯答日手之六阳，从手至头，长五尺，五六三丈。手之六阴，从手至胸中，三尺五寸，三六一丈八尺，五六三尺，合二丈一尺。足之六阳，从足上至头，八尺，六八四丈八尺。足之六阴，从足至胸中，六尺五寸，六六三丈六尺，五六三尺合三丈九尺。跻脉从足至目，七尺五寸，二七一丈四尺，二五一尺，合一丈五尺。督脉、任脉，各四尺五寸，二四八尺，二五一尺，合九尺。凡都合一十六丈二尺，此气之大经隧也。经脉为里，支而横者为络，络之别者为孙，盛而血者疾诛之[1]，盛者写之，虚者饮药以补之。<br/>　　【提要】本篇主要叙述了人体周身经脉的总长度。<br/>　　【注释】[1]疾诛之疾，快、迅速；诛，消灭、去除。疾诛之，是指用放血等方法祛除邪气。<br/>　　【白话解】黄帝说我想知道人体经脉的长度。岐伯回答说手的六条阳经，从手至头，每条经脉长为五尺，六条经一共是三丈长。手的六条阴经，从手至胸中，每条是三尺五寸长，三六一丈八尺，五六三尺，六条一共是二丈一尺长。足的六条阳经，从足向上至头是八尺，六条经共为四丈八尺长。足的六条阴经，从足至胸中，每条六尺五寸长，六六三丈六尺，五六三尺，六条共三丈九尺长。跷脉每一条从足至目的长度为七尺五寸，左右两条，二七一丈四尺，二五一尺，共为一丈五尺长。督脉、任脉各为四尺五寸，二四八尺，二五一尺，两条合为九尺。所有这些经脉合起来一共是一十六丈二尺长，这就是人体营气通行的主要通路。经脉的循行为里，其间分支出来并在经脉之间横行联络的叫做络脉，别出络脉的细小脉络叫做孙络。孙络中气盛而且血多的，应该立即用放血等方法快速地除去邪气，邪气盛的用泻的方法治疗，虚的服用药物来调补。<br/>　　【按语】这一段落是讲人身脉络的总长度，并强调这是营气通行的大经隧。对于前一篇有关营气的内容进行了补充。这其中的计算，是以从手至头、从手至胸中、从足上至头、从足至胸中的距离进行计算的，而不牵扯到我们现在所认识的经脉的循性蹈线的长短差异，主要目的是了解营气通行路线的总长度。<br/>　　另外，其中提到跷脉是两条，本篇末有叙述&quot;跷脉有阴阳，何脉当其数?岐伯答日男子数其阳，女子数其阴。&quot;则知男子之所数者，左右阳跷，女子之所数者，左右阴跷也。也勃是说，男为阳、女为阴，男子计算的是阳跷的长度，女子计算的为阴跷的长度。<br/>　　【原文】五脏常内阅[1]于上七窍也。故肺气通于鼻，肮和[2]则鼻能知臭香矣；心气通于舌，心和则舌能知五味矣；胛气通于目，肝和则目能辨五色矣；脾气通于口，脾和则口能翘五谷[3]矣；肾气通于耳，肾和则耳能闻五音矣。五脏不和一窍不通，六腑不合则留为痈。故邪在腑则阳脉不和，阳脉不昶则气留之，气留之则阳气盛矣。阳气太盛则阴不利，阴脉不昶则血留之，血留之则阴气盛矣。阴气太盛则阳气不能荣也，茁日关。阳气太盛，则阴气弗能荣[4]也，故日格。阴阳俱盛，不得相荣，故日关格。关格者，不得尽期而死也。<br/>　　【提要】本段主要阐述了五脏的精气盛衰与七窍的关系．以及五脏六腑的病变导致的不同症状表现。<br/>　　【注释】[1]阅检察、查检之意。在文中指反映、察觉到。<br/>　　[2]和这里指通和、和利。也就是指脏器的功能正常。<br/>　　[3]五谷五谷为麦、黍、稷、稻、豆五谷，这里泛指名种食品。<br/>　　[4]荣这里有繁荣、施展的意思。<br/>　　【白话解】五脏精气的盛衰常常可以从人体头面七窍反哕出来。肺气通鼻窍，肺的功能正常，鼻子才能闻到各种气味心气通舌窍，心的功能正常，舌才能辨别出各种滋味；肝气亘眼窍，肝的功能正常，眼睛才能辨别各种颜色；脾气通于口脾的功能正常，口中才能辨别食物的各种味道；肾气通耳窍，肾的功能正常，双耳才能听见各种声音。五脏的功能失于调和，与其对应的七窍就不能正常地发挥功能；六腑的功能失于调顺，那邪气就会滞留结聚而生成痈。因此，若是邪气留在六腑之中，那么属阳的经脉就不能和顺通利，阳脉不和顺，阳气就会发生停歇、留滞，阳气留滞，就会相对的偏盛。阳气太盛就会导致阴脉不通利，阴脉不通利，会导致血流停滞，血流停滞则阴气过盛。如阴气过盛，就会影响阳气不能营运入内，这就叫做关。如阳气太盛，就会影响阴气不能外出与阳气相交，这就叫格。阴阳二气皆过盛，不能阴阳调和、互相荣养，就叫做关格。关格是阴阳离决、不相交通的表现，出现关格，预示着病人不能尽其天年而早亡。<br/>　　【原文】黄帝日趼脉安起安止，何气荣水?岐伯答日趼脉者，少阴之别，起于然骨之后。上内踝之上，直上循阴股，入阴，上循胸里，入缺盆，上出人迎之前，入顺，属目内眦，合于太阳、阳趼而上行，气并相还，则为濡目，气不荣，则目不合。<br/>　　黄帝日气独行五脏，不荣六腑，何也?岐伯答日气之不得无行也，如水之流，如日月之行不休，故阴脉荣其脏，阳脉荣其腑，如环之无端，莫知其纪，终而复始。其流溢之气，内溉脏腑，外濡腠理。<br/>　　黄帝日趼脉有阴阳，何脉当其数[1]?岐伯日男子数其阳，女子数其阴，当数者为经，其不当数者为络也。<br/>　　【提要】本段详细地叙述了人体阴阳跷脉的起止、来源、循行路线和主要功能。<br/>　　【注释】[1]当其数数，指计算。当其数，阴阳跷脉在人体经脉总长度的计算中，只计算一条经脉的长度。<br/>　　【白话解】黄帝说跷脉起于何处?止于何处?是哪一条经的经气像水一样的滋润、濡养而形成这一条经脉的呢?岐伯回答说跷脉是足少阴经脉的支别，起于然骨之后的照海穴，向上经过足内踝的上方，直行向上沿大腿内侧进入前阴，再向上到达胸部进入缺盆，继续上行出于人迎的前面，进入颧骨连属内侧的眼角，合于太阳、阳跷脉而继续上行，阴阳跷脉二气相合，可以滋润目睛，若是脉气不能荣养眼睛，就会出现目张不合的现象。黄帝说阴跷之脉气只是行于五脏之间，而不能荣养六腑，是什么原因呢?岐伯回答说脏气的运行是不停息的，就像水的流动，日月的运行，永无休止。因此，阴脉荣养其对应脏的精气，阳脉荣养其对应腑的精气，也是这样如环无端的运行，没有起点，也无法计算它的转流次数。跷脉之气不停的流动运行着，行在内则营养五脏六腑，溢在外则濡养肌肉皮肤。黄帝说跷脉有阴阳之分，那么用哪一条来计算它的长度呢?岐伯回答说男子计算其阳跷脉的长度，而阴跷为络；女子计算其阴跷脉的长度，而阳跷为络。一般计算的跷脉的长度为经脉，络脉的长度不在计算之内。<br/>　　【按语】本文对于阴阳跷脉的循行路线和主要作用进行了较为详细地论述，在中医临床治疗当中，不仅仅十二正经的循行和穴位是常用的针灸按摩选穴依据，奇经八脉的重要作用也是不能忽视的，一些常见的特殊疾病的治疗都要依据这些经脉进行选穴和选方。像妇科病与带脉、冲脉和任脉有着密切关系；男科疾病或者部分虚寒的证候与督脉有着特殊关系等。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-58-1856.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-58-1858.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-58.html" action-type="chapterComment" class="comment"><i></i>黄帝内经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

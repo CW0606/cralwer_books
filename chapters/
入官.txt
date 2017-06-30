@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孔子家语》正文_入官_王肃作品 - 维普阅读网</title>
+<meta name="keywords" content="孔子家语,孔子家语原文,孔子家语阅读,入官全文,王肃作品" />
+<meta name="description" content="孔子家语原文阅读,入官全文在线阅读,王肃作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-349-5186.html";
+var nextpage="novel-read-349-5188.html";
+var indexpage = "novel-chapter-349.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-349.html">孔子家语</a></strong>
+<strong><a href="novel-chapter-349.html">孔子家语目录</a></strong>
+<span>入官</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-349-5186.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>入官</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王肃&amp;searchsubmit=yes"  target="_blank">王肃</a><span class="divide">|</span>发布时间：2014-09-05 21:44:03<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>子张问入官于孔子。入官谓当官治民之职也孔子曰：“安身取誉为难。”子张曰：“为之如何？”孔子曰：“己有善勿专，虽有善当与下共之勿专以为己有者也教不能勿怠，怠懈已过勿发，言人已过误无所伤害勿发扬失言勿掎，有人失言勿掎角之不善勿遂，已有不善不可遂行行事勿留，宜行之事勿令留滞君子入官，有此六者，则身安誉至而政从矣。众从其政无违教也且夫忿数者，官狱所由生也；距谏者，虑之所以塞也；慢易者，礼之所以失也；怠惰者，时之所以后也；奢侈者，财之所以不足也；专独者，事之所以不成也。君子入官，除此六者，则身安誉至而政从矣。故君子南面临官，大域之中而公治之，大域犹辜较也精智而略行之，以精知之略行举其要而行之合是忠信，考是大伦，存是美恶，进是利而除是害，无求其报焉，而民之情可得也。夫临之无抗民之恶，治民无抗扬之志也胜之无犯民之言，以慎胜民言不犯民量之无佼民之辞，佼犹周也度量而施政辞不周民也养之无扰于其时，爱之无宽于刑法，言虽爱民不可宽于刑法威克其爱故事无不成也若此，则身安誉至而民得也。君子以临官所见则迩，故明不可蔽也，所见迩谓察于微也所求于迩，故不劳而得也，所求者近故不劳而得也所以治者约，故不用众而誉立，凡法象在内，故法不远而源泉不竭。法象近在于内故不远而源泉不竭尽是以天下积而本不寡，言天下之事皆积聚而成如源泉之本非徒不竭乃不寡短长得其量，人志治而不乱，政德贯乎心，藏乎志，形乎色，发乎声，若此而身安誉至民咸自治矣。是故临官不治则乱，乱生则争之者至，争之至又于乱，小乱则争争之甚者又大乱至矣也明君必宽裕以容其民，慈爱优柔之，而民自得矣。行者，政之始也，行为政始言民从行不从言也说者，情之导也，言说者但导达其情善政行易而民不怨，言善政行简易而民无怨者也言调说和则民不变，调适也言适于事说和于民则不变法在身则民象，言法度常在身则民法之明在己则民显之。若乃供己而不节，则财利之生者微矣，言自供不节于财财不可供生财之道微矣贪以不得，则善政必简矣，言徒贪于不得财善政则简略而不修也苟以乱之，则善言必不听也。详以纳之，则规谏日至，纳善言也言之善者，在所日闻，日闻善言可行于今日也行之善者，在所能为。故君上者，民之仪也，有司执政者，民之表也，迩臣便僻者，群仆之伦也。僻宜为辟便辟执事在君之左右者伦纪也为众之纪故仪不正则民失，表不端则百姓乱，迩臣便僻，则群臣污矣。是以人主不可不敬乎三伦，君子修身反道，察里言而服之，服行则身安誉至，终始在焉。故夫女子必自择丝麻，良工必自择貌材，贤君必自择左右，劳于取人，佚于治事，君子欲誉，则必谨其左右。为上者譬如缘木焉，务高而畏下滋甚，六马之乖离，必于四达之交衢，万民之叛道，必于君上之失政。上者尊严而危，民者卑贱而神，君有爱思之心感于民故谓如神爱之则存，恶之则亡，长民者必明此之要。故南面临官，贵而不骄，富而能供，供宜为共古恭字也有本而能图末，修事而能建业，既能修治旧事又人君能建乎功业也久居而不滞，情近而畅乎远，察一物而贯乎多，治一物而万物不能乱者，以身本者也。君子莅民，不可以不知民之性，而达诸民之情，既知其性，又习其情，然后民乃从命矣。故世举则民亲之，政均则民无怨，故君子莅民，不临以高，不亢扬也不导以远，不责民之所不为，不强民之所不能。以明王之功，不因其情，则民严而不迎，迎奉也民严畏其上而不奉迎其教笃之以累年之业，不因其力，则民引而不从，引●也教之以非其力之所堪则民引●而不从其教也矣若责民所不为，强民所不能，则民疾，疾则僻矣。民疾其上即邪僻之心生古者圣主冕而前旒，所以蔽明也，纮紞充耳，所以掩聪也，水至清则无鱼，人至察则无徒，枉而直之，使自得之，优而柔之，使自求之，优宽也柔和也使自求其宜也揆而度之，使自索之，揆度其法以开示之使自索得之也民有小罪，必求其善，以赦其过，民有大罪，必原其故，以仁辅化，如有死罪，其使之生，则善也。是以上下亲而不离，道化流而不蕴，蕴滞积也故德者政之始也，政不和则民不从其教矣，不从教，则民不习，不习则不可得而使也。君子欲言之见信也，莫善乎先虚其内，虚其内谓直道而行无情故也欲政之速行也，莫善乎以身先之，欲民之速服也，莫善乎以道御之。故虽服必强，言民虽服必以威强之非心服也哉自非忠信，则无可以取亲于百姓者矣，内外不相应，则无已取信于庶民者矣。此治民之至道矣，入官之大统矣。”子张既闻孔子斯言，遂退而记之。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-349-5186.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-349-5188.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-349.html" action-type="chapterComment" class="comment"><i></i>孔子家语章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《古籍序跋集》正文_虞预《晋书》序_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="古籍序跋集,古籍序跋集原文,古籍序跋集阅读,虞预《晋书》序全文,鲁迅作品" />
+<meta name="description" content="古籍序跋集原文阅读,虞预《晋书》序全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-554-7632.html";
+var nextpage="novel-read-554-7634.html";
+var indexpage = "novel-chapter-554.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-554.html">古籍序跋集</a></strong>
+<strong><a href="novel-chapter-554.html">古籍序跋集目录</a></strong>
+<span>虞预《晋书》序</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-554-7632.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>虞预《晋书》序</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-06 21:25:01<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>《隋志》：《晋书》二十六卷，本四十四卷，讫明帝（2），今残缺，晋散骑常侍虞预撰。《唐志》：五十八卷。《晋书》《虞预传》：著《晋书》四十余卷。与《隋志》合，《唐志》溢出十余卷，疑有误。本传又云：预字叔宁；征士喜（3）之弟也。本名茂，犯明穆皇后讳（4），改。初为县功曹，见斥。太守庾琛（6）： <br/>　　命为主簿。纪瞻（6），复为主簿，转功曹史。察孝廉，不行。 <br/>　　安东从事中郎诸葛恢（7），参军庾亮（8）等荐预，召为丞相行参军兼记室。遭母忧，服竟，除佐著作郎。大兴中，转琅邪国（9）常侍，迁秘书丞，著作郎。咸和中，从平王含（10），赐爵西乡侯。 <br/>　　假归，太守王舒（11）请为谘议参军。苏峻（12）平，进封平康县侯，迁散骑侍郎，著作如故。除散骑常侍，仍领著作。以年老归，卒于家。 <br/><br/>==========================================================================<br/><br/>　　 　本篇据手稿编入，原无标点。当写于一九一三年三月。 <br/>　　虞预，晋代余姚（今属浙江）人。所著《晋书》四十四卷，已佚； <br/>　　又著有《会稽典录》二十篇，《诸虞传》十二篇，并佚。鲁迅所辑虞氏《晋书》一卷，未印行。 <br/>　　（2）　明帝　东晋明帝司马绍（299—325），三二二年至三二五年在位。 <br/>　　（3）　征士喜　指虞喜（281—356），字仲宁，晋代学者。朝廷三次征拜博士等官，俱不就。著有《安天论》、《志林新书》等。 <br/>　　（4）　明穆皇后　指晋明帝后庾文君。按文中说虞预本名犯明穆皇后讳，《晋书·虞预传》作“犯明穆皇后母讳”。 <br/>　　（5）　庾琛　字子美，颍川鄢陵（今属河南）人，明穆皇后父。西晋末年任会稽太守，官至丞相军谘祭酒。 <br/>　　（6）　纪瞻（253—324）　字思远，丹阳秣陵（今江苏南京）人。 <br/>　　西晋末年任会稽内史，官至骠骑将军。 <br/>　　（7）　诸葛恢（265—326）　字道明，琅玡阳都（今山东沂南）人。 <br/>　　曾任安东将军司马睿（即后来的晋元帝）属下的从事中郎，后官至尚书右仆射。 <br/>　　（8）　庾亮于西晋愍帝建兴（313—316）年间任丞相司马睿的参军。 <br/>　　（9）　琅邪国　琅邪亦作琅琊。西晋时，琅邪王封地在今山东临沂地区；东晋时，侨置于今江苏句容地区。太兴二年（319）虞预任琅邪国常侍，当时琅邪王为元帝子司马裒。 <br/>　　（10）　王含　字处弘，临沂（今属山东）人，东晋大将军王敦之兄。官至骠骑大将军，随王敦叛乱，失败被沉水死。按明帝太宁二年（324）平王含，在成帝咸和（326—334）前。 <br/>　　（11）　王舒　字处明，临沂人。东晋太宁末、咸和初任抚军将军、会稽内史。因平苏峻有功，进封彭泽县侯。 <br/>　　（12）　苏峻　字子高，掖（今山东掖县）人。东晋元帝时官至冠军将军。咸和二年（327）起兵叛乱，次年兵败被杀。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-554-7632.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-554-7634.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-554.html" action-type="chapterComment" class="comment"><i></i>古籍序跋集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

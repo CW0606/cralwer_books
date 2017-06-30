@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《文序跋集》正文_《山民牧唱》 _鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="文序跋集,文序跋集原文,文序跋集阅读,《山民牧唱》 全文,鲁迅作品" />
+<meta name="description" content="文序跋集原文阅读,《山民牧唱》 全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-619-7793.html";
+var nextpage="novel-read-619-7795.html";
+var indexpage = "novel-chapter-619.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-619.html">文序跋集</a></strong>
+<strong><a href="novel-chapter-619.html">文序跋集目录</a></strong>
+<span>《山民牧唱》 </span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-619-7793.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>《山民牧唱》 </strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-13 21:46:01<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>《山民牧唱·序文》译者附记（2）<br/><br/>　　《山民牧唱序》从日本笠井镇夫（3）的译文重译，原是载在这部书的卷首的，可以说，不过是一篇极轻松的小品。<br/>　　作者巴罗哈（Pio　Baroja　Y　Nessi）以一八七二年十二月二十八日生于西班牙的圣绥巴斯锵市，从马德里大学得到Doctor（4）的称号，而在文学上，则与伊本纳兹（5）齐名。<br/>　　但以本领而言，恐怕他还在伊本纳兹之上，即如写山地居民跋司珂族（Vasco）（6）的性质，诙谐而阴郁，虽在译文上，也还可以看出作者的非凡的手段来。这序文固然是一点小品，然而在发笑之中，不是也含着深沉的忧郁么？<br/><br/>==========================================================================<br/><br/>　　 　《山民牧唱》　短篇集，巴罗哈作。收作品连《序文》共七篇，其中除《放浪者伊利沙辟台》最初印入《近代世界短篇小说集》之二《在沙漠上》（一九二九年九月上海朝花社出版）外，其它各篇译出后都曾分别在《奔流》、《译文》、《文学》、《新小说》等月刊发表。鲁迅的译文系从日译本转译（其中《钟的显灵》一篇未译）。<br/>　　巴罗哈（1872—1956），西班牙作家。一生写有小说一百余部和论文集十余本。他的作品反映了巴斯克族人民的生活，但有无政府主义、虚无主义的倾向。主要作品有描写二十世纪初西班牙下层人民生活的长篇小说《为生活而奋斗》，以及反映西班牙渔民的贫困和不幸的长篇小说《香蒂·安地亚的不安》等。<br/>　　（2）　本篇最初连同《〈山民牧唱〉序》的译文，发表于一九三四年十月《译文》月刊第一卷第二期，署张禄如译。一九三八年《山民牧唱》编入《鲁迅全集》第十八卷时，本篇未收。<br/>　　（3）　笠井镇夫　日本的西班牙文学研究者，曾留学西班牙，著有《西班牙语入门》等。<br/>　　（4）　Doctor　西班牙语：博士；医生。<br/>　　（5）　伊本纳兹（V．Blasco－lbánJez，1867—1928）　通译伊巴涅思，西班牙作家、共和党领导人。因参加反对王权的政治活动，曾两次被捕，后流亡国外。主要作品有小说《农舍》、《启示录的四骑士》等。<br/>　　（6）　跋司珂族　通译巴斯克族，最初散居于西班牙与法国毗连的比利牛斯山脉两侧。公元九世纪到十六世纪曾建立王国，十六世纪时沦为法国属地，二十世纪二十年代归属西班牙。<br/><br/><br/>《放浪者伊利沙辟台》和《跋司珂族的人们》译者附记<br/><br/>　　巴罗哈（Pio　Baroja　y　Nessi）以一八七二年十二月二十八日生于西班牙之圣舍跋斯丁市，和法兰西国境相近。先学医于巴连西亚大学，更在马德里大学得医士称号。后到跋司珂的舍斯德那市，行医两年，又和他的哥哥理嘉图（Ricardo）到马德里，开了六年面包店。<br/>　　他在思想上，自云是无政府主义者，翘望着力学底行动（Dynamic　action）。在文艺上，是和伊巴臬兹（Vincent　Ibanez）齐名的现代西班牙文坛的健将，是具有哲人底风格的最为独创底的作家。作品已有四十种，大半是小说，且多长篇，又多是涉及社会问题和思想问题这些大题目的。巨制有《过去》，《都市》和《海》这三部曲；又有连续发表的《一个活跃家的记录》（2），迄今已经印行到第十三编。有杰作之名者，大概属于这一类。但许多短篇里，也尽多风格特异的佳篇。<br/>　　跋司珂（Vasco）族是古来就住在西班牙和法兰西之间的比莱纳（Pyrenees）山脉（5）两侧的大家视为“世界之谜”的人种，巴罗哈就禀有这民族的血液的。选在这里的，也都是描写跋司珂族的性质和生活的文章，从日本的《海外文学新选》第十三编《跋司珂牧歌调》中译出。前一篇（Elizabideel　Vaga－bundo）是笠井镇夫原译；后一篇是永田宽定（4）译的，原是短篇集《阴郁的生活》（5）（Vidas　Sombrias）中的几篇，因为所写的全是跋司珂族的性情，所以就袭用日译本的题目，不再改换了。<br/><br/>==========================================================================<br/><br/>　　 　本篇连同《放浪者伊利沙辟台》及《跋司珂族的人们》两篇译文，最初印入《在沙漠上》一书。一九三八年《山民牧唱》编入《鲁迅全集》时，本篇未收。<br/>　　（2）　《一个活跃家的记录》　巴罗哈的包括二十二部历史小说的总题名。<br/>　　（3）　比莱纳山脉　通译比利牛斯山脈。<br/>　　（4）　永田宽定（1885—1973）　日本的西班牙文学研究者，曾任东京外国语大学教授。著有《西班牙文学史》并译有《堂·吉诃德》等。<br/>　　（5）　《阴郁的生活》　巴罗哈的短篇小说集，出版于一九○○年。<br/><br/><br/>《会友》译者附记<br/><br/>　　《会友》就是上期登过序文的笠井镇夫译本《山民牧唱》中的一篇，用诙谐之笔，写一点不登大雅之堂的山村里的名人故事，和我先曾绍介在《文学》（2）翻译专号上的《山中笛韵》（3），情景的阴郁和玩皮，真有天渊之隔。但这一篇里明说了两回：这跋司珂人的地方是法国属地。属地的人民，大概是阴郁的，否则嘻嘻哈哈，像这里所写的“培拉的学人哲士们”一样。同是一处的居民，外观上往往会有两种相反的性情。但这相反又恰如一张纸的两面，其实是一体的。<br/>　　作者是医生，医生大抵是短命鬼，何况所写的又是受强国迫压的山民，虽然嘻嘻哈哈，骨子里当然不会有什么乐趣。<br/>　　但我要绍介的就并不是文学的乐趣，却是作者的技艺。在这么一个短篇中，主角迭土尔辟台不必说，便是他的太太拉·康迪多，马车夫马匿修，不是也都十分生动，给了我们一个明确的印象么？假使不能，那是译者的罪过了。<br/><br/>==========================================================================<br/><br/>　　 　本篇连同《会友》的译文，最初发表于一九三四年十一月《译文》月刊第一卷第三期，署张禄如译。一九三八年《山民牧唱》编入《鲁迅全集》时，本篇未收。<br/>　　（2）　《文学》　月刊，一九三三年七月在上海创刊，文学社编辑。自第二卷起，先后由郑振铎、傅东华、王统照主编，至一九三七年十一月停刊。翻译专号，指第二卷第三号（一九三四年三月）。<br/>　　（3）　《山中笛韵》　《山民牧唱》发表时的题名，载《文学》月刊第二卷第三号“翻译专号”，署张禄如译。<br/><br/><br/>《少年别》译者附记<br/><br/>　　《少年别》的作者P．巴罗哈，在读者已经不是一个陌生人，这里无须再来绍介了。这作品，也是日本笠井镇夫选译的《山民牧唱》中的一篇，是用戏剧似的形式来写的新样式的小说，作者常常应用的；但也曾在舞台上实演过。因为这一种形式的小说，中国还不多见，所以就译了出来，算是献给读者的一种参考品。<br/>　　Adios　a　La　Bohemia是它的原名，要译得诚实，恐怕应该是《波希米亚者流（2）的离别》的。但这已经是重译了，就是文字，也不知道究竟和原作有怎么天差地远，因此索性采用了日译本的改题，谓之《少年别》，也很像中国的诗题。<br/>　　地点是西班牙的京城玛德里（Madrid），事情很简单，不过写着先前满是幻想，后来终于幻灭的文艺青年们的结局；而新的却又在发生起来，大家在咖啡馆里发着和他们的前辈先生相仿的议论，那么，将来也就可想而知了。译者寡闻，先前是只听说巴黎有这样的一群文艺家的，待到看过这一篇，才知道西班牙原来也有，而且言动也和巴黎的差不多。<br/><br/>==========================================================================<br/><br/>　　 　本篇连同《少年别》的译文，最初发表于一九三五年二月《译文》月刊第一卷第六期，署张禄如译。一九三八年《山民牧唱》编入《鲁迅全集》时，本篇未收。<br/>　　（2）　波希米亚者流　波希米亚，原是日耳曼语对捷克地区的称呼。这里的波希米亚者流，指流浪者、放浪者。<br/><br/><br/>《促狭鬼莱哥羌台奇》译者附记<br/><br/>　　北阿·巴罗哈（Pio　Baroja　y　Nessi）以一八七二年十二月生于西班牙之圣舍跋斯丁市，和法国境相近。他是医生，但也是作家，与伊本涅支（Vincent　Ibanez）齐名。作品已有四十种，大半是小说，且多长篇，称为杰作者，大抵属于这一类。他那连续发表的《一个活动家的记录》，早就印行到第十三编。<br/>　　这里的一篇是从日本笠井镇夫选译的短篇集《跋司珂牧歌调》里重译出来的。跋司珂（Vasco）者，是古来就位在西班牙和法兰西之间的比莱纳（Pyrenees）山脉两侧的大家看作“世界之谜”的民族，如作者所说，那性质是“正经，沉默，不愿说诳”，然而一面也爱说废话，傲慢，装阔，讨厌，善于空想和做梦；巴罗哈自己就禀有这民族的血液的。<br/>　　莱哥羌台奇正是后一种性质的代表。看完了这一篇，好像不过是巧妙的滑稽。但一想到在法国治下的荒僻的市镇里，这样的脚色就是名人，这样的事情就是生活，便可以立刻感到作者的悲凉的心绪。还记得中日战争（2）（一八九四年）时，我在乡间也常见游手好闲的名人，每晚从茶店里回来，对着女人孩子们大讲些什么刘大将军（刘永福（3）摆“夜壶阵”的怪话，大家都听得眉飞色舞，真该和跋司珂的人们同声一叹。但我们的讲演者虽然也许添些枝叶，却好像并非自己随口乱谈，他不过将茶店里面贩来的新闻，演义了一下，这是还胜于莱哥先生的促狭（4）的。<br/>　　一九三四年十二月三十夜，译完并记。<br/><br/>==========================================================================<br/><br/>　　 　本篇连同《促狭鬼莱哥羌台奇》的译文，最初发表于一九三五年四月《新小说》月刊第一卷第三期，一九三八年《山民牧唱》编入《鲁迅全集》时，本篇未收。<br/>　　（2）　中日战争　指“甲午战争”。即一八九四年（甲午）发生的日本帝国主义为夺占朝鲜和侵略中国的战争。<br/>　　（3）　刘永福（1837—1917）　广西上思人，清末将领。甲午之战时据守台湾，抗击日本。清末署名藜床旧主所撰《刘大将军平倭百战百胜图说》一书中，有《用夜壶阵舰烬灰飞》图目。<br/>　　（4）　促狭　刻薄，爱捉弄人。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-619-7793.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-619-7795.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-619.html" action-type="chapterComment" class="comment"><i></i>文序跋集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

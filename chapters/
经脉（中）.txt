@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《针灸甲乙经》正文_经脉（中）_皇甫谧作品 - 维普阅读网</title>
+<meta name="keywords" content="针灸甲乙经,针灸甲乙经原文,针灸甲乙经阅读,经脉（中）全文,皇甫谧作品" />
+<meta name="description" content="针灸甲乙经原文阅读,经脉（中）全文在线阅读,皇甫谧作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-518-6319.html";
+var nextpage="novel-read-518-6321.html";
+var indexpage = "novel-chapter-518.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-518.html">针灸甲乙经</a></strong>
+<strong><a href="novel-chapter-518.html">针灸甲乙经目录</a></strong>
+<span>经脉（中）</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-518-6319.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>经脉（中）</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=皇甫谧&amp;searchsubmit=yes"  target="_blank">皇甫谧</a><span class="divide">|</span>发布时间：2014-09-23 21:20:16<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>春得秋脉，夏得冬脉，长夏得春脉，秋得夏脉，冬得长夏脉，名曰阴出之阳，病善怒不治，是谓五邪，皆同，死不治。<br/><br/>　　春胃微弦曰平，弦多胃少曰肝病，但弦无胃曰死，胃而有毛曰秋病，毛甚曰今病，脏真散于肝，肝藏筋膜之气也。<br/><br/>　　夏胃微钩曰平，钩多胃少曰心病，但钩无胃曰死，胃而有石曰冬病，石甚曰今病，脏真通于心，心藏血脉之气也。<br/><br/>　　长夏，胃微软弱曰平，胃少软弱多曰脾病，但代无胃曰死，软弱有石曰冬病，软（《素》作弱）甚曰今病，脏真濡于脾，脾藏肌肉之气也。<br/><br/>　　秋胃微毛曰平，毛多胃少曰肺病，但毛无胃曰死，毛而有弦曰春病，弦甚曰今病，脏真高于肺，肺行营卫阴阳也。<br/><br/>　　冬胃微石曰平，胃少石多曰肾病，但石无胃曰死，石而有钩曰夏病，钩甚曰今病，脏真下于肾，肾藏骨髓之气也。<br/><br/>　　胃之大络，名曰虚里，贯膈络肺，出于左乳下，其动应手，脉之宗气也。盛喘数绝者。则病在中，结而横有积矣，绝不至曰死。诊得胃脉则能食，虚则泄也。<br/><br/>　　心脉揣（《素问》作搏）坚而长，病舌卷不能言。其软而散者，病消渴（《素》作烦）自已。<br/><br/>　　肺脉揣（《素》作搏，下同）坚而长，病唾血。其软而散者，病灌汗，至令不复散发。<br/><br/>　　肝脉揣坚而长，色不青，病坠若搏，因血在胁下，令人喘逆。其软而散，色泽者，病溢饮。溢饮者，渴渴多饮，而溢入肌皮肠胃之外也。<br/><br/>　　胃脉揣坚而长，其色赤，病折髀。其软而散者，病食痹痛髀。<br/><br/>　　脾脉揣坚而长，其色黄，病少气。其软而散，色不泽者，病足胻肿，若水状。<br/><br/>　　肾脉揣坚而长，其色黄而赤者，病折腰。其软而散者，病少血，至令不复。<br/><br/>　　夫脉者，血气之府也。长则气和，短则气病，数则烦心，大则病进，上盛则气高，下盛则气胀，代则气衰，细则气少，涩则心痛，浑浑革革至如涌泉，病进而色，弊之绰绰（一本作绵绵）其去如弦绝者死。<br/><br/>　　寸口脉中手短者，曰头痛；寸口脉中手长者，曰足胫痛；寸口脉沉而坚者，病在中；寸口脉浮而盛者，病在外；寸口脉中手促上数（《素问》作击）者，曰肩背痛；寸口脉紧而横坚（《素问》作沉而横）者，曰胁下腹中有横积痛；寸口脉浮而喘（《素问》作沉而喘）者，曰寒热；寸口脉盛滑坚者，曰病在外；寸口脉小实而坚者，曰病在内。脉小弱以涩者，谓之久病；脉浮滑而实大（《素问》作滑浮而疾）者，谓之新病。病甚有胃气而和者，曰病无他；脉急者，曰疝■〈疒頽〉少腹痛。脉滑曰风，脉涩曰痹，盛而紧曰胀，缓而滑曰热中。按寸口得四时之顺曰病无他，反四时及不间脏曰死。<br/><br/>　　太阳脉至，洪大以长。少阳脉至，乍数乍疏，乍短乍长。阳明脉至，浮大而短。<br/><br/>　　厥阴有余，病阴痹，不足病生热痹，滑则病狐疝风，涩则病少腹积气（一本作积厥）。<br/><br/>　　少阴有余，病皮痹瘾疹，不足病肺痹，滑则病肺风疝，涩则病积溲血。<br/><br/>　　太阴有余，病肉痹寒中，不足病脾痹，滑则病脾风疝，涩则病积心腹时满。<br/><br/>　　阳明有余，病脉痹身时热，不足病心痹，滑则病心风疝，涩则病积时善惊。<br/><br/>　　太阳有余，病骨痹身重，不足病肾痹，滑则病肾风疝，涩则病积时善癫疾。<br/><br/>　　少阳有余，病筋痹胁痛，不足病肝痹，滑则病肝风疝，涩则病积时筋急目痛。<br/><br/>　　太阴厥逆，胻急挛，心痛引腹，治主病者。<br/><br/>　　少阴厥逆，虚满呕变，下泄清，治主病者。<br/><br/>　　厥阴厥逆，挛，腰痛，虚满前闭詀语，治主病者。<br/><br/>　　三阴俱逆，不得前后，使人手足寒，三日死。<br/><br/>　　太阳厥逆，僵仆呕血善衄，治主病者。<br/><br/>　　少阳厥逆，机关不利。机关不利者，腰不可以行，项不可以顾，发肠痈，不可治，惊者死。<br/><br/>　　阳明厥逆，喘咳身热，善惊，衄血呕血，不可治，惊者死。<br/><br/>　　手太阴厥逆，虚满而咳，善呕吐沫，治主病者。<br/><br/>　　手心主少阴厥逆，心痛引喉，身热者死，不热者可治。<br/><br/>　　手太阳厥逆，耳聋泣出，项不可以顾，腰不可以俯仰，治主病者。<br/><br/>　　手阳明少阳厥逆，发喉痹，嗌肿痛，治主病者。<br/><br/>　　来疾去徐，上实下虚，为厥癫疾；来徐去疾，上虚下实，为恶风也。故中恶风者，阳气受也。有脉俱沉细数者，少阴厥也；沉细数散者，寒热也；浮而散者，为眴（音顺）仆。诸浮而不躁者，皆在阳，则为热；其有躁者，在手。诸细而沉者，皆在阴，则为骨痛；其有静者，在足。数动一代者，病在阳之脉也。其涩者，阳气有余也；滑者，阴气有余也。阳气有余则为身热无汗，阴气有余则为多汗身寒，阴阳有余则为无汗而寒。推而外之，内而不外者，有心腹积也。推而内之，外而不内者，中有热也。推而上之，下而不上者，腰足清也。推而下之，上而不下者，头项痛也。按之至骨，脉气少者，腰脊痛而身有痹也。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-518-6319.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-518-6321.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-518.html" action-type="chapterComment" class="comment"><i></i>针灸甲乙经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《呐喊》正文_兔和猫_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="呐喊,呐喊原文,呐喊阅读,兔和猫全文,鲁迅作品" />
+<meta name="description" content="呐喊原文阅读,兔和猫全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-528-6573.html";
+var nextpage="novel-read-528-6575.html";
+var indexpage = "novel-chapter-528.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-528.html">呐喊</a></strong>
+<strong><a href="novel-chapter-528.html">呐喊目录</a></strong>
+<span>兔和猫</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-528-6573.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>兔和猫</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-23.html" target="blank">文学小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-27 19:09:34<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>住在我们后进院子里的三太太，在夏间买了一对白兔，是给伊的孩子们看的。<br/><br/>　　这一对白兔，似乎离娘并不久，虽然是异类，也可以看出他们的天真烂熳来。但也竖直了小小的通红的长耳朵，动着鼻子，眼睛里颇现些惊疑的神色，大约究竟觉得人地生疏，没有在老家时候的安心了。这种东西，倘到庙会⑵日期自己出去买，每个至多不过两吊钱，而三太太却花了一元，因为是叫小使上店买来的。<br/><br/>　　孩子们自然大得意了，嚷着围住了看；大人也都围着看；还有一匹小狗名叫S的也跑来，闯过去一嗅，打了一个喷嚏，退了几步。三太太吆喝道，“S，听着，不准你咬他！”于是在他头上打了一拳，S便退开了，从此并不咬。<br/><br/>　　这一对兔总是关在后窗后面的小院子里的时候多，听说是因为太喜欢撕壁纸，也常常啃木器脚。这小院子里有一株野桑树，桑子落地，他们最爱吃，便连喂他们的菠菜也不吃了。乌鸦喜鹊想要下来时，他们便躬着身子用后脚在地上使劲的一弹，砉的一声直跳上来，像飞起了一团雪，鸦鹊吓得赶紧走，这样的几回，再也不敢近来了。三太太说，鸦鹊到不打紧，至多也不过抢吃一点食料，可恶的是一匹大黑猫，常在矮墙上恶狠狠的看，这却要防的，幸而S和猫是对头，或者还不至于有什么罢。<br/><br/>　　孩子们时时捉他们来玩耍；他们很和气，竖起耳朵，动着鼻子，驯良的站在小手的圈子里，但一有空，却也就溜开去了。他们夜里的卧榻是一个小木箱，里面铺些稻草，就在后窗的房檐下。<br/><br/>　　这样的几个月之后，他们忽而自己掘土了，掘得非常快，前脚一抓，后脚一踢，不到半天，已经掘成一个深洞。大家都奇怪，后来仔细看时，原来一个的肚子比别一个的大得多了。他们第二天便将干草和树叶衔进洞里去，忙了大半天。<br/><br/>　　大家都高兴，说又有小兔可看了；三太太便对孩子们下了戒严令，从此不许再去捉。我的母亲也很喜欢他们家族的繁荣，还说待生下来的离了乳，也要去讨两匹来养在自己的窗外面。<br/><br/>　　他们从此便住在自造的洞府里，有时也出来吃些食，后来不见了，可不知道他们是预先运粮存在里面呢还是竟不吃。过了十多天，三太太对我说，那两匹又出来了，大约小兔是生下来又都死掉了，因为雌的一匹的奶非常多，却并不见有进去哺养孩子的形迹。伊言语之间颇气愤，然而也没有法。<br/><br/>　　有一天，太阳很温暖，也没有风，树叶都不动，我忽听得许多人在那里笑，寻声看时，却见许多人都靠着三太太的后窗看：原来有一个小兔，在院子里跳跃了。这比他的父母买来的时候还小得远，但也已经能用后脚一弹地，迸跳起来了。孩子们争着告诉我说，还看见一个小兔到洞口来探一探头，但是即刻便缩回去了，那该是他的弟弟罢。<br/><br/>　　那小的也捡些草叶吃，然而大的似乎不许他，往往夹口的抢去了，而自己并不吃。孩子们笑得响，那小的终于吃惊了，便跳着钻进洞里去；大的也跟到洞门口，用前脚推着他的孩子的脊梁，推进之后，又爬开泥土来封了洞。<br/><br/>　　从此小院子里更热闹，窗口也时时有人窥探了。<br/><br/>　　然而竟又全不见了那小的和大的。这时是连日的阴天，三太太又虑到遭了那大黑猫的毒手的事去。我说不然，那是天气冷，当然都躲着，太阳一出，一定出来的。<br/><br/>　　太阳出来了，他们却都不见。于是大家就忘却了。<br/><br/>　　惟有三太太是常在那里喂他们菠菜的，所以常想到。伊有一回走进窗后的小院子去，忽然在墙角上发见了一个别的洞，再看旧洞口，却依稀的还见有许多爪痕。这爪痕倘说是大兔的，爪该不会有这样大，伊又疑心到那常在墙上的大黑猫去了，伊于是也就不能不定下发掘的决心了。伊终于出来取了锄子，一路掘下去，虽然疑心，却也希望着意外的见了小白兔的，但是待到底，却只见一堆烂草夹些兔毛，怕还是临蓐时候所铺的罢，此外是冷清清的，全没有什么雪白的小兔的踪迹，以及他那只一探头未出洞外的弟弟了。<br/><br/>　　气愤和失望和凄凉，使伊不能不再掘那墙角上的新洞了。一动手，那大的两匹便先窜出洞外面。伊以为他们搬了家了，很高兴，然而仍然掘，待见底，那里面也铺着草叶和兔毛，而上面却睡着七个很小的兔，遍身肉红色，细看时，眼睛全都没有开。<br/><br/>　　一切都明白了，三太太先前的预料果不错。伊为预防危险起见，便将七个小的都装在木箱中，搬进自己的房里，又将大的也捺进箱里面，勒令伊去哺乳。<br/><br/>　　三太太从此不但深恨黑猫，而且颇不以大兔为然了。据说当初那两个被害之先，死掉的该还有，因为他们生一回，决不至于只两个，但为了哺乳不匀，不能争食的就先死了。这大概也不错的，现在七个之中，就有两个很瘦弱。所以三太太一有闲空，便捉住母兔，将小兔一个一个轮流的摆在肚子上来喝奶，不准有多少。<br/><br/>　　母亲对我说，那样麻烦的养兔法，伊历来连听也未曾听到过，恐怕是可以收入《无双谱》⑶的。<br/><br/>　　白兔的家族更繁荣；大家也又都高兴了。<br/><br/>　　但自此之后，我总觉得凄凉。夜半在灯下坐着想，那两条小性命，竟是人不知鬼不觉的早在不知什么时候丧失了，生物史上不着一些痕迹，并S也不叫一声。我于是记起旧事来，先前我住在会馆里，清早起身，只见大槐树下一片散乱的鸽子毛，这明明是膏于鹰吻的了，上午长班⑷来一打扫，便什么都不见，谁知道曾有一个生命断送在这里呢？我又曾路过西四牌楼，看见一匹小狗被马车轧得快死，待回来时，什么也不见了，搬掉了罢，过往行人憧憧的走着，谁知道曾有一个生命断送在这里呢？夏夜，窗外面，常听到苍蝇的悠长的吱吱的叫声，这一定是给蝇虎咬住了，然而我向来无所容心于其间，而别人并且不听到……<br/><br/>　　假使造物也可以责备，那么，我以为他实在将生命造得太滥了，毁得太滥了。<br/><br/>　　嗥的一声，又是两条猫在窗外打起架来。<br/><br/>　　“迅儿！你又在那里打猫了？”<br/><br/>　　“不，他们自己咬。他那里会给我打呢。”<br/><br/>　　我的母亲是素来很不以我的虐待猫为然的，现在大约疑心我要替小兔抱不平，下什么辣手，便起来探问了。而我在全家的口碑上，却的确算一个猫敌。我曾经害过猫，平时也常打猫，尤其是在他们配合的时候。但我之所以打的原因并非因为他们配合，是因为他们嚷，嚷到使我睡不着，我以为配合是不必这样大嚷而特嚷的。<br/><br/>　　况且黑猫害了小兔，我更是“师出有名”的了。我觉得母亲实在太修善，于是不由的就说出模棱的近乎不以为然的答话来。<br/><br/>　　造物太胡闹，我不能不反抗他了，虽然也许是倒是帮他的忙……<br/><br/>　　那黑猫是不能久在矮墙上高视阔步的了，我决定的想，于是又不由的一瞥那藏在书箱里的一瓶青酸钾⑸。<br/><br/>　　　　　　　　　　　　　　　　　　　　　　　　 一九二二年十月。<br/><br/><br/><br/>　　□注释<br/><br/>　　⑴本篇最初发表于一九二二年十月十日北京《晨报副刊》。<br/><br/>　　⑵庙会：又称“庙市”，旧时在节日或规定的日子，设在寺庙或其附近的集市。<br/><br/>　　⑶《无双谱》：清代金古良编绘，内收从汉到宋四十个行为独特人物的画像，并各附一诗。这里借用来形容独一无二。<br/><br/>　　⑷长班：旧时官员的随身仆人，也用以称一般的“听差”。<br/><br/>　　⑸青酸钾：即氰酸钾，一种剧毒的化学品。<br/><br/>　　〔《呐喊》〕</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-528-6573.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-528-6575.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-528.html" action-type="chapterComment" class="comment"><i></i>呐喊章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

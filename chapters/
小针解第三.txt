@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《灵枢》正文_小针解第三_黄帝作品 - 维普阅读网</title>
+<meta name="keywords" content="灵枢,灵枢原文,灵枢阅读,小针解第三全文,黄帝作品" />
+<meta name="description" content="灵枢原文阅读,小针解第三全文在线阅读,黄帝作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-268-4579.html";
+var nextpage="novel-read-268-4581.html";
+var indexpage = "novel-chapter-268.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-268.html">灵枢</a></strong>
+<strong><a href="novel-chapter-268.html">灵枢目录</a></strong>
+<span>小针解第三</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-268-4579.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>小针解第三</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=黄帝&amp;searchsubmit=yes"  target="_blank">黄帝</a><span class="divide">|</span>发布时间：2014-08-29 22:58:24<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>所谓易陈者，易言也。难入者，难着于人也。粗守形者，守刺法也。上守神者，守人之血气有余不足，可补泻也。神客者，正邪共会也。神者，正气也。客者，邪气也。在门者，邪循正气之所出入也。未睹其疾者，先知邪正何经之疾也。恶知其原者，先知何经之病，所取之处也。刺之微在数迟者，徐疾之意也。粗守关者，守四肢而不知血气正邪之往来也。上守机者，知守气也。机之动不离其空中者，知气之虚实，用针之徐疾也。空中之机清静以微者，针以得气，密意守气勿失也。其来不可逢者，气盛不可补也。其往不可追者，气虚不可泻也。不可挂以发者，言气易失也。扣之不发者，言不知补泻之意也，血气已尽而气不下也。知其往来者，知气之逆顺盛虚也。要与之期者，知气之可取之时也。粗之闇者，冥冥不知气之微密也。妙哉！工独有之者，尽知针意也。往者为逆者，言气之虚而小，小者逆也。来者为顺者，言形气之平，平者顺也。明知逆顺，正行无问者，言知所取之处也。迎而夺之者，泻也。追而济之者，补也。<br/>　　　 所谓虚则实之者，气口虚而当补之也。满则泄之者，气口盛而当泻之也。宛陈则除之者，去血脉也。邪胜则虚之者，言诸经有盛者，皆泻其邪也。徐而疾则实者，言徐内而疾出也。疾而徐则虚者，言疾内而徐出也。言实与虚，若有若无者，言实者有气，虚者无气也。察后与先，若亡若存者，言气之虚实，补泻之先后也，察其气之已下与常存也。为虚与实，若得若失者，言补者佖然若有得也，泻则恍然若有失也。<br/>　　　 夫气之在脉也，邪气在上者，言邪气之中人也高，故邪气在上也。浊气在中者，言水谷皆入于胃，其精气上注于肺，浊溜于肠胃，言寒温不适，饮食不节，而病生于肠胃，故命曰浊气在中也。清气在下者，言清湿地气之中人也，必从足始，故曰清气在下也。针陷脉则邪气出者，取之上。针中脉则浊气出者，取之阳明合也。针太深则邪气反沉者，言浅浮之病，不欲深刺也，深则邪气从之入，故曰反沉也。皮肉筋脉各有所处者，言经络各有所主也。取五脉者死，言病在中，气不足，但用针尽大泻其诸阴之脉也。取三脉者恇，言尽泻三阳之气，令病人恇然不复也。夺阴者死，言取尺之五里五往者也。夺阳者狂，正言也。睹其色，察其目，知其散复，一其形，听其动静者，言上工知相五色于目，有知调尺寸小大缓急滑涩，以言所病也。知其邪正者，知论虚邪与正邪之风也。右主推之，左持而御之者，言持针而出入也。气至而去之者，言补泻气调而去之也。调气在于终始一者，持心也。节之交三百六十五会者，络脉之渗灌诸节者也。所谓五藏之气已绝于内者，脉口气内绝不至，反取其外之病处与阳经之合，有留针以致阳气，阳气至则内重竭，重竭则死矣。其死也，无气以动，故静。所谓五藏之气已绝于外者，脉口气外绝不至，反取其四末之输，有留针以致其阴气，阴气至则阳气反入，入则逆，逆则死矣。其死也，阴气有余，故躁。所以察其目者，五藏使五色循明，循明则声章，声章者，则言声与平生异也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-268-4579.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-268-4581.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-268.html" action-type="chapterComment" class="comment"><i></i>灵枢章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

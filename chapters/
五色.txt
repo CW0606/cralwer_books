@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《针灸甲乙经》正文_五色_皇甫谧作品 - 维普阅读网</title>
+<meta name="keywords" content="针灸甲乙经,针灸甲乙经原文,针灸甲乙经阅读,五色全文,皇甫谧作品" />
+<meta name="description" content="针灸甲乙经原文阅读,五色全文在线阅读,皇甫谧作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-518-6272.html";
+var nextpage="novel-read-518-6274.html";
+var indexpage = "novel-chapter-518.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-518.html">针灸甲乙经</a></strong>
+<strong><a href="novel-chapter-518.html">针灸甲乙经目录</a></strong>
+<span>五色</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-518-6272.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>五色</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=皇甫谧&amp;searchsubmit=yes"  target="_blank">皇甫谧</a><span class="divide">|</span>发布时间：2014-09-23 21:00:02<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>雷公问曰：闻风者，百病之始也；厥逆，寒湿之所起也。别之奈何？黄帝答曰：当候眉间（《太素》作阙中），薄泽为风，冲浊为痹，在地为厥，此其常也，各以其色言其病也。曰：人有不病卒死，何以知之？曰：大气入于脏腑者，不病而卒死矣。曰：凡病少愈而卒死者，何以知之？曰：赤色出于两颧，大如拇指者，病虽少愈，必卒死。黑色出于颜（《太素》作庭），大如拇指，不病亦必卒死矣。曰：其死有期乎？曰：察其色以言其时。颜者，首面也。眉间以上者，咽喉也（《太素》眉间以上作阙上）。眉间以中（《太素》亦作阙中）者，肺也。下极者，心也。直下者，肝也。肝左者，胆也。下者，脾也。方上者，胃也。中央者，大肠也。侠傍者，肾也。当肾者，脐也。面王以上者（王古本作壬字），小肠也。面王以下者，膀胱字子处也。颧者，肩也。后颧者，臂也。臂以下者，手也。目内眦上者，膺乳也。侠绳而上者，背也。循牙车以上者，股也。中央者，膝也。膝以下者，胻也。当胻以下者，足也。巨分者，股里也。巨屈者，膝膑也。此五脏六腑支局（一作节）之部也。五脏五色之见者，皆出其部也。其部骨陷者，必不免于病也。其部色乘袭者，虽病甚不死也。曰五官具五色，何也？曰：青黑为痛，黄赤为热，白为寒，是谓五官。曰：以色言病之间甚奈何？曰：其色粗以明者为间，沉垩（一作夭，下同）者为甚，其色上行者病亦甚，其色下行如云彻散者病方已。五色各有脏部，有外部，有内部。其色从外部走内部者，其病从外走内。其色从内部走外部者，其病从内走外。病生于内者，先治其阴，后治其阳，反者益甚。病生于外者，先治其阳，后治其阴（《太素》云：病生于阳者，先治其外，后治其内。与此文异，义同），反者益甚。用阳和阴，用阴和阳。审明部分，万举万当。能别左右，是谓大通。男女异位，故曰阴阳。审察泽垩，谓之良工。沉浊为内，浮清为外，黄赤为风，青黑为痛，白为寒，黄而膏泽者为脓，赤甚者为血，痛甚者为挛，寒甚者为皮不仁。各见其部，察其浮沉以知浅深，审其泽垩以观成败，察其浮散以知近远，视色上下以知病处，积神于心以知往今。故相气不微，不知是非。属意勿去，乃知新故。色明不粗，沉垩为甚。不明不泽，其病不甚，其色散驹驹然未有聚，其病散而气痛，聚未成也。肾乘心，心先病，肾为应，色其（一作皆）如是。男子色在面王，为少腹痛，下为卵痛，其圜直为茎痛，高为本，下为首，狐疝■〈疒頽〉阴病之属也。女子色在面王，为膀胱字子处病，散为痛，薄为聚，方圜左右各如其色形，其随而下至骶为淫，有润如膏状，为暴食不洁，左为右（一作左），右为左（一作右），其色有邪，聚空满而不端，面色所指者也。色者青黑赤白黄，皆端满有别乡。别乡赤者，其色亦赤，大如榆荚，在面王为不月。其色上锐首空上向，下锐下向，在左右如法。以五色命脏，青为肝，赤为心，白为肺，黄为脾，黑为肾。肝合筋，青当筋，心合脉，赤当脉。脾合肉，黄当肉。肺合皮，白当皮。肾合骨，黑当骨。夫精明五色者，气之华也。赤欲如白裹朱，不欲如赭色也。白欲如白璧之泽（一云鹅羽），不欲如垩（一云盐）也。青欲如苍璧之泽，不欲如蓝也。黄欲如罗裹雄黄，不欲如黄土也。黑欲如重漆色，不欲如炭（《素问》作地苍）也。五色精微象见，其寿不久也。青如草滋，黑如炲煤，黄如枳实，赤如衃（音披）血，白如枯骨，此五色见而死也。青如翠羽，黑如鸟羽，赤如鸡冠，黄如蟹腹，白如豕膏，此五色见而生也。生于心，如以缟裹朱。生于肺，如以缟裹红。生于肝，如以缟裹绀。生于脾，如以缟裹栝蒌实。生于肾，如以缟裹紫。此五脏所生之外营也。凡相五色，面黄目青，面黄目赤，面黄目白，面黄目黑者，皆不死也。面青目赤（一作青），面赤目白，面青目黑，面黑目白，面赤目青者，皆死也。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-518-6272.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-518-6274.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-518.html" action-type="chapterComment" class="comment"><i></i>针灸甲乙经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

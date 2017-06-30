@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《北堂书钞》正文_●北堂书钞卷第四十三　　　　刑法部上_虞世南作品 - 维普阅读网</title>
+<meta name="keywords" content="北堂书钞,北堂书钞原文,北堂书钞阅读,●北堂书钞卷第四十三　　　　刑法部上全文,虞世南作品" />
+<meta name="description" content="北堂书钞原文阅读,●北堂书钞卷第四十三　　　　刑法部上全文在线阅读,虞世南作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-999-9649.html";
+var nextpage="novel-read-999-9651.html";
+var indexpage = "novel-chapter-999.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-999.html">北堂书钞</a></strong>
+<strong><a href="novel-chapter-999.html">北堂书钞目录</a></strong>
+<span>●北堂书钞卷第四十三　　　　刑法部上</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-999-9649.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>●北堂书钞卷第四十三　　　　刑法部上</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=虞世南&amp;searchsubmit=yes"  target="_blank">虞世南</a><span class="divide">|</span>发布时间：2014-11-20 20:37:16<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　隋祕书郎虞世南撰南海孔广陶校註<br/><br/>　　刑法惣一<br/><br/>　　○刑法惣一<br/><br/>　　刑者法五行「白虎通云刑者所以云云○今案白虎通五刑篇同」法者象四时「舌子云灋者法天地之位象四时之行以治天下○今案管子版法解六十六灋者作版法者陈俞本无注」象天道而作刑「刑法志云书所谓象刑也○今案陈俞本作刑作刑刑非也考汉书刑法志象刑也作象刑惟明者餘同」因天讨而作刑「刑法志云○今案书刑法志作下有五字陈本标目亦无五字小注引有五字」五刑者五常之鞭策「白虎通云○今案御览卷六百三十六引同」刑罚威狱「汉书刑法志云○孙氏校法改罚今案见汉书卷二十三」刑罚威狱使民畏忌「左传云太叔对赵简子曰刑云云○孙氏校法改罚今案见昭二十五年传」刑者成也一成不变「礼记文王世子篇○孙氏校刑字旁著圈并云按刑字今本礼记作型可据此正之今案近本礼记文王世子篇无此二句王制篇有云刑者型也型者成也一成而不变」<br/><br/>　　刑者教也质罪示终「孝经鉤命诀云云○孙氏校例改教今案陈俞本亦作教玉函山房辑鉤命诀祇据书钞一引亦同」刑以正刑「臧荣绪刑法志云云○今案本序以音近而讹此臧晋书之刑法志也陈俞本皆法误德俞又正作止」刑以辅教「尸子云為刑者云云服不听也○今案平津馆本尸子辑佚此条祇据书钞一引陈俞本仅得标目一句」刑以明威「汉书云作刑云云罚以法恶○今案近本汉书卷二十三刑法志有上句陈俞本删下句改引制礼以崇敬句在作刑上」刑期无刑「书大禹謨篇云」刑以正邪「左传云晋伐郑楚子救郑○今案成十六年救郑下有申叔时曰句」设刑罚者明有惧也「白虎通云云故天下顺从皆所以全民命○今案见五刑篇惧也下接故天二句汉魏丛书本脱下二句」严断刑罚以威其淫「左传云云○孙氏校法改罚今案见左传昭公七年传」刑罚所以惩过「书吕刑篇云云○今案吕刑罚惩非死孔安国传云刑罚所以惩过陈本罚作法」刑罚所以助治「白虎通云圣人治天下必有刑罚者所云云○今案王謨本白虎通卷四五刑篇者作何助上有佐德二字陈俞本罚皆作法餘同王謨本」明于五刑以弼五教「书大禹謨篇云云」<br/><br/>　　惟敬五刑以成三德「书吕刑篇云云」糺之以刑「国语云赐管子对曰劝之以赐糺之以刑罚為民纪统○今案国语齐语糺作纠餘同本钞糺误纪又凡纠皆作糺故易误纪陈俞本皆误纪」齐之以刑「孔聚云仲弓问古之刑教云云○今案裘校孔丛子刑论篇同」明慎用刑「周易旅卦象辞也○今案周易以下七字永兴自注也」明慎刑「后汉书□永传云為青州刺史务在旌表贤戉云云○今案范书刘永鲍永传及谢书永第五永传皆无」圣君任法「管子曰圣君任法而不任智○严氏校改管子為申子附注云按申子圣君任法而不任智见类聚五十四及御览六百三十八今案此实见管子任法篇严校据类聚御览以為出申子但管子远在申子之前严氏改引之不特非旧钞面目抑亦数典忘祖矣」<br/><br/>　　圣人立法「韩子云云○今案类聚卷五十四引下有赏足以劝善三句近本韩子脱」正法直道「管子曰云云罪煞不疑○今案见版法篇近本疑作赦陈本亦作疑」<br/><br/>　　明法正义「申子云君子必有明法正义○今案类聚卷五十四引申子同下有若悬权衡以称轻重所以一群臣也二句」法立则私善不行「慎子曰有道之国云云○今案守山阁本慎子佚文谓类聚卷五十四御览卷六百三十八引故有道之国法立则私议不行又云书钞四十三引作私善陈本亦作善」使法民莫之犯「韩子董安于為赵上地之守行石邑山中使法无赦民莫之犯○今案韩子内储上篇安作閼餘同陈本亦作閼类聚卷五十四引赵上地句仍作安邑作阜」有道之君而重变法「韩子曰治大国而数变法则民苦之贵虚静○今案韩非子解老篇静下接标目句近本而作不陈本及类聚卷五十四引皆无不字与本钞同」置法不变「管子曰黄帝之治天下置法不变使民安泰○氏校吏改使今案见任法篇近本管子作使民安其注者也无泰字」以道变法「慎子去守法不变则衰以道变法者君长也○孙氏校注内补法字今案守山阁本慎子佚文从类聚卷五十四引同」刑德制臣「韩子曰人主者治法不变云云○孙氏校民改臣今案标目句见二柄篇近本韩非已脱小注治法不变句陈本无注」刑令制民「商君书立法令者民之命○今案陈仁锡校本商子画策篇云以刑制刑能制天下者必先制其民者也又分定篇云必行法令者民之命也据此商子既分二篇则本钞标目与小注亦似应分二陈本改标目為法令治民下注商子二字」<br/><br/>　　齐民以综真偽「傅玄七社云善恶相蒙故齐之以刑○今案陈俞本皆删七社二字傅节子辑傅鶉觚集云社当作謨」张法以制陆梁「阮子云渔人张罗於渊以制吞舟之鱼明主张法天不以致□梁之士○今案御览卷六百二十八引阮子罗作网法丁有於字致陆作制强士作人考意林卷四引阮子与御览同惟陈本与本钞同」<br/><br/>　　敬宗庙尊社稷「韩子云荆正有茅门者法曰群臣大夫公子入朝马蹄践霤者○今案韩非外储说右上荆下有庄字者作之夫下有诸字者下有斩其輈戮其御所以云云又本钞卷三十六守职篇亦引此事」<br/><br/>　　立朝廷「管子云欲民之可御则法不可不重○孙氏校以御上衍其不二字重下衍之字删之今案倭刻明本管子权修篇不重下接法者将立朝廷者也句淮重字仍作审近本同王氏读书□志引书钞重字以正今刻管子之误陈本删注」<br/><br/>　　理人情「刘恭嗣难丁敝曰夫人以礼兴刑以律治人情也○今案陈本删注俞本本钞同」国之脂泽「韩子云赏罚者国之脂泽粉黛也○今案韩非显学篇同陈俞本亦同本钞卷二十七亦引国之粉黛四字」国之大信「冯奉世传云○今案汉书冯奉世传附子野王传云刑赏大信不可不慎」民之鞭策「尸子云刑罚者民之鞭策○今案孙校本尸子辑佚云见后汉书虞詡传注又意林卷一又御览刑法部今考鲍刻御览六百三十六引竟讹作尹子」法严如火「傅玄七社云法严如火烈○今案陈俞本小注法下加之字亦删七社二字傅节子辑本谓杜当作謨亦补之字」罚拟秋霜「抱朴子云人君云云而无诡时之严○今案枰津本抱朴外三十九广譬云故人君赏犹春雨而无霖淫之夫下接本钞二句但人字与陈俞本皆作明」抑暴扶弱难犯易避「刑法志云元帝詔曰夫刑罚者所以云云○今案近本汉书卷二十三刑法志刑罚作法令餘同陈俞本已照近本改」释法思治尧不能正一国「韩子用人篇云○今案近本韩子上句作释法术而心治思心陈本亦作思」同罪异罚非也「左传云曹伯之竖曰不与卫皆复非信也○今案见僖八年传」<br/><br/>　　夏有乱政而作禹刑「又云郑人铸刑书○今案见昭六年传」商有乱政而作汤刑「又云郑人铸刑书叔向使詒书曰○今案同上」周有乱政而作九刑「又传云○今案同上」三辟之兴皆叔世也「同上注」為禁令者急于未然「物理论云云宽于已发譬之于河隄千里忧在蚁穴○今案俞本同陈本无譬之二句」<br/><br/>　　為法者宜举其要「傅子云塞蚁孔而河决息掩一车辖而覆乘止○今案陈俞本同严辑傅子文据意林引傅子法下有全字掩作施又注云书钞作掩」<br/><br/>　　鞭朴不可施於家刑罚不可废於国「又云○今案注又云二字应是傅子而聚珍辑本并无此条陈本俞本则皆注刑法志今考汉书刑法志同」刑肃俗弊「礼用篇云刑云云则民不归○○今案见传子礼用篇」法重民恶「说苑云殷法弃疾於街者刑云云○孙氏校威改灰是也今案近本说苑脱考韩子内储上篇有此文」<br/><br/>　　德薄任刑「文子曰道侠任智云云○孙氏校补□字今案守山阁木文子卷下自然篇狭下薄下皆有然后二字」强国争刑「管子云夫强国者云云○今案俞本作争强国争刑合」惟刑之卹「书舜典篇云云」五帝有流殛放杀之诛三王有大辟刻肌之法「东观梁统传云云是以五帝三王之刑除残去乱○今案聚珍本东观汉记记卷十二梁传杀作窜餘同姚辑本脱陈俞本亦作杀法作刑」皋陶作刑「吕氏春秋云云○今案见审分览」伯夷作刑「世本云伯夷作五刑○今案御览卷六百三十六引同二酉丛书张辑世本作篇谓据书钞引无五字御览有五字抑知标目与小注有详略不同耳」八刑万民「周礼曰大司徒职云以乡八刑纠万民一曰不孝之刑二曰不睦之刑三曰不婣之刑四曰不弟之刑五曰不任之刑六曰不恤之刑七曰造言之刑八曰乱民之刑○孙氏校补造言四字今案见司徒职」<br/><br/>　　五刑纠万民「周礼大司寇联云以五刑纠万民一曰野刑上功纠力二曰军刑上令纠守三曰乡刑上德纠孝四曰宫刑上能纠职五曰国刑上愿纠暴○孙氏校徒改寇舒改野公改功会改令议改愿恭改暴今案周礼秋官同」<br/><br/>　　司刑掌五刑之法以丽万民之罪「周礼司刑职云司刑云云○今案见官」五服三就「书舜典篇云」五刑五用「咎繇謨篇云」大刑用斧鉞「汉书刑法志云○今案书卷二十三刑法志云大刑手甲兵其次用斧鉞」大罪陈原野「刑法志云○今案汉书刑法志罪作者陈下有诸字」出入不以道义者其刑墨「书大传云非事而事之云云而诵不详之辞者其刑墨○今案以下五条周见礼司刑注引大传同御览卷百四十八引及俞本详作祥」革舆服制度者其刑劓「书大传云○今案详上」踰城郭而盗者其刑臏「又云○今案详上」男女不以义交者其刑宫「又云○孙氏校补以字今案陈俞本以字餘详上」<br/><br/>　　降叛寇贼刦掠者其刑死「书又云○今案详上但周礼司刑注引大传掠作略陈俞本仍作掠」煞王亲者辜之「周礼掌戮职云云亲為緦麻也○今案见秋官陈本煞改杀」<br/><br/>　　言偽而辨学非而博以疑眾煞「礼记王制篇云云郑玄注云皆谓虚华捷给○孙氏校志改煞今案陈本删注言上添引行偽而坚句」析言破律乱名改作以乱政煞「礼记王制篇注云左道若巫蛊及俗禁也○今案本钞以字上脱执左道三字」假於鬼神时曰卜筮以疑眾煞「礼王制篇云」淫声异服奇伎奇器以疑眾煞「王制篇云○今案陈本淫上多引作字」擅立■〈门外卦内〉绝怜好则幽「尸子云娶同姓以妾為妻变太子专罪○今案平津馆本尸子罪下接擅立八字■〈门外卦内〉作闕幽下有改衣服易刑则放八字俞本擅立作大夫餘与平津本同陈本只引改衣八字餘脱」<br/><br/>　　有爵者煞之以甸师「周礼掌戮职云凡煞人者戮诸市惟王同族兴有爵者煞之於甸师氏○今案近本秋官掌戮职戳诸作踣诸」公族有罪磬於甸人「礼文王世子篇云云○孙氏校声改磬今案陈俞本亦误」刑人於市「礼记王制篇云爵人於朝与眾共之云云与眾弃之」<br/><br/>　　北堂书钞卷第四十三 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-999-9649.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-999-9651.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-999.html" action-type="chapterComment" class="comment"><i></i>北堂书钞章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

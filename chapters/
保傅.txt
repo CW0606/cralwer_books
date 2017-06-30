@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《贾谊新书》正文_保傅_贾谊作品 - 维普阅读网</title>
+<meta name="keywords" content="贾谊新书,贾谊新书原文,贾谊新书阅读,保傅全文,贾谊作品" />
+<meta name="description" content="贾谊新书原文阅读,保傅全文在线阅读,贾谊作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-235-3453.html";
+var nextpage="novel-read-235-3455.html";
+var indexpage = "novel-chapter-235.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-235.html">贾谊新书</a></strong>
+<strong><a href="novel-chapter-235.html">贾谊新书目录</a></strong>
+<span>保傅</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-235-3453.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>保傅</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=贾谊&amp;searchsubmit=yes"  target="_blank">贾谊</a><span class="divide">|</span>发布时间：2014-08-21 21:04:00<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>殷为天子二十余世，而周受之；周为天于三十余世，而秦受之；秦为天子，二世而亡。人性非甚相远也，何殷周之君有道之长，而秦无道之暴也，其故可知也。<br/><br/>　　古之王者，太子初生，固举以礼，使士负之，有司斋肃端冕，见之南郊，见于天也。过阙则下，过庙则趋，孝子之道也。故自为赤子，而教固已行矣。昔者，周成王幼在襁褓之中，召公为太保，周公为太傅，太公为太师。保，保其身体；傅，傅之德义；师，道之教训，三公之职也。于是为置三少，皆上大夫也。曰少保、少傅、少师，是与太子燕者也。故孩提有识，三公三少固明孝仁礼义以道习之，逐去邪人，不使见恶行。于是皆选天下之端士孝悌博闻有道术者，以卫翼之，使与太子居处出入。故太子初生而见正事，闻正言，行正道，左右前后皆正人也。习与正人居之不能无正也，犹生长于齐之不能不齐言也；习与不正人居之不能无不正也，犹生长于楚之不能不楚言也。故择其所嗜，必先受业，乃得尝之；择其所乐，必先有习，乃得为之。孔子曰：“少成若天性，习贯如自然。”是殷周之所以长有道也。<br/><br/>　　及太子少长，知好色，则入于学，学者所学之官也。《学礼》曰：“帝入东学，上亲而贵仁，则亲疏有序，而恩相及矣。帝入南学，上齿而贵信，则长幼有差，而民不诬矣。帝入西学，上贤而贵德，则圣智在位，而功不遗矣。帝入北学，上贵而尊爵，则贵贱有等，而下不踰矣。帝入太学，承师问道，退习而考于太傅，太傅罚其不则，而匡其不及，则德智长而治道得矣。“ 此五学者，既成于上，则百姓黎民化辑于下矣。学成治就，是殷周所以长有道也。<br/><br/>　　及太子既冠成人，免于保傅之严，则有司直之史，有亏膳之宰。天子有过，史必书之。史之义，不得书过则死，而宰收其膳。宰之义，不得收膳则死。于是有进善之旌，有诽谤之木，有敢谏之鼓。瞽史诵诗，工诵箴谏，大夫进谋，士传民语。习与智长，故切而不愧，化与心成，故中道若性，是殷周之所以长有道也。<br/><br/>　　三代之礼，天子春朝朝日，秋暮夕月，所以明有敬也。春秋入学，坐国老执酱而亲馈之，所以明有孝也。行以鸾和，步中采荠，趋中肆夏，所以明有度也。其于禽兽也，见其生，不忍其死，闻其声，不尝其肉，故远庖厨，所以长恩且明有仁也。食以礼，彻以乐，失度则史书之，工诵之，三公进而读之，宰夫减其膳，是天子不得为非也。明堂之位曰：笃仁而好学，多闻而道顺。天子疑则问，应而不穷者谓之道。道者，道天子以道者也。常立于前，是周公也。诚立而敢断，辅善而相义者谓之辅。辅者，辅天子之意者也。常立于左，是太公也。洁廉而切直，匡过而谏邪者谓之拂。拂者，拂天子之过者也。常立于右，是召公也。博闻强记，捷给而善对者谓之承。承者，承天子之遗忘者也。常立于后，是史佚也。故成王中立听朝，则四圣维之。是以虑无失计，而举无过事，殷周之所以长久者，其辅翼太子有此具也。<br/><br/>　　及秦而不然，其俗固非贵辞让也，所上者告讦也；固非贵礼义也，所上者刑罚也。使赵高傅胡亥而教之狱，所习者非斩劓人，则夷人之三族也。故今日即位，明日射人。忠谏者谓之诽谤，深为之计者谓之妖言。其视杀人若艾草菅然，岂胡亥之性恶哉？其所以习道之者，非理故也。<br/><br/>　　鄙谚曰：“不习为史，而视已事。”又曰：“前车覆而后车戒。”夫殷周之所以长久者，其已事可知也，然而不能从，是不法圣智也。秦之亟绝者，其轨迹可见也，然而不避，是后车又覆也。夫存亡之反，治乱之机，其要在是矣。天下之命，县于太子。太子之善，在于蚤谕教与选左右。心未滥而先谕教，则化易成也。夫开于道术，知义之指，则教之功也。若其服习积贯，则左右而已矣。夫胡越之人，生而同声，嗜欲不异，及其长而成俗也，累数译而不能相通，行有虽死而不相为者，则教习然也。臣故曰：“选左右蚤谕教最急。”夫教得而左右正，则太子正矣，太子正而天下定矣。书曰：“一人有庆，兆民赖之。”此时务也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-235-3453.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-235-3455.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-235.html" action-type="chapterComment" class="comment"><i></i>贾谊新书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《伪自由书》正文_再谈保留_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="伪自由书,伪自由书原文,伪自由书阅读,再谈保留全文,鲁迅作品" />
+<meta name="description" content="伪自由书原文阅读,再谈保留全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-550-7507.html";
+var nextpage="novel-read-550-7509.html";
+var indexpage = "novel-chapter-550.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-550.html">伪自由书</a></strong>
+<strong><a href="novel-chapter-550.html">伪自由书目录</a></strong>
+<span>再谈保留</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-550-7507.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>再谈保留</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-04 21:19:58<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　因为讲过刘庚生的罪名，就想到开口和动笔，在现在的中国，实在也很难的，要稳当，还是不响的好。要不然，就常不免反弄到自己的头上来。 <br/><br/>　　举几个例在这里—— <br/><br/>　　十二年前，鲁迅作的一篇《阿Ｑ正传》，大约是想暴露国民的弱点的，虽然没有说明自己是否也包含在里面。然而到得今年，有几个人就用“阿Ｑ”来称他自己了，这就是现世的恶报。 <br/><br/>　　八九年前，正人君子们办了一种报（１），说反对者是拿了卢布的，所以在学界捣乱。然而过了四五年，正人又是教授，君子化为主任（２），靠俄款（３）享福，听到停付，就要力争了。这虽然是现世的善报，但也总是弄到自己的头上来。 <br/><br/>　　不过用笔的人，即使小心，也总不免略欠周到的。最近的例，则如各报章上，“敌”呀，“逆”呀，“伪”呀，“傀儡国”呀，用得沸反盈天。不这样写，实在也不足以表示其爱国，且将为读者所不满。谁料得到“某机关通知（４）：御侮要重实际，逆敌一类过度刺激字面，无裨实际，后宜屏用”，而且黄委员长（５）抵平，发表政见，竟说是“中国和战皆处被动，办法难言，国难不止一端，亟谋最后挽救”（并见十八日《大晚报》北平电）的呢？……幸而还好，报上果然只看见“日机威胁北平”之类的题目，没有“过度刺激字面”了，只是“汉奸”的字样却还有。日既非敌，汉何云奸，这似乎不能不说是一个大漏洞。好在汉人是不怕“过度刺激字面”的，就是砍下头来，挂在街头，给中外士女欣赏，也从来不会有人来说一句话。 <br/><br/>　　这些处所，我们是知道说话之难的。 <br/><br/>　　从清朝的文字狱（６）以后，文人不敢做野史了，如果有谁能忘了三百年前的恐怖，只要撮取报章，存其精英，就是一部不朽的大作。但自然，也不必神经过敏，豫先改称为“上国”或“天机”的。 <br/><br/>　　五月十七日。 <br/>　<br/>===============================================================<br/><br/>　　（１）正人君子们办了一种报指胡适、陈西滢等一九二四年十二月在北京创办的《现代评论》周刊。陈西滢曾在该刊第七十四期（一九二六年五月八日）发表《闲话》一则，诬蔑进步人士是“直接或间接用苏俄金钱的人”。“正人君子”，是当时拥护北洋政府的北京《大同晚报》对现代评论派的吹捧，见一九二五年八月七日该报。<br/><br/>　　（２）正人又是教授，君子化为主任陈西滢曾任北京大学英文学系主任兼教授、武汉大学文学院长兼教授。胡适曾任北京大学哲学系教授，并于一九三一年任北京大学文学院院长。<br/><br/>　　（３）俄款一九一七年俄国十月革命成功后，苏俄政府宣布放弃帝俄在中国的一切特权，包括退还庚子赔款中尚未付给的部分。一九二四年五月中苏复交，两国签订《中俄协定》，其中规定退款除偿付中国政府业经以俄款为抵押品的各项债务外，余数全用于中国教育事业。一九二六年初，《现代评论》曾连续刊载谈论“俄款用途”的文章，为“北京教育界”力争俄款。九一八事变后，国民党政府以“应付国难”为名，一再停付充作教育费用的庚子赔款，曾引起教育界有关人士的恐慌和抗议。 <br/><br/>　　（４）某机关通知指黄郛就任北平政务整理委员会委员长后，为讨好日本而发布的特别通知。 <br/><br/>　　（５）黄委员长即黄郛。 <br/><br/>　　（６）清朝的文字狱清代厉行民族压迫政策，曾不断大兴文字狱，企图用严刑峻法来消除汉族人民的反抗和民族思想，著名大狱有康熙年间庄廷鑨《明书》狱；雍正年间吕留良、曾静狱；乾隆年间胡中藻《坚磨生诗钞》狱等。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-550-7507.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-550-7509.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-550.html" action-type="chapterComment" class="comment"><i></i>伪自由书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

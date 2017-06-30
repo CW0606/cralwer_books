@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孝经注疏》正文_卷八 事君章第十七_注 唐·李隆基，疏 宋·邢昺作品 - 维普阅读网</title>
+<meta name="keywords" content="孝经注疏,孝经注疏原文,孝经注疏阅读,卷八 事君章第十七全文,注 唐·李隆基，疏 宋·邢昺作品" />
+<meta name="description" content="孝经注疏原文阅读,卷八 事君章第十七全文在线阅读,注 唐·李隆基，疏 宋·邢昺作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1425-26385.html";
+var nextpage="novel-read-1425-26387.html";
+var indexpage = "novel-chapter-1425.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1425.html">孝经注疏</a></strong>
+<strong><a href="novel-chapter-1425.html">孝经注疏目录</a></strong>
+<span>卷八 事君章第十七</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1425-26385.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷八 事君章第十七</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=注 唐·李隆基，疏 宋·邢昺&amp;searchsubmit=yes"  target="_blank">注 唐·李隆基，疏 宋·邢昺</a><span class="divide">|</span>发布时间：2016-07-22 22:49:42<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p> [疏]正义曰：此章首言君子之事上，又言进思尽忠，退思补过，皆是事君之道。孔子曰：“天下有道则见，无道则隐。”前章言明王之德、应感之美，天下从化，无思不服。此孝子升朝事君之时也，故以名章，次《应感》之后。<br/><br/>　<br/><br/>　　子曰：“君子之事上也，上，谓君也。进思尽忠，进见於君，则思尽忠节。退思补过，君有过失，则思补益。将顺其美，将，行也。君有美善，则顺而行之。匡救其恶，匡，正也。救，止也。君有过恶，则正而止之。故上下能相亲也。下以忠事上，上以义接下。君臣同德，故能相亲。<br/><br/>　　[疏]子曰至亲也。<br/><br/>　　○正义曰：此明贤人君子之事君也。言入朝进见，与谋虑国事，则思尽其忠节。若退朝而归，常念己之职事，则思补君之过失。其於政化，则当顺行君之美道，止正君之过恶。如此则能君臣上下情志通协，能相亲也。经称“君子”有七焉：一曰“君子不贵”，二曰“君子则不然”，三曰“淑人君子”，四曰“君子之教以孝”，五曰“恺悌君子”。已上皆断章指於圣人君子，谓居君位而子下人也。六曰“君子之事亲孝”，故此章“君子之事上”，则皆指於贤人君子也。<br/>　　○注上，谓君也。<br/>　　○正义曰：此对《论语》云：“孝悌而好犯上者鲜矣。”彼“上”谓凡在己上者，此“上”惟指君，故云“上，谓君也”。<br/>　　○注进见至忠节。<br/>　　○正义曰：此依韦注也。《说文》云：“忠，敬也。”尽心曰忠。《字诂》曰：“忠，直也。”《论语》曰：“臣事君以忠。”则忠者善事君之名也。节，操也。言事君者敬其职事，直其操行，尽其忠诚也。言臣常思尽其节操，能致身授命也。<br/>　　○注君有至补益。<br/>　　○正义曰：案旧注韦昭云“退归私室，则思补其身过”，以《礼记·少仪》曰：“朝廷曰退，燕游曰归。《左传》引《诗》曰：“退食自公。”杜预注：“臣自公门而退入私门，无不顺礼。”室犹家也。谓退朝理公事毕，而还家之时。则当思虑以补身之过。故《国语》曰：“士朝而受业，昼而讲贯，夕而习复，夜而计过，无憾而后即安。”言若有憾则不能安，是思自补也。案《左传》：“晋荀林父为楚所败，归，请死於晋侯。晋侯许之，士渥浊谏曰：‘林父之事君也，进思尽忠，退思补过。’晋侯赦之，使复其位。”是其义也。文意正与此同，故注依此传文而释之。今云君有过则思补益，出《制旨》也，义取《诗·大雅·烝民》云：“衮职有阙，惟仲山甫补之。”毛传云：“有衮冕者，君之上服也。仲山甫补之，善补过也。”郑笺云：“衮职者，不敢斥王言也。王之职有阙，辄能补之者，仲山甫也。”此理为胜，故易旧也。<br/>　　○注将行至行之。<br/>　　○正义曰：此依王注也。案孔注《尚书·太誓》云：“肃将天威，为敬行天罚。”是“将”训为“行”也。言君施政教有美，则当顺而行之。<br/>　　○注匡，正也。救，止也。<br/>　　○正义曰：此依王注也。“匡，正”，《释言》文也。马融注《论语》云：“救犹止也。”云“君有过恶，则正而止之”者，《尚书》云“予违汝弼，汝无面从”是也。<br/>　　○注下以至相亲。<br/>　　○正义曰：此依魏注也。《书》曰：“居上克明，为下克忠。”是其义也。《左传》曰：“君义臣行，如此则能相亲也。”<br/>　<br/><br/>　　《诗》云：‘心乎爱矣，遐不谓矣。中心藏之，何日忘之？’”遐，远也。义取臣心爱君，虽离左右，不谓为远。爱君之志，恒藏心中，无日蹔忘也。<br/><br/>　　[疏]诗云至忘之。<br/><br/>　　○正义曰：夫子述事君之道既已，乃引《小雅·隰桑》之诗以结之。言忠臣事君，虽复有时离远，不在君之左右，然其心之爱君，不谓为远；中心常藏事君之道，何日暂忘之？<br/>　　○注遐远至忘也。<br/>　　○正义曰：云“遐，远也。义取臣心爱君，虽离左右，不谓为远”者，“遐，远也”，《释言》文，此释“心乎爱矣，遐不谓矣”。云“爱君之志，恒藏心中，无日暂忘也”者，释”中心藏之，何日忘之”。案《檀弓》说事君之礼云：“左右就养有方。”此则臣之事君，有常在左右之义也。若周公出征，管叔、蔡叔、召公听讼於甘棠，是离左右也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1425-26385.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1425-26387.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1425.html" action-type="chapterComment" class="comment"><i></i>孝经注疏章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

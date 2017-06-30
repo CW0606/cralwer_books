@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《马嵬坡》正文_马嵬坡_郑畋作品 - 维普阅读网</title>
+<meta name="keywords" content="马嵬坡,马嵬坡原文,马嵬坡阅读,马嵬坡全文,郑畋作品" />
+<meta name="description" content="马嵬坡原文阅读,马嵬坡全文在线阅读,郑畋作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-1129.html";
+var nextpage="novel-chapter-1129.html";
+var indexpage = "novel-chapter-1129.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1129.html">马嵬坡</a></strong>
+<strong><a href="novel-chapter-1129.html">马嵬坡目录</a></strong>
+<span>马嵬坡</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-1129.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>马嵬坡</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=郑畋&amp;searchsubmit=yes"  target="_blank">郑畋</a><span class="divide">|</span>发布时间：2015-01-28 21:00:56<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　玄宗回马杨妃死，云雨难忘日月新。<br/><br/>　　终是圣明天子事，景阳宫井又何人。<br/><br/>【注释】<br/>⑴马嵬（wéi ）坡：即马嵬驿，因晋代名将马嵬曾在此筑城而得名，在今陕西兴平市西，为杨贵妃缢死的地方。<br/>⑵回马：指唐玄宗由蜀还长安。<br/>⑶云雨：出自宋玉《高唐赋》“旦为朝云，暮为行雨”，后引申为男女欢爱。此句意谓玄宗、贵妃之间的恩爱虽难忘却，而国家却已一新。<br/>⑷景阳宫井：故址在今江苏省南京市玄武湖边。南朝的昏昧陈后主陈叔宝听说隋兵已经攻进城来，就和宠妃张丽华、孙贵嫔躲在景阳宫井中，结果还是被隋兵俘虏。<br/><br/>【译文】<br/>玄宗返回长安杨贵妃早已死，旧时恩爱难忘国家开始振兴。<br/>处死杨妃也是玄宗英明决策，不然就会步陈后主亡国后尘。<br/><br/>【赏析】<br/>　　这是一首咏史诗。首句的“玄宗回马”，指大乱平定、两京收复之后，成了太上皇的玄宗从蜀中回返长安。其时距“杨妃死”已很久了。两下并提，意谓玄宗能重返长安，正是牺牲杨妃换来的。一存一殁，意味深长。玄宗割舍贵妃固然使局势得到转机，但内心的矛盾痛苦一直贯穿于他的后半生，尽管山河重光（“日月新”），也不能使他忘怀死去的杨妃，这就是所谓“云雨难忘”。“云雨难忘”与“日月新”对举，欣喜与长恨相兼，写出了玄宗复杂矛盾的心理。<br/>　　诗的后两句特别耐人玩味。“终是圣明天子事”，有人说这是表彰玄宗在危亡之际识大体，有决断，堪称“圣明”，但从末句“景阳宫井又何人”来看，并非如此。“景阳宫井”用的是南朝陈后主的故事。当隋兵打进金陵，陈后主和他的宠妃张丽华、孔贵嫔藏在景阳宫井内，一同作了隋兵的俘虏。这里以陈后主的事对比唐玄宗马嵬坡赐杨贵妃自缢的举动，抑扬分明。同是帝妃情事，又同当干戈逼迫之际，可比性极强，取拟精当。玄宗没有落到陈后主这步田地，是值得庆幸的，但要说“圣明”，也仅仅是比陈后主“圣明”一些而已，所胜实在无几。“圣明天子”扬得很高，却以昏味的陈后主来作陪衬，就颇有几分讽意。只不过话说得微婉，耐人玩味罢了。<br/>　　但就此以为诗人对玄宗毫无同情，也不尽然。唐时人对杨妃之死，颇有深责玄宗无情无义者。郑诗又似为此而发。上联已暗示马嵬赐死，事出不得已，虽时过境迁，玄宗仍未忘怀云雨旧情。所以下联“终是圣明天子事”，“终是”的口吻，似是要人们谅解玄宗当日的处境。<br/>　　此诗对玄宗有所婉讽，亦有所体谅，可谓能“出己意”又“用意隐然”，在咏史诗中不失为佳作。<br/><br/>【点评】<br/>　　高彦休《唐阙史》：马嵬佛寺，杨贵妃缢所。迩后才士文人，经过赋咏以导幽怨者，不可胜记，莫不以翠翘香钿，委于尘土，红凄碧怨，令人悲伤，虽调苦词清，而无逃此意。独丞相荥阳公郑畋为凤翔从事日，题诗曰：“肃宗回马杨妃死，云雨难忘日月新。终是圣明天子事，景阳宫井又何人。”<br/>　　魏泰《临汉隐居诗话》：唐人咏马嵬之事者多矣……《唐阙史》载郑畋《马嵬》诗，命意似矣，而词句凡下，比说无状，不足道也。<br/>　　吴开《优古堂诗话》：《唐阙史》称郑相畋吟《马嵬》诗……观者以为真辅国之句，予以谓畋盖取杜诗“不闻夏殷衰，中自诛褒姐”之意。<br/>　　吴乔《围炉诗话》：用意隐然，最为得体。<br/>　　蘅塘退士《唐诗三百首》：唐人马嵬诗极多，唯此诗深得温柔敦厚之旨。<br/>　　陆次云《五朝诗善鸣集》：得体。当时读此诗者，以为有宰辅气，许得不错。<br/>　　李锳《诗法易简录》：立言得体。“可怜金谷坠楼人”，高一层衬；此低一层衬。<br/>　　王渔洋《唐贤小三昧集续集》：论既得体，调亦琅然。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-1129.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-1129.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1129.html" action-type="chapterComment" class="comment"><i></i>马嵬坡章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

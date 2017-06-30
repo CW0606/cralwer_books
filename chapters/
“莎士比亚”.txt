@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《花边文学》正文_“莎士比亚”_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="花边文学,花边文学原文,花边文学阅读,“莎士比亚”全文,鲁迅作品" />
+<meta name="description" content="花边文学原文阅读,“莎士比亚”全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-536-6778.html";
+var nextpage="novel-read-536-6780.html";
+var indexpage = "novel-chapter-536.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-536.html">花边文学</a></strong>
+<strong><a href="novel-chapter-536.html">花边文学目录</a></strong>
+<span>“莎士比亚”</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-536-6778.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>“莎士比亚”</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 21:15:48<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　 苗挺<br/><br/>　　严复提起过“狭斯丕尔”（２），一提便完；梁启超（３）说过“莎士比亚”，也不见有人注意；田汉（４）译了这人的一点作品，现在似乎不大流行了。到今年，可又有些“莎士比亚”“莎士比亚”起来，不但杜衡先生由他的作品证明了群众的盲目（５），连拜服约翰生博士的教授也来译马克斯“牛克斯”的断片（６）。为什么呢？将何为呢？<br/><br/>　　而且听说，连苏俄也要排演原本“莎士比亚”剧了。<br/><br/>　　不演还可，一要演，却就给施蛰存先生看出了“丑态”——<br/><br/>　　“……苏俄最初是‘打倒莎士比亚’，后来是‘改编莎士比亚’，现在呢，不是要在戏剧季中‘排演原本莎士比亚’了吗？（而且还要梅兰芳去演《贵妃醉酒》呢！）这种以政治方策运用之于文学的丑态，岂不令人齿冷！”<br/><br/>　　（《现代》五卷五期，施蛰存《我与文言文》。）<br/><br/>　　苏俄太远，演剧季的情形我还不了然，齿的冷暖，暂且听便罢。但梅兰芳和一个记者的谈话，登在《大晚报》的《火炬》上，却没有说要去演《贵妃醉酒》。<br/><br/>　　施先生自己说：“我自有生以来三十年，除幼稚无知的时代以外，自信思想及言行都是一贯的。……”（同前）这当然非常之好。不过他所“言”的别人的“行”，却未必一致，或者是偶然也会不一致的，如《贵妃醉酒》，便是目前的好例。<br/><br/>　　其实梅兰芳还没有动身，施蛰存先生却已经指定他要在“无产阶级”面前赤膊洗澡。这么一来，他们岂但“逐渐沾染了资产阶级的‘余毒’”（７）而已呢，也要沾染中国的国粹了。他们的文学青年，将来要描写宫殿的时候，会在“《文选》与《庄子》”里寻“词汇”（８）也未可料的。<br/><br/>　　但是，做《贵妃醉酒》固然使施先生“齿冷”，不做一下来凑趣，也使豫言家倒霉。两面都要不舒服，所以施先生又自己说：“在文艺上，我一向是个孤独的人，我何敢多撄众怒？”（同前）<br/><br/>　　末一句是客气话，赞成施先生的其实并不少，要不然，能堂而皇之的在杂志上发表吗？——这“孤独”是很有价值的。九月二十日。<br/><br/>　<br/>===============================================================<br/><br/><br/><br/>　　（１）本篇最初发表于一九三四年九月二十三日《中华日报·动向》。<br/><br/>　　（２）“狭斯丕尔”即莎士比亚。严复《天演论·导言十六·进微》：“词人狭斯丕尔之所写生，方今之人，不仅声音笑貌同也，凡相攻相感不相得之情，又无以异。”<br/><br/>　　（３）梁启超（１８７３—１９２９）字卓如，号任公，广东新会人，学者，清末维新运动的领导者之一。著有《饮冰室文集》。他在《小说零简·新罗马传奇·楔子》中说：“因此老夫想著拉了两位忘年朋友，一个系英国的索士比亚，一个便是法国的福禄特尔，同去瞧听一回。”（４）田汉（１８９８—１９６８）字寿昌，湖南长沙人，戏剧家，左翼戏剧家联盟领导人之一。他翻译的莎士比亚的《哈孟雷待》，《柔密欧与朱丽叶》两剧，分别于一九二二年、一九二四年由上海中华书局出版。<br/><br/>　　（５）见杜衡在《文艺风景》创刊号（一九三四年六月）发表的《莎剧凯撒传中所表现的群众》。参看本书《又是“莎士比亚”》。（６）拜服约翰生博士的教授指梁实秋，当时任青岛大学教授。他曾在北京《学文》月刊第一卷第二期（一九三四年五月）发表译文《莎士比亚论金钱》，是根据英国《Ａｄｅｌｐｈｉ》杂志一九三三年十月号登载的马克思《一八四四年经济学——哲学手稿》中的《货币》一段翻译的。约翰生（Ｓ．Ｊｏｈｎｓｏｎ，１７０９—１７８４），英国作家、文学批评家。梁实秋曾著《约翰生》一书（一九三四年一月出版），并多次推崇约翰生，如在《文艺批评论》一书中说他是“有眼光的哲学家”、“伟大的批评家”。马克斯“牛克斯”，是国民党政客吴稚晖谩骂马克思主义的话。<br/><br/>　　（７）施蛰存在《我与文言文》中说：“五年计划逐渐成功，革命时代的狂气逐渐消散，无产阶级逐渐沾染了资产阶级的‘余毒’，再回头来读读旧时代的文学作品，才知道它们也并不是完全没有意思的东西。于是，为了文饰以前的愚蠢的谬误起见，巧妙地想出了‘文学的遗产’这个名词来作为承认旧时代文学的‘理论的根据’。”（８）“《文选》与《庄子》”里寻“词汇”参看本卷第４５０页注（６）。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-536-6778.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-536-6780.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-536.html" action-type="chapterComment" class="comment"><i></i>花边文学章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

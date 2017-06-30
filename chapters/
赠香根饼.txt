@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《东莱五记》正文_赠香根饼_张炜作品 - 维普阅读网</title>
+<meta name="keywords" content="东莱五记,东莱五记原文,东莱五记阅读,赠香根饼全文,张炜作品" />
+<meta name="description" content="东莱五记原文阅读,赠香根饼全文在线阅读,张炜作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1353-24905.html";
+var nextpage="novel-read-1353-24907.html";
+var indexpage = "novel-chapter-1353.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1353.html">东莱五记</a></strong>
+<strong><a href="novel-chapter-1353.html">东莱五记目录</a></strong>
+<span>赠香根饼</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1353-24905.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>赠香根饼</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-23.html" target="blank">文学小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=张炜&amp;searchsubmit=yes"  target="_blank">张炜</a><span class="divide">|</span>发布时间：2015-05-06 22:40:23<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>从栖霞大山往北不出三百里，就到了黄县北部。这就是所谓的“金黄县”。这儿从丘陵直至平原，南北长二百里。古登州时期的海滩平原丛林茂密，野物纵横，只偶尔可见一点儿稀疏的小村落，基本上是莽野的模样。当时这里的荒林只有熟悉小径的猎人和采药师才敢进入，一般人都在边上转悠。一些荒诞不经的传说总是与这样的环境相联系，所以这一代的奇闻轶事多得不得了。关于动物精灵的故事更多，传统的狐狸和黄狼的传说，在这里得到了大面积的肯定，对它们的异能，几乎所有人都深信不疑。在一些村落，竟然出现了宗教崇拜方面的怪事：既信佛，又信狐仙。有的人家在后来天主教基督教传入时，还在笃信前二者的同时，增加了新的西教。直到三四十年前，还有人在丛林深处发现了一处“蚂蚱庙”。原来是因为蝗灾频仍，当地人实在畏惧，也就建起了这样一座庙宇，专门用来供奉蚂蚱的神灵。小如拇指的蚂蚱竟也能够成神，可见这片荒野的怪异有趣。这大概与更原始的万物有灵论相去不远。<br/>　　从县志上看，这一带基本上没有大面积的天灾，一些地震海啸之类大灾几乎没有发生。记载中，最严重的地震不过是摇塌了烟囱和颓墙，震源远在渤海湾深处。还有过一次大海潮，即现在说的大风暴潮，海水也不过浅浅漫过了不足五里。但由于蝗灾和旱灾，发生过几次饥馑也让人胆战心惊。这场饥馑一开始是从远处发生的，渐渐蔓延过来，最后抵达了平原地区。最初的日子就像京剧《锁麟囊》里演的，大户人家纷纷施以善举，开起了粥棚，救了不少像薛湘灵这样的人。但灾害时间一长，一点儿稀粥总归是解决不了问题的，更大的惨相也就显露出来了。饥饿如影随形的日子，在中国农村的记忆里是那么深刻。 <br/>　　现在的人也许会觉得奇怪，海边的人如果遇到了大饥荒，难道就不会往海上跑吗?大海里有取之不尽的资源，那里有营养丰富的海带海草，更有捕不完的鱼虾，海边上的人又怎么会活活饿死呢?这只是一种简单的推想。在当时的条件下，不要说鱼虾，就是树皮叶子都会剥下来的。饥饿让人失去了最起码的拼争能力，面对大自然的暴虐已经惊慌失措。再说水中捞生哪有那么容易，这不仅需要水上技能和体力，还需要工具。在短时间内集中起一大批船和网，这是不可能的。 <br/>　　《锁麟囊》中记载的那个薛湘灵沦落到了莱州，今天看是一次长长的流浪。因为从登州到莱州足足有三百里，这对一个饥寒交迫的弱女子来说是不短的一段路程。现在要说的故事正好反过来，是一个莱州的弱女子一路流浪过来，要到登州坐船投亲，躲避灾难。当时的莱州到登州沿海一带正逢百年不遇的饥荒，而这个女子一家都先后饿死了，只剩下她一个人。就像那个剧中的女子一样，她也是一个极其善良的人，在家境好的时候曾援助了许多贫民度过艰难，最后自己也走到了沦落他乡的境地。 <br/>　　这个女子原以为进入了富裕的登州，一切都会好起来，谁知一路上连一家粥棚都找不到。再加上灾区暴发了瘟疫，往往是整个村子都找不到一个人。她惊慌逃生，饥渴让她几次倒下又几次爬起。就这样跌跌撞撞往前赶，最后闯进海边荒原里来了。当年的荒原是莽林，是兽比人多的地方。<br/>　　她迷失在丛林中，不识东西南北，也辨不清海浪和林涛的声音。当时正是枯春时节，荒林里没有一点儿可吃的东西。她赤手空拳，只携了一个包袱，里面是捎给亲人的一双布鞋。就依靠一点儿微薄的希望，盼着能快些找到那个登州码头，这才没有倒地不起。就这样咬着牙往前走，直到失去最后的一丝力气。在倒地的一刻，她好像看见了前边的树隙里闪过一个苍白的屋顶。 <br/>　　那是一座林中茅屋，屋顶的茅草被雨雪洗白了。就像当年的薛湘灵得到了奇迹般的救助一样，她也被茅屋中的一位老人救下来了。这位老人一人独居，须发斑白，好像已经有一百岁了。但老人精神健旺，腿脚利索，坐在一旁看着她，手边是一本打开的书。她醒来后看到的就是这样一位老人，同时还闻到了满屋的香气。老人扶她起来，给她吃了些粥，让她慢慢恢复了一些力气。没等老人问起，她就哭诉了从莱州到登州这一路的惨状。白须老人一声不吭，只抬头看着窗外满地的枯树。 <br/>　　 女子在茅屋住了两天，第三天执意启程。她跪谢老人的救命之恩，一直不语的白须老人才摇头说：你走不出这片林子，从这里往东有一百二十里，你就是不迷路也不行啊。老人说着从炕头橱子中找出了几个大如鹅卵的糕饼，一捧出来，扑鼻的浓香让她泪水都涌出来了。她吃了一口，觉得满口满颊都是香的，这香气再进入肺腑。她一连吃了两个，再吃第三个，老人阻止了她。 <br/>　　老人为她备了一个兽皮水囊，又将十枚香饼装在一个粗布口袋里。老人一直将她送出很远，指点了路径，让她白天循海往东，入夜则找草窝眠下，睡前须点燃一种薰香：它只要燃起来，就不会有任何野物敢来侵犯。老人嘱咐说一定要按时安眠，只有这样才能走出这片荒野，并让她记住：一天顶多食上两枚香饼，这样即便五天赶到码头，食物也绰绰有余了。女子再一次跪谢，又问这香气特异的糕饼是什么做成的?老人告诉她，这是入冬以后采集的各种香甜的根茎，晒干后捣成粉，又经过几次蒸晒做成的，人食后可抵大饥馑，可壮筋骨长力气。 <br/>　　女子一路上每日只食两枚香饼，只觉得浑身都是力气，腿脚强健，只用了三天时间就走出了荒原，找到了登州码头。就这样她活了过来，得以与亲人团聚。后来她一次次讲述被搭救的经过，并将余下的一枚香根饼珍藏下来，一直传到了后人。所有听过这个故事的人，都认为那个林中老人其实是个神仙。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1353-24905.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1353-24907.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1353.html" action-type="chapterComment" class="comment"><i></i>东莱五记章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

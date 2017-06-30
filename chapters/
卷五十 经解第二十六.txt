@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《礼记正义》正文_卷五十 经解第二十六_郑玄作品 - 维普阅读网</title>
+<meta name="keywords" content="礼记正义,礼记正义原文,礼记正义阅读,卷五十 经解第二十六全文,郑玄作品" />
+<meta name="description" content="礼记正义原文阅读,卷五十 经解第二十六全文在线阅读,郑玄作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1017-10283.html";
+var nextpage="novel-read-1017-10285.html";
+var indexpage = "novel-chapter-1017.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1017.html">礼记正义</a></strong>
+<strong><a href="novel-chapter-1017.html">礼记正义目录</a></strong>
+<span>卷五十 经解第二十六</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1017-10283.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷五十 经解第二十六</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=郑玄&amp;searchsubmit=yes"  target="_blank">郑玄</a><span class="divide">|</span>发布时间：2014-11-26 20:11:24<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　陆曰：“郑云《经解》者，以其记六艺政教得失。解，音隹买反，徐胡卖反，一音蟹。<br/><br/>　　[疏]正义曰：案郑《目录》云：“名曰《经解》者，以其记六义政教之得失也，此於《别录》属《通论》。”<br/><br/>　<br/><br/>　　孔子曰：“入其国，其教可知也。观其风俗，则知其所以教。其为人也温柔敦厚，《诗》教也。疏通知远，《书》教也。广博易良，《乐》教也。絜静精微，《易》教也。恭俭庄敬，《礼》教也。属辞比事，《春秋》教也。属，犹合也。《春秋》多记诸侯朝聘、会同，有相接之辞。罪辩之事。○易良，以豉反，下“易良”同。属音烛，注及下同。比，毗志反，下同。朝聘，直遥反，篇内同。故《诗》之失愚，《书》之失诬，《乐》之失奢，《易》之失贼，《礼》之失烦，《春秋》之失乱。失，谓不能节其教者也。《诗》敦厚，近愚。《书》知远，近诬。《易》精微，爱恶相攻，远近相取，则不能容人，近於伤害。《春秋》习战争之事，近乱。○近愚，附近之近，下除“远近”一字并同。恶，乌路反。争，争斗之争，下文同。其为人也温柔敦厚而不愚，则深於《诗》者也。疏通知远而不诬，则深於《书》者也。广博易良而不奢，则深於《乐》者也。絜静精微而不贼，则深於《易》者也。恭俭庄敬而不烦，则深於《礼》者也。属辞比事而不乱，则深於《春秋》者也。”言深者，既能以教，又防其失。<br/><br/>　　[疏]“孔子”至“者也”。○正义曰：《经解》一篇总是孔子之言，记者录之以为《经解》者，皇氏云：“解者分析之名，此篇分析六经体教不同，故名曰《经解》也。六经其教虽异，总以礼为本，故记者录入於礼。”○“孔子曰：入其国，其教可知也”者，言人君以六经之道，各随其民教之，民从上教，各从六经之性观民风俗，则知其教，故云“其教可知也”。○“温柔敦厚，《诗》教也”者，温，谓颜色温润；柔，谓情性和柔。《诗》依违讽谏不指切事情，故云“温柔敦厚”，是《诗》教也。○“疏通知远，《书》教也”者，书录帝王言诰，举其大纲，事非繁密，是疏通上知帝皇之世，是知远也。○“广博易良，《乐》教也”者，《乐》以和通为体，无所不用，是广博简易良善，使人从化，是易良。○“絜静精微，《易》教也”者，《易》之於人，正则获吉，邪则获凶，不为淫滥，是絜静。穷理尽性，言入秋毫，是精微。○“恭俭庄敬，《礼》教也”者，《礼》以恭逊、节俭、齐庄敬慎为本，若人能恭敬节俭，是《礼》之教也。○“属辞比事，《春秋》教也”者，属，合也；比，近也。《春秋》聚合、会同之辞，是属辞，比次褒贬之事，是比事也。凡人君行此等六经之教，以化於下。在下染习其教，还有六经之性，故云《诗》教《书》教之等。○“故《诗》之失愚”者，《诗》主敦厚，若不节之，则失在於愚。○“《书》之失诬”者，《书》广知久远，若不节制，则失在於诬。○“《乐》之失奢”者，《乐》主广博和易，若不节制，则失在於奢。○“《易》之失贼”者，《易》主絜静严正，远近相取，爱恶相攻，若不节制，则失在於贼害。○“《礼》之失烦”者，《礼》主文物，恭俭庄敬，若不能节制，则失在於烦苛。○“《春秋》之失乱”者，《春秋》习战争之事，若不能节制，失在於乱。此皆谓人君用之教下，不能可否相济、节制合宜，所以致失也。○“其为人也温柔敦厚而不愚，则深於《诗》者也”，此一经以《诗》化民，虽用敦厚，能以义节之。欲使民虽敦厚，不至于愚，则是在上深达於《诗》之义理，能以《诗》教民也。故云“深於《诗》者”也。以下诸经，义皆放此。○注云“易精”至“之事”。○正义曰：“《易》精微”者，《易》理微密，相责褊切，不能含容。云“爱恶相攻”者，谓《易》卦六爻，或阴爻乘阳，或阳爻据阴，近而不得，是爱恶相攻也。云“远近相取”者，谓彼此有应，是远近相取也。或远而无应，近而不相得，是远近不相取也。云“则不能容人，近於伤害”者，若意合则虽远必相爱，若意离虽近必相恶，是不能容人不与己同，浪被伤害，是失於贼害也。云“《春秋》习战争之事”者，以《春秋》记诸侯相侵伐，又有斗争之辞。若僖二十八年，晋人执卫侯归之于京师；昭十三年平丘之会，子产争丞之类是也。故前注云《春秋》记罪辩之事也。然《诗》为《乐》章，《诗》、《乐》是一，而教别者，若以声音、干戚以教人，是《乐》教也；若以《诗》辞美刺、讽喻以教人，是《诗》教也。此为政以教民，故有六经。若教国子弟於庠序之内，则唯用四术。故《王制》云“《春秋》教以礼、乐，冬夏教以《诗》、《书》”是也。此六经者，惟论人君施化，能以此教民，民得从之，未能行之至极也。若盛明之君，为民之父母者，则能恩惠下极於民，则《诗》有好恶之情，礼有政治之体，乐有谐和性情，皆能与民至极，民同上情，故《孔子间居》云“志之所至，《诗》亦至焉。《诗》之所至，礼亦至焉。礼之所至，乐亦至焉”是也。其《书》、《易》、《春秋》，非是恩情相感、与民至极者，故《孔子闲居》无《书》、《易》及《春秋》也。<br/><br/>　<br/><br/>　　天子者，与天地参，故德配天地，兼利万物，与日月并明，明照四海而不遗微小。其在朝廷则道仁圣礼义之序，燕处则听《雅》、《颂》之音，行步则有环佩之声，升车则有鸾和之音。居处有礼，进退有度，百官得其宜，万事得其序。《诗》云：“淑人君子，其仪不忒。其仪不忒，正是四国。”此之谓也。道，犹言也。环佩，佩环、佩玉也，所以为行节也。《玉藻》曰：“进则揖之，退则扬之。然后玉锵鸣也。”环取其无穷止，玉则比德焉。孔子佩象环，五寸。人君之环，其制未闻也。鸾、和，皆铃也，所以为车行节也。《韩诗内传》曰：“鸾在衡，和在轼。前升车则马动，马动则鸾鸣，鸾鸣则和应。”居处，朝廷与燕也。进退，行步与升车也。○淑，常六反。忒，吐得反。鎗，七羊反，本又作锵。铃音零。轼音式。应，应对之应。发号出令而民说，谓之和。上下相亲，谓之仁。民不求其所欲而得之，谓之信。除去天地之害，谓之义。义与信，和与仁，霸王之器也。有治民之意而无其器，则不成。器，谓所操以作事者也。义、信和仁，皆存乎礼。○说音悦。去，羌吕反，下同。王，徐于况反。操，七刀反。<br/><br/>　　[疏]“天子”至“不成”。○正义曰：此一节盛明天子霸王，唯有礼为霸王之器，言礼之重也。○“与天地参”者，天覆地载，生养万物，天子亦能覆载生养之功，与天地相参齐等，故云“与天地参”。○“《诗》云：淑人君子，其仪不忒，其仪不忒，正是四国”者，此《诗·曹风·鸤鸠》之篇，剌上下不均平之诗，言善人君子用心均平，其威仪不有差忒，以其不差，故能正此四方之国。○“此之谓也”者，言《诗》之所云，正当此圣人有礼之谓也。“民不求其所欲而得之，谓之信”者，谓明君在上，周赡於下，民不须营求所欲之物，自然得之，是在上信实，恩能覆养故也。犹若《尚书传》称“民击壤而歌，凿井而饮，耕田而食，帝有何力”，是不求其所欲也。天不言而四时行，是信若四时，故云“谓之信”也。○“除去天地之害，谓之义”者，义，宜也。天地无害於物，有宜故为义。天地害者，谓水旱之等及疫疠之属，及天地之内有恶事害人，皆名天地之害也。○“霸王之器”者，器，谓人所操持以作事物者。欲为其事，必先利其器，言欲作霸王，必须义、信和仁，是霸王之器也。○注云“韩诗”至“轼前”。○正义曰：此鸾和所在，谓朝祀所乘之车，若田猎之车则鸾在镳也。故《诗·秦风》云“輶车鸾镳”，笺云“置鸾於镳，异於乘车”。是乘车鸾在衡也。然郑於《商颂》笺云“在轼曰和，在镳曰鸾”，彼亦乘车，鸾在镳，与《秦诗》笺不同者，郑於《秦诗》已解，故於《商颂》略而不言，或可以经无正文，郑为两说。<br/><br/>　<br/><br/>　　礼之於正国也，犹衡之於轻重也，绳墨之於曲直也，规矩之於方圜也，故衡诚县，不可欺以轻重。绳墨诚陈，不可欺以曲直。规矩诚设，不可欺以方圜。君子审礼，不可诬以奸诈。衡，称也。县，谓锤也。陈、设，谓弹画也。议，犹审也，或作成。○圜音圆。县音玄，与注同。称，尺证反。锤，直伪反。弹，徒丹反。画，胡麦反。是故隆礼由礼，谓之有方之士。不隆礼，不由礼，谓之无方之民。敬让之道也。故以奉宗庙则敬；以入朝廷则贵贱有位；以处室家则父子亲，兄弟和；以处乡里则长幼有序。孔子曰：“安上治民，莫善於礼。”此之谓也。隆礼，谓盛行礼也。方，犹道也。《春秋传》曰：“教之以义方。”<br/><br/>　　[疏]“礼之於正国也”至“治民莫善於礼，此之谓也”。○正义曰：此一节赞明礼事之重，治国之急。○“故衡诚县，不可欺以轻重”者，衡，谓称衡。县，谓称锤。诚，审也。若称衡详审县锤，则轻重必正，故云“不可欺以轻重”。○“绳墨诚陈，不可欺以曲直”，陈，谓陈列，若绳墨审能陈列，则曲直必当，故云“不可欺以曲直”。○“规矩诚设，不可欺以方圜”者，规，所以正圜；矩，所以正方；设谓置设。若规矩详审置设，则方圜必得，故云“不可欺以方圜”。○“君子审礼，不可诬以奸诈”，设譬既毕，故以此言结之。言君子之人，若能审详於礼，则奸诈自露，不可诬罔也。○“是故隆礼由礼，谓之有方之士”者，隆，盛也；由，行也；方，道也。若君子能隆盛行礼，则可谓有道之士也。反此则为无知之民，民是无知之称故也。○“敬让之道也”者，此言礼之为用，是敬让之道也。为下文而起。○“此之谓也”者，从篇首“孔子曰：入其国，其教可知也”至此“长幼有序”，事相连接，皆是孔子之辞，记者录之而为记。其理既尽，记者乃引孔子所作《孝经》之辞以结之，故云“此之谓也”。言孔子所云者，正此经之所谓也。○注“春秋”至“义方”。○正义曰：《春秋左氏》隐三年传文，卫庄公宠公子州吁，石碏谏云：“臣闻爱子，教之以义方，弗纳於邪。”引之者，证方为道也。<br/><br/>　<br/><br/>　　故朝觐之礼，所以明君臣之义也。聘问之礼，所以使诸侯相尊敬也。丧祭之礼，所以明臣子之恩也。乡饮酒之礼，所以明长幼之序也。昏姻之礼，所以明男女之别也。夫礼，禁乱之所由生，犹坊止水之所自来也。故以旧坊为无所用而坏之者，必有水败。以旧礼为无所用而去之者，必有乱患。春见曰朝，小聘曰问，其篇今亡。昏姻，谓嫁取也。婿曰昏，妻曰姻。自，亦由也。○觐，其靳反。长，丁丈反，下同。姻音因。别，彼列反。坊音房，本又作防，下同。坏音怪。见，贤遍反。取，七注反，本亦作娶。<br/><br/>　　[疏]“故朝”至“乱患”。○正义曰：此一经明礼之所用，各有所主，又明旧礼不可不用之意。但自此以下，上丞孔子曰“此之谓也”，以后则是记者广明安上治民之义，非复孔子之言也。○“夫礼，禁乱之所由生”者，由，从也。礼禁乱之所从生，乱生之处，则豫禁之。若深宫固门，阍寺守之；诸侯夫人父母没，不得归宁之类是也。○“犹坊止水之所自来也”，坊，谓堤坊，人筑堤坊，止约水之所从来之处，言若有汙下水来之处，则豫防障之。○“故以旧坊为无所用而坏之者，必有水败”者，譬言旧礼不可去也。坊以止水，忽有无知之人，谓旧坊为无所用而坏之，坊坏则水必来败於产业也。○“以旧礼为无所用而去之者，必有乱患”者，礼本坊乱，忽有愚人，谓旧礼为无所用而坏去之者，则必有乱患之事也。○注“婿曰昏，妻曰姻”。○正义曰：案《尔雅·释亲》云：“婿之父为姻，妇之父为婚。”此云“婿曰昏，妻曰姻”者，《尔雅》据男女父、母，此据男女之身。婿则昏时而迎，妇则因而随之，故云“婿曰昏，妻曰姻”。<br/><br/>　<br/><br/>　　故昏姻之礼废，则夫妇之道苦，而淫辟之罪多矣。乡饮酒之礼废，则长幼之序失，而争斗之狱繁矣。丧祭之礼废，则臣子之恩薄，而倍死忘生者众矣。聘觐之礼废，则君臣之位失，诸侯之行恶，而倍畔恰敝痢瓣之败起矣。苦，谓不至、不答之属。○辟，匹亦反。倍音佩，下同。行，下孟反。<br/><br/>　　[疏]“故昏姻”至“起矣”。○正义曰：此明礼诸事不可阙废，若其阙废，则祸乱兴也。○“而争斗之狱繁矣”者，以乡饮酒之礼，明上下长幼共相敬让。今若废而不行，则尊卑无序，故争斗之狱繁多矣。○“而倍死忘生者众矣”者，丧祭之礼，所以敦勖臣子恩情，使死者不见背违，生者恒相从念。若废不行，故臣子恩薄而死者见背，生者被遗忘。如此者多，故云“众矣”。○“而倍畔侵陵之败起”者，倍畔，谓据倍天子也。侵陵，谓侵陵邻国也。○注“苦谓”至“之属”。○正义曰：“不至”者，谓夫亲迎而女不至。若《诗·陈风》云：“昏以为期，明星煌煌。”注云：“女留他色，不肯时行。”序云“亲迎，女犹有不至者”是也。不答者，谓夫不答耦於妇，故《邶风》云“日月，卫庄姜伤已不见答於先君”是也。此经覆说前经，反明上事。但前经尊重者在前，卑轻者在后，故先朝觐，后昏姻也。又殊别君臣，故先朝觐，后聘问。下经所翻，则据人伦切急者在前，先昏姻，次以乡饮酒，乃至於聘觐也。聘觐合之者，以其聘觐礼废，则君臣位失，倍畔、侵陵，其恶相通，故合言之也。<br/><br/>　<br/><br/>　　故礼之教化也微，其止邪也於未形，使人日徙善远罪而不自知也，是以先王隆之也。《易》曰：“君子慎始，差若豪氂，缪以千里。”此之谓也。隆，谓尊盛之也。始，谓其微时也。○邪，似嗟反。远，于万反。差，初隹反，徐初宜反。豪，户刀反，依字作毫。氂，李其反，徐音来，本又作釐。缪音谬。<br/><br/>　　[疏]“故礼”至“谓也”。○正义曰：“故礼之教化也微”者，言礼之教人豫前，事微之时豫教化之，又教化之时，依微不甚指斥。○“其止邪也於未形”者，谓止人之邪，在於事未形著，是教化於事微者也，使人至之也。又使人日日徙善、远於罪恶而不自觉知。是教化依微，不甚指斥。为此之故，是以先世之王隆尚之也。○“《易》曰：君子慎始，差若豪氂，缪以千里，此之谓也”者，此《易·系辞》文也。言君子谨慎事之初始，差错若豪氂之小，至后广大错缪以至千里之大。引之者，证礼之防人在於未形著之前。若初时不防，则后致千里之缪，故云“此之谓也”。　</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1017-10283.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1017-10285.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1017.html" action-type="chapterComment" class="comment"><i></i>礼记正义章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

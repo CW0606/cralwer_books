@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《春赋》正文_春赋_庾信作品 - 维普阅读网</title>
+<meta name="keywords" content="春赋,春赋原文,春赋阅读,春赋全文,庾信作品" />
+<meta name="description" content="春赋原文阅读,春赋全文在线阅读,庾信作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-699.html";
+var nextpage="novel-chapter-699.html";
+var indexpage = "novel-chapter-699.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-699.html">春赋</a></strong>
+<strong><a href="novel-chapter-699.html">春赋目录</a></strong>
+<span>春赋</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-699.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>春赋</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=庾信&amp;searchsubmit=yes"  target="_blank">庾信</a><span class="divide">|</span>发布时间：2014-10-23 18:42:08<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　宜春苑中春已归，披香楼里作春衣。新年鸟声千种啭，二月杨花满路飞。河阳一县并是花，金谷从来满园树。一丛香草足碍人，数尺游丝即横路。开上林而竞入，拥河桥而争渡。<br/><br/>　　出丽华之金屋，下飞燕之兰宫。钗朵多而讶重，髻鬟高而畏风。眉将柳而争绿，面共桃而竞红。影来池里，花落衫中。<br/><br/>　　苔始绿而藏鱼，麦才青而覆雉。吹箫弄玉之台，鸣佩凌波之水。移戚里而家富，入新丰而酒美。石榴聊泛，蒲桃酦醅。芙蓉玉碗，莲子金杯。新芽竹笋，细核杨梅。绿珠捧琴至，文君送酒来。<br/><br/>　　玉管初调，鸣弦暂抚。《阳春》《绿水》之曲，对凤回鸾之舞。更炙笙簧，还移筝柱。月入歌扇，花承节鼓。协律都尉，射雉中郎。停车小苑，连骑长杨。金鞍始被，柘弓新张。拂鹿看马埒，分朋入射堂。马是天池之龙种，带乃荆山之玉梁。艳锦安天鹿，新绫织凤凰。<br/><br/>　　三日曲水向河津，日晚河边多解神。树下流杯客，沙头渡水人。镂薄窄衫袖，穿珠帖领巾。百丈山头日欲斜，三晡未醉莫还家。池中水影悬胜镜，屋里衣香不如花。<br/><br/>【解析】<br/><br/>　　文中描写统治阶级春游时的狂欢极乐，辞藻则备极绚丽，对仗亦工，充分表现了六朝的绮靡文风。宜春苑，秦汉时的苑名，即唐代的曲江，在今陕西省长安县南。披香殿，汉后宫有披香殿。啭（zhuan），鸟鸣。 杨花，即柳絮。 归，衣，飞，押韵。晋潘岳做河阳令，命于县中遍种桃树，春来满县都是桃花。 金谷，指晋石崇的金谷园。石崇《思归引序》：“遂肥遁（隐居）于河阳别业。其制宅也，却阻长堤，前临清渠，百木几于万株。”所以这里说“满园树”。游丝，春天虫类所吐的丝在空中飞扬，叫游丝。上林，秦旧苑，汉武帝加以扩大。故址在今陕西盩厔(ahou zhi)、鄠(hu)县界。河桥，在今河南孟县南，是晋杜预造的。树，路，渡，押韵。这段写春到人间。<br/>　　丽华，姓阴，东汉光武帝的皇后。《后汉书·光烈皇后传》：“初光武闻后美，叹曰：‘娶妻当得阴丽华。’”金屋，《汉武故事》载：武帝幼时，他的姑母馆陶长公主把他抱置膝上，问道：“儿欲得妇否？”后来又指阿娇，（长公主的女儿）说：“阿娇好否？”武帝笑着说：“好！若得阿娇作妇，当作金屋贮之也。”后因以“金屋”为藏所爱女子的地方。飞燕，姓赵，汉成帝的皇后，貌美，善歌舞。兰宫，赵飞燕女弟为昭仪（女官名），居昭阳舍，其舍兰房椒壁。这里用丽华、飞燕喻美人，是说美人们都离开华美的宫室而出游。钗朵，金钗做成花朵的形状。髻鬟，把发束在头顶叫髻，环形的髻叫鬟。这是说美人们极力装饰。将，等于说跟（介词）。柳，指柳叶。古代女子用黛（青黑色的颜料）画眉，所以说眉跟柳叶争绿。影，指美人的身影。宫，风，红，中，押韵。这段为宫庭中的美人们出游。<br/>　　弄玉，秦穆公的女儿。《列仙传》载：穆公将女儿弄玉嫁给善吹箫的萧史，萧史教弄玉吹箫作凤鸣。穆公又为他们筑凤凰台，让他们住在台上。从来萧史乘龙，弄玉乘凤，飞升而去。这里是说有楼台的美。佩，系在襟带上的玉石装饰品。鸣佩，佩上玉声锵锵，所以叫鸣佩。凌波，乘波。曹植《洛神赋》：“凌波微步，罗袜生尘。”这里是说有湖沼的美。戚里，西汉时皇家姻亲所住的地方。《汉书·石奋传》：“于是高祖召其（石奋）姊为美人，……徙其家长安中戚里。”新丰，汉高祖的父亲思念他的家乡丰邑，高祖于是仿照丰邑建立新丰（在今陕西临潼县东），把丰邑的屠户、卖酒、煮饼的商人都迁到新丰。新丰以美酒闻名天下。这里着重在赞扬家富酒美，并非实指戚里新丰。雉，水，美，押韵。石榴，指石榴酒。《南史·夷貊传》：“有顿逊国在海崎上，有酒树似安石榴，采其花汁，停瓮中，数日成酒。”聊，姑且。泛，同泛，指泛杯，即流杯。（参看下文“流杯”注）蒲桃，同葡萄。发醅（po pei）,酒再酿。这里是说有美酒。这是说用的是雕刻着荷花的玉碗金杯。绿珠，石崇的歌妓。文君，即卓文君，是卓王孙的女儿。卓王孙请司马相如饮宴，文君新寡，相如弹琴挑动她。夜里文君私奔相如，两人一同到临邛（今四川邛崃县），尽卖车骑，买酒舍，文君当垆（安置酒瓮的土墩子）卖酒。醅，杯，梅，来，押韵。这段主要是写春游时饮酒。<br/>　　玉管，用玉做的乐管。鸣弦，指琴。陶潜《闲情赋》：“仰睇天路，俯促鸣弦。” 阳春，古曲名。渌（lu）水，古诗名。对凤、回鸾，都是舞蹈的姿势。炙，烘烤。簧，笙管中的金属薄片。簧暖则声清，所以天寒时笙簧必须烘烤。《癸辛杂识》：“自十月旦至二月终，给焙笙炭五十斤，用锦薰笼藉笙于上，复以四和香薰之。” 筝，古乐器名。本十二弦，后为十三弦，柱高三寸。移柱可以变调改曲。 月入歌扇，这是说歌女们拿着团扇歌舞。班婕妤诗：“裁为合欢扇，团圆似明月。”花，指花萼，喻鼓架，因鼓架承鼓，好像花萼承花。节鼓，用以节乐的鼓。《唐书·音乐志》：“节鼓状如博局，中间圆孔适容其鼓，击之以节乐也。”抚，舞，柱，鼓，押韵。协律都尉，乐官名。汉武帝时，李延年做过协律都尉。射雉中郎，晋潘岳着有《射雉赋》，他又当过虎贲中郎将。苑，养禽兽的地方。长杨，汉宫名，在今陕西盩厔县东南。内有长杨榭，秋冬让武士搏射禽兽，皇帝在榭上观看。 始被（pi），等于说新披上。柘弓，用柘木作的弓。张，把弦安在弓上。 马埒（le），古时跑马的堤。大意是说：跑马时令人看见马埒上的飞尘，好像马尾在拂尘。庾肩吾《乐游苑应令》：“尘飞金埒满，叶破柳条空。” 分明，分成一对一对的。射堂，古代习射的地方。天池，倪璠注引《开山图》：“陇西神马山有泉，乃龙马所生。”天池即指神马山之泉。 荆山，在今湖北南漳县西，楚卞和得玉于此。玉梁，《北史·陈顺传》载：陈顺破赵青雀，魏文帝解所服金镂玉梁带赐给他。这是说玉梁带是用荆山之玉做成的。 锦、绫，都是丝织物。天鹿，兽名。凤皇，即凤凰。这是说那些人所穿的衣服都是用织有天鹿或凤凰等花纹的艳锦新绫制成的。郎，杨，张，堂，梁，皇，押韵。这段写贵族们歌舞骑射。<br/>　　三日，指三月三日。曲水，古代在三月三日就河边宴饮，并引水环曲成渠，流杯取乐，因称这种渠为曲水。河津，河边渡水处。解神，还愿谢神。流杯，三月三日人们聚会在环曲的水渠旁，在上流放置酒杯，任其顺流而下，停在谁的面前，谁就拿起杯水喝酒。镂薄，刻金薄（金箔）。《荆楚岁时记》：“一月七日为人日，以七种菜为羹。剪采为人，或镂金薄为人，以贴屏风，亦戴之头鬟。”衫，短袖的衣。穿珠，穿成串的珠子。帖，紧帖着的。领巾，妇人披巾一类的东西。从“镂薄”到“领巾”，是说妇女的四种装饰。津，神，人，巾，押韵。晡（bu），申时。三晡，申时将尽，即傍晚之时。悬胜，等于说远胜。斜，家，花，押韵。这段为三月三日的欢乐，不到天晚大醉不回家。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-699.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-699.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-699.html" action-type="chapterComment" class="comment"><i></i>春赋章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

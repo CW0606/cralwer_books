@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《春江花月夜》正文_春江花月夜_杨广作品 - 维普阅读网</title>
+<meta name="keywords" content="春江花月夜,春江花月夜原文,春江花月夜阅读,春江花月夜全文,杨广作品" />
+<meta name="description" content="春江花月夜原文阅读,春江花月夜全文在线阅读,杨广作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-960.html";
+var nextpage="novel-chapter-960.html";
+var indexpage = "novel-chapter-960.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-960.html">春江花月夜</a></strong>
+<strong><a href="novel-chapter-960.html">春江花月夜目录</a></strong>
+<span>春江花月夜</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-960.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>春江花月夜</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=杨广&amp;searchsubmit=yes"  target="_blank">杨广</a><span class="divide">|</span>发布时间：2014-11-16 18:57:26<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　（一）<br/><br/>　　暮江平不动，春花满正开。<br/><br/>　　流波将月去，潮水带星来。<br/><br/>　　（二）<br/><br/>　　夜露含花气，春潭漾月晖。<br/><br/>　　汉水逢游女，湘川值两妃。<br/><br/>【赏析】<br/>　　隋炀帝诗文在中国文学、诗歌史上占有重要地位。亡国之君，多被毁誉。他“好学，善属文”，并写得一手好诗。,被评价为“词无淫荡”，“并存雅体，归于典制”（《隋书·文学传序》）。其存诗中乐府显然是承袭梁陈诗风，较有名的有《春江花月夜》二首。<br/>　　凡读过诗文的人，几乎都知晓唐代张若虚写有名篇《春江花月夜》，但少有人知道隋世祖在张若虚之前早就写有《春江花月夜》。这诗题原为陈后主（叔宝）所创，是乐府《吴声歌曲》名，是陈后主所作艳曲之一，原词早已失传。隋世祖曾以此题作曲，内容看上去并无新意，其实颇有些刚健的佳句，讲究对仗和声韵和谐，雅味正声。且看他的《春江花月夜》其一：<br/>暮江平不动，春花满正开。<br/>流波将月去，潮水带星来。<br/>　　这是本题现存最早的两首之一。其后才有唐朝张若虚的同题诗《春江花月夜》。杨广此首借题生义，一扫艳媚。黄昏远眺长江岸，暮霭沉沉，江水浩淼。“平不动”是水波不兴。江面平坦宁静，江边春花如火，开得满满当当。他写春夜潮生，江水滔滔。“将月去”，“带星来”将水波激荡，月星交辉的情景写得极宏大，于写景的壮阔中写出了时间的流逝。寥寥四句诗，将春江花月夜收纳其间，绘出一幅江月胜景图。“流波将月去，潮水带星来”，缓缓读来，如欣赏清秋月夜之画，风致婉然。此句好在平实，一个“将”字，一个“带”字，都是比较虚的动词，不会破了月明星稀的安稳美感。<br/>　　如果把张若虚的《春江花月夜》与杨广的《春江花月夜》相比，可清楚地看出其描写春江花月夜景是受到本篇启示的。可以毫不夸张地说，杨广这首诗在描绘春江花月夜花开景色这方面，具有开先河之功，起了示范之用。诗中一个“满”字写出了花多无隙、簇簇挤挤之状。而“流波将月去，潮水带星来”，这佳句描绘了一个绝妙的江流扶明月，潮水拥星光的意境，给人以美的享受。而且启发了张若虚的灵感，在他的《春江花月夜》中脱化出：“海上明月”的优美诗句。“潮水”这一意象又启示张若虚在诗中开拓出一个极为阔大的春江意境。<br/>　　从杨广的《春江花月夜》，可以看出其诗歌风格是丽而不艳，柔而不淫，有正言之风，雅语之气。从他的现存另一首《夏日临江》亦可看出此风。<br/>夏潭荫修竹，高岸坐长枫。<br/>日落沧江静，云散远山空。<br/>鹭飞林外白，莲开水上红。<br/>逍遥有余兴，怅望情不终。<br/>　　这首描写夏日江边景观的五律，中间两联不仅工对严整，声韵和谐，而且意境优雅，耐人寻味。尾联抒发了作者观景的浓浓兴致及不尽的怅望之情。此诗可谓景美、意正、情浓、味雅，如同沈德潜在《古诗源》中的评价所说：“能作雅正语，比陈后主胜之”。<br/>　　杨广的诗风对后代诗人也产生了许多积极影响，他的诗中佳句，常成为后世诗人模仿之，甚至袭用之，如《诗》（本篇见载于《笔麈》，可能原有诗题）：“寒鸦飞数点，流水绕孤村。斜阳欲落处，一望黯消魂”。诗中的前3句，就被宋代著名词家秦观在名作《满庭芳》词中几乎完全袭用。如其中“斜阳外，寒鸦万点，流水绕孤村。”就是袭用的例子。元代著名词家马致远作有一首名词《天净沙·秋思》，其中的“枯藤老树昏鸦，小桥流水人家，古道西风瘦马。夕阳西下，断肠人在天涯。”亦是受上述杨广诗句的影响而化出的。<br/>　　张溥在《汉魏六朝百三家集题辞·隋炀帝集》中云：“陈隋文哀，帝王有作，与众同波”。南朝至隋，帝王诗中不作王霸之语，而与民间诗人同一风格，确是一种良好的风气。杨广诗风功不可没。隋炀帝虽在生活上是不被后人称道的帝王，但是在文学上确实正统的诗人。他诗中热爱扬州风光之情，赞颂扬州美景之功，当书之，当记之！</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-960.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-960.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-960.html" action-type="chapterComment" class="comment"><i></i>春江花月夜章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

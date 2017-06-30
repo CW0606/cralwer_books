@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孙子兵法》正文_军形篇_孙武作品 - 维普阅读网</title>
+<meta name="keywords" content="孙子兵法,孙子兵法原文,孙子兵法阅读,军形篇全文,孙武作品" />
+<meta name="description" content="孙子兵法原文阅读,军形篇全文在线阅读,孙武作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-56-1647.html";
+var nextpage="novel-read-56-1649.html";
+var indexpage = "novel-chapter-56.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-56.html">孙子兵法</a></strong>
+<strong><a href="novel-chapter-56.html">孙子兵法目录</a></strong>
+<span>军形篇</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-56-1647.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>军形篇</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=孙武&amp;searchsubmit=yes"  target="_blank">孙武</a><span class="divide">|</span>发布时间：2014-07-28 20:56:05<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/>　　孙子曰：昔之善战者，先为不可胜，以待敌之可胜。不可胜在己，可胜在敌。<br/>　　故善战者，能为不可胜，不能使敌之可胜。故曰：胜可知，而不可为。不可胜者，守也；可胜者，攻也。守则不足，攻则有余。善守者，藏于九地之下；善攻者，动于九天之上，故能自保而全胜也。<br/>　　见胜不过众人之所知，非善之善者也；战胜而天下曰善，非善之善者也。故举秋毫不为多力，见日月不为明目，闻雷霆不为聪耳。古之所谓善战者，胜于易胜者也。故善战者之胜也，无智名，无勇功，故其战胜不忒。不忒者，其所措必胜，胜已败者也。故善战者，立于不败之地，而不失敌之败也。是故胜兵先胜而后求战，败兵先战而后求胜。善用兵者，修道而保法，故能为胜败之政。<br/>　　兵法：一曰度，二曰量，三曰数，四曰称，五曰胜。地生度，度生量，量生数，数生称，称生胜。<br/>　　故胜兵若以镒称铢，败兵若以铢称镒。胜者之战民也，若决积水于千仞之谿者，形也。<br/><br/>译文：<br/>　　孙子说：以前善于用兵作战的人，总是首先创造自己不可战胜的条件，并等待可以战胜敌人的机会。使自己不被战胜，其主动权掌握在自己手中；敌人能否被战胜，在于敌人是否给我们以可乘之机。所以，善于作战的人只能够使自己不被战胜，而不能使敌人一定会被我军战胜。所以说，胜利可以预见，却不能强求。敌人无可乘之机，不能被战胜，且防守以待之；敌人有可乘之机，能够被战胜，则出奇攻而取之。防守是因为我方兵力不足，进攻是因为兵力超过对方。善于防守的，隐藏自己的兵力如同在深不可测的地下；善于进攻的部队就象从天而降，敌不及防。这样，才能保全自己而获得全胜。预见胜利不能超过平常人的见识，算不上最高明：交战而后取胜，即使天下都称赞，也不算上最高明。正如举起秋毫称不上力大，能看见日月算不上视力好，听见雷鸣算不上耳聪。古代所谓善于用兵的人，只是战胜了那些容易战胜的敌人。所以，真正善于用兵的人，没有智慧过人的名声，没有勇武盖世的战功，而他既能打胜仗又不出任何闪失，原因在于其谋划、措施能够保证，他所战胜的是已经注定失败的敌人。所以善于打战的人，不但使自己始终处于不被战胜的境地，也决不会放过任何可以击败敌人的机会。所以，打胜仗的军队总是在具备了必胜的条件之后才交战，而打败仗的部队总是先交战，在战争中企图侥幸取胜。善于用兵的人，潜心研究致胜之道，修明政治，坚持致胜的法制，所以能主宰胜败。<br/>　　兵法：一是度，即估算土地的面积，二是量，即推算物资资源的容量，三是数，即统计兵源的数量，四是称，即比较双方的军事综合实力，五是胜，即得出胜负的判断。土地面积的大小决定物力、人力资源的容量，资源的容量决定可投入部队的数目，部队的数目决定双方兵力的强弱，双方兵力的强弱得出胜负的概率。获胜的军队对于失败的一方就如同用“镒”来称“铢”，具有绝对优势优势，而失败的军队对于获胜的一方就如同用“铢”来称“镒”。胜利者一方打仗，就象积水从千仞高的山涧冲决而出，势不可挡，这就是军事实力的表现。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-56-1647.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-56-1649.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-56.html" action-type="chapterComment" class="comment"><i></i>孙子兵法章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

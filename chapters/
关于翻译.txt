@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《南腔北调集》正文_关于翻译_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="南腔北调集,南腔北调集原文,南腔北调集阅读,关于翻译全文,鲁迅作品" />
+<meta name="description" content="南腔北调集原文阅读,关于翻译全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-543-7082.html";
+var nextpage="novel-read-543-7084.html";
+var indexpage = "novel-chapter-543.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-543.html">南腔北调集</a></strong>
+<strong><a href="novel-chapter-543.html">南腔北调集目录</a></strong>
+<span>关于翻译</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-543-7082.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>关于翻译</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-01 20:24:49<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>今年是“国货年”，除“美麦”（２）外，有些洋气的都要被打倒了。四川虽然正在奉令剪掉路人的长衫，上海的一位慷慨家却因为讨厌洋服而记得了袍子和马褂。翻译也倒了运，得到一个笼统的头衔是“硬译”和“乱译”。但据我所见，这些“批评家”中，一面要求着“好的翻译”者，却一个也没有的。 <br/><br/>　　创作对于自己人，的确要比翻译切身，易解，然而一不小心，也容易发生“硬作”，“乱作”的毛病，而这毛病，却比翻译要坏得多。我们的文化落后，无可讳言，创作力当然也不及洋鬼子，作品的比较的薄弱，是势所必至的，而且又不能不时时取法于外国。所以翻译和创作，应该一同提倡，决不可压抑了一面，使创作成为一时的骄子，反因容纵而脆弱起来。我还记得先前有一个排货的年头，国货家贩了外国的牙粉，摇松了两瓶，装作三瓶，贴上商标，算是国货，而购买者却多损失了三分之一；还有一种痱子药水，模样和洋货完全相同，价钱却便宜一半，然而它有一个大缺点，是搽了之后，毫无功效，于是购买者便完全损失了。 <br/><br/>　　注重翻译，以作借镜，其实也就是催进和鼓励着创作。但几年以前，就有了攻击“硬译”的“批评家”，搔不他旧疮疤上的末屑，少得像膏药上的麝香一样，因为少，就自以为是奇珍。而这风气竟传布开来了，许多新起的论者，今年都在开始轻薄着贩来的洋货。比起武人的大买飞机，市民的拚命捐款来，所谓“文人”也者，真是多么昏庸的人物呵。 <br/><br/>　　我要求中国有许多好的翻译家，倘不能，就支持着“硬译”。理由还在中国有许多读者层，有着并不全是骗人的东西，也许总有人会多少吸收一点，比一张空盘较为有益。而且我自己是向来感谢着翻译的，例如关于萧的毁誉和现在正在提起的题材的积极性的问题（３），在洋货里，是早有了明确的解答的。关于前者，德国的尉特甫格（ＫａｒｌＷｉｔｔｖｏｇｅｌ）（４）在《萧伯纳是丑角》里说过——“至于说到萧氏是否有意于无产阶级的革命，这并不是一个重要的问题。十八世纪的法国大哲学家们，也并不希望法国的大革命。虽然如此，然而他们都是引导着必至的社会变更的那种精神崩溃的重要势力。”（刘大杰译，《萧伯纳在上海》所载。） <br/><br/>　　关于后者，则恩格勒在给明那·考茨基（ＭｉｎｎａＫａｕｔｓｋｙ，就是现存的考茨基的母亲）（５）的信里，已有极明确的指示，对于现在的中国，也是很有意义的——“还有，在今日似的条件之下，小说是大抵对于布尔乔亚层的读者的，所以，由我看来，只要正直地叙述出现实的相互关系，毁坏了罩在那上面的作伪的幻影，使布尔乔亚世界的乐观主义动摇，使对于现存秩序的永远的支配起疑，则社会主义的倾向的文学，也就十足地尽了它的使命了——即使作者在这时并未提出什么特定的解决，或者有时连作者站在那一边也不很明白。”（６）（日本上田进原译，《思想》百三十四号所载。） <br/><br/>　　八月二日。 <br/><br/>　　==========================================================================<br/><br/><br/>　　（１）本篇最初发表于一九三三年九月一日《现代》第三卷第五期。 <br/><br/>　　（２）“美麦”一九三三年五月，国民党政府为了进行反共反人民的内战，由财政部长宋子文和美国复兴金融公司，在华盛顿签订了“棉麦借款”合同，规定借款五千万美元，其中五分之一购买美麦，五分之四购买美棉。 <br/><br/>　　（３）关于题材的积极性问题，当时曾有过讨论，一九三三年八月《文学》第一卷第二号“社谈”栏《文坛往何处去》一文就曾谈到：“其次是‘题材积极性’的问题。现在很有些人以为描写小资产阶级生活的题材便没有‘积极性’，必须写工农大众的生活，这才是题材有积极性；又以为仅仅描写大众的生活痛苦或是仅仅描写了他们怎样被剥削被压迫，也就不能说有积极性，必须写他们斗争才好，而且须写斗争得胜。究竟所谓‘题材的积极性’是否应当这样去理解呢，抑或别有理论？这也是当前问题的一个，亟待发展讨论，俾创作者可资参考。”（４）尉特甫格（１８９６—？）德国作家，一九三三年迁居美国。他是中国问题研究者，著有《觉醒的中国》、《中国经济研究》以及与人合著的《中国社会史——辽史》等。 <br/><br/>　　（５）恩格勒即恩格斯。明那·考茨基（１８３７—１９１２），通译敏娜·考茨基，德国社会民主党人，女作家，著有小说《格里兰霍夫的斯蒂凡》等。 <br/><br/>　　（６）这里所引恩格斯的话，现译为：“此外，在当前条件下，小说主要是面向资产阶级圈子里的读者，即不直接属于我们的人的那个圈子里的读者，因此，如果一部具有社会主义倾向的小说通过对现实关系的真实描写，来打破关于这些关系的流行的传统幻想，动摇资产阶级世界的乐观主义，不可避免地引起对于现存事物的永世长存的怀疑，那末，即使作者没有直接提出任何解决办法，甚至作者有时并没有明确地表明自己的立场，但我认为这部小说也完全完成了自己的使命。”（《马克思恩格斯全集》第三十六卷第三八五页，一九七四年十月人民出版社出版）。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-543-7082.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-543-7084.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-543.html" action-type="chapterComment" class="comment"><i></i>南腔北调集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

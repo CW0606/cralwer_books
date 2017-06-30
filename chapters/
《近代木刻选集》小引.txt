@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《集外集拾遗》正文_《近代木刻选集》小引_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="集外集拾遗,集外集拾遗原文,集外集拾遗阅读,《近代木刻选集》小引全文,鲁迅作品" />
+<meta name="description" content="集外集拾遗原文阅读,《近代木刻选集》小引全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-541-6967.html";
+var nextpage="novel-read-541-6969.html";
+var indexpage = "novel-chapter-541.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-541.html">集外集拾遗</a></strong>
+<strong><a href="novel-chapter-541.html">集外集拾遗目录</a></strong>
+<span>《近代木刻选集》小引</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-541-6967.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>《近代木刻选集》小引</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-30 19:42:56<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>中国古人所发明，而现在用以做爆竹和看风水的火药和指南针，传到欧洲，他们就应用在枪炮和航海上，给本师吃了许多亏。还有一件小公案，因为没有害，倒几乎忘却了。那便是木刻。 <br/><br/>　　虽然还没有十分的确证，但欧洲的木刻，已经很有几个人都说是从中国学去的，其时是十四世纪初，即一三二○年顷。那先驱者，大约是印着极粗的木版图画的纸牌；这类纸牌，我们至今在乡下还可看见。然而这博徒的道具，却走进欧洲大陆，成了他们文明的利器的印刷术的祖师了。 <br/><br/>　　木版画恐怕也是这样传去的；十五世纪初德国已有木版的圣母像，原画尚存比利时的勃吕舍勒（２）博物馆中，但至今还未发见过更早的印本。十六世纪初，是木刻的大家调垒尔（Ａ．Ｄüｒｅｒ）（３）和荷勒巴因（Ｈ．Ｈｏｌｂｅｉｎ）（４）出现了，而调垒尔尤有名，后世几乎将他当作木版画的始祖。到十七八世纪，都沿着他们的波流。 <br/><br/>　　木版画之用，单幅而外，是作书籍的插图。然则巧致的铜版图术一兴，这就突然中衰，也正是必然之势。惟英国输入铜版术较晚，还在保存旧法，且视此为义务和光荣。一七七一年，以初用木口雕刻（５），即所谓“白线雕版法”而出现的，是毕维克（Ｔｈ．Ｂｅｗｉｃｋ）（５）。这新法进入欧洲大陆，又成了木刻复兴的动机。<br/><br/>　　但精巧的雕镌，后又渐偏于别种版式的模仿，如拟水彩画，蚀铜版，网铜版等，或则将照相移在木面上，再加绣雕，技术固然极精熟了，但已成为复制底木版。至十九世纪中叶，遂大转变，而创作底木刻兴。 <br/><br/>　　所谓创作底木刻者，不模仿，不复刻，作者捏刀向木，直刻下去。——记得宋人，大约是苏东坡罢，有请人画梅诗，有句云：“我有一匹好东绢，请君放笔为直干！”（７）这放刀直干，便是创作底版画首先所必须，和绘画的不同，就在以刀代笔，以木代纸或布。中国的刻图，虽是所谓“绣梓”，也早已望尘莫及，那精神，惟以铁笔刻石章者，仿佛近之。 <br/><br/>　　因为是创作底，所以风韵技巧，因人不同，已和复制木刻离开，成了纯正的艺术，现今的画家，几乎是大半要试作的了。 <br/><br/>　　在这里所绍介的，便都是现今作家的作品；但只这几枚，还不足以见种种的作风，倘为事情所许，我们逐渐来输运罢。 <br/><br/>　　木刻的回国，想来决不至于象别两样的给本师吃苦的。一九二九年一月二十日，鲁迅记于上海。 <br/><br/><br/><br/>　　（１）本篇最初发表于一九二九年一月二十四日上海《朝花》周刊第八期，并同时印入《近代木刻选集》（１）。《近代木刻选集》（１），朝花社编印的美术丛刊《艺苑朝华》的第一期第一辑。内收英、法等国版画十二幅，一九二九年一月出版。 <br/><br/>　　（２）勃吕舍勒通译布鲁塞尔，比利时首都。<br/>　　（３）调垒尔（１４７１—１５２８）通译丢勒。德国油画家、版画家、雕塑家和建筑师。作品有木刻组画《启示录》、油画《四圣图》等。<br/>　　（４）荷勒巴因（１４９７—１５４３）通译贺尔拜因。德国肖像画家、版画家。作品有版画《死神舞》、肖像画《英王亨利八世像》等。<br/>　　（５）木口雕刻木刻版画的一种。用坚硬的木材的横断面雕刻，特点是精确、细致。 <br/><br/>　　（６）毕维克（１７５３—１８２８）英国版画家。作品有《不列颠鸟类史》并插图、《伊索寓言》插图等。 <br/><br/>　　（７）“我有一匹好东绢，请君放笔为直干”这是唐代杜甫的诗句。参看本书《〈近代木刻选集〉（２）小引》及其注（８）。《近代木刻选集》（１）附记（１）本集中的十二幅木刻，都是从英国的《ＴｈｅＢｏｏｋｍａｎ》，《ＴｈｅＳｔｕｄｉｏ》，《ＴｈｅＷｏｏｄ－ｃｕｔｏｆＴｏ－ｄａｙ》（ＥｄｉｔｅｄｂｙＧ．Ｈｏｌｍｅ）（２）中选取的，这里也一并摘录几句解说。惠勃（Ｃ．Ｃ．Ｗｅｂｂ）是英国现代著名的艺术家，从一九二二年以来，都在毕明翰（３）（Ｂｉｒｍｉｎｇｈａｍ）中央学校教授美术。第一幅《高架桥》是圆满的大图画，用一种独创的方法所刻，几乎可以数出他雕刻的笔数来。统观全体，则是精美的发光的白色标记，在一方纯净的黑色地子上。《农家的后园》，刀法也多相同。《金鱼》更可以见惠勃的作风，新近在Ｓｔｕｄｉｏ上，曾大为ＧｅｏｒｇｅＳｈｅｒｉｎｇｈａｍ（４）所称许。司提芬·蓬（ＳｔｅｐｈｅｎＢｏｎｅ）的一幅，是ＧｅｏｒｇｅＢｏｕｒｎ５*《ＡＦａｒｍｅｒ’ｓＬｉｆｅ》（５）的插图之一。论者谓英国南部诸州的木刻家无出作者之右，散文得此，而妙想愈明云。达格力秀（Ｅ．ＦｉｔｃｈＤａｇｌｉｓｈ）是伦敦动物学会会员，木刻也有名，尤宜于作动植物书中的插画，能显示最严正的自然主义和纤巧敏慧的装饰的感情。《田凫》是Ｅ．Ｍ．Ｎｉｃｈｏｌｓｏｎ的《ＢｉｒｄｓｉｎＥｎｇｌａｎｄ》（６）中插画之一；《淡水鲈鱼》是ＩｚａａｋＷａｌｔｏｎａｎｄＣｈａｒｌｅｓＣｏｔｔｏｎ的《ＴｈｅＣｏｍｐｌｅａｔｅＡｎｇｌｅｒ》（７）中的。观这两幅，便可知木刻术怎样有裨于科学了。 <br/><br/>　　哈曼·普耳（ＨｅｒｍａｎＰａｕｌ），法国人，原是作石版画的：蟾哪究蹋�笥*转通俗（Ｐｏｐｕｌａｒ）画。曾说“艺术是一种不断的解放”，于是便简单化了。本集中的两幅，已很可窥见他后来的作风。前一幅是Ｒａｂｅｌａｉｓ（８）著书中的插画，正当大雨时；后一幅是装饰Ａｎｄｒｅ′Ｍａｒｔｙ（９）的诗集《ＬａＤｏｃｔｒｉｎｅｄｅｓＰｒｅｎｘ》（《勇士的教义》）的，那诗的大意是——看残废的身体和面部的机轮，染毒的疮疤红了面容，少有勇气与丑陋的人们，传闻以千辛万苦获得了好的名声。（１０）迪绥尔多黎（ＢｅｎｖｅｎｕｔｏＤｉｓｅｒｔｏｒｉ），意大利人，是多才的艺术家，善于刻石，蚀铜，但木刻更为他的特色。《ＬａＭｕｓａｄｅｌＬｏｒｅｔｏ》（１１）是一幅具有律动的图象，那印象之自然，就如本来在木上所创生的一般。 <br/><br/>　　麦格努斯·拉该兰支（Ｓ．Ｍａｇｎｕｓ－Ｌａｇｅｒｃｒａｎｚ）夫人嗜鸬涞牡窨*家，尤其擅长花卉。她的最重要的工作，是一册瑞典诗人Ａｔｔｅｒｂｏｍ（１２）的诗集《群芳》的插图。富耳斯（Ｃ．Ｂ．Ｆａｌｌｓ）在美国，有最为多才的艺术家之称。他于诸艺术无不尝试，而又无不成功。集中的《岛上的庙》，是他自己选出的得意的作品。 <br/><br/>　　华惠克（ＥｄｗａｒｄＷｏｒｗｉｃｋ）也是美国的木刻家。《会见》是装饰与想像的版画，含有强烈的中古风味的。书面和首叶的两种小品，是法国画家拉图（ＡｌｆｒｅｄＬａ－ｔｏｕｒ）之作，自《ＴｈｅＷｏｏｄ－ｃｕｔｏｆＴｏ－ｄａｙ》中取来，目录上未列，附记于此。 <br/><br/><br/><br/>　　（１）本篇最初印入一九二九年一月出版的《近代木刻选集》（１）。 <br/><br/>　　（２）《ＴｈｅＢｏｏｋｍａｎ》《文人》。英国文艺新闻杂志，一八九一年创刊于伦敦，一九三四年停刊。《ＴｈｅＳｔｕｄｉｏ》，《画室》。英国美术杂志，乔弗莱·霍姆主编，一八九三年创刊于伦敦，一八九七年停刊叮裕瑁濉。祝铮铮洌*ｃｕｔｏｆＴｏ－ｄａｙ》（ＥｄｉｔｅｄｂｙＧ．Ｈｏｌｍｅ），《当代木刻》（霍姆编）。此书全名为《ＴｈｅＷｏｏｄ－ｃｕｔｏｆＴｏ－ｄａｙａｔＨｏｍｅａｎｄＡｂｒｏ－ａｄ》（《当代国内外木刻》），一九二七年英国伦敦摄影有限公司出版。 <br/><br/>　　（３）毕明翰通译伯明翰，英国中部城市。 <br/><br/>　　（４）ＧｅｏｒｇｅＳｈｅｒｉｎｇｈａｍ乔治·希赖因汉，英国插图画家、*台美术家。 <br/><br/>　　（５）ＧｅｏｒｇｅＢｏｕｒｎｅ的《ＡＦａｒｍｅｒｓＬｉｆｅ》乔治·勃恩怠兑桓雠┓虻纳�睢贰Ｇ侵蝕勃恩（１７８０—１８４５），美国作家玻丁场。*．Ｍ．Ｎｉｃｈｏｌｓｏｎ的《ＢｉｒｄｓｉｎＥｎｇｌａｎｄ》尼科尔森的《英格兰的鸟》。尼科尔森，英国生物学家、作家。<br/>　　（７）ＩｚａａｋＷａｌｔｏｎａｎｄＣｈａｒｌｅｓＣｏｔｔｏｎ的《ＴｈｅＣｏｍｐｌｅａｔＡｎｇｌｅｒ》艾萨克·沃尔顿和查理·柯顿的《钓鱼大全》。沃尔顿（１５９３—１６８３）和柯顿（１６３０—１６８７），都是文艺复兴时期英国作家。<br/>　　（８）Ｒａｂｅｌａｉｓ拉伯雷（约１４９４—１５５３），文艺复兴时期法国作家。著有《巨人传》等。 <br/><br/>　　（９）Ａｎｄｒｅ′Ｍａｒｔｙ安德烈·马尔蒂，法国诗人玻保啊场≌饫锼*引的四行诗应译为：“怯懦的卑劣的人们啊！当你们看见那瘫痪的身体和半截的面具；还有那因伤口感染而发红了的脸颊，你们就会知道历尽千辛万苦才获得好名誉。”（１１）《ＬａＭｕｓａｄｅｌＬｏｒｅｔｏ》《洛勒托的文艺女神》。（１２）Ａｔｔｅｒｂｏｍ阿特包姆（１７９０—１８５５），瑞典作家、哲学家。 <br/><br/>　　著有《瑞典文学史》、《花》（即《群芳》）等。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-541-6967.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-541-6969.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-541.html" action-type="chapterComment" class="comment"><i></i>集外集拾遗章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

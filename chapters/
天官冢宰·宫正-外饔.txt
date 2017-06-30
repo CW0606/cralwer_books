@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《周礼》正文_天官冢宰·宫正/外饔_周公旦作品 - 维普阅读网</title>
+<meta name="keywords" content="周礼,周礼原文,周礼阅读,天官冢宰·宫正/外饔全文,周公旦作品" />
+<meta name="description" content="周礼原文阅读,天官冢宰·宫正/外饔全文在线阅读,周公旦作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-34-812.html";
+var nextpage="novel-read-34-814.html";
+var indexpage = "novel-chapter-34.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-34.html">周礼</a></strong>
+<strong><a href="novel-chapter-34.html">周礼目录</a></strong>
+<span>天官冢宰·宫正/外饔</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-34-812.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>天官冢宰·宫正/外饔</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=周公旦&amp;searchsubmit=yes"  target="_blank">周公旦</a><span class="divide">|</span>发布时间：2014-07-20 16:41:06<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/>　　宫正掌王宫之戒令纠禁，以时比宫中之官府、次舍之众寡，为之版以待。夕击柝而比之，国有故则令宿。其比，亦如之。辨外、内而时禁，稽其功绪，纠其德行，几其出入，均其稍食，去其淫怠，与其奇衮之民，会其什伍而教之道艺。月终，则会其稍食。岁终，则会其行事，凡邦之大事，令于王宫之官府、次舍，无去守而听政令。春秋以木铎修火禁。凡邦之事，跸、宫中、庙中、则执烛。大丧，则授庐舍、辨其亲疏贵贱之居。<br/><br/>　　宫伯掌王宫之士、庶子凡在版者，掌其政令，行其秩叙，作其徒役之事，授八次、八舍之职事。若邦有大事作宫众，则令之。月终，则均秩。岁终，则均叙。以时颁其衣裘，掌其诛赏。<br/><br/>　　膳夫掌王之食饮、膳羞，以养王及后、世子。凡王之馈，食用六谷，膳用六牲，饮用六清，羞用百有二十品，珍用八物，酱用百有二十瓮。王日一举，鼎十有二物，皆有俎，以乐侑食。膳夫授祭，品尝食，王乃食。卒食，以乐彻于造。王齐，日三举。大丧，则不举。大荒，则不举。大札，则不举。天地有灾，则不举。邦有大故，则不举。王燕食，则奉膳，赞祭。凡王祭祀、宾客食，则彻王之胙俎。凡王之稍事，设荐脯醢。王燕饮酒，则为献主。掌后及世之膳羞，凡肉修之颁赐，皆掌之。凡祭祀之致福者，受而膳之。以挚见者，亦如之。岁终则会，唯王及后、世子之膳不会。<br/><br/>　　庖人掌共六畜、六兽、六禽，辨其名物。凡其死生鲜薨之物，以共王之膳，与其荐羞之物，及后世子之膳羞。共祭祀之好羞，共丧纪之庶羞，宾客之禽献。凡令禽献，以法授之。其出入，亦如之。凡用禽献：春行羔豚，膳膏香；夏行腒鱐，膳膏臊；秋行犊麛，膳膏腥；冬行鲜羽，膳膏膻。岁终，则会，唯王及后之膳禽不会。<br/><br/>　　内饔掌王及后、世子膳羞之割、烹、煎、和之事。辨体名肉物，辨百品味之物。王举，则陈其鼎俎，以牲体实之，选百羞、酱物、珍物，以俟馈。共后及世子之膳羞。辨腥、臊、膻、香之不可食者。牛夜鸣则庮，羊泠毛而毳膻，犬赤股而躁臊，乌□廌色而沙鸣狸，豕盲□而交睫腥，马黑脊而般臂蝼。凡宗庙之祭祀，掌割亨之事；凡燕饮食，亦如之。凡掌共羞、修、刑、膴、胖、骨、鱐，以待共膳。凡王之好赐肉修，则饔人共之。<br/><br/>　　外饔掌外祭祀之割亨。共其脯、修、刑、膴。陈其鼎俎实之牲体、鱼腊。凡宾客之飧饔、饔食之事，亦如之。邦飨耆老、孤子，则掌其割亨之事。飨士、庶子，亦如之。师役，则掌共其献赐脯肉之事。凡小丧纪，陈其鼎俎而实之。<br/><br/>译文：<br/>　　宫正掌管王宫中的戒令、纠察违反禁令的人。白天按时检查宫中大小官府人员的多少，记载在木版上以待考核。黄昏时敲击木梆而检查值班人员。王国有非常事故就命令宿卫王宫，对这些宿卫者也像平常一样进行检查。辨别宫外、宫内的人而禁止他们不在规定的时问出入。考察宫中官吏的功业，纠察他们的德行，检查他们的出入，合理发给他们食粮。摈弃那些放纵、懈怠的官吏，以及[官吏家属中]那些诡异、邪恶的人。按照什伍编制[把宫中官吏的子弟]组合起来，教他们礼乐射御书数。月底合计宫中官吏的报酬，年终总结宫中官吏的任职情况。凡王国有大事，就命令王宫中大小官府[的人员]，不要擅离职守而听从命令。春秋时节，摇动木铎[告诫宫中]严格遵守有关用火的禁令。凡王国有祭祀，在[隶仆]禁止宫中、庙中通行时，就拿火把[为王照明]。王丧，负责安排居丧的庐舍，要分别亲疏贵贱来安排居丧处所。<br/><br/>　　宫伯负责掌管王宫中的士和庶子，凡是列在名籍上的。掌管有关他们的政令，安排他们宿卫的先后次序，组织他们[供太子]役使，还有负责分配他们[宿卫时的]八次和[休息时的]八舍的职责。如果王国有大事要发动宫中众人，就负责召集士、庶子。月底调整[士、庶子]宿卫的次序，年终调整[士、庶子]轮值的先后。按时颁发给他们夏衣和冬衣。掌管对他们的奖惩。<br/><br/>　　膳夫掌管王的饭食、饮料、牲肉、美味，以供养王、王后和太子。凡馈送王的饮食，饭用六种谷物做成，牲肉用六种牲，饮料用六种清饮料，美味用一百二十种，珍肴用八种，酱用一百二十瓮。王[用膳]每天一杀牲，陈列十二鼎，鼎中牲肉[取出后]都有俎盛着进上。用音乐助王进食。[食前]膳夫把当行祭礼的食物授给王，并先为王品赏食物，然后王才吃。食毕，用音乐伴奏把食器彻回原处。王斋戒期间，每日三餐都杀牲。有大丧不杀牲，有大灾荒不杀牲，瘟疫流行不杀牲，天地出现灾异不杀牲，王国有大的军事行动不杀牲。王进午餐和晚餐时，就为王奉进牲肉，并帮助王行食前祭礼。凡王举行祭祀，或款待宾客酒食，[礼毕]就彻下王的胙俎。凡王因小事而饮酒，就为王进设脯醢。王[与臣下]燕饮酒时，就代王为主人[向臣下]献酒。掌管供给王后和太子的牲肉及美味。凡王用牲肉和股惰颁赐[群臣的事]，都由膳夫掌管。凡[群臣]祭祀而将祭肉馈送给王的，就接受而用作王的肴馔。[对于臣下]拿着挚来见王的，也这样做。[夏历]年终就做结算，只有供给王、王后和太子的膳食不结算。<br/><br/>　　庖人掌管供应六畜、六兽、六禽，辨别它们的名号和毛色。凡是那些死的、活的、鲜的、干的畜禽及兽肉，用以作为供奉给王的牲肉，和进献给王的美味，以及供奉王后与太子的牲肉和美味。供给祭祀所用的四时珍美之物。供给丧事所用各种美味，以及款待宾客所用的禽兽肉。凡命令[兽人]进献禽兽，把所应献禽兽的数目交给他。庖人接受兽人所献入的禽兽以及向宾客献出禽兽也按规定的数目进行。凡用禽兽肉进献[给王]，春季用羊羔肉和小猪肉，用有香味的牛膏脂煎和；夏季用干野鸡肉和干鱼，用有臊味的狗膏脂煎和；秋季用牛犊肉和小兽肉，用有腥味的鸡膏脂煎和；冬季用鲜鱼和鹅肉，用有逭味的羊膏脂煎和。到[夏历]年终就做结算，只有供给王和王后的禽兽不结算。<br/><br/>　　内饔掌管供给王及王后、太子的牲肉和美味的宰割、烹煮、煎熬以及调味的事‘，辨别牲体和脏腑的名称，辨别各种美味的名称。王杀牲，就负责陈列鼎和俎，并负责将牲体盛在鼎中和俎上。选择各种美味、酱类和珍肴，以待[膳夫]馈送[给王]。供给王后及太子牲肉和美味。辨别鸡、犬、羊、牛等牲中不可食用的。牛如果夜鸣，它的肉就恶臭。羊如果毛长而又打结，它的肉就擅。狗如果后腿内侧无毛而又奔跑急躁，它的肉就臊。鸟的毛色失去光泽而又鸣声嘶哑，它的肉就腐臭。猪如果作远视貌而睫毛相交，它的肉中就生有囊虫。马脊作黑色而前胫有杂斑，它的肉就作蝼蛄臭。凡宗庙祭祀，掌管宰割、烹煮的事，凡[王、王后及太子]行燕饮酒礼或用午餐、晚餐时也这样。预备各种美味、股惰、铡羹、大肉片、不干的咸肉、牲体、干鱼等，以待供[王、王后和太子]膳食所用。凡王喜欢[某臣]而赐予牲肉和股惰，就由内饔供给他。<br/><br/>　　外饔掌管外祭祀[所用牲]的宰割和烹煮，供给祭祀所需的脯、股惰、铡羹、大肉片，陈列鼎和俎，并把牲体、鱼、于兽肉等盛入鼎中和俎上。凡为宾客设便宴、馈饔饩、举行飨礼和食礼的事，也这样做。王国用飨礼款待老人和孤子，就掌管[所用牲的]宰割和烹煮的事。用飨礼款待士和庶子时，也这样做。出师征伐及巡守、田猎，就掌管供给[王]向将帅献酒或赏赐时所需脯和牲肉的事。凡小丧事，就负责陈列鼎、俎并盛入所需牲肉。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-34-812.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-34-814.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-34.html" action-type="chapterComment" class="comment"><i></i>周礼章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

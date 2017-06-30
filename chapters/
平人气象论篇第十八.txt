@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《素问》正文_平人气象论篇第十八_黄帝作品 - 维普阅读网</title>
+<meta name="keywords" content="素问,素问原文,素问阅读,平人气象论篇第十八全文,黄帝作品" />
+<meta name="description" content="素问原文阅读,平人气象论篇第十八全文在线阅读,黄帝作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-269-4599.html";
+var nextpage="novel-read-269-4601.html";
+var indexpage = "novel-chapter-269.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-269.html">素问</a></strong>
+<strong><a href="novel-chapter-269.html">素问目录</a></strong>
+<span>平人气象论篇第十八</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-269-4599.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>平人气象论篇第十八</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=黄帝&amp;searchsubmit=yes"  target="_blank">黄帝</a><span class="divide">|</span>发布时间：2014-08-30 14:28:36<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>黄帝问曰：平人何如？<br/>岐伯对曰：人一呼脉再动，一吸脉亦再动，呼吸定息，脉五动，闰以太息，命日平人。平人者不病也。<br/>常以不病调病人，医不病，故为病人平息以调之为法。<br/>人一呼脉一动，一吸脉一动，日少气。<br/>人一呼脉三动，一吸脉三动而躁，尺热曰病温，尺不热脉滑曰病风，脉涩曰痹。<br/>人一呼脉四动以上曰死，脉绝不至曰死，乍疏乍数曰死。<br/>平人之常气禀于胃，胃者平人之常气也，人无胃气曰逆，逆者死。<br/>春胃微弦曰平，弦多胃少曰肝病，但弦无胃曰死。胃而有毛曰秋病，毛甚曰今病。脏真散于肝，肝脏筋膜之气也。<br/>长夏胃微软弱曰平，弱多胃少曰脾病，但代无胃曰死，软弱有石曰冬病，弱甚曰今病。脏真濡于脾，脾藏肌肉之气也。<br/>夏胃微钩曰平，钩多胃少曰心病，但钩旡胃曰死，胃而有石曰冬病，石甚曰今病。脏真通于心，心藏血脉之气也。<br/>秋胃微毛曰平，毛多胃少曰肺病，但毛无胃曰死，毛而有弦曰春病，弦甚曰今病。脏真高于肺，以行营卫阴阳也。<br/>冬胃微石曰平，石多胃少曰肾病，但石无胃曰死，石而有钩曰夏病，钩甚曰今病。脏真下于肾，肾藏骨髓之气也。<br/>胃之大络。名曰虚里，贯鬲络肺，出于左乳下，其动应衣，脉宗气也。<br/>盛喘数绝者，则在病中，结而横有积矣。绝不至曰死，乳之下其动应衣，宗气泄也。<br/>欲知寸口太过与不及，寸口之脉中手短者，曰头痛；寸口脉中手长者，曰足胫痛；寸口脉中手促上击者，曰肩脊痛；寸口脉沉而坚者，曰病在中；寸口脉浮而盛者，曰病在外；寸口脉沉而弱，曰寒热及疝瘕少腹痛；寸口脉沉而横，曰胁下有积，腹中有横积痛：寸口脉沉而涩，曰寒热。<br/>脉盛滑坚者，曰病在外；脉小实而坚者，病在内。<br/>脉小弱以涩，谓之久病；脉滑浮而疾者，谓之新病。<br/>脉急者，曰疝瘕少腹痛。脉滑曰风，脉涩曰痹，缓而滑曰热中，盛而坚曰胀。<br/>脉从阴阳，病易已；脉逆阴阳，病难已；脉得四时之顺，曰病无他；脉反四时及不间脏曰难已。<br/>臂多青脉曰脱血，尺脉缓涩，谓之解（亻亦），安卧脉盛谓之脱血，尺涩脉滑谓之多汗，尺寒脉细谓之后泄，脉尺粗常热者谓之热中。<br/>肝见庚辛死，心见壬癸死，脾见甲乙死，肺见丙丁死，肾见戊己死。是为真脏见，皆死。<br/>颈脉动喘疾咳曰水，目裹微肿如卧蚕起之状曰水。<br/>溺黄赤安卧者，黄疸。已食如饥者，胃疸。<br/>面肿曰风。足胫肿曰水。目黄者曰黄疸。<br/>妇人手少阴脉动甚者，妊子也。<br/>脉有逆从四时，未有脏形。春夏而脉瘦，秋冬而脉浮大，命曰逆四时也。<br/>风热而脉静，泄而脱血脉实，病在中脉虚，病在外脉坚涩者，皆难治，命曰反四时也。<br/>人以水谷为本，故人绝水谷则死，脉无胃气亦死。所谓无胃气者，但得真脏脉不得胃气也。所谓脉不得胃气者，肝不弦，肾不石也。<br/>太阳脉至，洪大以长；少阳脉至，乍数乍疏，乍短乍长；阳明脉至，浮大而短。<br/>夫平心脉来，累累如连珠，如循琅玕，曰心平。夏以胃气为本。病心脉来，喘喘连属，其中微曲曰心病。死心脉来，前曲后居，如操带钩曰心死。<br/>平肺脉来，厌厌聂聂，如落榆荚，曰肺平。秋以胃气为本。病肺脉来，不上不下，如循鸡羽，曰肺病。死肺脉来，如物之浮，如风吹毛，曰肺死。<br/>平肝脉来，软弱招招，如揭长竿末梢曰肝平。春以胃气为本。病肝脉来，盈实而滑，如循长竿，曰肝病。死肝脉来，急益劲如新张弓弦，曰肝死。<br/>平脾脉来，和柔相离，如鸡践地，曰脾平。长夏以胃气为本。病脾病来，实而盈数，如鸡举足，曰脾病。死脾脉来，锐坚如鸟之喙，如鸟之距，如屋之漏，如水之流，曰脾死。<br/>平肾脉来，喘喘累累如钩，按之而坚，曰肾平。冬以胃气为本。病肾脉来，如引葛，按之益坚，曰肾病。死肾脉来，发如夺索，辟辟如弹石，曰肾死。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-269-4599.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-269-4601.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-269.html" action-type="chapterComment" class="comment"><i></i>素问章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

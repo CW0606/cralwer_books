@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《黄帝内经》正文_第三十一篇 热论_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="黄帝内经,黄帝内经原文,黄帝内经阅读,第三十一篇 热论全文,佚名作品" />
+<meta name="description" content="黄帝内经原文阅读,第三十一篇 热论全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-58-1788.html";
+var nextpage="novel-read-58-1790.html";
+var indexpage = "novel-chapter-58.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-58.html">黄帝内经</a></strong>
+<strong><a href="novel-chapter-58.html">黄帝内经目录</a></strong>
+<span>第三十一篇 热论</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-58-1788.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第三十一篇 热论</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-07-29 21:57:36<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【本章要点】<br/>　　一、这是一篇系统而又比较全面地论述热病的文献，它把热病的原因、症状、变化、预后、禁忌、治疗等一系列问题，都作出了创造性地阐发，对指导后世临床学术的发展，起着重要的作用。<br/>　　二、指出一切外感热病，都属于伤寒一类的疾病，但由于发病季节的不同，又有伤寒、温病、暑病等的区别。<br/>　　三、论述了“两感”热病的脉症特点及预后，并指出决定预后好坏的关键在于“胃气”的存亡。<br/>　　四、热病的一般治疗原则是汗、下两大法。<br/>　　五、指出病遗、食复的原因、症状、治疗；申明热病禁忌及其重要性。<br/>　　【原文】<br/>　　黄帝问曰：今夫热病者，皆伤寒①之类也，或愈或死，其死皆以六七日之间，其愈皆以十日以上者，何也？不知其解，愿闻其故。<br/>　　岐伯对曰：巨阳者，诸阳之属也。其脉连于风府，故为诸阳主气也。人之伤于寒也，则为病热，热虽甚不死，其两感②于寒而病者，必不免于死。<br/>　　帝曰：愿闻其状。岐伯曰：伤寒一日，巨阳受之，故头项痛，腰脊强。<br/>　　二日，阳明受之。阳明主肉，其脉侠鼻络于目，故身热目痛而鼻干，不得卧③也。<br/>　　三日，少阳受之，少阳主胆，其脉循胁络于耳，故胸胁痛而耳聋。三阳经络，皆受其病，而未入于脏④者，故可汗而已。<br/>　　四日，太阴受之，太阴脉布胃中，络于嗌，故腹满而嗌干。<br/>　　五日，少阴受之，少阴脉贯肾，络于肺，系舌本，故口燥舌干而渴。<br/>　　六日，厥阴受之。厥阴脉循阴器而络于肝，故烦满而囊缩⑤。<br/>　　三阴三阳，五脏六腑皆受病，荣卫不行，五脏不通，则死矣。<br/>　　其不两感于寒者，七日，巨阳病衰，头痛少愈；八日，阳明病衰，身热少愈；九日，少阳病衰，耳聋微闻；十日，太阴病衰，腹减如故，则思饮食，十一日，少阴病衰，渴止不满，舌干已而嚏，十二日，厥阴病衰，囊纵，少腹微下，大气皆去，病日已矣。<br/>　　帝曰：治之奈何？岐伯曰：治之各通其脏脉，病日衰已矣。其未满三日者，可汗而已；其满三日者，可泄而已。<br/>　　帝曰：热病可愈，时有所遗者，何也？岐伯曰：诸遗者，热甚而强食之，故有所遗也。若此者，皆病已衰而热有所藏，因其谷气相薄，两热相合，故有所遗也。帝曰：善。治遗奈何？岐伯曰：视其虚实，调其逆从，可使必已矣。<br/>　　帝曰：病热当何治之？岐伯曰：病热少愈，食肉则复，多食则遗⑥，此其禁也。<br/>　　帝曰：其病两感于寒者，其脉应与其病形何如？岐伯曰：两感于寒者，病一日则巨阳与少阴俱病，则头痛口干而烦满；二日，则阳明与太阴俱病，则腹满身热，不欲食、谵言，三日，则少阳与厥阴俱病，则耳聋囊缩而厥。水浆不入，不知人，六日死。<br/>　　帝曰：五脏已伤，六腑不通，荣卫不行，如是之后，三日乃死，何也？岐伯曰：阳明者，十二经脉之长也，其血气盛，故不知人，三日，其气乃尽，故死矣。<br/>　　凡病伤寒而成温者，先夏至日者，为病温，后夏至日者，为病暑。暑当与汗皆出，勿止⑦。<br/>　　【注释】<br/>　　①伤寒：是外感性热病的总称，有广义和狭义两种。广义的伤寒，是由于感受四时邪气引起的外感性热病；狭义的伤寒是指由于感受邪气引起的外感性热病。<br/>　　②两感：指表里两经同时感受邪气发病，如太阳和少阴两经同时感邪。<br/>　　③不得卧：阳明受邪，经气壅滞，影响到腑，使胃不安和，所以不得卧。<br/>　　④未入于脏：人体的经脉，阳经属腑，阴经连于脏。未入于脏，说明邪气还在肌表，未及于三阴。<br/>　　⑤烦满而囊缩：指烦闷、阴囊抽缩。足厥阴经经脉环绕阴器、络于肝，所以厥阴受病就会感到烦满而囊缩。<br/>　　⑥食肉则复，多食则遗：复，病愈而复发的意思。热病之后，脾胃气虚，运化无力，吃肉则不能消化，多吃则消化不完，食物与热相线搏结，容易复发。<br/>　　⑦暑当与汗皆出，勿止：因为出汗，暑邪就能随汗出而解，如果此时止汗只能让暑邪郁于体内，所以不应当止汗。<br/>　　【译文】<br/>　　黄帝问道：现在所说的外感发热的疾病，都属于伤寒一类，其中有的痊愈，有的死亡，死亡的往往在六七日之间，痊愈的都在十日以上，这是什么道理呢？我不知是何缘故，想听听其中的道理。<br/>　　岐伯回答说：太阳经为六经之长，统摄阳分，故诸阳皆隶属于太阳。太阳的经脉连于风府，与督脉、阳维相会，循行于巅背之表，所以太阳为诸阳主气，主一身之表。人感受寒邪以后，就要发热，发热虽重，一般不会死亡；如果阴阳二经表里同时感受寒邪而发病，就难免于死亡了。<br/>　　黄帝说：我想知道伤寒的症状。岐伯说：伤寒病一日，为太阳经感受寒邪，足太阳经脉从头下项，侠脊抵腰中，所以头项痛，腰脊强直不舒。<br/>　　二日，阳明经受病，阳明主肌肉，足阳明经脉挟鼻络于目，下行入腹，所以身热目痛而鼻干，不能安卧。<br/>　　三日，少阳经受病，少阳主骨，足少阳经脉，循胁肋而上络于耳，所以胸胁痛而耳聋。若三阳经络皆受病，尚未入里入阴的，都可以发汗而愈。<br/>　　四日，太阴经受病，足太阴经脉散布于胃中，上络于咽，所以腹中胀满而咽干。<br/>　　五日，少阴经受病，足少阴经脉贯肾，络肺，上系舌本，所以口燥舌干而渴。<br/>　　六日，厥阴经受病，足厥阴经脉环阴器而络于肝，所以烦闷而阴囊收缩。如果三阴三阳经脉和五脏六腑均受病，以致营卫不能运行，五脏之气不通，人就要死亡了。<br/>　　如果病不是阴阳表里两感于寒邪的，则第七日，太阳病衰，头痛稍愈；八日，阳明病衰，身热稍退；九日，少阳病衰，耳聋将逐渐能听到声音；十日，太阴病衰，腹满已消，恢复正常，而欲饮食；十一日，少阴病衰，口不渴，不胀满，舌不干，能打喷嚏；十二日，厥阴病衰，阴囊松弛，渐从少腹下垂。至此，大邪之气已去，病也逐渐痊愈。<br/>　　黄帝说：怎么治疗呢？岐伯说：治疗时，应根据病在何脏何经，分别予以施治，病将日渐衰退而愈。对这类病的治疗原则，一般病未满三日，而邪犹在表的，可发汗而愈；病已满三日，邪已入里的，可以泄下而愈。<br/>　　黄帝说：热病已经痊愈，常有余邪不尽，是什么原因呢？岐伯说：凡是余邪不尽的，都是因为在发热较重的时候强进饮食，所以有余热遗留。像这样的病，都是病势虽然已经衰退，但尚有余热蕴藏于内，如勉强病人进食，则必因饮食不化而生热，与残存的余热相薄，则两热相合，又重新发热，所以有余热不尽的情况出现。黄帝说：好，那么怎样治疗余热不尽呢？<br/>　　岐伯说：应诊察病的虚实，或补或泄，予以适当的治疗，可使其病痊愈。黄帝说：发热的病人在护理上有什么禁忌呢？岐伯说：当病人热势稍衰的时候，吃了肉食，病即复发；如果饮食过多，则出现余热不尽，这都是热病所应当禁忌的。<br/>　　黄帝说：表里同伤于寒邪的两感症，其脉和症状是怎样的呢？岐伯说：阴阳两经表里同时感受寒邪的两感症，第一日为太阳与少阴两经同时受病，其症状既有太阳的头痛，又有少阴的口干和烦闷；二日，为阳明与太阴两经同时受病，其症状既有阳明的身热谵言妄语，又有太阳的腹满不欲食；三日，为少阳与厥阴两经同时受病，其症状既有少阳之耳聋，又有厥阴的阴囊收缩和四肢发冷。如果病势发展至水浆不入，神昏不知人事的程度，到第六天便死亡了。<br/>　　黄帝说：病已发展至五脏已伤，六腑不通，营卫不行，像这样的病，要三天以后死亡，是什么道理呢？<br/>　　岐伯说：阳明为十二经之长，此经脉的气血最盛，所以病人容易神识昏迷。三天以后，阳明的气血已经竭尽，所以就要死亡。<br/>　　大凡伤于寒邪而成为温热病的，病发于夏至日以前的就称之为温病，病发于夏至日以后的就称之为暑病。暑病汗出，可使暑热从汗散泄，所以暑病汗出，不要制止。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-58-1788.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-58-1790.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-58.html" action-type="chapterComment" class="comment"><i></i>黄帝内经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

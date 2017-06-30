@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《北堂书钞》正文_●北堂书钞卷第一百一　　　　艺文部七_虞世南作品 - 维普阅读网</title>
+<meta name="keywords" content="北堂书钞,北堂书钞原文,北堂书钞阅读,●北堂书钞卷第一百一　　　　艺文部七全文,虞世南作品" />
+<meta name="description" content="北堂书钞原文阅读,●北堂书钞卷第一百一　　　　艺文部七全文在线阅读,虞世南作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-999-9707.html";
+var nextpage="novel-read-999-9709.html";
+var indexpage = "novel-chapter-999.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-999.html">北堂书钞</a></strong>
+<strong><a href="novel-chapter-999.html">北堂书钞目录</a></strong>
+<span>●北堂书钞卷第一百一　　　　艺文部七</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-999-9707.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>●北堂书钞卷第一百一　　　　艺文部七</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=虞世南&amp;searchsubmit=yes"  target="_blank">虞世南</a><span class="divide">|</span>发布时间：2014-11-20 21:03:12<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　隋祕书郎虞世南撰南海孔广陶校註写书二十三　　　　　　藏书二十四刊校谬误二十五　　　　採求遗逸二十六载书负书二十七　　　　赐书二十八废学二十九<br/><br/>　　○写书二十三<br/><br/>　　温舒截蒲「汉书路温舒字长君父使牧羊温舒取泽中蒲截以為牒编用写书○今案见汉书五十一本钞九十七引亦同」孙敬编柳「楚国先贤传云孙敬编柳简以写经本晨夜诵习○今案文选注三十八引楚国先贤传同本钞好学篇简篇皆引」薪火写书「抱朴子云葛洪家贫夜以薪火写书常乏纸所书皆反覆有字○今案平津馆本金陵本抱朴子自叙篇薪作柴所书作每所写」燃薪写书「晋中兴书范汪燃薪写书既毕亦遍○今案类聚八十引晋中兴书亦遍作亦竟餘同陈俞本改今晋书」為官佣书「观汉记班超家贫為官佣书○今案文选注三十八引及聚珍本姚辑本同」自伏写书「桓子新论云高君孟颇知律令自伏写书著作郎署哀其老欲代之不肯○今案　桓子新论閔友篇据书钞引同御览六百十四引脱孟字署字」赁书以养「谢承后汉书陈长次君渊昼则躬耕夜则赁书以养母○今案陈俞本长作常姚辑本汪辑本谢书亦作常餘同」佣书供笔「吴志闞泽字德润家本农人常佣书以供纸笔○今案吴志卷八本作世唐人传钞时改避太宗讳也」公孙写书自给「谢承后汉书公孙曄传云曄字春光到大学受尚书写书自给○今案姚辑本同汪辑谢书大作太餘亦同」李郃赁书自给「李郃别传云至京师学常以赁书自给○今案御览四百八十五引李郃别传脱师字餘同陈俞本误郤」<br/><br/>　　○藏书二十四<br/><br/>　　藏筞之府「穆天子传王东还至王屋之山河平无险四彻中绳先王之所谓筞府郭注曰中绳言皆平直筞府言往古帝王以為藏筞之府所谓藏之名山者也○今案陈俞本王屋作群玉河作阿平津馆本穆天子传与陈俞同考太史公自序索隐及西山经注皆作河平与影钞合」<br/><br/>　　祕室之府「刘歆七略武帝开献书之路百年之间书积如丘山故外有太常太史博士之藏内则延阁祕室之府○今案御览六百十九引七略及俞本祕上有广内二字陈本亦有广字餘同」<br/><br/>　　太史之祕府道家所贵「张衡与特进书云太史祕府道家所贵衡再得当之窃為幸也○王石华校贫改贵今案百三家本及严辑张衡集同陈俞本脱与特四字当字」<br/><br/>　　老氏藏室道家蓬莱「华嶠后汉书学者称东观為老氏藏室道家蓬莱山○今案汪辑本华书竇融附玄孙章传同又白帖七十四引华书同」厉山藏於兰臺归藏藏於太卜「桓子新论云厉山藏於兰臺归藏藏於太卜也○今案问经堂辑本新论厉作连考烈山厉山即连山烈厉连皆一声之转耳」壁藏尚书「汉书云秦燔书禁学济南伏生独壁藏尚书○今案见汉书艺文志及儒林伏生传」藏书於壁「孔安国尚书序我先君所藏其家书於屋壁汉室龙兴开设学校旁求儒雅以阐大献○今案南昌本尚书序及陈俞本君所作人用餘同」积聚篇卷於时最多「蜀志向朗字巨达潜心典籍积聚篇卷於时最多○今案见蜀志卷十一」伯谐有书近万卷「博物志蔡伯谐有书近万卷末年载数车王粲○今案明吴琯校本稗海本博物志末年上皆有汉字」林宗有书五千卷「郭林宗传家有书五千餘卷○今案陈俞本作郭太别传」王修有书数百卷「魏志太祖破南皮王修家穀不满十斛有书数百卷太祖叹曰士不妄有名○今案魏志十一王修传及陈俞本同御览六百十八引十误斗又本钞南皮以下十五字误大写今改正」<br/><br/>　　张华有书三十乘「文士传张华穷览古今尝徒居有书三十乘○今案御览六百十二及本钞载书篇引文士传同」<br/><br/>　　○刊校谬误二十五<br/><br/>　　以陶為阴「刘歆七□古文或误以典為与以陶為阴如此类多○今案玉函山房辑本七略脱此条」以鱼為鲁「抱朴子云书三写以鱼為鲁以帝為■〈雨？市〉○今案近本抱朴子遐览篇帝作虚平津馆孙校云意林引作帝又长白继氏重定本附校记云书钞一百一御览六百十八引亦作帝」<br/><br/>　　孔子反鲁「汉书礼乐志周道既缺雅颂相错孔子论而定之曰吾自卫反鲁然后乐正雅颂各得其所○今案汉书卷廿二既作始曰上有故字」卜商反卫「孔子家语卜商字子夏尝反卫见读史者云晋师伐秦三豕渡河子夏曰非也己亥耳读史者问诸晋史果己亥也於是卫人以子夏為圣也○今案家语弟子解及陈俞本反作返两读史下有志字餘同」<br/><br/>　　校书麟阁「汉书杨雄校书麟阁之上○今案陈本同考汉书八十七杨雄传麟阁作天禄阁」校书天禄「扬雄集序云雄字子云蜀都人王莽篡位雄為中散大夫常校书天禄阁○今案陈俞本脱子云七字百三家本子云集脱中散二字」张霸春秋减為二十言「东观汉记张霸字伯饶以樊儵删严氏公羊春秋犹多繁词乃减為二十万言更名张氏之学○今案聚珍本姚辑本东观记及俞本饶下有少字餘同陈本以樊作少就樊删作受乃作及」<br/><br/>　　桓荣以尚书省成十万言「范曄后汉书桓荣以尚书入受显宗為二十三万言郁后复删省定成十万言由是有桓君大小之学○今案陈俞本十万作十三万标目荣字改作郁考范书六十七桓荣传与陈俞同惟本钞九十六儒术篇引作十万」<br/><br/>　　崇七经删百氏「刘楨鲁都赋若乃考王道之去就览万代之兴衰发龙图於金縢啟洛典乎石扉崇七经之旨义删百氏之乖违○今案俞本同本钞九十六图篇引石扉以上四句王作皇餘同陈本洛典改麟史石扉改华柜非也百三字本刘楨集脱此条」<br/><br/>　　芟烦乱剪浮辞「孔安国尚书序云芟夷烦乱剪截浮词谨案芟除夷灭截绝也烦文乱句则除之浮偽虚词则截绝○今案陈本无注俞本脱夷灭二字」刊定误谬「蜀志向期字巨达年逾八十犹手自校书刊定谬误○今案蜀志卷十一逾作踰」覆校错误「荀勗让乐事表云臣掌著作又知秘书今覈校错误十万餘卷书不可仓卒复兼他职必有顿者也○今案百三家本荀勗集同」删除繁重甚有条贯「晋中兴书李充為大著作郎时典籍混乱充删除繁重甚有条贯○今案亦见今晋书九十二李充传繁作烦餘同考御览二百三十四引晋中兴书亦作烦著作下无郎字无条贯句餘同」<br/><br/>　　○採求遗逸二十六<br/><br/>　　开献书路「刘歆七略云汉武帝开献书之路一年之间书集如山○今案陈本及御览六百十九引本钞藏书类引刘歆七略书集句皆作书积如丘山」詔求亡失「论衡云令詔求亡失购募以金诸子存焉焕炳郁郁莫盛如斯○今案见论衡佚文篇」採逸礼於残竹听遗诗乎达路「刘楨鲁都赋採逸礼於残竹听遗诗乎达路览国俗之盛衰求群士之德素○今案俞本达作逵餘同陈本脱国俗二句百三本刘楨集脱此条」集天下遗书「汉武故事淮南王安好学集天下遗书招天下之术士○今案陈本天下作南方俞本作四方」求遗书於天下「汉书云成帝河平三年遣謁者陈农求遗书於天下○今案陈俞本遣作使考汉书艺文志亦作使謁者然无河平句惟汉书成帝纪有此文无遗字謁者下有使使二字」<br/><br/>　　坏孔子宅得古文经传「汉书鲁恭王坏孔子旧宅於其壁中得古文经传○今案书景十三王传同」开魏王冢得穆天子传「汲郡民开魏襄王冢得穆天子传○今案俞本同陈本删汲郡民三字开上增入汉书鲁三字」河西得漆书「东观汉记杜林於河西得漆书古文尚书○今案御览六百十九引及聚珍本东观记同姚辑本脱」汲县得尚书「王隐晋书云初太康元年汲县盗发魏王釐冢得竹书漆字○今案陈俞本脱釐字」<br/><br/>　　○载书负书二十七<br/><br/>　　墨子载书「墨子南游卫载书甚多弦唐子怪之墨子曰昔周公朝读百篇吾安敢此○今案墨子贵义篇及本钞九十七好学篇九十八读书篇引同御览六百十九引弦强」<br/><br/>　　王寿负书「韩子王寿负书而行道逢徐凭於周涂谓曰事者為也為生於时知时者无常事书者言也言生於知知言者不藏书於是寿焚其书○今案近本韩子喻老篇道逢作见凭作冯谓曰作冯曰又知时句知言句脱时字言字餘同」<br/><br/>　　蔡邕载书三十乘「博物志云蔡邕末年载书三十乘与王粲○今案陈俞本三十乘作数车考明吴琯校本稗海本博物志皆与陈俞同本钞藏书篇引数车作数乘亦无言三十乘者疑此三字系从下条误入」<br/><br/>　　张华有旧书三十乘「文士传云张华尝徒居有书三十乘○今案本钞藏书篇及御览六百十二引同」负书担橐「史记苏秦上书十上而说不行去秦而归负书担橐形容枯槁○今案史记无此文惟见战国策」抱符子而趋「符子云朗家楚朗弃千金之剑抱符子而趋曰夫千金利剑剖割之所存焉符子之书大道之所居焉○今案抱符当作抱朴本钞一百廿二剑篇引可证也御览三百四十四引符朗子一条趋曰下有云何夫子弃大而存小乎符朗不应二句此条有脱漏故文义不完」<br/><br/>　　负周官不捨「车频秦书曰太常居呈母家虽流移寒苦常自负周官终不敢捨○今案陈俞本频作胤居下删呈母二字寒苦作苦寒考秦书三卷為秦冯翊车频撰」<br/><br/>　　○赐书二十八<br/><br/>　　家有赐书「后汉书班彪字叔皮幼与从兄嗣伯共游太学家有赐书好古之士自方至也○今案陈本脱字叔皮三字餘同考范书班彪传无此文惟见汉书一百二叙传」<br/><br/>　　赐祕阁书「续晋阳秋太元三年詔赐会稽王秘阁书八千卷○今案陈本同」香孟子「东观汉记章帝赐黄香淮南孟子各一通○今案聚珍本姚辑本东观记黄香传同」以韩子赐太子「晋中兴书宗任刑法以韩子赐太子悦也○今案陈俞本删悦也二字」<br/><br/>　　詔与一千卷「义熙起居注云何无忌见秘阁中书胜俗悉求赐副詔与一千卷○今案陈俞本见作在无中书五字副作秘书」送一车与之「王隐晋书皇求謐表从武帝借书上送一车与之○今案御览三百八十六引王晋书同」赐秘书之副「汉书班游以受詔进读群书上器其能赐以秘书之副诗书○今案陈俞本无诗书二字餘同考汉书叙传游作斿副下有时书不布句则旧钞诗字乃时字之譌且有脱字也本钞九十八读书篇引亦作班斿」<br/><br/>　　赐书四千卷「蔡琰别传琰谓曹操曰亡父赐书四千许卷○今案范书蔡琰传同」<br/><br/>　　○废学二十九<br/><br/>　　仲尼没而微言绝「汉书仲尼没而微言绝七十弟子终而大义乖○今案见汉书艺文志」学校不脩「毛诗子衿刺学校废也世乱则学校不脩焉○今案释文云定本无校字陈俞本改引毛诗谱」经籍道息「孔安国尚书序定五十八篇既毕会国有巫蛊事经籍道息用不复以闻○今案近本书序同」图籍散乱「史记云周既废秦焚诗书故明堂石室金柜玉板图籍散乱○今案史记太史公自序板作版无既字」藏诗书者烧之「史记秦始皇二十年令天下敢藏诗书百家语悉诣守尉焚之○今案史记始皇本纪二十年作三十四年陈本据近本史记改」有偶语者弃市「史记秦始皇令天下偶语诗书者弃市以古非今者族之○今案史记始皇本纪同」贤儒皆终「古文奇字云秦政拜名儒生凡七百人為郎种瓜驪山下硎谷中温处使人上书曰瓜冬有实詔下博士诸生说之皆使往视之而為伏机诸贤儒方相难因发机从上投之以土皆压谷中○今案本钞实误宝据书钞一百五十七坑篇引古文奇字一条订正」<br/><br/>　　博士倚席「典略云樊淮字幼子為郎中令时学者少乃上疏曰今学约少远方尤甚博士倚席不讲太学多治產业○今案俞本幼子作幼陵餘同类聚五十五引典略无字幼子三字及时学句尤作又餘同陈本脱此条」<br/><br/>　　北堂书钞卷第一百一 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-999-9707.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-999-9709.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-999.html" action-type="chapterComment" class="comment"><i></i>北堂书钞章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

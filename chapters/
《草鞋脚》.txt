@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《且介亭杂文》正文_《草鞋脚》_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="且介亭杂文,且介亭杂文原文,且介亭杂文阅读,《草鞋脚》全文,鲁迅作品" />
+<meta name="description" content="且介亭杂文原文阅读,《草鞋脚》全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-544-7269.html";
+var nextpage="novel-read-544-7271.html";
+var indexpage = "novel-chapter-544.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-544.html">且介亭杂文</a></strong>
+<strong><a href="novel-chapter-544.html">且介亭杂文目录</a></strong>
+<span>《草鞋脚》</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-544-7269.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>《草鞋脚》</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-02 22:00:16<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>在中国，小说是向来不算文学的。在轻视的眼光下，自从十八世纪末的《红楼梦》（２）以后，实在也没有产生什么较伟大的作品。小说家的侵入文坛，仅是开始“文学革命”运动（３），即一九一七年以来的事。自然，一方面是由于社会的要求的，一方面则是受了西洋文学的影响。 <br/><br/>　　但这新的小说的生存，却总在不断的战斗中。最初，文学革命者的要求是人性的解放，他们以为只要扫荡了旧的成法，剩下来的便是原来的人，好的社会了，于是就遇到保守家们的迫压和陷害。大约十年之后，阶级意识觉醒了起来，前进的作家，就都成了革命文学者，而迫害也更加厉害，禁止出版，烧掉书籍，杀戮作家，有许多青年，竟至于在黑暗中，将生命殉了他的工作了。 <br/><br/>　　这一本书，便是十五年来的，“文学革命”以后的短篇小说的选集。因为在我们还算是新的尝试，自然不免幼稚，但恐怕也可以看见它恰如压在大石下面的植物一般，虽然并不繁荣，它却在曲曲折折地生长。 <br/><br/>　　至今为止，西洋人讲中国的著作，大约比中国人民讲自己的还要多。不过这些总不免只是西洋人的看法，中国有一句古谚，说：“肺腑而能语，医师面如土。”（４）我想，假使肺腑真能说话，怕也未必一定完全可靠的罢，然而，也一定能有医师所诊察不到，出乎意外，而其实是十分真实的地方。一九三四年三月二十三日，鲁迅记于上海。 <br/><br/>　　==========================================================================<br/><br/><br/>　　（１）本篇在收入本书前未在报刊上发表过，参看本书《附记》。《草鞋脚》，鲁迅应美国人伊罗生之约和茅盾共同编选的中国现代短篇小说集，共收作品二十六篇，由伊罗生等译成英文，当时未能出版，后经重编，于一九七四年由美国麻省理工学院出版社印行。（２）《红楼梦》长篇小说，清代曹雪芹作。通行一百二十回本，后四十回一般认为是清代高鹗所续。 <br/><br/>　　（３）“文学革命”运动指“五四”前后反对旧文学、提倡新文学的运动。一九一七年二月陈独秀在《新青年》第二卷第六号发表《文学革命论》一文，首次提出文学革命的口号。一九一八年五月起鲁迅陆续发表了《狂人日记》、《孔乙己》、《药》等小说，“显示了‘文学革命’的实绩”。（《且介亭杂文二集·〈中国新文学大系〉小说二集序》） <br/><br/>　　（４）“肺腑而能语，医师面如土。”见明代杨慎编辑的《古今谚》所录方回《山经》引《相冢书》：“山川而能语，葬师食无所；肺肝而能语，医师色如土。”清代沈德潜编《古诗源》卷一亦载有此诗，“肺肝”作“肺腑”。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-544-7269.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-544-7271.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-544.html" action-type="chapterComment" class="comment"><i></i>且介亭杂文章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《洞庭湖寄阎九》正文_洞庭湖寄阎九_孟浩然作品 - 维普阅读网</title>
+<meta name="keywords" content="洞庭湖寄阎九,洞庭湖寄阎九原文,洞庭湖寄阎九阅读,洞庭湖寄阎九全文,孟浩然作品" />
+<meta name="description" content="洞庭湖寄阎九原文阅读,洞庭湖寄阎九全文在线阅读,孟浩然作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-898.html";
+var nextpage="novel-chapter-898.html";
+var indexpage = "novel-chapter-898.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-898.html">洞庭湖寄阎九</a></strong>
+<strong><a href="novel-chapter-898.html">洞庭湖寄阎九目录</a></strong>
+<span>洞庭湖寄阎九</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-898.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>洞庭湖寄阎九</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=孟浩然&amp;searchsubmit=yes"  target="_blank">孟浩然</a><span class="divide">|</span>发布时间：2014-11-11 20:09:33<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>洞庭秋正阔，余欲泛归船。<br/>莫辨荆吴地，唯馀水共天。<br/>渺瀰江树没，合沓海潮连。<br/>迟尔为舟楫，相将济巨川。<br/><br/>【注释】<br/>①阎九:即阎防。据诗中“迟尔为舟楫”语，诗当作于阎防贬司户参军之前。<br/>②莫辨荆吴地:谢灵运《行田登海口盘屿山》:“莫辨洪波极，谁知大壑东。”<br/>③唯馀水共天:谢灵运《登江中孤屿》:“空水共澄鲜。”王勃《滕王阁序》:“秋水共长天一色。”<br/>④渺瀰:旷远貌。<br/>⑤合沓:重叠。潮:全诗校:“一作湖。”<br/>⑥迟(zhì):等待。<br/>⑦相将:相携。<br/><br/>【赏析】<br/>　　以洞庭湖为题，寄给一个朋友阎九的。阎是姓，九是排行。中国知识分子，大约从春秋时代以来，每人都有一个名，一个字。名是正式公文书上用的，长辈叫小辈，可以称他的名，平辈之问，就不能直呼其名，只能称他的字。例如王维，同时友好都叫他摩诘，而不能叫他王维。但是，唐代人连字都不常用，一般熟人都以排行相称呼。排行是从祖父算起的，阎九不是他父亲的第九个儿子，而是他祖父的笫九个孙子。例如祖父有三个儿子，不管那一个儿子，首先生的孙子就是老大。以后第二，第三排下去，诗人高适的排行是第三十五，所以李颀的诗题有《答高三十五留别》。这种诗题在唐人诗集中常见，后世读者往往不知这高三十五是谁。史学家岑仲勉费过一番功夫，把《全唐诗》中用行辈称呼的人名大都考查出来，写了一本《唐人行第录》，对研究唐诗的人，很有帮助。<br/>　　此诗大意是说：洞庭湖到了秋天水涨，很阔大了，我也想乘船回襄阳去。接着就用二联描写湖水之空阔，只见水天一片，分不清那儿是楚，那儿是吴。这地区是古代是楚接境，向来称为吴头楚尾。江水和树木都隐没在空虚渺茫之中，湖与海好象也合并为一了，这一句的意义是说湖广大得象海了。最后二句说：等你来做我的船，大家一起渡过这个大湖。这一联的意义和赠张丞相诗一样，用一个双关的“济”字，用舟楫作比喻，就从写景转入为抒情。大约作者希望等阎九回来，给他做一个介绍人，向达官贵人推荐一下。末句说“相将济巨川”，可知是双方有利的事。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-898.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-898.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-898.html" action-type="chapterComment" class="comment"><i></i>洞庭湖寄阎九章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

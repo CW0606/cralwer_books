@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《已凉》正文_已凉_韩偓作品 - 维普阅读网</title>
+<meta name="keywords" content="已凉,已凉原文,已凉阅读,已凉全文,韩偓作品" />
+<meta name="description" content="已凉原文阅读,已凉全文在线阅读,韩偓作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-1130.html";
+var nextpage="novel-chapter-1130.html";
+var indexpage = "novel-chapter-1130.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1130.html">已凉</a></strong>
+<strong><a href="novel-chapter-1130.html">已凉目录</a></strong>
+<span>已凉</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-1130.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>已凉</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=韩偓&amp;searchsubmit=yes"  target="_blank">韩偓</a><span class="divide">|</span>发布时间：2015-01-28 21:04:35<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　碧阑干外绣帘垂，猩血屏风画折枝。<br/><br/>　　八尺龙须方锦褥，已凉天气未寒时。<br/><br/>【注释】<br/>⑴绣帘：一作“翠帘”。<br/>⑵猩血：一作“猩色”，猩红色。屏风：一种用来遮挡和做隔断的东西。画折枝：一作“画柘枝”，指图绘花卉草木。<br/>⑶龙须：属灯心草科，茎可织席。这里指草席。<br/><br/>【译文】<br/>翠绿色的栏杆外绣帘儿低垂，猩红的屏风上画着草木花卉。<br/>龙须草织成的席子铺上锦褥，天气已凉却还未到寒冷时候。<br/><br/>【赏析】<br/>　　韩偓《香奁集》里有许多反映男女情爱的诗歌，这是最为脍炙人口的一篇。其好处全在于艺术构思精巧，笔意含蓄。<br/>　　展现在读者眼前的，是一间华丽精致的卧室。镜头由室外逐渐移向室内，透过门前的阑干、当门的帘幕、门内的屏风等一道道障碍，聚影在那张铺着龙须草席和织锦被褥的八尺大床上。房间结构安排所显示出的这种“深而曲”的层次，分明告诉读者这是一位贵家少妇的金闺绣户。<br/>　　布局以外，景物吸引读者视线的，是那斑驳陆离、秾艳夺目的色彩。翠绿的栏槛，猩红的画屏，门帘上的彩绣，被面的锦缎光泽，合组成一派旖旎温馨的气象，不仅增添了卧室的华贵势派，还为主人公的闺情绮思酝酿了合适的氛围。主人公始终未露面，她在做什么、想什么也不得而知。但朱漆屏面上雕绘着的折枝图，却不由得使人生发出“花开堪折直须折，莫待无花空折枝”（无名氏《金缕衣》）的感叹。面对这幅画图，主人公不可能不有感于自己的逝水流年，而将大好青春同画中鲜花联系起来加以比较、思索，更何况而今又到了一年当中季节转换的时候。门前帘幕低垂，簟席上增加被褥，表明暑热已退，秋凉刚降。这样的时刻最容易勾起人们对光阴消逝的感触，在主人公的心灵上又将激起阵阵波澜。诗篇结尾用重笔点出“已凉天气未寒时”的时令变化，当然不会出于无意。配上床席、锦褥的暗示以及折枝图的烘托，主人公在深闺寂寞之中渴望爱情的情怀，也就隐约可见了。<br/>　　通篇没有一个字涉及“情”，甚至没有一个字触及“人”，纯然借助环境景物来渲染人的情思，供读者玩味。这类命意曲折、用笔委婉的情诗，在唐人诗中还是不多见的。这首小诗之所以广为传诵，原因或在于此。无论从题材旨趣，还是从手法、风格上讲，这首小诗都开启了五代两宋闺情词缛丽婉约的先河。<br/><br/>【点评】<br/>　　《唐贤小三昧集续集》：中具多少情事，妙在不明说，令人思时得之。<br/>　　《随园诗话》：人问：诗要耐想，如何而耐人想？余应之曰：“八尺龙须方锦褥，已凉天气未寒时”、“狎客沦亡丽华死，他年江令独来时”……皆耐想也。<br/>　　《精选评注五朝诗学津梁》：句法整齐。<br/>　　《唐诗三百首》：通首布景，并不露情思，而情愈深远。<br/>　　《王闿运手批唐诗选》：龙须席上加方锦褥，是“已凉”也；然不必咏。<br/>　　《诗境浅说续编》：由阑干、绣帘而至锦褥，迤逦写来，纯是景物，而景中有人。丽不伤雅，《香奁集》中隽咏也。<br/>　　《唐人绝句精华》：《已凉》一首如工笔仕女图，古今传诵以此。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-1130.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-1130.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1130.html" action-type="chapterComment" class="comment"><i></i>已凉章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

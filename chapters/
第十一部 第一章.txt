@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《战争与和平》正文_第十一部 第一章_列夫·托尔斯泰作品 - 维普阅读网</title>
+<meta name="keywords" content="战争与和平,战争与和平原文,战争与和平阅读,第十一部 第一章全文,列夫·托尔斯泰作品" />
+<meta name="description" content="战争与和平原文阅读,第十一部 第一章全文在线阅读,列夫·托尔斯泰作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1211-20793.html";
+var nextpage="novel-read-1211-20795.html";
+var indexpage = "novel-chapter-1211.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1211.html">战争与和平</a></strong>
+<strong><a href="novel-chapter-1211.html">战争与和平目录</a></strong>
+<span>第十一部 第一章</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1211-20793.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第十一部 第一章</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-28.html" target="blank">外国名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=列夫·托尔斯泰&amp;searchsubmit=yes"  target="_blank">列夫·托尔斯泰</a><span class="divide">|</span>发布时间：2015-03-06 22:49:42<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　 人类的智慧理解不了运动的绝对连续性。人类只有在审视随意抽取的任一运动的细分单元时，方可逐步理解该运动的规律。但随即由于随意划分连续性的运动为间断性的单元，从而产生出人类的大部分迷误。<br/><br/>　　尽人皆知一条古代的辩术，讲的是阿奇里斯①总赶不上他前面的乌龟，尽管他走得比乌龟快十倍；因为每当他走完他与乌龟之间的距离时，乌龟又超前爬了这段距离的十分之一了；阿奇里斯走过这十分之一，乌龟则又超前爬了百分之一了，以此类推，直到无休无止。这道算式是一道古老的难以解决的算题。答案之荒谬（即阿奇里斯永远赶不上乌龟），仅仅是由于轻率地假定运动的不连贯单元的存在，而无论阿奇里斯或乌龟的运动，都是连续进行的——<br/><br/>　　①阿奇里斯是荷马《伊利亚特》中的英雄。<br/><br/>　　把运动的单元愈分愈细，我们只能接近问题的答案，却永远得不出答案。只有假设出无穷小数和由无穷小数产生的十分之一以下的级数，再求出这一几何级数的总量，我们才能得出问题的答案。数学的一个新的分支在解决了处理无穷小数的技术后，现已能在其他更为复杂的运动问题上求得对以前似乎解决不了的那些问题的答案。<br/><br/>　　古代人所不明了的这一新的数学分支，在研究运动问题时，因假设出无穷小数，使运动的主要条件（绝对连续性）得以复原，从而纠正人类的智慧以个别的运动单元代替对连续运动进行研究时不能不犯的错误。<br/><br/>　　在历史运动规律的探讨中也完全是这样。<br/><br/>　　人类的运动由不计其数的人们的随意行为所产生，是持续不断地进行着的。<br/><br/>　　了解这一运动的规律，是历史学的目的。但为了理解人们的随意行为的总和所构成的连续运动的规律，人类的智慧便假设出了随意可以截取而互不连贯的单元来。史学的第一个步骤，在于任意抽取一系列连续发生的事件，将其逐个分开来加以研究，这就没有也不可能有任何事件的开端，永远是一个事件不间断地从另一事件涌现出来。第二步骤在于把个人的、帝王的、统帅的行动，作为人们的无意识行为的总和来加以研究，而个别历史人物的行动却又永远反映不出人类无意识行为的总和。<br/><br/>　　历史科学在本身的运作中，经常划分小而又小的单元以供研究，以此接近对真理的认识。但无论史学划分出怎样的细小单元，我们感觉到，假设出彼此脱节的单元，假设有某种现象的-开-端，假设所有人的随意行为会在个别历史人物的行动中反映出来，其本身便是虚妄。<br/><br/>　　史学的任何结论，无须评论界劳神，便会土崩瓦解，不著痕迹，只须论者对一或大或小的前后不连贯的单元加以考察就行了；评论界总有权利这样做，任何一个历史单元不也是任意截取的吗？<br/><br/>　　只有采取无限小的观察单位——历史的微分，即人们的共同倾向，并运用积分法（即得出这些无限小的总和），我们才有希望了解历史的规律。<br/><br/>　　十九世纪最初的十五年，欧洲出现了一次数百万人的不寻常的运动。人们抛弃他们的日常职业，从欧洲的一边到另一边去抢动和撕杀，凯歌胜利和绝望呻吟，因而整个生活的进程在几年间变化不定，表现为一种先高涨而后衰落的激烈运动。这一运动的原因何在，它是按照什么规律运行的呢？——人类的智慧要问个明白。<br/><br/>　　历史学家回答这一问题时，向我们叙述巴黎城内一座大楼里的几十个人的言行，称这些言行为革命；然后出版拿破仑的，以及同情或敌视他的人物的详细传记，讲述其中一些人对另一些人的影响，说出：这就是这一运动发生的原因，这就是它的规律。<br/><br/>　　但是，人类的智慧不仅不肯相信这种解释，还干脆说，这种解释方法就不可信以为真，因为这种解释是把最微弱的现象视为最有力的论据。人们无意识行为的总和造成了革命，也造就了拿破仑，也只是这些无意识行为的总和，才容忍了，尔后又消灭了前后两者。<br/><br/>　　“但无论何时，有战伐必有征服者；无论何时，国家有变，必出伟人。”历史如是说。事实上，每当征服者出现，便爆发战争，这是人类智慧的回答，但这并不证明征服者便是战争的原因，且在个别人物的个人行动中能找出战争的规律。每当我看看钟，看到钟的指针走到十，便会听见邻近的教堂敲起钟声，但是，从指针走到十点祈祷钟声便敲响这一点出发，我无权下结论说，指针的位置是教堂的钟运动的原因。<br/><br/>　　每当我看到火车头起动，便听到汽笛声，看到阀门打开，车轮转动；但我无权由此得出结论：汽笛声和车轮转动是机车运动的实质原因。<br/><br/>　　农民说，暮春刮寒风，是因为橡树的芽苞绽开了，而事实上，每年春天当橡树抽芽时，都刮冷风。但是，虽然我不知道橡树抽芽时刮冷风的原因，我亦不同意农民的看法，认为橡树抽芽是刮冷风的原因，因为芽苞影响不到风力。我只看到日常生命现象中一些条件的偶合，我清楚，无论我多么仔细地观察时钟的指针，机车的阀门和车轮及橡树芽，我依然不会明白祈祷钟声，机车运动和倒春寒的原因。要明白其究竟，我必须完全改变观察点，去研究蒸汽、教堂大钟及风力的运动规律。史学也应如此。而且有人做了这方面的尝试。<br/><br/>　　为了研究历史规律，我们应该完全改变观察目标，敞开帝王大臣将军们，转而研究民众所遵循的同一类型的无穷小的因素。谁也无法说出，用这一方法，人类能获得对历史规律的几许了解；但是显而易见，这条途径有获取历史规律的机会；且这条途径使人类智慧付出的努力，还不及史学家用来描述帝王将相的行动，和据此行动发挥其想象所费精力的百万分之一——</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1211-20793.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1211-20795.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1211.html" action-type="chapterComment" class="comment"><i></i>战争与和平章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

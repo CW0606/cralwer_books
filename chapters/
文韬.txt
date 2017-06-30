@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《群书治要六韬》正文_文韬_姜子牙作品 - 维普阅读网</title>
+<meta name="keywords" content="群书治要六韬,群书治要六韬原文,群书治要六韬阅读,文韬全文,姜子牙作品" />
+<meta name="description" content="群书治要六韬原文阅读,文韬全文在线阅读,姜子牙作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-44.html";
+var nextpage="novel-read-44-1203.html";
+var indexpage = "novel-chapter-44.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-44.html">群书治要六韬</a></strong>
+<strong><a href="novel-chapter-44.html">群书治要六韬目录</a></strong>
+<span>文韬</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-44.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>文韬</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=姜子牙&amp;searchsubmit=yes"  target="_blank">姜子牙</a><span class="divide">|</span>发布时间：2014-07-24 21:22:38<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　文王问于太公曰：「贤君治国何如？」<br/>　　对曰：「贤君之治国，其政平，吏不苛，其赋敛节，其自奉薄，不以私善害公法；赏赐不加于无功，刑罚不施于无罪；不因喜而赏，不因怒而诛；害民者有罪，进贤者有赏；后宫不荒，女谒不听；上无淫匿，下无阴害；不供宫室以费财，不多游观台池以罢民，不雕文刻镂以逞耳目；官无腐蠹之藏，国无流饿之民也。」文王曰：「善哉！」<br/>　　文王问太公曰：「愿闻治国之所贵。」太公曰：「贵法令之必行，必行则治道通，通则民大利，大利则君德彰矣。君不法天地而随世俗之所善以为法，故令出必乱，乱则复更为法，是以法令数变，则群邪成俗，而君沉于世，是以国不免危亡矣。」<br/>　　文王曰：「愿闻为国之大失。」太公曰：「为国之大失，作而不法法，国君不悟，是为大失。」<br/>　　文王曰：「愿闻不法法、国君不悟。」太公曰：「不法法则令不行，令不行则主威伤。不法法则邪不止，邪不止则祸乱起矣。不法法则刑妄行，刑妄行则赏无功。不法法则国昏乱，国昏乱则臣为变。不法法则水旱发，水旱发则万民病。不法法则兵革起，兵革起则失天下也。」<br/>　　文王问太公曰：「人主动作举事善恶，有福殃之应、鬼神之福无？」太公曰：「有之。主动作举事，恶则天应之以刑，善则地应之以德，逆则人备之以力，顺则神授之以职。故人主好重赋敛，大宫室，多游台，则民多病温，霜露杀，五穀、丝麻不成。人主好田猎罼弋，不避时禁，则岁多大风，禾穀不实。人主好破坏名山，雍塞大川，决通名水，则岁多大水，伤民，五穀不滋。人主好武事，兵革不息，则日月薄蚀，太白失行。故人主动作举事，善则天应之以德，恶则人备之以力，神夺之以职。如响之应声，如影之随形。」文王曰：「诚哉！」<br/>　　武王问太公曰：「桀纣之时，独无忠臣良士乎？」太公曰：「忠臣良士，天地之所生，何为无有？」<br/>　　武王曰：「为人臣而令其主残虐，为后世笑，可谓忠臣良士乎？」太公曰：「是谏者不必听，贤者不必用。」<br/>　　武王曰：「谏不听，是不忠；贤而不用，是不贤也。」太公曰：「不然。谏有六不听、强谏有四必亡，贤者有七不用。」<br/>　　武王曰：「愿闻六不听、四必亡、七不用。」太公曰：「主好作宫室台池，谏者不听。主好忿怒，妄诛杀人，谏者不听。主好所爱，无功德而富贵者，谏者不听。主好财利，巧夺万民，谏者不听。主好珠玉、奇怪异物，谏者不听。是谓六不听。四必亡：一曰：强谏不可止，必亡。二曰：强谏知而不肯用，必亡。三曰：以寡正强、正众邪，必亡。四曰：以直强正众曲，必亡。七不用：一曰：主弱亲强，贤者不用。二曰：主不明，正者少，邪者众，贤者不用。三曰：贼臣在外，奸臣在内，贤者不用。四曰：法政阿宗族，贤者不用。五曰：以欺为忠，贤者不用。六曰：忠谏者死，贤者不用。七曰：货财上流，贤者不用。」<br/>　　武王伐殷，得二大夫，而问之曰：「殷之将亡，亦有妖乎？」其一人曰：「有。殷国尝雨血、雨灰、雨石，小者如椎，大者如箕。六月雨雪深尺馀。」其一人曰：「是非国之大妖也。殷君喜以人餧虎，喜割人心，喜杀孕妇，喜杀人父、孤人之子喜夺，喜诬，以信为欺、欺者为真，以忠为不忠，忠谏者死，阿谀者赏，以君子为下、小人为上，急令暴政，好田猎，出入不时，喜治宫室、脩池台，日夜无已，喜为酒池肉林糟丘，而牛饮者三千馀人，无长幼之序、贵贱之礼，喜听谗用举，无功者赏，无德者富，所爱专利而擅令，无礼义，无忠信，无圣人，无贤士，无法度，无升斛，无尺丈，无称衡。此殷国之大妖也。」</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-44.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-44-1203.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-44.html" action-type="chapterComment" class="comment"><i></i>群书治要六韬章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

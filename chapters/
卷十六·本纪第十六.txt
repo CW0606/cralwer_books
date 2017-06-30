@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《新元史》正文_卷十六·本纪第十六_柯劭忞作品 - 维普阅读网</title>
+<meta name="keywords" content="新元史,新元史原文,新元史阅读,卷十六·本纪第十六全文,柯劭忞作品" />
+<meta name="description" content="新元史原文阅读,卷十六·本纪第十六全文在线阅读,柯劭忞作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1440-28700.html";
+var nextpage="novel-read-1440-28702.html";
+var indexpage = "novel-chapter-1440.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1440.html">新元史</a></strong>
+<strong><a href="novel-chapter-1440.html">新元史目录</a></strong>
+<span>卷十六·本纪第十六</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1440-28700.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷十六·本纪第十六</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=柯劭忞&amp;searchsubmit=yes"  target="_blank">柯劭忞</a><span class="divide">|</span>发布时间：2017-06-19 22:34:08<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>○仁宗上 <br/><br/>　　仁宗圣文钦孝皇帝，讳爱育黎拔力八达，顺宗第三子，武宗同母弟也。以至元二十二年三月丙子生。 <br/><br/>　　大德九年冬十月，成宗不豫，皇后伯牙吾氏出帝与兴圣皇太后居怀州。十年冬十二月，帝至怀州。所过屏供张，戒饬扈从之士毋扰累郡县，民皆感悦。 <br/><br/>　　十一年春正月癸酉，成宗崩。戊子，帝与皇太后赴丧。二月辛亥，至大都，入临出居旧邸。时安西王阿维答、诸王明里枯木儿已先至。中书左丞相阿忽台、平章政事八都马辛、前中书平章政事伯颜、中政院使怯烈道兴等，潜谋推皇后称制，以阿难答辅之。三月乙卯朔，阿忽台等请皇后以丁巳日垂帘，自右丞相哈剌合孙以下皆列牍署名。丙辰，帝事卫士入宫，召阿忽台等，责以乱祖宗旧制，执之。戊辰，杀左丞相阿忽台、平章政事八都马辛、中政院使怯烈道兴等。宁王阔阔出、楚王牙忽都进曰：“今内难己平，太子世祖之孙，宣早正大位。”帝曰：“王何为出此言？奸臣构乱，故诛之。吾岂欲觊觎神器耶！杯宁王吾兄，宣入承大统。”乃遣使迎武宗于北边，帝以太子监国。武宗迟回不至。夏五月乙丑，帝奉皇太后幸上都，率左古部诸王劝进。武宗即位，六月癸巳，立帝为皇太子，受金宝。帝遣使求经籍，有进《大学衍义》者，命詹事丞王约等节而译之。帝曰：“治天下，此一书足矣。”命与《图像孝经》、《列女传》并刊布天下。十一月戊寅，受玉册，领中书省、枢密院。 <br/><br/>　　至大二年八月，立尚书省，诏帝兼尚书令。詹事院启金州献瑟瑟洞，请采之。帝曰：“吾以贤为宝，瑟瑟何用？若此者，后勿复言。”淮东宣慰使撒都献玉观音、七宝帽顶、宝带、宝鞍，俱却之。 <br/><br/>　　四年春正月庚辰，武宗崩。壬午，罢尚书古。命中书右丞相塔思不花、知枢密院事铁木儿不花等参鞫尚书右丞相脱虎脱、左丞相三宝奴、平章政事乐实，右丞保八、左丞忙哥帖木儿、参知政事王罴罪状。丙戌，脱虎脱、三宝奴、乐实、保八、王罴俱伏诛。杖流忙哥帖木儿于海南，流平章政事速思不花于高丽。壬辰，诏世祖旧臣前平章政本程鹏飞、董世选。太子少傅李谦，少保张驴，中书右丞陈天样、尚文、刘正，中书左丞郝天挺，御史中丞董士珍，太子宾客萧鄹，参知政事刘敏中、王思廉、韩从益，侍御史赵君信，廉访使程钜夫，杭州达鲁花赤阿合马乘传至京师，咨以庶政。丁酉，云南行省左丞相铁木迭儿为中书右丞相，太子詹事完者、集贤大学士李孟并为中书平章政事。戊戍，中书右丞相塔思不花、徽政院使沙沙并为御史大大。己亥，改尚书行省仍为中书行省。庚子，停各处营造。罢广武喀剌卫、万户等府。辛丑，塔失铁木儿知枢密院事。 <br/><br/>　　二月乙巳，命和林、浙江二行省依前设左丞相，余省但置平章政事。辛亥，禁诸王、驸马擅据山场，听民樵采。罢阿老瓦丁买卖浙盐，供中政院食羊。禁宣政院违制度僧人。甲寅，罢江南行通政院、行宣政院。甲子，命中书平章政事李孟领国子监。丙寅，陕西行省平章政事孛罗帖木儿、江浙行省平章政事乌马儿、甘肃行省平章政事阔里吉思、河南行省参知政事塔失帖木儿、江浙行省参知政事万僧，坐前任赃罪及挟势害民，俱免官。庚午，思州蛮酋杨正思等来朝，赐金帛有差。是月，中书左丞相康里脱脱罢为江浙行省左丞相。 <br/><br/>　　三月庆辰，诏前枢密副使吴元珪、前中书左丞拜降、前陕西行省右丞兀伯都剌至京师，同诸老臣议事。丙戌，罢五台山行工部。己丑，命毋赦谋反大逆、杀祖父母父母，妻妾杀夫、奴婢杀主等罪。庚寅，即皇帝位天大明殿，受诸王、百官胡贺。诏曰：惟昔先帝事皇太后抚朕眇躬，孝友天至。践祚曾末逾月，授联皇太子宝，领中收令、枢密使、百揆机务，悉听总裁，于今五年，先帝奄弃天下，勋戚、元老咸谓，大宝之承既有成命，非与前圣宾天而始征庥宗亲议所宜立者比，当稽前代故事即正宸极。朕以恤方新，诚有未忍，是用经时。今则上奉皇太后之命，下徇诸王劝进之诚，三月十八日于大都大明殿即皇帝位。凡尚书省误国之臣，先已伏诛。同恶之徒，亦已放殛。百司庶政，悉归中书。命丞相铁木迭儿，平章政事完者、李道复等从新按治。可大赦天下。敢以前赦事相告者，以其罪罪之。 <br/><br/>　　其可为法程拯民者，具如左方：一，凡制诏、号令、钱粮、选法、刑名，一切政务，并从中书省闻奏、区处，敢有擅自奏请者，以违制论；一，内外百司，其清慎公勤五事备具者，优加迁擢，有贪污败事者，陈告得实，依条断罪；一，庶事更张，图治伊始，式遵世祖皇帝成宪，仰中书省参酌举行；一，凡言军民利病政事得失，有可采者，量加旌擢，如不可采，亦无罪谴；一，仰提调官申明累降条画，劝课农桑，经过军马及昔宝赤、探马赤等，毋得索取饮食刍藁，纵放头匹；一，康里军卫已罢，上项屯军悉听放还，其各处军马阵亡病死者常例存恤外，各加一半，云南等处新附汉军每名给布一匹；一，各投下、诸色人等不得擅招户计，诱占奴婢，违者治罪；一，站赤消乏，除海青外，应进献鹰犬，并令止罢，毋给诸王驸马投下及各衙门铺马；一，陈献地土及山场窑治之人，并行治罪；一，比者宝合丁、乞儿八答私买所盗内府宝带，既已伏诛，今后得似前申献；一，民间和雇和买、一切难泛差役，除军人并大都至上都自备站户外，其余不论是何户计，一体均当；一，恢办商税、课租，亲遵旧制，法外多取及期盗入己者，依例究治；一，营筑中都，已令停罢，其余不急之役，截日停止；一，鳏寡孤独、废疾无恤者，除常例外，每人给至元钞一贯；一，名山大川、圣帝明王、忠臣烈士，凡在祀典者次第加封。除常祀外，主者施行；一、韩脱因不花、唐华、郑阿思兰等已经昭雪，元没资产悉还本家，今后内外重囚，省部再三详谳。方许奏准；一，比年诏赦频数，吏贪民盗，不知儆畏，自今以始，其各洗心节虑，以保厥身，非常之恩，不可再觊。於戏！凡我有官君子，皆古所谓治天职、食天禄者，宜一心力，钦乃有司。无替朕命。 <br/><br/>　　遣佥知枢密院事不兰奚颁即位诏于高丽。辛卯，御史中丞李士英为中书左丞。丁酉，命月赤察儿依前为太师，宣徽使铁可为太傅，集贤大学士典出为太保。是月，前陕西行省左丞兀伯都剌为中书右丞，昭文馆大学士察罕为参知政事；平章政事、知枢密院事床兀儿，钦察亲军都指挥使脱火赤拔都儿，左丞相、知枢密院事铁木儿不花，并录军国重事；知枢密院事也速、兼山东河北蒙古军都万户也先帖木儿、仁虞院事也儿吉尼、太子詹事月鲁帖木儿并知枢密院事。 <br/><br/>　　夏四月戊申，以即位告天地于南郊。丁已，罢中政院。戊午，以即位告于大庙。辛酉，敕国子师儒之职，有才德者，不拘品级选用。乙丑，封知枢密院事铁木儿木花为宣宁郡王。丁卯，诏曰：朕惟食货，生民之本，权以币帛，先在适时。我世祖皇帝参酌古今，立中统、至元钞法，天下流行，公私蒙利，五十年于兹矣。比者尚书省不究利病，辄意变更，既创至大银钞，又铸至大铜钱。钞以倍数太多，轻重失宜；钱以喜铸弗给，新旧滞用；曾未用期，其弊滋甚，爰咨廷议，允协舆言，皆愿变通，以复旧制。其罢资国院及各处泉货监提举司，买卖铜器听民自便。应尚书省已发各处至大钞本及至大锅钱，截日封贮，民间行使者，赴行用库倒换。有司依旧印造中统钞，子母并行，以便民用。 <br/><br/>　　改封北宁王帖里哥儿不花为为湘宁王。革僧、道、也里可温、答失蛮、白云宗、头陀教等各衙门免差发。 <br/><br/>　　五月癸酉，八百媳妇及大、小车里蛮俱叛，命云南王及行省右丞阿忽台讨之。丙子，命翰林国史院修大行皇帝《实录》及累朝皇后、功臣列传。壬午，金齿蛮来献驯象。戊子，罗鬼蛮来献方物。 <br/><br/>　　六月乙巳，命侍臣咨访内外才堪信用者，悉以名闻。仍戒饬诸王恪恭乃职。甲寅，封亦思丹为怀仁郡王。丁巳，命和林行省右丞孛里、马速思经理青海屯田。己未，封知枢密院事孛罗为泽国公。甲子，请大行皇帝谥于南郊，上尊谥曰仁惠宣孝皇帝，庙号武宗。己已，魏王阿木哥入朝。命翰林侍讲阿林铁木儿以国语译《贞观政要》，使蒙古、色目人诵习之。 <br/><br/>　　秋七月癸未，甘州地震，大风有声如雷。己亥，诏谕中书省曰：“朕前戒近侍，毋辄以文记传旨中书，自今敢有犯者，不须奏闻，直捕其人，付刑部究治。”敕御史台进老成更事者为监察御史。 <br/><br/>　　闰七月辛丑，遣国子祭酒刘赓至曲阜，以太牢祀孔子。丙午，袝武宗皇帝于太庙。戊申，封李孟秦国公，亦怜其乞剌思为司徒。己酉，吐蕃寇礼店、文州，命亦怜真等讨之。壬戌，立上都通政院，邻蒙古诸驿。乙丑，鲁国大长公主祥可刺吉进号皇姐大长公主。遣使招谕黑水、白水等蛮。 <br/><br/>　　八月己巳朔，裁京官诸司员额，并依至元三十年旧制。丙戌，安南世子陈曰□来贡方物。 <br/><br/>　　九月己亥朔，遥授左丞相不花进太尉。壬子，改元皇庆，诏曰：朕赖天地祖宗之灵，纂承圣绪，永惟治古之隆，群生咸遂，国以又宁。朕夙兴夜寐，不敢怠遑，任贤使能，兴滞补弊，庶其臻兹敛时五福，用敷锡厥庶民，朕之志也，逾年改元，厥有彝典，其以至大五年为皇庆元年。 <br/><br/>　　是月，遣都水监木八剌沙往取杭州所造龙舟，中书省臣谏曰：“陛下践阼，诞告天下，凡非宜取索，勿得擅进。若取此舟，有乖有旨。”诏止之。 <br/><br/>　　冬十月戊辰期，有事于太庙。丁丑，禁僧寺勿冒占民田。戊子，以故太师月儿鲁那演子木剌忽知枢密院事。壬辰，议收至大银钞。 <br/><br/>　　十一月戊戌，封司徒买僧为赵国公。辛亥，诸王不里牙敦等诬告八不沙不法，诏窜不里牙敦于河南。己未，辽阳行省平章政事阿散为中书平章政事。丙寅，加徽政使罗源大司徒。 <br/><br/>　　十二月癸酉，封宣政使爱薛奏国公。壬午，诏曰：“今岁不登，民何以堪。春搜其勿令供亿。”甲申，占城国遣使贡方切。庚寅，曲赦京师大辟囚一人，并流罪。乙未，敕内降旨，一切勿行，遣礼部尚书乃马台等颁皇庆元年历于安南国。 <br/><br/>　　皇庆元年春正月戊戌朔。召河南行省右丞王约至京师。庚子，帝谕御史大夫塔思不花曰：“凡大臣不法，卿等劾奏勿避，朕自裁之。”加太师、录军国重事、知枢密院脱儿赤颜开府仪同三司，封淇阳王。庚戌，封知枢密院事、驸马丑汉为安远王，出总北军。癸丑，旌表广州路番禺县孝子陈韶孙。戊午，改封济王朵列纳为吴王。崇福使也里牙袭封秦国公。是月，以中书平章政事李孟为翰林学士承旨、知制诰，仍兼平章政事。 <br/><br/>　　二月甲戌，改和林行省为岭北行省。己卯，八百媳妇蛮来献驯象。壬午，封孛罗为永丰郡王。 <br/><br/>　　三月己亥，以帝生日为天寿节，高丽国遣使来贺圣诞。戊申，前河南行省平章政事塔失海牙为御史大夫。甲寅，诸王也先不花等遣使来贡方物。丙辰，封同知徽政院事不兰奚为赵国公。庚申，遣户部尚书马儿经理河南屯田。乙丑，封诸王塔思不花为恩平王。 <br/><br/>　　夏四月癸酉，车驾幸上都。封郓国大长公主忙哥台为大长公主。壬午，封知枢密事木剌忽为广平王。 <br/><br/>　　五月丙申朔，中书平章政事阿散为中书左丞相，江浙行省平章政事张驴为中书平章政事。加枢密院事也先帖木儿开府仪同三司。 <br/><br/>　　六月乙丑朔，日有食之。丁卯，天雨毛。己未，京师地震。丁亥，敕罢封赠，戒左右勿侥幸加官。 <br/><br/>　　秋七月丙午，中书参知政事贾钩乞病归，赐钞三百锭，给安车还籍。 <br/><br/>　　八月己卯，吏总尚书许师敬为中书参知政事。庚辰，车驾至自上都。辛卯，安南国王陈益稷来朝。 <br/><br/>　　九月戊戌，罢讨八百媳妇及大、小车里，以玺书招谕之。辛丑，遣司徒田忠良等至真正府玉华宫祀睿宗御容，八百媳妇及大、小车里蛮来献方物。甲辰，参议中书省事阿里海涯为叁知政事。 <br/><br/>　　冬十月甲子，有事于太庙。癸未，中书参知政事察罕加平章政事、商议中书省事。戊子，翰林学士承旨玉连赤不花等进顺宗、成宗、武宗《实录》。辛卯，以诸王入觐，赦天下，敢以赦前事相告者，以其罪罪之。 <br/><br/>　　十一月丙午，谕六部官毋逾越奏事。丙辰，晋封濮阳王、驸马脱脱木儿为歧王。庚申，占城国来献犀象。缅国遣使来朝。云南不农蛮岑福来朝。 <br/><br/>　　十二月癸亥，中书平章政事李孟致仕。枢密副使张珪为中书平章政事。庚辰，知枢密院事答失蛮罢。丁亥，遣使祈雪于社稷及岳镇海渎。定省部减削繁冗格例。是月，诸王春丹叛。黎贼王奴欧等作乱，伪称平章、元帅。 <br/><br/>　　二年春正月甲午，察罕脑儿等处宣慰使伯忽为御史大夫。辛丑，封乞台普济为安吉王，中书右丞相铁木迭儿以病免。丁未，太府卿秃忽鲁为中书右丞相。是月，黎贼王奴欧降。 <br/><br/>　　二月甲子，立宏吉剌氏为皇后，遣使祭告天地、太庙。丁丑，命张珪领国子学。丁亥，帝谕左右曰：“回回人以宝玉鬻于官，朕思此物何足为宝？惟眷人乃可为宝。善人用，则国家安，此朕所宜宝也。” <br/><br/>　　三月丙申，御史中丞脱欢答剌罕为御史大夫。杖流高丽陪臣事思温、金深于临洮。丙午，诏曰：《易》述家人，《诗》美关雎，故帝王受命，必建置后妃，所以顺天地之义，重人伦之本也。宏吉剌氏夙由世戚，来嫁我家，事皇太后有孝恭之懿，辅联躬着淑慎之善。于二月十六口授以册宝，立为皇后。於戏！位乎内，位乎外，得政道之相成；用之国，用之乡，庶民风之不变。咨尔有众，咸使闻知。 <br/><br/>　　壬子，右丞相秃忽鲁等以天时亢旱，又霜雨沙，乞黜免，以当天意。帝不允。甲辰，高丽王王谅以长子焘入觐，请传位于焘。诏授焘征东行省左丞相、上柱国，袭封高丽国王。 <br/><br/>　　夏四月丙戌，进纳剌忽等护送高丽王珪归国。乙亥，车驾辛上都。辛巳。加御史大夫伯忽开府仪同三司。 <br/><br/>　　五月辛丑，中书右丞兀伯都例为平章政事，左丞八剌脱因为右丞，参知政事阿里海牙为左丞，参议中书古事秃鲁花帖木儿为参知政事。是月，中书平章政事张珪罢为大司徒。 <br/><br/>　　六月己未，京师地震。癸亥，秃忽鲁等以灾异，乞赐放黜，不允。丙寅，京师地震。辛未，以参知政事许师敬纲领国子学。甲申，以朱儒周敦颐、程颢、程颐、张载、邵雍、司马光、朱熹、张珪、吕祖廉及前中书左丞许衡从祀孔子庙廷。河决陈、亳、睢等州及开封、陈留县。 <br/><br/>　　秋七用壬寅，京师地震。 <br/><br/>　　八月丁卯，车驾至自上都。庚午，御史薛居敬为中书参知政事。是月，崇明、嘉定二州海溢。 <br/><br/>　　九月癸巳，宣徽院使完者知枢密院事。戊申，封脱欢为安定王。 <br/><br/>　　冬十月己卯，敕中书省议科举法。封不答里为安德王。乙酉，旌表高州民萧又妻毛氏贞节。 <br/><br/>　　十一月甲辰，昭曰：惟我祖宗以神武定天下，世祖皇帝设官分职、征用儒难，崇学校为育才之地，设科举为去取之方，规模宏远矣。朕以眇躬，获承丕祚，继志述事，祖训是式。若稽三代以来，取士各有科目，要其本末，举人宜以德行为首，试艺则以经木为先，词章次之。浮华过实，朕所不取。爰命中书参酌古今，定其条制。其以皇庆三年八月，天下郡县举其贤者、能者，充赋有司。次年三月会试京师，中选者朕将亲策焉。 <br/><br/>　　是月，辰州蛮酋吴千道作乱。 <br/><br/>　　十二月丙子，定百官致仕资格。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1440-28700.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1440-28702.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1440.html" action-type="chapterComment" class="comment"><i></i>新元史章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

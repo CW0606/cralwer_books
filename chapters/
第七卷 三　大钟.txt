@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《巴黎圣母院》正文_第七卷 三　大钟_维克多·雨果作品 - 维普阅读网</title>
+<meta name="keywords" content="巴黎圣母院,巴黎圣母院原文,巴黎圣母院阅读,第七卷 三　大钟全文,维克多·雨果作品" />
+<meta name="description" content="巴黎圣母院原文阅读,第七卷 三　大钟全文在线阅读,维克多·雨果作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1212-20958.html";
+var nextpage="novel-read-1212-20960.html";
+var indexpage = "novel-chapter-1212.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1212.html">巴黎圣母院</a></strong>
+<strong><a href="novel-chapter-1212.html">巴黎圣母院目录</a></strong>
+<span>第七卷 三　大钟</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1212-20958.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第七卷 三　大钟</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-28.html" target="blank">外国名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=维克多·雨果&amp;searchsubmit=yes"  target="_blank">维克多·雨果</a><span class="divide">|</span>发布时间：2015-03-07 20:00:54<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　自从那天上午在耻辱柱受刑以后，圣母院的邻里都认为，卡齐莫多对敲钟的热情锐减了。以前，钟声时刻充耳，悠扬动听的早祷钟和晚祷钟，震天响的弥撒钟，以及抑扬顿挫的婚礼钟和洗礼钟，这一连串的钟声在空中飘荡缭绕，仿佛是入耳动心的各种各样声音织成的一幅云锦。整座古老的教堂震颤不已，响声回荡不绝，永远沉浸在欢乐的钟声里。人们时时刻刻感觉到有个别出心裁而又喜欢喧闹的精灵，正通过这一张张铜嘴在放声歌唱。如今这个精灵似乎消失了，大教堂显得闷闷不乐，宁愿哑然无声了。只有在节日和葬礼还可以听到单调的钟声，干巴巴的，索然无味，除非是礼仪的需要，否则不敲而已。凡是一座教堂都有两种响声，里面是管风琴声，在外是钟声，现在只有管风琴声了。仿佛圣母院钟楼里再也没有乐师了。其实卡齐莫多一直在钟楼里。他到底有什么心事呢？难道在耻辱柱上所蒙受的耻辱与绝望的心情至今还难以忘怀？刽子手的鞭挞声无休止地在他心灵里回响？难道这种刑罚使他悲痛欲绝，万念俱灭，甚至对大钟的钟情也泯灭了呢？或者，是大钟玛丽遇到了情敌，圣母院敲钟人另有所欢，或者爱上什么更可爱更美丽的东西而冷落了这口大钟及其十四位姐妹？<br/>　　公元1482年，圣母领报节到了，正好是3月25日，礼拜二。那天，空气是那么的清，那样轻柔，卡齐莫多突然觉得对那些钟又有了几分爱意，于是爬上北边的钟楼，恰恰在这时，教堂的听差正把下面每道大门打开。那时的圣母院大门全是用十分坚硬的大块木板做成的，而且外面包着皮革，四周钉有镀金的铁钉，边框装饰着“精心设计”的雕刻。<br/>　　到达塔楼顶上高大钟楼后，卡齐莫多不由得一阵心酸，摇了摇头，端详了那六口大钟一会儿，仿佛有什么奇怪的东西把他与这些大钟间隔开，因而不胜悲叹。但是，他把这些钟猛力一摇，立刻感到这一群钟在他手底下摇来晃去，只是看到-因为听不见-那颤动的八度音在响亮音阶上忽上忽下，宛如一只鸟儿在枝头上跳来跳去，钟乐的精灵，那个摇动着金光闪烁的音符。拨动着颤音。琶音和密切和应的那个守护神，早已勾走了这可怜聋子的灵魂。这时，卡齐莫多又快活起来，忘记了一切，容光焕发，心花怒放。<br/>　　他走来走去拍着手，从这根钟索跑到那根钟索，大声叫，指手划脚，鼓动着那六位歌手，犹如乐队指挥在激励聪明的演奏能手那样。<br/>　　“奏吧，”他喊道，“奏吧，加布里埃！把你全部的声音倾注到广场上去。今天是节日呀！”-“蒂博尔，别偷懒。你慢下来啦。快，加把劲！难道你生锈了，懒东西？”-“好呀！赶快！快！最好别让人看见钟锤摆动！叫他们个个像我一样被震聋！就这样，蒂博尔，好样的！”-“吉约姆！吉约姆！你最胖，帕斯基埃最小，但帕斯基埃最洪亮。来我们打个赌：凡是听得见的人都听出它比你响亮得多了。”-“棒！真棒！我的加布里埃，响些再响些！”-“嘿！你们两只麻雀，在上面干什么呢？我没有听见你们发出那怕是一丁点儿声响。”-“那些铜嘴在该歌唱时却像在打呵欠，这是怎么回事呀？得啦，好好干活吧！这是圣母领报节，阳光真这么好好，也该有好听的钟乐才行。”“可怜的吉约姆！瞧你上气不接下气的，我可爱的胖墩！”<br/>　　他全神贯注地忙于激励那几个大钟，于是这六个大钟一个比一个更起劲地跳跃着，摇摆着它们光亮的臀部，就像几头套在一起的西班牙骡子，不时在骡夫吆喝声的驱策下，喧闹着狂奔。<br/>　　钟楼笔直的墙壁，在一定高度上被一片片宽大的石板瓦遮掩着。忽然，卡齐莫多无意间从石板瓦中间向下望，看到一个打扮奇异的少女来到广场上，停了下来，把一条毯子铺在地上，一只小山羊随后走过来站在毯子上，四周立刻围拢了一群观众。这一看，卡齐莫多思绪顿时变了，对音乐的满腔热情猝然凝固了，仿佛熔化的树脂被风一吹，一下子冻结起来似的。他停住了，扭身背向那些钟，在石板瓦遮檐后面蹲了下来，目不转睛地凝望着那个跳舞的姑娘，目光迷惘。深情。温柔，曾经使副主教惊讶过一次的那样的目光。这会儿，那几口被遗忘的大钟顷刻都一齐哑然无声，叫那些爱听钟乐的人大失所望，他们本来站在钱币兑换所桥上，真心真意地聆听着圣母院群钟齐鸣，此时只好怏怏离去，仿佛一条狗，人家给它看的是一根骨头，扔给它的却是一块石头。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1212-20958.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1212-20960.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1212.html" action-type="chapterComment" class="comment"><i></i>巴黎圣母院章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

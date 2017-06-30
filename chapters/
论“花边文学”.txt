@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《花边文学》正文_论“花边文学”_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="花边文学,花边文学原文,花边文学阅读,论“花边文学”全文,鲁迅作品" />
+<meta name="description" content="花边文学原文阅读,论“花边文学”全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-536-6801.html";
+var nextpage="novel-read-536-6803.html";
+var indexpage = "novel-chapter-536.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-536.html">花边文学</a></strong>
+<strong><a href="novel-chapter-536.html">花边文学目录</a></strong>
+<span>论“花边文学”</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-536-6801.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>论“花边文学”</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 21:20:21<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>近来有一种文章，四周围着花边，从一些副刊上出现。这文章，每天一段，雍容闲适，缜密整齐，看外形似乎是“杂感”，但又像“格言”，内容却不痛不痒，毫无着落。似乎是小品或语录一类的东西。今天一则“偶感”，明天一段“据说”，从作者看来，自然是好文章，因为翻来复去，都成了道理，颇尽了八股的能事的。但从读者看，虽然不痛不痒，却往往渗有毒汁，散布了妖言。<br/><br/>　　譬如甘地被刺，就起来作一篇“偶感”，颂扬一番“摩哈达麻”，咒骂几通暴徒作乱，为圣雄出气禳灾，顺便也向读者宣讲一些“看定一切”，“勇武和平”的不抵抗说教之类。这种文章无以名之，且名之曰“花边体”或“花边文学”罢。<br/><br/>　　这花边体的来源，大抵是走入鸟道以后的小品文变种。据这种小品文的拥护者说是会要流传下去的（见《人间世》：《关于小品文》）。我们且来看看他们的流传之道罢。六月念八日《申报》《自由谈》载有这样一篇文章，题目叫《倒提》。大意说西洋人禁止倒提鸡鸭，华人颇有鸣不平的，因为西洋人虐待华人，至于比不上鸡鸭。<br/><br/>　　于是这位花边文学家发议论了，他说：“这其实是误解了西洋人。他们鄙夷我们是的确的，但并未放在动物之下。”<br/><br/>　　为什么“并未”呢？据说是“人能组织，能反抗，……自有力量，自有本领，和鸡鸭绝不相同的缘故。”所以租界上没有禁止苛待华人的规律。不禁止虐待华人，当然就是把华人看在鸡鸭之上了。<br/><br/>　　倘要不平么，为什么不反抗呢？<br/><br/>　　而这些不平之士，据花边文学家从古典里得来的证明，断为“不妨变狗”之辈，没有出息的。<br/><br/>　　这意思极明白，第一是西洋人并未把华人放在鸡鸭之下，自叹不如鸡鸭的人，是误解了西洋人。第二是受了西洋人这种优待，不应该再鸣不平。第三是他虽也正面的承认人是能反抗的，叫人反抗，但他实在是说明西洋人为尊重华人起见，这虐待倒不可少，而且大可进一步。第四，倘有人要不平，他能从“古典”来证明这是华人没有出息。<br/><br/>　　上海的洋行，有一种帮洋人经营生意的华人，通称叫“买办”，他们和同胞做起生意来，除开夸说洋货如何比国货好，外国人如何讲礼节信用，中国人是猪猡，该被淘汰以外，还有一个特点，是口称洋人曰：“我们的东家”。我想这一篇《倒提》的杰作，看他的口气，大抵不出于这般人为他们的东家而作的手笔。因为第一，这般人是常以了解西洋人自夸的，西洋人待他很客气；第二，他们往往赞成西洋人（也就是他们的东家）统治中国，虐待华人，因为中国人是猪猡；第三，他们最反对中国人怀恨西洋人。抱不平，从他们看来，更是危险思想。<br/><br/>　　从这般人或希望升为这般人的笔下产出来的就成了这篇“花边文学”的杰作。但所可惜是不论这种文人，或这种文字，代西洋人如何辩护说教，中国人的不平，是不可免的。因为西洋人虽然不曾把中国放在鸡鸭之下，但事实上也似乎并未放在鸡鸭之上。香港的差役把中国犯人倒提着从二楼摔下来，已是久远的事；近之如上海，去年的高丫头，今年的蔡洋其辈，他们的遭遇，并不胜过于鸡鸭，而死伤之惨烈有过而无不及。这些事实我辈华人是看得清清楚楚，不会转背就忘却的，花边文学家的嘴和笔怎能朦混过去呢？<br/><br/>　　抱不平的华人果真如花边文学家的“古典”证明，一律没有出息的么？倒也不的。我们的古典里，不是有九年前的五卅运动，两年前的一二八战争，至今还在艰苦支持的东北义勇军么？谁能说这些不是由于华人的不平之气聚集而成的勇敢的战斗和反抗呢？<br/><br/>　　“花边体”文章赖以流传的长处都在这里。如今虽然在流传着，为某些人们所拥护。但相去不远，就将有人来唾弃他的。现在是建设“大众语”文学的时候，我想“花边文学”，不论这种形式或内容，在大众的眼中，将有流传不下去的一天罢。<br/><br/>　　这篇文章投了好几个地方，都被拒绝。莫非这文章又犯了要报私仇的嫌疑么？但这“授意”却没有的。就事论事，我觉得实有一吐的必要。文中过火之处，或者有之，但说我完全错了，却不能承认。倘得罪的是我的先辈或友人，那就请谅解这一点。<br/><br/>　　笔者附识。<br/><br/>　　七月三日《大晚报》《火炬》。<br/><br/>　<br/>===============================================================<br/><br/><br/><br/>　　（１）本篇最初发表于一九三四年六月二十八日《申报·自由谈》。<br/><br/>　　（２）当时上海公共租界工部局有不许倒提鸡鸭在路上走，违者即拘入捕房罚款的规定。这里所说西洋的慈善家，指当时上海外侨中“西人救牲会”的组织。<br/><br/>　　（３）“倒悬”语见《孟子·公孙丑》：“民之悦之，犹解倒悬也。”<br/><br/>　　（４）“生刲驴肉”据清代钱泳《履园丛话》卷十七：“山西省城外，有晋祠地方……有酒馆……曰驴香馆。其法以草驴一头，养得极肥，先醉以酒，满身排打。欲割其肉，先钉四桩，将足捆住；而以木一根横于背，系其头尾，使不得动。初以百滚汤沃其身，将毛刮尽，再以快刀零割。要食前后腿，或肚当，或背脊，或头尾肉，各随客便；当客下箸时，其驴尚未死绝也。”活烤鹅掌，据清代顾公燮《消夏闲记摘抄》卷上：“云间叶映榴好食鹅掌。以鹅置铁楞上，浸火烤炙；鹅跳唬不已，以酱油醋饮之。少焉鹅毙，仅存皮骨，掌大如扇，味美无伦。”又唐代张族鸟《朝野佥载》卷二也记载过活烤鹅鸭和活烤驴的残虐食法。<br/><br/>　　（５）舆台是古代奴隶中两个等级的名称，后泛指被奴役的人。<br/><br/>　　（６）西崽旧时对西洋人雇用的中国男仆的蔑称。<br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-536-6801.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-536-6803.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-536.html" action-type="chapterComment" class="comment"><i></i>花边文学章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

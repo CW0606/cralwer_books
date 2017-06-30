@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《礼记正义》正文_卷五十九 深衣第三十九_郑玄作品 - 维普阅读网</title>
+<meta name="keywords" content="礼记正义,礼记正义原文,礼记正义阅读,卷五十九 深衣第三十九全文,郑玄作品" />
+<meta name="description" content="礼记正义原文阅读,卷五十九 深衣第三十九全文在线阅读,郑玄作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1017-10297.html";
+var nextpage="novel-read-1017-10299.html";
+var indexpage = "novel-chapter-1017.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1017.html">礼记正义</a></strong>
+<strong><a href="novel-chapter-1017.html">礼记正义目录</a></strong>
+<span>卷五十九 深衣第三十九</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1017-10297.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷五十九 深衣第三十九</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=郑玄&amp;searchsubmit=yes"  target="_blank">郑玄</a><span class="divide">|</span>发布时间：2014-11-26 20:17:07<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　陆曰：“郑云：‘以其记深衣之制也。名曰《深衣》者，谓连衣裳而纯之以采也。有表则谓之中衣，以素纯则曰长衣也。’”<br/><br/>　　[疏]正义曰：案郑《目录》云：“名曰《深衣》者，以其记深衣之制也。深衣，连衣裳而纯之以采者。素纯曰长衣，有表则谓之中衣。大夫以上祭服之中衣用素。《诗》云：‘素衣朱襮。’《玉藻》曰：‘以帛里布，非礼也。’士祭以朝服，中衣以布明矣。此於《别录》属《制度》。”郑云“大夫以上祭服中衣用素”者，谓天子大夫以其四命，与公之孤同爵弁自祭，故“中衣用素”。云“士祭以朝服，中衣以布”者，亦谓天子之士与诸侯大夫同。案《少牢》：诸侯大夫祭以朝服。故天子之士亦祭以朝服。朝服用布，故“中衣以布”。其诸侯之士自祭以玄端，玄端则朝服之衣，但其裳异耳，中衣亦用布也。案《诗》云：“素衣朱襮。”晋人欲荐桓叔，桓叔、大夫、得用素衣者，国人以国君之礼待之，故欲荐素衣也。其长衣、中衣及深衣，其制度同。《玉藻》云“长、中继揜尺”，若深衣，则缘而已，下云“缘广寸半”。凡深衣皆用诸侯大夫士夕时所著之服，故《玉藻》云：“朝玄端，夕深衣。”庶人吉服亦深衣，皆著之在表也。其中衣在朝服、祭服、丧服之下。知丧服亦有中衣者，《檀弓》云：“练衣黄里。”注云“练中衣，以黄为内”是也。但丧服中衣不得“继揜尺”也。故《丧服传》云：“带缘各视其冠。”注云：“缘如深衣之缘。”是丧服中衣用深衣，则深衣缘之以采，故下云“具父母、大父母衣纯以缋以青”之属也。唯孤子深衣，纯以素，但以缘而已，不与长衣同。其吉服中衣，亦以采缘。其诸侯得绡黼为领，丹朱为缘。《郊特牲》云：“绡黼丹朱中衣，大夫之僣礼。”则知大夫、士不用绡黼丹朱，但用采纯而已矣，无文以明之。其长衣以素缘，知者，若以采缘，则与吉服中衣同，故知以素缘也。若以布缘，则曰“麻衣”。知用布缘者，以其称麻衣故知也。其丧服之中衣，其纯用布，视冠布之粗细，至葬可以用素缘也。练则用縓也。其《诗》之麻衣，则以此别。彼谓吉服之衣也。所以此称深衣者，以馀服则上衣下裳不相连，此深衣衣裳相连，被体深邃，故谓之“深衣”。<br/><br/>　<br/><br/>　　古者深衣，盖有制度，以应规矩绳权衡。言圣人制事，必有法度。○应，於证反。短毋见肤，衣取蔽形。○毋音无，下同。见，贤遍反。长毋被土，为污辱也。○被，彼义反。为，于伪反。污，污辱之污，一音乌卧反。续衽钩边，续，犹属也。衽，在裳旁者也。属，连之，不殊裳前后也。钩，读如“鸟喙必钩”之“钩”。钩边，若今曲裾也。续，或为“裕”。○衽，而审反，又如鸩反。钩，古侯反。属音烛，下皆同。喙，许秽反。裕，以树反。要缝半下。三分要中，减一以益下，下宜宽也。要，或为“优”。○要，一遥反，注同。缝，扶用反，下注同。袼之高下，可以运肘；肘不能不出入。袼，衣袂当掖之缝也。○袼，本又作胳，音各，腋也。肘，竹九反，又张柳反。掖，本又作腋，音亦。袂之长短，反诎之及肘。袂属幅於衣，诎而至肘，当臂中为节，臂骨上下各尺二寸，则袂肘以前尺二寸。肘，或为“腕”。○袂，弥世反，袪末曰袂。诎，丘勿反。腕，乌乱反。带，下毋厌髀，上毋厌胁，当无骨者。当骨，缓急难为中也。○厌，於甲反，徐於涉反，下同。髀，毕婢反，徐亡婢反，一音步启反。胁，许劫反。当，丁浪反，注同，又丁郎反。中，丁仲反，又如字。制十有二幅，以应十有二月。裳六幅，幅分之，以为上下之杀。○应，应对之应，下同。杀，色界反，徐所例反。袂圜以应赞规，谓胡下也。○圜音圆。胡下，下垂曰胡。曲袷如矩以应方，袷，交领也。古者方领，如今小儿衣领。○袷音劫，下注同。负绳及踝以应直，绳，谓裻与后幅相当之缝也。踝，跟也。○踝，胡瓦反。裻音督。跟音根。下齐如权衡，以应平。齐，缉。○齐音咨，亦作斋，下同。缉，古入反。故规者，行举手以为容。行举手，谓揖让。负绳抱方者，以直其政，方其义也。故《易》曰：“《坤》六二之动，直以方也。”言深衣之“直”、“方”，应《易》之文也。政，或为“正”。下齐如权衡者，以安志而平心也。心平志安，行乃正。或低或仰，则心有异志者与？○行，下孟反，又如字。卬音仰，本又作仰，一音五郎反。与音馀。五法已施，故圣人服之。言非法不服也。故规矩取其无私，绳取其直，权衡取其平，故先王贵之。贵此衣也。故可以为文，可以为武，可以摈相，可以治军旅。完且弗费，善衣之次也。“完且弗费”，言可苦衣而易有也。深衣者，用十五升布，锻濯灰治，绳之以采。善衣，朝祭之服也。自士以上，深衣为之次，庶人吉服深衣而已。○相，息亮反。完音丸。费，芳贵反，又孚沸反，注同。苦衣，於既反。易，以豉反。锻，丁乱反。濯音浊。纯，之允反，又之闰反，后皆同。朝，直遥反。上，时掌反。具父母、大父母，衣纯以缋。具父母，衣纯以青。如孤子，衣纯以素。尊者存，以多饰为孝。缋，画文也。三十以下无父称孤。○大父母音泰，大父母，祖父母也。缋，胡对反。纯袂、缘、纯边，广各寸半。纯，谓缘之也。缘袂，谓其口也。缘，緆也。缘边，衣裳之侧，广各寸半，则表里共三寸矣。唯袷广二寸。○缘，悦绢反，注同。广，古旷反，注同。緆，徐音以豉反，皇音锡。案郑注《既夕礼》云：“饰衣领袂口曰纯，裳边侧曰綼，下曰緆也。”<br/><br/>　　[疏]“古者”至“篇末”。○正义曰：此一篇从此至未，皆论深衣之制。今各随文解之。○“古宅深衣，盖有制度”者，以作记之人为记之时，深衣无复制度，故称“古者深衣，盖有制度”。言“盖”者，疑辞也。○“以应规矩绳权衡”者，此则制度之事，所应者备在下文。○“短毋见肤”者，深衣所取覆形体，纵令稍短，不得见其肤肉，若见肤肉，则衰也。○“长毋被土”者，其衣纵长，无覆被於土，为污辱也。○“续衽钩边”者，衽，谓深衣之裳，以下阔上狭，谓之为“衽”。接续此衽而钩其旁边，即今之朝服有曲裾而在旁者是也。○注“续犹”至“裾也”。○正义曰：“衽当旁”者，凡深衣之裳上二幅，皆宽头在下，狭头在上，皆似小要之衽，是前后左右皆有衽也。今云“衽当旁”者，谓所续之衽，当身之一旁，非为馀衽悉当旁也。云“属，连之，不殊裳前后也”，若其丧服，其裳前三幅、后四幅各自为之，不相连也。今深衣裳，一旁则连之相著，一旁则有曲裾掩之，与相连无异，故云“属，连之，不殊裳前后也”。云“钩，读如鸟喙必钩之钩”者，案《援神契》云：“象鼻必卷，长鸟喙必钩。”郑据此读之也。云“若今曲裾也”，郑以后汉之时，裳有曲裾，故以“续衽钩边”似汉时曲裾。今时朱衣朝服，从后汉明帝所为，则郑云今曲裾者，是今朝服之曲裾也。其深衣之衽，已於《玉藻》释之，故今不得言也。○“要缝半下”，要缝，谓要中之缝，尺寸阔狭，半下畔之阔，下畔一丈四尺四寸，则要缝半之，七尺二寸。○注“三分”至“宽也”。○正义曰：此据裳之一幅，分为二幅。凡布广二尺二寸，四寸为缝。一尺八寸在三分之一，分为六寸，减此六寸，以益於下，是下二幅有二尺四寸，上二幅有一尺二寸，故云“三分要中，减一以益下”。下容举足而行，故宜宽也。○“袼之高下，可以运肘”，袼，谓当臂之处。袂中高下宜稍宽大，可以运动其肘。袂二尺二寸，肘尺二寸，是容运肘也。又“袂之长短，反诎之及肘”者，袂长二尺二寸，并缘寸半，为二尺三寸半。除去其缝之所杀各一寸，馀有二尺一寸半在，从肩至手二尺四寸。今二尺一寸半之袂，得“反诎及肘”者，以袂属於衣，幅阔二尺二寸，身脊至肩但尺一寸也。从肩覆臂，又尺一寸，是衣幅之畔覆臂将尽。今又属袂於衣又二尺二寸半，故反诎其袂得及於肘也。○“当无骨”者，带若当骨，则缓急难中，故当无骨之处。此深衣带，下於朝祭服之带也。朝祭之带则近上。故《玉藻》云：“三分带下，绅居二焉。”是自带以下，四尺五寸也。○“制十有二幅，以应十有二月”者，深衣其幅有六，每幅交解为二，是十二幅也。○注“古者方领”。○正义曰：郑以汉时领皆乡下交垂，故云“古者方领”，似今拥咽，故云“若今小儿衣领，但方折之也”。○“负绳及踝以应直”。○正义曰：衣之背缝及裳之背缝，上下相当，如绳之正，故云“负绳”，非谓实负绳也。○“故规者，行举手以为容”者，所以袂圆中规者，欲使行者举手揖让以为容仪，如规也。○“负绳抱方”者，以直其政、方其义也。负绳，背之缝也。抱方，领之方也。“以直其政”，解“负绳”。“以方其义”，解“抱方”也。言欲使人直其政教，欲使政教直。方其义，欲使义事方正也。○“故《易》曰：《坤》六二之动，直以方也”，记者既明方直之义，故引《坤卦》之六二直方以证之。案郑注《坤》之六二云：“自也，方也，地之性。”此爻得中气而在地上，自然之性，广生万物，故生动直而且方。○“下齐如权衡”者，以安志而平心也者，言裳下之齐，如权之衡低仰平也，欲以安其志意，而平均其心也。○注“完且”至“而已”。○正义曰：“可苦衣而易有也”，以其完牢，乃可於苦事衣著，故庶人服之以完牢故也。“而易有”者，以白布为之，不须黼黻锦绣之属，是“易有”也。云“深衣者，用十五升布，锻濯灰治”者，案《杂记》云“朝服十五升”，此深衣与朝服相类，故用十五升布锻濯，谓打洗锻濯，用灰治理，使和熟也。然则丧服麻衣，虽似深衣之制，不必锻濯灰治，以其杂凶故也。云“自士以上，深衣为之次”者，案《玉藻》“诸侯夕深衣，祭牢肉”，又“大夫、士朝玄端、夕深衣”，是深衣为朝祭之次服也。云“庶人吉服深衣”者，深衣是诸侯之下，自深衣以后更无馀服，故知是庶人之吉服。丧服者衰裳，包贵贱上下无差，亦明庶人吉服乃深衣也。○“具父母、大父母，衣纯以缋”者，所尊俱在，故“衣纯以缋”。言“具父母”，则父母俱在也，“大父母”则亦然也。若其不具，一在一亡，不必纯以缋也。○“具父母，衣纯以青”者，唯有父母，而无祖父母者，以为吉不具，故节少，而深衣领缘用青纯，降於缋也。若父母无，唯祖父母在，亦当纯以青。○“纯袂、缘、纯边，广各寸半”者，纯袂者，纯，缘也，谓纯其袂。缘则袂口也。又云“缘，读为緆”，谓深衣之下纯也。纯边者，谓深衣之旁侧也。“广各寸半”者，言纯袂口及裳下之緆并纯旁边，其广各寸半。言表里合为三寸。○注“纯谓”至“二寸”。○正义曰：“纯谓缘之”者，解经文二个“纯”字，一是纯袂，二是纯边，皆谓缘之也。云“缘袂，谓其口”也，经言“纯袂”，恐口外更缘，故云“纯袂”，则是缘其袂口也，非是口外更有缘也，故分明言之。云“缘，緆也”，解经“缘”字读为“緆”，谓深衣下畔也。故《既夕礼》云：“明衣縓綼緆。”郑注云：“在幅曰綼，在下曰緆。”今经云此緆，则深衣之下缘也。云“缘边，衣裳之侧”，解经“纯边”也。深衣外衿之边有缘也。裳虽前后相连，然外边曲裾揜处，其侧亦有缘也。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1017-10297.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1017-10299.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1017.html" action-type="chapterComment" class="comment"><i></i>礼记正义章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

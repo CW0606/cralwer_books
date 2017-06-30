@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《鬼谷子》正文_胠箧②第十四_鬼谷子作品 - 维普阅读网</title>
+<meta name="keywords" content="鬼谷子,鬼谷子原文,鬼谷子阅读,胠箧②第十四全文,鬼谷子作品" />
+<meta name="description" content="鬼谷子原文阅读,胠箧②第十四全文在线阅读,鬼谷子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-24-364.html";
+var nextpage="novel-chapter-24.html";
+var indexpage = "novel-chapter-24.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-24.html">鬼谷子</a></strong>
+<strong><a href="novel-chapter-24.html">鬼谷子目录</a></strong>
+<span>胠箧②第十四</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-24-364.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>胠箧②第十四</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鬼谷子&amp;searchsubmit=yes"  target="_blank">鬼谷子</a><span class="divide">|</span>发布时间：2014-07-19 00:48:19<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/><br/>　　将为胠箧①探囊②发匮③之盗，为之守备，则必摄缄滕④，固扃鐍⑤，此世俗之所谓智也。然而巨盗至，则负⑥匮揭⑦箧，担囊而趋⑧，唯恐缄滕、扃鐍之不固也。然则向之所谓智者，不乃为大盗积⑨者也。故尝试论之：世俗之所谓知者，有不为大盗积者乎？其所谓圣者，有不为大盗守者乎？<br/>　　何以知其然耶？昔者10，齐国邻邑相望11，鸡狗之音相闻，网罟12之所布，耒耨13之所刺14，方15二千余里。阖16四境之内，所以立宗庙17社稷18，治邑屋州闾乡里19者，曷常20不法圣人哉！然而，田成子21一朝杀齐君，而盗其国。所盗者，岂独其国耶？并与其圣智之法而盗之。故田成子有乎盗贼之名，而身处尧舜22之安，小国不敢非，大国不敢诛，十二代而有齐国23。则是不乃窃齐国，并与其圣智之法。以守其盗贼之身乎？<br/><br/>【注释】<br/>①胠箧：从旁边打开。箧，竹子做的箱子。这里是指把箱子打开。<br/>②探囊：掏摸囊袋。<br/>③发匮：匮，同柜，是一种木制的匣子。<br/>④摄缄滕：摄，系结，缠绕。缄滕，绳索。这里是指捆紧绳索。<br/>⑤扃鐍（jue）：扃，门窗、箱柜上的开关。鐍，箱子上加锁的铰纽。这里统指箱子铰钮。<br/>⑥负：背着。<br/>⑦揭：高举。<br/>⑧趋：小跑。<br/>⑨积：收拾清理好物资。<br/>10昔者：从前。<br/>11邻邑相望：指人口稠密，生活安定。<br/>12网罟：网，原指捕兽工具。罟，原指捕鱼工具。<br/>13耒耨：古代的犁。耨，古代的锄。<br/>14刺：插入，这里指耕耘。<br/>15方：古代表述面积的用语。方二千里就是指长2000里，宽2000里的面积。<br/>16阖：同合，总共的意思。<br/>17宗庙：同宗祭祖的地方。<br/>18社稷：社，祭祀土神。稷，祭祀谷神。这里指国家政权。<br/>19邑屋州闾乡里：《司马法》有“开四为邑”，“五比为闾，五州为乡”。邑屋、州闾、乡里都是指区域名称。<br/>20曷常：何尝。<br/>21田成子：春秋末，齐国大夫田恒。<br/>22尧舜：古代贤明首领。<br/>23十二代而有齐国：从敬仲至庄公共九代知齐政；自太公至威王三世为齐侯。共十二世。庄子为齐宣王时人故不算宣王。<br/><br/>【译文】<br/>　　要想防备撬箱子、掏口袋、开柜子的强盗，就要把箱子、口袋用绳子捆紧，用锁锁牢。这就是历来人们所说的聪明办法。但是大的强盗来了，则背起柜子、举起匣子，挑着口袋迅速逃走，还唯恐绳子捆得不结实。这样看来，以前所谓的聪明人，不都是在为大盗收拾财物吗。因此曾经试论这个道理：世俗所说的聪明人，有哪个不是在为大的强盗积累财物呢？那些所谓圣人，有哪个不是在为大的强盗看守财物的呢？<br/>　　怎么能知道是这样呢？从前齐国城邑密布，鸡犬之声相闻，打猎、捕鱼和耕种的地域纵横二千里。在整个国土范围内，赖以建立的宗法制度，管理各级区域的体系，没有不是遵循圣人的准则的。可是田成子在一天早上杀掉了齐国国君，而窃得了国家政权。其所窃得的岂止齐国的政权，连同齐国遵循的圣人的智慧和礼法一同窃取了。所以田成子虽然有窃国的名声，然而其统治地位却像尧舜一样安稳，小国不敢非议，大国不敢诛伐，已经控制齐国十二代了。这不恰好说明，田成子在窃取齐国政权时，连同齐国遵循的圣人智慧和法度一同窃去了，并以此来保护其本来属于强盗的自身吗？<br/><br/><br/>　　注：①②两篇有云失传。具体说法如下：<br/>　　《转丸》、《胠乱》二篇皆亡。或有《庄周·胠箧》而充次第者。按鬼谷之书，崇尚计谋，祖述圣智，而《庄周·胠箧》乃以圣人为大盗之资，圣法为桀跖之失，乱天下者，圣人之由也。盖欲纵圣弃智，驱一代于混茫之中，殊非此书之意，盖无取焉。或曰：《转丸》、《胠箧》者，本经《中经》是也。）</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-24-364.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-24.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-24.html" action-type="chapterComment" class="comment"><i></i>鬼谷子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

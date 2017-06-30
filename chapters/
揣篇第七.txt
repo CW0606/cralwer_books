@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《鬼谷子》正文_揣篇第七_鬼谷子作品 - 维普阅读网</title>
+<meta name="keywords" content="鬼谷子,鬼谷子原文,鬼谷子阅读,揣篇第七全文,鬼谷子作品" />
+<meta name="description" content="鬼谷子原文阅读,揣篇第七全文在线阅读,鬼谷子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-24-357.html";
+var nextpage="novel-read-24-359.html";
+var indexpage = "novel-chapter-24.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-24.html">鬼谷子</a></strong>
+<strong><a href="novel-chapter-24.html">鬼谷子目录</a></strong>
+<span>揣篇第七</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-24-357.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>揣篇第七</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鬼谷子&amp;searchsubmit=yes"  target="_blank">鬼谷子</a><span class="divide">|</span>发布时间：2014-07-19 00:38:19<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/><br/>　　古之善用天下者，必量天下之权，而揣诸侯之情。量权不审，不知强弱轻重之称；揣情不审，不知隐匿变化之动静。<br/>　　何谓量权？曰：度于大小，谋于众寡；称货财有无之数，料人民多少、饶乏，有余不足几何？辨地形之险易，孰利孰害？谋虑孰长孰短？揆君臣之亲疏，孰贤孰不肖？与宾客之智慧，孰多孰少？观天时之祸福，孰吉孰凶？诸侯之交，孰用孰不用？百姓之心，孰安孰危？孰好孰憎？反侧孰辨？能知此者，是谓量权。<br/>　　揣情者，必以其甚喜之时，往而极其欲也；其有欲也，不能隐其情。必以其甚惧之时，往而极其恶也；其有恶者，不能隐其情。情欲必出其变。感动而不知其变者，乃且错其人勿与语，而更问其所亲，知其所安。夫情变于内者，形见于外，故常必以其者而知其隐者，此所以谓测深探情。<br/>　　故计国事者，则当审权量；说人主，则当审揣情；谋虑情欲，必出于此。乃可贵，乃可贱；乃可重，乃可轻；乃可利，乃可害；乃可成，乃可败；其数一也。 故虽有先王之道；圣智之谋，非揣情隐匿，无可索之。此谋之大本也，而说之法也。常有事于人，人莫能先，先事而生，此最难为。故曰：揣情最难守司。言必时其谋虑。故观□飞蠕动，无不有利害，可以生事美。生事者，几之势也。此揣情饰言，成文章而后论之也。<br/>　　【注释】<br/>　　揣：估量。<br/><br/>译文：<br/><br/>　　所谓揣情，就是必须在对方最高兴的时候，去加大他们的欲望，他们既然有欲望，就无法按捺住实情；又必须在对方最恐惧的时候，去加重他们的恐惧，他们既然有害怕的心理，就不能隐瞒住实情。情欲必然要随着事态的发展变化流露出来。对那些已经受到感动之后，仍不见有异常变化的人，就要改变游说对象，不要再对他说什么了，而应改向他所亲近的人去游说，这样就可以知道他安然不为所动的原因。那些感情从内部发生变化的人，必然要通过形态显现于外表。所以我们常常要通过显露出来的表面现象，来了解那些隐藏在内部的真情。这就是所说的“测深揣情”。<br/><br/>　　所以谋划国家大事的人，就应当详细衡量本国的各方面力量；游说他国君主的人，则应当全面揣测别国君主的想法，避其所短，从其所长。所有的谋划、想法、情绪及欲望都必须以这里为出发点。只有这样做了，才能得心应手地处置各种问题和对付各色人物。可以尊敬，也可以轻视；可以施利，也可以行害；可以成全，也可以败坏，其使用的办法都是一致的。所以，虽然有古代先王的德行，有圣人高超的智谋，不揣度透彻所有隐蔽的和深藏的实情，将什么也追求不到。这是智谋的基础和游说的通用法则。人们对某些事情常常感到来得突然，是因为不能事先预见。能在事情发生之前就预见到，这是最难的。因此说：“揣情，最难把握”。游说活动必须深谋远虑地选择时机。过去我们看到昆虫蠕动，都与自己的利益相关，因此才发生变化。而任何事情在刚刚产生之时，都呈现一种微小的态势。这种揣情，需要借助漂亮的言辞或文章而后才能进行游说应用。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-24-357.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-24-359.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-24.html" action-type="chapterComment" class="comment"><i></i>鬼谷子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

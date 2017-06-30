@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孔子家语》正文_五刑解_王肃作品 - 维普阅读网</title>
+<meta name="keywords" content="孔子家语,孔子家语原文,孔子家语阅读,五刑解全文,王肃作品" />
+<meta name="description" content="孔子家语原文阅读,五刑解全文在线阅读,王肃作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-349-5195.html";
+var nextpage="novel-read-349-5197.html";
+var indexpage = "novel-chapter-349.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-349.html">孔子家语</a></strong>
+<strong><a href="novel-chapter-349.html">孔子家语目录</a></strong>
+<span>五刑解</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-349-5195.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>五刑解</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王肃&amp;searchsubmit=yes"  target="_blank">王肃</a><span class="divide">|</span>发布时间：2014-09-05 21:46:54<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>冉有问于孔子曰：“古者三皇五帝不用五刑，信乎？”孔子曰：“圣人之设防，贵其不犯也，制五刑而不用，所以为至治也。凡夫之为奸邪窃盗，靡法妄行者，生于不足，不足生于无度，无度则小者偷盗，大者侈靡，各不知节。是以上有制度，则民知所止，民知所止，则不犯。故虽有奸邪贼盗，靡法妄行之狱，而无陷刑之民。不孝者生于不仁，不仁者生于丧祭之礼明，丧祭之礼所以教仁爱也，能教仁爱，则丧思慕祭祀，不解人子馈养之道，言孝子奉祭祀不敢解生时馈养之道同之也丧祭之礼明，则民孝矣。故虽有不孝之狱，而无陷刑之民。杀上者生于不义，义所以别贵贱，明尊卑也，贵贱有别，尊卑有序，则民莫不尊上而敬长。朝聘之礼者，所以明义也，义必明则民不犯，故虽有杀上之狱，而无陷刑之民。斗变者生于相陵，相陵者生于长幼无序，而遗敬让，遗忘乡饮酒之礼者，所以明长幼之序，而崇敬让也，长幼必序，民怀敬让，故虽有斗变之狱，而无陷刑之民。淫乱者生于男女无别，男女无别，则夫妇失义，礼聘享者所以别男女，明夫妇之义也，男女既别，夫妇既明，故虽有淫乱之狱，而无陷刑之民。此五者，刑罚之所以生，各有源焉。不豫塞其源，而辄绳之以刑，是谓为民设阱而陷之。刑罚之源，生于嗜欲不节，失礼度者，所以御民之嗜欲，而明好恶顺天之道，礼度既陈，五教毕修，而民犹或未化，尚必明其法典以申固之。尚犹也申令固其教也其犯奸邪靡法妄行之狱者，则饬制量之度；有犯不孝之狱者，则饬丧祭之礼；有犯杀上之狱者，则饬朝觐之礼；有犯斗变之狱者，则饬乡饮酒之礼；有犯淫乱之狱者，则饬婚聘之礼。三皇五帝之所化民者如此，虽有五刑之用，不亦可乎！”孔子曰：“大罪有五，而杀人为下，逆天地者罪及五世，诬文武者罪及四世，逆人伦者罪及三世，谋鬼神者罪及二世，手杀人者罪及其身，故曰大罪有五，而杀人为下矣。”<br/>　　冉有问于孔子曰：“先王制法，使刑不上于大夫，礼不下于庶人，然则大夫犯罪，不可以加刑，庶人之行事，不可以治于礼乎？”孔子曰：“不然，凡治君子以礼御其心，所以属之以廉耻之节也，故古之大夫，其有坐不廉污秽而退放之者，不谓之不廉污秽而退放，则曰簠簋不饬；饬整齐也有坐淫乱男女无别者，不谓之淫乱男女无别，则曰帷幕不修也；有坐罔上不忠者，不谓之罔上不忠，则曰臣节未着；有坐罢软不胜任者，不谓之罢软不胜任，则曰下官不职；言其下官不称移其职不斥其身也有坐干国之纪者，不谓之干国之纪，则曰行事不请。言不请而擅行此五者，大夫既自定有罪名矣，而犹不忍斥，然正以呼之也，既而为之讳，所以愧耻之，是故大夫之罪，其在五刑之域者，闻而谴发，谴谴让也发始发露则白冠厘缨，盘水加剑，造乎阙而自请罪，君不使有司执縳牵掣而加之也。其有大罪者，闻命则北面再拜，跪而自裁，君不使人捽引而刑杀。捽昨没反曰：‘子大夫自取之耳，吾遇子有礼矣，以刑不上大夫而大夫亦不失其罪者，教使然也。’所谓礼不下庶人者，以庶人遽其事而不能充礼，故不责之以备礼也。”冉有跪然免席曰：“言则美矣，求未之闻，退而记之。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-349-5195.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-349-5197.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-349.html" action-type="chapterComment" class="comment"><i></i>孔子家语章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

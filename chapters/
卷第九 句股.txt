@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《九章算术》正文_卷第九 句股_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="九章算术,九章算术原文,九章算术阅读,卷第九 句股全文,佚名作品" />
+<meta name="description" content="九章算术原文阅读,卷第九 句股全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-250-3957.html";
+var nextpage="novel-chapter-250.html";
+var indexpage = "novel-chapter-250.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-250.html">九章算术</a></strong>
+<strong><a href="novel-chapter-250.html">九章算术目录</a></strong>
+<span>卷第九 句股</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-250-3957.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷第九 句股</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-08-25 21:22:28<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>〔一〕今有句三尺，股四尺，问为弦几何？<br/><br/>　　答曰：五尺。<br/><br/>　　〔二〕今有弦五尺，句三尺，问为股几何？　　答曰：四尺。<br/><br/>　　〔三〕今有股四尺，弦五尺，问为句几何？<br/><br/>　　答曰：三尺。　　句股术曰：句股各自乘，并，而开方除之，即弦。<br/><br/>　　又股自乘，以减弦自乘，其馀开方除之，即句。<br/><br/>　　又句自乘，以减弦自乘，其馀开方除之，即股。<br/><br/>　　〔四〕今有圆材径二尺五寸，欲为方版，令厚七寸。问广几何？<br/><br/>　　答曰：二尺四寸。<br/><br/>　　术曰：令径二尺五寸自乘，以七寸自乘减之，其馀开方除之，即广。<br/><br/>　　〔五〕今有木长二丈，围之三尺。葛生其下，缠木七周，上与木齐。问葛长几何？<br/><br/>　　答曰：二丈九尺。<br/><br/>　　术曰：以七周乘三尺为股，木长为句，为之求弦。弦者，葛之长。<br/><br/>　　〔六〕今有池方一丈，霞生其中央，出水一尺。引霞赴岸，适与岸齐。问水深、霞长各几何？　　答曰：<br/><br/>　　水深一丈二尺；　　霞长一丈三尺。<br/><br/>　　术曰：半池方自乘，以出水一尺自乘，减之，馀，倍出水除之，即得水深。加出水数，得霞长。<br/><br/>　　〔七〕今有立木，繫索其末，委地三尺。引索却行，去本八尺而索尽。问索长几何？<br/><br/>　　答曰：一丈二尺、六分尺之一。<br/><br/>　　术曰：以去本自乘，令如委数而一，所得，加委地数而半之，即索长〔八〕今有垣高一丈。倚木于垣，上与垣齐。引木却行一尺，其木至地。问木几何？　　答曰：五丈五寸。　　术曰：以垣高十尺自乘，如却行尺数而一，所得，以加却行尺数而半之，即木长数。<br/><br/>　　〔九〕今有圆材，埋在壁中，不知大小。以鐻鐻之，深一寸，鐻道长一尺。问径几何？<br/><br/>　　答曰：材径二尺六寸。<br/><br/>　　术曰：半鐻道自乘，如深寸而一，以深寸增之，即材径。<br/><br/>　　〔一０〕今有开门去阃一尺，不合二寸。问门广几何？<br/><br/>　　答曰：一丈一寸。<br/><br/>　　术曰：以去阃一尺自乘，所得，以不合二寸半之而一，所得，增不合之半，即得门广。<br/><br/>　　〔一一〕今有户高多于广六尺八寸，两隅相去适一丈。问户高、广各几何？<br/><br/>　　答曰：　　广二尺八寸；<br/><br/>　　高九尺六寸。<br/><br/>　　术曰：令一丈自乘为实。半相多，令自乘，倍之，减实，半其馀。以开方除之，所得，减相多之半，即户广。加相多之半，即户高。<br/><br/>　　〔一二〕今有户不知高广，竿不知长短。横之不出四尺，从之不出二尺，邪之适出。问户高、广、袤各几何？<br/><br/>　　答曰：　　广六尺，　　高八尺，<br/><br/>　　袤一丈。<br/><br/>　　术曰：从、横不出相乘，倍，而开方除之。所得加从不出即户广，加横不出即户高，两不出加之，得户袤。<br/><br/>　　〔一三〕今有竹高一丈，末折抵地，去本三尺。问折者高几何？<br/><br/>　　答曰：四尺、二十分尺之十一。　　术曰：以去本自乘，令如高而一，所得，以减竹高而半其馀，即折者之高也。<br/><br/>　　〔一四〕今有二人同所立。甲行率七，乙行率三。乙东行。甲南行十步而邪东北与乙会。问甲乙行各几何？<br/><br/>　　答曰：<br/><br/>　　乙东行一十步半；<br/><br/>　　甲邪行一十四步半及之。<br/><br/>　　术曰：令七自乘，三亦自乘，并而半之，以为甲邪行率。邪行率减于七自乘，馀为南行率。以三乘七为乙东行率。置南行十步，以甲邪行率乘之，副置十步，以乙东行率乘之，各自为实。实如南行率而一，各得行数。<br/><br/>　　〔一五〕今有句五步，股十二步。问句中容方几何？<br/><br/>　　答曰：方三步、十七分步之九。<br/><br/>　　术曰：并句、股为法，句股相乘为实，实如法而一，得方一步。　　〔一六〕今有句八步，股十五步。问句中容圆，径几何？<br/><br/>　　答曰：六步。<br/><br/>　　术曰：八步为句，十五步为股，为之求弦。三位并之为法，以句乘股，倍之为实。实如法得径一步。　　〔一七〕今有邑方二百步，各中开门。出东门十五步有木。问出南门几何步而见木？　　答曰：六百六十六步、太半步。<br/><br/>　　术曰：出东门步数为法，半邑方自乘为实，实如法得一步。<br/><br/>　　〔一八〕今有邑，东西七里，南北九里，各中开门。出东门十五里有木。问出南门几何步而见木？<br/><br/>　　答曰：三百一十五步。<br/><br/>　　术曰：东门南至隅步数，以乘南门东至隅步数为实。以木去门步数为法。实如法而一。<br/><br/>　　〔一九〕今有邑方不知大小，各中开门。出北门三十步有木，出西门七百五十步见木。问邑方几何？　　答曰：一里。<br/><br/>　　术曰：令两出门步数相乘，因而四之，为实。开方除之，即得邑方。<br/><br/>　　〔二０〕今有邑方不知大小，各中开门。出北门二十步有木。出南门十四步，折而西行一千七百七十五步见木。问邑方几何？<br/><br/>　　答曰：二百五十步。<br/><br/>　　术曰：以出北门步数乘西行步数，倍之，为实。并出南门步数为从法，开方除之，即邑方。<br/><br/>　　〔二一〕今有邑方十里，各中开门。甲乙俱从邑中央而出。乙东出；甲南出，出门不知步数，邪向东北磨邑，适与乙会。率甲行五，乙行三。问甲、乙行各几何？<br/><br/>　　答曰：<br/><br/>　　甲出南门八百步，邪东北行四千八百八十七步半，及乙。<br/><br/>　　乙东行四千三百一十二步半。<br/><br/>　　术曰：令五自乘，三亦自乘，并而半之，为邪行率。邪行率减于五自乘者，馀，为南行率。以三乘五，为乙东行率。置邑方半之，以南行率乘之，如东行率而一，即得出南门步数。以增邑方半，即南行。置南行步求弦者，以邪行率乘之，求东者以东行率乘之，各自为实。实如南行率得一步。<br/><br/>　　〔二二〕有木去人不知远近。立四表，相去各一丈，令左两表与所望参相直。从后右表望之，入前右表三寸。问木去人几何？<br/><br/>　　答曰：三十三丈三尺三寸、少半寸。<br/><br/>　　术曰：令一丈自乘为实，以三寸为法，实如法而一。　　〔二三〕有山居木西，不知其高。山去木五十三里，木高九丈五尺。人立木东三里，望木末适与山峰斜平。人目高七尺。问山高几何？<br/><br/>　　答曰：一百六十四丈九尺六寸、太半寸。<br/><br/>　　术曰：置木高减人目高七尺，馀，以乘五十三里为实。以人去木三里为法。实如法而一，所得，加木高即山高。<br/><br/>　　〔二四〕今有井径五尺，不知其深。立五尺木于井上，从木末望水岸，入径四寸。问井深几何？<br/><br/>　　答曰：五丈七尺五寸。　　术曰：置井径五尺，以入径四寸减之，馀，以乘立木五尺为实。以入径四寸为法。实如法得一寸。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-250-3957.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-250.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-250.html" action-type="chapterComment" class="comment"><i></i>九章算术章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

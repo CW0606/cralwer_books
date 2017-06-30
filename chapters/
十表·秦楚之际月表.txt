@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《史记》正文_十表·秦楚之际月表_司马迁作品 - 维普阅读网</title>
+<meta name="keywords" content="史记,史记原文,史记阅读,十表·秦楚之际月表全文,司马迁作品" />
+<meta name="description" content="史记原文阅读,十表·秦楚之际月表全文在线阅读,司马迁作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-220-2606.html";
+var nextpage="novel-read-220-2608.html";
+var indexpage = "novel-chapter-220.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-220.html">史记</a></strong>
+<strong><a href="novel-chapter-220.html">史记目录</a></strong>
+<span>十表·秦楚之际月表</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-220-2606.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>十表·秦楚之际月表</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=司马迁&amp;searchsubmit=yes"  target="_blank">司马迁</a><span class="divide">|</span>发布时间：2014-08-16 21:40:30<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　太史公读秦楚之际，曰：初作难，发於陈涉；虐戾灭秦，自项氏；拨乱诛暴，平定海内，卒践帝祚，成於汉家。五年之间，号令三嬗。自生民以来，未始有受命若斯之亟也。<br/><br/>　　昔虞、夏之兴，积善累功数十年，德洽百姓，摄行政事，考之于天，然後在位。汤、武之王，乃由契、后稷脩仁行义十馀世，不期而会孟津八百诸侯，犹以为未可，其後乃放弑。秦起襄公，章於文、缪，献、孝之後，稍以蚕食六国，百有馀载，至始皇乃能并冠带之伦。以德若彼，用力如此，盖一统若斯之难也。<br/><br/>　　秦既称帝，患兵革不休，以有诸侯也，於是无尺土之封，堕坏名城，销锋镝，鉏豪桀，维万世之安。然王迹之兴，起於闾巷，合从讨伐，轶於三代，乡秦之禁，適足以资贤者为驱除难耳。故愤发其所为天下雄，安在无土不王。此乃传之所谓大圣乎？岂非天哉，岂非天哉！非大圣孰能当此受命而帝者乎？<br/><br/>　　（表略）<br/><br/>【译文】<br/>　　太史公研读关于秦楚之际的记载，说：最早发难的是陈涉，残酷暴戾地灭掉秦朝的是项羽，拨乱反正、诛除凶暴、平定天下、终于登上帝位、取得成功的是汉家。五年之间，号令变更了三次，自从有人类以来，帝王受天命的变更，还不曾有这样急促的。<br/>　　当初虞舜、夏禹兴起的时候，他们积累善行和功劳的时间长达几十年，百姓都受到他们恩德的润泽，他们代行君主的政事，还要受到上天的考验，然后才即位。商汤、周武称王是由契、后稷开始讲求仁政，实行德义，经历了十几代，到周武王时，竟然没有约定就有八百诸侯到孟津相会，他们还认为时机不到。从那时以后，才放逐了夏桀，杀了殷纣王。秦国自襄公时兴起，在文公、穆公时显示出强大的力量，到献公、孝公之后，逐步侵占六国的土地。经历了一百多年以后，到了始皇帝才兼并了六国诸侯。实行德治像虞、夏、汤、武那样，使用武力像秦国这样，才能成功，统一天下是如此艰难！<br/>　　秦称帝之后，忧虑过去的战争所以不断，是由于有诸侯的缘故，因此，对功臣、宗室连一尺土地都没有分封，而且毁坏有名的城池，销毁刀箭，铲除各地的豪强势力，打算保持万世帝业的安定。然而帝王的功业，兴起于民间，天下英雄豪杰互相联合，讨伐暴秦，气势超过了三代。从前秦国的那些禁令，恰好用来资助贤能的人排除创业的患难而已。因此，发奋有为而成为天下的英雄，怎么能说没有封地便不能成为帝王呢？这就是上天把帝位传给所说的大圣吧！这难道不是天意吗？这难道不是天意吗？如果不是大圣，谁能在这乱世承受天命建立帝业呢！<br/><br/>注释<br/>1. 秦：<br/>指秦二世胡亥。楚：指西楚霸王项羽。表：是《史记》创立的一种体例，它用表格的形式来表述历史人物和历史事实。《史记》中的表一般为年表，因秦楚之际天下未定，变化很快，就采取按月记述，把当时发生的大事列为月表。<br/>2. 太史公：<br/>司马迁自称。因司马迁曾任汉太史令，所以自称太史公。作难（nàn）：作乱；造反。陈涉：名胜，字涉，阳城（今河南省登封县东南）人。他同吴广首先起兵反秦，是我国古代著名的农民起义领袖。<br/>3. 虐戾（nüè lì）：<br/>残暴，凶狠。项氏：这里指项羽。项羽，名籍，字羽，下相（今江苏省宿迁县西）人。秦二世时，陈涉首先发难。项羽和叔父项梁起义兵，大破秦军，率领五国诸侯入关灭秦，分封王侯，自称“西楚霸王”。<br/>4. 践：<br/>登上，踏上。祚（zuò）：通“阼”，帝位。<br/>5. 三嬗：<br/>三次更替。指陈涉、项氏、汉高祖、嬗（shàn），通“禅”。更替，变迁。生民以来：谓有人类以来，即有史以来。斯：这，这样。亟（jí）：急切，急速。也：用在句末，表示坚决的语气。<br/>6. 洽：<br/>融洽，悦服。摄行：代理。<br/>7. 汤：<br/>即商汤王，名履，放逐夏桀，建立商朝。武：即周武王，姓姬，名发，西伯姬昌之子。诛杀商纣（zhòu），建立周朝。契（xiè）：帝喾之子。虞舜之臣，封于商，赐姓子氏，为商朝的始祖。后稷：虞舜时农官名。弃掌管其事，因亦称弃为后稷，为周朝的始祖。孟津，地名，在今河南省孟县南，又名河阳渡。周武王伐纣，曾在这里会集八百诸侯。《书·武成》：“既戊午，师逾孟津。”放弑（shì）：指商汤王放逐夏桀，周武王诛杀商纣，《孟子·梁惠王下》：“汤放桀，武王伐纣。”<br/>8. 襄公：<br/>秦襄公，周平王东迁时始列为诸侯。章：显著，显赫。文、缪（mù）：秦文公、缪公，春秋时候秦国两个国君。缪，一作“穆”。献、孝：秦献公、孝公，战国时期秦国两个国君。蚕食：像蚕吃桑叶般慢慢地吞并。并：兼并。冠带之伦：高冠大带之辈，指六国诸侯。一说，比喻习于礼教的人民，别于夷狄而言。<br/>9. 彼：<br/>指虞、夏、商、周。此：指秦。<br/>10. 兵革不休以有诸侯：<br/>这是一个表示前果后因的句子，意即“所以兵革不休是因为有诸侯的缘故”。以，因。堕（huī）：毁坏。销：溶化；锋：刀刃。镝（dí）：箭头。维：同“惟”。度量，计算。<br/>11. 闾巷：<br/>里巷。合从（zòng）：即“合纵”，谓联合各路军队。轶（yì）：胜过。三代：谓夏、商、周三代。<br/>12. 乡：<br/>通“向”。从前。适足以资贤者为驱除难耳：“为”后省宾语“之”（代贤者）。难，谓困难。耳，而已，罢了。无土不王：这里用的是一句古语。<br/>13. “此乃……乎？”句：<br/>相当于现代汉语的“这是……吧？”疑问句。传（zhuàn）：谓书籍记载。<br/>14. “岂非……哉？”句：<br/>相当于现代汉语的“难道不是……吗？”反诘句。用否定表示肯定。<br/>15. “非……孰能……者乎？”句：<br/>相当于现代汉语的“不是……谁能……的呢？”反诘句。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-220-2606.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-220-2608.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-220.html" action-type="chapterComment" class="comment"><i></i>史记章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

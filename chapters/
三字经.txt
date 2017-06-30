@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《三字经》正文_三字经_王应麟作品 - 维普阅读网</title>
+<meta name="keywords" content="三字经,三字经原文,三字经阅读,三字经全文,王应麟作品" />
+<meta name="description" content="三字经原文阅读,三字经全文在线阅读,王应麟作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-229.html";
+var nextpage="novel-chapter-229.html";
+var indexpage = "novel-chapter-229.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-229.html">三字经</a></strong>
+<strong><a href="novel-chapter-229.html">三字经目录</a></strong>
+<span>三字经</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-229.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>三字经</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王应麟&amp;searchsubmit=yes"  target="_blank">王应麟</a><span class="divide">|</span>发布时间：2014-08-19 21:33:05<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>人之初，性本善。性相近，习相远。<br/>苟不教，性乃迁。教之道，贵以专。<br/>昔孟母，择邻处。子不学，断机杼。<br/>窦燕山，有义方。教五子，名俱扬。<br/>养不教，父之过。教不严，师之惰。<br/>子不学，非所宜。幼不学，老何为。<br/>玉不琢，不成器。人不学，不知义。<br/>为人子，方少时。亲师友，习礼仪。<br/>香九龄，能温席。孝于亲，所当执。<br/>融四岁，能让梨。悌于长，宜先知。<br/>首孝悌，次见闻。知某数，识某文。<br/>一而十，十而百。百而千，千而万。<br/>三才者，天地人。三光者，日月星。<br/>三纲者，君臣义。父子亲，夫妇顺。<br/>曰春夏，曰秋冬。此四时，运不穷。<br/>曰南北，曰西东。此四方，应乎中。<br/>曰水火，木金土。此五行，本乎数。<br/>曰仁义，礼智信。此五常，不容紊。<br/>稻粱菽，麦黍稷。此六谷，人所食。<br/>马牛羊，鸡犬豕。此六畜，人所饲。<br/>曰喜怒，曰哀惧。爱恶欲，七情具。<br/>青赤黄，及黑白。此五色，目所识。<br/>酸苦甘，及辛咸。此五味，口所含。<br/>膻焦香，及腥朽。此五臭，鼻所嗅。<br/>匏土革，木石金。丝与竹，乃八音。<br/>曰平上，曰去入。此四声，宜调协。<br/>高曾祖，父而身。身而子，子而孙。<br/>自子孙，至玄曾。乃九族，人之伦。<br/>父子恩，夫妇从。兄则友，弟则恭。<br/>长幼序，友与朋。君则敬，臣则忠。<br/>此十义，人所同。当师叙，勿违背。<br/>斩齐衰，大小功。至缌麻，五服终。<br/>礼乐射，御书数。古六艺，今不具。<br/>惟书学，人共遵。既识字，讲说文。<br/>有古文，大小篆。隶草继，不可乱。<br/>若广学，惧其繁。但略说，能知原。<br/>凡训蒙，须讲究。详训诂，明句读。<br/>为学者，必有初。小学终，至四书。<br/>论语者，二十篇。群弟子，记善言。<br/>孟子者，七篇止。讲道德，说仁义。<br/>作中庸，子思笔。中不偏，庸不易。<br/>作大学，乃曾子。自修齐，至治平。<br/>孝经通，四书熟。如六经，始可读。<br/>诗书易，礼春秋。号六经，当讲求。<br/>有连山，有归藏。有周易，三易详。<br/>有典谟，有训诰。有誓命，书之奥。<br/>我周公，作周礼。著六官，存治体。<br/>大小戴，注礼记。述圣言，礼乐备。<br/>曰国风，曰雅颂。号四诗，当讽咏。<br/>诗既亡，春秋作。寓褒贬，别善恶。<br/>三传者，有公羊。有左氏，有谷梁。<br/>经既明，方读子。撮其要，记其事。<br/>五子者，有荀扬。文中子，及老庄。<br/>经子通，读诸史。考世系，知终始。<br/>自羲农，至黄帝。号三皇，居上世。<br/>唐有虞，号二帝。相揖逊，称盛世。<br/>夏有禹，商有汤。周文武，称三王。<br/>夏传子，家天下。四百载，迁夏社。<br/>汤伐夏，国号商。六百载，至纣亡。<br/>周武王，始诛纣。八百载，最长久。<br/>周辙东，王纲坠。逞干戈，尚游说。<br/>始春秋，终战国。五霸强，七雄出。<br/>嬴秦氏，始兼并。传二世，楚汉争。<br/>高祖兴，汉业建。至孝平，王莽篡。<br/>光武兴，为东汉。四百年，终于献。<br/>魏蜀吴，争汉鼎。号三国，迄两晋。<br/>宋齐继，梁陈承。为南朝，都金陵。<br/>北元魏，分东西。宇文周，与高齐。<br/>迨至隋，一土宇。不再传，失统绪。<br/>唐高祖，起义师。除隋乱，创国基。<br/>二十传，三百载。梁灭之，国乃改。<br/>梁唐晋，及汉周。称五代，皆有由。<br/>炎宋兴，受周禅。十八传，南北混。<br/>辽与金，皆称帝。元灭金，绝宋世。<br/>舆图广，超前代。九十年，国祚废。<br/>太祖兴，国大明。号洪武，都金陵。<br/>迨成祖，迁燕京。十六世，至崇祯。<br/>权阉肆，寇如林。李闯出，神器焚。<br/>道咸间，变乱起。始英法，扰都鄙。<br/>同光后，宣统弱。传九帝，满清殁。<br/>革命兴，废帝制。立宪法，建民国。<br/>古今史，全在兹。载治乱，知兴衰。<br/>史虽繁，读有次。史记一，汉书二。<br/>后汉三，国志四。兼证经，参通鉴。<br/>读史者，考实录。通古今，若亲目。<br/>昔仲尼，师项橐。古圣贤，尚勤学。<br/>赵中令，读鲁论。彼既仕，学且勤。<br/>披蒲编，削竹简。彼无书，且知勉。<br/>头悬梁，锥刺股。彼不教，自勤苦。<br/>如囊萤，如映雪。家虽贫，学不辍。<br/>如负薪，如挂角。身虽劳，犹苦卓。<br/>苏老泉，二十七。始发愤，读书籍。<br/>彼既老，犹悔迟。尔小生，宜早思。<br/>若梁灏，八十二。对大廷，魁多士。<br/>彼既成，众称异。尔小生，宜立志。<br/>莹八岁，能咏诗。泌七岁，能赋棋。<br/>彼颖悟，人称奇。尔幼学，当效之。<br/>蔡文姬，能辩琴。谢道韫，能咏吟。<br/>彼女子，且聪敏。尔男子，当自警。<br/>唐刘晏，方七岁。举神童，作正字。<br/>口而诵，心而惟。朝于斯，夕于斯。<br/>晏虽幼，身已仕。有为者，亦若是。<br/>犬守夜，鸡司晨。苟不学，曷为人。<br/>蚕吐丝，蜂酿蜜。人不学，不如物。<br/>幼而学，壮而行。上致君，下泽民。<br/>扬名声，显父母。光于前，裕于后。<br/>人遗子，金满赢。我教子，唯一经。<br/>勤有功，戏无益。戒之哉，宜勉力。<br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-229.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-229.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-229.html" action-type="chapterComment" class="comment"><i></i>三字经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

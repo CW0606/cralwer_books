@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《短歌行》正文_短歌行 其一_曹操作品 - 维普阅读网</title>
+<meta name="keywords" content="短歌行,短歌行原文,短歌行阅读,短歌行 其一全文,曹操作品" />
+<meta name="description" content="短歌行原文阅读,短歌行 其一全文在线阅读,曹操作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-481.html";
+var nextpage="novel-read-481-5727.html";
+var indexpage = "novel-chapter-481.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-481.html">短歌行</a></strong>
+<strong><a href="novel-chapter-481.html">短歌行目录</a></strong>
+<span>短歌行 其一</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-481.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>短歌行 其一</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=曹操&amp;searchsubmit=yes"  target="_blank">曹操</a><span class="divide">|</span>发布时间：2014-09-17 20:57:59<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/><br/>　　对酒当歌，人生几何？<br/><br/>　　譬如朝露，去日苦多。<br/><br/>　　慨当以慷，忧思难忘。<br/><br/>　　何以解忧，唯有杜康。<br/><br/>　　青青子衿，悠悠我心。<br/><br/>　　但为君故，沉吟至今。<br/><br/>　　呦呦鹿鸣，食野之苹。<br/><br/>　　我有嘉宾，鼓瑟吹笙。<br/><br/>　　明明如月，何时可掇。<br/><br/>　　忧从中来，不可断绝。<br/><br/>　　越陌度阡，枉用相存。<br/><br/>　　契阔谈宴，心念旧恩。<br/><br/>　　月明星稀，乌鹊南飞。<br/><br/>　　绕树三匝，何枝可依？<br/><br/>　　山不厌高，海不厌深。<br/><br/>　　周公吐哺，天下归心。<br/><br/>【注释】<br/><br/>1.对酒当歌：一边喝着酒，一边唱着歌。当，也是对着的意思。<br/>2.几何：多少。<br/>3.去日苦多：跟（朝露）相比一样痛苦却漫长。有慨叹人生短暂之意。<br/>4.慨当以慷：指宴会上的歌声激昂慷慨。当以，这里“应当用”的意思。全句意思是，应当用激昂慷慨（的方式来唱歌）。<br/>5.杜康：相传是最早造酒的人，这里代指酒。<br/>6.青青子衿（jīn），悠悠我心：出自《诗经·郑风·子衿》。原写姑娘思念情人，这里用来比喻渴望得到有才学的人。子，对对方的尊称。衿，古式的衣领。青衿，是周代读书人的服装，这里指代有学识的人。悠悠，长久的样子，形容思虑连绵不断。<br/>7.沉吟：原指小声叨念和思索，这里指对贤人的思念和倾慕。<br/>8.呦（yōu）呦鹿鸣，食野之苹。我有嘉宾，鼓瑟吹笙（shēng）：出自《诗经·小雅·鹿鸣》。<br/>9.呦呦：鹿叫的声音<br/>10.鼓：弹。<br/>11.苹：艾蒿。<br/>12.何时可掇（chuò）：什么时候可以摘取呢？掇，通“辍”，停止。一说音(duō)，拾取。<br/>13.越陌度阡：穿过纵横交错的小路。陌，东西向田间小路。阡，南北向的小路。<br/>14.枉用相存：屈驾来访。枉，这里是“枉驾”的意思；用，以。存，问候，思念。<br/>15.讌（yàn）：通“宴”（原文中讌为“&#18217;”）。<br/>16.三匝（zā）：三周。匝，周，圈。<br/>17海不厌深：这里是借用《管子 形解》中的话，原文是：“海不辞水，故能成其大；山不辞土，故能成其高；明主不厌人，故能成其众......”意思是表示希望尽可能多地接纳人才。<br/><br/>【译文】<br/><br/>一边喝酒一边高歌，人生短促日月如梭。<br/>好比晨露转瞬即逝，失去的时日实在太多！<br/>席上歌声激昂慷慨，忧郁长久填满心窝。<br/>靠什么来排解忧闷？唯有狂饮方可解脱。<br/>那穿着青领（周代学士的服装）的学子哟，你们令我朝夕思慕。<br/>只是因为您的缘故，让我沉痛吟诵至今。<br/>阳光下鹿群呦呦欢鸣，悠然自得啃食在绿坡。<br/>一旦四方贤才光临舍下，我将奏瑟吹笙宴请嘉宾。<br/>当空悬挂的皓月哟，什么时候才可以拾到；<br/>我久蓄于怀的忧愤哟，突然喷涌而出汇成长为河。<br/>远方宾客踏着田间小路，一个个屈驾前来探望我。<br/>彼此久别重逢谈心宴饮，争着将往日的情谊诉说。<br/>月光明亮星光稀疏，一群寻巢乌鹊向南飞去。<br/>绕树飞了三周却没敛翅，哪里才有它们栖身之所？<br/>高山不辞土石才见巍峨，大海不弃涓流才见壮阔。<br/>我愿如周公一般礼贤下士，愿天下的英杰真心归顺与我。<br/><br/>【背景】<br/><br/>　　《三国演义》第四十八回有一段曹操横槊赋诗的描写。曹操平定北方后，率百万雄师，饮马长江，与孙权决战。是夜明月皎洁，他在大江之上置酒设乐，欢宴诸将。酒酣，操取槊（长矛）立于船头，慷慨而歌。<br/>　　曹操平定了北方割据势力，控制了朝政。他又亲率八十三万大军，直达长江北岸，准备渡江消灭孙权和刘备，进而统一全中国。建安十三年（公元208年），冬十一月十五日，天气晴朗，风平浪静，曹操下令：“今晚在大船上摆酒设乐，款待众将。”到了晚上，天空的月亮非常明亮，长江宛如横飘的一条素带。再看船上众将，个个锦衣绣袄，好不威风。曹操告诉众将官：我自起兵以来，为国除害，扫平四海，使天下太平。东方人来道谢，曹操非常高兴，先以酒奠长江，随后满饮三大杯。并横槊告诉众将说：我拿此槊破黄巾，擒吕布、灭袁术、收袁绍，深入塞北，直达辽东，纵横天下，颇不负大丈夫之志，在这良辰美景，我作歌，你们跟着和。接着，他唱曰："对酒当歌，人生几何……绕树三匝，何枝可依，山不厌高，水不厌深，周公吐哺，天下归心。”<br/><br/>【赏析】<br/><br/>　　《短歌行》是汉乐府的旧题，属于《相和歌辞·平调曲》。这就是说它本来是一个乐曲的名称。最初的古辞已经失传。乐府里收集的同名有24首，最早的是曹操的这首。乐谱已失传。但乐府《相和歌·平调曲》中除了《短歌行》还有《长歌行》，唐代吴兢《乐府古题要解》引证古诗“长歌正激烈”，魏文帝曹丕《燕歌行》“短歌微吟不能长”和晋代傅玄《艳歌行》“咄来长歌续短歌”等句，认为“长歌”、“短歌”是指“歌声有长短”。我们也就只能根据这一点点材料来理解《短歌行》的音乐特点。《短歌行》这个乐曲，原来当然也有相应的歌辞，就是“乐府古辞”，但这古辞已经失传了。现在所能见到的最早的《短歌行》就是曹操所作的拟乐府《短歌行》。所谓“拟乐府”就是运用乐府旧曲来补作新词，曹操传世的《短歌行》共有两首，这里要介绍的是其中的第一首。<br/>　　这首《短歌行》的主题非常明确，就是作者希望有大量人才来为自己所用。曹操在其政治活动中，为了扩大他在庶族地主中的统治基础，打击反动的世袭豪强势力，曾大力强调“唯才是举”，为此而先后发布了“求贤令”、“举士令”、“求逸才令”等；而《短歌行》实际上就是一曲“求贤歌”、又正因为运用了诗歌的形式，含有丰富的抒情成分，所以就能起到独特的感染作用，有力地宣传了他所坚持的主张，配合了他所颁发的政令。<br/>　　《短歌行》原来有“六解”（即六个乐段），按照诗意分为四节来读。<br/>　　“对酒当歌，人生几何？譬如朝露，去日苦多。慨当以慷，忧思难忘。何以解忧，唯有杜康。”<br/>　　在这八句中，作者强调他非常发愁，愁得不得了。那么愁的是什么呢？原来他是苦于得不到众多的“贤才”来同他合作，一道抓紧时间建功立业。试想连曹操这样位高权重的人居然在那里为“求贤”而发愁，那该有多大的宣传作用。假如庶族地主中真有“贤才”的话，看了这些话就不能不大受感动和鼓舞。他们正苦于找不到出路呢，没有想到曹操却在那里渴求人才，于是那真正有才或自以为有才的许许多多人，就很有可能跃跃欲试，向他“归心”了。 “对酒当歌”八句，猛一看很象是《古诗十九首》中的消极调子，而其实大不相同。这里讲“人生几何”，不是叫人“及时行乐”，而是要及时地建功立业。又从表面上看，曹操是在抒个人之情，发愁时间过得太快，恐怕来不及有所作为。实际上却是在巧妙地感染广大“贤才”，提醒他们人生就像“朝露”那样易于消失，岁月流逝已经很多，应该赶紧拿定主意，到自己这里来施展抱负。所以一经分析便不难看出，诗中浓郁的抒情气氛包含了相当强烈的政治目的。这样积极的目的而故意要用低沉的调子发端，这固然表明曹操真有他的愁思，所以才说得真切；但另一方面也正因为通过这样的调子更能打开处于下层、多历艰难、又急于寻找出路的士人的心扉。所以说用意和遣词既是真切的，也是巧妙的。在这八句诗中，主要的情感特征就是一个“愁”字，“愁”到需要用酒来消解（“杜康”相传是最早造酒的人，这里就用他的名字来作酒的代称）。“愁”这种感情本身是无法评价的，能够评价的只是这种情感的客观内容，也就是为什么而“愁”。由于自私、颓废、甚至反动的缘故而愁，那么这愁就是一种消极的感情；反之，为着某种有进步意义的目的而愁，那就成为一种积极的情感。放到具体的历史背景中看，曹操在这里所表达的愁绪就是属于后者，应该得到恰当的历史评价。清人陈沆在《诗比兴笺》中说：“此诗即汉高祖《大风歌》思猛士之旨也。‘人生几何’发端，盖传所谓古之王者知寿命之不长，故并建圣哲，以贻后嗣。”这可以说基本上懂得了曹操发愁的含意；不过所谓“并建圣哲，以贻后嗣”还未免说得迂远。曹操当时考虑的是要在他自己这一生中结束战乱，统一全中国。与汉高祖唱《大风歌》是既有相通之处，也有不同之处的。<br/>　　“青青子衿，悠悠我心。但为君故，沉吟至今。呦呦鹿鸣，食野之苹。我有嘉宾，鼓瑟吹笙。”<br/>　　这八句情味更加缠绵深长了。“青青”二句原来是《诗经·郑风·子衿》中的话，原诗是写一个姑娘在思念她的爱人，其中第一章的四句是：“青青子衿，悠悠我心。纵我不往，子宁不嗣音？”（你那青青的衣领啊，深深萦回在我的心灵。虽然我不能去找你，你为什么不主动给我音信？）曹操在这里引用这首诗，而且还说自己一直低低地吟诵它，这实在是太巧妙了。他说“青青子衿，悠悠我心”，固然是直接比喻了对“贤才”的思念；但更重要的是他所省掉的两句话：“纵我不往，子宁不嗣音？”曹操由于事实上不可能一个一个地去找那些“贤才”，所以他便用这种含蓄的方法来提醒他们：“就算我没有去找你们，你们为什么不主动来投奔我呢？”由这一层含而不露的意思可以看出，他那“求才”的用心实在是太周到了，的确具有感人的力量。而这感人力量正体现了文艺创作的政治性与艺术性的结合。他这种深细婉转的用心，在《求贤令》之类的文件中当然无法尽情表达；而《短歌行》作为一首诗，就能抒发政治文件所不能抒发的感情，起到政治文件所不能起的作用。紧接着他又引用《诗经·小雅·鹿鸣》中的四句，描写宾主欢宴的情景，意思是说只要你们到我这里来，我是一定会待以“嘉宾”之礼的，我们是能够欢快融洽地相处并合作的。这八句仍然没有明确地说出“求才”二字，因为曹操所写的是诗，所以用了典故来作比喻，这就是“婉而多讽”的表现方法。同时，“但为君故”这个“君”字，在曹操的诗中也具有典型意义。本来在《诗经》中，这“君”只是指一个具体的人；而在这里则具有了广泛的意义：在当时凡是读到曹操此诗的“贤士”，都可以自认为他就是曹操为之沈吟《子衿》一诗的思念对象。正因为这样，此诗流传开去，才会起到巨大的社会作用。<br/>　　“明明如月，何时可掇？忧从中来，不可断绝。越陌度阡，枉用相存。契阔谈讌，心念旧恩。”<br/>　　这八句是对以上十六句的强调和照应。以上十六句主要讲了两个意思，即为求贤而愁，又表示要待贤以礼。倘若借用音乐来作比，这可以说是全诗中的两个“主题旋律”，而“明明如月”八句就是这两个“主题旋律”的复现和变奏。前四句又在讲忧愁，是照应第一个八句；后四句讲“贤才”到来，是照应第二个八句。表面看来，意思上是与前十六句重复的，但实际上由于“主题旋律”的复现和变奏，因此使全诗更有抑扬低昂、反复咏叹之致，加强了抒情的浓度。再从表达诗的文学主题来看，这八句也不是简单重复，而是含有深意的。那就是说“贤才”已经来了不少，我们也合作得很融洽；然而我并不满足，我仍在为求贤而发愁，希望有更多的“贤才”到来。天上的明月常在运行，不会停止（“掇”通“辍”，“晋乐所奏”的《短歌行》正作“辍”，即停止的意思；高中课本中“掇”的解释为：拾取，采取。何时可掇：什么时候可以摘取呢）；同样，我的求贤之思也是不会断绝的。说这种话又是用心周到的表现，因为曹操不断在延揽人才，那么后来者会不会顾虑“人满为患”呢？所以曹操在这里进一步表示，他的求贤之心就象明月常行那样不会终止，人们也就不必要有什么顾虑，早来晚来都一样会受到优待。关于这一点作者在下文还要有更加明确的表示，这里不过是承上启下，起到过渡与衬垫的作用。<br/>　　“月明星稀，乌鹊南飞，绕树三匝，何枝可依？山不厌高，海不厌深，周公吐哺，天下归心。”<br/>　　“月明”四句既是准确而形象的写景笔墨，同时也有比喻的深意。清人沈德潜在《古诗源》中说：“月明星稀四句，喻客子无所依托。”这说明他看出了这四句是比喻，但光说“客子”未免空泛；实际上这是指那些犹豫不定的人才，他们在三国鼎立的局面下一时无所适从。所以曹操以乌鹊绕树、“何枝可依”的情景来启发他们，不要三心二意，要善于择枝而栖，赶紧到自己这一边来。这四句诗生动刻画了那些犹豫彷徨者的处境与心情，然而作者不仅丝毫未加指责，反而在浓郁的诗意中透露着对这一些人的关心和同情。这恰恰说明曹操很会做思想工作，完全是以通情达理的姿态来吸引和争取人才。而象这样一种情味，也是充分发挥了诗歌所特有的感染作用。最后四句画龙点睛，明明白白地披肝沥胆，希望人才都来归我，确切地点明了本诗的主题。“周公吐哺”的典故出于《韩诗外传》，据说周公自言：“吾文王之子，武王之弟，成王之叔父也；又相天下，吾于天下亦不轻矣。然一沐三握发，一饭三吐哺，犹恐失天下之士。”周公为了接待天下之士，有时洗一次头，吃一顿饭，都曾中断数次，这种传说当然是太夸张了。不过这个典故用在这里却是突出地表现了作者求贤若渴的心情。“山不厌高，海不厌深”二句也是通过比喻极有说服力地表现了人才越多越好，决不会有“人满之患”。借用了《管仲·行解》中陈沆说：“鸟则择木，木岂能择鸟？天下三分，士不北走，则南驰耳。分奔蜀吴，栖皇未定，若非吐哺折节，何以来之？山不厌土，故能成其高；海不厌水，故能成其深；王者不厌士，故天下归心。”（亦见《诗比兴笺》）这些话是很有助于说明本诗的背景、主题以及最后各句之意的。<br/>　　总起来说，《短歌行》正像曹操的其它诗作如《蒿里行》、《对酒》、《苦寒行》等一样，是政治性很强的诗作，主要是为曹操当时所实行的政治路线和政策策略服务的；然而它那政治内容和意义却完全熔铸在浓郁的抒情意境之中，全诗充分发挥了诗歌创作的特长，准确而巧妙地运用了比兴手法，来达到寓理于情，以情感人的目的。在曹操的时代，他就已经能够按照抒情诗的特殊规律来取得预期的社会效果，这一创作经验显然是值得借鉴的。同时因为曹操在当时强调“唯才是举”有一定的进步意义，所以他对“求贤”这一主题所作的高度艺术化的表现，也应得到历史的肯定。<br/>月明星稀，乌鹊南飞。绕树三匝，何枝可依？山不厌高，水不厌深。周公吐哺，天下归心。<br/>　　除此之外还有另外一层意思，曹操作此诗时，是时赤壁大战，孙曹实力悬殊甚大，对于曹来说胜败已无悬念。而孙吴一灭，天下已然平定，此诗月明星稀，乌鹊南飞。绕树三匝、何枝可依？此时也是曹操胸中正邪纠缠最凶恶的时候，此时他也感到为了功名和抱负，如今却也骑虎难下。是功成退隐留的美名，还是废除汉庭自己称帝？若功成身退，但汉庭对手下之人来说早已没有威信，故无法安置部署，就算部下真的各有所得，拜将封侯，但仍只服从曹管，若曹只将这些人拜将而后撒手不管的话，手下必然也不从，或是寒心或是起兵，天下必然再次分裂。若是文臣武将得官禄之后天下太平再无战事，则曹操满门便无安全可言。另方面顾虑，若平定天下之后，回都便废帝自立，则篡汉之名成为事实，一腔的抱负，一生的经营却落个像董卓一样的千古骂名。而他自比周公，借此隐含的表达了自己誓不负汉的决心，在当时道义礼法的之下，负汉将会失去许多忠于旧汉庭的学子之心。全诗虽带有明显政治目的，却因诗词的隐喻的委婉和辞藻的大气，而拥有很高的艺术性。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-481.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-481-5727.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-481.html" action-type="chapterComment" class="comment"><i></i>短歌行章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

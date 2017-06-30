@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孔丛子》正文_执节_孔鲋作品 - 维普阅读网</title>
+<meta name="keywords" content="孔丛子,孔丛子原文,孔丛子阅读,执节全文,孔鲋作品" />
+<meta name="description" content="孔丛子原文阅读,执节全文在线阅读,孔鲋作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-217-2407.html";
+var nextpage="novel-read-217-2409.html";
+var indexpage = "novel-chapter-217.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-217.html">孔丛子</a></strong>
+<strong><a href="novel-chapter-217.html">孔丛子目录</a></strong>
+<span>执节</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-217-2407.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>执节</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=孔鲋&amp;searchsubmit=yes"  target="_blank">孔鲋</a><span class="divide">|</span>发布时间：2014-08-12 20:27:21<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>赵孝成王问曰昔伊尹为臣而放其君、其君不怨、何行而得乎此也、子顺答曰、伊尹执人臣之节而弼其君以礼．亦行此道而巳矣．王曰方以放君为名、而先生称礼、何也、子顺曰以礼括其君．使入于善也．曰其说可得闻乎、答曰其在商书．太甲嗣立．而干冢宰之政．伊尹曰惟王旧行不义．习与性成．予不狎于不顺．王始即桐．迩于先王．其训罔以后人迷．王往居忧．允思厥祖之明德．是言太甲在丧不明乎人子之道．而欲知政．于是伊尹使之居桐．近汤之墓．处忧哀之地．放之不俾知政．三年服竟．然后反之．即所以奉礼执节事太甲者也．率其君以义强其君以孝道未有行此见怨也．王曰善哉．我未之闻也．<br/>魏安厘王问子顺曰、马回之为人、虽少才文、梗梗亮直、一作缏有大丈夫之节、吾欲以为相、可乎、答曰知臣莫若君．何有不可．至于亮直之节．臣未明也．王曰何故、答曰闻诸孙卿云、其为人也．长目而豕视者必体方而心圆．每以其法相人．千百不失．臣见回非不伟其体干也．然甚疑其目．王卒用之．三月果以谄得罪．<br/><br/>新垣固谓子顺曰、贤者所在、必兴化致治、今子相魏未闻异政而即自退、其有志不得白、何去之速也、答曰以无异政．所以自退也．且死病无良毉．今秦有吞食天下之心．以义事之．固不获安．救亡不暇何化之兴．昔伊挚在夏吕望在商而二国不理．岂伊吕之不欲哉．势不可也．当如今日山东之国弊而不振．三晋割地以求安．二周折节而入秦．燕齐宋楚巳屈服矣．以此观之．不出二十年天下尽为秦乎．<br/><br/>季节见于子顺、子顺赐之酒、辞、问其故、对曰今日家之忌日也、故不敢饮、子顺曰饮也．礼忌日不乐而已未有无饮者礼虽服衰麻见于君及先生与之梁肉无辞．所以敬尊长而不敢遂其私也．忌日方于有服则轻矣．<br/><br/>魏安厘王问天下之高士、子顺曰世无其人也抑可以为次．其鲁仲连乎．王曰鲁仲连强作之者．非体自然也．答曰人皆作之．作之不止．乃成君子．文武欲作尧舜而至焉．背我先君夫子欲作文武而至焉．作之不变习与体成．习与体成则自然矣．<br/><br/>虞卿着书名曰春秋、魏齐曰子无然也、春秋、孔圣所以名经也、今子之书大抵谈说而巳、亦以为名何、答曰经者、取其事常也、可常则为经矣、且不为孔子其无经乎、齐问子顺、子顺曰无伤也．鲁之史记曰春秋．经因以为名焉．又晏子之书亦曰春秋．吾闻泰山之上封禅者七十有二君．其见称述．数不盈十．所谓贵贱不嫌同名也．<br/><br/>邯郸之民、以正月之旦献雀于赵王、而缀之以五丝、赵王大悦、申叔以告子顺、曰王何以为也、对曰正旦放之．示有生也．子顺曰此委巷之鄙事尔．非先王之法也．且又不令．申叔曰敢问何谓不令．答曰夫雀者取其名焉．则宜受之于上．不宜取之于下．下人非所得制爵也而王悦此．殆非吉祥矣．昔虢公祈神．神赐之土田．是失国而更受田之祥也．今以一国之王．受民之雀．将何悦哉．<br/><br/>申叔问曰犬马之名．皆因其形色而名焉、唯韩卢宋鹊独否、何也、子顺答曰、卢黑色．鹊白色．非色而何．魏公子无忌死、韩君将亲吊焉、其子荣之以告子顺、子顺曰必辞之．礼邻国君吊君主之今君不命子．则子无所受其君也．其子辞韩、韩君乃止、子高以为赵平原君霸世之士．惜其不遇时也．其子子顺以为衰世之好事公子．无伯相之才也．申叔问子顺曰、子之家公有道先生既论之矣、今子易之、是非焉在．答曰言贵尽心．亦各其所见也．若是非．则明智者裁之．申叔问子顺曰、礼、为人臣三谏不从、可以称其君之非乎、答曰礼所不得也．曰叔也昔者逮事有道先生、问此义焉、而告叔曰得称其非者．所以使天下人君不敢遂其非也．子顺曰然．吾亦闻之．是亡考起时之言．非礼意也．礼、受放之臣不说人以无罪．先君夫子曰事君欲谏不欲陈．言不欲显君之非也．申叔曰然则晏子、叔向皆非礼也、答曰此二大夫相与私燕言及国事．未以为非礼也．晏子既陈屦贱而踊贵于其君其君为之省刑．然以及叔向．叔向听晏子之私．又承其问所宜亦答以其事也．<br/><br/>魏王问子顺曰、寡人闻昔者上天神异后稷而为之下嘉谷、周以遂兴、往中山之地、无故有谷、非人所为、云天雨之、反亡国何故也．答曰天虽至神．自古及今．未闻下谷与人也．诗美后稷能大教民种嘉谷以利天下．故诗曰诞降嘉种、犹书所谓稷降播种、农殖嘉谷、皆说种之、其义一也．若中山之榖．妖□之事．非所谓天祥也．<br/><br/>赵王问相于平原君、平原君曰邹文可、赵人王曰其行如何、对曰夫孔子高天下之高士也、取友以行、交游以道、文与之游、称曰好义王其用之、王卒不用、后以平原君言问子顺、且曰先生知之乎、答曰先父之所交也．何敢不知．王曰寡人虽失之在前．犹愿闻其行于先生也．答曰行不茍合．虽贱不渝．君子人也．王遂礼之．固以老辞．<br/><br/>赵王问子顺曰．寡人闻孔氏之世自正考父以来、儒林相继、仲尼重之以大圣、自兹以降、世业不替、天下诸侯咸资礼焉、先生承其绪、作二国师、从古及今、载德流声、未有若先生之嗣、率由前调、将与天地相敝矣、答曰若先祖父并禀圣人之性如君王之言也．至如臣者学行不敏．寄食于赵．禄仕于魏．幸遇二国之君宽以容之．若乃师也．未敢承命．假令赖君之愿后世克祚．不忝前人．不泯祖业．岂徒一家之赐哉．亦天下之庆也．王曰必然必然．<br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-217-2407.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-217-2409.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-217.html" action-type="chapterComment" class="comment"><i></i>孔丛子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

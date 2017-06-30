@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《周礼》正文_夏官司马·大司马_周公旦作品 - 维普阅读网</title>
+<meta name="keywords" content="周礼,周礼原文,周礼阅读,夏官司马·大司马全文,周公旦作品" />
+<meta name="description" content="周礼原文阅读,夏官司马·大司马全文在线阅读,周公旦作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-34-840.html";
+var nextpage="novel-read-34-842.html";
+var indexpage = "novel-chapter-34.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-34.html">周礼</a></strong>
+<strong><a href="novel-chapter-34.html">周礼目录</a></strong>
+<span>夏官司马·大司马</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-34-840.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>夏官司马·大司马</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=周公旦&amp;searchsubmit=yes"  target="_blank">周公旦</a><span class="divide">|</span>发布时间：2014-07-20 17:01:26<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/>　　大司马之职，掌建邦国之九法，以佐王平邦国。制畿封国，以正邦国；设仆辨位，以等邦国；进贤兴功，以作邦国；建牧立监，以维邦国；制军诘禁，以纠邦国；施贡分职，以任邦国；简稽乡民，以用邦国；均守平则，以安邦国；比小事大，以和邦国。以九伐之法正邦国，冯弱犯寡则眚之，贼贤害民则伐之，暴内陵外则坛之。野荒民散则削之，负固不服则侵之，贼杀其亲则正之，放弑其君则残之，犯令陵政则杜之。外内乱，鸟兽行，则灭之，正月之吉，始和，布政于邦国都鄙，乃悬政象之法于象魏，使万民观政象，挟日，而敛之，乃以九畿之籍施邦国之政职。方千里曰国畿，其外方五百里曰侯畿，又其外方五百里曰甸畿，又其外方五百里曰男畿，又其外方五百里曰采畿，又其外方五百里曰卫畿，又其外方五百里曰蛮畿，又其外方五百里曰夷畿，又其外方五百里曰镇畿，又其外方五百里曰蕃畿。凡令赋，以地舆民制之：上地，食者三之二，其民可用者家三人；中地，食者半，其民可用者二家五人；下地，食者三之一，其民可用者家二人。中春，教振旅，司马以旗致民，平列陈，如战之陈，辨鼓铎镯铙之用，王执路鼓，诸侯执贲鼓，军将执晋鼓，师师执提，旅帅执鼓鼙，卒长执铙，两司马执铎，公司马执镯，以教坐作进退疾徐疏数之节，遂以搜田，有司表貉，誓民，鼓，遂围禁，火弊，献禽以祭社。中夏，教茇舍，如振旅之陈，群吏撰车徒，读书契，辨号名之用，帅以门名，县鄙各以其名，家以号名，乡以州名，野以邑名，官各象其事，以辨军之夜事，其他皆如振旅，遂以苗田，如搜之法，车弊，献禽以享礿。中秋，教治兵，如振旅之陈，辨旗物之用，王载大常，诸侯载旂，车吏载旗，师都载旃，乡遂载物，郊野载旐，百官载旟，各书其事是与其号焉，其他皆如振旅，遂以獮田，如搜田之法，罗弊，致禽以祀祊。中冬，教大阅，前期，群史戒泉庶，修战法，虞人菜所田之野，为表；百步则一，为三表，又五十步为一表，田之日，司马建旗于后表之中，群吏以旗物、鼓铎、镯铙，各帅其民而致，质明，弊旗，诛后至者，乃陈车徒，如战之陈，皆坐，群吏听誓于陈前，斩牲以左右徇陈曰：不用命者斩之。中军以鼙令鼓，鼓人皆三鼓，司马振铎，群吏作旗，车徒皆作，鼓行，鸣镯，车徒皆行，及表乃止。三鼓，摝铎，群吏弊旗，车徒皆坐。又三鼓，振铎，作旗，车徒皆作，鼓进，鸣镯，车骤徒趋，及表乃止。坐作如初，乃鼓，车驰徒走，及表乃止。鼓戒三阕，车三发，徒三刺，乃鼓退，鸣铙，且却，及表乃止，坐作如初。遂以狩田，以旌为左右和之门，群吏各帅其车徒，以叙和出，左右陈车徒，有司平之。旗居卒间以分地，前后有屯百步，有司巡其前后，险野人为主，易野车为主。既陈，乃设驱逆之车，有司表貉于陈前，中军以鼙令鼓，鼓人皆三鼓，群司马振铎，车徒皆作，遂鼓行，徒衔枚而进。大兽公之，小禽私之，获者取左耳，及所弊，鼓皆駴，车徒皆噪，徒乃弊，致禽饁兽于郊。入，献禽以享。及师，大合军，以行禁令，以救无辜伐有罪。若大师，则掌其戒令，莅大卜，帅执事莅衅主及军器。及致，建大常，比军众，诛后至者。及战，巡陈，□事而赏罚。若师有功、则左执律，右秉钺，以先恺乐献于社。若师不功，则厌而奉主车。王吊劳士庶子，则相。大役，与虑事，属其植，受其要，以待考而赏诛。大会同，则帅士、庶子，而掌其政令。若大射，则合诸侯之六耦。大祭祀、飨食、羞牲鱼，授其祭。大丧，平士大夫。丧祭，奉诏马牲。<br/><br/>译文：<br/>　　大司马的职责，负责建立有关诸侯国的九项法则，以辅佐王成就诸侯国的政治。制定诸侯国的封域，以正定它们的疆界；为诸侯国设立仪法、辨别[君臣的]尊卑之位，以明确诸侯国[君臣的]等级；进用和荐举贤能有功的人，进用和荐举贤能有功的人，以激发诸侯国[臣民的进取心]；设立州牧和国君，以维系邦国的臣民；建立军队、惩治和严禁违法者，以纠正邦国的失误；分配诸侯国应缴的贡赋，以确定诸侯国的合理负担；查核诸侯国的乡民数，以便诸侯国任用民力；[根据诸侯国爵位的尊卑和拥有土地的大小]，建立合理的守卫土地之法，以安定诸侯国。[使大国]亲小国、[小国]服事大国，以使各诸侯国和睦相处。<br/><br/>　　用九伐之法规正诸侯国。[诸侯有]以强陵弱、以．大侵小的，就削弱他；有杀害贤良和民众的，就讨伐他；有对内暴虐、对外欺陵邻国的，就幽禁他(而更立新君]．有土地荒芜、人民离散的，就削减他的封地；有依仗险固地形而不服从的，就派兵进入他的国境[以示惩罚]；有无辜杀害亲族的，就抓起来治罪；有放逐或弑杀他的国君的，就杀死他；有违犯王的命令、轻视国家政法的。就杜塞他同邻国交通的途径；有外内悖乱人伦，行为如同禽兽的，就诛灭他。<br/><br/>　　[周历]正月初一，开始向各诸侯国和王畿内的采邑宣布政法，把形成文字的政法悬挂在象魏上，让万民观看政法，过十天而后收藏起来。 依照划分九畿的簿籍，分施各诸篌自所当奉行的政治和职责。地方千里是国畿，国畿之外地方五百里是侯畿，侯畿之外地方五百里是甸畿，甸畿之外地方五百里是男畿，男畿之外地方五百里是采畿，采畿之外地方五百里是卫畿，卫畿之外地方五百里是蛮畿，蛮畿之外地方五百里是夷畿，夷畿之外地方五百．里是镇畿，镇畿之外地方五百里是蕃畿。<br/><br/>　　凡征兵，依据土地的好坏和人口的多少来制定服役人数的标准。上等土地每年可耕种的占三分之二，[休耕三分之一]，耕种上等土地的农民可用以服役的每家三人；中等土地每年可耕种的占一半，[休耕一半]，耕种中等土地的农民可用以服役的每二家五人；下等土地每年可耕种的占三分之一，[休耕三分之二]，耕种下等土地的农民可用以服役的每家二人。<br/><br/>　　仲春，教[民众]习战。大司马用旗召集民众，整编队列阵形，如同实战时那样列阵。[教民众]辨别鼓、铎、镯、铙的用途。王执掌路鼓，诸侯执掌贲鼓，军将执掌晋鼓，师帅执掌提鼓，旅帅执掌鼙鼓，卒长执掌铙，两司马执掌铎，公司马执掌镯。教[民众]坐下、起立、前进、后退、快速、慢速，以及距离疏密的节度。接着便用他们进行春季田猎，有关官吏在立表处举行貉祭，警诫民众[不要违犯有关田猎之法]，然后击鼓，于是开始围猎。[焚烧野草的)火停止燃烧，然后进献所猎获的兽以祭祀社神。<br/><br/>　　仲夏，教[民众]在草野之地宿营，如同仲春教民习战那样布阵。选择车辆和兵众[加以配合]，阅读簿册[校核兵甲器械]。[教民众]辨别各种徽识的用途：各级军帅的徽识都与他们军营门前所树旌旗书写同样的官事、姓名，六遂的徽识各与本遂的旌旗书写同样的官事、姓名，采邑主的徽识各与本采邑的旌旗书写同样的官事、姓名，六乡官吏的徽识各与本官的旌旗书写同样的官事、姓名，公邑大夫的徽识都与各邑的旌旗书写同样的官事、姓名，各官府的徽识都与它们的旌旗书写同样的官事、姓名，以便夜间军事行动好辨别。其他方面都同仲春教民习战那样。接着进行夏季田猎，如同春季田猎之法。车停止追逐野兽，[田猎结束]，便进献所猎获的野兽祭祀宗庙。<br/><br/>　　仲秋，教[民众]演习作战，如同仲春教民习战那样布阵。教民辨别各种旌旗的用途。王树大常，诸侯树旃，军吏树旗，军帅和大都、小都之长树缪和旃同色的(旗]，乡吏和家邑之长树缪和脖不同色的[旃]，郊野[的公邑大夫]树旒，王的百官树旃，各旗的缪上都书写各自的官事、姓名。其他方面都同仲春教民习战那样。接着进行秋季田猎，如同春季田猎之法。停止用网捕兽，[田猎结束]，集中所猎获的兽并用以祭祀四方之神。<br/><br/>　　仲冬，教[民众]大检阅之礼。大检阅之前，乡吏们要告诫民众，演习战法。虞人芟除将要举行田猎的野地的荒草而设表，每百步设一表，设三表，又间隔五十步设一表。到举行甲猎那天，司马在后表[与二表的]中间树立旗帜，乡吏们打着旗，敲着鼓、铎、镯、铙等各率领乡民到来。天亮时[司马]把旗帜放倒，惩罚后到的人。于是用车辆和徒众布阵，如同实战时的阵形，全体坐下。军帅们站在阵前听取[有关军法的]誓诫，斩杀牲给左右军阵看，说：“不服从命令的，斩!”中军元帅敲击鼙鼓命令击鼓，鼓人都击鼓三通。两司马摇响金铎，军帅们举起旗帜，车辆和步兵都起立。[鼓人]击鼓命令前进，[公司马]敲响镯[作为行进的节度]，车辆和步兵都前进，(从后表]前进到二表而后停止。【鼓人]击鼓三通，[两司马]用手捂住铎口而摇铎，军帅们放下旗帜，车辆[停止前进]、步兵都坐下。(鼓人]又击鼓三通，[两司马]摇响金铎，[军帅们]举起旗帜，车辆和步兵都起立。[鼓人]击鼓命令前进，[公司马]敲响镯，车辆快速奔跑，步兵快步前进，[从二表]前进到三表才停止，坐下和起立都和前次一样。于是[鼓人又]击鼓，车辆迅猛奔驰，步兵快速奔跑，[从三表]前进到四表才停止。三次[连续不断地]击鼓命令进攻，车上[的射手]先后射出三发箭，步兵三次击刺。于是击鼓命令[从南向北]退兵，(卒长]敲响铙，[兵众]向北退，退到后表处才停止，坐下和起立都如同当初一样。接着进行冬季田猎。用旌旗分立左右作为军门，军帅们各率领车辆和步兵依次出军门，分左右用车辆和步兵布阵，乡师规正兵众出入军门的队列。旗树在卒与卒之间以划分地段，[车和步兵]前后分别屯驻而相距百步，乡师巡视军阵前后。[凡布阵]，险阻的地方步兵在前，平坦的地方车辆在前。布阵完毕，于是设置驱赶野兽的车和拦击野兽的车，肆师、甸祝等在阵前立表处举行貉祭。中军元帅敲击鼙鼓命令击鼓，鼓人击鼓三通，两司马们摇响金铎，车辆和步兵都起立，接着[鼓人]击鼓命令前进，步兵都口中衔枚而行。猎获大兽交给公家，小兽留给自己，猎获野兽的人割取兽的左耳(以便计功]。到达田猎场的边界处就停下来，鼓声震响如雷，车辆和步兵齐声欢呼。徒众于是停止田猎，就集中所。猎获的禽兽并在国郊馈祭四方之神，进入国都又进献所猎获的兽以祭祀宗庙。<br/><br/>　　到需要率军队(随王出行]时，就集合六军，执行有关的禁令，以救援无辜被侵之国，讨伐有罪的人。如果王亲征，就执掌有关的戒令。[出发前]临视大卜占卜吉凶，率领有关官吏临视衅祭[将随军而行的]迁庙主和社主以及军事器械。到召集军众时，就树起[王的]大常旗，校核所到的军众人数，惩罚后到的人。到作战时，巡视军阵看有无战功以施行赏罚。如果军队打了胜仗，就左手拿着律管，右手拿者钺，在军前做先导，奏凯旋之乐而向社神献功。如果事队战败，就头戴厌冠而护送载有迁庙主和社主的车[回来]。王吊唁、慰问[死伤的]士、庶子，就协助王行礼。<br/><br/>　　兴建大的工程，参与工程的谋画，聚集役徒，接受役徒的名册，以待考核他们的成绩而决定对他们的赏罚。大会同，就率领土和庶子[跟从王]而掌管有关他们的政令。如果举行大射礼，就匹配诸侯为六耦。举行大祭祀、飨礼、食礼，负责进献羊牲、马牲和鱼牲，(取当祭之物]授给尸或宾客以行食前祭礼。有大丧，负责规正士大夫的职责与尊卑位次；举行丧祭时，奉送马牲[到墓地]并向死者报告。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-34-840.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-34-842.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-34.html" action-type="chapterComment" class="comment"><i></i>周礼章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《文序跋集》正文_《桃色的云》 _鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="文序跋集,文序跋集原文,文序跋集阅读,《桃色的云》 全文,鲁迅作品" />
+<meta name="description" content="文序跋集原文阅读,《桃色的云》 全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-619-7777.html";
+var nextpage="novel-read-619-7779.html";
+var indexpage = "novel-chapter-619.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-619.html">文序跋集</a></strong>
+<strong><a href="novel-chapter-619.html">文序跋集目录</a></strong>
+<span>《桃色的云》 </span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-619-7777.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>《桃色的云》 </strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-13 21:41:29<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>序（2）<br/><br/>　　爱罗先珂君的创作集第二册是《最后的叹息》，去年十二月初由丛文阁在日本东京出版，内容是这一篇童话剧《桃色的云》，和两篇短的童话，一曰《海的王女和渔夫》，一曰《两个小小的死》。那第三篇，已经由我译出，于今年正月间绍介到中国了。<br/>　　然而著者的意思却愿意我早译《桃色的云》：因为他自己也觉得这一篇更胜于先前的作品，而且想从速赠与中国的青年。但这在我是一件烦难事。日本语原是很能优婉的，而著者又善于捉住他的美点和特长，这就使我很失了传达的能力。<br/>　　可是延到四月，为要救自己的爽约的苦痛计，也终于定下开译的决心了，而又正如豫料一般，至少也毁损了原作的美妙的一半，成为一件失败的工作；所可以自解者，只是“聊胜于无”罢了。惟其内容，总该还在，这或者还能够稍慰读者的心罢。<br/>　　至于意义，大约是可以无须乎详说的。因为无论何人，在风雪的呼号中，花卉的议论中，虫鸟的歌舞中，谅必都能够更洪亮的听得自然母的言辞（3），更锋利的看见土拨鼠和春子的运命（4）。世间本没有别的言说，能比诗人以语言文字画出自己的心和梦，更为明白晓畅的了。<br/>　　在翻译之前，承S．F．君（5）借给我详细校过豫备再版的底本，使我改正了许多旧印本中错误的地方；翻译的时候，SH君（6）又时时指点我，使我懂得许多难解的地方；初稿印在《晨报副镌》上的时候，孙伏园君加以细心的校正；译到终结的时候，著者又加上四句白鹄的歌，使这本子最为完全；我都很感谢。<br/>　　我于动植物的名字译得很杂乱，别有一篇小记附在卷尾，是希望读者去参看的。<br/>　　一九二二年七月二日重校毕，并记。<br/><br/>==========================================================================<br/><br/>　　 　《桃色的云》　爱罗先珂以日文写作的三幕童话剧，译文曾陆续发表于一九二二年五月十五日至六月二十五日的《晨报副镌》。单行本于一九二三年七月北京新潮社出版，列为《文艺丛书》之一。一九二六年起改由北新书局出版，一九三四年起又改由上海生活书店出版。<br/>　　（2）　本文最初收入新潮社出版的《桃色的云》初版，系据《将译〈桃色的云〉以前的几句话》和《〈桃色的云〉第二幕第三节中译者附白》二文补充改定。因改动较多，故所据二文仍收入本书。<br/>　　（3）　自然母的言辞　剧本中的自然母认为“强者生存弱者灭亡”是自然的“第一的法则”，而“第一等的强者”应是“对于一切有同情，对于一切都爱”的人，而非暴力者。<br/>　　（4）　土拨鼠和春子的运命　剧本中土拨鼠和春子都是被“强者世界”迫害致死的人物。<br/>　　（5）　S．F．　日本人福冈诚一（Fukuoka　Seiichi）的简写，世界语学者，爱罗先珂的朋友，曾编辑爱罗先珂的日文著作。<br/>　　（6）　SH　未详。<br/><br/><br/>记剧中人物的译名<br/><br/>　　我因为十分不得已，对于植物的名字，只好采取了不一律的用法。那大旨是：<br/>　　一，用见于书上的中国名的。如蒲公英（Taraxacum　of^ficinale），紫地丁（Viola　patrinü　var．chinensis），鬼灯檠（Rodgersia　podophylla），胡枝子（Lespedeza　sieboldi），燕子花（Iris　laevigata），玉蝉花（Iris　sibirica　var．　orien^talis）等。此外尚多。<br/>　　二，用未见于书上的中国名的。如月下香（Oenothera　biennis　var．Lamarkiana），日本称为月见草，我们的许多译籍都沿用了，但现在却照着北京的名称。<br/>　　三，中国虽有名称而仍用日本名的。这因为美丑太相悬殊，一翻便损了作品的美。如女郎花（Patrinia　scabiosaefolia）就是败酱，铃兰（Convallaria　majalis）就是鹿蹄草，都不翻。还有朝颜（Pharbitis　hederacea）是早上开花的，昼颜（Caly－stegia　sepium）日里开，夕颜（Lagenar^ia　vulgaris）晚开，若改作牵牛花，旋花，匏，便索然无味了，也不翻。至于福寿草（Adonis　opennina　var．dahurica）之为侧金盏花或元日草，樱草（Primula　cortu^soides）之为莲馨花，本来也还可译，但因为太累坠及一样的偏僻，所以竟也不翻了。<br/>　　四，中国无名而袭用日本名的。如钓钟草（Clematis　he－racleifolia　var．stans），雏菊（Bellis　perennis）是。但其一却译了意，即破雪草本来是雪割草（Primula　Fauriae）。<br/>　　生造了一个，即白苇就是日本之所谓刘萱（Themeda　Forskalli　var．japonica）。<br/>　　五，译西洋名称的意的。如勿忘草（Myosotis　palustris）是。<br/>　　六，译西洋名称的音的。如风信子（Hyacinthus　orien－talis），珂斯摩（Cosmos　bipinnatus）是。达理亚（Dahlia　va－riabilis）在中国南方也称为大理菊，现在因为怕人误认为云南省大理县出产的菊花，所以也译了音。<br/>　　动物的名称较为没有什么问题，但也用了一个日本名：就是雨蛙（Hyla　arborea）。雨蛙者，很小的身子，碧绿色或灰色，也会变成灰褐色，趾尖有黑泡，能用以上树，将雨时必鸣。中国书上称为雨蛤或树蛤，但太不普通了，倒不如雨蛙容易懂。<br/>　　土拨鼠（Talpa　europaea）我不知道是否即中国古书上所谓“饮河不过满腹”（2）的鼹鼠，或谓就是北京尊为“仓神”的田鼠，那可是不对的。总之，这是鼠属，身子扁而且肥，有淡红色的尖嘴和淡红色的脚，脚前小后大，拨着土前进，住在近于田圃的土中，吃蚯蚓，也害草木的根，一遇到太阳光，便看不见东西，不能动弹了。作者在《天明前之歌》的序文上，自说在《桃色的云》的人物中最爱的是土拨鼠，足见这在本书中是一个重要脚色了。<br/>　　七草在日本有两样，是春天的和秋天的。春的七草为芹，荠，鼠麯草，繁缕，鸡肠草，菘，萝卜，都可食。秋的七草本于《万叶集》（3）的歌辞，是胡枝子，芒茅，葛，瞿麦，女郎花，兰草，朝颜，近来或换以桔梗，则全都是赏玩的植物了。<br/>　　他们旧时用春的七草来煮粥，以为喝了可避病，惟这时有几个用别名：鼠麯草称为御行，鸡肠草称为佛座，萝卜称为清白。但在本书却不过用作春天的植物的一群，和故事没有关系了。秋的七草也一样。<br/>　　所谓递送夫者，专做分送报章信件电报牛乳之类的人，大抵年青，其中出产不良少年很不少，中国还没有这一类人。<br/>　　一九二二年五月四日记，七月一日改定。<br/><br/>==========================================================================<br/><br/>　　 　本篇原题《译者附记》，最初发表于一九二二年五月十五日《晨报副镌》，后经作者稍加增补改定，改题《记剧中人物的译名》，收入单行本。<br/>　　（2）　“饮河不过满腹”　语见《庄子·逍遥游》：“偃鼠次河，不过满腹”。偃鼠，同鼹鼠。<br/>　　（3）　《万叶集》　日本最早的诗歌总集，共二十卷，约于公元八世纪时编成，内收公元三一三年至七八一年间的诗歌四千五百余首，计分“杂歌”、“挽歌”、“相闻歌”、“四季杂歌”及“四季相闻”、“譬喻歌”六类。是研究日本古代史的重要资料。<br/><br/><br/>将译《桃色的云》以前的几句话<br/><br/>　　爱罗先珂先生的创作集第二册是《最后的叹息》，去年十二月初在日本东京由丛文阁出版，内容是一篇童话剧《桃色的云》和两篇童话，一是《海的王女和渔夫》，一是《两个小小的死》。那第三篇已经由我译出，载在本年正月的《东方杂志》（2）上了。<br/>　　然而著者的意思，却愿意我快译《桃色的云》：因为他自审这一篇最近于完满，而且想从速赠与中国的青年。但这在我是一件烦难事，我以为，由我看来，日本语实在比中国语更优婉。而著者又能捉住他的美点和特长，所以使我很觉得失了传达的能力，于是搁置不动，瞬息间早过了四个月了。<br/>　　但爽约也有苦痛的，因此，我终于不能不定下翻译的决心了。自己也明知道这一动手，至少当损失原作的好处的一半，断然成为一件失败的工作，所可以自解者，只是“聊胜于无”罢了。惟其内容，总该还在，这或者还能够稍稍慰藉读者的心罢。<br/>　　一九二二年四月三十日，译者记。<br/><br/>==========================================================================<br/><br/>　　 　本篇最初发表于一九二二年五月十三日《晨报副镌》。<br/>　　（2）　《东方杂志》　综合性刊物，一九○四年三月在上海创刊，商务印书馆出版，先为月刊，后改半月刊，至一九四八年十二月停刊。<br/><br/><br/>《桃色的云》第二幕第三节中译者附白<br/><br/>　　本书开首人物目录中，鹄的群误作鸥的群。第一幕中也还有几个错字，但大抵可以意会，现在不来列举了。<br/>　　又全本中人物和句子，也间有和印本不同的地方，那是印本的错误，这回都依SF君的校改预备再版的底本改正。惟第三幕末节中“白鹄的歌”四句，是著者新近自己加进去的，连将来再版上也没有。五月三日记。<br/><br/>==========================================================================<br/><br/>　　 　本篇最初发表于一九二二年六月七日《晨报副镌》。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-619-7777.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-619-7779.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-619.html" action-type="chapterComment" class="comment"><i></i>文序跋集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

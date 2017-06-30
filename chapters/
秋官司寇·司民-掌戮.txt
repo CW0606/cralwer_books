@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《周礼》正文_秋官司寇·司民/掌戮_周公旦作品 - 维普阅读网</title>
+<meta name="keywords" content="周礼,周礼原文,周礼阅读,秋官司寇·司民/掌戮全文,周公旦作品" />
+<meta name="description" content="周礼原文阅读,秋官司寇·司民/掌戮全文在线阅读,周公旦作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-34-850.html";
+var nextpage="novel-read-34-852.html";
+var indexpage = "novel-chapter-34.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-34.html">周礼</a></strong>
+<strong><a href="novel-chapter-34.html">周礼目录</a></strong>
+<span>秋官司寇·司民/掌戮</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-34-850.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>秋官司寇·司民/掌戮</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=周公旦&amp;searchsubmit=yes"  target="_blank">周公旦</a><span class="divide">|</span>发布时间：2014-07-20 17:07:24<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/>　　司民掌登万民之数。自生齿以上，皆书于版。辨其中国，与其都鄙，及其郊野，异其男女，岁登下其死生。及三年，大比，以万民之数诏司寇。司寇及孟冬祀司民之日，献其数于王，王拜受之，登于天府。内史、司会、冢宰贰之，以赞王治。<br/><br/>　　司刑掌五刑之法，以丽万民之罪。墨罪五百，劓罪五百，宫罪五百，刖罪五百，杀罪五百。若司寇断狱弊讼，则以五刑之法诏刑罚，而以辨罪之轻重。 司刺，掌三刺、三宥、三赦之法，以赞司寇听狱讼。壹刺曰讯群臣，再刺曰讯群吏，三刺曰讯万民。壹宥曰不识，再宥曰过失，三宥曰遗忘。壹赦曰幼弱，再赦曰老旄，三赦曰蠢愚。以此三法者，求民情，断民中，而施上服下服之罪，然后刑杀。<br/><br/>　　司约掌邦国及万民之约剂。治神之约为上，治民之约次之，治地之约次之，治功之约次之，治器之约次之，治挚之约次之。凡大约剂书於宗彝，小约剂书於丹图。若有讼者，则珥而辟藏，其不信者服墨刑。若大乱，则六官辟藏，其不信者杀。 司盟掌盟载之法。凡邦国有疑，会同，则掌其盟约之载，及其礼仪。北面诏明神，既盟，则贰之。盟万民之犯命者。诅其不信者，亦如之。凡民之有约剂者，其贰在司盟。有狱讼者，则使之盟诅。凡盟诅，各以其地域之众庶，共其牲而致焉。既盟，则为司盟共祈酒脯。<br/><br/>　　职金，掌凡金、玉、锡、石、丹、青之戒令。受其入征者，辨其物之恶与其数量，楬而玺之。入其金锡于为兵器之府；入其玉石丹青于守藏之府。入其要，掌受士之金罚货罚，入于司兵。旅于上帝，则共其金版。飨诸侯，亦如之。凡国有大故而用金石，则掌其令。<br/><br/>　　司厉掌盗贼之任器货贿。辨其物，皆有数量，贾而楬之，入于司兵。其奴，男子入于罪隶，女子入于舂槀。凡有爵者，与七十者；与未乱者，皆不为奴。<br/><br/>　　犬人掌犬牲。凡祭祀，共犬牲，用牷物。伏瘗，亦如之。凡几珥沈辜，用駹可也。凡相犬牵犬者属焉，掌其政治。<br/><br/>　　司圜掌收教罢民。凡害人者，弗使冠饰，而加明刑焉。任之以事，而收教之。能改者，上罪三年而舍，中罪二年而舍，下罪一年而舍，其不能改而出圜土者，杀。虽出，二年不齿。凡圜土之刑人也，不亏体，其罚人也，不亏财。<br/><br/>　　掌囚掌守盗贼。凡囚者，上罪梏拲而桎，中罪桎梏，下罪梏。王之同族拲，有爵者桎，以待弊罪。及刑杀，告刑于王，奉而适朝士加明梏，以适市而刑杀之。凡有爵者，与王之同族，奉而适甸师氏，以待刑杀。<br/><br/>　　掌戮掌斩杀贼谍而搏之。凡杀其亲者，焚之；杀王之亲者，辜之。凡杀人者，踣诸市，肆之三日，刑盗于市。凡罪之丽於法者，亦如之。唯王之同族与有爵者，杀之于甸师氏。凡军旅、田役，斩杀刑戮亦如之。墨者使守门，劓者使守关，宫者使守内，刖者使守囿，髡者使守积。<br/><br/>译文：<br/>　　司民负责呈报民数，自生齿的婴儿以上的人都载入户籍，辨明他们居住在都城、采邑或在郊野，区别男女性别，并载明每年出生、死所造成的人数增减。到三年大校比，把民数报告司寇。司寇到冬十月祭祀司民时，献民数给王，王行拜礼而后接受，收藏于天府。内史、司会和冢宰保存副本，以协助王施政。<br/><br/>　　司刑掌管五刑之法，以施加于犯罪的民众：判墨刑的罪有五百条，判劓刑的罪有五百条，判宫刑的罪有五百条，判刖的罪有五百条，判死刑的罪有五百条。如果大司寇[在外朝]审断诉讼，就依据五刑之法辨别罪行的轻重，而建议大司寇所宜施的刑罚。<br/><br/>　　司刺掌管三次讯问、三种宽宥、三项赦免之法，以协助大司寇审理诉讼：[三讯]一讯是讯问群臣的意见，二讯是迅问群吏的意见，三讯是讯问民众的意见；[三宥]一是宽宥看错人而杀人者，二是宽宥无心而误杀者，本是宽宥忘了某处有人而误杀人者；[三赦]一是赦免年龄幼小而杀人者，二是赦免年老而杀人者，三是赦免痴呆而杀人者。用这三法求得人犯罪的实情，使对犯人的审断正确，而决定是应当施以重刑或轻的罪，然后施刑或处死。<br/><br/>　　司约掌各诸侯国以及民众间的契约券书。治理有关神约的事最重要，治理有关民约的事次一等，治理有关地约的事又次一等，治理有关功约的事又次一等，治理有关器约的事又次一等，治理有关挚约的事又次一等。凡重大的契约券书记载垂宗庙彝器上，小事的卖约券书用红色书写[在竹帛上]。如果有因契约而争讼的，就先行衅礼而后打开府库[查阅契约原件]，违约的服墨刑。如果有大乱事件，就[会同]六卿打开府库所藏契约，违约的处死。<br/><br/>　　司盟掌管订立盟辞之法。凡诸侯国之间因不和协而会同，就负责记载盟约之辞以及盟约的礼仪，面朝北宣读盟辞以报告神明。盟约订立后，就抄写副本[交给六卿]。盟诅民众中违犯国君教令的人，盟诅违犯誓约的人，也这样做。凡民众之间订有契约券书的，副本收藏在司盟那里。如果有(因契约]发生诉讼的，就先让他们盟诅。凡举行盟诅，各使当事人所在地的民众供给所需的牲，并把民众召集在一起。盟诅之后，又为司盟提供祈神所需的酒脯。<br/><br/>　　职金掌管凡有关铜玉锡石丹青等的戒令。接受开采者缴纳的赋税，辨别所缴纳矿物的质量好坏及数量多少，书写标签并加盖印章，把铜锡交到制造兵器的府库，把玉石丹青等交到主管收藏的府库。上交记录的簿书(给大府]。负责接受司法官所判罚的铜和货币，交给司兵。 旅祭上帝，就供给所需的金版。用飨礼款待诸侯时也这样做。　凡王国有军事行动而需用铜石，就掌管有关领取铜石的政令。<br/><br/>　　司厉掌管[所收缴的]盗贼的兵器、财物，辨别它们的种类，都记有数量，标明价格而加上标签，交到司兵那里。盗贼罚做奴隶，男子交到罪隶那里，女子交到舂人、槁人那里。凡[盗贼中]原来有爵位的和七十岁以上的，以及尚未换牙的小儿，都不罚做奴隶。<br/><br/>　　犬人掌管犬牲。凡祭祀供给所需的犬牲，要用毛色纯一的犬。伏牲[行辕祭]、埋牲[祭地神]也供给犬牲。凡举行衅祭、沉祭、毁折牲体而祭，用杂色的犬也可以。凡挑选犬的人、牵犬的人都隶属犬人，由犬人掌管他们的事务和对他们的治理。<br/><br/>　　司圜负责拘禁不良之民而加以教育。凡危害人的人不让他们戴寇饰，而写明他们的罪状让他们背在背上，使他们服劳役而对他们加以拘禁教育。能改过的，重罪拘禁三年而后释放，次一等的罪拘禁两年而后释放，轻罪拘禁一年而后释放。不能改过而逃出狱城的，[抓住了就]处死。[改过者]即使放出来，三年内不得按年龄与乡民排列尊卑位次。凡拘禁在狱城中而身加明刑的人，不[施加肉刑而]亏损他们的身体；罚服劳役的人，不罚没他们的财产。<br/><br/>　　掌囚负责看守[被抓捕在狱的]盗贼，以及凡有罪被囚禁的人。重罪犯戴桔、辇、桎，次一等的錾蕉，挂，轻罪犯只戴梏。王的同族人[犯罪]只戴拳，有爵位塑人[犯罪]只戴桎，以等待判决。到施刑或处死罪犯那天，向王报告将行刑罪犯[的姓名]，[把罪犯]押送到朝士那里，[朝士给罪犯]加上写有姓名和罪状的梏，然后押送到市上施刑或处死。凡有爵位的人以及王的同族中人，就押送到旬师氏那里，以等待施刑或处死。<br/><br/>　　掌戮负责斩杀盗贼和间谍，杀后剥去衣服并分裂尸体。凡杀害亲属的人[处死后]焚尸，杀害王的亲属的人[处死后]分裂尸体。凡杀人的人在市上处死，陈尸三日。对盗贼行刑也在市上。凡有罪而犯法的，也在市上行刑。只有王的同族和有爵位的人，在甸师氏那里处死。凡出征、田猎、劳役，[对犯罪的人]斩杀行刑，也这样做。受过墨刑的人使他守门，受过劓刑的人使他守关，受过宫刑的人使他守宫内，受过刖刑的人使他守苑囿，受过髡刑的人使他守粮草。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-34-850.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-34-852.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-34.html" action-type="chapterComment" class="comment"><i></i>周礼章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

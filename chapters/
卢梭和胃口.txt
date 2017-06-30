@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《而已集》正文_卢梭和胃口_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="而已集,而已集原文,而已集阅读,卢梭和胃口全文,鲁迅作品" />
+<meta name="description" content="而已集原文阅读,卢梭和胃口全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-533-6704.html";
+var nextpage="novel-read-533-6706.html";
+var indexpage = "novel-chapter-533.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-533.html">而已集</a></strong>
+<strong><a href="novel-chapter-533.html">而已集目录</a></strong>
+<span>卢梭和胃口</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-533-6704.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卢梭和胃口</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 20:47:50<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>做过《民约论》的卢梭（2），自从他还未死掉的时候起，便受人们的责备和迫害，直到现在，责备终于没有完。连在和“民约”没有什么关系的中华民国，也难免这一幕了。<br/>　　例如商务印书馆出版的《爱弥尔》（3）中文译本的序文上，就说　　“……本书的第五编即女子教育，他的主张非但不彻底，而且不承认女子的人格，与前四编的尊重人类相矛盾。……所以在今日看来，他对于人类正当的主张，可说只树得一半……。”<br/>　　然而复旦大学出版的《复旦旬刊》创刊号上梁实秋（4）教授的意思，却“稍微有点不同”了。其实岂但“稍微”而已耶，乃是“卢梭论教育，无一是处，唯其论女子教育，的确精当。”<br/>　　因为那是“根据于男女的性质与体格的差别而来”的。而近代生物学和心理学研究的结果，又证明着天下没有两个人是无差别。怎样的人就该施以怎样的教育。<br/>　　（5）所以，梁先生说——<br/>　　　　“我觉得‘人’字根本的该从字典里永远注销，或由政府下令永禁行使。因为‘人’字的意义太糊涂了。聪明绝顶的人，我们叫他做人，蠢笨如牛的人，也一样的叫做人，弱不禁风的女子，叫做人，粗横强大的男人，也叫做人，人里面的三流九等，无一非人。近代的德谟克拉西的思想，平等的观念，其起源即由于不承认人类的差别。近代所谓的男女平等运动，其起源即由于不承认男女的差别。人格是一个抽象名词，是一个人的身心各方面的特点的总和。人的身心各方面的特点既有差别，实即人格上亦有差别。所谓侮辱人格的，即是不承认一个人特有的人格，卢梭承认女子有女子的人格，所以卢梭正是尊重女子的人格。抹杀女子所特有之特性者，才是侮辱女子人格。”<br/>　　于是势必至于得到这样的结论——<br/>　　　　“……正当的女子教育应该是使女子成为完全的女子。”<br/>　　那么，所谓正当的教育者，也应该是使“弱不禁风”者，成为完全的“弱不禁风”，“蠢笨如牛”者，成为完全的“蠢笨如牛”，这才免于侮辱各人——此字在未经从字典里永远注销，政府下令永禁行使之前，暂且使用——的人格了。卢梭《爱弥尔》前四编的主张不这样，其“无一是处”，于是可以算无疑。<br/>　　但这所谓“无一是处”者，也只是对于“聪明绝顶的人”而言；在“蠢笨如牛的人”，却是“正当”的教育。因为看了这样的议论，可以使他更渐近于完全“蠢笨如牛”。这也就是尊重他的人格。<br/>　　然而这种议论还是不会完结的。为什么呢？一者，因为即使知道说“自然的不平等”（6），而不容易明白真“自然”和“因积渐的人为而似自然”之分。二者，因为凡有学说，往往“合吾人之胃口者则容纳之，且从而宣扬之”（7）也。<br/>　　上海一隅，前二年大谈亚诺德（8），今年大谈白璧德（9），恐怕也就是胃口之故罢。<br/>　　许多问题大抵发生于“胃口”，胃口的差别，也正如“人”字一样的——其实这两字也应该呈请政府“下令永禁行使”。我且抄一段同是美国的Upton　Sinclair（10）的，以尊重另一种人格罢——<br/>　　　　“无论在那一个卢梭的批评家，都有首先应该解决的唯一的问题。为什么你和他吵闹的？要为他的到达点的那自由，平等，调协开路么？还是因为畏惧卢梭所发向世界上的新思想和新感情的激流呢？使对于他取了为父之劳的个人主义运动的全体怀疑，将我们带到子女服从父母，奴隶服从主人，妻子服从丈夫，臣民服从教皇和皇帝，大学生毫不发生疑问，而佩服教授的讲义的善良的古代去，乃是你的目的么？<br/>　　“阿嶷夫人曰：‘最后的一句，好像是对于白璧德教授的一箭似的。’“‘奇怪呀，’她的丈夫说。‘斯人也而有斯姓也……<br/>　　那一定是上帝的审判了。’”不知道和原意可有错误，因为我是从日本文重译的。书的原名是《Mammonart》，在　California　的　Pasadena　作者自己出版，胃口相近的人们自己弄来看去罢。Mammon（11）是希腊神话里的财神，art谁都知道是艺术。可以译作“财神艺术”罢。日本的译名是“拜金艺术”，也行。因为这一个字是作者生造的，政府既没有下令颁行，字典里也大概未曾注入，所以姑且在这里加一点解释。<br/>　　十二，二一。<br/><br/>　　　　　　　　　 ----------------------------------<br/><br/>　　（1）本篇最初发表于一九二八年一月七日《语丝》周刊第四卷第四期。<br/>　　（2）卢梭（J．J．Rousseau，1712—1778）　法国启蒙思想家。<br/>　　他的主要著作《民约论》（一七六二年出版），提出“天赋人权”学说，抨击封建专制制度，在十八世纪欧洲资产阶级民主革命时期影响很大。他因此备受僧侣和贵族的迫害，以致不得不避居瑞士和英国。<br/>　　（3）《爱弥尔》　通译《爱弥儿》，卢梭所著的教育小说，一七六二年出版。在前四篇关于主要人物爱弥儿的描述中，作者认为人类在“自然状态”下是平等的，应尊重人的自然发展。但第五篇叙述对莎菲亚的教育时，作者又认为“人既有差别，人格遂亦有差别，女子有女子的人格。”由于此书反封建、反宗教色彩浓厚，出版后曾被巴黎议会议决焚毁。中文本系魏肇基所译，一九二三年六月商务印书馆出版，序文为译者所作。<br/>　　（4）梁实秋　浙江杭县（今属余杭）人，新月社的重要成员，国家社会党党员。曾留学美国，是美国新人文主义者白璧德的追随者。他的《卢梭论女子教育》一文，原发表于一九二六年十二月十五日《晨报副刊》，后略加修改，重新刊载于一九二七年十一月《复旦旬刊》创刊号。他认为卢梭关于女子教育的意见，“实足矫正近年来男女平等的学说”。<br/>　　（5）梁实秋在《卢梭论女子教育》中说：“近代生物学和心理学研究的结果，证明不但男子和女人是有差别的，就是男子和男子，女人和女人，又有差别。简言之，天下就没有两个人是无差别的。什么样的人应该施以什么样的教育。”<br/>　　（6）“自然的不平等”　卢梭在《论人类不平等的起源和基础》（一七六二年出版）中说：“人类中有两种不平等：一种，我把它叫做自然的或生理上的不平等，因为它是基于自然，由年龄、健康、体力及智慧或心灵的性质的不同而产生的；另一种可以称为精神上的或政治上的不平等，因为它是起因于一种协议，由于人们的同意而设定的，或者至少是它的存在为大家所认可的。”（据李常山译本，一九二六年商务印书馆出版。）<br/>　　（7）“合吾人之胃口者则容纳之”二句，是梁实秋《卢梭论女子教育》中的话。<br/>　　（8）亚诺德（M．Arnold，1822—1888）　通译阿诺德，英国诗人、文艺批评家。梁实秋在所著《文学批评辩》、《文学的纪律》等文里常引用他的意见。<br/>　　（9）白璧德（I．Babbitt，1865—1933）　美国近代所谓“新人文主义”运动的领导者之一，哈佛大学教授。他在所著《卢骚及浪漫主义》一书中，对卢梭大肆攻击。梁实秋说卢梭“无一是处”，便是依据他的意见而来的。<br/>　　（10）Upton　Sinclair　阿通·辛克莱（1878—1968），美国小说家。下文的《Mammonart》，即《拜金艺术》，辛克莱的一部用经济的观点解释历史上各时代的文艺的专著，一九二五年出版。California的Pasadena，即加利福尼亚州的帕萨第那城。按引文中的阿嶷是该书中一个原始时代的艺术家的名字。这里的引文是根据木村生死的日文译本《拜金艺术》（一九二七年东京金星堂出版）重译。<br/>　　（11）Mammon　这个词来源于古代西亚的阿拉米语，经过希腊语移植到近代西欧各国语言中，指财富或财神，后转义为好利贪财的恶魔。古希腊神话中的财神是普路托斯（Ploutos）。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-533-6704.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-533-6706.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-533.html" action-type="chapterComment" class="comment"><i></i>而已集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

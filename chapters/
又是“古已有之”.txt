@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《集外集拾遗》正文_又是“古已有之”_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="集外集拾遗,集外集拾遗原文,集外集拾遗阅读,又是“古已有之”全文,鲁迅作品" />
+<meta name="description" content="集外集拾遗原文阅读,又是“古已有之”全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-541-7038.html";
+var nextpage="novel-read-541-7040.html";
+var indexpage = "novel-chapter-541.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-541.html">集外集拾遗</a></strong>
+<strong><a href="novel-chapter-541.html">集外集拾遗目录</a></strong>
+<span>又是“古已有之”</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-541-7038.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>又是“古已有之”</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-30 20:12:26<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>太炎先生（２）忽然在教育改进社年会的讲坛上“劝治史学”以“保存国性”，真是慨乎言之。但他漏举了一条益处，就是一治史学，就可以知道许多“古已有之”的事。 <br/><br/>　　衣萍先生（３）大概是不甚治史学的，所以将多用惊叹符号应该治罪的话，当作一个“幽默”。其意盖若曰，如此责罚，当为世间之所无有者也。而不知“古已有之”矣。 <br/><br/>　　我是毫不治史学的。所以于史学很生疏。但记得宋朝大闹党人（４）的时候，也许是禁止元祐学术的时候罢，因为党人中很有几个是有名的诗人，便迁怒到诗上面去，政府出了一条命令，不准大家做诗，违者笞二百！（５）而且我们应该注意，这是连内容的悲观和乐观都不问的，即使乐观，也仍然答一百！ <br/><br/>　　那时大约确乎因为胡适之（６）先生还没有出世的缘故罢，所以诗上都没有用惊叹符号，如果用上，那可就怕要笞一千了，如果用上而又在“唉”“呵呀”的下面，那一定就要笞一万了，加上“缩小像细菌放大像炮弹”（７）的罪名，至少也得笞十万。衣萍先生所拟的区区打几百关几年，未免过于从轻发落，有姑容之嫌，但我知道他如果去做官，一定是一个很宽大的“民之父母”（８），只是想学心理学是不很相宜的（９）。 <br/><br/>　　然而做诗又怎么开了禁呢？听说是因为皇帝先做了一首，于是大家便又动手做起来了。 <br/><br/>　　可惜中国已没有皇帝了，只有并不缩小的炮弹在天空里飞，那有谁来用这还未放大的炮弹呢？ <br/><br/>　　呵呀！还有皇帝的诸大帝国皇帝陛下呀，你做几首诗，用些惊叹符号，使敝国的诗人不至于受罪罢！唉！！！这是奴隶的声音，我防爱国者要这样说。 <br/><br/>　　诚然，这是对的，我在十三年之前，确乎是一个他族的奴隶，国性还保存着，所以“今尚有之”，而且因为我是不甚相信历史的进化的，所以还怕未免“后仍有之”。旧性是总要流露的，现在有几位上海的青年批评家，不是已经在那里主张“取缔文人”，不许用“花呀”“吾爱呀”了么？但还没有定出“笞令”来。 <br/><br/>　　倘说这不定“笞令”，比宋朝就进化；那么，我也就可以算从他族的奴隶进化到同族的奴隶，臣不胜屏营欣忭之至！ <br/><br/>　　（１）本篇最初发表于一九二四年九月二十八日北京《晨报副刊》，署名某生者。 <br/><br/>　　（２）太炎章炳麟，参看本卷第６页注（６）。一九二四年七月五日，他在南京东南大学召开的“中华教育改进社”第三次年会上，作《劝治史学及论史学利病》的讲演，其中说：“生为一国之民，不治本国史学，直谓之无国家无国民性之人可也，聚几万万无国民性之人以立国，则国魂已失。”教育改进社，全称“中华教育改进社”，一九二二年七月成立于济南。主要成员有熊希龄、陶知行（行知）、王伯秋等。<br/>　　（３）衣萍章鸿熙（１９００—１９４７），字衣萍，安徽绩溪人。当时在北京大学文学院旁听，是《语丝》撰稿人之一。他在一九二四年九月十五日《晨报副刊》发表《感叹符号与新诗》一文，针对张耀翔的所谓多用感叹号的白话诗是“亡国之音”的论调、用幽默讽刺的笔法提出“请愿政府明令禁止”做白话诗、用感叹号。“凡做一首白话诗者打十板屁股”；“凡用一个感叹号者罚洋一元”；“凡出版一本白话诗集或用一百个感叹号者，处以三年的监禁或三年有期徒刑；出版三、四本的白话诗集或用一千个以上的感叹号者，即枪毙或杀头”。<br/>　　（４）宋朝大闹党人宋神宗时，王安石任宰相，实行变法，遭到司马光等人的反对，形成新党与旧党之争。宋哲宗元祐年间旧党得势，他们的政治学术思想被称为元祐学术。后来宋徽宗打击旧党，严禁元祐学术传播。《宋史·徽宗纪》*兀撼缒��晔�辉拢�兆谙纶�骸耙元祐学术政事聚徒传授者，委监司察举，必罚无赦。”并将司马光、苏轼等三○九人镌名立碑于太学端礼门前，指为奸党，称为党人碑，或元祐党碑。 <br/><br/>　　（５）关于宋朝禁诗的事，据宋代叶梦得《避暑录话》卷下：“政和间，大臣有不能为诗者，因建言诗为元祐学术，不可行。李彦章为御史，承望风旨，遂上章论陶渊明、李、杜而下皆贬之；因诋黄鲁直、张文潜、晁无咎、秦少游等，请为科禁。……何丞相伯通适领修律令，因为科云：‘诸士庶传习诗赋者杖一百！’是岁冬初雪，太上皇意喜，吴门下居厚首作诗三篇以献，谓之口号，上和赐之。自是圣作时出，讫不能禁，诗遂盛行于宣和之末。”按文中所说“笞二百”鲁迅曾予更正，参看《集外集拾遗补编·笞*�傧刁滓话僦�蟆贰<br/>　　（６）胡适之胡适（１８９１—１９６２），字适之，安徽绩溪人。北京大学教授。曾为《新青年》杂志编辑之一，是五四新文化运动的右翼代表人物。他的《尝试集》（一九二○年出版）被张耀翔用作攻击新诗使用惊叹号的例证之一。 <br/><br/>　　（７）“缩小像细菌放大像炮弹”张耀翔在《心理》杂志第三卷第二号（一九二四年四月）发表《新诗人的情绪》一文，把当时出版的胡适《尝试集》、康白情《草儿》、郭沫若《女神》等新诗集里面的惊叹号加以统计，并讽刺说：“仰看像一阵春雨，俯看像数亩禾田；缩小看像许多细菌，放大看像几排弹丸。”认为这是消极、悲观、厌世情绪的表现，多用惊叹符号的白话诗是“亡国之音”。<br/>　　（８）“民之父母”语见《诗经·小雅·南山有台》：“乐只君子，民之父母”。旧时常用以称呼地方官。 <br/><br/>　　（９）这是对张耀翔的讽刺。张耀翔当时是北京师范大学心理学教授，中华心理学会刊物《心理》杂志的编辑主任。他在《新诗人的情绪》一文中说：“职是之故，心理学者关于情绪之研究，远较他种精神研究为少……余久欲努力於情绪之研究……其方法为何，即取其专为表情之著作——诗，盛行之白话诗——而分析之。” </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-541-7038.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-541-7040.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-541.html" action-type="chapterComment" class="comment"><i></i>集外集拾遗章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《楚辞》正文_远游_屈原作品 - 维普阅读网</title>
+<meta name="keywords" content="楚辞,楚辞原文,楚辞阅读,远游全文,屈原作品" />
+<meta name="description" content="楚辞原文阅读,远游全文在线阅读,屈原作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-257-4129.html";
+var nextpage="novel-read-257-4131.html";
+var indexpage = "novel-chapter-257.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-257.html">楚辞</a></strong>
+<strong><a href="novel-chapter-257.html">楚辞目录</a></strong>
+<span>远游</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-257-4129.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>远游</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=屈原&amp;searchsubmit=yes"  target="_blank">屈原</a><span class="divide">|</span>发布时间：2014-08-27 20:36:15<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>悲时俗之迫阨兮，愿轻举而远游。<br/>质菲薄而无因兮，焉讬乘而上浮？<br/>遭沈浊而污秽兮，独郁结其谁语！<br/>夜耿耿而不寐兮，魂营营而至曙。<br/>惟天地之无穷兮，哀人生之长勤。<br/>往者余弗及兮，来者吾不闻。<br/>步徙倚而遥思兮，怊惝怳而乖怀。<br/>意荒忽而流荡兮，心愁悽而增悲。<br/>神倏忽而不反兮，形枯槁而独留。<br/>内惟省以操端兮，求正气之所由。<br/>漠虚静以恬愉兮，澹无为而自得。<br/><br/>闻赤松之清尘兮，愿承风乎遗则。<br/>贵真人之休德兮，美往世之登仙；<br/>与化去而不见兮，名声著而日延。<br/>奇傅说之讬辰星兮，羡韩众之得一。<br/>形穆穆以浸远兮，离人群而遁逸。<br/>因气变而遂曾举兮，忽神奔而鬼怪。<br/>时仿佛以遥见兮，精晈晈以往来。<br/>超氛埃而淑邮兮，终不反其故都。<br/>免众患而不惧兮，世莫知其所如。<br/><br/>恐天时之代序兮，耀灵晔而西征。<br/>微霜降而下沦兮，悼芳草之先蘦。<br/>聊仿佯而逍遥兮，永历年而无成。<br/>谁可与玩斯遗芳兮？长向风而舒情。<br/>高阳邈以远兮，余将焉所程？<br/><br/>重曰：<br/>春秋忽其不淹兮，奚久留此故居。<br/>轩辕不可攀援兮，吾将从王乔而娱戏。<br/>餐六气而饮沆瀣兮，漱正阳而含朝霞。<br/>保神明之清澄兮，精气入而麤秽除。<br/>顺凯风以从游兮，至南巢而壹息。<br/>见王子而宿之兮，审壹气之和德。<br/><br/>曰“道可受兮，不可传；<br/>其小无内兮，其大无垠。<br/>毋滑而魂兮，彼将自然；<br/>壹气孔神兮，于中夜存。<br/>虚以待之存，无为之先；<br/>庶类以成兮，此德之门。”<br/><br/>闻至贵而遂徂兮，忽乎吾将行。<br/>仍羽人于丹丘，留不死之旧乡。<br/>朝濯发于汤谷兮，夕晞余身兮九阳。<br/>吸飞泉之微液兮，怀琬琰之华英。<br/>玉色頩以脕颜兮，精醇粹而始壮。<br/>质销铄以汋约兮，神要眇以淫放。<br/>嘉南州之炎德兮，丽桂树之冬荣；<br/>山萧条而无兽兮，野寂漠其无人。<br/>载营魄而登霞兮，掩浮云而上征。<br/>命天阍其开关兮，排阊阖而望予。<br/>召丰隆使先导兮，问太微之所居。<br/>集重阳入帝宫兮，造旬始而观清都。<br/><br/>朝发轫于太仪兮，夕始临乎于微闾。<br/>屯余车之万乘兮，纷容与而并驰。<br/>驾八龙之婉婉兮，载云旗之逶蛇。<br/>建雄虹之采旄兮，五色杂而炫耀。<br/>服偃蹇以低昂兮，骖连蜷以骄骜。<br/>骑胶葛以杂乱兮，斑漫衍而方行。<br/>撰余辔而正策兮，吾将过乎句芒。<br/>历太皓以右转兮，前飞廉以启路。<br/>阳杲杲其未光兮，凌天地以径度。<br/>风伯为余先驱兮，氛埃辟而清凉。<br/>凤凰翼其承旂兮，遇蓐收乎西皇。<br/>揽慧星以为旍兮，举斗柄以为麾。<br/>叛陆离其上下兮，游惊雾之流波。<br/>时暧曃其曭莽兮，召玄武而奔属。<br/>后文昌使掌行兮，选署众神以并轂。<br/>路漫漫其修远兮，徐弭节而高厉。<br/><br/>左雨师使径侍兮，右雷公以为卫。<br/>欲度世以忘归兮，意姿睢以抯挢。<br/>内欣欣而自美兮，聊媮娱以淫乐。<br/>涉青云以汎滥游兮，忽临睨夫旧乡。<br/>仆夫怀余心悲兮，边马顾而不行。<br/>思旧故以想象兮，长太息而掩涕。<br/>汜容与而遐举兮，聊抑志而自弭。<br/>指炎神而直驰兮，吾将往乎南疑。<br/><br/>览方外之荒忽兮，沛罔瀁而自浮。<br/>祝融戒而跸御兮，腾告鸾鸟迎宓妃。<br/>张咸池奏承云兮，二女御九韶歌。<br/>使湘灵鼓瑟兮，令海若舞冯夷。<br/>玄螭虫象并出进兮，形蟉虯而逶蛇。<br/>雌蜺便娟以增挠兮，鸾鸟轩翥而翔飞。<br/>音乐博衍无终极兮，焉乃逝以徘徊。<br/>舒并节以驰骛兮，逴绝垠乎寒门。<br/>轶迅风于清源兮，从颛顼乎增冰。<br/>历玄冥以邪径兮，乘间维以反顾。<br/>召黔赢而见之兮，为余先乎平路。<br/>经营四方兮，周流六漠。<br/>上至列缺兮，降望大壑。<br/>下峥嵘而无地兮，上寥廓而无天。<br/>视倏忽而无见兮，听惝恍而无闻。<br/>超无为以至清兮，与泰初而为邻。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-257-4129.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-257-4131.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-257.html" action-type="chapterComment" class="comment"><i></i>楚辞章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《抱朴子外篇》正文_名实卷第二十_葛洪作品 - 维普阅读网</title>
+<meta name="keywords" content="抱朴子外篇,抱朴子外篇原文,抱朴子外篇阅读,名实卷第二十全文,葛洪作品" />
+<meta name="description" content="抱朴子外篇原文阅读,名实卷第二十全文在线阅读,葛洪作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-510-6017.html";
+var nextpage="novel-read-510-6019.html";
+var indexpage = "novel-chapter-510.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-510.html">抱朴子外篇</a></strong>
+<strong><a href="novel-chapter-510.html">抱朴子外篇目录</a></strong>
+<span>名实卷第二十</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-510-6017.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>名实卷第二十</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=葛洪&amp;searchsubmit=yes"  target="_blank">葛洪</a><span class="divide">|</span>发布时间：2014-09-21 20:57:50<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>20.1 门人问曰:“闻汉末之世, 灵献之时, 品藻乖滥, 英逸穷滞, 饕餮得志, 名不准实, 贾不本物, 以其通者为贤, 寒者为愚. 其故何哉? ”<br/>　　20.2 抱朴子答曰:“夫雷霆车訇磕, 而或不闻焉;七曜经天, 而或不见焉. 岂唯形器有聋瞽哉! 心神所蔽, 亦又如之. 是以闻格言而不识者, 非无耳也;见英异而不知者, 非无目也;由乎聪不经妙, 而明不逮奇也. 夫智大量远者, 盘桓以山峙;器小志近者, 蓬飞而萍浮. 夫唯山峙, 故莫之能动焉;夫唯萍浮, 故流而不滞焉.<br/>　　20.3 方之货也, 则缄连以待贾者, 唯至珍而难售;鸣鼓以徇之者, 虽凡蔽而易尽. 比之材也, 则结根於嵩岱者, 虽竦盖千仞, 垂荫万亩, 而莫之知也;插株途要者, 虽钩曲戾细而速朽, 而犹见用也. 故庙堂有枯杨之瑚簋, 穷谷多不伐之梓橡也.<br/>　　20.4 是以窃华名者, 蝼蜥腾於云霄;失实贾者, 翠虬沦乎九泉. 於是斥鷃凌风以高奋, 灵凤卷翮以幽戢, 铅锋充太阿之宝, 犬羊佻虎狼之资矣. 夫佞者鼓珍赂为劲羽, 则无高而不到矣;乘朋党为舟楫, 则无远而不济矣.<br/>　　20.5 持之以夙兴侧立, 加之以先意承指, 其利口谀辞也似辩, 其道听途说也似学, 其心险貌柔也似仁, 其行污言洁也似廉, 其好说人短也似忠, 其不知忌讳也似直, 故多通焉. 且亦奉望我者, 欲我益之, 不求我者, 我不能爱, 自然之理也.<br/>　　20.6 “夫贤常少而愚常多, 多则比周而匿瑕, 少则孤弱而无援, 佞人相汲引而柴正路, 俊哲处下位而不见知, 拔茅之义圯, 而负乘之群兴, 亢龙高坠, 泣血涟如. 故子西逐大圣之仲尼, 臧仓毁命世之孟轲. 二生不免斯患, 降兹亦何足言! 斯祸盖与开辟并生, 苦之匪唯一世也. 历览振古, 多同此疾.<br/>　　20.7 至於驽蹇矫首於王周辇, 駥骥委牧乎林坰, 彼己尸禄, 邦国殄瘁, 下凌上替, 实此之由. 或虫流而莫敛, 或逆窜於申亥, 或擢筋於庙梁, 或绝命於望夷, 盖所拔之非真, 而忠能之不用也.<br/>　　20.8 “故明君勤於招贤, 而汲汲於擢奇, 导达凝滞, 而严防壅蔽. 才诚足委, 不拘於屠钓;言审可施, 抽之於戎戍. 或举於牛口之下, 而加之於群僚之上;或拔於桎梏之中, 而任以社稷之重. 故能勋业隆济, 拓境服远, 取威定功, 垂统长世也.<br/>　　20.9 “夫直绳者, 枉木之所憎也;清公者, 奸慝之所雠也. 人主不能运玄鉴以索隐, 而必须当途之所举. 然每观前代专权之徒, 率其所举皆在乎附己者也, 所荐者先乎利己者也. 毁所畏而进所爱, 所畏则至公者也, 所爱则同私者也. 至公用则奸党破, 众私立则主威夺矣;奸党破则升泰之所由也, 主威夺则危亡之端渐矣. 毁所畏则恐辞之不痛, 虽刖劓之, 犹未弇意焉, 故必除之而後快也;彼进所爱则苦谈之不美, 虽位超之, 犹未逞心焉, 故必危彼以安此也. 是故抱枉而死, 无愆而黜者, 有自来矣.<br/>　　20.10 “所以体道合真, 嶷然特立, 才远量逸, 怀霜履冰, 思绵天地, 器兼元凯, 执经衡门, 渊渟岳立. 宁洁身以守滞, 耻胁肩以苟合. 乐饥陋巷, 以励高尚之节;藏器全真, 以待天年之尽. 非时不出, 非礼不动. 结褐嚼蔬, 而不悒悒也;黄发终否, 而不悢悢也. 安肯蹙太山之峻, 以适凿枘之中;敛垂天之羽, 为戒旦之役? 编於仕类, 而抑郁庸儿之下. 舍鸾凤之林, 适枳棘之薮, 竞腐鼠於踞鸱, 而枉尺以直寻哉!<br/>　　20.11 “且大贤之状也至拙, 其为味也甚淡, 萧然自足, 泊尔无知, 知之者稀而不戚, 时不能用而不闷. 虽并日无藜藿之糁, 不以易不义之太牢也;虽缊袍无卒岁之服, 不肯乐无道之狐白也. 独可散发高枕, 守其所有已, 绝不曲躬低眉, 求其所未须也.<br/>　　20.12 德薄位厚, 弗交也;名与实违, 弗亲也;荣华驰逐, 弗务也;豪侠奸权, 弗接也;俗说细辨, 不答也;胁肩所赴, 弗随也. 貌愚而志远, 面垢而行洁. 确乎若嵩岱, 铨衡所不能测也;浩乎若沧海, 斗斛所不能校也. 峻其重仞之高, 隐其百官之富. 观彼佻窃, 若草莽也. 邈世之操, 眇焉冠秋云之表;遗俗之神, 缅焉栖九玄之端. 虽穷贱, 而不可胁以威;虽危苦, 而不可动以利.<br/>　　20.13 “其所业尚, 可闻而不可尽也;其所执守, 可见而不可论也. 故疾之者, 齐声而侧目;爱之者, 寡弱而无益. 亦犹撮壤不能填决河, 升水不能殄原火. 於是鼖鼓戢雷霆之音, 鞉鞞恣喋鼛之响. 芳蕙芟夷, 臭鲍佩御. 玄鬯倾弃而不羞, 醨酪专灌於圆丘. 汗血驱放而垂耳, 跛蹇驰骋於銮轩. 此古人之所以怀沙负石, 赴流鱼葬, 而不堪与之同世也. 已矣! 悲夫!<br/>　　20.14 “然捐玄黎於洿泞, 非夜光之不真也, 由莫识焉;投彤卢而不弯, 非繁弱之不劲也, 坐莫赏焉. 故琼瑶俟荆和而显连城之价, 乌号须逢门而著陷坚之功, 飞菟待子豫而飚腾, 俊民值知己而宣力. 若夫美玉不出重岫, 良弓不凿百札, 骥騄不服朱轩, 命世不履爵势, 则孰知其能摅符彩之耀晔, 顿云禽於千仞, 骋逸迹以追风, 康庶绩於百揆乎?<br/>　　20.15 夫其不遇, 亦得不杂糅於瓦石, 钧贱於朽木, 列镳於下乘, 等望於凡琐哉! 嗟乎! 弓广棘矢而望高手於渠广, 策疲驽而求继轨於周穆, 放斧斤而欲双巧於班墨, 忽良才而欲彝伦之攸叙, 不亦难乎? 名实虽漏於一世, 德音可邀乎将来. 乐天知命, 何虑何忧? 安时处顺, 何怨何忧哉!</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-510-6017.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-510-6019.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-510.html" action-type="chapterComment" class="comment"><i></i>抱朴子外篇章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

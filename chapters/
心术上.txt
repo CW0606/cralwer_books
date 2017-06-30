@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《管子》正文_心术上_管仲作品 - 维普阅读网</title>
+<meta name="keywords" content="管子,管子原文,管子阅读,心术上全文,管仲作品" />
+<meta name="description" content="管子原文阅读,心术上全文在线阅读,管仲作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-43-1150.html";
+var nextpage="novel-read-43-1152.html";
+var indexpage = "novel-chapter-43.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-43.html">管子</a></strong>
+<strong><a href="novel-chapter-43.html">管子目录</a></strong>
+<span>心术上</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-43-1150.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>心术上</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=管仲&amp;searchsubmit=yes"  target="_blank">管仲</a><span class="divide">|</span>发布时间：2014-07-24 20:55:35<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　心之在体，君之位也；九窍之有职，官之分也。心处其道。九窍循理；嗜欲充益，目不见色，耳不闻声。故曰上离其道，下失其事。毋代马走，使尽其力；毋代鸟飞，使弊其羽翼；毋先物动，以观其则。动则失位，静乃自得。<br/><br/>　　道，不远而难极也，与人并处而难得也。虚其欲，神将入舍；扫除不洁，神乃留处。人皆欲智而莫索其所以智乎。智乎，智乎，投之海外无自夺，求之者不得处之者。夫正人无求之也，故能虚无。<br/><br/>　　虚无无形谓之道，化育万物谓之德，君臣父子人间之事谓之义，登降揖让、贵贱有等、亲疏之体谓之礼，简物、小未一道。杀僇禁诛谓之法。<br/><br/>　　大道可安而不可说。直人之言不义不颇，不出于口，不见于色，四海之人，又孰知其则？<br/><br/>　　天曰虚，地曰静，乃不伐。洁其宫，开其门，去私毋言，神明若存。纷乎其若乱，静之而自治。强不能遍立，智不能尽谋。物固有形，形固有名，名当，谓之圣人。故必知不言，无为之事，然后知道之纪。殊形异埶，不与万物异理，故可以为天下始。<br/><br/>　　人之可杀，以其恶死也；其可不利，以其好利也。是以君子不休乎好，不迫乎恶，恬愉无为，去智与故。其应也，非所设也；其动也，非所取也。过在自用，罪在变化。是故有道之君，其处也若无知，其应物也若偶之。静因之道也。<br/><br/>　　“心之在体，君之位也；九窍之有职，官之分也。”耳目者。视听之官也，心而无与于视听之事，则官得守其分矣。夫心有欲者，物过而目不见，声至而耳不闻也。故曰：“上离其道，下失其事。”故曰：心术者，无为而制窍者也。故曰“君”。“毋代马走”，“毋代鸟飞”，此言不夺能能，不与下诚也。“毋先物动”者，摇者不走，趮者不静，言动之不可以观也。“位”者”，谓其所立也。人主者立于阴，阴者静，故曰“动则失位”。阴则能制阳矣，静则能制动矣，攸曰，‘静乃自得。”<br/><br/>　　道在天地之间也，其大无外，其小无内，故曰“不远而难极也”。虚之与人也无间，唯圣人得虚道，故曰“并处而难得”。世人之所职者精也。去欲则宣，宣则静矣，静则精。精则独立矣，独则明，明则神矣。神者至贵也，故馆不辟除，则贵人不舍焉。故曰“不洁则神不处”。“人皆欲知而莫索之”，其所（以）知，彼也；其所以知，此也。不修之此，焉能知彼？修之此，莫能虚矣。虚者，无藏也。故曰去知则奚率求矣，无藏则奚设矣。无求无设则无虑，无虑则反复虚矣。<br/><br/>　　天之道，虚其无形。虚则不屈，无形则无所位迕，无所位迕，故遍流万物而不变，德者，道之舍，物得以生生，知得以职道之精。故德者得也。得也者，其谓所得以然也。以无为之谓道，舍之之谓德。故道之与德无间，故言之者不别也。间之理者，谓其所以舍也。义者，谓各处其宜也。礼者，因人之情，缘义之理，而为之节文者也，故礼者谓有理也。理也者，明分以谕义之意也。故礼出乎义，义出乎理，理因乎宜者也。法者所以同出，不得不然者也，故杀僇禁诛以一之也。故事督乎法，法出乎权，权出于道。<br/><br/>　　道也者、动不见其形，施不见其德，万物皆以得，然莫知其极。故曰“可以安而不可说”也。莫人，言至也。不宜，言应也。应也者，非吾所设，故能无宜也。不顾，言因也。因也者，非吾所顾，故无顾也。“不出于口，不见于色”，言无形也；“四海之人，孰知其则”，言深囿也。<br/><br/>　　天之道虚，地之道静。虚则不屈，静则不变，不变则无过，故曰“不伐”。“洁其宫，阙其门”：宫者，谓心也。心也者，智之舍也，故曰“宫”。洁之者，去好过也。门者，谓耳目也。耳目者，所以闻见也。“物固有形，形固有各”，此言不得过实、实不得延名。姑形以形，以形务名，督言正名，故曰“圣人”。“不言之言”，应也。应也者，以其为之人者也。执其名，务其应，所以成，之应之道也。“无为之道，因也。因也者，无益无损也。以其形因为之名，此因之术也。名者，圣人之所以纪万物也。人者立于强，务于善，未于能，动于故者也。圣人无之，无之则与物异矣。异则虚，虚者万物之始也，故曰“可以为天下始”。<br/><br/>　　人迫于恶，则失其所好；怵于好，则忘其所恶。非道也。故曰：“不怵乎好，不迫乎恶。”恶不失其理，欲不过其情，故曰：“君子”。“恬愉无为，去智与故”，言虚素也。“其应非所设也，其动非所取也”，此言因也。因也者，舍己而以物为法者也。感而后应，非所设也；缘理而动，非所取也，“过在自用，罪在变化”：自用则不虚，不虚则仵于物矣；变化则为生，为生则乱矣。故道贵因。因者，因其能者，言所用也。“君子之处也若无知”，言至虚也；“其应物也若偶之”，言时适也、若影之象形，响之应声也。故物至则应，过则舍矣。舍矣者，言复所于虚也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-43-1150.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-43-1152.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-43.html" action-type="chapterComment" class="comment"><i></i>管子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

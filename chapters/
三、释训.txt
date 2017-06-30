@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《尔雅》正文_三、释训_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="尔雅,尔雅原文,尔雅阅读,三、释训全文,佚名作品" />
+<meta name="description" content="尔雅原文阅读,三、释训全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-267-4560.html";
+var nextpage="novel-read-267-4562.html";
+var indexpage = "novel-chapter-267.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-267.html">尔雅</a></strong>
+<strong><a href="novel-chapter-267.html">尔雅目录</a></strong>
+<span>三、释训</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-267-4560.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>三、释训</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-08-29 22:35:24<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>明明、斤斤，察也。<br/>　　条条、秩秩，智也。<br/>　　穆穆、肃肃，敬也。<br/>　　诸诸、便便，辩也。<br/>　　肃肃、翼翼，恭也。<br/>　　廱廱、优优，和也。<br/>　　兢兢、憴憴，戒也。<br/>　　战战、跄跄，动也。<br/>　　晏晏、温温，柔也。<br/>　　业业、翘翘，危也。<br/>　　惴惴、憢憢，惧也。<br/>　　番番、矫矫，勇也。<br/>　　桓桓、烈烈，威也。<br/>　　洸洸、赳赳，武也。<br/>　　蔼蔼、济济，止也。<br/>　　悠悠、洋洋，思也。<br/>　　蹶蹶、踖踖，敏也。<br/>　　薨薨、增增，众也。<br/>　　烝烝、遂遂，作也。<br/>　　委委、佗佗，美也。<br/>　　忯々、惕惕，爱也。<br/>　　偁偁、格格，举也。<br/>　　蓁蓁、孽孽，戴也。<br/>　　懕々、媞々，安也。<br/>　　祁祁、迟迟，徐也。<br/>　　丕丕、简简，大也。<br/>　　存存、萌萌，在也。<br/>　　懋懋、慔慔，勉也。<br/>　　庸庸、慅慅，劳也。<br/>　　赫赫、跃跃，迅也。<br/>　　绰绰、爰爰，缓也。<br/>　　坎坎、墫墫，喜也。<br/>　　瞿瞿、休休，俭也。<br/>　　旭旭、跷跷，憍也。<br/>　　梦梦、訰訰，乱也。<br/>　　懪懪、邈邈，闷也。<br/>　　儚儚、洄洄，惛也。<br/>　　版版、荡荡，僻也。<br/>　　爞爞、炎炎，薰也。<br/>　　居居，究究，恶也。<br/>　　仇仇、敖敖，傲也。<br/>　　佌佌、琐琐，小也。<br/>　　悄悄、惨惨，愠也。<br/>　　痯々、瘐瘐，病也。<br/>　　殷殷、惸惸、忉忉、慱慱、钦钦、京京、忡忡、惙惙、怲怲、弈弈，忧也。<br/>　　畇畇，田也。<br/>　　畟畟，耜也。<br/>　　郝郝，耕也。<br/>　　绎绎，生也。<br/>　　穟穟，苗也。<br/>　　绵绵，麃也。<br/>　　挃挃，获也。<br/>　　栗栗，众也。<br/>　　溞溞，淅也。<br/>　　烰烰，烝也。<br/>　　俅俅，服也。<br/>　　峨峨，祭也。<br/>　　锽锽，乐也。<br/>　　穰穰，福也。<br/>　　子子孙孙，引无极也。<br/>　　颙颙卬卬，君之德也。<br/>　　丁丁、嘤嘤，相切直也。<br/>　　蔼蔼、萋萋，臣尽力也。<br/>　　噰噰喈喈，民协服也。<br/>　　佻佻、契契，愈遐急也。<br/>　　宴宴、粲粲，尼居息也。<br/>　　哀哀、恓恓，怀报德也。<br/>　　儵儵、嘒嘒，罹祸毒也。<br/>　　晏晏、旦旦，悔爽忒也。<br/>　　皋皋、琄琄，刺素食也。<br/>　　懽懽、愮愮，忧无告也。<br/>　　宪宪、泄泄，制法则也。<br/>　　谑谑、謞謞，崇谗慝也。<br/>　　翕翕訿訿，莫供职也。<br/>　　速速、蹙蹙，惟逑鞫也。<br/>　　抑抑，密也。<br/>　　秩秩，清也。<br/>　　甹夆，掣曳也。<br/>　　朔，北方也。<br/>　　不俟，不来也。<br/>　　不遹，不迹也。<br/>　　不彻，不道也。<br/>　　勿念，勿忘也。<br/>　　萲、谖，忘也。<br/>　　每有，虽也。<br/>　　饎，酒食也。<br/>　　舞、号，雩也。<br/>　　暨，不及也。<br/>　　蠢，不逊也。<br/>　　如切如磋，道学也。<br/>　　如琢如磨，自修也。<br/>　　瑟兮僴兮，恂栗也。<br/>　　赫兮烜兮，威仪也。<br/>　　有斐君子，终不可谖兮，道盛德至善，民之不能忘也。<br/>　　既微且尰，骭疡为微，肿足为尰。<br/>　　是刈是濩，濩，煮之也。<br/>　　履帝武敏，武，迹也；敏，拇也。<br/>　　张仲孝友，善父母为孝，善兄弟为友。<br/>　　有客宿宿，言再宿也。<br/>　　有客信信，言四宿也。<br/>　　美女为媛，美士为彦。<br/>　　其虚其徐，威仪容止也。<br/>　　猗嗟名兮，目上为名。<br/>　　式微式微者，微乎微者也。<br/>　　之子者，是子也。<br/>　　徒御不惊，辇者也。<br/>　　襢裼，肉袒也。<br/>　　暴虎，徒搏也。<br/>　　冯河，徒涉也。<br/>　　蘧篨，口柔也。<br/>　　戚施，面柔也。<br/>　　夸毘，体柔也。<br/>　　婆娑，舞也。<br/>　　擗，拊心也。<br/>　　矜怜，抚掩也。<br/>　　緎，羔裘之缝也。<br/>　　殿屎，呻也。<br/>　　帱谓之帐。<br/>　　侜张，诳也。<br/>　　谁昔，昔也。<br/>　　不辰，不时也。<br/>　　凡曲者为罶。<br/>　　鬼之为言归也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-267-4560.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-267-4562.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-267.html" action-type="chapterComment" class="comment"><i></i>尔雅章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

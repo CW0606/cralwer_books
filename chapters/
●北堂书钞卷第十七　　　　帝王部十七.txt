@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《北堂书钞》正文_●北堂书钞卷第十七　　　　帝王部十七_虞世南作品 - 维普阅读网</title>
+<meta name="keywords" content="北堂书钞,北堂书钞原文,北堂书钞阅读,●北堂书钞卷第十七　　　　帝王部十七全文,虞世南作品" />
+<meta name="description" content="北堂书钞原文阅读,●北堂书钞卷第十七　　　　帝王部十七全文在线阅读,虞世南作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-999-9623.html";
+var nextpage="novel-read-999-9625.html";
+var indexpage = "novel-chapter-999.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-999.html">北堂书钞</a></strong>
+<strong><a href="novel-chapter-999.html">北堂书钞目录</a></strong>
+<span>●北堂书钞卷第十七　　　　帝王部十七</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-999-9623.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>●北堂书钞卷第十七　　　　帝王部十七</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=虞世南&amp;searchsubmit=yes"  target="_blank">虞世南</a><span class="divide">|</span>发布时间：2014-11-20 20:20:27<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　隋祕书郎虞世南撰南海孔广陶校註制作五十四　　　　　　兴造五十五迁都五十六　　　　　　守文五十七中兴五十八<br/><br/>　　○制作五十四<br/><br/>　　制而用之谓之法民咸用之谓之神「繫辞」制数度议德行「易○今案见节大象陈俞本误作度数」象天地以立制「傅玄大本○今案张溥百三家本脱严辑傅子四卷据书钞引入大本篇俞本譌作天体」变天下之法「礼含文嘉○今案玉函山房辑本据书钞引同」改正朔易服色「礼记○今案见礼记大传」始造书契以代结绳之政「书○今案俞本删此条陈本脱注内书字」制嫁娶之礼未有文章「帝王世纪○今案俞本删此条御览七十八引皇王世纪庖牺事有上句」制礼作乐「史记○今案见史记廿四乐书」功成作乐以应天制礼以配地「礼记○今案乐记及陈俞本皆无功成二字疑钞有功成作乐四字别為一条今本转写连属下条故夺去作乐二字耳」天地变化圣人效之「易○孙氏校补地字効作效今案见繫辞上」河出图圣人则之「○孙氏校字今案见易繫辞上」立象以尽意设卦以尽情偽「○今案见易繫辞上」<br/><br/>　　仰观象於天府观法於地「○今案见易繫辞下俞本删此条」以通神明之德以类万物之情「○今案见易繫辞下」圣人作易幽赞神明「并易○今案见易说卦传」庖牺作易弘开大道「古史考○今案本钞开作门陈俞本及平津馆本古史考一卷皆作开」伏羲作易绵络天地「杨雄」<br/><br/>　　歷象日月敬授民时「书○今案见尧典」圣人作厤　黄帝造厤「续汉书○今案见续汉书律厤志论」立四时之制「尸子○今案平津馆本卷上立作正小注据书钞引作立」著九六之文「帝王世纪○今案御览六百九引帝王世纪周文王事」推三光立八节「春秋」治五气设五量「大戴礼○今案见五帝德篇」合五纬「春秋」正六宗「王子军○今案见王謨本拾遗记卷一」吹律定姓「○今案　　　钦足图书集成乐律典七十一引帝王世纪黄帝事」纪钟甄声「帝王世纪」省风作乐「春秋○今案见左传昭廿一年」作乐崇德「易○今案见豫卦大象」作乐防满「乐稽耀嘉○今案玉函山房辑本据书钞引同」黄帝作乐曰咸池「桨纬○今案礼记乐记正义引乐动声同」少昊作乐曰九渊「帝王世纪○今案路史后纪卷七引同亦见本钞乐总」帝嚳作乐曰五英「乐动声仪○今案初学记十五引及周礼大司乐疏引皆作六英」帝顓项作乐曰六茎「乐动声仪○今案礼记乐记正义及周礼大司乐疏引皆作五茎頊作项宋避神宗讳也」尧作大章「郑注礼记○今案见乐记注」舜作大韶禹作大夏汤作大武王作大武「并郑注礼记○今案乐记注护作濩」顓頊命飞龙放八风之音「帝王世纪○今案俞本删陈本风作方类聚十一引放作效」帝尧命质効山谷之音「帝王世○今案御览八十引帝王世纪质作夔効作访考吕氏春秋仲夏纪古乐篇作质作效高注亦云质当為夔」命咸黑為歌「吕氏春秋○今案见仲夏纪古乐篇」<br/><br/>　　命伊尹歌晨露「韩诗○今案亦见吕氏春秋」庖牺氏作瑟「○今案见御览七十八引帝王世纪本钞及陈俞本连下条非是」神农作琴文王益其少宫少商听凤以定律「帝王世纪○今案御览八十四引帝王世纪至少商句止本文作次尤非」朱襄作五之瑟以来阴「吕氏春秋○今案见仲夏纪古乐篇陈俞本瑟作琴陈本来作采皆非也本钞一百九瑟篇引亦作瑟作来」舜作五絃之琴以歌南风「礼记○今案见乐记篇」帝损庖牺之瑟「世纪○今案陈俞本脱损字俞又易之為作皆非也本钞瑟误琴损误抱惟本钞一百九瑟篇引帝王世纪今据订瑟字损字」作簫以象凤「风俗通○今案王謨本卷六象作像凤下有之翼二字」女媧之笙簧「礼记○今案见明堂位」禹作為夏「○今案见吕氏春秋仲夏纪俞本脱為字」使伶伦作律「并吕氏春秋○今案见仲夏纪」命咎陶作刑「纪年云○今案见读骚楼丛书本虞舜三年」黄帝垂衣裳「易○今案见繫辞」黄帝作■〈方亶〉冕「廿本云○今案御览三百四十又六百八十六引世本■〈方亶〉作旃小注世作廿唐人传钞避太宗讳也」治其丝麻以為布帛「礼记○今案见礼运」上栋下宇以待风雨「易○今案见繫辞下」搆其木樔以避群害「韩子○今案韩非子蠹篇上句作搆木為巢」重门击柝以待暴客「○今案见易繫辞下」绳為罟以田以鱼「易○今案陈俞本鱼作渔近本易繫辞下亦作佃渔释文云本亦作田作鱼与旧钞合」作网罟用禽鸟「典略」钻燧取火「○今案见御览七十八引礼舍文嘉」<br/><br/>　　以化腥臊「韩子○今案亦见御览七十八引古史考」烹穀為粥燔肉為炙「易○今案陈俞本无易字考本钞炙篇引周易云黄帝始燔肉為炙与此条注易字合又本钞粥篇引周书曰黄帝始烹穀為粥则又疑易字為书之讹惜近本易纬缺此文而读骚楼本逸周书补遗仅收得书钞粥篇一句餘则无可考耳」<br/><br/>　　取牺牲以充庖厨「帝王世纪○今案见御览七十八引庖牺事」作釜甑成火姇之道「古史考○今案平津馆本同」后圣有作范金合土「礼记○孙氏校止改土今案见礼运篇」耒耨之利以教天下「○今案见易繫辞下」破木為耒以垦草莽「并易○今案御览七十八引周书无破木二字又周礼周书周易本钞屡互误此与上烹穀条及兴造篇水地五句可证」神农作耒耜「古史考○孙氏校来改耒耜上删耨克改古今案平津馆本同」弦木為弧剡木為矢「○今案见易繫辞下」瘌木舟剡木為檝「○今案见易繫辞下檝作楫释文云本亦作檝」断木為杵掘地為臼「○孙氏校柝改杵今案见易辞下」服牛乘马以利天下「○今案见易繫辞下」<br/><br/>　　致天下之民聚天下之货「○今案见易繫辞下」易之以棺槨易之以书契「并易繫○今案见易繫辞下」以新书从事「魏书○严氏校书下删石字是也今案御览九十三引魏书同本钞及陈俞本亦衍石字盖从下条误入」以典论刻石「魏志○今案见明帝纪」以玉為兵「越绝○今案御览三百四十三引越绝同」黄帝作弩「古史考○今案平津馆本同」以铜為兵「越绝○今案御览三百四十三引越绝书同又见本钞一百十三论兵篇」<br/><br/>　　黄帝蹴踘「刘向○今案亦见平津馆本轩辕黄帝传」武王作翣「世本○今案御览五十二引同」使马钧作司南车「魏略○今案亦见御览七百七十五引魏书马钧传司作指可借证」採铜铸鼎「史记○今案见封禪书」铸鼎象物「春秋○今案见左氏宣三年」<br/><br/>　　○兴造五十五<br/><br/>　　匠人建国辨方正位体国经野「周礼○今案见天官序官」始建城市而营宫室「毛○今案见诗定之方中序陈俞本删毛字非也」水地以县「○孙氏校云本钞以已毅陈本不误今案以下五句本钞注并易二字非也陈俞本改注周礼今见考工记匠人职」置槷以县「○今案同上陈俞本此下又增入既以景三字非旧钞面目」识日出之景「○今案同上」昼参日景夜考极星「上并易○孙氏校尽改昼今案以上俱匠人职文」<br/><br/>　　揆之以日「毛○今案见诗卫风定之方中」规天矩地「张衡○严氏校注东京三字」审曲面势「○今案见周礼冬官总序及张衡东京赋」<br/><br/>　　左祖右社面朝后市「○今案见周礼匠人俞本祖作宗非是本钞原注并易二字今删正」右社稷而左宗庙「礼记○今案见祭义」<br/><br/>　　内有九室九嬪居之外有九室九卿朝焉「○今案见周礼冬官匠人」宫隅七稚城隅九稚「○孙氏校宫阳改宫隅今案见冬官匠人俞本稚误雄」宫度以几堂度以筵「○孙氏校八凡改以几今考工记匠人职宫作室」堂修七寻堂崇三尺「○严氏校补堂崇二字今案见冬官匠人陈本脱此条俞本改注以筵句下益误矣」<br/><br/>　　环涂七轨野涂五轨「○今案见考工记匠人职」九经九纬经涂九轨「○今案见考工记匠人」野度以步涂度以轨「并周福○今案见考工记匠人」经之营之「○今案见诗大雅灵臺」曰止曰时「○今案见诗大雅緜之篇」庶民攻之不日成之经始勿亟庶民子来「○今案见诗大雅灵臺」百堵皆兴「○孙氏校楷改堵今案见诗大雅緜之篇」筑室百堵「○孙氏校楷改诸今案见诗小雅斯干」筑之登登削屡冯冯「○今案见诗大雅緜之篇」筑城伊域作丰伊匹「○今案见诗大雅文王有声陈俞删」俾立室家「○今案见诗大雅緜之篇陈本删」乃立冢土「○今案见诗大雅緜之篇」缩版以载作庙翼翼「○今雅见诗大雅緜之篇」迺立皋门皋门有伉迺立应门应门将将「并毛诗○今案见诗大雅緜之篇」疏龙首以抗殿「张衡○今案见文选西京赋及范书本传」<br/><br/>　　既新作於迎风增露寒与储？「并张衡○孙氏校？改婿非也今案见本钞婿皆作？古今字也此二句见文选西京赋」<br/><br/>　　○迁都五十六<br/><br/>　　少昊徒曲阜「帝王世纪○今案见御览七十九引同」盘庚五迁将治亳殷「○今案二句见书序陈俞本改标盘庚迁於殷则非矣」弗常厥邑于今五邦「○孙氏校今下补五字今案见盘庚上篇陈俞本弗作不」古我先王将多前功「并书○今案见盘庚下」匪亟其欲遹追来孝「○今案见诗大雅文王有声」<br/><br/>　　作邑于丰宅是镐京「并毛○今案见诗文王有声」上公相「○今案陈俞本改作召公相宅周公成周二句又陈本比下有复营洛邑如正王意一条注史记窃谓此条本已入孝德篇此迁都篇未尝复收陈本臆增非是」维龟正之武王成之「○王石华校维字今案见诗文王有声」卜云其吉终焉允臧「毛○今案见卫风定之方中」非敢卜用宏兹賁「书○今案见盘庚下」度其夕阳「○今案见诗大雅公刘」度其鲜原「○今案见诗大雅皇矣」廼陟南冈「○今案见诗大雅公刘」乃观于京「并毛○今案见诗大雅公刘」<br/><br/>　　奠厥逌居廼正厥位「○孙氏校奠厥句旁著圈示古本足贵也又逌厥改厥逌迪改迺是也又严氏校以旧钞奠厥句在正位句下别為一条且上下倒置已移正矣今案书庚下逌作攸迺作乃此古今字之异也陈俞本奠厥句亦别為一条」<br/><br/>　　建城市营宫室「毛○严氏校以陈俞删去毛字亦旁勒久均非也考毛诗定之方中序正有此文」太史抱灋「周礼○今案见春官太史职本钞及陈俞本皆脱灋字」<br/><br/>　　永命斯邑「书○今案盘庚上斯作新」安定厥邦「书○今案见血庚中」永建乃家「书○今案见盘庚中」四方和会「书○今案见洛誥」四方入贡「史记○今案见周本纪」民利用迁「书○今案见盘庚中」<br/><br/>　　○守文五十七<br/><br/>　　继禹之道「孟子○今案见万章篇」行汤之政「史记○孙氏校阳改汤今案见殷本纪」继文之体「春秋○今案公羊传文下有王字亦见文选辨亡论注引」<br/><br/>　　维清缉熙文王之典「○今案见诗周颂维清」仪型文王「毛○今案见诗大雅文王陈俞本改作仪式刑文王之典非旧钞面目」嗣守文武丕训「○孙氏校丕改大今案书顾命亦作大训陈俞本作丕」答扬文武光训「书○孙氏校补扬字今案见顾命陈俞答误对」宣文武业　法文武远跡「帝王世纪○今案陈俞本作迹史记周本纪有宣王法文武遗风句」有声继伐「○今案见诗大雅文王有声序陈本删继伐二字有上增文王二字非是」昭哉嗣服「○今案见诗大雅下武」下武维周「毛○今案见诗大雅下武俞本维周改继文非旧钞面目」鸿■〈？彳？月？〉奉统「东观○今案陈本作鸿彻俞本作鸿胤均误」<br/><br/>　　丕承基绪「○孙氏校其改基今案见书顾命」帅循大弁「书○孙氏校师脩改帅循并改弁今案见顾命」石隆世业「汉南○孙氏校旁勤南字盖欲从陈俞本改作汉书今案非也本钞小注汉南二字盖即引张莹汉南记惜已佚耳」以奉大业「东观○孙氏校春改奉今案亦见范书明帝纪」<br/><br/>　　太平君子持盈守成「毛○今案陈本脱毛字俞本毛作诗考毛诗鳧鷖序正有此文」内脩诸己思先王之道「书○今案陈俞本无书字」顺命尊文「书」<br/><br/>　　绳其祖武「毛○今案见诗大雅下武」克终允德「书○今案见太甲上」世德作求「毛○今案见大雅下武」其承厥志「书○今案见武成篇」<br/><br/>　　永保宗庙惣一海内「汉书○今案见卷六十八霍光传」夏啟以光「史记○孙氏校先改光今案见文帝纪」复命武王「○今案见大明诗序」<br/><br/>　　閔予小子遭家不造「○今案见诗周颂」维予小子未堪家多难「○今案见诗周颂」肆不殄厥慍亦不陨厥问「并毛诗○今案见大雅緜之篇」<br/><br/>　　宣二祖之重光袭四宗之缉熙「班固○孙氏校先改光宗下补之字今案见文选班固典引」世有哲王「毛○今案见大雅下武陈本删此条俞本王作后无注」仁圣相「陈思王」周言成康汉言文景「汉书○今案近本景帝纪及陈俞本上言字皆作云同」遭承平之世為守文佳主「晋阳秋○今案陈俞本脱遭承六字御览九十八引晋阳秋同本钞遭承平误作东承盖曹古作？？日故遭误為东也今补正」<br/><br/>　　○中兴五十八<br/><br/>　　功光祖宗「汉书○今案见卷八宣帝纪」弘宣祖业「杜预○今案见杜预春秋经传集群序□隐公能弘宣祖业光啟王室」绍先之业「书」<br/><br/>　　复先王之道　复文武之境士「并毛○今案见诗车攻序」复禹之跡「世纪○今案亦见左传哀元年跡作绩与下配天二句连文」祀夏配天不失旧物「春秋○今案见左传哀元年」兴衰拨乱「毛○今案见诗江汉序」复见汉官仪「东观汉记○今案见聚珍本光武纪」有田一成有眾一旅「春秋○今案见左传哀元年」<br/><br/>　　北堂书钞第十七 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-999-9623.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-999-9625.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-999.html" action-type="chapterComment" class="comment"><i></i>北堂书钞章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

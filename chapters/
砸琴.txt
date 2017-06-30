@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《东莱五记》正文_砸琴_张炜作品 - 维普阅读网</title>
+<meta name="keywords" content="东莱五记,东莱五记原文,东莱五记阅读,砸琴全文,张炜作品" />
+<meta name="description" content="东莱五记原文阅读,砸琴全文在线阅读,张炜作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-1353.html";
+var nextpage="novel-read-1353-24904.html";
+var indexpage = "novel-chapter-1353.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1353.html">东莱五记</a></strong>
+<strong><a href="novel-chapter-1353.html">东莱五记目录</a></strong>
+<span>砸琴</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-1353.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>砸琴</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-23.html" target="blank">文学小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=张炜&amp;searchsubmit=yes"  target="_blank">张炜</a><span class="divide">|</span>发布时间：2015-05-06 22:39:11<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>在古登州和莱州交界那儿有个临海的城镇，那里素来出一些有意思的人物。他们在当时没什么名声，只是到了后来人们回忆起来时，才觉得这些人的特异。他们在世时与邻人一样，挑担荷锄，做些田里营生，穿戴举止似乎也没有什么两样。再说平时大家都忙于生计，讲究的都是田里的话头，哪里有工夫注意另一些琐屑。 <br/>　　其实一个地方的文明根基不可能起始于一朝一夕。传说这个城镇是颇有来历的，它是两千年前受秦人追杀的一支人的藏匿地，准确点说就是那个骗了秦始皇出海求仙的徐福的后人，这些人为了避难，就先后逃到了这个荒凉僻远的地方。那时这儿可能只是个小小村落，并没有稠密的人烟。初来者行为低调，与当地人没有争性，一般人也只把他们当成了沦落的难民。当地人不知道这其实是一个望族，不过是溃散了而已。他们来的时候也不可能带来满囊满柜的书籍，可是学问会装在肚里，家教和传统也要随身而来。就这样，他们改名换姓，不再姓徐，而是姓曲之类。“曲”与“屈”同音，内中藏下了一个冤屈的意思，也藏下了一个委屈自己的意思，反正是要好好安顿和忍受下来，准备有朝一日东山再起。 <br/>　　这个城镇的壮大发展，有人认为除了新来的曲姓的缘故，关键还有另一些徐福后人的陆续加入。反正这里后来姓曲的越来越多，只是到了后来才突然增多了徐姓，可能是有些人年代久远以后改回了本姓罢。这里的人格外少言寡语，做事扎实但不事声张，喜欢晴耕雨读。开始的几年里，他们主要是垦田务农，后来才下海捕鱼。这其中驶船的好手极多，他们好像天生就习水性通海路。更有人会医病，会看星象和算卦等，反正懂得不少稀奇古怪的事情。夜里读书的人多，弹琴作画的人多。有一次一个下乡巡视的官员远远听到一个草寮里传出了琴声，就让轿夫停下来。这个官员在原地静静地听了许久，最后下得轿来，踉踉跄跄地奔到那个草寮跟前，这才发现是一个白头老翁正闭着眼拨一把破琴。官员施了一个礼，然后问老人话，老人竟两耳全聋，只张着嘴巴唔唔应答，嘴里没有几颗牙齿了。官员流连了一会儿才遗憾地退去，说可惜不能交谈，原来这里有这么一位高明的琴师!一年后官员再次寻找那个草寮，有人告诉说那个老人已经过世了，起因就是弹琴时被一个人冲了，说上年纪的琴师最忌抚琴时被人冲惊；就这样，老人一病不起，不出半年就走了。 <br/>　　镇子里有不少坚持练字的人，这种传统一二百年里都没有断过，直到今天依然还有一些地方书法家。由于书画同源，画一手好画的人也不少见。所以到了近代，有不少仿制古代名家的作品，这样做并非为了市利，而是为了挂在屋里自己欣赏。后来有人专门去那儿收购这些字和画，以用于官商往来。现在那一带只要出现了假画，第一个想到的就是有人从那个城镇买来的。 <br/>　　琴棋书画，琴是摆在第一位的。琴是中国古琴，但延续到后来，各种琴都受人喜爱了。这里的人特别喜欢一种蟒皮制成的琴，因为它的声音仿佛来自海滩深处，听起来格外撩动人心。许多人听了，都觉得这声音有一种说不清的诱惑力。由于专门的乐器店少见这种琴，所以就要倚仗当地的制琴师傅。有名的师傅都是祖传的，他们个个身怀绝技，遵守传儿不传女的老规矩。爱琴的人不一定是弹琴的好手，他们只是爱，只是精于收藏而已。收藏是一种奇怪的嗜好，是一种癖，一旦迷上就很难改掉。 <br/>　　那儿有一位有名的制琴师，出自他手的琴在方圆几百里都享有盛名。他会制作好几种琴，然而最有名的还是那种蟒皮琴。城镇的一户收藏世家存有一把上百年的古琴，一切保护良好，唯有蟒皮裂开了。无奈中也只有找这个制琴师傅重新镶造了。内行人都知道，一把琴的高下贵贱，最关键的就是这蟒皮的搭配与选择，更有制作功夫的粗精。凡艺术都倚仗灵感，制琴当然是门大艺术，而这门艺术的穴位就在琴体与蟒皮之间。收藏家因为爱琴，心思不用在别处，所以家里的经济营生一般，虽然不算家徒四壁，可也好不了多少。他好大年纪才娶了一个妻子，两年后生子，老年得子疼爱得不得了，平时他和妻子与孩子是须臾不能分离的。 <br/>　　他的家住在城镇边缘，靠近一片林子，这里常常有一些野物跑出来玩儿，他与妻子从不伤害它们。有一天妻子正在家里灶上忙着，刚刚学会走路的孩子就出门去了，她一时也没在意。不知过了多久，突然不远处传来了尖叫声，她一听是自己孩子的声音，就不顾一切冲了出去。原来孩子只戴了个红肚兜，这会儿蜷在一个草垛旁边，不远处就有两只豺狗模样的东西，它们一纵一纵地围着孩子跳，只是不敢近前。她拿起柴棒驱赶它们，到了跟前一看，只见一条不大的蟒蛇用身子围住了孩子，高高探起的头颅四处盯视，身上满是鲜血和伤痕。她吓得不敢喘气，定下魂来才知道是这条蟒蛇刚才与两只豺狗搏斗，救下了孩子的一条性命!她呼叫孩子时，那条蟒蛇就用嘴巴摩挲着孩子的腮，孩子很快就不哭了。这时蟒蛇才把身子放开，在一旁看着她把孩子抱起，缓缓地爬回了林子里。她最后一眼记住的，就是这条蟒蛇脖子处有一块金黄色的大斑。<br/>　　男人回来后听过了这场历险,特意去找过那条蟒蛇，但没有找到。这时他的宝贝古琴已经送到那个师傅手中许久了，对方回答说这种事急不得。大约又过去了一个月，制琴师傅终于把修复的古琴拿回来了。这一天算是一个重要日子，男人见了古琴就忘了一切，他洗了脸洗了手，又换了衣服才去接那把琴，就差没有焚香沐浴了。制琴师傅当即拨弄了那把琴，声音韵味真是好得不能再好了。这把价值千金的古琴就算重生了。 <br/>　　师傅走后，妻子凑近了正在低头抚琴的丈夫，抬头端量了一下，突然大声喊叫起来。她说她认得这蟒皮上的斑纹，这肯定是那条蟒蛇的皮。她这一叫，男人脸都白了。他赶紧放了琴，然后出门追赶制琴师傅。 <br/>　　他拦住那个人，开口就问蟒皮的来历。师傅说：要为这把古琴寻找合适的蟒皮就难了，所以才拖了这么久，家中贮存的所有原料都不合适，而自己又是个追求完美的人，这种琴需要配的是年纪合适的雌性蟒皮，还要有“金环扣”的，就是脖子上长了一种奇怪金斑的，这样的蟒皮会发出一种“金声”。师傅长叹，然后一脸欣慰说，他为了这把古琴不得不四处寻觅那种蟒皮，几次都想作罢，巧的是本城一个老猎人告诉他，说海边林子里就发现过这种蟒，于是他约了好几个猎人，徘徊在林子中数日才得手。 <br/>　　男人一声不吭回去了。这时妻子已经把那把古琴归到了专门的屋子里，这里藏有几十把琴。男人脸上一点儿血色都没有，他对妻子点点头，然后抄起一把锤子就进了藏琴的屋子。 <br/>　　他一口气砸毁了所有的古琴。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-1353.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1353-24904.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1353.html" action-type="chapterComment" class="comment"><i></i>东莱五记章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

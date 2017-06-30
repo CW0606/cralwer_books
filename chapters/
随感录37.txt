@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《热风》正文_随感录37_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="热风,热风原文,热风阅读,随感录37全文,鲁迅作品" />
+<meta name="description" content="热风原文阅读,随感录37全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-548-7409.html";
+var nextpage="novel-read-548-7411.html";
+var indexpage = "novel-chapter-548.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-548.html">热风</a></strong>
+<strong><a href="novel-chapter-548.html">热风目录</a></strong>
+<span>随感录37</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-548-7409.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>随感录37</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-04 20:04:28<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>近来很有许多人，在那里竭力提倡打拳。记得先前也曾有过一回，但那时提倡的，是满清王公大臣（２），现在却是民国的教育家（３），位分略有不同。至于他们的宗旨，是一是二，局外人便不得而知。 <br/><br/>　　现在那班教育家，把“九天玄女传与轩辕黄帝，轩辕黄帝传与尼姑”的老方法，改称“新武术”，又是“中国式体操”，叫青年去练习。听说其中好处甚多，重要的举出两种来，是： <br/><br/>　　一，用在体育上。据说中国人学了外国体操，不见效验；所以须改习本国式体操（即打拳）才行。依我想来：两手拿着外国铜锤或木棍，把手脚左伸右伸的，大约于筋肉发达上，也该有点“效验”。无如竟不见效验！那自然只好改途去练“武松脱铐”那些把戏了。这或者因为中国人生理上与外国人不同的缘故。 <br/><br/>　　二，用在军事上。中国人会打拳，外国人不会打拳：有一天见面对打，中国人得胜，是不消说的了。即使不把外国人“板油扯下”，只消一阵“乌龙扫地”，也便一齐扫倒，从此不能爬起。无如现在打仗，总用枪炮。枪炮这件东西，中国虽然“古时也已有过”，可是此刻没有了。藤牌操法，又不练习，怎能御得枪炮？我想（他们不曾说明，这是我的“管窥蠡测”）：打拳打下去，总可达到“枪炮打不进”的程度（即内功？）。这件事从前已经试过一次，在一千九百年（４）。可惜那一回真是名誉的完全失败了。且看这一回如何。 <br/><br/>　　=========================================================<br/><br/>　　（１）本篇最初发表于一九一八年十一月十五日《新青年》第五卷第五号。 <br/><br/>　　（２）满清王公大臣指清朝端王载漪、协办大学士刚毅等人。他们都是清朝王公大臣中的顽固分子。戊戌变法失败后，以慈禧太后为首的顽固派想废黜光绪帝，立载漪的儿子溥躇为帝位继承人，但遭到各国驻华公使的反对。他们便“赞助”义和团，提倡打拳，企图利用正在兴起的义和团对付外国势力。 <br/><br/>　　（３）民国的教育家当时济南镇守使马良写了一本《新武术初级拳脚科》，曾经北洋政府教育部审定为教科书，教育界一些人也对此加以鼓吹。 <br/><br/>　　（４）义和团在一九○○年抵抗帝国主义八国联军的战争中，曾有“神灵附体，枪炮 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-548-7409.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-548-7411.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-548.html" action-type="chapterComment" class="comment"><i></i>热风章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

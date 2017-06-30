@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《准风月谈》正文_“抄靶子”_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="准风月谈,准风月谈原文,准风月谈阅读,“抄靶子”全文,鲁迅作品" />
+<meta name="description" content="准风月谈原文阅读,“抄靶子”全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-551-7515.html";
+var nextpage="novel-read-551-7517.html";
+var indexpage = "novel-chapter-551.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-551.html">准风月谈</a></strong>
+<strong><a href="novel-chapter-551.html">准风月谈目录</a></strong>
+<span>“抄靶子”</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-551-7515.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>“抄靶子”</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-05 21:36:29<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>旅隼 <br/>　　中国究竟是文明最古的地方，也是素重人道的国度，对于人，是一向非常重视的。至于偶有凌辱诛戮，那是因为这些东西并不是人的缘故。皇帝所诛者，“逆”也，官军所剿者，“匪”也，刽子手所杀者，“犯”也，满洲人“入主中夏”，不久也就染了这样的淳风，雍正皇帝要除掉他的弟兄，就先行御赐改称为“阿其那”与“塞思黑”（２），我不懂满洲话，译不明白，大约是“猪”和“狗”罢。黄巢（３）造反，以人为粮，但若说他吃人，是不对的，他所吃的物事，叫作“两脚羊”。 <br/>　　时候是二十世纪，地方是上海，虽然骨子里永是“素重人道”，但表面上当然会有些不同的。对于中国的有一部分并不是“人”的生物，洋大人如何赐谥，我不得而知，我仅知道洋大人的下属们所给与的名目。 <br/>　　假如你常在租界的路上走，有时总会遇见几个穿制服的同胞和一位异胞（也往往没有这一位），用手枪指住你，搜查全身和所拿的物件。倘是白种，是不会指住的；黄种呢，如果被指的说是日本人，就放下手枪，请他走过去；独有文明最古的黄帝子孙，可就“则不得免焉”（４）了。这在香港，叫作“搜身”，倒也还不算很失了体统，然而上海则竟谓之“抄靶子”。 <br/>　　抄者，搜也，靶子是该用枪打的东西，我从前年九月以来（５），才知道这名目的的确。四万万靶子，都排在文明最古的地方，私心在侥幸的只是还没有被打着。洋大人的下属，实在给他的同胞们定了绝好的名称了。 <br/>　　然而我们这些“靶子”们，自己互相推举起来的时候却还要客气些。我不是“老上海”，不知道上海滩上先前的相骂，彼此是怎样赐谥的了。但看看记载，还不过是“曲辫子”，“阿木林”（６）。“寿头码子”虽然已经是“猪”的隐语，然而究竟还是隐语，含有宁“雅”而不“达”（７）的高谊。若夫现在，则只要被他认为对于他不大恭顺，他便圆睁了绽着红筋的两眼，挤尖喉咙，和口角的白沫同时喷出两个字来道：猪猡！六月十六日。 <br/>　<br/>===============================================================<br/>　　　　　　 <br/>　　（１）　本篇最初发表于一九三三年六月二十日《申报·自由谈》。<br/>　　（２）　清朝雍正皇帝（胤禛，康熙第四子）未即位前，和他的兄弟争谋皇位；即位以后，于雍正四年（１７２６）命削去他的弟弟胤禛（康熙第八子）和胤禛（康熙第九子）二人宗籍，并改胤禛名为“阿其那”，改胤禛名为“塞思黑”。在满语中，前者是狗的意思，后者是猪的意思。 <br/>　　（３）　黄巢（？—８８４）　曹州冤句（今山东菏泽）人，唐末农民起义领袖。旧史书中多有夸张其残暴的记载。《旧唐书·黄巢传》说他起义时“俘人而食”，但无“两脚羊”的名称。鲁迅引用此语，当出自南宋庄季裕《鸡肋编》中：“自靖康丙午岁（１１２６），金狄乱华，六七年间，山东、京西、淮南等路，荆榛千里，斗米至数十千，且不可得。盗贼官兵以至居民，更互相食，人肉之价，贱于犬豕，肥壮者一枚不过十五千，全躯暴以为腊。登州范温率忠义之人，绍兴癸丑岁（１１３３）泛海到钱塘，有持至行在（杭州）犹食者。老瘦男子谓之饶把火，妇人少艾者名之下羹羊，小儿呼为和骨烂：又通目为两脚羊。” <br/>　　（４）　“则不得免焉”　语见《孟子·梁惠王》。 <br/>　　（５）　前年九月以来　指一九三一年九一八事变以来。<br/>　　（６）　“曲辫子”　即乡愚。“阿木林”，即傻子。都是上海话。<br/>　　（７）　宁“雅”而不“达”　清末严复在《天演论·译例言》中曾说“评事三难：信、达、雅”。按“信”指忠实于原作；“达”指语言通顺明白；“雅”指文雅。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-551-7515.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-551-7517.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-551.html" action-type="chapterComment" class="comment"><i></i>准风月谈章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

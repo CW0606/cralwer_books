@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《薤露行》正文_薤露行_曹操作品 - 维普阅读网</title>
+<meta name="keywords" content="薤露行,薤露行原文,薤露行阅读,薤露行全文,曹操作品" />
+<meta name="description" content="薤露行原文阅读,薤露行全文在线阅读,曹操作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-465.html";
+var nextpage="novel-chapter-465.html";
+var indexpage = "novel-chapter-465.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-465.html">薤露行</a></strong>
+<strong><a href="novel-chapter-465.html">薤露行目录</a></strong>
+<span>薤露行</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-465.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>薤露行</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=曹操&amp;searchsubmit=yes"  target="_blank">曹操</a><span class="divide">|</span>发布时间：2014-09-16 21:23:49<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/><br/>　　惟汉廿二世，所任诚不良。<br/><br/>　　沐猴而冠带，知小而谋疆。<br/><br/>　　犹豫不敢断，因狩执君王。<br/><br/>　　白虹为贯日，己亦先受殃。<br/><br/>　　贼臣持国柄，杀主灭宇京。<br/><br/>　　荡覆帝基业，宗庙以燔丧。<br/><br/>　　播越西迁移，号泣而且行。<br/><br/>　　瞻彼洛城郭，微子为哀伤。<br/><br/>【注释】<br/><br/>1、薤（xiè）露行：乐府曲调名，属《相和歌·相和曲》，此与《蒿里行》都原是送葬的挽歌，作者用旧调写时事。薤，为多年生草本植物，细长叶，紫色花，鳞茎长在地下，可以食用，也称作藠（jiào）头。<br/>2、廿（niàn）二世：二十二世，指东汉灵帝，他是汉朝第二十二代皇帝。<br/>3、所任：所任用的人。这里指灵帝时大将军何进，他是灵帝何皇后之兄。<br/>4、沐猴：猕猴，这里是比喻何进。冠（guàn）带：作动词用，戴着帽子系着带子。《史记·项羽本纪》里有人曾骂项羽是“沐猴而冠”。沐猴而冠带，这里是用来讽刺何进，枉披人皮而没有实际本事。<br/>5、知：同“智”，智慧，智谋。<br/>6、谋强：意谓谋划干大事。何进曾策划诛杀把持朝政的宦官张让等，结果因犹豫迟疑而失败。<br/>7、断：决断。<br/>8、狩：打猎，后借指天子出巡，这里讳称皇帝外逃避祸。<br/>9、执：捕捉，这里是劫持、挟持的意思。<br/>10、白虹：白色的虹霓。贯日：穿过太阳。古人迷信，认为白虹贯日是天子命绝、大臣为祸的征兆。据《后汉书·献帝纪》描述，初平二年（191）二月，白虹贯日，这年正月，董卓毒死被废为弘农王的少帝刘辩。<br/>11、己：指何进。<br/>12、贼臣：指董卓。<br/>13、国柄：指朝政大权。<br/>14、杀主：指董卓杀少帝刘辩。<br/>15、宇京：京城，这里指东汉京城洛阳。<br/>16、宗庙：这里指东汉帝王的祖庙，象征着政权。<br/>17、燔（fán）丧：烧毁。<br/>18、播越：颠沛流离。这句指董卓挟持献帝西迁长安。<br/>19、且（cú）：通“徂”，往，到。<br/>20、微子：殷纣王的哥哥。据古籍记载，殷灭亡之后，他路过殷朝故都，看到宫室颓败残破，到处长满禾黍，无限伤心，遂作《麦秀歌》之诗，以抒发亡国之痛。诗人在此自比微子，以表达自己对洛阳的残破亦有无限感慨和哀伤。<br/><br/>【译文】<br/><br/>　　汉家第二十二世皇帝汉灵帝，用人实在是不得当。何进此人不过像一只披衣戴帽的猴子，没什么智慧却又想谋划诛杀宦官这等大事。结果因为他的优柔寡断，不敢下手，弄得皇帝被张让等人挟持外出。天象出现白虹贯日，最终何进被张让等人杀了。而后贼臣董卓入京得到国家的大权，杀了汉少帝之后还把洛阳也毁掉了。他彻底倾覆了汉朝的政权，烧毁了刘家的祖庙。接着裹挟着汉献帝刘协和官民颠沛流离地向长安迁都，一路尸骨盈野，哭声遍地。看着那洛阳的城郭，我就像微子一样感到无比的哀痛。<br/><br/>【赏析】<br/><br/>　　“诗史”这顶桂冠人们往往奉献给唐代的伟大诗人杜甫，其实这种以诗歌记录现实，展现历史的创作倾向，并不始于杜甫，曹操在这方面就很突出。作为《蒿里行》姊妹篇的这首《薤露行》写了汉末董卓之乱的前因后果，读来就如浏览一幅汉末的历史画卷，展现出当时重大的历史事变及社会生活纷繁复杂的具体面貌，表达了诗人对汉室倾覆，人民遭受乱离之苦的悲伤和感叹。<br/>　　“惟汉廿二世，所任诚不良"两句，先表明了当时的汉灵帝之死，任用非人，宦官当道，把持朝政的情景。而当时的大将军何进有心收回政权，诛杀宦官。开头两句先表明了当时的背景，也指出了这是动乱的源头。<br/>　　”沐猴而冠带，知小而谋强"，此句讥刺甚烈，溢于言表。曹操认为何进是个徒有其表的人，就像猕猴戴帽穿衣，硬充人样，然终不成其为人。深刻讽刺何进智小而图谋大事，最终只会落得身败名裂的下场。之后的“犹豫不敢断，因狩执君王”更是表明何进做事犹豫不决，致令少帝被劫，成事不足，败事有余。<br/>　　描述何进此四句经典之处在于，并未详说其如何谋划失算，如何犹豫不决，如何处事不慎，而仅以四句话来刻画他的无能，其中强烈的感情色彩不仅表达了自己对汉末形势的认识，而且使得诗句不同于史书式的客观叙述，令其有感人的力量。<br/>　　然后一句"白虹为贯日，己亦先受殃”写出了天降凶兆的情景，何进也落得了个被杀的下场。可看得出前八句主要是以何进为主线而回顾了汉末的历史，曹操讥讽何进胸无谋略，优柔寡断，虽欲铲除宦官，反而误国殃民，身罹其害，造成了君王被持，汉祚覆坠的局面。这八句中不仅是对历史的记录，而且有曹操个人对此的鲜明观点，直抵一篇史论。<br/>　　“贼臣持国柄，杀主灭宇京”以下便转到董卓之乱。“荡覆帝基业，宗庙以燔丧。播越西迁移，号泣而且行”四句中就将汉祚倾覆、洛阳焚毁、挟帝西迁及百姓受难等悲惨的场面和盘托出，读者不得不佩服诗人笔墨的简练及运驾语言的能力，其气魄的沉雄阔大更是显而易见的，这六句将董卓给国家与人民带来的灾害揭露无遗。<br/>　　“瞻彼洛城郭，微子为哀伤”，曹操在结句中，将自己的百感交集凝聚于十字之内，表达的是曹操对汉室倾覆的悲伤与感叹。<br/>　　整体看来，《薤露行》本是古人出丧时唱的歌，曹操用此古调来写时事，开创了以古乐府写新内容的风气。清代沈德潜说：“借古乐府写时事，始于曹公。”（出自《古诗源》）这是颇有见地的意见。曹操之所以能以旧瓶装新酒，是因为乐府本身就有“缘事而发”的特点，宜于用来记录史实，抒发情感，同时《薤露行》本身也有悲悼王公贵人之死的意思，曹操用此哀叹国家丧乱，君王遭难，百姓受殃，正有悲悼之意。<br/>　　曹操的诗，前人都认为具有悲凉慷慨的格凋。敖器之说：“魏武帝如幽燕老将，气韵沈雄。”（《敖陶孙诗评》）此诗亦然。此诗的风格古质朴茂，无详尽的细节描写，而能从大处落墨，以高度概括的语言将数年以来的社会变革纳入这数十字之中，其诗的艺术价值，已经可见一斑。<br/>　　又有陈明祚说曹操之诗：“本无泛语，根在性情，故其跌宕悲凉，独臻超越。细揣格调，孟德全是汉音，丕、植便多魏响。”（《采菽堂古诗选》）也说明了曹操诗歌的跌宕悲怆情调基于其感情的深厚诚挚与出语的率真朴素。这正是汉诗与后来诗歌的不同之处，如果以声音作比，则汉诗如天籁，纯出自然，而魏、晋以后即杂以人籁，不无刻意求工之处，自然浑成的格调已逊汉诗一筹。在此比较之下，更能看得出曹操诗歌的难得可贵，质朴无华。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-465.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-465.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-465.html" action-type="chapterComment" class="comment"><i></i>薤露行章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

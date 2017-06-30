@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《芙蓉镇》正文_话说《芙蓉镇》_古华作品 - 维普阅读网</title>
+<meta name="keywords" content="芙蓉镇,芙蓉镇原文,芙蓉镇阅读,话说《芙蓉镇》全文,古华作品" />
+<meta name="description" content="芙蓉镇原文阅读,话说《芙蓉镇》全文在线阅读,古华作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1217-21374.html";
+var nextpage="novel-chapter-1217.html";
+var indexpage = "novel-chapter-1217.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1217.html">芙蓉镇</a></strong>
+<strong><a href="novel-chapter-1217.html">芙蓉镇目录</a></strong>
+<span>话说《芙蓉镇》</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1217-21374.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>话说《芙蓉镇》</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-23.html" target="blank">文学小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=古华&amp;searchsubmit=yes"  target="_blank">古华</a><span class="divide">|</span>发布时间：2015-03-10 20:20:00<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　长篇小说《芙蓉镇》在今年《当代》第一期刊载后，受到全国各地读者的注意，数月内《当代》编辑部和我收到了来信数百封。文艺界的师友们也极为热情，先后有新华社及《光明日报》、《中国青年报》、《当代》、《文汇报》、《作品与争鸣》、《湖南日报》等报刊发了有关的消息、专访或评论。这真使我这个土头土脑、默默无闻的乡下人愕然惶然了，同时也体味到一种友善的情谊和春天般的温暖。来信的读者朋友们大都向我提出这样一些问题：<br/>　　你走过什么样的创作道路?是怎样写出《芙蓉镇》来的?《芙蓉镇》“寓政治风云于风俗民情图画，借人物命运演乡镇生活变迁”，你的生活经历和小说里所描绘的乡镇风物有些什么具体的联系?你的这部小说结构有些奇怪，不大容易找到相似的来类比，可以说是不中不西、不土不洋吧，这种结构是怎么得来的?你在文学语言上有些什么师承关系?喜欢读哪些文学名著?小说中“玩世不恭的右派秦书田是不是作者本人的化身’’?接近文艺界的同志讲，你写这部小说只花了二十几天时间，是一气呵成的急就章，是这样吗?<br/>　　这些问题，使我犹如面对着读者朋友们一双双沉静的、热烈的、含泪的、严峻的眼睛，引我思索，令我激动。文学就是作者对自己所体验的社会生活的思考和探索，也是对所认识的人生的一种“自我问答”形式。当然这种认识，思考和探索是在不断地前进、发展着的。<br/>　　面对后两类问题，我不禁很有些感叹、戚然。因为自己这样一个写作速度缓慢、工作方法笨拙的人，居然被戴上了“才思敏捷”、“日产万言”的桂冠。“平生无大望，日月有小酌。”以我一个乡下人的愚见，一年能有个三两篇、十来万字的收获，即算是风调雨顺、五谷丰登的好年景了，小康人家式的满足也就油然而生并陶然自得了。其实，一部作品的写作时间是不能仅仅从下笔到写毕来计算的。《芙蓉镇》里所写的社会风俗、世态民情、人物故事，是我从小就熟悉，成年之后就开始构思设想的。正如清人金圣叹在第五才子书的卷首所论及的：“然而经营于心，久而成习，不必伸纸执笔，然后发挥。盖薄暮篱落之下，五更卧被之中，垂首捻带、睇目观物之际，皆有所遇矣。”我觉得，不论后人怎样评价金圣叹在《水浒》问题上的功过，他所悟出的这个有关小说创作的道理，却是十分精辟独到，值得后世借鉴的。<br/>　　我是怎样学起做小说，又怎样写出《芙蓉镇》来的?这要从我的阅读兴趣谈起。我读过一点书，可说是胃口颇杂，不成章法。起初，是小时候在家乡农村半生不熟、囫囵吞枣地读过一些剑侠小说，志怪传奇，倒也庆幸没有被“武侠”引入歧途，去峨嵋山寻访异人领授异术。接着下来读《三国》、《水浒》、《西游》、《红楼》，读“五四”以来的名作，才稍许领味到一点文学的价值所在，力量所在。至于走马观花地涉猎十八、十九世纪的西方文学，沉迷流连于屠格涅夫、列夫?托尔斯泰、梅里美、巴尔扎克、乔治?桑等等巨匠所创造的艺术世界、人物面廊，则是中学毕业以后的事了。后来年事稍长，生出些新的癖好，鸡零狗碎地读过一点历史的、哲学的著作，中外人物传记，战争回忆录，世界大事纪等等。又因生性好奇好游，却无缘亲眼见到美利坚的月亮、“日不落帝国”的太阳、法兰西的水仙、古罗马的竞技场，只好在书的原野上心驰神往。还追踪着报刊上披露的一则则有关航天、巡海、核弹、飞碟、外星人、玛雅文化、金字塔和百慕大魔三角奥秘的各种消息，来做一个乡下小知识分子“精神自我会餐”的梦……叫做“好读书，不求甚解”，以读书自乐自慰。日积月累，春秋流转，不知不觉中，我就跟文学结下了一种前世未了之缘似的关系。<br/>　　就这样，我麻着胆子，蹒跚起步，学着做起小说来了。甚至还坐井观天地自信自己经历的这点生活、认识的这点社会和人生，是前人——即便是古代的哲人们所未见、所未闻的，不写出来未免可惜。我的年纪不算大，经历中也没有什么性命攸关的大起大落，却也是从生活的春雨秋霜、运动的峡谷沟壑里走将出来的。我生长在湘南农村，参加工作后又在五岭山区的一个小镇子旁一住就是一十四年，劳动、求知、求食，并身不由己地被卷进各种各样的运动洪流里，经历着时代的风云变幻，大地的寒暑沧桑。我幼稚、恭顺、顽愚，偶尔也在内心深处掀起过狂热的风暴，还曾经在“红色恐怖”的獠牙利爪面前做过轻生的打算。山区小镇古老的青石板街，新造的红砖青瓦房，枝叶四张的老樟树，歪歪斜斜的吊脚楼，都对我有着一种古朴的吸引力，一种历史的亲切感。居民们的升迁沉浮、悲欢遭际、红白喜庆、鸡鸣犬吠，也都历历在目、烂熟于心。我发现，山镇上的物质生产进展十分缓慢，而人和人的关系则在发生着各种急骤的变幻，人为的变幻。<br/>　　“文化大革命”前和“文化大革命”中，我都曾深深陷入在一种苦闷的泥淖中，也可以说是交织着感性和理性的矛盾。一是自己所能表现的生活是经过粉饰的，苍白无力的，跟自己平日耳濡目染的真实的社会生活相去甚远，有时甚至是完全相反——这原因今天已经是不言自明的了。二是由于自己的文学根底不足，身居偏远山区，远离通都大邑，正是求师无望，求教无门。因之二十年来，我每写一篇习作，哪怕是三两千字的散文或是四五千字的小说，总是在写作之前如临大考，处于一种诚惶诚恐的紧张状态。写作过程中，也不乏“文衢通达”、“行云流水”的时刻，却总是写完上一节，就焦虑着下一章能否写得出(且不论写得好不好)。初稿既出，也会得意一时，但过上三五天就唉声叹气，没有了信心，产生出一种灰色的“失败感”。爱人摸准了这个心性，每当我按捺不住写作过程中的自我陶醉，眉飞色舞地向她讲述自己所写的某个人物、某个情节或是某段文字时，她就会笑骂一声“看你鬼神气!不出三天，又来唉声叹气!”果然几天后初稿一完，我也就从妄自得意走到了反面——心灰意冷。直到很多日子过去，才又不甘失败地将稿子拿出来，请朋友看看有无修改价值。我的不少小说，都是受了朋友的鼓励，才二稿三稿地另起炉灶，从头写起。我甚至不能在原稿的天头地角上做大的修改，而习惯于另展纸笔，边抄边改，并把相当一部分精力花在了字句的推敲上。我由衷地羡慕那些写作速度快的同行，敬佩他们具有“一次成”的本领和天分。假若不是社会主义制度的优越性保障了我的基本生活，而到别的什么制度下去参予什么生存竞争，非潦倒饿饭不可。<br/>　　一九七八年秋天，我到一个山区大县去采访。时值举国上下进行“真理标准”的大讨论，全国城乡开始平反十几、二十年来由于左的政策失误而造成的冤假错案。该县文化馆的一位音乐干部跟我讲了他们县里一个寡妇的冤案。故事本身很悲惨，前后死了两个丈夫，这女社员却一脑子的宿命思想，怪自己命大，命独，克夫。当时听了，也动了动脑筋，但觉得就料下锅，意思不大。不久后到省城开创作座谈会，我也曾把这个故事讲给一些同志听。大家也给我出了些主意，写成什么“寡妇哭坟”啦，“双上坟”啦，“一个女人的昭雪”啦，等等。我晓得大家没真正动什么脑筋，只是讲讲笑笑而已。<br/>　　党的具有历史意义的三中全会的召开，制定了“实事求是、解放思想”的正确路线，使我们国家的政治生活发生了历史性转折。人民在思考，党和国家在回顾，在总结建国三十年来的经验教训。而粉碎“四人帮”以来的文学呢，则早已经以其敏感的灵须，在触及、探究生活的也是艺术的重大课题了。我也在回顾、在小结自己所走过的写作道路。三中全会的路线、方针，使我茅塞顿开，给了我一个认识论的高度，给了我重新认识、剖析自己所熟悉的湘南乡镇生活的勇气和胆魄。我就像上升到了一处山坡上，朝下俯视清楚了湘南乡镇上二三十年来的风云聚会，山川流走，民情变异……<br/>　　一九八O年七——八月间，正值酷暑，我躲进五岭山脉腹地的一个凉爽幽静的林场里，开始写作《芙蓉镇》草稿。当时确有点“情思奔涌、下笔有神”似的，每日含泪而作，嬉笑怒骂，激动不已。短短十五、六万字，囊括、浓缩进了二、三十年来我对社会和人生的体察认识，爱憎情怀，泪水欢欣。从这个意义上讲，说我是花了二十几年的心血才写出了《芙蓉镇》，也不为过分。<br/>　　不少读者对《芙蓉镇》的结构感兴趣，问这种“不中不西、不土不洋”的写法是怎么得来的。我觉得结构应服务于生活内容。内容是足，形式是履。足履不适是不便行走的。既不能削足适履，也不宜光了脚板走路。人类已经进入了现代化社会。科学文明的突飞猛进，加快了人类生活的速度与节奏。人们越来越讲求效率与色彩。假若我们的文学作品还停留或效仿十七、八世纪西方文学的那种缓慢的节奏、细致入微的刻画，今天的读者(特别是中青年读者)是会不耐烦的了。而且，我国古典文学作品中，故事发展的节奏和速度都是较快的，读者也读着痛快习惯。<br/>　　前面已经说过，《芙蓉镇》最初发端于一个寡妇平反昭雪的故事。那些年我一直没有写它，是考虑到如果单纯写成一个妇女的命运遭际，这种作品古往今来已是屡见不鲜了，早就落套了。直到去年夏天，我才终于产生了这样一种设想：即以某小山镇的青石板街为中心场地，把这个寡妇的故事穿插进一组人物当中去，并由这些人物组成一个小社会，写他们在四个不同年代里的各自表演，悲欢离合，透过小社会来写大社会，来写整个走动着的大的时代。有了这个总体构思，我暗自高兴了许久，觉得这部习作日后写出来，起码在大的结构上不会落套。于是，我进一步具体设计，决定写四个年代(一九六三年、一九六四年、一九六九年、一九七九年)，每一年代成一章，每一章写七节，每一节都集中写一个人物的表演。四章共二十八节。每一节、每个人物之间必须紧密而自然地互相连结，犬齿交错，经纬编织。<br/>　　当然，这种结构也许是一次艺术上的铤而走险。它首先要求我必须调动自己二、三十年来的全部的乡镇生活积蓄，必须灌注进自己的生活激情，压缩进大量的生活内容。同时，对我驾驭语言文字的能力，也是一次新的考验。时间跨度大，叙述必然多。我觉得叙述是小说写作——特别是中长篇小说写作的主要手段，叙述最能体现一个作家的语言风格和文字功力。我读小说就特别喜欢巴尔扎克作品中的浮雕式的叙述，自己写小说时也常常津津乐道于叙述。<br/>　　《芙蓉镇》在今年年初发表后，有段时间我颇担心读者能否习惯这种“土洋结合”的情节结构，以及整块整块的叙述文字。但是不久后，读者的热情来信消除了我的这种担心，大都说“一口气读了下去”。当然也有些不同的看法，比方一位关心我的老<br/>　　作家基本肯定之余，指出我把素材浪费了，本来可以写成好几部作品的生活，都压缩进十几万字的篇幅里去了。还有，前些时一位文学评论家转告我，《人才》杂志有位同志全家人都看了《芙蓉镇》，十分喜欢，却又说“这位作家在这部作品里，大约是把他的生活都写尽了”。<br/>　　还有些读者来信说，《芙蓉镇》就像是他们家乡的小镇，里边的几个主要人物，如胡玉音、秦书田、谷燕山、黎满庚、王秋赦、李国香等，他们都很熟悉，都像是做过邻居、当过街坊似的……今年四月里的一天，我正在人民文学出版社的客房里修订书稿，忽然闯进来一个中年汉子，自报姓名，说是内蒙古草原上的一位中学教员。他说，“老古同志，我就是你写的那个秦书田……我因一本历史小说稿，‘文革’中被揪斗个没完没了，坐过班房，还被罚扫了整整六年街道……”说着，他泪水盈眶，泣不成声。我也眼睛发辣，深深地被这位内蒙草原上的“秦书田”的真挚感情所打动。<br/>　　《芙蓉镇》里所写的几个主要人物，都有生活原型，有的还分别有好几个生活原型。社会科学院文学研究所一位从事当代文学研究的同志曾经向我转达过这样一个问题，谷燕山是《芙蓉镇》里老干部的正面形象，是个令人同情、受人敬重的老好人，是否过分强调了他作为“普通人”的一面?我觉得这确是一个值得评论家们进行探讨的问题。毫无疑义，在我们当代的文学作品中已经塑造出了许多感人的老干部形象。这些形象大都是从战争年代的叱咤风云的指挥员们身上脱颖出来的，具有气壮山河的英雄气概和高屋建瓴的雄才大略。而我要写的却是和平时期，工作、生活在南方小山镇上的一位南下老干部。没有枪林弹雨，也不是干军万马大会战的建设工地。谷燕山首先是个普通人，是山镇上百姓们中间的一员，跟山镇上的百姓们共命运，也有着个人的喜好悲欢。然而他主要的是一个关心人、体贴人、乐于助人的正直忠诚的共产党员。他的存在，无形中产生了一种使小山镇的生活保持平衡、稳定的力量。在山民们的心目中，他成了新社会、共产党的化身，是群众公认的“领袖人物”。当然，这样写党的基层领导者形象，特别是毫无隐讳地写了他个人生活的种种情状，喜怒哀乐。或许容易产生一种疑问：在“英雄人物”、“正面人物”、“中间人物”、“转变人物”等有限的几个文艺人<br/>　　物品种里头，他到底应该归到哪一类、入到哪一册去呢?要是归不到哪一类、入不了哪一册又怎么办?由此，使我联想到我们的文学究竟应当写生活里的活人还是写某些臆想中的概念?是写真实可信的新人还是写某种类别化了的模式人、“套中人”?所以我觉得，谷燕山这个人物尽管有种种不足，但作为我们党的基层干部的形象，并无不妥。<br/>　　简单地给人物分类，是左的思潮在文艺领域派生出来的一种形而上学观点，一种习惯势力，是人物形象概念化、雷同化、公式化的一个重要原因，在某种程度上对社会主义文学创作的繁荣起着阻碍作用。近些年来我力图在自己的习作中少一些它的束缚，但进展甚微，今后还需要花大力气，做长时间的探索。<br/>　　许多湖南籍的老作家，总是要求、劝导我们年轻一辈，要植根于生活的土壤，开阔艺术视野，写出生活色彩来，写出生活情调来。他们言传身教，以自己的作品为我们提供了范例。“写出色彩来，写出情调来”，这是前辈的肺腑之言，艺术的金石之音。要达到这一要求，包含着诸种因素，有语言功力问题，生活阅历、生活地域问题，思想素养问题等等。这决不是说习作《芙蓉镇》就已经写出了什么色彩和情调。恰恰相反，我的习作离老一辈作家们的教诲甚远，期待甚远，正需要我竭尽终生心力来执著地追求。好些读者和评论工作者曾经热情地指出了《芙蓉镇》的种种不足，我都在消化中，并做认真的修改、订正。<br/>　　“看世界因作者而不同，读作品因读者而不同”。应当说，广大读者最有发言权，是最公正的评论者。以上所述，只不过是一篇有关《芙蓉镇》的饭后的“闲话”而已。<br/>　　古华<br/>　　一九八一年十一月初于北京<br/>　　一九八二年七月重版校阅<br/><br/>【芙蓉镇】全书完</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1217-21374.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-1217.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1217.html" action-type="chapterComment" class="comment"><i></i>芙蓉镇章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

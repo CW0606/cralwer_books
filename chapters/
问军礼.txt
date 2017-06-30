@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孔丛子》正文_问军礼_孔鲋作品 - 维普阅读网</title>
+<meta name="keywords" content="孔丛子,孔丛子原文,孔丛子阅读,问军礼全文,孔鲋作品" />
+<meta name="description" content="孔丛子原文阅读,问军礼全文在线阅读,孔鲋作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-217-2409.html";
+var nextpage="novel-read-217-2411.html";
+var indexpage = "novel-chapter-217.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-217.html">孔丛子</a></strong>
+<strong><a href="novel-chapter-217.html">孔丛子目录</a></strong>
+<span>问军礼</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-217-2409.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>问军礼</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=孔鲋&amp;searchsubmit=yes"  target="_blank">孔鲋</a><span class="divide">|</span>发布时间：2014-08-12 20:27:47<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>陈王问太师曰、行军之礼．可得备闻乎．荅曰天子有道．礼乐征伐自天子出．自天子出．必以岁之孟秋．赏军师武人于朝．简练杰俊．任用有功．命将选士以诛不义．于是孟冬以级授军．司徒执扑北面而誓之．誓于社以习其事．先期五日．太史筮于祖庙．择吉日斋戒．告于郊社稷宗庙．既筮．则献兆于天子．天子使有司以牲特告社．告以所征之事而受命焉．舍奠于帝学以受成．然后乃类于上帝柴于郊以出．以斋车迁庙之主及社主．行大司马职奉之．无迁庙主．则以币帛皮圭告于祖祢．谓之主命．亦载斋车．比行主皮圭币帛皆每舍奠焉．而后就馆．主车止于中门之外．外门之内．庙主居于道左．社主居于道右其所经名山大川皆祭告焉．及至敌所．将战．太史卜战日．卜右御．先期三日．有司明以敌人罪状告之史．史定誓命战日．将帅陈列车甲卒伍于军门之前．有司读诰誓使周定三令五申既毕遂祷战祈克于上帝然后即敌．将士战全．巳克敌．史择吉日复祃于所征之地柴于上帝．祭社奠祖以告克者．不顿兵伤士也．战不克则不告也．凡类祃皆用甲丙戊庚壬之刚日有司简功行赏．不稽于时．其用命者则加爵受赐于祖奠之前．其奔北犯令者则加刑罚戮于社主之前然后鸣金振旅．有司遍告捷于时所有事之山川．既至．舍于国外三日斋．以特牛亲格于祖祢然后入．设奠以反主．若主命则卒奠敛主埋之于庙两阶间．反社主如初迎之礼．舍奠于帝学．以讯馘告．大季于群吏．用备乐飨．有功于祖庙．舍爵策勋焉．谓之饮至．天子亲征之礼也．陈王曰其命将出征则如之何．太师曰古者大将受命而出则忘其国．即戎师阵则忘其家．故天子命将出征．亲洁斋盛服设奠于祖以诏之．大将先入．军吏毕从皆北面再拜稽首而受．天子当阶南面命授之节钺．大将受．天子乃东向西面而揖之．亦弗御也．然后告太社冢宰执蜃．宜于社之右南面授大将．大将北面稽首再拜而受之．承所颁赐于军吏．其出不类其克不祃．战之所在有大山川则祈焉．祷克于五帝．捷则报之．振旅复命．简异功勤．亲告庙告社而后适朝．礼也．王曰将居军中之礼胜败之变则如之何．太师曰将帅尚左士卒尚右．出国先锋．入国后刃．介胄在身执锐在列．虽君父不拜若不幸君败．则驿骑赴告．于载櫜韔．天子素服哭于库门之外三日．大夫素服哭于社亦如之．亡将失城．则皆哭七日．天子使使迎于军．命将帅无请罪．然后将帅结草自缚袒右肩而入．盖丧礼也．王曰行古礼如何．大师曰古之礼固为于今也．有其人行其礼则可．无其人行其礼则民弗与也．<br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-217-2409.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-217-2411.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-217.html" action-type="chapterComment" class="comment"><i></i>孔丛子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

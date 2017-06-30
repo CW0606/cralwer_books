@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《花边文学》正文_谁在没落？_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="花边文学,花边文学原文,花边文学阅读,谁在没落？全文,鲁迅作品" />
+<meta name="description" content="花边文学原文阅读,谁在没落？全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-536-6816.html";
+var nextpage="novel-read-536-6818.html";
+var indexpage = "novel-chapter-536.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-536.html">花边文学</a></strong>
+<strong><a href="novel-chapter-536.html">花边文学目录</a></strong>
+<span>谁在没落？</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-536-6816.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>谁在没落？</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 21:23:32<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　常庚<br/><br/>　　五月二十八日的《大晚报》告诉了我们一件文艺上的重要的新闻：<br/><br/>　　“我国美术名家刘海粟徐悲鸿（２）等，近在苏俄莫斯科举行中国书画展览会，深得彼邦人士极力赞美，揄扬我国之书画名作，切合苏俄正在盛行之象征主义作品。爱苏俄艺术界向分写实与象征两派，现写实主义已渐没落，而象征主义则经朝野一致提倡，引成欣欣向荣之概。自彼邦艺术家见我国之书画作品深合象征派后，即忆及中国戏剧亦必采取象征主义。因拟……邀中国戏曲名家梅兰芳等前往奏艺。此事已由俄方与中国驻俄大使馆接洽，同时苏俄驻华大使鲍格莫洛夫亦奉到训令，与我方商洽此事。……”<br/><br/>　　这是一个喜讯，值得我们高兴的。但我们当欣喜于“发扬国光”（３）之后，还应该沉静一下，想到以下的事实——一，倘说：中国画和印象主义（４）有一脉相通，那倒还说得下去的，现在以为“切合苏俄正在盛行之象征主义”，却未免近于梦话。半枝紫藤，一株松树，一个老虎，几匹麻雀，有些确乎是不像真的，但那是因为画不像的缘故，何尝“象征”着别的什么呢？<br/><br/>　　二，苏俄的象征主义的没落，在十月革命时，以后便崛起了构成主义（５），而此后又渐为写实主义所排去。所以倘说：构成主义已渐没落，而写实主义“引成欣欣向荣之概”，那是说得下去的。不然，便是梦话。苏俄文艺界上，象征主义的作品有些什么呀？<br/><br/>　　三，脸谱和手势，是代数，何尝是象征。它除了白鼻梁表丑脚，花脸表强人，执鞭表骑马，推手表开门之外，那里还有什么说不出，做不出的深意义？<br/><br/>　　欧洲离我们也真远，我们对于那边的文艺情形也真的不大分明，但是，现在二十世纪已经度过了三分之一，粗浅的事是知道一点的了，这样的新闻倒令人觉得是“象征主义作品”，它象征着他们的艺术的消亡。<br/><br/>　　五月三十日。<br/><br/>　<br/>===============================================================<br/><br/><br/><br/>　　（１）本篇最初发表于一九三四年六月二日《中华日报·动向》。（２）刘海粟江苏武进人，画家。徐悲鸿（１８９５—１９５３），江苏宜兴人，画家。一九三四年他们先后赴欧洲参加中国画展。（３）“发扬国光”这也是上引《大晚报》题为《梅兰芳赴苏俄》新闻中的话。<br/><br/>　　（４）印象主义十九世纪后半期在欧洲（最早在法国）兴起的一种文艺思潮。主要表现在绘画上，强调表现艺术家瞬间的主观印象，重在色彩光线，不拘泥于对客观事物的忠实描绘。这种思潮后来影响到文学、音乐、雕刻等各方面。<br/><br/>　　（５）构成主义也叫结构主义，现代西方形式主义艺术流派之一。它排斥艺术的思想性、形象性和民族传统，凭长方形、圆形和直线等构成抽象的造型。十月革命后不久，它曾以“革新”面貌一度出现于苏联。<br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-536-6816.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-536-6818.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-536.html" action-type="chapterComment" class="comment"><i></i>花边文学章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

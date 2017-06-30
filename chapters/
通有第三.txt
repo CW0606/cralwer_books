@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《盐铁论》正文_通有第三_桓宽作品 - 维普阅读网</title>
+<meta name="keywords" content="盐铁论,盐铁论原文,盐铁论阅读,通有第三全文,桓宽作品" />
+<meta name="description" content="盐铁论原文阅读,通有第三全文在线阅读,桓宽作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-255-4049.html";
+var nextpage="novel-read-255-4051.html";
+var indexpage = "novel-chapter-255.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-255.html">盐铁论</a></strong>
+<strong><a href="novel-chapter-255.html">盐铁论目录</a></strong>
+<span>通有第三</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-255-4049.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>通有第三</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=桓宽&amp;searchsubmit=yes"  target="_blank">桓宽</a><span class="divide">|</span>发布时间：2014-08-26 21:12:09<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>大夫曰：“燕之涿、蓟，赵之邯郸，魏之温轵，韩之荥阳，齐之临淄，楚之宛、陈，郑之阳翟，三川之二周，富冠海内，皆为天下名都，非有助之耕其野而田其地者也，居五诸之冲，跨街衢之路也。故物丰者民衍，宅近市者家富。富在术数，不在劳身；利在势居，不在力耕也。<br/><br/>　　文学曰：“荆、扬南有桂林之饶，内有江、湖之利，左陵阳之金，右蜀、汉之材，伐木而树谷，燔莱而播粟，火耕而水耨，地广而饶财；然民鮆窳偷生，好衣甘食，虽白屋草庐，歌讴鼓琴，日给月单，朝歌暮戚。赵、中山带大河，纂四通神衢，当天下之蹊，商贾错于路，诸侯交于道；然民淫好末，侈靡而不务本，田畴不修，男女矜饰，家无斗筲，鸣琴在室。是以楚、赵之民，均贫而寡富。宋、卫、韩、梁，好本稼穑，编户齐民，无不家衍人给。故利在自惜，不在势居街衢；富在俭力趣时，不在岁司羽鸠也。”<br/><br/>　　大夫曰：“五行：东方木，而丹、章有金铜之山；南方火，而交趾有大海之川；西方金，而蜀、陇有名材之林；北方水，而幽都有积沙之地。此天地所以均有无而通万物也。今吴、越之竹，隋、唐之材，不可胜用，而曹、卫、梁、宋，采棺转尸；江、湖之鱼，莱、黄之鲐，不可胜食，而邹、鲁、周、韩，藜藿蔬食。天地之利无不赡，而山海之货无不富也；然百姓匮乏，财用不足，多寡不调，而天下财不散也。”<br/><br/>　　文学曰：“古者，采椽不斲，茅茨不翦，衣布褐，饭土硎，铸金为鉏，埏埴为器，工不造奇巧，世不宝不可衣食之物，各安其居，乐其俗，甘其食，便其器。是以远方之物不交，而昆山之玉不至。今世俗坏而竞于淫靡，女极纤微，工极技巧，雕素朴而尚珍怪，钻山石而求金银，没深渊求珠玑，设机陷求犀象，张网罗求翡翠，求蛮、貉之物以眩中国，徙邛、筰之货，致之东海，交万里之财，旷日费功，无益于用。是以褐夫匹妇，劳疲力屈，而衣食不足也。故王者禁溢利，节漏费。溢利禁则反本，漏费节则民用给。是以生无乏资，死无转尸也。”<br/><br/>　　大夫曰：“古者，宫室有度，舆服以庸；采椽茅茨，非先王之制也。君子节奢刺俭，俭则固。昔孙叔敖相楚，妻不衣帛，马不秣粟。孔子曰：‘不可，大俭极下。’此蟋蟀所为作也。管子曰：‘不饰宫室，则材木不可胜用，不充庖厨，则禽兽不损其寿。无末利，则本业无所出，无黼黻，则女工不施。’故工商梓匠，邦国之用，器械之备也。自古有之，非独于此。弦高贩牛于周，五羖赁车入秦，公输子以规矩，欧冶以镕铸。语曰：‘百工居肆，以致其事。’农商交易，以利本末。山居泽处，蓬蒿尧埆，财物流通，有以均之。是以多者不独衍，少者不独馑。若各居其处，食其食，则是橘柚不鬻，朐卤之盐不出，旃罽不市，而吴、唐之材不用也。”<br/><br/>　　文学曰：“孟子云：‘不违农时，谷不可胜食。蚕麻以时，布帛不可胜衣也。斧斤以时，材木不可胜用。田渔以时，鱼肉不可胜食。’若则饰宫室，增台榭，梓匠斲巨为小，以圆为方，上成云气，下成山林，则材木不足用也。男子去本为末，雕文刻镂，以象禽兽，穷物究变，则谷不足食也。妇女饰微治细，以成文章，极伎尽巧，则丝布不足衣也。庖宰烹杀胎卵，煎炙齐和，穷极五味，则鱼肉不足食也。当今世，非患禽兽不损，材木不胜，患僭侈之无穷也；非患无旃罽橘柚，患无狭庐糠糟也。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-255-4049.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-255-4051.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-255.html" action-type="chapterComment" class="comment"><i></i>盐铁论章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《移居二首》正文_移居 其一_陶渊明作品 - 维普阅读网</title>
+<meta name="keywords" content="移居二首,移居二首原文,移居二首阅读,移居 其一全文,陶渊明作品" />
+<meta name="description" content="移居二首原文阅读,移居 其一全文在线阅读,陶渊明作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-635.html";
+var nextpage="novel-read-635-7860.html";
+var indexpage = "novel-chapter-635.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-635.html">移居二首</a></strong>
+<strong><a href="novel-chapter-635.html">移居二首目录</a></strong>
+<span>移居 其一</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-635.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>移居 其一</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=陶渊明&amp;searchsubmit=yes"  target="_blank">陶渊明</a><span class="divide">|</span>发布时间：2014-10-14 20:43:22<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　昔欲居南村，非为卜其宅。<br/><br/>　　闻多素心人，乐与数晨夕。<br/><br/>　　怀此颇有年，今日从兹役。<br/><br/>　　敝庐何必广，取足蔽床席。<br/><br/>　　邻曲时时来，抗言谈在昔。<br/><br/>　　奇文共欣赏，疑义相与析。<br/><br/>【注释】<br/>⑴南村：各家对“南村”的解释不同，丁福保认为在浔阳城（今江西九江）下（见《陶渊明诗笺注》）。卜宅：占卜问宅之吉凶。这两句是说从前想迁居南村，并不是因为那里的宅地好。<br/>⑵素心人：指心性纯洁善良的人。李公焕注云：“指颜延年、殷景仁、庞通之辈。”庞通，名遵，即《怨诗楚调示庞主簿邓治中》之庞主簿。数：屡。晨夕：朝夕相见。这两句是说听说南村有很多朴素的人，自己乐意和他们朝夕共处。<br/>⑶怀此：抱着移居南村这个愿望。颇有年：已经有很多年了。兹役：这种活动，指移居。从兹役：顺从心愿。这两句是说多年来怀有移居南村的心愿，今天终于实现了。<br/>⑷蔽庐：破旧的房屋。何必广：何须求宽大。蔽床席：遮蔽床和席子。取足床席：能够放一张床一条席子就可取了。<br/>⑸邻曲：邻居，指颜延之、殷景仁、庞通等，即所谓“索心人”。据他的《与殷晋安别》诗云：“去岁家南里，薄作少时邻。”可见殷景仁当时曾是他的邻居。抗：同亢，高的意思。抗言：抗直之言，高谈阔论或高尚其志的言论。在昔：指往事。这两句是说邻居经常来访，来后便高谈阔论往事。<br/>⑹析：剖析文义。魏晋人喜欢辩难析理，如《晋春秋》记载：“谢安优游山水，以敷文析理自娱。”陶渊明也不免有这种爱好。所谓析义，主要是一种哲学理趣，与一般分析句子的含义不同。这两句是说共同欣赏奇文，一起剖析疑难文义的理趣。<br/><br/>【译文】<br/>从前想移居住到南村来，不是为了要挑什么好宅院；<br/>听说这里住着许多纯朴的人，愿意同他们度过每一个早晚。<br/>这个念头已经有了好多年，今天才算把这件大事办完。<br/>简朴的屋子何必求大，只要够摆床铺就能心安。<br/>邻居朋友经常来我这里，谈谈过去的事情，人人畅所欲言；<br/>见有好文章大家一同欣赏，遇到疑难处大家一同钻研。<br/><br/>【赏析】<br/>　　第一首写移居求友的初衷，邻里过往的快乐。吟味全诗，每四句是一个层次。<br/>　　前四句：“昔欲居南村，非为卜其宅。闻多素心人，乐与数晨夕。”追溯往事，以“昔”字领起，将移居和求友联系起来，因事见意，重在“乐”字。古人迷信，移居选宅先卜算，问凶吉，宅地吉利才移居，凶险则不移居。但也有如古谚所云：“非宅是卜，惟邻是卜。”（《左传·昭公三年》）移居者不在乎宅地之吉凶，而在乎邻里之善恶。诗人用其意，表明自己早就向往南村，卜宅不为风水吉利，而为求友共乐。三、四两句，补足卜居的心情。诗人听说南村多有本心质素的人，很愿意和他们一同度日，共处晨夕。陶渊明生活在“真风告逝，大伪斯兴，闾阎懈廉退之节，市朝驱易进之心”（《感士不遇赋》）的时代，对充满虚伪、机诈、钻营、倾轧的社会风气痛心疾首，却又无力拨乱反正，只能洁身自好，归隐田园，躬耕自给。卜居求友，不趋炎附势，不祈福求显，唯择善者为邻，正是诗人清高情志和内在人格的表现。<br/>　　中间四句：“怀此颇有年，今日从兹役。弊庐何必广，取足蔽床席。”由卜居初衷写到如愿移居，是诗意的转折和深化。兹役，指移居搬家这件事。“弊庐”，破旧的房屋，这里指简陋的新居。诗人再次表明，说移居南村的愿望早就有了，终于实现的时候。其欣欣之情，溢于言表。接着又说，只要有好邻居，好朋友，房子小一点不要紧，只要能遮蔽一张床一条席子就可以了，不必一定求其宽敞。不求华堂广厦，唯求邻里共度晨夕，弊庐虽小，乐在其中，诗人旷达不群的胸襟，物外之乐的情趣不言而喻。在对住房的追求上，古往今来，不少有识之士都表现出高远的精神境界。孔子打算到东方少数民族地区居住，有人对他说：那地方太简陋，孔子答曰：“君子居之，何陋之有？”（《论语·子罕》）杜甫流寓成都，茅屋为秋风所破，愁苦中仍然热切呼唤：“安得广厦千万间，大庇天下寒士俱欢颜。呜呼！何时眼前突兀见此屋，吾庐独破受冻死亦足!”（《茅屋为秋风所破歌》）推己及人，表现出忧国忧民的崇高情怀。刘禹锡为陋室作铭：“山不在高，有仙则名；水不在深，有龙则灵。斯是陋室，惟吾德馨。”（《陋室铭》）其鄙视官场的卑污与腐败，追求高洁的品德与志趣，在审美气质上，和陶渊明这首诗有相通的一面。<br/>　　最后四句：“邻曲时时来，抗言谈在昔。奇文共欣赏，疑义相与析。”具体描写得友之乐。邻曲，即邻居。在义熙七年（411年）所作《与殷晋安别》诗中，诗人说：“去年家南里，薄作少时邻。”可知殷晋安（即前所说殷景仁）当时曾与诗人为邻。诗中所说的友人，多是读书人，交谈的内容自然不同于和农民“相见无杂言，但道桑麻长”限于农事（见《归园田居》），而带着读书人的特点和爱好。他们一起回忆往事，无拘无束，毫无保留地交心，他们一起欣赏奇文，共同分析疑难的文义，畅游学海，追求精神上的交流。诗人创作《移居二首》时，正值四十六、七岁的中年时代。这是人生在各方面均臻成熟的时期。中年的妙趣和魅力，在于相当地认识人生，认识自己，从而做自己所能做而且也愿意做的事，享受自己所能享受的生活。和读陶渊明归田以后其它作品一样，《移居二首》给人的感受是鲜明而强烈的：诗人厌恶黑暗污浊的社会，鄙视丑恶虚伪的官场，但他并不厌弃人生。在对农村田园、亲人朋友的真挚爱恋中，他找到了生活的快乐，生命的归宿，心灵的慰安和休息。高蹈、洒脱而又热爱人生，恋念人生，独特而亲切的情调，情趣与理趣共辉，陶渊明其人其诗的魅力，首先来自对人生与自然的诗意般的热爱和把握。<br/>　　陶渊明田园诗的风格向来以朴素平淡、自然真率见称。这种独特的风格，正是诗人质性自然的个性的外化。从这首诗来看，所写移居情事，原是十分平常的一件事。但在诗人笔下款款写来，读者却感到亲切有味。所用的语言，平常如口语，温和高妙，看似浅显，然嚼之味醇，思之情真，悟之意远。如写移居如愿以偿：“弊庐何必广，取足蔽床席。”纯然日常口语，直抒人生见解。“何必”二字，率直中见深曲，映出时人普遍追名逐利的心态，矫矫脱俗，高风亮节，如松间白鹤，天际鸿鹄。又如诗人写和谐坦诚的邻里友谊，仅以“时时来”出之，可谓笔墨省净，引人遐想。欣赏奇文，状以“共”字，分析疑义，状以“相与”，均是传神笔墨。如果奇文自赏，疑义自析，也无不可，却于情味锐减，更无法深化移居之乐的主题。而“共”与“相与”前后相续则热烈抗言之情态呼之欲出，使“奇文共欣赏，疑义相与析”，成为绝妙的诗句，赢得千古读者的激赏。胡仔《苕溪渔隐丛话后集》评陶渊明《止酒》诗云：“坐止高荫下，步止荜门里。好味止园葵，大欢止稚子。’余反复味之，然后知渊明用意……故坐止于树荫之下，则广厦华堂吾何羡焉。步止于荜门之里，则朝市深利吾何趋焉。好味止于噉园葵，则五鼎方丈吾何欲焉。大欢止于戏稚子，则燕歌赵舞吾何乐焉。”要达到这种心境和生活，是要经过长期的思想斗争和痛苦的人生体验，才能对人生有睿智的领悟的，正如包孕万汇的江海，汪洋恣肆，波涛澎湃之后而臻于平静。陶诗看似寻常，却又令人在低吟回味之中感到一种特殊的魅力——“问君何能尔，心远地自偏”；“弊庐何必广，取足蔽床席”等。读者读着这样的诗句，往昔对生活中一些困惑不解的矛盾，也许会在感悟诗意的同时豁然开朗，得到解释，以坦然旷达的胸怀面对万花筒般的人生。陶诗淡而有味，外质内秀，似俗实雅的韵致，在《移居》一诗中也得到生动地体现。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-635.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-635-7860.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-635.html" action-type="chapterComment" class="comment"><i></i>移居二首章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

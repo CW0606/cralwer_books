@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《聊斋志异》正文_卷八 诗谳_蒲松龄作品 - 维普阅读网</title>
+<meta name="keywords" content="聊斋志异,聊斋志异原文,聊斋志异阅读,卷八 诗谳全文,蒲松龄作品" />
+<meta name="description" content="聊斋志异原文阅读,卷八 诗谳全文在线阅读,蒲松龄作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1254-23448.html";
+var nextpage="novel-read-1254-23450.html";
+var indexpage = "novel-chapter-1254.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1254.html">聊斋志异</a></strong>
+<strong><a href="novel-chapter-1254.html">聊斋志异目录</a></strong>
+<span>卷八 诗谳</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1254-23448.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷八 诗谳</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-18.html" target="blank">古典小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=蒲松龄&amp;searchsubmit=yes"  target="_blank">蒲松龄</a><span class="divide">|</span>发布时间：2015-04-02 20:43:17<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>青州居民范小山，贩笔为业，行贾未归。四月间，妻贺氏独居，夜为盗所杀。是夜微雨，泥中遗诗扇一柄，乃王晟之赠吴蜚卿者。晟，不知何人；吴，益都之素封，与范同里，平日颇有佻达之行，故里党共信之。郡县拘质，坚不伏，惨被械梏，诬以成案；驳解往复，历十余官，更无异议。吴亦自分必死，嘱其妻罄竭所有，以济茕独。有向其门诵佛千者，给以絮袴；至万者絮袄：于是乞丐如市，佛号声闻十余里。因而家骤贫，惟日货田产，以给资斧。阴赂监者使市鸩。夜梦神人告之曰：“子勿死，曩日‘外边凶’，目下‘里边吉’矣。”再睡，又言，以是不果死。无何，周元亮先生分守是道，录囚至吴，若有所思。因问：“吴某杀人，有何确据？”范以扇对。先生熟视扇，便问：“王晟何人？”并云不知。又将爰书细阅一过，立命脱其死械，自监移之仓。范力争之。怒曰：“尔欲妄杀一人便了却耶？抑将得仇人而甘心耶？”众疑先生私吴，俱莫敢言。先生标朱签，立拘南郭某肆主人。主人惧，莫知所以。至则问曰：“肆壁有东莞李秀诗，何时题耶？”答云：“旧岁提学按临，有日照二三秀才，饮醉留题，不知所居何里。”遂遣役至日照，坐拘李秀。<br/><br/>　　数日，秀至。怒曰：“既作秀才，奈何谋杀人？”秀顿首错愕，曰：“无之！”先生掷扇下，令其自视，曰：“明系尔作，何诡托王晟？”秀审视曰：“诗真某作，字实非某书。”曰：“既知汝诗，当即汝友。谁书者？”秀曰：“迹似沂州王佐。”乃遣役关拘王佐。佐至，呵之如秀状。佐供：“此益都铁商张成索某书者，云晟其表兄也。”先生曰：“盗在此矣。”执成至，一讯遂伏。先是，成窥贺美，欲挑之，恐不谐。念托于吴，必人所共信，故伪为吴扇，执而往。谐则自认，不谐则嫁名于吴，而实不期至于杀也。踰垣入，逼妇。妇因独居，常以刀自卫。既觉，捉成衣，操刀而起。成惧，夺其刀。妇力挽，令不得脱，且号。成益窘，遂杀之，委扇而去。三年冤狱，一朝而雪，无不诵神明者。吴始语“里边吉”乃“周”字也。然终莫解其故。后邑绅乘间请之。笑曰：“此最易知。细阅爰书，贺被杀在四月上旬；是夜阴雨，天气犹寒，扇乃不急之物，岂有忙迫之时，反携此以增累者，其嫁祸可知。向避雨南郭，见题壁诗与箑头之作，口角相类，故妄度李生，果因是而得真盗。”闻者叹服。<br/><br/>　　异史氏曰：“天下事，入之深者，当其无有有之用。词赋文章，华国之具也，而先生以相天下士，称孙阳焉。岂非入其中深乎？而不谓相士之道，移于折狱。易曰：‘知几其神。’先生有之矣。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1254-23448.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1254-23450.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1254.html" action-type="chapterComment" class="comment"><i></i>聊斋志异章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

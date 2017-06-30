@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《山海经》正文_海经·海内西经_先秦无名作品 - 维普阅读网</title>
+<meta name="keywords" content="山海经,山海经原文,山海经阅读,海经·海内西经全文,先秦无名作品" />
+<meta name="description" content="山海经原文阅读,海经·海内西经全文在线阅读,先秦无名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-222-2559.html";
+var nextpage="novel-read-222-2561.html";
+var indexpage = "novel-chapter-222.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-222.html">山海经</a></strong>
+<strong><a href="novel-chapter-222.html">山海经目录</a></strong>
+<span>海经·海内西经</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-222-2559.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>海经·海内西经</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=先秦无名&amp;searchsubmit=yes"  target="_blank">先秦无名</a><span class="divide">|</span>发布时间：2014-08-14 21:05:11<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　海内西南陬以北者。<br/>　　贰负之臣曰危，危与贰负窫窳。帝乃梏之疏属之山，桎其右足，反缚两手与发，系之山上木。在开题西北。<br/>　　大泽方百里，群鸟所生及所解。在雁门北。<br/>　　雁门山，雁出其间。在氐国西。<br/>　　高柳在代北。<br/>　　后稷之葬，山水环之。在氐国西。<br/>　　流黄酆氏之国，中方三百里；有涂四方，中有山。在后稷葬西。<br/>　　流沙出钟山，西行又南行昆仑之虚，西南入海，黑水之山。<br/>　　东胡在大泽东。<br/>　　夷人在东胡东。<br/>　　貊国在汉水东北。地近于燕，灭之。<br/>　　孟鸟在貊国东北。其鸟文赤、黄、青，东乡。<br/>　　海内昆仑之虚，在西北，帝之下都。<br/>　　昆仑之虚，方圆八百里，高万仞。上有木禾，长五寻，大五围。<br/>　　面有九井，以玉为槛。面有九门，门有开明兽守之，百神之所在。<br/>　　在八隅之岩，赤水之际，非仁羿莫能上冈之岩。<br/>　　赤水出东南隅，以行其东北。<br/>　　河水出东北隅，以行其北，西南又入渤海，又出海外，即西而北，入禹所导积石山。<br/>　　洋水、黑水出西北隅，以东，东行，又东北，南入海，羽民南。<br/>　　弱水、青水出西南隅，以东，又北，又西南，过毕方鸟东。<br/>　　昆仑南渊深三百仞。开明兽身大类虎而九首，皆人面，东向立昆仑上。<br/>　　开明西有凤皇、鸾鸟，皆戴蛇践蛇，膺有赤蛇。<br/>　　开明北有视肉、珠树、文玉树、玗琪树、不死树。凤皇、鸾鸟皆戴瞂。又有离朱、木禾、柏树、甘水、圣木曼兑，一曰挺木牙交。<br/>　　开明东有巫彭、巫抵、巫阳、巫履、巫凡、巫相，夹窫窳之尸，皆操不死之药以距之。窫窳者，蛇身人面，贰负臣所杀也。<br/>　　服常树，其上有三头人，伺琅玕树。<br/>　　开明南有树鸟，六首；蛟、蝮、蛇、蜼、豹、鸟秩树，于表池树木，诵鸟、鶽、视肉。 <br/><br/>【白话文】<br/>山海经卷十一海内西经<br/>翻译：<br/>海内由西南角向北的国家地区、山丘河川依次如下。<br/><br/>贰负之臣曰危①，危与贰负杀窫窳②。帝乃梏之疏属之山③，桎其右足④，反缚两手与发，系之山上木。在开题西北。<br/>注解：<br/>①贰负：神话传说中的天神，样子是人的脸面蛇的身子。<br/>②窫窳：也是传说中的天神，原来的样子是人的脸面蛇的身子，后被贰负及其臣子杀死而化成上文所说的样子——龙头，野猫身，并且吃人。<br/>③梏：古代木制的手铐。这里是械系、拘禁的意思。<br/>④桎：古代拘系罪人两脚的刑具。<br/>翻译：<br/>贰负神的臣子叫危，危与贰负合伙杀死了窫窳神。天帝便把贰负拘禁在疏属山中，并给他的右脚戴上刑具，还用他自己的头发反绑上他的双手，拴在山上的大树下。这个地方在开题国的西北面。<br/><br/>大泽方百里，群鸟所生及所解。在雁门北。<br/>翻译：<br/>大泽方圆一百里，是各种禽鸟生卵孵化幼鸟和脱换羽毛的地方。大泽在雁门的北面。<br/><br/>雁门山，雁出其间。在高柳北。<br/>翻译：<br/>雁门山，是大雁冬去春来出入的地方。雁门山在高柳山的北面。<br/><br/>高柳在代北。<br/>翻译：<br/>高柳山在代地的北面。<br/><br/>后稷之葬，山水环之。在氐国西①。<br/>注解：<br/>①氐国：就是上文所说的氐人国。<br/>翻译：<br/>后稷的葬地，有青山绿水环绕着它。后稷葬地在氐人国的西面。<br/><br/>流黄酆氏之国，中方三百里①，有涂四方②，中有山。在后稷葬西。<br/>注解：<br/>①中：域中，即国内土地的意思。<br/>②涂：通“途”。道路。<br/>翻译：<br/>流黄酆氏国，疆域有方圆三百里大小。有道路通向四方，中间有一座大山。流黄酆氏国在后稷葬地的西面。<br/><br/>流沙出钟山①，西行又南行昆仑之虚②，西南入海，黑水之山。<br/>注解：<br/>①流沙：沙子和水一起流行移动的一种自然现象。<br/>②虚：大丘。即指山。<br/>翻译：<br/>流沙的发源地在钟山，向西流动而再朝南流过昆仑山，继续往西南流入大海，直到黑水山。<br/><br/>东胡在大泽东。<br/>翻译：<br/>东胡国在大泽的东面。<br/><br/>夷人在东胡东。<br/>翻译：<br/>夷人国在东胡国的东面。<br/><br/>貊国在汉水东北。地近于燕，灭之。<br/>翻译：<br/>貊国在汉水的东北面。它靠近燕国的边界，后来被燕国灭掉了。<br/><br/>孟鸟在貊国东北。其鸟文赤、黄、青，东乡①。<br/>注解：<br/>①乡：通“向”<br/>翻译：<br/>孟鸟在貊国的东北面。这种鸟的羽毛花纹有红、黄、青三种颜色，向着东方。<br/><br/>海内昆仑之虚，在西北，帝之下都。昆仑之虚，方八百里，高万仞①。上有木禾，长五寻②，大五围。面有九井，以玉为槛③。面有九门，门有开明兽守之，百神之所在④。在八隅之岩，赤水之际，非（仁）[夷]羿莫能上冈之岩⑤。<br/>注解：<br/>①仞：古代的八尺为一仞。<br/>②寻：古代的八尺为一寻。<br/>③槛：窗户下或长廊旁的栏杆。这里指井栏。<br/>④百：并非实数，而是言其多。<br/>⑤夷羿，即后羿，神话传说中的英雄人物，善于射箭，曾经射掉九个太阳，射死毒蛇猛兽，为民除害。<br/>翻译：<br/>海内的昆仑山，屹立在西北方，是天帝在下方的都城。昆仑山，方圆八百里，高一万仞。山顶有一棵像大树似的稻谷，高达五寻，粗细需五人合抱。昆仑山的每一面有九眼井，每眼井都有用玉石制成的围栏。昆仑山的每一面有九道门，而每道门都有称作开明的神兽守卫着，是众多天神聚集的地方。众多天神聚集的地方是在八方山岩之间，赤水的岸边，不是具有像夷羿那样本领的人就不能攀上那些山冈岩石。<br/><br/>赤水出东南隅，以行其东北，[西南流注南海厌火东]。<br/>翻译：<br/>赤水从昆仑山的东南角发源，然后流到昆仑山的东北方，又转向西南流而注到南海厌火国的东边。<br/><br/>河水出东北隅，以行其北，西南又入渤海，又出海外，即西而北，入禹所导积石山。<br/>翻译：<br/>黄河水从昆仑山的东北角发源，然后流到昆仑山的北面，再折向西南流入渤海，又流出海外，就此向西而后往北流，一直流入大禹所疏导过的积石山。<br/><br/>洋水、黑水出西北隅，以东，东行，又东北，南入海，羽民南。<br/>翻译：<br/>洋水、黑水从昆仑山的西北角发源，然后折向东方，朝东流去，再折向东北方，又朝南流入大海，直到羽民国的南面。<br/><br/>弱水、青水出西南隅，以东，又北，又西南，过毕方鸟东。<br/>翻译：<br/>弱水、青水从昆仑山的西南角发源，然后折向东方，朝北流去，再折向西南方，又流经毕方鸟所在地的东面。<br/><br/>昆仑南渊深三百仞。开明兽身大类虎而九首，皆人面，东向立昆仑上。<br/>翻译：<br/>昆仑山的南面有一个深三百仞的渊潭。开明神兽的身子大小像老虎却长着九个脑袋，九个脑袋都是人一样的面孔，朝东立在昆仑山顶。<br/><br/>开明西有凤皇、鸾鸟，皆戴蛇践蛇，膺有赤蛇。<br/>翻译：<br/>开明神兽的西面有凤皇、鸾鸟栖息，都各自缠绕着蛇踩踏着蛇，胸前还有红色的蛇。<br/><br/>开明北有视肉、珠树、文玉树、玕琪树、不死树①，凤皇、鸾鸟皆戴瞂②，又有离朱、木禾、柏树、甘水、圣木曼兑③。一曰挺木牙交。<br/>注解：<br/>①珠树：神话传说中的生长珍珠的树。文玉树：神话传说中的生长五彩美玉的树。玕琪树：神话传说中的生长红色玉石的树。不死树：神话传说中的一种长生不死的树，人服食了它可也长寿不老。<br/>②瞂：盾。<br/>③离朱：即太阳里的踆乌，也叫三足乌。甘水：即古人所谓的醴泉，甜美的泉水。圣木曼兑：一种叫做曼兑的圣树，服食了它可使人圣明智慧。<br/>翻译：<br/>开明神兽的北面有视肉怪兽、珠树、文玉树、玕琪树、不死树，那里的凤皇、鸾鸟都戴着盾牌，还有三足乌、像树似的稻谷、柏树、甘水、圣木曼兑。另一种说法认为圣木曼兑叫做挺木牙交。<br/><br/>开明东有巫彭、巫抵、巫阳、巫履、巫凡、巫相，夹窫窳之尸，皆操不死之药以距之①。窫窳者，蛇身人面，贰负臣所杀也。<br/>注解：<br/>①距：通“拒”。抗拒。<br/>翻译：<br/>开明神兽的东面有巫师神医巫彭、巫抵、巫阳、巫履、巫凡、巫相，他们围在窫窳的尸体周围，都手捧不死药来抵抗死气而要使他复活。这位窫窳，是蛇的身子人的面孔，被贰负和他的臣子危合伙杀死的。<br/><br/>服常树，其上有三头人，伺琅玕树①。<br/>注解：<br/>①琅玕树：传说这种树上结出的果实就是珠玉。<br/>翻译：<br/>有一种服常树，它上面有个长着三颗头的人，静静伺察着那就在附近的琅玕树。<br/><br/>开明南有树鸟，六首；蛟、蝮、蛇、蜼、豹、鸟秩树①，于表池树木②；诵鸟、鶽、视肉③。<br/>注解：<br/>①蛟：像蛇的样子，但有四只脚，属于龙一类。蝮：大蛇。鸟秩树：不详何种树木。<br/>②树：这里是动词，环绕着、排列着的意思。<br/>③诵鸟：不详何种禽鸟。鶽：雕鹰。<br/>翻译：<br/>开明神兽的南面有种树鸟，长着六个脑袋；那里还有蛟龙、蝮蛇、长尾猿、豹子、鸟秩树，在水池四周环绕着树木而显得华美；那里还有诵鸟、鶽鸟、视肉怪兽。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-222-2559.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-222-2561.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-222.html" action-type="chapterComment" class="comment"><i></i>山海经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

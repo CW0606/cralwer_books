@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《二心集》正文_宣传与做戏_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="二心集,二心集原文,二心集阅读,宣传与做戏全文,鲁迅作品" />
+<meta name="description" content="二心集原文阅读,宣传与做戏全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-534-6740.html";
+var nextpage="novel-read-534-6742.html";
+var indexpage = "novel-chapter-534.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-534.html">二心集</a></strong>
+<strong><a href="novel-chapter-534.html">二心集目录</a></strong>
+<span>宣传与做戏</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-534-6740.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>宣传与做戏</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 21:02:35<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>就是那刚刚说过的日本人，他们做文章论及中国的国民性的时候，内中往往有一条叫作“善于宣传”。看他的说明，这“宣传”两字却又不像是平常的“Propaganda”②，而是“对外说谎”的意思。<br/>　　这宗话，影子是有一点的。譬如罢，教育经费用光了，却还要开几个学堂，装装门面；全国的人们十之九不识字，然而总得请几位博士，使他对西洋人去讲中国的精神文明；至今还是随便拷问，随便杀头，一面却总支撑维持着几个洋式的“模范监狱”，给外国人看看。还有，离前敌很远的将军，他偏要大打电报，说要“为国前驱”。连体操班也不愿意上的学生少爷，他偏要穿上军装，说是“灭此朝食”。<br/>　　不过，这些究竟还有一点影子；究竟还有几个学堂，几个博士，几个模范监狱，几个通电，几套军装。所以说是“说谎”，是不对的。这就是我之所谓“做戏”。<br/>　　但这普遍的做戏，却比真的做戏还要坏。真的做戏，是只有一时；戏子做完戏，也就恢复为平常状态的。杨小楼做《单刀赴会》③，梅兰芳做《黛玉葬花》④，只有在戏台上的时候是关云长，是林黛玉，下台就成了普通人，所以并没有大弊。倘使他们扮演一回之后，就永远提着青龙偃月刀或锄头，以关老爷，林妹妹自命，怪声怪气，唱来唱去，那就实在只好算是发热昏了。<br/>　　不幸因为是“天地大戏场”，可以普遍的做戏者，就很难有下台的时候，例如杨缦华女士用自己的天足，踢破小国比利时女人的“中国女人缠足说”，为面子起见，用权术来解围，这还可以说是很该原谅的。但我以为应该这样就拉倒。现在回到寓里，做成文章，这就是进了后台还不肯放下青龙偃月刀；而且又将那文章送到中国的《申报》上来发表，则简直是提着青龙偃月刀一路唱回自己的家里来了。难道作者真已忘记了中国女人曾经缠脚，至今也还有正在缠脚的么？还是以为中国人都已经自己催眠，觉得全国女人都已穿了高跟皮鞋了呢？<br/>　　这不过是一个例子罢了，相像的还多得很，但恐怕不久天也就要亮了。<br/><br/>　　　======================================<br/><br/><br/>　　 本篇最初发表于一九三一年十一月二十日《北斗》第一卷第三期，署名冬华。<br/>　　②“Propaganda”英语：宣传。③杨小楼（1877～1937）安徽石台人，京剧演员。《单刀赴会》，京剧剧目，内容是三国时蜀将关羽（云长）到吴国赴宴的故事。④梅兰芳（1894～1961）江苏泰州人，京剧表演艺术家。《黛玉葬花》，梅兰芳根据《红楼梦》中的情节编演的京剧。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-534-6740.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-534-6742.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-534.html" action-type="chapterComment" class="comment"><i></i>二心集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

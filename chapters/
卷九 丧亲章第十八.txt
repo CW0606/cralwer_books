@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孝经注疏》正文_卷九 丧亲章第十八_注 唐·李隆基，疏 宋·邢昺作品 - 维普阅读网</title>
+<meta name="keywords" content="孝经注疏,孝经注疏原文,孝经注疏阅读,卷九 丧亲章第十八全文,注 唐·李隆基，疏 宋·邢昺作品" />
+<meta name="description" content="孝经注疏原文阅读,卷九 丧亲章第十八全文在线阅读,注 唐·李隆基，疏 宋·邢昺作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1425-26386.html";
+var nextpage="novel-chapter-1425.html";
+var indexpage = "novel-chapter-1425.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1425.html">孝经注疏</a></strong>
+<strong><a href="novel-chapter-1425.html">孝经注疏目录</a></strong>
+<span>卷九 丧亲章第十八</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1425-26386.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷九 丧亲章第十八</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=注 唐·李隆基，疏 宋·邢昺&amp;searchsubmit=yes"  target="_blank">注 唐·李隆基，疏 宋·邢昺</a><span class="divide">|</span>发布时间：2016-07-22 22:50:16<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p> [疏]正义曰：此章首云“孝子之丧亲也”，故章中皆论丧亲之事。丧，亡也，失也。父母之亡没，谓之丧亲。言孝子亡失其亲也，故以名章，结之於末矣。<br/><br/>　<br/><br/>　　子曰：“孝子之丧亲也，生事已毕，死事未见，故发此章。哭不偯，气竭而息，声不委曲。礼无容，触地无容。言不文，不为文饰。服美不安，不安美饰，故服縗麻，闻乐不乐，悲哀在心，故不乐也。食旨不甘：旨，美也。不甘美味，故蔬食水饮。此哀戚之情也。谓上六句。三日而食，教民无以死伤生，毁不灭性：此圣人之政也。不食三日，哀毁过情，灭性而死，皆亏孝道，故圣人制礼施教，不令至於殒灭。丧不过三年，示民有终也。三年之丧，天下达礼，使不肖企及，贤者俯从。夫孝子有终身之忧，圣人以三年为制者，使人知有终竟之限也。<br/><br/>　　[疏]子曰至终也。<br/><br/>　　○正义曰：此夫子述丧亲之义，言孝子之丧亲，哭以气竭而止，不有馀偯之声；举措进退之礼，无趋翔之容；有事应言，则言不为文饰；服美不以为安；闻乐不以为乐；假食美味不以为甘：此上六事，皆哀慼之情也。“三日而食”者，圣人设教，无以亲死多日不食伤及生人；虽即毁瘠，不令至於殒灭性命：此圣人所制丧礼之政也。又服丧不过三年，示民有终毕之终也。<br/>　　○注生事至此事。<br/>　　○正义曰：此依郑注也。生事谓上十七章说。生事之礼已毕，其死事经则未见，故又发此章以言也。<br/>　　○注气竭至委曲。<br/>　　○正义曰：此依郑注也。《礼记·间传》曰：“斩衰之哭，若往而不反。齐衰之哭，若往而反。”此注据斩衰而言之，是气竭而后止息。又曰：“大功之哭，三曲而偯。”郑注云：“三曲，一举声而三折也。偯，声馀从容也。”是偯为声馀委曲也。斩衰则不偯，故云“声不委曲也”。<br/>　　○注触地无容。<br/>　　○正义曰：此《礼记·问丧》之文也。以其悲哀在心，故形变於外，所以稽颡触地无容，哀之至也。<br/>　　○注不为文饰。<br/>　　○正义曰：案《丧服四制》云：“三年之丧，君不言。”又云：“不言而事，行者扶而起；言而后事，行者杖而起。”郑玄云：“扶而起，谓天子诸侯也。杖而起，谓大夫士也。”今此经云“言不文”，则是谓臣下也。虽则有言，志在哀慼，不为文饰也。<br/>　　○注不安至縗麻。<br/>　　○正义曰：案《论语》孔子责宰我，云：“食夫稻，衣夫锦，於汝安乎？”美饰谓锦绣之类也。故《礼记·问丧》云“身不安美”是也。孝子丧亲，心如斩截，为其不安美饰，故圣人制礼，令服縗麻。縗当以粗布长六寸，广四寸。麻谓腰绖首绖俱以麻为之。縗之言摧也，绖之言实也。孝子服之，明其心实摧痛也。韦昭引《书》云：“成王既崩，康王冕服即位。既事毕，反丧服。”据此则天子诸侯，但位定初丧，是皆服美，故宜不安也。<br/>　　○注悲哀至乐也。<br/>　　○正义曰：此依郑注也。言至痛中发，悲哀在心，虽闻乐声，不为乐也。<br/>　　○注旨美至水饮。<br/>　　○正义曰：“旨，美”，经传常训也。严植之曰：“美食，人之所甘。孝子不以为甘，故《问丧》云：‘口不甘味’，是不甘美味也。《间传》曰：‘父母之丧既殡，食粥。既虞、卒哭，疏食水饮，不食菜果’，是疏食水饮也。韦昭引《曲礼》云：‘有疾则饮酒食肉，是为食旨。’故宜不甘也。”<br/>　　○注不食至殒灭。<br/>　　○正义曰：经云“三日而食，毁不灭性”，注言不食三日，即三日不食也。云“哀毁过情”者，是毁瘠过度也。言三日不食，及毁瘠过度，因此二者有致危亡，皆亏孝行之道。《礼记·问丧》云：“亲始死，伤肾乾肝焦肺，水浆不入口三日。”又《间传》称：“斩衰三日不食。”此云三日而食者何？刘炫言三日之后乃食，皆谓满三日则食也。云“故圣人制礼施教，不令至於殒灭”者，《曲礼》云：“居丧之礼，毁瘠不形。”又曰：“不胜丧，乃比於不慈不孝。”是也。<br/>　　○注三年至限也。<br/>　　○正义曰：云“三年之丧天下达礼”者，此依郑注也。《礼记·三年问》云：“夫三年之丧，天下之达丧也。”郑玄云：“达谓自天子至於庶人。”注与彼同，唯改丧为礼耳。云“使不肖企及，贤者俯从”者，案《丧服四制》曰：“此丧之所以三年，贤者不得过，不肖者不得不及。”檀弓曰：“先王制礼也，过之者，俯而就之；不至焉者，跂而及之”也。注引彼二文，欲举中为节也。起踵曰企，俛首曰俯。云“夫孝子有终身之忧，圣人以三年为制”者，圣人虽以三年为文，其实二十五月而毕。故《三年问》云：“将申夫脩饰之君子与？则三年之丧，二十五月而毕，若驷之过隙，然而遂之，则是无穷也。故先王焉为之立中制节，壹使足以成文理则释之矣”是也。《丧服四制》曰：“始死，三日不怠，三月不解，期悲哀，三年忧，恩之杀也。故孔子云：“子生三年，然后免於父母之怀。夫三年之丧，天下之达丧也。”所以丧必三年为制也。<br/>　<br/><br/>　　为之棺椁衣衾而举之，周尸为棺，周棺为椁。衣，谓敛衣。衾，被也。举，谓举尸内於棺也。陈其簠簋而哀慼之，簠簋，祭器也。陈奠素器而不见亲，故哀慼也。擗踊哭泣，哀以送之。男踊女擗，祖载送之。卜其宅兆，而安措之。宅，墓穴也。兆，茔域也。葬事大，故卜之。为之宗庙，以鬼享之；立庙祔祖之后，则以鬼礼享之。春秋祭祀，以时思之。寒暑变移，益用增感，以时祭祀，展其孝思也。<br/><br/>　　[疏]为之至思之。<br/><br/>　　○正义曰：此言送终之礼，及三年之后宗庙祭祀之事也。言孝子送终，须为棺椁衣衾也。大敛之时，则用衾而举尸内於棺中也。陈设簠簋之奠，而加哀慼。葬则男踊女擗，哭泣哀号以送之。亲既长依丘垄，故卜选宅兆之地而安置之。既葬之后，则为宗庙，以鬼神之礼享之。三年之后，感念於亲，春秋祭祀，以时思之也。<br/>　　○注周尸至棺也。<br/>　　○正义曰：云“周尸为棺，周棺为椁”者，此依郑注也。《檀弓》称：“葬也者，藏也。藏也者，欲人之弗得见也。是故衣足以饰身，棺周於衣，椁周於棺，土周於椁。”注约彼文，故言周尸为棺，周棺为椁也。《白虎通》云：“棺之言完，宜完密也。椁之言廓，谓开廓不使土侵棺也。”《易·系辞》曰：“古之葬者，厚衣之以薪，葬之中野，不封不树，丧期无数。后世圣人易之以棺椁。”案《礼记》云：“有虞氏瓦棺。夏后氏堲周。殷人棺椁。周人墙置翣。”则虞夏之时，棺椁之初也。云“衣，谓敛衣。衾，被也。举，谓举尸内於棺也”者，此依孔传也。衣谓袭与大小敛之衣也。衾谓单被覆尸，荐尸所用。从初死至大敛，凡三度加衣也。一是袭也，谓沐尸竟，著衣也，天子十二称，公九称，诸侯七称，大夫五称，士三称，袭皆有袍，袍之上又有衣一通，朝祭之服，谓之一称。二是小敛之衣也，天子至士，皆十九称，不复用袍，衣皆有絮也。三是大敛也，天子百二十称，公九十称，诸侯七十称，大夫五十称，士三十称，衣皆襌袷也。《丧大记》云：“布紟二衾，君大夫士一也。”郑玄云：“二衾者，或覆之，或荐之，是举尸所用也。”棺椁之数，贵贱不同。皇侃据《檀弓》以天子之棺四重，谓水、兕革棺、杝棺一，梓棺二。最在内者水牛皮，次外兕牛皮，各厚三寸为一重，合厚六寸。又有杝棺，厚四寸，谓之椑棺，言漆之椑椑然。前三物为二重，合一尺。外又有梓棺，厚六寸，谓之属棺，言连属内外。就前四物为三重，合厚一尺六寸。外又有梓棺，厚八寸，谓之大棺，言其最大，在众棺之外。就前五物为四重，合厚二尺四寸也。上公去水牛皮，则三重，合厚二尺一寸也。侯、伯、子、男又去兕牛皮，则二重，合厚一尺八寸。上大夫又去椑棺，一重，合厚一尺四寸。下大夫亦一重，但属四寸，大棺六寸，合厚一尺。士不重，无属，唯大棺六寸。庶人即棺四寸。案《檀弓》云：“柏椁以端，长六尺。”又《丧大记》曰：“君松椁，大夫柏椁，士杂木椁。”是也。<br/>　　○注簠簋至戚也。<br/>　　○正义曰：“簠簋，祭器也”者，《周礼·舍人职》云：“凡祭祀供簠簋，实之陈之。”是簠簋为器也。故郑玄云：“方曰簠，圆曰簋，盛黍稷稻梁器。”云“陈奠素器而不见亲，故哀慼也”者，下《檀弓》云：“奠以素器，以生者有哀素之心也。”又案陈簠簋在衣衾之下，哀以送之。上旧说以为大敛祭是不见亲，故哀慼也。<br/>　　○注男踊至送之。<br/>　　○正义曰：案《问丧》云：“在床曰尸，在棺曰柩。动尸举柩，哭踊无数。恻怛之心，痛疾之意，悲哀志懑气盛，故袒而踊之。妇人不宜袒，故发胸、击心、爵踊、殷殷田田，如坏墙然。”则是女质不宜极踊，故以擗言之。据此女既有踊，则男亦有擗，是互文也。云“祖载送之”者，案《既夕礼》：柩车迁祖，质明设迁祖奠，日侧彻之，“乃载”。郑注云：“乃举柩郤下而载之。”又云：商祝饰柩，及陈器讫，“乃祖”。注云：“还柩乡外，为行始。”又《檀弓》云：“曾子吊於负夏，主人既祖。”郑云：“祖谓移柩车去载处，为行始。”然则祖，始也。以生人将行而饮酒曰祖，故柩车既载而设奠谓之祖奠。是“祖载送之”之义也。<br/>　　○注宅墓至卜之。<br/>　　○正义曰：云“宅，墓穴也。兆，茔域也”者，此依孔传也。案《士丧礼》“筮宅”，郑云：“宅，葬居也。”《诗》云：“临其穴，惴惴其栗。”郑云：“穴谓冢圹中也。”故云“宅，墓穴也”。案《周礼·冢人》：“掌公墓之地，辨其兆域。”则兆是莹域也。云“葬事大，故卜之”者，此依郑注也。孔安国云：“恐其下有伏石，涌水泉，复为市朝之地，故卜之。”是也。<br/>　　○注立庙至享之。<br/>　　○正义曰：立庙者，即《礼记·祭法》天子至士皆有宗庙，云“王立七庙，曰考庙、曰王考庙、曰皇考庙、曰显考庙、曰祖考庙，皆月祭之。远庙为祧，有二祧，享尝乃止。诸侯立五庙，曰考庙、曰王考庙、曰皇考庙，皆月祭之。显考庙、祖考庙，享尝乃止。大夫立三庙，曰考庙、曰王考庙、曰皇考庙、享尝乃止。適士二庙，曰考庙、曰王考庙、享尝乃止。官师一庙曰考庙。庶人无庙”。斯则立宗庙者，为能终於事亲也。旧解云：宗，尊也；庙，貌也，言祭宗庙，见先祖之尊貌也。故《祭义》曰：“祭之日，入室，僾然必有见乎其位；周还出户，忾然必有闻乎其叹息之声。”是也。祔祖，谓以亡者之神祔之於祖也。《檀弓》曰：“卒哭曰‘成事’。是日也，以吉祭易丧祭。明日，祔祖父。”则是卒哭之明日而祔，未卒哭之前皆丧祭也。既祔之后，则以鬼礼享之。然宗庙谓士以上，则春秋祭祀兼於庶人也。<br/>　　○注寒暑至思也。<br/>　　○正义曰：案《祭义》云：“霜露既降，君子履之，必有凄怆之心，非其寒之谓也。春，雨露既濡，君子履之，必有怵惕之心，如将见之。”是也。<br/>　<br/><br/>　　生事爱敬，死事哀慼，生民之本尽矣，死生之义备矣，孝子之事亲终矣。爱敬哀慼，孝行之始终也。备陈死生之义，以尽孝子之情。<br/><br/>　　[疏]生事至终矣。<br/><br/>　　○正义曰：此合结生死之义。言亲生则孝子事之，尽於爱敬；亲死则孝子事之，尽於哀慼。生民之宗本尽矣，死之义理备矣，孝子之事亲终矣。言十八章，具载有此义。<br/>　　○注爱敬至之情。<br/>　　○正义曰：云“爱敬哀慼，孝行之终始也”者，爱敬是孝行之始也，哀慼是孝行之终也。云“备陈死生之义，以尽孝子之情”者，言孝子之情无所不尽也。<br/><br/>【孝经注疏】全书完</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1425-26386.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-1425.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1425.html" action-type="chapterComment" class="comment"><i></i>孝经注疏章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

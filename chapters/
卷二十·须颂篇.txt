@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《论衡》正文_卷二十·须颂篇_王充作品 - 维普阅读网</title>
+<meta name="keywords" content="论衡,论衡原文,论衡阅读,卷二十·须颂篇全文,王充作品" />
+<meta name="description" content="论衡原文阅读,卷二十·须颂篇全文在线阅读,王充作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-247-3858.html";
+var nextpage="novel-read-247-3860.html";
+var indexpage = "novel-chapter-247.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-247.html">论衡</a></strong>
+<strong><a href="novel-chapter-247.html">论衡目录</a></strong>
+<span>卷二十·须颂篇</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-247-3858.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷二十·须颂篇</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王充&amp;searchsubmit=yes"  target="_blank">王充</a><span class="divide">|</span>发布时间：2014-08-24 22:20:11<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>古之帝王建鸿德者，须鸿笔之臣褒颂纪载，鸿德乃彰，万世乃闻。问说《书》者：“‘钦明文思’以下，谁所言也？”曰：“篇家也。”“篇家谁也？”“孔子也。”然则孔子鸿笔之人也。“自卫反鲁，然後乐正，《雅》、《颂》各得其所也。”鸿笔之奋，盖斯时也。或说《尚书》曰：“尚者，上也；上所为，下所书也。”“下者谁也？”曰：“臣子也。”然则臣子书上所为矣。问儒者：“礼言制，乐言作，何也？”曰：“礼者上所制，故曰制；乐者下所作，故曰作。天下太平，颂声作。”方今天下太平矣，颂诗乐声可以作未？传者不知也，故曰拘儒。卫孔悝之鼎铭，周臣劝行。孝宣皇帝称颍川太守黄霸有治状，赐金百斤，汉臣勉政。夫以人主颂称臣子，臣子当褒君父，於义较矣。虞氏天下太平，夔歌舜德；宣王惠周，《诗》颂其行；召伯述职，周歌棠树。是故《周颂》三十一，《殷颂》五，《鲁颂》四，凡《颂》四十篇，诗人所以嘉上也。由此言之，臣子当颂，明矣。<br/><br/>　　儒者谓汉无圣帝，治化未太平。《宣汉》之篇，论汉已有圣帝，治已太平；《恢国》之篇，极论汉德非常实然，乃在百代之上。表德颂功，宣褒主上，《诗》之颂言，右臣之典也。舍其家而观他人之室，忽其父而称异人之翁，未为德也。汉，今天下之家也；先帝、今上民臣之翁也。夫晓主德而颂其美，识国奇而恢其功，孰与疑暗不能也？孔子称“大哉！尧之为君也！唯天为大，唯尧则之。荡荡乎民无能名焉”！或年五十击壤於涂，或曰：“大哉！尧之德也。”击壤者曰： “吾日出而作，日入而息，凿井而饮，耕田而食，尧何等力？”孔子乃言“大哉！尧之德”者，乃知尧者也。涉圣世不知圣主，是则盲者不能别青黄也；知圣主不能颂，是则暗者不能言是非也。然则方今盲喑之儒，与唐击壤之民，同一才矣。夫孔子及唐人言大哉者，知尧德，盖尧盛也；击壤之民云“尧何等力”，是不知尧德也。<br/><br/>　　夜举灯烛，光曜所及，可得度也；日照天下，远近广狭，难得量也。浮於淮、济，皆知曲折；入东海者，不晓南北。故夫广大从横难数，极深，揭历难测。汉德酆广，日光海外也。知者知之，不知者不知汉盛也。汉家著书，多上及殷、周，诸子并作，皆论他事，无褒颂之言，《论衡》有之。又《诗》颂国名《周颂》，杜抚、〔班〕固所上《汉颂》，相依类也。<br/><br/>　　宣帝之时，画图汉列士，或不在於画上者，子孙耻之。何则？父祖不贤，故不画图也。夫颂言，非徒画文也。如千世之後，读经书不见汉美，後世怪之。故夫古之通经之臣，纪主令功，记於竹帛；颂上令德，刻於鼎铭。文人涉世，以此自勉。汉德不及六代，论者不德之故也。<br/><br/>　　地有丘洿，故有高平，或以锸平而夷之，为平地矣。世见五帝、三王为经书，汉事不载，则谓五、三优於汉矣。或以论为�锸，损五、〔三〕，少丰满汉家之下，并为平哉！汉将为丘，五、三转为洿矣。湖池非一，广狭同也，树竿测之，深浅可度。汉与百代俱为主也，实而论之，优劣可见。故不树长竿，不知深浅之度；无《论衡》之论，不知优劣之实。汉在百代之末，上与百代料德，湖池相与比也，无鸿笔之论，不免庸庸之名。论好称古而毁今，恐汉将在百代之下，岂徒同哉！<br/><br/>　　谥者，行之迹也。谥之美者，成、宣也；恶者，灵、历也。成汤遭旱，周宣亦然。然而成汤加“成”，宣王言“宣”，无妄之灾，不能亏政，臣子累谥，不失实也。由斯以论尧，尧亦美谥也，时亦有洪水，百姓不安，犹言尧者，得实考也。夫一字之谥，尚犹明主，况千言之论，万文之颂哉？<br/><br/>　　船车载人，孰与其徒多也？素车朴船，孰与加漆采画也？然则鸿笔之人，国之船车、采画也。农无〔强〕夫，谷粟不登；国无强文，德暗不彰。汉德不休，乱在百代之间，强笔之儒不著载也。高祖以来，著书非不讲论汉。司马长卿为《封禅书》，文约不具。司马子长纪黄帝以至孝武，扬子云录宣帝以至哀、平。陈平仲纪光武。班孟坚颂孝明。汉家功德，颇可观见。今上即命，未有褒载，《论衡》之人，为此毕精，故有《齐世》、《宣汉》、《恢国》、《验符》。<br/><br/>　　龙无云雨不能参天。鸿笔之人，国之云雨也。载国德於传书之上，宣昭名於万世之後，厥高非徒参天也。城墙之土，平地之壤也，人加筑蹈之力，树立临池。国之功德，崇於城墙，文人之笔，劲於筑蹈。圣主德盛功立，〔若〕不褒颂纪载，奚得传驰流去无疆乎？人有高行，或誉得其实，或欲称之不能言，或谓不善，不肯陈一。断此三者，孰者为贤？五、三之际，於斯为盛。孝明之时，众瑞并至，百官臣子，不为少矣，唯班固之徒，称颂国德，可谓誉得其实矣。颂文谲以奇，彰汉德於百代，使帝名如日月，孰与不能言，言之不美善哉？<br/><br/>　　秦始皇东南游，升会稽山，李斯刻石，纪颂帝德。至琅琊亦然。秦无道之国，刻石文世，观读之者见尧、舜之美。由此言之，须颂明矣。当今非无李斯之才也，无从升会稽历琅琊之阶也。弦歌为妙异之曲，坐者不曰善，弦歌之人，必怠不精。何则？妙异难为，观者不知善也。圣国扬妙异之政，众臣不颂，将顺其美，安得所施哉？今方〔技〕之书在竹帛，无主名所从生出，见者忽然，不卸服也。如题曰“〔某〕甲某子之方，”若言“已验尝试，”人争刻写，以为珍秘。上书於国，奏〔记〕於郡，誉荐士吏，称术行能，章下记出，士吏贤妙。何则？章表其行，记明其才也。国德溢炽，莫有宣褒，使圣国大汉有庸庸之名，咎在俗儒不实论也。<br/><br/>　　古今圣王不绝，则其符瑞亦宜累属。符瑞之出，不同於前，或时已有，世无以知，故有《讲瑞》。俗儒好长古而短今，言瑞则渥前而薄後。《是应》实而定之，汉不为少。汉有实事，儒者不称；古有虚美，诚心然之。信久远之伪，忽近今之实。斯盖三增九虚所以成也，《能圣》《实圣》，所以兴也。儒者称圣过实，稽合於汉，汉不能及。非不能及，儒者之说使难及也。〔如〕实论之，汉更难及。谷熟岁平，圣王因缘以立功化，故《治期》之篇，为汉激发。治有期，乱有时。能以乱为治者优，优者有之。建初孟年，无妄气至，圣世之期也。皇帝执德，救备其灾，故《顺鼓》、《明雩》，为汉应变。是故灾变之至，或在圣世。时旱祸湛，为汉论灾。是故《春秋》为汉制法，《论衡》为汉平说。从门应庭，听堂室之言，什而失九，如升堂窥室，百不失一。《论衡》之人在古荒流之地，其远非徒门庭也。<br/><br/>　　日刻径重千里，人不谓之广者，远也。望夜甚雨，月光不暗，人不睹曜者，隐也。圣者垂日月之明，处在中州。隐於百里，遥闻传授，不实。形耀不实，难论。得诏书到，计吏至，乃闻圣政。是以褒功失丘山之积，颂德遗膏腴之美。使至台阁之下，蹈班、贾之迹，论功德之实，不失毫厘之微。武王封比干之墓，孔子显三累之行。大汉之德，非直比干三累也。道立〔邮〕表，路出其下，望〔邮〕表者昭然知路。汉德明著，莫立邦表之言，故浩广之德未光於世也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-247-3858.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-247-3860.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-247.html" action-type="chapterComment" class="comment"><i></i>论衡章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

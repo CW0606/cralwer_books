@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《颅囟经》正文_卷上·病证_不着撰人作品 - 维普阅读网</title>
+<meta name="keywords" content="颅囟经,颅囟经原文,颅囟经阅读,卷上·病证全文,不着撰人作品" />
+<meta name="description" content="颅囟经原文阅读,卷上·病证全文在线阅读,不着撰人作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1009-9943.html";
+var nextpage="novel-read-1009-9945.html";
+var indexpage = "novel-chapter-1009.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1009.html">颅囟经</a></strong>
+<strong><a href="novel-chapter-1009.html">颅囟经目录</a></strong>
+<span>卷上·病证</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1009-9943.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷上·病证</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=不着撰人&amp;searchsubmit=yes"  target="_blank">不着撰人</a><span class="divide">|</span>发布时间：2014-11-23 22:17:54<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　初生小儿鹅口、撮噤，并是出胎客风着颅、脐，致有此。可以小艾灸三壮二及烙之愈。<br/><br/>　　初生小儿至夜啼者，是有瘀血腹痛，夜乘阴而痛则啼。　　初生小儿一月内，乳痢如胶，是母寒气伤胃所致也。<br/><br/>　　初生小儿一月内，乳痢如血，是母胸有滞热所作也。<br/><br/>　　初生小儿一月内，两眼赤者，是在胎之时，母吃灸煿、热面壅滞，气入胎中，熏儿脑所致也。　　小儿温热，皆因从气热而搏胃气。然若下之，平气即愈，气虚则生惊而变痫。<br/><br/>　　小儿惊、痫，一从虚邪、客热相搏而生。其候当用补飬安和即愈，加以性冷及太过即死。<br/><br/>　　小儿哕、逆、吐，皆胃气虚，逆气客于藏气而作。当和胃飬气至如下冷即极。<br/><br/>　　小儿霍乱、吐逆，皆胃气与阴阳气上下交争而作，当用分和补药调飬即愈，余皆死。　　小儿客忤无辜，皆因客入所触及暴露星月。小儿嫩弱，所以此候多恶。　　小儿一、眼青揉痒，是肝疳；二、齿焦，是骨疳；三、肉色鼻中干，是肺疳；四、皮干肉裂，是筋疳；五、发焦黄，是血疳；六、舌上生疮，是心疳；七、爱吃泥土，是脾疳。<br/><br/>　　孩子肌肤肥实、皮肤白，无故烦渴，此自小你猛冲损肺，但依后方，内用“甘草人参合饮子”；若气急、甚胸胀起、鼻连眼下脸青色、呻吟之声者，此必死之兆，不得与药。<br/><br/>　　孩子利如泔、靛者，难效；利如鹅、鸭血者，脾已烂损，不宜与药。　　孩子凡有诸色疾苦，但眼睑下垂牵，必定死矣。<br/><br/>　　孩子疟，皆难效。或发无时，即口噤，咬牙作声，此必死矣，呼为“沥瘠疳疟”，亦名为“锁肠疳”。<br/><br/>　　孩子渴吃乳食，夜啼作声，此即是腹肚痛。　　孩子无故摇头，此是脑顶风。<br/><br/>　　孩子吃乳食皆出，此是脾冷。　　孩子无故肚大、项细、四肢消瘦，筋脉、骨节起，自是小来少乳，嚼食与吃早，成骨热疳劳。先宜与“保童丸”吃，续与“柴胡鳖甲引子”。（“保童丸”方见“一切疳门”中，“柴胡饮子”方见“行迟门”中。）<br/><br/>　　孩儿头面、胸膊肌厚，臂胫细瘦，行走迟者，是小儿抱损。<br/><br/>　　孩子鼻流清涕、或鼻下赤痒，此是脑中、鼻中疳极，宜用后方。“青黛散”吹鼻、兼傅鼻下赤烂处（方见疳疾吹鼻门中）。<br/><br/>　　以前并诊候孩子疾状。孩子气脉未调，藏府脆薄，腠理开疏，看脉以时依方用药。　　孩子或夏中热时，因乳母沐浴多使冷水，你得冷气，血脉皆伏，见孩儿气未定便与你，使孩子多胃毒、及赤、白两般恶痢，此乃是你母之过。凡浴后，可令定息良久，候气定，揉与之，即全无患。　　师巫烧钱，乳毋须预祝之，勿令着水喷儿，皆令惊、热入心，转成患害，切细慎之。<br/><br/>　　凡孩子自生，但任阴阳推移、即每六十日一度变蒸，此骨节长来。四肢发热、或不下食乳，遇如此之时，上唇有珠子如粟粒大，此呼为“变蒸珠子”，以后方“退热饮子”疗之，不宜别与方药。（《幼幼新书》注云：“《颅囟经》以六十日为一变，巢氏《病源》以三十二日为一变，说有不同，故兼存之。）</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1009-9943.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1009-9945.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1009.html" action-type="chapterComment" class="comment"><i></i>颅囟经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《华盖集》正文_答KS君_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="华盖集,华盖集原文,华盖集阅读,答KS君全文,鲁迅作品" />
+<meta name="description" content="华盖集原文阅读,答KS君全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-537-6856.html";
+var nextpage="novel-read-537-6858.html";
+var indexpage = "novel-chapter-537.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-537.html">华盖集</a></strong>
+<strong><a href="novel-chapter-537.html">华盖集目录</a></strong>
+<span>答KS君</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-537-6856.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>答KS君</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 21:40:36<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>KS兄：<br/>　　我很感谢你的殷勤的慰问，但对于你所愤慨的两点和几句结论，我却并不谓然，现在略说我的意见——<br/>　　第一，章士钊将我免职，（2）我倒并没有你似的觉得诧异，他那对于学校的手段，我也并没有你似的觉得诧异，因为我本就没有预期章士钊能做出比现在更好的事情来。我们看历史，能够据过去以推知未来，看一个人的已往的经历，也有一样的效用。你先有了一种无端的迷信，将章士钊当作学者或智识阶级的领袖看，于是从他的行为上感到失望，发生不平，其实是作茧自缚；他这人本来就只能这样，有着更好的期望倒是你自己的误谬。使我较为感到有趣的倒是几个向来称为学者或教授的人们，居然也渐次吞吞吐吐地来说微温话了，什么“政潮”咧，“党”咧，仿佛他们都是上帝一样，超然象外，十分公平似的。谁知道人世上并没有这样一道矮墙，骑着而又两脚踏地，左右稳妥，所以即使吞吞吐吐，也还是将自己的魂灵枭首通衢，挂出了原想竭力隐瞒的丑态。丑态，我说，倒还没有什么丢人，丑态而蒙着公正的皮，这才催人呕吐。但终于使我觉得有趣的是蒙着公正的皮的丑态，又自己开出帐来发表了。仿佛世界上还有光明，所以即便费尽心机，结果仍然是一个瞒不住。<br/>　　第二，你这样注意于《甲寅周刊》（3），也使我莫明其妙。<br/>　　《甲寅》第一次出版时，我想，大约章士钊还不过熟读了几十篇唐宋八大家（4）文，所以模仿吞剥，看去还近于清通。至于这一回，却大大地退步了，关于内容的事且不说，即以文章论，就比先前不通得多，连成语也用不清楚，如“每下愈况”（5）之类。尤其害事的是他似乎后来又念了几篇骈文，没有融化，而急于挦挦（6），所以弄得文字庞杂，有如泥浆混着沙砾一样。即如他那《停办北京女子师范大学呈文》（7）中有云，“钊念儿女乃家家所有良用痛心为政而人人悦之亦无是理”，旁加密圈，想是得意之笔了。但比起何栻《齐姜醉遣晋公子赋》（8）的“公子固翩翩绝世未免有情少年而碌碌因人安能成事”来，就显得字句和声调都怎样陋弱可哂。何挦比他高明得多，尚且不能入作者之林，章士钊的文章更于何处讨生活呢？况且，前载公文，接着就是通信，精神虽然是自己广告性的半官报，形式却成了公报尺牍合璧了，我中国自有文字以来，实在没有过这样滑稽体式的著作。这种东西，用处只有一种，就是可以借此看看社会的暗角落里，有着怎样灰色的人们，以为现在是攀附显现的时候了，也都吞吞吐吐的来开口。至于别的用处，我委实至今还想不出来。倘说这是复古运动的代表，那可是只见得复古派的可怜，不过以此当作讣闻，公布文言文的气绝罢了。<br/>　　所以，即使真如你所说，将有文言白话之争，我以为也该是争的终结，而非争的开头，因为《甲寅》不足称为敌手，也无所谓战斗。倘要开头，他们还得有一个更通古学，更长古文的人，才能胜对垒之任，单是现在似的每周印一回公牍和游谈的堆积，纸张虽白，圈点虽多，是毫无用处的。<br/>　　鲁迅。八月二十日。<br/>　<br/>===============================================================<br/><br/><br/>　　（1）本篇最初发表于一九二五年八月二十八日《莽原》周刊第十九期。<br/>　　（2）章士钊（1881—1973）　字行严，笔名孤桐，湖南长沙人。<br/>　　辛亥革命前曾参加反清活动，五四运动后，他是一个复古主义者。一九二四年至一九二六年间，他参加北洋军阀段祺瑞政治集团，曾任段祺瑞执政府司法总长兼教育总长，参与镇压学生爱国运动和人民群众的爱国斗争；同时创办《甲寅》周刊，提倡尊孔读经，反对新文化运动。一九二五年女师大风潮发生后，由于鲁迅反对章士钊压迫学生的行动和解散女师大的措施，章便于八月十二日呈请段祺瑞罢免鲁迅的教育部佥事职务，次日公布。八月二十二日鲁迅在平政院控诉章士钊，结果胜诉，一九二六年一月十七日复职。后来章士钊在政治、思想上有所变化，转而同情革命。<br/>　　（3）《甲寅周刊》　章士钊主编的杂志。章士钊曾于一九一四年五月在日本东京发行《甲寅》月刊，两年后出至第十期停刊。《甲寅》周刊是他任教育总长之后，一九二五年七月在北京出版的，至一九二七年二月停刊，共出四十五期。其内容杂载公文、通讯，正如鲁迅所说，是“自己广告性的半官报”。他办这个刊物的主旨，一方面为了提倡古文，宣扬封建思想，一方面则为了压制学生和他的反对者，以巩固自己的地位。刊物中除一般地宣传复古外，还有不少诬蔑青年学生、为当时的所谓执政（段祺瑞）捧场和吹嘘他自己的文章。<br/>　　（4）唐宋八大家　指唐代的韩愈、柳宗元和宋代的欧阳修、苏洵、苏轼、苏辙、王安石、曾巩八个散文名家。明代茅坤曾选辑他们的作品为《唐宋八大家文钞》，因有此称。<br/>　　（5）“每下愈况”　语见《庄子·知北游》。章太炎《新方言·释词》：“愈况，犹愈甚也。”章士钊在《甲寅》周刊第一卷第三号（一九二五年八月一日）的《孤桐杂记》中，将这个成语错用成“每况愈下”：“尝论明清相嬗。士气骤衰。……民国承清，每况愈下。”<br/>　　（6）挦撦　意思是摘取和撕扯。一般指剽窃别人的词句。撦，扯的异体字。<br/>　　（7）《停办北京女子师范大学呈文》　这篇呈文曾刊载《甲寅》周刊第一卷第四号（一九二五年八月八日），其中有一部分字句，旁加密圈。<br/>　　（8）何栻（1816—1872）　字廉昉，号悔庵，江苏江阴人。清道光时进士，曾任吉安府知府。著有《悔余庵诗稿》、《悔余庵文稿》等。<br/>　　《齐姜醉遣晋公子赋》见《悔余庵文稿》卷二。<br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-537-6856.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-537-6858.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-537.html" action-type="chapterComment" class="comment"><i></i>华盖集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

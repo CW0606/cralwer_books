@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《周礼》正文_春官宗伯·大宗伯_周公旦作品 - 维普阅读网</title>
+<meta name="keywords" content="周礼,周礼原文,周礼阅读,春官宗伯·大宗伯全文,周公旦作品" />
+<meta name="description" content="周礼原文阅读,春官宗伯·大宗伯全文在线阅读,周公旦作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-34-830.html";
+var nextpage="novel-read-34-832.html";
+var indexpage = "novel-chapter-34.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-34.html">周礼</a></strong>
+<strong><a href="novel-chapter-34.html">周礼目录</a></strong>
+<span>春官宗伯·大宗伯</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-34-830.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>春官宗伯·大宗伯</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=周公旦&amp;searchsubmit=yes"  target="_blank">周公旦</a><span class="divide">|</span>发布时间：2014-07-20 16:54:40<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/>　　大宗伯之职，掌建邦之天神、人鬼、地示之礼，以佐王建保邦国。以吉礼事邦国之鬼神示，以禋祀祀昊天上帝，以实柴祀日、月、星、辰，以槱祀司中、司命、飌师、雨师，以血祭祭社稷、五祀、五岳，以貍沈祭山林川泽，以疈辜祭四方百物。以肆献祼享先王，以馈食享先王，以祠春享先王，以禴夏享先王，以尝秋享先王，以烝冬享先王。以凶礼哀邦国之忧，以丧礼哀死亡，以荒礼哀凶札，以吊礼哀祸灾，以禬礼哀围败，以恤礼哀寇乱。以宾礼亲邦国，春见曰朝，夏见曰宗，秋见曰觐，冬见曰遇，时见曰会，殷见曰同，时聘曰问，殷覜曰视。以军礼同邦国，大师之礼，用众也；大均之礼，恤众也；大田之礼，简众也；大役之礼，任众也；大封之礼，合众也。以嘉礼亲万民，以饮食之礼，亲宗族兄弟；以婚冠之礼，亲成男女；以宾射之礼，亲故旧朋友；以飨燕之礼，亲四方之宾客；以脤膰之礼，亲兄弟之国；以贺庆之礼，亲异姓之国。以九仪之命正邦国之位：壹命受职，再命受服，三命受位，四命受器，五命赐则，六命赐官，七命赐国，八命作牧，九命作伯。以玉作六瑞，以等邦国：王执镇圭，公执桓圭，侯执信圭，伯执躬圭，子执谷璧，男执蒲璧。以禽作六挚，以等诸臣：孤执皮帛，卿执羔，大夫执雁，士执雉，庶人执鹜，工商执鸡。以玉作六器，以礼天地四方：以苍璧礼天，以黄琮礼地，以青圭礼东方，以赤璋礼南方，以白琥礼西方，以玄璜礼北方。皆有牲币，各放其器之色。以天产作阴德，以中礼防之；以地产作阳德，以和乐防之。以礼乐合天地之化，百物之产，以事鬼神，以谐万民，以致百物。凡祀大神、享大鬼、祭大示，帅执事而卜日，宿□涤濯，莅玉鬯，省牲镬，奉玉齍，诏大号，治其大礼，诏相王之大礼。若王不与祭祀，则摄位。凡大祭祀，王后不与，则摄而荐豆笾彻。大宾客，则摄而载果。朝觐、会同，则为上相。大丧亦如之。王哭诸侯亦如之。王命诸侯，则傧。国有大故，则旅上帝及四望。五大封，则先告后土，乃颁祀于邦国、都家、乡邑。<br/><br/>译文：<br/>　　大宗伯的职责，是掌管建立王国对于天神、人鬼、地神的祭祀之礼，以辅佐王建立和安定天下各国。用吉礼祭祀天下各国的人鬼、天神和地神。用禋祀来祭祀昊天上帝，用实柴来祭祀日、月、星、辰，用槱燎来祭祀司中、司命、风师、雨师。<br/><br/>　　用血祭来祭祀社稷、五祀、五岳、用埋沉来祭祀山林、川泽，用毁折牲体来祭祀四方和各种小神。用经解割[而煮熟的]牲肉、牲血和生的牲肉、向地下灌郁鬯来祭祀先王，用黍稷做的饭祭祀先王，[以这样的礼节]用祠祀在春季祭祀先王，用禴祭在夏季祭祀先王，用尝祭在秋季祭祀先王，用烝祭在冬季祭祀先王。<br/><br/>　　用凶礼哀悼天下各国所遭遇的忧伤，用丧礼哀悼死亡，用荒礼哀悼饥馑和疫病，用吊礼哀悼水遭和火灾，用禬礼哀悼被敌国战败的国家，用恤礼哀悼遭受侵犯或有内乱的邻国。用宾礼使天下各国相亲附：春季朝王叫做朝，夏季朝王叫做宗，秋季朝王叫做觐，冬季朝王叫做遇，无定期地会合诸侯叫做会，天下众诸侯国都来朝王叫做同，无定期地[派卿]慰问王叫做问，[每十二年中有三年]众诸侯[派卿]看望王叫做视。<br/><br/>　　用军礼协同天下各国：大军出征之礼，是利用民众[的义勇]；大校比以平均赋税之礼，是忧虑民众[的赋税不均]；举行大田猎之礼，是为了检阅徒众[和战车]；大兴劳役之礼，是为了任用民众[的劳动力]；大规模勘定疆界之礼，是为了聚合民众。用嘉礼使民众相亲和：用饮酒礼和食礼，使宗族兄弟相亲和；用婚礼和冠礼，使男女相亲爱并使[行冠礼的男子]具有成人的德行；用宾射礼，使故旧和朋友相亲和；用飨礼和燕礼，使四方[前来朝聘的]宾客相亲和；用赏赐祭祀社稷和宗庙祭肉之礼，使同姓兄弟[及异姓]之国相亲和；用庆贺之礼，使异姓[及同姓]之国相亲和。<br/><br/>　　用九等仪命，规正诸侯国的地位。一命可接受[国君分派的]职务，再命可接受[国君所赐的]命服，三命可接受[王朝的]臣位，四命可接受[公所赐的]祭器，五命可[由王]赐予一则之地，六命可赐予[在采邑中]自设官吏的权力，七命可出封为侯伯之国，八命可被任命为州牧，九命可担任方伯。<br/><br/>　　[用玉制作六种玉瑞，以区别诸侯的等级。王执镇圭，公执桓圭，侯执信圭，伯执躬圭，子执谷璧，男执蒲璧。用禽兽作六种见面礼，以区别臣的等级。孤拿兽皮裹饰的束帛，卿拿羔羊，大夫拿鹅，士拿野鸡，庶人拿鸭，工商之人拿鸡。<br/><br/>　　用玉制作六种玉器，[祭祀时]用以进献天地四方。用苍璧进献天，用黄琮进献地，用青圭进献东方，用赤璋进献南方，用白琥进献西方，用玄璜进献北方。都有牺牲和束帛，[牲、帛之色]各依照所用玉器的颜色。<br/><br/>　　用动物性食物促使[人体的]阴气动起来，用教人适中的礼来防止[动得过分]；用谷类食物促使[人体的]阳气静下来，用教人和谐的乐来防止[静得过分]。用礼乐配合天地间化生的无生物，以及各种动植物，来祭祀鬼神，和谐万民。<br/><br/>　　凡祭祀大天神，大人鬼，大地神，[事先]率领有关官吏占卜祭祀的日期，[祭前三日]重申对百官的告诫，[祭祀的前夕]视察祭器是否洗涤干净，临视(行裸礼用的]圭瓒，察看煮牲体用的镬，奉上[盛黍稷用的]玉敦，告诉[大祝祭祀对象的]大名号[以便作祝祷辞]，预习王所当行的祭祀礼仪，[到祭礼时]教王并协助王行礼。如果王[因故]不参加祭祀，就代王行祭礼。凡大祭祀，王后[因故]不参加，就代王后进献和彻除豆、笾。招待大宾客，就代王向宾客行裸礼。诸侯朝觐王或王外出会同，就担任上相。有王、王后或太子的丧事，也担任上相。王哭吊死去的诸侯时也担任上相。王策命诸侯，就导引[被策命者]进前受命。<br/><br/>　　国家有凶灾，就旅祭上帝和望祀四方名山大川。王大封诸侯，就先告祭后土。向各诸侯国、各采邑、各乡遂和公邑颁布[所当遵循的]祀典。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-34-830.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-34-832.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-34.html" action-type="chapterComment" class="comment"><i></i>周礼章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

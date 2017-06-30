@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《河东记》正文_辛察_薛渔思作品 - 维普阅读网</title>
+<meta name="keywords" content="河东记,河东记原文,河东记阅读,辛察全文,薛渔思作品" />
+<meta name="description" content="河东记原文阅读,辛察全文在线阅读,薛渔思作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1027-10452.html";
+var nextpage="novel-read-1027-10454.html";
+var indexpage = "novel-chapter-1027.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1027.html">河东记</a></strong>
+<strong><a href="novel-chapter-1027.html">河东记目录</a></strong>
+<span>辛察</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1027-10452.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>辛察</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=薛渔思&amp;searchsubmit=yes"  target="_blank">薛渔思</a><span class="divide">|</span>发布时间：2014-11-27 20:19:32<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　大和四年十二月九日，边上従事魏式暴卒于长安延福里沈氏私庙中。前二日之夕，胜业里有司门令史辛察者，忽患头痛而绝。心上微暖，初见有黄衫人，就其床，以手相就而出。既而返顾本身，则已僵矣。其妻儿等，方抱持号泣，噀水灸灼，一家仓惶。察心甚恶之，而不觉随黄衣吏去矣。至门外，黄衫人踟蹰良久，谓察曰：“君未合去，但致钱二千缗，便当相舍。”察曰：“某素贫，何由致此？”黄衫曰：“纸钱也。”遂相与却入庭际，大呼其妻数声，皆不应。黄衫哂曰：“如此，不可也。”乃指一家僮，致察以手扶其背，因令达语求钱。于是其家果取纸钱焚之。察见纸钱烧讫，皆化为铜钱。黄衫乃次第抽拽积之，又谓察曰：“一等为惠，请兼致脚直送出城。”察思度良久，忽悟其所居之西百余步，有一力车佣载者，亦常往来。遂与黄衫俱诣其门，门即闭关矣。察叩之，车者出曰：“夜已久，安得来耶？”察曰：“有客要相顾，载钱至延平门外。”车曰：“诺。”即来，装其钱讫，察将不行，黄衫又邀曰：“请相送至城门。”三人相引部领，历城西街，抵长兴西南而行。时落月辉辉，钟鼓将动。黄衫曰：“天方曙，不可往矣，当且止延福沈氏庙。”逡巡至焉，其门亦闭。黄衫叩之，俄有一女人，可年五十余，紫裙白襦，自出应门。黄衫谢曰：“夫人幸勿怪，其后日当有公事，方来此庙中。今有少钱，未可遽提去，请借一隙处暂贮收之。后日公事了，即当般取。”女人许之。察与黄衫及车人，共般置其钱于庙西北角。又于户外，见有苇席数领，遂取之覆。才毕，天色方晓，黄衫辞谢而去。察与车者相随归。至家，见其身犹为家人等抱持，灸疗如故，不觉形神合而苏。良久，思如梦非梦，乃曰：“向者更何事？”妻具言家童中恶，作君语，索六百张纸作钱，以焚之，皆如前事。察颇惊异，遽至车子家。车家见察曰：“君来，正解梦耳。夜来所梦，不似寻常。分明自君家，别与黄衫人载一车子钱至延福沈氏庙，历历如在目前。”察愈惊骇。复与车子偕往沈氏庙，二人素不至此，既而宛然昨宵行止。即于庙西北角，见一两片芦席，其下纸缗存焉。察与车夫，皆识夜来致钱之所。即访女人，守门者曰：“庙中但有魏侍御于此，无他人也。”沈氏有臧获，亦住庙旁。闻语其事，及形状衣服，乃泣曰：“我太夫人也。”其夕五更，魏氏一家，闻打门声，使候之，即无所见。如是者三四，式意谓之盗。明日，宣言于县胥，求备之。其日，式夜邀客为煎饼，食讫而卒。察欲验黄衫所言公事，尝自于其侧侦之，至是果然矣。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1027-10452.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1027-10454.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1027.html" action-type="chapterComment" class="comment"><i></i>河东记章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

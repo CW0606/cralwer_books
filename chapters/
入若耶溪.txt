@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《入若耶溪》正文_入若耶溪_王籍作品 - 维普阅读网</title>
+<meta name="keywords" content="入若耶溪,入若耶溪原文,入若耶溪阅读,入若耶溪全文,王籍作品" />
+<meta name="description" content="入若耶溪原文阅读,入若耶溪全文在线阅读,王籍作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-675.html";
+var nextpage="novel-chapter-675.html";
+var indexpage = "novel-chapter-675.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-675.html">入若耶溪</a></strong>
+<strong><a href="novel-chapter-675.html">入若耶溪目录</a></strong>
+<span>入若耶溪</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-675.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>入若耶溪</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王籍&amp;searchsubmit=yes"  target="_blank">王籍</a><span class="divide">|</span>发布时间：2014-10-22 20:28:05<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　艅艎何泛泛，空水共悠悠。<br/><br/>　　阴霞生远岫，阳景逐回流。<br/><br/>　　蝉噪林愈静，鸟鸣山更幽。<br/><br/>　　此地动归念，长年悲倦游。<br/><br/>【注释】<br/>⑴若耶溪：在绍兴市东南，发源于离城区44里的若耶山（今称化山），沿途纳三十六溪溪水，北入鉴湖。早年，上游流经群山，下游两岸竹木丰茂，是一处非常幽雅的旅游胜地。<br/>⑵艅（yú）艎（huáng）：舟名。大船。<br/>⑶泛泛：船行无阻。<br/>⑷空：指天空。<br/>⑸水：指若耶溪<br/>⑹阴霞：山北面的云霞。若耶溪流向自南而北，诗人溯流而上，故曰“阴霞”。<br/>⑺远岫（xiù）：远处的峰峦，这里指若耶山、云门山、何山、陶晏岭、日铸山等隐现的高山。<br/>⑻阳景：指太阳在水中的影子；“景”是“影”的本字。<br/>⑼回流：船向上游行进时岸边倒流的水。<br/>⑽噪：许多鸟或虫子乱叫。<br/>⑾逾：同“愈”，更加。<br/>⑿幽：宁静、幽静<br/>⒀归念：归隐的念头。<br/>⒁长年悲倦游：诗人多年以来就厌倦仕途，却没有归隐，以此而悲伤。倦游：厌倦仕途而思退休。<br/><br/>【译文】<br/>我驾着小舟在若耶溪上悠闲地游玩，天空倒映在水中，水天相和，一起荡悠。晚霞从远处背阳的山头升起，阳光照耀着蜿蜒曲折的水流。蝉声高唱，树林却显得格外宁静；鸟鸣声声，深山里倒比往常更清幽。这地方让我生了归隐之心，我因多年来厌倦仕途却没有归隐而悲伤起来。<br/><br/>【赏析】<br/>　　《梁书·文学传》有这么一段记载：“籍除轻车湘东王谘议参军，随府会稽。郡境有云门天柱山，籍尝游之，或累月不反。至若耶溪，赋诗云：‘蝉噪林逾静，鸟鸣山更幽。’当时以为文外独绝。”<br/>　　上面提到的“籍”，即王籍。诗的开头两句就缴足题面。诗人乘坐一条大船，驶向若耶溪上游，这就是题中的“入”。船不是快速行进，而是任意漂荡，可见诗人此行在于游赏自然。“泛泛”两字，除了写出水域宽阔，还表达了诗人的游兴。一个“何”字，入若耶溪的喜悦之情略略透出。一入若耶溪，马上发现这里的水特别清澈，抬头望天，天空高朗，白云悠悠；低头看水，水映朗空，也是一派悠悠；于是着一“共”字，将本来了然无涉的朗空和清水置于自然的和谐之中。<br/>　　前两句叙写中带有交代性质，接下去四句便具体描写若耶溪的美景了。“阴霞”、“远岫”、“阳景”“回流”，诗人观察很细，落笔非常客观。船是向上游行进的，溪是由南而北流向的，因此，除了题目中用“入”表明外，诗中还用“阴霞”、“回流”作照应。远处写山，近处写水，山水相映，境界奇美。但诗人不满足于此，他以云霞衬群山，以日影照清水，使境界富有了层次感和色彩感。不仅如此，诗人又将静景化动景，一个“生”字，不仅突出云霞的动态美，而且赋予云霞以情趣；一个“逐”字，人的行为赋予日影，仿佛日影像诗人一样正在追逐着回流，想跟艅艎一起行进，到上游去探个美的究竟。如果说“阴霞生远岫，阳景逐回流”从视角落笔，那么“蝉噪林逾静，鸟鸣山更幽”便是从听觉落笔了。这两句被称为“文外独绝”。它的“独绝”可从下列五个方面来阐明：<br/>　　第一，前面写到岫，是远景，写到影，是近景，这里再补写山林，如此写若耶溪，就不是纵向的，而照顾到两旁，就是说，不只是线，还考虑到面。<br/>　　第二，诗人写山林，在于写出若耶溪的幽静。这样幽静的环境，与“阴霞生远岫，阳景逐回流”和谐统一，是开头“泛泛”、“悠悠”情趣的写实。它们共同组成一个境界，为最后两句的抒情张本。<br/>　　第三，写山林的幽静，不是以静写静，而是以动写静。有了知了的鸣叫，山鸟的啼鸣，诗人才感到更加幽静，诚如钱钟书先生在《管锥编》中指出的“寂静之幽深者，每以得声音衬托而愈觉其深”。<br/>　　第四，诗人的情趣在幽静，因此，笔下不是死寂、沉寂、寂静，而是处于清静的状态，并且给人以幽雅的感觉，这是依然充满生命活力的所在。写蝉，写鸟，而且蝉在噪，鸟在鸣，目的就在于此。后来王安石在《钟山绝句》之一中作了另一番描写：“涧水无声绕竹流，竹西花草弄春柔。茅檐相对坐终日，一鸟不鸣山更幽。”就没有幽静的感觉，不能说不是模仿的失败。<br/>　　第五，这两句出以工整的对句形式，读起来有一种整齐美。<br/>　　最后两句抒情。诗人说，若耶溪这样幽静的境界，激起我回乡隐居的情思，使我为长期在外做官感到伤悲。“此地”一顿，将上述描写和感情作一汇总，转入对今后生活的打算，自然贴切，“动”字下得传神，这是其一。景色宜人，却使诗人引出悲绪，实际上这是从反面着笔，说明若耶溪美景给人以喜情，只是没有点明“喜”字罢了，这是其二。诗人游若耶溪的目的在赏心悦目，孰料游完却激起归隐若耶溪的念头，说明诗人长年在外做官并不得意，故“游”前着一“倦”字，这是其三。这样的收结，也明白地告诉读者，王籍是会稽郡人。<br/>　　此诗之后，描写若耶溪的诗作不断涌现，而且或多或少受了它的影响。如崔颢《入若耶溪》：“轻舟去何疾，已到云林境。起坐鱼鸟间，动摇山水影。岩中响自答，溪里言弥静。事事令人幽，停挠向馀景。”孟浩然《耶溪泛舟》：“落景余清辉，轻挠弄溪渚。澄明爱水物，临泛何容与。白首垂钓翁，新妆浣纱女。相看似相识，脉脉不得语。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-675.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-675.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-675.html" action-type="chapterComment" class="comment"><i></i>入若耶溪章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

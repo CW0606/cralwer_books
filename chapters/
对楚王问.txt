@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《对楚王问》正文_对楚王问_宋玉作品 - 维普阅读网</title>
+<meta name="keywords" content="对楚王问,对楚王问原文,对楚王问阅读,对楚王问全文,宋玉作品" />
+<meta name="description" content="对楚王问原文阅读,对楚王问全文在线阅读,宋玉作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-93.html";
+var nextpage="novel-chapter-93.html";
+var indexpage = "novel-chapter-93.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-93.html">对楚王问</a></strong>
+<strong><a href="novel-chapter-93.html">对楚王问目录</a></strong>
+<span>对楚王问</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-93.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>对楚王问</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=宋玉&amp;searchsubmit=yes"  target="_blank">宋玉</a><span class="divide">|</span>发布时间：2014-08-03 18:57:48<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　楚襄王问于宋玉曰：“先生其（1）有遗行与？何士民众庶不誉之甚也（2）！”<br/>　　宋玉对曰：“唯（3），然，有之！愿大王宽其罪，使得毕其辞（4）。客有歌于郢中者，其始曰《下里》、《巴人》，国中属而和者数千人（5）。其为《阳阿》、《薤露》（6），国中属而和者数百人。其为《阳春》、《白雪》（7），国中有属而和者，不过数十人。引商刻羽（8），杂以流徵，国中属而和者，不过数人而已。是其曲弥高，其和弥寡（9）。<br/>　　故鸟有凤而鱼有鲲（10）。凤皇上击九千里，绝云霓，负苍天，足乱浮云，翱翔乎杳冥之上（11）。夫蕃篱之鷃，岂能与之料天地之高哉（12）？鲲鱼朝发昆仑之墟，暴鬐于碣石，暮宿于孟诸（13）。夫尺泽之鲵，岂能与之量江海之大哉（14）？故非独（15）鸟有凤而鱼有鲲，士亦有之。夫圣人瑰意琦行，超然独处，世俗之民（17），又安知臣之所为哉（16）？”<br/><br/>　　【注释】<br/>　　（1）其：用在谓语“有”之前，表示询问，相当于现代汉语的“大概”、“可能”、“或许”等。<br/>　　（2）何士民众庶不誉之甚也：为什么那么多士民不称誉您呀？这是一种委婉的说法，实际的意思是说许多士民在指责你。何，用于句首，与句末的“也”相配合，表示反问或感叹的语气。士民，这里指学道艺或习武勇的人。古代四民之一。众庶，庶民，众民。誉，称誉，赞美。甚，厉害，严重。<br/>　　（3）唯：独立成句，表示对对方的话已经听清楚或同意，相当于现代汉语的“是”、“嗯”等。然：这样。用来代上文所说的情况。<br/>　　（4）愿：希望。毕：完毕，结束。<br/>　　（5）客：外来的人。歌：唱。郢（yǐng）：楚国的国都，在今湖北江陵县西北，《下里》、《巴人》：楚国的民间歌曲，比较通俗低级。下里，乡里。巴人，指巴蜀的人民。国：国都，京城，属（zhǔ）：连接，跟着。和（hè）：跟着唱。<br/>　　（6）《阳阿（-ē）》、《薤露（xiè-）》：两种稍为高级的歌曲。《阳阿》，古歌曲名。《薤露》，相传为齐国东部（今山东东部）的挽歌，出殡时挽柩人所唱。薤露是说人命短促，有如薤叶上的露水，一瞬即干。<br/>　　（7）《阳春》、《白雪》：楚国高雅的歌曲。<br/>　　（8）引：引用。刻：刻画。商、羽、徽：五个音级中的三个。古代音乐有宫、商、角、徵（zhǐ）、羽五个音级，相当于现在简谱中的1、2、3、5、6.杂：夹杂，混合。流。流畅。<br/>　　（9）是：这。弥（mí）：愈，越。<br/>　　（10）凤：凤凰，古代传说中的鸟王。一说雄的叫“凤”，雌的叫“凰”，通常都称作“凤”。鲲（kūn）：古代传说中的一种大鱼。<br/>　　（11）绝：尽，穷。云霓：指高空的云雾。负：背，用背驮东西。苍天：天。翱翔（áoxiáng）：展开翅膀回旋地飞。平：用法相当于介词“于”，在。杳冥（yǎo）：指极远的地方。<br/>　　（12）夫：那，那个。用在作主语的名词之前，起指示作用。下文的“夫”同。藩篱：篱笆。鷃（yàn）：一种小鸟。岂：用在谓语“料”前，与句末的“哉”一起，表示反诘。之：作介词“与”的宾语，代上文的“凤凰”。下文的“岂能与之量江海之大哉”的“岂”、“哉”、“之”同。料（liào）：估量，估计。<br/>　　（13）朝（zhāo）：早晨。发：出发。昆仑：我国西北部的著名大山，西起帕米尔高原东部，横贯新疆、西藏间，东延入青海境内。墟（xū）：土丘。暴：暴露。鬐（qí）：鱼脊。碣石（jié-）：渤海边上的一座山。在今河北昌黎北。孟诸：古代大泽名，在今河南商丘东北、虞城西北。<br/>　　（14）尺泽：尺把大的小池。鲵（ní）：小鱼。量：衡量，计量。<br/>　　（15）非独：不但。<br/>　　（16）瑰意琦行（guī-qí-）：卓越的思想、美好的操行。世俗：指当时的一般人。多含有平常、凡庸的意思。安：怎么，哪里，表示反问。<br/>　　（17）世俗之民：这里是指一般的人，普通人。<br/><br/>　　【译文】<br/>　　楚襄王问宋玉说：“先生也许有不检点的行为吧？为什么士人百姓都那么不称赞你呢？”<br/>　　宋玉回答说：“是的，是这样，有这种情况。希望大王宽恕我的罪过，允许我把话说完。”<br/>　　“有个人在都城里唱歌，起初他唱《下里》、《巴人》，都城里跟着他唱的有几千人；后来唱《阳阿》、《薤露》，都城里跟着他唱的有几百人；等到唱《阳春》、《白雪》的时候，都城里跟着他唱的不过几十人；最后引其声而为商音，压低其声而为羽音，夹杂运用流动的徵声时，都城里跟着他应和的不过几个人罢了。这样看来，歌曲越是高雅，和唱的人也就越少。<br/>　　“所以鸟类中有凤凰，鱼类中有鲲鱼。凤凰展翅上飞九千里，穿越云霓，背负着苍天，两只脚搅乱浮云，翱翔在那极高远的天上；那跳跃在篱笆下面的小鷃雀，岂能和它一样了解天地的高大！鲲鱼早上从昆仑山脚下出发，中午在渤海边的碣石山上晒脊背，夜晚在孟诸过夜；那一尺来深水塘里的小鲵鱼，岂能和它一样测知江海的广阔！<br/>　　“所以不光是鸟类中有凤凰，鱼类中有鲲鱼，士人之中也有杰出人才。圣人的伟大志向和美好的操行，超出常人而独自存在，一般的人又怎能知道我的所作所为呢？”<br/><br/>　　【赏析】<br/>全文结构简洁明晰，一问一答，毫无枝蔓。<br/>《对楚王问》是问对体，即假设主客问答以表达作者自己的思想感情的一种文体。 所以文章一开头，就写楚顷襄王听信谗言，责问宋玉。宋玉宕开一笔，满口承认有“遗行”，不作申辩，只是希望宽恕，让他把话说完。<br/>其次，写宋玉的答辞。其答辞以讲故事的形式，表面与“遗行”无关，实则均为“遗行”进行辩驳。分三个层次：一是讲一位歌手在郢都唱歌，唱“下里巴人”低级通俗的歌时，唱和者数千人；唱“阳阿薤露”较高级的歌时，应和者数百人；唱高雅的“阳春白雪”之歌时，能跟着唱的不过数十人；最后唱高难度的变化无穷的歌时，能和者只有几人。可见“曲高和寡”，暗示智高之人不为人理解。二是以凤凰、鲲鱼与鷃雀、小鲵的对比，说明渺小的鹦雀、小鲵之类的谗佞小人不会理解如凤凰、鲲鱼一类大智者的胸怀与能力。三是以圣人与世俗之民的对比，说明凡夫俗子哪能了解我（圣人）的所作所为。三重对比中，宋玉白比为高雅之乐曲、鸟中之凤、鱼中之鲲、人中“圣”人，说明自己情操高尚，与那些鼠目寸光的谗佞小人有天壤之别，故遭到他们的诬陷也就不足为怪。尽管宋玉没有对“遗行”进行辩解，但“故事”一完，“遗行”之诬也就不攻自破。宋玉的高洁清高、孤芳自赏自然显现，楚顷襄王及周围佞臣的昏庸、恶劣昭然若揭。有力地反驳了楚王的责问，真是笔力千钧，水到渠成。不仅抒发了作者孤高自傲、不同流俗的品格，同时也流露了宋玉在政治上不得意的愤懑之情，具有骚情雅意，隽永无穷！<br/>全文运用比喻，生动形象，理寓其中；逐层推进，逐层深入；答辩一完，戛然而止，如载奔马，干净利落，有余音绕梁之效。<br/>此作的笔法高绝之处，是在“不经意为文”。作者并不是精心着意地作文，只是从生活中撷取普通问对，打打比方，在不经意中表现出自己的思想，流露出隐隐的不满情绪，值得细加玩味。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-93.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-93.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-93.html" action-type="chapterComment" class="comment"><i></i>对楚王问章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

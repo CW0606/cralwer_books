@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《灵枢》正文_本输第二_黄帝作品 - 维普阅读网</title>
+<meta name="keywords" content="灵枢,灵枢原文,灵枢阅读,本输第二全文,黄帝作品" />
+<meta name="description" content="灵枢原文阅读,本输第二全文在线阅读,黄帝作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-268-4578.html";
+var nextpage="novel-read-268-4580.html";
+var indexpage = "novel-chapter-268.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-268.html">灵枢</a></strong>
+<strong><a href="novel-chapter-268.html">灵枢目录</a></strong>
+<span>本输第二</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-268-4578.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>本输第二</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=黄帝&amp;searchsubmit=yes"  target="_blank">黄帝</a><span class="divide">|</span>发布时间：2014-08-29 22:58:10<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>黄帝问于岐伯曰：凡刺之道，必通十二经络之所终始，络脉之所别处，五输之所留，六府之所与合，四时之所出入，五藏之所溜处，阔数之度，浅深之状，高下所至。愿闻其解。岐伯曰：请言其次也。肺出于少商，少商者，手大指端内侧也，为井木；溜于鱼际，鱼际者，手鱼也，为荥；注于太渊，太渊，鱼后一寸陷者中也，为腧；行于经渠，经渠，寸口中也，动而不居，为经；入于尺泽，尺泽，肘中之动脉也，为合；手太阴经也。心出于中冲，中冲，手中指之端也，为井木；溜于劳宫，劳营，掌中中指本节之内间也，为荥；注于大陵，大陵，掌后两骨之间方下者也，为腧；行于间使，间使之道，两筋之间，三寸之中也，有过则至，无过则止，为经；入于曲泽，曲泽，肘内廉下陷者之中也，屈而得之，为合；手少阴也。肝出于大敦，大敦者，足大指之端及三毛之中也，为井木；溜于行间，行间，足大指间也，为荥；注于太冲，太冲，行间上二寸陷者之中也，为腧；行于中封，中封，内踝之前一寸半陷者之中，使逆则宛，使和则通，摇足而得之，为经；入于曲泉，曲泉，辅骨之下，大筋之上也，屈膝而得之，为合；足厥阴也。脾出于隐白，隐白者，足大指之端内侧也，为井木；溜于大都，大都，本节之后下陷者之中也，为荥；注于太白，太白，腕骨之下也，为腧；行于商丘，商丘，内踝之下陷者之中也，为经；入于阴之陵泉，阴之陵泉，辅骨之下陷者之中也，伸而得之，为合；足太阴也。肾出于涌泉，涌泉者，足心也，为井木；溜于然谷，然谷，然骨之下者也，为荥；注于太溪，太溪，内踝之后，跟骨之上陷中者也，为腧；行于复溜，复溜，上内踝二寸，动而不休，为经；入于阴谷，阴谷，辅骨之后，大筋之下，小筋之上也，按之应手，屈膝而得之，为合；足少阴经也。膀胱出于至阴，至阴者，足小指之端也，为井金；溜于通谷，通谷，本节之前外侧也，为荥；注于束骨，束骨，本节之后陷者中也，为腧；过于京骨，京骨，足外侧大骨之下，为原；行于昆仑，昆仑，在外踝之后，跟骨之上，为经；入于委中，委中，腘中央，为合，委而取之。足太阳也。胆出于窍阴，窍阴者，足小指次指之端也，为井金；溜于侠溪，侠溪，足小指次指之间也，为荥；注于临泣，临泣，上行一寸半陷者中也，为腧；过于丘墟，丘墟，外踝之前下陷者中也，为原；行于阳辅，阳辅，外踝之上，辅骨之前，及绝骨之端也，为经；入于阳之陵泉，阳之陵泉，在膝外陷者中也，为合，伸而得之；足少阳也。胃出于厉兑，厉兑者，足大指内次指之端也，为井金；溜于内庭，内庭，次指外间也，为荥；注于陷谷，陷谷者，上中指内间上行二寸陷者中也，为腧；过于冲阳，冲阳，足跗上五寸陷者中也，为原，摇足而得之；行于解溪，解溪，上冲阳一寸半陷者中也，为经；入于下陵，下陵，膝下三寸，胻骨外三里也，为合；复下三里三寸，为巨虚上廉，复下上廉三寸，为巨虚下廉也；大肠属上，小肠属下，足阳明胃脉也。大肠小肠皆属于胃，是足阳明也。三焦者，上合手少阳，出于关冲，关冲者，手小指次指之端也，为井金；溜于液门，液门，小指次指之间也，为荥；注于中渚，中渚，本节之后陷者中也，为腧；过于阳池，阳池，在腕上陷者之中也，为原；行于支沟，支沟，上腕三寸，两骨之间陷者中也，为经；入于天井，天井，在肘外大骨之上陷者中也，为合，屈肘乃得之；三焦下腧，在于足大指之前，少阳之后，出于腘中外廉，名曰委阳，是太阳络也。手少阳经也。三焦者，足少阳、太阳之所将，太阳之别也，上踝五寸，别入贯腨肠，出于委阳，并太阳之正，入络膀胱，约下焦，实则闭癃，虚则遗溺。遗溺则补之，闭癃则泻之。手太阳小肠者，上合于太阳，出于少泽，少泽，小指之端也，为井金；溜于前谷，前谷，在手外廉本节前陷者中也，为荥；注于后溪，后溪者，在手外侧本节之后也，为腧；过于腕骨，腕骨，在手外侧腕骨之前，为原；行于阳谷，阳谷，在锐骨之下陷者中也，为经；入于小海，小海，在肘内大骨之外，去端半寸陷者中也，伸臂而得之，为合，手太阳经也。大肠，上合手阳明，出于商阳，商阳，大指次指之端也，为井金；溜于本节之前二间，为荥；注于本节之后三间，为腧；过于合谷，合谷，在大指歧骨之间，为原；行于阳溪，阳溪，在两筋间陷者中也，为经；入于曲池，在肘外辅骨陷者中，屈臂而得之，为合。手阳明也。是谓五藏六府之腧，五五二十五腧，六六三十六腧也。六府皆出足之三阳，上合于手者也。<br/>　　　 缺盆之中，任脉也，名曰天突；一次任脉侧之动脉，足阳明也，名曰人迎；二次脉，手阳明也，名曰扶突；三次脉，手太阳也，名曰天窗；四次脉，足少阳也，名曰天容；五次脉，手少阳也，名曰天牖；六次脉，足太阳也，名曰天柱；七次脉，颈中央之脉，督脉也，名曰风府。腋内动脉，手太阴也，名曰天府；腋下三寸，手心主也，名曰天池。刺上关者，呿不能欠；刺下关者，欠不能呿。刺犊鼻者，屈不能伸；刺两关者，伸不能屈。<br/>　　　 足阳明，挟喉之动脉也，其腧在膺中。手阳明，次在其腧外，不至曲颊一寸。手太阳，当曲颊。足少阳，在耳下曲颊之后。手少阳，出耳后，上加完骨之上。足太阳，挟项大筋之中发际。阴尺动脉，在五里，五腧之禁也。<br/>　　　 肺合大肠，大肠者，传道之府。心合小肠，小肠者，受盛之府。肝合胆，胆者，中精之府。脾合胃，胃者，五谷之府。肾合膀胱，膀胱者，津液之府也。少阳属肾，肾上连肺，故将两藏。三焦者，中渎之府也，水道出焉，属膀胱，是孤之府也。是六府之所与合者。<br/>　　　 春取络脉诸荥大经分肉之间，甚者深取之，间者浅取之；夏取诸腧孙络肌肉皮肤之上；秋取诸合，余如春法；冬取诸井诸腧之分，欲深而留之。此四时之序，气之所处，病之所舍，藏之所宜。转筋者，立而取之，可令遂已。痿厥者，张而刺之，可令立快也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-268-4578.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-268-4580.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-268.html" action-type="chapterComment" class="comment"><i></i>灵枢章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

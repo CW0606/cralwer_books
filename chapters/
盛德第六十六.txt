@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《大戴礼记》正文_盛德第六十六_汉·戴德作品 - 维普阅读网</title>
+<meta name="keywords" content="大戴礼记,大戴礼记原文,大戴礼记阅读,盛德第六十六全文,汉·戴德作品" />
+<meta name="description" content="大戴礼记原文阅读,盛德第六十六全文在线阅读,汉·戴德作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1427-26427.html";
+var nextpage="novel-read-1427-26429.html";
+var indexpage = "novel-chapter-1427.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1427.html">大戴礼记</a></strong>
+<strong><a href="novel-chapter-1427.html">大戴礼记目录</a></strong>
+<span>盛德第六十六</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1427-26427.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>盛德第六十六</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=汉·戴德&amp;searchsubmit=yes"  target="_blank">汉·戴德</a><span class="divide">|</span>发布时间：2016-07-25 21:52:16<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>圣王之盛德；人民不疾，六畜不疫，五穀不灾，诸侯无兵而正，小民无刑而治，蛮夷怀服。古者天子常以季冬考德，以观治乱得失。凡德盛者治也，德不盛者乱也；德盛者得之也，德不盛者失之也。是故君子考德，而天下之治乱得失，可坐庙堂之上而知也。德盛则脩法，德不盛则饰政，法政而德不衰，故曰王也。凡人民疾、六畜疫、五穀灾者，生於天；天道不顺，生於明堂不饰；故有天灾，即饰明堂也。<br/><br/>　　凡民之为奸邪、窃盗、历法、妄行者，生於不足；不足，生於无度量也；无度量，则小者偷堕，大者侈靡而不知足；故有度量则民足，民足则无为奸邪、窃盗，历法、妄行者。故有奸邪、窃盗、历法、妄行之狱，则饰度量也。<br/><br/>　　凡不孝生於不仁爱也，不仁爱生於丧祭之礼不明，丧祭之礼所以教仁爱也。致爱故能致丧祭，春秋祭祀之不绝，致思慕之心也。夫祭祀致馈养之道也，死且思慕馈养，况於生而存乎？故曰丧祭之礼明，则民孝矣。故有不孝之狱，则饰丧祭之礼。<br/><br/>　　凡弑上生於义不明，义者所以等贵贱、明尊卑；贵贱有序，民尊上敬长矣。民尊上敬长，而弑者，寡有之也。朝聘之礼，所以明义也。故有弑狱，则饰朝聘之礼也。<br/><br/>　　凡斗辨生於相侵陵也，相侵陵生於长幼无序，而教以敬让也；故有斗辨之狱，则饰乡饮酒之礼也。<br/><br/>　　凡淫乱生於男女无别、夫妇无义；昏礼享聘者，所以别男女、明夫妇之义也。故有淫乱之狱，则饰昏礼享聘也。<br/><br/>　　故曰：刑罚之所从生有源，不务塞其源而务刑杀之，是为民设陷以贼之也。刑罚之源，生於嗜欲好恶不节。故明堂，天法也；礼度，德法也；所以御民之嗜欲好恶，以慎天法，以成德法也。刑法者，所以威不行德法者也。<br/><br/>　　故季冬听狱论刑者，所以正法也，法正论吏公行之。是故古者天子孟春论吏德、行，能理功、能德法者为有德，能行德法者为有行，能理德法者为有能，能成德法者为有功。故论吏而法行，事治而成功；季冬正法，孟春论吏，治国之要也。<br/><br/>　　德法者御民之衔也，史者辔也，刑者筴也；天子御者，内史、太史左右手也。古者以法为衔勒，以官为辔，以刑为筴，以人为手，故御天下数百年而不懈堕。善御马者，正衔勒，齐辔筴，均马力，和马心，故口无声，手不摇，筴不用，而马为行也。善御民者：正其德法、饬其官、而均民力，和民心，敬听言不出於口，刑不用而民治，是以民德美之。<br/><br/>　　夫民善其德，必称其人；故今之人称五帝三王者，依然若犹存者，其法诚德，其德诚厚。夫民思其德，心称其人，朝夕祝之，升闻於皇天，上帝歆焉，故永其世而丰其年。不能御民者，弃其德法。譬犹御马，弃衔勒，而专以筴御马，马必伤，车必败；无德法而专以刑法御民，民心走，国必亡。亡德法，民心无所法循，迷惑失道，上必以为乱无道；苟以为乱无道，刑罚必不克，成其无道，上下俱无道。故今之称恶者，必比之於夏桀殷纣，何也？曰法诚不德，其德诚薄。夫民恶之，必朝夕祝之，升闻於皇天，上帝不歆焉；故水旱并兴，灾害生焉。故曰：德法者，御民之本也。<br/><br/>　　古之御政以治天下者，冢宰之官以成道，司徒之官以成德，宗伯之官以成仁，司马之官以成圣，司寇之官以成义，司空之官以成礼。故六官以为辔，司会均入以为軜，故御四马，执六辔，御天地与人与事者，亦有六政。是故善御者，正身同辔，均马力，齐马心，惟其所引而之，以取长道；远行可以之，急疾可以御。天、地与人、事，此四者圣人之所乘也。是故天子御者，太史、内史左右手也，六官亦六辔也；天子三公合以执六官，均五政，齐五法，以御四者，故亦惟其所引而之，以之道则国治，以之德则国安，以之仁则国和，以之圣则国平，以之义则国成，以之礼则国定，此御政之体也。<br/><br/>　　过，失也。人情莫不有过，过而改之，是不过也。是故官属不理，分职不明，法政不一，百事失纪，曰"乱"也；乱则饬冢宰。地宜不殖，财物不蕃，万民饥寒；教训失道，风俗淫僻，百姓流亡，人民散败，曰"危"也；危则饬司徒。父子不亲，长幼无序，君臣上下相乘，曰"不和"也；不和则饬宗伯。贤能失官爵，功劳失赏禄，爵禄失则士卒疾怨，兵弱不用，曰"不平"也；不平则饬司马。刑罚不中，暴乱奸邪不胜，曰"不成"也；不成则饬司寇。百度不审，立事失礼，财务失量曰"贫"也；贫则饬司空。故曰：御者同是车马，或以取千里，或数百里者，所进退缓急异也；治者同是法，或以治、或以乱者，亦所进退缓急异也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1427-26427.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1427-26429.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1427.html" action-type="chapterComment" class="comment"><i></i>大戴礼记章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《文心雕龙》正文_卷十四 杂文_刘勰作品 - 维普阅读网</title>
+<meta name="keywords" content="文心雕龙,文心雕龙原文,文心雕龙阅读,卷十四 杂文全文,刘勰作品" />
+<meta name="description" content="文心雕龙原文阅读,卷十四 杂文全文在线阅读,刘勰作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-665-8495.html";
+var nextpage="novel-read-665-8497.html";
+var indexpage = "novel-chapter-665.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-665.html">文心雕龙</a></strong>
+<strong><a href="novel-chapter-665.html">文心雕龙目录</a></strong>
+<span>卷十四 杂文</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-665-8495.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷十四 杂文</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘勰&amp;searchsubmit=yes"  target="_blank">刘勰</a><span class="divide">|</span>发布时间：2014-10-20 20:51:33<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　智术之子，博雅之人，藻溢于辞，辩盈乎气。苑囿文情，故日新殊致。宋玉含才，颇亦负俗，始造对问，以申其志，放怀寥廓，气实使文。及枚乘攡艳，首制《七发》，腴辞云构，夸丽风骇。盖七窍所发，发乎嗜欲，始邪末正，所以戒膏粱之子也。扬雄覃思文阁，业深综述，碎文琐语，肇为《连珠》，其辞虽小而明润矣。凡此三者，文章之枝派，暇豫之末造也。<br/><br/>　　自《对问》以后，东方朔效而广之，名为《客难》，托古慰志，疏而有辨。扬雄《解嘲》，杂以谐谑，回环自释，颇亦为工。班固《宾戏》，含懿采之华；崔骃《达旨》，吐典言之裁；张衡《应间》，密而兼雅；崔寔《答讥》，整而微质；蔡邕《释诲》，体奥而文炳；景纯《客傲》，情见而采蔚：虽迭相祖述，然属篇之高者也。至于陈思《客问》，辞高而理疏；庾敳《客咨》，意荣而文悴。斯类甚众，无所取才矣。原夫兹文之设，乃发愤以表志。身挫凭乎道胜，时屯寄于情泰，莫不渊岳其心，麟凤其采，此立体之大要也。<br/><br/>　　自《七发》以下，作者继踵，观枚氏首唱，信独拔而伟丽矣。及傅毅《七激》，会清要之工；崔骃《七依》，入博雅之巧；张衡《七辨》，结采绵靡；崔瑗《七厉》，植义纯正；陈思《七启》，取美于宏壮；仲宣《七释》，致辨于事理。自桓麟《七说》以下，左思《七讽》以上，枝附影从，十有馀家。或文丽而义暌，或理粹而辞驳。观其大抵所归，莫不高谈宫馆，壮语畋猎。穷瑰奇之服馔，极蛊媚之声色。甘意摇骨髓，艳词洞魂识，虽始之以淫侈，而终之以居正。然讽一劝百，势不自反。子云所谓“犹骋郑卫之声，曲终而奏雅”者也。唯《七厉》叙贤，归以儒道，虽文非拔群，而意实卓尔矣。<br/><br/>　　自《连珠》以下，拟者间出。杜笃、贾逵之曹，刘珍、潘勖之辈，欲穿明珠，多贯鱼目。可谓寿陵匍匐，非复邯郸之步；里丑捧心，不关西施之颦矣。唯士衡运思，理新文敏，而裁章置句，广于旧篇，岂慕朱仲四寸之珰乎！夫文小易周，思闲可赡。足使义明而词净，事圆而音泽，磊磊自转，可称珠耳。<br/><br/>　　详夫汉来杂文，名号多品。或典诰誓问，或览略篇章，或曲操弄引，或吟讽谣咏。总括其名，并归杂文之区；甄别其义，各入讨论之域。类聚有贯，故不曲述也。<br/><br/>　　赞曰∶<br/><br/>　　伟矣前修，学坚才饱。负文馀力，飞靡弄巧。<br/><br/>　　枝辞攒映，嚖若参昴。慕颦之心，于焉只搅。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-665-8495.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-665-8497.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-665.html" action-type="chapterComment" class="comment"><i></i>文心雕龙章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

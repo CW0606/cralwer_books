@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《呐喊》正文_鸭的喜剧_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="呐喊,呐喊原文,呐喊阅读,鸭的喜剧全文,鲁迅作品" />
+<meta name="description" content="呐喊原文阅读,鸭的喜剧全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-528-6567.html";
+var nextpage="novel-read-528-6569.html";
+var indexpage = "novel-chapter-528.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-528.html">呐喊</a></strong>
+<strong><a href="novel-chapter-528.html">呐喊目录</a></strong>
+<span>鸭的喜剧</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-528-6567.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>鸭的喜剧</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-23.html" target="blank">文学小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-27 19:07:39<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>俄国的盲诗人爱罗先珂⑵君带了他那六弦琴到北京之后不久，便向我诉苦说：“寂寞呀，寂寞呀，在沙漠上似的寂寞呀！”<br/><br/>　　这应该是真实的，但在我却未曾感得；我住得久了，“入芝兰之室，久而不闻其香”⑶，只以为很是嚷嚷罢了。然而我之所谓嚷嚷，或者也就是他之所谓寂寞罢。<br/><br/>　　我可是觉得在北京仿佛没有春和秋。老于北京的人说，地气北转了，这里在先是没有这么和暖。只是我总以为没有春和秋；冬末和夏初衔接起来，夏才去，冬又开始了。<br/><br/>　　一日就是这冬末夏初的时候，而且是夜间，我偶而得了闲暇，去访问爱罗先珂君。他一向寓在仲密君的家里；这时一家的人都睡了觉了，天下很安静。他独自靠在自己的卧榻上，很高的眉棱在金黄色的长发之间微蹙了，是在想他旧游之地的缅甸，缅甸的夏夜。“这样的夜间，”他说，“在缅甸是遍地是音乐。房里，草间，树上，都有昆虫吟叫，各种声音，成为合奏，很神奇。其间时时夹着蛇鸣：‘嘶嘶！’可是也与虫声相和协……”他沉思了，似乎想要追想起那时的情景来。<br/><br/>　　我开不得口。这样奇妙的音乐，我在北京确乎未曾听到过，所以即使如何爱国，也辩护不得，因为他虽然目无所见，耳朵是没有聋的。<br/><br/>　　“北京却连蛙鸣也没有……”他又叹息说。<br/><br/>　　“蛙鸣是有的！”这叹息，却使我勇猛起来了，于是抗议说，“到夏天，大雨之后，你便能听到许多虾蟆叫，那是都在沟里面的，因为北京到处都有沟。”<br/><br/>　　“哦……”<br/><br/>　　过了几天，我的话居然证实了，因为爱罗先珂君已经买到了十几个科斗子。他买来便放在他窗外的院子中央的小池里。那池的长有三尺，宽有二尺，是仲密所掘，以种荷花的荷池。从这荷池里，虽然从来没有见过养出半朵荷花来，然而养虾蟆却实在是一个极合式的处所。科斗成群结队的在水里面游泳；爱罗先珂君也常常踱来访他们。有时候，孩子告诉他说，“爱罗先珂先生，他们生了脚了。”他便高兴的微笑道，“哦！”<br/><br/>　　然而养成池沼的音乐家却只是爱罗先珂君的一件事。他是向来主张自食其力的，常说女人可以畜牧，男人就应该种田。所以遇到很熟的友人，他便要劝诱他就在院子里种白菜；也屡次对仲密夫人劝告，劝伊养蜂，养鸡，养猪，养牛，养骆驼。后来仲密家果然有了许多小鸡，满院飞跑，啄完了铺地锦的嫩叶，大约也许就是这劝告的结果了。<br/><br/>　　从此卖小鸡的乡下人也时常来，来一回便买几只，因为小鸡是容易积食，发痧，很难得长寿的；而且有一匹还成了爱罗先珂君在北京所作唯一的小说《小鸡的悲剧》⑷里的主人公。有一天的上午，那乡下人竟意外的带了小鸭来了，咻咻的叫着；但是仲密夫人说不要。爱罗先珂君也跑出来，他们就放一个在他两手里，而小鸭便在他两手里咻咻的叫。他以为这也很可爱，于是又不能不买了，一共买了四个，每个八十文。<br/><br/>　　小鸭也诚然是可爱，遍身松花黄，放在地上，便蹒跚的走，互相招呼，总是在一处。大家都说好，明天去买泥鳅来喂他们罢。爱罗先珂君说，“这钱也可以归我出的。”<br/><br/>　　他于是教书去了；大家也走散。不一会，仲密夫人拿冷饭来喂他们时，，在远处已听得泼水的声音，跑到一看，原来那四个小鸭都在荷池里洗澡了，而且还翻筋斗，吃东西呢。等到拦他们上了岸，全池已经是浑水，过了半天，澄清了，只见泥里露出几条细藕来；而且再也寻不出一个已经生了脚的科斗了。<br/><br/>　　“伊和希珂先，没有了，虾蟆的儿子。”傍晚时候，孩子们一见他回来，最小的一个便赶紧说。<br/><br/>　　“唔，虾蟆？”<br/><br/>　　仲密夫人也出来了，报告了小鸭吃完科斗的故事。<br/><br/>　　“唉，唉！……”他说。<br/><br/>　　待到小鸭褪了黄毛，爱罗先珂君却忽而渴念着他的“俄罗斯母亲”⑸了，便匆匆的向赤塔去。<br/><br/>　　待到四处蛙鸣的时候，小鸭也已经长成，两个白的，两个花的，而且不复咻咻的叫，都是“鸭鸭”的叫了。荷花池也早已容不下他们盘桓了，幸而仲密的住家的地势是很低的，夏雨一降，院子里满积了水，他们便欣欣然，游水，钻水，拍翅子，“鸭鸭”的叫。<br/><br/>　　现在又从夏末交了冬初，而爱罗先珂君还是绝无消息，不知道究竟在那里了。<br/><br/>　　只有四个鸭，却还在沙漠上“鸭鸭”的叫。<br/><br/>　　　　　　　　　　　　　　　　　　　　　　　　　一九二二年十月。<br/><br/><br/><br/>　　□注释<br/><br/>　　⑴本篇最初发表于一九二二年十二月上海《妇女杂志》第八卷第十二号。<br/><br/>　　⑵爱罗先珂（1889—1952）：俄国诗人和童话作家。童年时因病双目失明。曾先后到过日本、泰国、缅甸、印度。一九二一年在日本因参加“五一”游行被驱逐出境，后辗转来到我国。一九二二年从上海到北京，曾在北京大学、北京世界语专门学校任教。一九二三年回国。他用世界语和日语写作，鲁迅曾译过他的作品《桃色的云》、《爱罗先珂童话集》等。<br/><br/>　　⑶“入芝兰之室，久而不闻其香”：语见《孔子家语·六本》。<br/><br/>　　⑷《小鸡的悲剧》：童话。鲁迅于一九二二年七月译出，发表于同年九月上海《妇女杂志》第八卷第九号，后收入《爱罗先珂童话集》。<br/><br/>　　⑸“俄罗斯母亲”：俄罗斯人民对祖国的爱称。〔《呐喊》〕</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-528-6567.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-528-6569.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-528.html" action-type="chapterComment" class="comment"><i></i>呐喊章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

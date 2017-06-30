@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《春雨》正文_春雨_李商隐作品 - 维普阅读网</title>
+<meta name="keywords" content="春雨,春雨原文,春雨阅读,春雨全文,李商隐作品" />
+<meta name="description" content="春雨原文阅读,春雨全文在线阅读,李商隐作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-1180.html";
+var nextpage="novel-chapter-1180.html";
+var indexpage = "novel-chapter-1180.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1180.html">春雨</a></strong>
+<strong><a href="novel-chapter-1180.html">春雨目录</a></strong>
+<span>春雨</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-1180.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>春雨</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=李商隐&amp;searchsubmit=yes"  target="_blank">李商隐</a><span class="divide">|</span>发布时间：2015-02-10 14:38:41<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　怅卧新春白袷衣，白门寥落意多违。<br/>　　红楼隔雨相望冷，珠箔飘灯独自归。<br/>　　远路应悲春�晚，残宵犹得梦依稀。<br/>　　玉珰缄札何由达，万里云罗一雁飞。<br/><br/>【注释】<br/>1.白袷衣：即白夹衣，唐人以白衫为闲居便服。<br/>2.白门：金陵的别称，即现南京。南朝乐府民歌《杨叛儿》说：“暂出白门前，杨柳可藏乌。欢作沉水香，侬作博山炉”，讲的是男女欢会。后人常用“白门”指代男女幽会之地。<br/>3.红楼：华美的楼房，多指女子的住处。<br/>4.珠箔：珠帘，此处比喻春雨细密。<br/>5.晼晚：夕阳西下的光景，此处还蕴涵年复一年、人老珠黄之意。<br/>6.依稀，形容梦境的忧伤迷离。<br/>7.玉珰：是用玉做的耳坠，古代常用环佩、玉珰一类的饰物作为男女定情的信物。<br/>8.缄札：指书信。<br/>9.云罗：像螺纹般的云片，阴云密布如罗网，比喻路途艰难。<br/><br/>【译文】<br/>含韵译文<br/>新春，我穿着白夹衣怅然地卧床；<br/>幽会的白门冷落了，我心中惘然。<br/>隔着雨丝凝视红楼，我倍觉冷寂；<br/>珠箔般雨滴飘打灯笼，独自归返。<br/>你在远路，到春晚应更悲凄伤感？<br/>只有残宵能梦中聚首，依稀空泛。<br/>耳环情书已备好，怎么才能送达；<br/>只寄希望于万里长空，飞来鸿雁。<br/><br/>直译<br/>译文一<br/>我独自和衣怅卧，在这微雨迷茫的新春之夜。多少次我流连白门欢会处，却只见它蒙上了一层忧郁，我只能寂寞惆怅。依然记得不久前，我来到你的楼下，隔着迷蒙的春雨，遥望你住过的红楼。早已人去楼空，倍觉凄凉冷落。我黯然转身离去，细雨在暗淡的灯光下飘洒，恰似珠帘轻扬。亲爱的你应在远去的路上吧，面对日暮春晚，你会触动悲春么？可怜我只能在残夜的迷梦中才能与你相会，于是每夜梦底的幽秘，挑逗着我的心还有你纯洁的灵魂。我渴求赠上玉档书札，却不知如何相送。万里长空阴云密布如罗网，一只雁儿在孤独地飞翔。<br/>译文二<br/>新春时节穿着一件夹衣，怅然而卧，白门寂寞，有很多不如意的事。隔着雨凝视着那座红楼，感到孤寒凄冷，在珠帘般的细雨和飘摇的灯光中独自回来。遥远的路途上应该悲伤春天将要过去，在残宵的梦中还依稀可以与你相见。玉珰和书信怎么样才可以送给你？万里阴云下只有一只大雁飞过。<br/><br/>【赏析】<br/>　　《春雨》抒写了诗人与情人相见时的欢乐，离别后的怀思和失恋中强烈的痛苦。诗人重寻旧地，不见所爱女子，因而惆怅不已。诗中借助飘洒的迷蒙的春雨烘托别离的寥落与怅惘，渲染伤春怀远、音书难寄的苦闷，创造出情景交融的艺术境界。<br/>　　李商隐在这首诗中，赋予爱情以优美动人的形象。诗借助于飘洒天空的春雨 ，融入主人公迷茫的心境、依稀的梦境，以及春晼晚、万里云罗等自然景象，烘托别离的寥落，思念的深挚，构成浑然一体的艺术境界 。“红楼隔雨相望冷，珠箔飘灯独自归”一联，前一句色彩（红）和感觉（冷）互相比照。红的色彩本来是温暖的，但隔雨怅望反觉其冷；后一句珠箔本来是明丽的，却出之于灯影前对雨帘的幻觉，极细微地写出主人公寥寂而又迷茫的心理状态。末联“玉珰缄札何由达，万里云罗一雁飞 ”，也富于象征色彩。特别有创造性地借助于自然景，把“锦书难托”的预感形象化了，并把忧郁怅惘的情绪与广阔的云天，融为一体。凡此，都成功地表现出了主人公的生活、处境和感情，情景、色调和气氛都令人久久难忘。这种真挚动人的感情和优美生动的形象结合在一起，构成一种艺术魅力，在它面前，人们是免不了要支付出自己的同情的。<br/>　　李商隐的爱情诗含蓄蕴藉、幽美凄艳。他致力于情思意绪的体验、把握与再现，用幽微隐约、迂回曲折的方式，将心中的朦胧意绪转化为恍惚迷离的意象。他善用哀婉的情调、美丽的意象与辞采，表达复杂的心绪。在这首诗中，红楼、珠箔、春雨、灯影等意象，加上迷茫的心境、依稀的梦境，使诗境凄美幽约；春晚日暮和云罗万里，则烘托出离别的寥落、思念的深挚。<br/>　　同时，李商隐的爱情诗内涵极为丰厚，决不仅仅围绕单一的情绪反复吟唱，而是虚虚实实，忽此忽彼，或今或昔，一重情思套着另一重情思。将难言的情感表现得生动而丰富，却又让人只可意会，难以言传。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-1180.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-1180.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1180.html" action-type="chapterComment" class="comment"><i></i>春雨章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

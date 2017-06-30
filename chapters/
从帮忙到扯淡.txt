@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《且介亭杂文二集》正文_从帮忙到扯淡_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="且介亭杂文二集,且介亭杂文二集原文,且介亭杂文二集阅读,从帮忙到扯淡全文,鲁迅作品" />
+<meta name="description" content="且介亭杂文二集原文阅读,从帮忙到扯淡全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-545-7332.html";
+var nextpage="novel-read-545-7334.html";
+var indexpage = "novel-chapter-545.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-545.html">且介亭杂文二集</a></strong>
+<strong><a href="novel-chapter-545.html">且介亭杂文二集目录</a></strong>
+<span>从帮忙到扯淡</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-545-7332.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>从帮忙到扯淡</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-02 22:24:48<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>“帮闲文学”（２）曾经算是一个恶毒的贬辞，——但其实是误解的。 <br/><br/>　　《诗经》是后来的一部经，但春秋时代，其中的有几篇就用之于侑酒；屈原（３）是“楚辞”的开山老祖，而他的《离骚》，却只是不得帮忙的不平。到得宋玉（４），就现有的作品看起来，他已经毫无不平，是一位纯粹的清客了。然而《诗经》是经，也是伟大的文学作品；屈原宋玉，在文学史上还是重要的作家。为什么呢？——就因为他究竟有文采。 <br/><br/>　　中国的开国的雄主，是把“帮忙”和“帮闲”分开来的，前者参与国家大事，作为重臣，后者却不过叫他献诗作赋，“俳优蓄之”（５），只在弄臣之例。不满于后者的待遇的是司马相如（６），他常常称病，不到武帝面前去献殷勤，却暗暗的作了关于封禅的文章，藏在家里，以见他也有计画大典——帮忙的本领，可惜等到大家知道的时候，他已经“寿终正寝”了。然而虽然并未实际上参与封禅的大典，司马相如在文学史上也还是很重要的作家。为什么呢？就因为他究竟有文采。但到文雅的庸主时，“帮忙”和“帮闲”的可就混起来了，所谓国家的柱石，也常是柔媚的词臣，我们在南朝的几个末代时，可以找出这实例。然而主虽然“庸”，却不“陋”，所以那些帮闲者，文采却究竟还有的，他们的作品，有些也至今不灭。 <br/><br/>　　谁说“帮闲文学”是一个恶毒的贬辞呢？ <br/><br/>　　就是权门的清客，他也得会下几盘棋，写一笔字，画画儿，识古董，懂得些猜拳行令，打趣插科，这才能不失其为清客。也就是说，清客，还要有清客的本领的，虽然是有骨气者所不屑为，却又非搭空架者所能企及。例如李渔的《一家言》（７），袁枚的《随园诗话》（８），就不是每个帮闲都做得出来的。必须有帮闲之志，又有帮闲之才，这才是真正的帮闲。如果有其志而无其才，乱点古书，重抄笑话，吹拍名士，拉扯趣闻，而居然不顾脸皮，大摆架子，反自以为得意，——自然也还有人以为有趣，——但按其实，却不过“扯淡”而已。帮闲的盛世是帮忙，到末代就只剩了这扯淡。 <br/><br/>　　六月六日。 <br/><br/>　　==========================================================================<br/><br/><br/>　　（１）本篇写成时未能刊出，后来发表于一九三五年九月《杂文》月刊第三号。参看本书《后记》。 <br/><br/>　　（２）“帮闲文学”作者一九三二年曾在《帮忙文学与帮闲文学》（后收入《集外集拾遗》）的讲演中说：“那些会念书会下棋会画画的人，陪主人念念书，下下棋，画几笔画，这叫做帮闲，也就是篾片！所以帮闲文学又名篾片文学。” <br/><br/>　　（３）屈原（约前３４０—约前２７８）名平，字原，又字灵均，战国后期楚国诗人，楚怀王时官左徒，主张修明政治，联齐抗秦，但不见容于贵族集团而屡遭迫害，后被顷襄王放逐到沅、湘流域，终于投江而死。《离骚》是他被放逐后的作品。 <br/><br/>　　（４）宋玉战国后期楚国诗人，顷襄王时任大夫，著有《九辩》等。《史记·屈原贾生列传》中说他与唐勒、景差等“皆好辞而以赋见称，然皆祖屈原之从容辞令，终莫敢直谏”。 <br/><br/>　　（５）“俳优蓄之”语见《汉书·严助传》：“朔（东方朔）、皋（枚皋）不根持论，上颇俳优蓄之。” <br/><br/>　　（６）司马相如（约前１７９—前１１７）字长卿，蜀郡成都人，汉代辞赋家。《史记·司马相如列传》说他“称病闲居，不慕官爵”。又说：“相如既病免，家居茂陵。天子曰：‘司马相如病甚，可往从悉取其书；若不然，后失之矣。’使所忠往，而相如已死，家无书。问其妻，对曰：‘长卿固未尝有书也。时时著书，人又取去，即空居。长卿未死时，为一卷书，曰有使者来求书，奏之。无他书。’其遗札书言封禅事，奏所忠。忠奏其书，天子异之。” <br/><br/>　　（７）李渔（１６１１—约１６７９）号笠翁，浙江兰溪人，清初戏曲作家。《一家言》，又名《闲情偶寄》，是他的诗文杂著，共六卷。（８）袁枚（１７１６—１７９８）字子才，浙江钱塘（今杭州）人，清代诗人。曾任江宁知县，辞官后筑随园于江宁城西小仓山，自号随园。著有《小仓山房全集》，其中收《随园诗话》十五卷，补遗十卷。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-545-7332.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-545-7334.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-545.html" action-type="chapterComment" class="comment"><i></i>且介亭杂文二集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

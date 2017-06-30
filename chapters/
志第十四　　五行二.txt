@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《后汉书》正文_志第十四　　五行二_范晔作品 - 维普阅读网</title>
+<meta name="keywords" content="后汉书,后汉书原文,后汉书阅读,志第十四　　五行二全文,范晔作品" />
+<meta name="description" content="后汉书原文阅读,志第十四　　五行二全文在线阅读,范晔作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-653-8075.html";
+var nextpage="novel-read-653-8077.html";
+var indexpage = "novel-chapter-653.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-653.html">后汉书</a></strong>
+<strong><a href="novel-chapter-653.html">后汉书目录</a></strong>
+<span>志第十四　　五行二</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-653-8075.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>志第十四　　五行二</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=范晔&amp;searchsubmit=yes"  target="_blank">范晔</a><span class="divide">|</span>发布时间：2014-10-18 19:43:42<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　灾火　草妖　羽虫孽　羊祸<br/><br/>　　《五行传》曰：“弃法律，郑玄注《尚书大传》曰：“东井主法令也。”逐功臣，郑玄曰：“功臣制法律者也。或曰，喙主尚食、七星主衣裳，张为食厨，翼主天倡。经曰：‘帝曰：臣作朕股肱耳目，予欲左右有民，汝翼。予欲观古人之象，日、月、星辰、山、龙、华虫，作缋宗彝，藻、火、粉、米、黼、黻、絺绣，以五采章施于五色作服，汝明。予欲闻六律、五声、八音，在治忽，以出纳五言，汝听。’是则食与服乐，臣之所用为大功也。七星北有酒旗，南有天厨，翼南有器府。”杀太子，郑玄曰：“五行火生土，天文以参继东井，四时以秋代夏，杀太子之象也。《春秋传》曰：‘夫千乘之主，将废正而立不正，必杀正也。’”以妾为妻，郑玄曰：“轩辕为后妃，属南宫。其大星女主之位。女御在前，妾为妻之象也。”则火不炎上。”郑玄曰：“君行此四者，为逆天南宫之政。南宫于地为火，火性炎上，然行人所用烹饪者也，无故因见作热，燔炽为害，是为火不炎上。其他变异，皆属沴。”《春秋考异邮》曰：“火者，阳之精也。人合天气五行阴阳，极阴反阳，极阳生阴，故应人行以灾不祥，在所以感之，萌应转旋，从逆殊心也。”谓火失其性而为灾也。又曰：“视之不明，是谓不悊。郑玄曰：“视，了也。君视不明，则是不能了其事也。”《洪范》曰：“视曰明。”厥咎舒，谶曰：“君舒怠，臣下有倦，白黑不别，贤不肖并，不能忧民急，气为之舒缓，草不摇。”郑玄曰：“君臣不了则舒缓矣。”厥罚常燠，郑玄曰：“视曰火，火主夏。夏气长，长气失，故常燠。”厥极疾。郑玄曰：“长气失，故于人为疾。”时则有草妖，郑玄曰：“草，视之物可见者，莫众于草。”时则有蠃虫之孽，郑玄曰：“蚕螟虫之类。虫之生于火而藏于秋者也。”时则有羊祸郑玄曰：“羊畜之远视者也，属视。”时则有赤眚、赤祥，惟水沴火。”蠃虫，刘歆传以为羽虫。<br/><br/>　　建武中，渔阳太守彭宠被征。书至，明日潞县火，灾起城中，飞出城外，燔千余家，杀人。京房《易传》曰：“上不俭，下不节，盛火数起，燔宫室。”儒说火以明为德而主礼。时宠与幽州牧朱浮有隙，疑浮见浸谮，故意狐疑，其妻劝无应征，遂反叛攻浮，卒诛灭。《古今注》曰：“建武六年十二月，雒阳市火。二十四年正月戊子，雷雨霹雳，火灾高庙北门。明帝永平元年六月己亥，桂阳见火飞来，烧城寺。章帝建初元年十二月，北宫火烧寿安殿，延及右掖门。元和三年六月丙午，雷雨，火烧北宫朱爵西阙。”<br/><br/>　　和帝永元八年十二月丁巳，南宫宣室殿火。是时和帝幸北宫，窦太后在南宫。明年，窦太后崩。<br/><br/>　　十三年八月己亥，北宫盛馔门合火。是时和帝幸邓贵人，阴后宠衰怨恨，上有欲废之意。明年，会得阴后挟伪道事，遂废迁于桐宫，以忧死，立邓贵人为皇后。<br/><br/>　　十五年六月辛酉，汉中城固南城门灾。此孝和皇帝将绝世之象也。其后二年，宫车晏驾，殇帝及平原王皆早夭折，和帝世绝。<br/><br/>　　安帝《古今注》曰：“永初元年十二月，河南郡县火，烧杀百五人。二年，河南郡县又失火，烧五百八十四人。”永初二年四月甲寅，汉阳阿阳城中失火，烧杀三千五百七十人。先是和帝崩，有皇子二人，皇子胜长，邓皇后贪殇帝少，欲自养长立之。延平元年，殇帝崩。胜有厥疾不笃，群臣咸欲立之，太后以前既不立胜，遂更立清河王子，是为安帝。司空周章等心不厌服，谋欲诛邓氏，废太后、安帝，而更立胜。元年十一月，事觉，章等被诛。其后凉州叛羌为害大甚，凉州诸郡寄治冯翊、扶风界。及太后崩，邓氏被诛。<br/><br/>　　四年三月戊子，杜陵园火。<br/><br/>　　元初四年二月壬戌，武库火。《东观书》曰：“烧兵物百二十五种，直千万以上。”是时羌叛，大为寇害，发天下兵以攻御之，积十余年未已，天下厌苦兵役。<br/><br/>　　延光元年八月戊子，阳陵园寝殿火。凡灾发于先陵，此太子将废之象也。若曰：不当废太子以自翦，如火不当害先陵之寝也。明年，上以谗言废皇太子为济阴王。后二年，宫车晏驾。中黄门孙程等十九人起兵殿省，诛贼臣，立济阴王。<br/><br/>　　四年秋七月乙丑，渔阳城门楼灾。<br/><br/>　　顺帝永建三年七月丁酉，茂陵园寝灾。《古今注》曰：“二年五月戊辰，守宫失火，烧宫藏财物尽。四年，河南郡县失火，烧人六畜。”<br/><br/>　　阳嘉元年，恭陵庑灾，及东西莫府火。《古今注》曰：“十二月，河南郡国火烧庐舍，杀人”也。太尉李固以为奢僭所致。陵之初造，祸及枯骨，规广治之尤饰。又上欲更造宫室，益台观，故火起莫府，烧材木。<br/><br/>　　永和元年十月丁未，承福殿火。臣昭案《杨厚传》是灾。先是爵号阿母宋娥为山阳君；后父梁商本国侯，又多益商封；商长子冀当继商爵，以商生在，复更封冀为襄邑侯；追号后母为开封君：皆过差非礼。《古今注》曰：“六年十二月，雒阳酒市失火，烧肆，杀人。”<br/><br/>　　汉安元年三月甲午，雒阳刘汉等百九十七家为火所烧，《东观书》曰：“其九十家不自存，诏赐钱廪谷。”《古今注》曰：“火或从室屋闲物中，不知所从起，数月乃止。十二月，雒阳失火。”后四年，宫车比三晏驾，建和元年君位乃定。<br/><br/>　　桓帝建和二年五月癸丑，北宫掖庭中德阳殿火，及左掖门。先是梁太后兄冀挟奸枉，以故太尉李固、杜乔正直，恐害其事，令人诬奏固、乔而诛灭之。是后梁太后崩，而梁氏诛灭。<br/><br/>　　延熹四年正月辛酉，南宫嘉德殿火。戊子，丙署火。二月壬辰，武库火。五月丁卯，原陵长寿门火。先是亳后因贱人得幸，号贵人，为后。上以后母宣为长安君，封其兄弟，爱宠隆崇，又多封无功者。去年春，白马令李云坐直谏死。至此彗除心、尾，火连作。<br/><br/>　　五年正月壬午，南宫丙署火。四月乙丑，恭北陵东阙火。戊辰，虎贲掖门火。五月，康陵园寝火。甲申，中藏府承禄署火。七月己未，南宫承善闼内火。<br/><br/>　　六年四月辛亥，康陵东署火。七月甲申，平陵园寝火。<br/><br/>　　八年二月己酉，南宫嘉德署、黄龙、千秋万岁殿皆火。四月甲寅，安陵园寝火。闰月，南宫长秋、和欢殿后钩盾、掖庭朔平署各火。十一月壬子，德阳前殿西合及黄门北寺火，杀人。《袁山松书》曰：“是时连月有火灾，诸宫寺或一日再三发。又夜有讹言，击鼓相惊。陈蕃、刘矩、刘茂上疏谏曰：‘古之火皆君弱臣强，极阴之变也。前始春而狱刑惨，故火不炎上。前入春节连寒，木冰，暴风折树，又八九州郡并言陨霜杀菽。《春秋》晋执季孙行父，木为之冰。夫气弘则景星见，化错则五星开，日月蚀。灾为已然，异为方来，恐卒有变，必于三朝，唯善政可以已之。愿察臣前言，不弃愚忠，则元元幸甚。’书奏不省。”<br/><br/>　　九年三月癸巳，京都夜有火光转行，民相惊噪。《袁山松书》曰：“是时宦竖专朝，钩党事起，上寻无嗣，陈蕃、窦武为曹节等所害，天下无复纪纲。”<br/><br/>　　灵帝熹平四年五月，延陵园灾。<br/><br/>　　光和四年闰月辛酉，北宫东掖庭永巷署灾。陈蕃谏云：“楚女悲而西宫灾，不御宫女，怨之所致也。”<br/><br/>　　五年五月庚申，德阳前殿西北入门内永乐太后宫署火。<br/><br/>　　中平二年二月己酉，南宫云台灾。庚戌，乐成门灾，南宫中门。延及北阙，度道西烧嘉德、和欢殿。案云台之灾自上起，榱题数百，同时并然，若就县华镫，其日烧尽，延及白虎、威兴门、尚书、符节、兰台。夫云台者，乃周家之所造也，图书、术籍、珍玩、宝怪皆所藏在也。京房《易传》曰：“君不思道，厥妖火烧宫。”是时黄巾作慝，变乱天常，七州二十八郡同时俱发，命将出众，虽颇有所禽，然宛、广宗、曲阳尚未破坏，役起负海，杼柚空悬，百姓死伤已过半矣。而灵帝曾不克己复礼，虐侈滋甚，尺一雨布，驺骑电激，官非其人，政以贿成，内嬖鸿都，并受封爵。京都为之语曰：“今兹诸侯岁也。”天戒若曰：放贤赏淫，何以旧典为？故焚其台门秘府也。其后三年，灵帝暴崩，续以董卓之乱，火三日不绝，京都为丘墟矣。《魏志》曰：“魏明帝青龙二年，崇华殿灾，诏问太史令高堂隆：‘此何咎？于礼宁有祈禳之义乎？’对曰：‘夫灾变之发，皆所以明教诫也，唯率礼修德可以胜之。《易传》曰：“上不俭，下不节，孽火烧其室。”又曰：“君高其台，天火为灾。”此人君苟饰宫室，不知百姓空竭，故天应之以旱，火从高殿起也。上天降监，故谴告陛下，陛下宜增崇人道，以答天意。昔太戊有桑谷生于朝，武丁有雊雉登于鼎，皆闻灾恐惧，侧身修德，三年之后，远夷朝贡，故号曰中宗、高宗。此则前代之明鉴也。今案旧占，灾火之发，皆以台榭宫室为诫。然今宫室之所以充广者，实由宫人猥多之故，宜简择留其淑懿，如周之制，罢省其余。此则祖己之所以训高宗，高宗之所以享远号也。’诏问隆：‘吾闻汉武帝时柏梁灾，而起宫殿以厌之，其义云何？’对曰：‘臣闻西京柏梁既灾，越巫陈方，建章是营，以厌火祥，乃夷越之巫所为，非圣贤之明训也。《五行志》曰：“柏梁灾，其后有江充巫蛊卫太子事。”如志之言越巫建章无所厌也。孔子曰：“灾者，修类应行，精祲相感，以戒人君。”是以圣主睹灾责躬，退以修德，以消复之。今宜罢散民役，宫室之制务从约节，内足以待风雨，外足以讲礼仪，清扫所灾之处，不敢于此有所立作，萐莆嘉禾，必生此地，以报陛下虔恭之德。疲民之力，竭民之财，实非所以致符瑞而怀远人也。’”臣昭曰：高堂隆之言灾，其得天心乎！虽与本志所明不同，灵帝之时有焉，故载其言，广灾异也。<br/><br/>　　献帝初平元年八月，霸桥灾。其后三年，董卓见杀。臣昭案：《刘焉传》，兴平元年，天火烧其城府辎重，延及民家，馆邑无余也。<br/><br/>　　庶征之恒燠，汉书以冬温应之。中兴以来，亦有冬温，而记不录云。《越绝》范蠡曰：“春燠而不生者，王者德不完也。夏寒而不长者，臣下不奉主令也。秋暑而复荣者，百官刑不断也。冬温而泄者，发府库赏无功也。此四者，邦之禁也。”管子曰：“臣乘君威，则阴侵阳，盛夏雪降，冬不冰也。”<br/><br/>　　安帝元初三年，有瓜异本共生，八瓜同蒂，时以为嘉瓜。或以为瓜者外延，离本而实，女子外属之象也。是时阎皇后初立，后阎后与外亲耿宝等共谮太子，废为济阴王，更外迎济北王子犊立之，草妖也。《古今注》曰：“和帝永元七年三月，江夏县民舍柱生两枝，其一长尺五寸，分为八枝，其一长尺六寸，分为五枝，皆青也。”<br/><br/>　　桓帝延熹九年，雒阳城局竹柏叶有伤者。占曰：“天子凶。”<br/><br/>　　灵帝熹平三年，右校别作中有两樗树，皆高四尺所，其一株宿夕暴长，长丈余，大一围，作胡人状，头目鬓须发备具。京房《易传》曰：“王德衰，下人将起，则有木生人状。”臣昭以木生人状，下人将起，京房之占虽以证验，貌类胡人，犹未辨了。董卓之乱，实拥胡兵，傕、汜之时，充斥尤甚，遂窥闲宫嫔，剽虐百姓。鲜卑之徒，践藉畿封，胡之害深，亦已毒矣。<br/><br/>　　五年十月壬午，御所居殿后槐树，皆六七围，自拔，倒竖根在上。臣昭曰：“槐是三公之象，贵之也。灵帝授位，不以德进，贪愚是升，清贤斯黜，槐之倒植，岂以斯乎？”<br/><br/>　　中平元年夏，东郡，陈留济阳、长垣，济阴冤句、离狐县界，《风俗通》曰：“西及城皇阳武城郭路边。”有草生，其茎靡累肿大如手指，状似鸠雀龙蛇鸟兽之形，五色各如其状，毛羽头目足翅皆具。《风俗通》曰：“亦作人状，操持兵弩，万万备具，非但仿佛，类良熟然也。”近草妖也。是岁黄巾贼始起。皇后兄何进，异父兄朱苗，皆为将军，领兵。后苗封济阳侯，进、苗遂秉威权，持国柄，汉遂微弱，自此始焉。应劭曰：“关东义兵先起于宋、卫之郊，东郡太守桥瑁负众怙乱，陵蔑同盟，忿嫉同类，以殒厥命。陈留、济阴迎助，谓为离德，弃好即戎，吏民歼之。草妖之兴，岂不或信！”<br/><br/>　　中平中，长安城西北六七里空树中，有人面生鬓。《魏志》曰：“建安二十五年正月，曹公在雒阳，起建始殿，伐濯龙树而血出。又掘徙梨，根伤而血出。曹公恶之，遂寝疾，是月薨。”<br/><br/>　　献帝兴平元年九月，桑复生椹，可食。臣昭曰：桑重生椹，诚是木异，必在济民，安知非瑞乎？时苍生死败，周、秦歼尽，饿魂馁鬼，不可胜言，食此重椹，大拯危命，虽连理附枝，亦不能及。若以为怪，则建武野谷旅生，麻菽尤盛，复是草妖邪？<br/><br/>　　安帝延光三年二月戊子，有五色大鸟集济南台，十月，又集新丰，时以为凤皇。或以为凤皇阳明之应，故非明主，则隐不见。凡五色大鸟似凤者，多羽虫之孽。是时安帝信中常侍樊丰、江京、阿母王圣及外属耿宝等谗言，免太尉杨震，废太子为济阴王，不悊之异也。章帝末，号凤皇百四十九见。时直臣何敞以为羽孽似凤，翱翔殿屋，不察也。臣昭曰：已论之于敞传。记者以为其后章帝崩，以为验。案宣帝、明帝时，五色鸟群翔殿屋，贾逵以为胡降征也。帝多善政，虽有过，不及至衰缺，末年胡降二十万口，是其验也。帝之时，羌胡外叛，谗慝内兴，羽孽之时也。《乐叶图征》说五凤皆五色，为瑞者一，为孽者四。《叶图征》曰：“似凤有四，并为妖：一曰鹔鹴，鸠喙，圆目，身义戴信婴礼膺仁负智，至则旱役之感也；二曰发明，乌喙，大颈，大翼，大胫，身仁戴智婴义膺信负礼，至则丧之感也；三曰焦明，长喙，疏翼，圆尾，身义戴信婴仁膺智负礼，至则水之感也；四曰幽昌，兑目，小头，大身，细足，胫若鳞叶，身智戴信负礼膺仁，至则旱之感也。”国语曰：“周之兴也，鸑鷟鸣岐。”《说文》曰：“五方神鸟：东方曰发明，南方曰焦明，西方曰鹔鹴，北方曰幽昌，中央曰凤皇。”<br/><br/>　　桓帝元嘉元年十一月，五色大鸟见济阴己氏。时以为凤皇。此时政治衰缺，梁冀秉政阿枉，上幸亳后，皆羽孽时也。臣昭案：魏朗对策，桓帝时雉入太常、宗正府。朗说见本传注。<br/><br/>　　灵帝光和四年秋，五色大鸟见于新城，众鸟随之，时以为凤皇。时灵帝不恤政事，常侍、黄门专权，羽孽之时也。众鸟之性，见非常班驳，好聚观之，至于小爵希见枭者，虣见犹聚。<br/><br/>　　中平三年八月中，怀陵上有万余爵，先极悲鸣，已因乱斗相杀，皆断头，悬著树枝枳棘。到六年，灵帝崩，大将军何进以内宠外嬖，积恶日久，欲悉纠黜，以隆更始冗政，而太后持疑，事久不决。进从中出，于省内见杀，因是有司荡涤虔刘，后禄而尊厚者无余矣。夫陵者，高大之象也。天戒若曰：诸怀爵禄而尊厚者，还自相害至灭亡也。《古今注》曰：“建武九年，六郡八县鼠食稼。”《张璠纪》曰：“初平元年三月，献帝初入未央宫，翟雉飞入未央宫，获之。”《献帝春秋》曰：“建安七年，五色大鸟集魏郡，众鸟数千随之。”《魏志》曰：“二十三年，秃鹙集邺宫文昌殿后池。”<br/><br/>　　桓帝建和三年秋七月，北地廉雨肉似羊肋，《说文》曰：“肋，胁骨也。”或大如手。近赤祥也。是时梁太后摄政，兄梁冀专权，枉诛汉良臣故太尉李固、杜乔，天下冤之。其后梁氏诛灭。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-653-8075.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-653-8077.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-653.html" action-type="chapterComment" class="comment"><i></i>后汉书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

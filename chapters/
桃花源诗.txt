@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《桃花源诗》正文_桃花源诗_陶渊明作品 - 维普阅读网</title>
+<meta name="keywords" content="桃花源诗,桃花源诗原文,桃花源诗阅读,桃花源诗全文,陶渊明作品" />
+<meta name="description" content="桃花源诗原文阅读,桃花源诗全文在线阅读,陶渊明作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-624.html";
+var nextpage="novel-chapter-624.html";
+var indexpage = "novel-chapter-624.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-624.html">桃花源诗</a></strong>
+<strong><a href="novel-chapter-624.html">桃花源诗目录</a></strong>
+<span>桃花源诗</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-624.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>桃花源诗</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=陶渊明&amp;searchsubmit=yes"  target="_blank">陶渊明</a><span class="divide">|</span>发布时间：2014-10-13 22:23:07<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　嬴氏乱天纪，贤者避其世。<br/><br/>　　黄绮之商山，伊人亦云逝。<br/><br/>　　往迹浸复湮，来径遂芜废。<br/><br/>　　相命肆农耕，日入从所憩。<br/><br/>　　桑竹垂馀荫，菽稷随时艺；<br/><br/>　　春蚕收长丝，秋熟靡王税。<br/><br/>　　荒路暧交通，鸡犬互鸣吠。<br/><br/>　　俎豆独古法，衣裳无新制。<br/><br/>　　童孺纵行歌，班白欢游诣。<br/><br/>　　草荣识节和，木衰知风厉。<br/><br/>　　虽无纪历志，四时自成岁。<br/><br/>　　怡然有馀乐，于何荣智慧！<br/><br/>　　奇踪隐五百，一朝敞神界。<br/><br/>　　淳薄既异源，旋复还幽蔽。<br/><br/>　　借问游方士，焉测尘嚣外。<br/><br/>　　愿言蹑清风，高举寻吾契。<br/><br/>【注释】<br/>　　嬴氏：指秦始皇。秦为嬴姓。<br/>　　天纪：日月星辰历数，这里指正常的社会政治秩序。<br/>　　黄绮：夏黄公与绮里季。这里指商山四皓。<br/>　　之：到，往。<br/>　　伊人：他们。指最初来到桃花源的人。<br/>　　云：语助词，无意义。<br/>　　逝：去，逃隐。<br/>　　往迹：指桃花源中人最初避乱往桃花源的踪迹。<br/>　　浸复湮：逐渐消失埋没。<br/>　　来径；通往桃花源的道路。<br/>　　相命：互相招呼。<br/>　　肆：致力。<br/>　　从：相随，结伴归来的意思。<br/>　　憩：休息。<br/>　　余荫：浓荫。<br/>　　菽：豆类的总称。<br/>　　稷：高粱。一说谷物。<br/>　　随时：按照季节。<br/>　　艺：种植。<br/>　　靡：无。<br/>　　暧（ài 爱）：昏暗不明。指路为荒草遮掩，若有若无。<br/>　　交通：指行走。<br/>　　鸡犬互鸣吠：即记中所说“鸡犬相闻”之意。<br/>　　俎（zǔ 祖）豆：古代祭祀的礼器，这里指祭祀的仪式。俎用以载牲，豆用以盛肉。<br/>　　犹古法：仍旧用古代的礼法。<br/>　　新制：新的样式。<br/>　　童孺：儿童。<br/>　　纵：尽情，无拘无束。<br/>　　行歌：边走边唱。<br/>　　斑白：头发花白的老人。<br/>　　游诣：游玩。<br/>　　诣：往。<br/>　　节和：“育气和暖，指春天。<br/>　　木衰：指草木凋零。<br/>　　风厉：风声凄厉，指秋天。<br/>　　纪历志：岁时的记载，即历书。<br/>　　四时：四季。<br/>　　余乐：不尽的欢乐。<br/>　　于何：在哪里。<br/>　　劳：动用。<br/>　　智慧：指心机。<br/>　　奇踪：奇异的踪迹，指桃花源。<br/>　　五百：自秦至晋太元不足六百年，五百是举其成数。<br/>　　敞：敞开，神界：神仙般的世界。<br/>　　淳：指桃花源中淳朴的风尚。<br/>　　薄：指世间浮薄的社会风气。<br/>　　源：根源。<br/>　　旋：很快。<br/>　　复：又，再。<br/>　　幽蔽：深深地隐蔽。<br/>　　游方士：游于方内之士，指世俗之人。<br/>　　方：区域，指世间。《庄子?大宗师》：“孔子曰‘彼，游方之外者也；而丘，游方之内者也。’<br/>　　焉：哪里，如何。<br/>　　尘嚣（xiāo 消）外：喧哗的世尘之外。<br/>　　言：语助词，无意义。<br/>　　蹑：踏着。<br/>　　高举：高飞。<br/>　　契：契合，投合，指志同道合的人。<br/><br/>【韵译】<br/>　　秦王暴政乱纲纪，贤士纷纷远躲避。<br/>　　四皓隐居在商山，有人隐匿来此地。<br/>　　往昔踪迹消失尽，来此路途已荒废。<br/>　　相唤共同致农耕，天黑还家自休息。<br/>　　桑竹茂盛遮浓荫，庄稼种植按节气。<br/>　　春蚕结茧取长丝，秋日丰收不纳税。<br/>　　荒草遮途阻交通，村中鸡犬互鸣吠。<br/>　　祭祀仍遵古礼法，衣裳没有新款式。<br/>　　儿童欢跳纵情歌，老者欣然自游憩。<br/>　　草木花开知春到，草衰木凋知寒至。<br/>　　虽无年历记时日，四季推移自成岁。<br/>　　欢快安逸乐无穷，哪还需要动知慧？<br/>　　奇踪隐蔽五百岁，一朝开放神奇界。<br/>　　浮薄淳朴不同源，转眼深藏无处觅。<br/>　　请问世间凡夫子，可知尘外此奇迹？<br/>　　我愿踏乘轻云去，高飞寻找我知己。<br/><br/>【译文】<br/>　　秦始皇暴政，打乱了天下的纲纪，贤人便纷纷避世隐居。黄绮等人于秦末避乱隐居商山，桃花源里的人也隐居避世。进入桃花源的踪迹逐渐湮没，进入桃花源之路于是荒芜废弃了。桃花源人互相勉励督促致力农耕，日出而作日落而息。桑树竹林垂下浓荫，豆谷类随着季节种植，春天收取蚕丝，秋天收获了却不用交赋税。荒草阻隔了与外界的来往交通，鸡和狗互相鸣叫。祭祀还是先秦的礼法，衣服没有新的款式。儿童纵情随意地唱着歌，老人欢快地来往游玩。草木茂盛使人认识到春天来临，天变暖和了；树木凋谢使人知道寒风猛烈，秋冬之季到了。虽然没有记载岁时的历书，但四季自然转换，周而成岁。生活欢乐得很，还有什么用得着操心？桃花源的奇迹隐居了五百多年。今日却向世人敞开桃花源神仙般的境界。桃花源中的淳朴风气和人世间的淡薄人情本源不同，一时显露的桃花源又深深地隐藏起来了。试问世俗之士，又怎么能知道尘世之外的事？我愿驾着清风，高高飞去，寻找与我志趣相投的人。<br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-624.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-624.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-624.html" action-type="chapterComment" class="comment"><i></i>桃花源诗章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

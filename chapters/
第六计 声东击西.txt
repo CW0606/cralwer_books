@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《三十六计》正文_第六计 声东击西_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="三十六计,三十六计原文,三十六计阅读,第六计 声东击西全文,佚名作品" />
+<meta name="description" content="三十六计原文阅读,第六计 声东击西全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-232-3040.html";
+var nextpage="novel-read-232-3042.html";
+var indexpage = "novel-chapter-232.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-232.html">三十六计</a></strong>
+<strong><a href="novel-chapter-232.html">三十六计目录</a></strong>
+<span>第六计 声东击西</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-232-3040.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第六计 声东击西</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-08-19 22:42:20<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>指表面上声言要攻打东面，其实是攻打西面。军事上使敌人产生错觉的一种战术。<br/>【原典】<br/>敌志乱萃①，不虞②，坤下兑上 ③之象，利其不自主而取之。<br/>【注释】<br/>①敌志乱萃：援引《易经．萃》卦中《象》辞：“乃乱乃萃，其志乱也”之意。萃，悴，即憔悴。是说敌人情志混乱而且憔悴。<br/>②不虞：未意科，未预料。<br/>③坤下兑上：萃卦为异卦相叠（坤下兑上）。上卦为兑，兑为泽；下并为坤，坤为地。有泽水淹及大地，洪水横流之象。<br/>此计是运用“坤下兑上”之卦象的象理，喻“敌志乱萃”而造成了错失丛杂、危机四伏的处境，我则要抓住敌人这不能自控的混乱之势，机动灵活地运用时东时西，似打似离，不攻而示它以攻，欲攻而又示之以不攻等战术，进一步造成敌人的错觉，出其不意地一举夺胜。<br/>【按语】<br/>西汉，七国反，周亚夫坚壁不战。吴兵奔壁之东南陬，亚夫便备西北；已而吴王精兵果攻西北，遂不得入。此敌志不乱，能自去也。汉末，朱隽围黄巾于宛，张围结垒，起土山以临城内，鸣鼓攻其西南，黄巾悉众赴之，隽自将精兵五千，掩其东北，遂乘虚而入。此敌志乱萃，不虞也。然则声东击西之策，须视敌志乱否为定。乱，则胜；不乱，将自取败亡，险策也。<br/>【故事】<br/>班超对抗匈奴<br/>　　东汉时期，班超出使西域，目的是团结西域诸国共同对抗匈奴。为了使西域诸国便于共同对抗匈奴，必须先打通南北通道。地处大漠西缘的莎车国，煽动周边小国，归附匈奴，反对汉朝。班超决定首先平定莎车。莎车国王北向龟兹求援，龟兹王亲率五万人马，援救莎车。班超联合于阗等国，兵力只有二万五千人，敌众我寡，难以力克，必须智取。<br/>　　班超遂定下声东击西之计，迷惑敌人。他派人在军中散布对班超的不满言论，制造打不赢龟兹，有撤退的迹象。并且特别让莎车俘虏听得一清二楚。这天黄昏，<br/>　　班超命于阗大军向东撤退，自己率部向西撤退，表面上显得慌乱，故意放俘虏趁机脱逃。俘虏逃回莎车营中，急忙报告汉军慌忙撤退的消息。龟兹王大喜，误认班超惧怕自己而慌忙逃窜，想趁此机会，追杀班超。他立刻下令兵分两路，追击逃敌。他亲自率一万精兵向西追杀班超。班超胸有成竹，趁夜幕笼罩大漠，撤退仅十里地，部队即就地隐蔽。龟兹王求胜心切，率领追兵从班超隐蔽处飞驰而过，班超立即集合部队，与事先约定的东路于阗人马，迅速回师杀向莎车。班超的部队如从天而降，莎车猝不及防，迅速瓦解。莎车王惊魂未定，逃走不及，只得请降。龟兹王气势汹汹，追走一夜，未见班超部队踪影，又听得莎车已被平定，人马伤亡稍重的报告，大势已去，只有收拾残部，悻悻然返回龟兹。<br/><br/>郑成功收复台湾<br/>　　台湾被荷兰殖民者统治数十年， 民族英雄郑成功立志收复台湾。1661年4月，郑成功率二万五千将士顺利登上澎湖岛。要占领台湾岛，赶走殖民军，必须先攻下<br/>　　赤嵌城（今台南安平）。郑成功亲自寻访熟悉地势的当地老人，了解到攻打赤嵌城只有两条航道可进：一条是攻南航道，这条道港阔水深，船只可以畅通无阻，又较易登陆。荷兰殖民军在此设有重兵，工事坚固，炮台密集，对准海面，另一条是攻北航通，直通鹿耳门。但是这条航道海水很浅，礁石密布，航通狭窄。殖民军还故意凿沉一些船只，阻塞航道。他们认为这里无法登陆，所以只派少量兵力防守。郑成功又进一步了解到，这条航道虽浅，但海水涨潮时，仍可以通大船。于是决定趁涨潮时先攻下鹿耳门，然后绕道从背后攻打赤嵌玻。<br/>　　郑成功计划已定；首先派出部分战舰，浩浩荡荡，装作从南航道进攻。荷兰殖民军急忙调集大批军队防守航道。为了迷惑敌人，郑成功的部队声威浩大，喊声震<br/>　　天，炮火不断。这一下，郑成功非常成功地把殖民军的注意力全部吸引到了南航道。北航道上一片沉寂，殖民军以为平安无事。南航道激战正酣，在一个月明星稀之夜，郑成功率领主力战舰，人不知，鬼不觉，乘海水涨潮时机迅速登上鹿耳门，守军从梦中惊醒，发现已被包围。郑成功乘胜进兵，从背后攻下赤嵌城。荷兰殖民军狼狈逃窜，台湾又回到祖国怀抱。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-232-3040.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-232-3042.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-232.html" action-type="chapterComment" class="comment"><i></i>三十六计章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《墨子》正文_非乐(上)_墨子作品 - 维普阅读网</title>
+<meta name="keywords" content="墨子,墨子原文,墨子阅读,非乐(上)全文,墨子作品" />
+<meta name="description" content="墨子原文阅读,非乐(上)全文在线阅读,墨子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-32-766.html";
+var nextpage="novel-read-32-768.html";
+var indexpage = "novel-chapter-32.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-32.html">墨子</a></strong>
+<strong><a href="novel-chapter-32.html">墨子目录</a></strong>
+<span>非乐(上)</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-32-766.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>非乐(上)</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=墨子&amp;searchsubmit=yes"  target="_blank">墨子</a><span class="divide">|</span>发布时间：2014-07-20 15:05:20<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/>　　子墨子言曰：“仁之事者，必务求兴天下之利，除天下之害，将以为法乎天下，利人乎即为，不利人乎即止。且夫仁者之为天下度也，非为其目之所美，耳之所乐，口之所甘，身体之所安，以此亏夺民衣食之财，仁者弗为也。”是故子墨子之所以非乐者，非以大锺、鸣鼓、琴瑟、竽笙之声，以为不乐也；非以刻镂、华文章之色，以为不美也；非以（牛刍）豢煎炙之味，以为不甘也；非以高台、厚榭、邃野之居，以为不安也。虽身知其安也，口知其甘也，目知其美也，耳知其乐也，然上考之不中圣王之事；下度之，不中万民之利。是故子墨子曰：“为乐，非也！”<br/><br/>　　今王公大人，虽无造为乐器，以为事乎国家，非直掊潦水，拆壤坦而为之也，将必厚措敛乎万民，以为大锺、鸣鼓、琴瑟、竽笙之声。古者圣王亦尝厚措敛乎万民，以为舟车。既以成矣，曰：“吾将恶许用之？”曰：“舟用之水，车用之陆，君子息其足焉，小人休其肩背焉。”故万民出财赍而予之，不敢以为戚恨者，何也？以其反中民之利也。然则乐器反中民之利，亦若此，即我弗敢非也；然则当用乐器，譬之若圣王之为舟车也，即我弗敢非也。<br/><br/>　　民有三患，饥者不得食，寒者不得衣，劳者不得息。三者，民之巨患也。然即当为之撞巨钟、击鸣鼓、弹琴瑟、吹竽笙而扬干戚，民衣食之财，将安可得乎？即我以为未必然也。意舍此。今有大国即攻小国，有大家即伐小家，强劫弱，众暴寡，诈欺愚，贵傲贱，寇乱盗贼并兴，不可禁止也。然即当为之撞巨锺、击鸣鼓、弹琴瑟、吹竽笙而扬干戚，天下之乱也，将安可得而治与？即我未必然也。是故子墨子曰：“姑尝厚措敛乎万民，以为大锺、鸣鼓、琴瑟、竽笙之声，以求兴天下之利，除天下之害而无补也。”是故子墨子曰：“为乐，非也！”<br/><br/>　　今王公大人，唯毋处高台厚榭之上而视之，锺犹是延鼎也，弗撞击，将何乐得焉哉！其说将必撞击之，惟勿撞击，将必不使老与迟者。老与迟者，耳目不聪明，股肱不毕强，声不和调，明不转朴。将必使当年，因其耳目之聪明，股肱之毕强，声之和调，眉之转朴。使丈夫为之，废丈夫耕稼树艺之时；使妇人为之，废妇人纺绩织纴之事。今王公大人，唯毋为乐，亏夺民衣食之财，以拊乐如此多也。是故子墨子曰：“为乐，非也！”<br/><br/>　　今大钟、鸣鼓、琴瑟、竽笙之声，既已具矣，大人锈然奏而独听之，将何乐得焉哉？其说将必与贱人，不与君子。与君子听之，废君子听治；与贱人听之，废贱人之从事。今王公大人，惟毋为乐，亏夺民之衣食之财，以拊乐如此多也。是故子墨子曰：“为乐，非也！”<br/><br/>　　昔者齐康公，兴乐万，万人不可衣短褐，不可食糠糟，曰：“食饮不美，面目颜色，不足视也；衣服不美，身体从容丑羸，不足观也。”是以食必粱肉，衣必文绣。此掌不从事乎衣食之财，而掌食乎人者也。是故子墨子曰：今王公大人，惟毋为乐，亏夺民衣食之财，以拊乐如此多也。是故子墨子曰：“为乐，非也！”<br/><br/>　　今人固与禽兽、麋鹿、蜚鸟、贞虫异者也。今之禽兽、麋鹿、蜚鸟、贞虫，因其羽毛，以为衣裘；因其蹄蚤，以为绔屦；困其水草，以为饮食。故唯使雄不耕稼树艺，雌亦不纺积织纴，衣食之财，固巳具矣。今人与此异者也，赖其力者生，不赖其力者不生。君子不强听治，即刑政乱；贱人不强从事，即财用不足。今天下之士君子，以吾言不然；然即姑尝数天下分事，而观乐之害。王公大人，蚤朝晏退，听狱治政，此其分事也。士君子竭股肱之力，殚其思虑之智，内治官府，外收敛关市、山林、泽粱之利，以实仓廪府库，此其分事也。农夫蚤出暮入，耕稼树艺，多聚叔粟，此其分事也。妇人夙兴夜寐，纺绩织纴，多治麻丝葛绪，捆布参，此其分事也。今惟毋在乎王公大人，说乐而听之，即必不能蚤朝晏退，听狱治政，是故国家乱而社稷危矣。今惟毋在乎士君子，说乐而听之，即必不能竭股肱之力，殚其思虑之智，内治官府，外收敛关市、山林、泽粱之利，以实仓廪府库，是故仓廪府库不实。今惟毋在乎农夫，说乐而听之，即必不能蚤出暮入，耕稼树艺，多聚叔粟，是故叔粟不足。今惟毋在乎妇人，说乐而听之，即不必能夙兴夜寐，纺绩织纴，治麻丝葛绪，捆布参，是故布参不兴。曰：孰为大人之听治，而废国家之从事？曰：“乐也。”是故子墨子曰：“为乐，非也！”<br/><br/>　　何以知其然也？曰：先王之书，汤之官刑有之。曰：“其恒舞于宫，是谓巫风。其刑：君子出丝二卫，小人否，似二伯。《黄径》乃言曰：呜乎！舞佯佯，黄言孔章，上帝弗常，九有以亡。上帝不顺，降之百殃，其家必坏丧。”察九有之所以亡者，徒从饰乐也。于《武观》曰：“启乃淫溢康乐，野于饮食，将将铭苋磬以力。湛浊于酒，渝食于野，万舞翼翼，章闻于大，天用弗式。”故上者，天鬼弗戒，下者，万民弗利。是故子墨子曰：“今天下士君子，请将欲求兴天下之利，除天下之害，当在乐之为物，将不可不禁而止也。”<br/><br/>译文：<br/>　　墨子说：“仁人做事，必须讲求对天下有利，为天下除害，将以此作为天下的准则。对人有利的，就做；对人无利的，就停止。”仁者替天下考虑，并不是为了能见到美丽的东西，听到快乐的声音，尝到美味，使身体安适。让这些来掠取民众的衣食财物，仁人是不做的。因此，墨子之所以反对音乐，并不是认为大钟、响鼓、琴、瑟、竽、笙的声音不使人感到快乐，并不是以为雕刻、纹饰的色彩不美，并不是以为煎灸的豢养的牛猪等的味道不香甜，并不是以为居住在高台厚榭深远之屋中不安适。虽然身体知道安适，口里知道香甜，眼睛知道美丽，耳朵知道快乐，然而向上考察，不符合圣王的事迹；向下考虑，不符合万民的利益。所以墨子说：“从事音乐活动是错误的！”<br/><br/>　　现在的王公大人为了国事制造乐器，不是象掊取路上的积水、拆毁土墙那么容易，而必是向万民征取很多钱财，用以制出大钟、响鼓、琴、瑟、竽、笙的声音。古时的圣王也曾向万民征取很多的钱财，造成船和车，制成之后，说：我将在哪里使用它们呢？说：“船用于水上，车用于地上，君子可以休息双脚，小人可以休息肩和背”。所以万民都送出钱财来，并不敢因此而忧怨，是什么原因呢？因为它反而符合民众的利益。然而乐器要是也这样反而符合民众的利益。我则不敢反对。然而当象圣王造船和车那样使用乐器，我则不敢反对。<br/><br/>　　民众有三种忧患：饥饿的人得不到食物，寒冷的人得不到衣服，劳累的人得不到休息。这三样是民众的最大忧患。然而当为他们撞击巨钟，敲打鸣鼓，弹琴瑟，吹竽笙，舞动干戚，民众的衣食财物将能得到吗？我认为未必是这样。且不谈这一点，现在大国攻击小国，大家族攻伐小家族，强壮的掳掠弱小的，人多的欺负人少的，奸诈的欺骗愚笨的，高贵的鄙视低贱的，外寇内乱盗贼共同兴起，不能禁止。如果为他们撞击巨钟，敲打鸣鼓，弹琴瑟，吹竽笙，舞动干戚，天下的纷乱将会得到治理吗？我以为未必是这样的。所以墨子说：“且向万民征敛很多钱财，制作大钟、鸣鼓、琴、瑟、竽、笙之声，以求有利于天下，为天下除害，是无补于事的。”所以墨子说：“从事音乐是错误的！”<br/><br/>　　现在的王公大人从高台厚榭上看去，钟犹如倒扣着鼎一样，不撞击它，将会有什么乐处呢？这就是说必定要撞击它。一旦撞击，将不会使用老人和反应迟钝的人。老人与反应迟钝的人，耳不聪，目不明，四肢不强壮，声音不和谐，眼神不灵敏。必将使用壮年人，用其耳聪目明，强壮的四肢，声音调和，眼神敏捷。如果使男人撞钟，就要浪费男人耕田、种菜、植树的时间；如果让妇女撞钟，就要荒废妇女纺纱、绩麻、织布等事情。现在的王公大人从事音乐活动，掠夺民众的衣食财物；大规模地敲击乐器。所以墨子说：“从事音乐是错误的！”<br/><br/>　　现在的大钟、响鼓、琴、瑟、竽、笙的乐声等已备齐了，大人们独自安静地听着奏乐，将会得到什么乐趣呢？不是与君子一同来听，就是与贱人一同来听。与君子同听，就会荒废君子的听狱和治理国事；与贱人同听，就会荒废贱人所作的事情。现在的王公大人从事音乐活动，掠夺民众的衣食财物，大规模地敲击乐器。所以墨子说：“从事音乐是错误的！”<br/><br/>　　从前齐康公作《万舞》乐曲，跳《万》舞的人不能穿粗布短衣，不能吃糟糠。说：“吃的不好，面目色泽就不值得看了；衣服不美，身形动作也不值得看了。所以必须吃好饭和肉，必须穿绣有花纹的衣裳。”这些人常常不从事生产衣食财物，而常常吃别人的。所以墨子说：现在的王公大从事音乐活动，掠夺民众的衣食财物，大规模地敲击乐器。所以墨子说：“从事音乐是错误的！”<br/><br/>　　现在的人本来不同于禽兽、麋鹿、飞鸟、爬虫。现在的禽兽、麋鹿、飞鸟、爬虫，利用它们的羽毛作为衣裳，利用它们的蹄爪作为裤子和鞋子，把水、草作为饮食物。所以，虽然让雄的不耕田、种菜、植树，雌的不纺纱、绩麻、织布，衣食财物本就具备了。现在的人与它们不同：依赖自己的力量才能生存，不依赖自己的力量就不能生存。君子不努力听狱治国，刑罚政令就要混乱；贱人不努力生产，财用就会不足。现在天下的士人君子认为我的话不对，那么就试着列数天下份内的事，来看音乐的害处：王公大人早晨上<br/><br/>　　朝，晚上退朝，听狱治国，这是他们的份内事。士人君子竭尽全身的力气，用尽智力思考，于内治理官府，于外往关市、山林、河桥征收赋税，充实仓廪府库，这是他们的份内事。农夫早出晚归，耕田、种菜、植树，多多收获豆子和粮食，这是他们的份内事。妇女们早起晚睡，纺纱、绩麻、织布，多多料理麻、丝、葛、苎麻，织成布匹，这是她们的份内事。现在的王公大人喜欢音乐而去听它，则必不能早上朝，晚退朝，听狱治国，那样国家就会混乱，社稷就会危亡。现在的士人君子喜欢音乐而去听它，则必不能竭尽全身的力气，用尽智力思考，于内治理官府，于外往关市、山林、河桥征收赋税，充实仓廪府库。那么仓廪府库就不会充实。现在的农夫喜欢音乐而去听它，则必不能早出晚归，耕田、植树、种菜，多多收获豆子和粮食，那么豆子和粮食就会不够。现在的妇女喜欢音乐而去听它，则必不能早起晚睡，纺纱、绩麻、织布，多多料理麻、丝、葛、苎麻，织成布匹，那么布匹就不多。问：什么荒废了大人们的听狱治国和国家的生产呢？答：是音乐。所以墨子说：“从事音乐是错误的！”<br/><br/>　　怎么知道是这样呢？答道：先王的书籍汤所作的《官刑》有记载，说：“常在宫中跳舞，这叫做巫风。”惩罚是：君子出二束丝，小人加倍，出二束帛。《黄径》记载说：“啊呀！洋洋而舞，乐声响亮。上帝不保佑，九州将灭亡。上帝不答应，降各种祸殃，他的家族必然要破亡。”考察九州所以灭亡的原因，只是因为设置音乐啊。《武观》中说：“夏启纵乐放荡，在野外大肆吃喝，《万》舞的场面十分浩大，声音传到天上，天不把它当作法式。”所以在上的，天帝、鬼神不以为法式，在下的，万民没有利益。所以墨子说：“现在天下的士人君子，诚心要为天下人谋利，为天下人除害，对于音乐这样的东西，是不应该不禁止的。”<br/><br/>注释<br/>（1）本篇主题为反对从事音乐活动。墨子认为凡事应该利国利民，而百姓、国家都在为生存奔波，制造乐器需要聚敛百姓的钱财，荒废百姓的生产，而且音乐还能使人耽于荒淫。因此，必须要禁止音乐。<br/>（2）仁之事者：当为“仁者之事”。<br/>（3）本句中“华”为衍字。<br/>（4）邃野：“野”通“宇”，即深居。<br/>（5）折、坦：疑为“拆”、“垣”。<br/>（6）许：所。<br/>（7）干：盾。戚：似斧形兵器。<br/>（8）延鼎：覆倒之鼎。<br/>（9）惟勿：发语词。<br/>（10）“朴”字疑为“行”。<br/>（11）■然：安静地。<br/>（12）万：舞名。<br/>（13）掌：通“常”。<br/>（14）蜚：通“飞”。贞：通“征”，贞虫即爬虫。<br/>（15）蚤：即“爪”。绔：即“裤子”。<br/>（16）绪：依毕沅说为“紵”之音借字。綑：织。■：绢帛。<br/>（17）“不必”当为“必不”。<br/>（18）《官刑》传为汤所制定的律令。<br/>（19）卫：为“束”之音借字。<br/>（20）否，通“倍”。似：通“以”。伯：“帛”之音借字。<br/>（21）《黄经》：失考。<br/>（22）黄：即“簧”，大竹。<br/>（23）■：同“殃”。<br/>（24）《武观》：即《逸书·武观》。<br/>（25）将将：即锵锵。铭：当为“铪”。苋：当为“筦”。<br/>（26）翼翼：盛大貌。<br/>（27）用：因此。弗式：不以为常规。<br/>（28）戒：当作“式”。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-32-766.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-32-768.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-32.html" action-type="chapterComment" class="comment"><i></i>墨子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

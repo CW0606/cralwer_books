@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《花边文学》正文_看书琐记（一）_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="花边文学,花边文学原文,花边文学阅读,看书琐记（一）全文,鲁迅作品" />
+<meta name="description" content="花边文学原文阅读,看书琐记（一）全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-536-6795.html";
+var nextpage="novel-read-536-6797.html";
+var indexpage = "novel-chapter-536.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-536.html">花边文学</a></strong>
+<strong><a href="novel-chapter-536.html">花边文学目录</a></strong>
+<span>看书琐记（一）</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-536-6795.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>看书琐记（一）</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 21:19:17<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　 焉于<br/><br/>　　高尔基很惊服巴尔札克（２）小说里写对话的巧妙，以为并不描写人物的模样，却能使读者看了对话，便好像目睹了说话的那些人。（八月份《文学》内《我的文学修养》）<br/><br/>　　中国还没有那样好手段的小说家，但《水浒》和《红楼梦》（３）的有些地方，是能使读者由说话看出人来的。其实，这也并非什么奇特的事情，在上海的弄堂里，租一间小房子住着的人，就时时可以体验到。他和周围的住户，是不一定见过面的，但只隔一层薄板壁，所以有些人家的眷属和客人的谈话，尤其是高声的谈话，都大略可以听到，久而久之，就知道那里有那些人，而且仿佛觉得那些人是怎样的人了。<br/><br/>　　如果删除了不必要之点，只摘出各人的有特色的谈话来，我想，就可以使别人从谈话里推见每个说话的人物。但我并不是说，这就成了中国的巴尔札克。<br/><br/>　　作者用对话表现人物的时候，恐怕在他自己的心目中，是存在着这人物的模样的，于是传给读者，使读者的心目中也形成了这人物的模样。但读者所推见的人物，却并不一定和作者所设想的相同，巴尔札克的小胡须的清瘦老人，到了高尔基的头里，也许变了粗蛮壮大的络腮胡子。不过那性格，言动，一定有些类似，大致不差，恰如将法文翻成了俄文一样。要不然，文学这东西便没有普遍性了。<br/><br/>　　文学虽然有普遍性，但因读者的体验的不同而有变化，读者倘没有类似的体验，它也就失去了效力。譬如我们看《红楼梦》，从文字上推见了林黛玉这一个人，但须排除了梅博士的“黛玉葬花”（４）照相的先入之见，另外想一个，那么，恐怕会想到剪头发，穿印度绸衫，清瘦，寂寞的摩登女郎；或者别的什么模样，我不能断定。但试去和三四十年前出版的《红楼梦图咏》（５）之类里面的画像比一比罢，一定是截然两样的，那上面所画的，是那时的读者的心目中的林黛玉。<br/><br/>　　文学有普遍性，但有界限；也有较为永久的，但因读者的社会体验而生变化。北极的遏斯吉摩人（６）和菲洲腹地的黑人，我以为是不会懂得“林蕉玉型”的；健全而合理的好社会中人，也将不能懂得，他们大约要比我们的听讲始皇焚书，黄巢杀人更其隔膜。一有变化，即非永久，说文学独有仙骨，是做梦的人们的梦话。<br/><br/>　　八月六日。<br/>　<br/>===============================================================<br/><br/><br/>　　（１）本篇最初发表于一九三四年八月八日《申报·自由谈》。（２）巴尔札克（Ｈ．ｄｅＢａｌｚａｃ，１７９９—１８５０）法国作家，他的作品总题为《人间喜剧》，包括长篇小说《欧也妮·葛朗台》、《高老头》、《幻灭》等九十余部。高尔基《我的文学修养》中谈到巴尔扎克小说时说：“在巴尔扎克的《鲛皮》（按通译《驴皮记》）里，看到银行家的邸宅中的晚餐会那一段的时候，我完全惊服了。二十多个人们同时在喧嚷着谈天，但却以许多形态，写得好像我亲自听见。重要的是——我不但听见，还目睹了各人在怎样的谈天。来宾们的相貌，巴尔扎克是没有描写的。但我却看见了人们的眼睛，微笑和姿势。我总是叹服着从巴尔扎克起，以至一切法国人的用会话来描写人物的巧妙，把所描写的人物的会话，写得活泼泼地好像耳闻一般的手段，以及那对话的完全。”此文载一九三四年八月《文学》月刊第三卷第二号，鲁迅（署名许遐）译。<br/><br/>　　（３）《水浒》即《水浒传》，长篇小说。明初施耐庵作。（４）“黛玉葬花”梅兰芳早年曾根据《红楼梦》第二十三回的情节编演京剧《黛玉葬花》。旧时照相馆常挂有他演此剧的照片。（５）《红楼梦图咏》清代改琦画的《红楼梦》人物像，共五十幅，图后附有王希廉、周绮等题诗，一八七九年（光绪五年）木刻本刊行。又有清代王墀画的《增刻红楼梦图咏》，共一百二十幅，图后附有姜祺（署名蟫生）题诗，光绪八年上海点石斋石印，后屡经翻版。（６）遏斯吉摩人通译爱斯基摩人，居住北极圈一带，以渔猎为生的一个民族。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-536-6795.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-536-6797.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-536.html" action-type="chapterComment" class="comment"><i></i>花边文学章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

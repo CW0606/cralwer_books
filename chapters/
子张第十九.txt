@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《论语》正文_子张第十九_孔子作品 - 维普阅读网</title>
+<meta name="keywords" content="论语,论语原文,论语阅读,子张第十九全文,孔子作品" />
+<meta name="description" content="论语原文阅读,子张第十九全文在线阅读,孔子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-25-384.html";
+var nextpage="novel-read-25-386.html";
+var indexpage = "novel-chapter-25.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-25.html">论语</a></strong>
+<strong><a href="novel-chapter-25.html">论语目录</a></strong>
+<span>子张第十九</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-25-384.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>子张第十九</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=孔子&amp;searchsubmit=yes"  target="_blank">孔子</a><span class="divide">|</span>发布时间：2014-07-19 11:02:14<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/>　　子张曰：“士见危致命，见得思义，祭思敬，丧思哀，其可已矣。”<br/>　　子张曰：“执德不弘，信道不笃，焉能为有，焉能为亡？”<br/>　　子夏之门人，问交于子张。子张曰：“子夏云何？”对曰：“子夏曰：可者与之，其不可者拒之。”子张曰：“异乎吾所闻。君子尊贤而容众，嘉善而矜不能。我之大贤与，于人何所不容；我之不贤与，人将拒我，如之何其拒人也？”<br/>　　子夏曰：“虽小道，必有可观者焉。致远恐泥，是以君子不为也。”<br/>　　子夏曰：“日知其所亡，月无忘其所能，可谓好学也已矣。”<br/>　　子夏曰：“博学而笃志，切问而近思，仁在其中矣。”<br/>　　子夏曰：“百工居肆以成其事，君子学以致其道。”<br/>　　子夏曰：“小人之过也必文。”<br/>　　子夏曰：“君子有三变：望之俨然，即之也温，听其言也厉。”<br/>　　子夏曰：“君子信而后劳其民，未信则以为厉己也。信而后谏，未信则以为谤己也。”<br/>　　子夏曰：“大德不逾闲，小德出入，可也。”<br/>　　子游曰：“子夏之门人小子，当洒扫应对进退，则可矣。抑末也，本之则无，如之何？”子夏闻之曰：“噫，言游过矣！君子之道，孰先传焉，孰后倦焉。譬诸草木，区以别矣。君子之道，焉可诬也。有始有卒者，其惟圣人乎？”<br/>　　子夏曰：“仕而优则学，学而优则仕。”<br/>　　子游曰：“丧致乎哀而止。”<br/>　　子游曰：“吾友张也，为难能也，然而未仁。”<br/>　　曾子曰：“堂堂乎张也，难与并为仁矣。”<br/>　　曾子曰：“吾闻诸夫子：人未有自致者也，必也亲丧乎？”<br/>　　曾子曰：“吾闻诸夫子：孟庄子之孝也，其他可能也，其不改父之臣，与父之政，是难能也。”<br/>　　孟氏使阳肤为士师，问与曾子，曾子曰：“上失其道，民散久矣。如得其情，则哀矜而勿喜。”<br/>　　子贡曰：“纣之不善，不如是之甚也。是以君子恶居下流，天下之恶皆归焉。”<br/>　　子贡曰：“君子之过也，如日月之食焉。过也，人皆见之；更也，人皆仰之。”<br/>　　卫公孙朝问于子贡曰：“仲尼焉学？”子贡曰：“文武之道，未堕于地，在人。贤者识其大者，不贤者识其小者，莫不有文武之道焉，夫子焉不学，而亦何常师之有！”<br/>　　叔孙武叔语大夫于朝曰：“子贡贤于仲尼。”子服景伯以告子贡，子贡曰：“譬之宫墙。赐之墙也及肩，窥见室家之好。夫子之墙数仞，不得其门而入，不见宗庙之美，百官之富。得其门者或寡矣。夫子之云，不亦宜乎？”<br/>　　叔孙武叔毁仲尼，子贡曰：“无以为也。仲尼，不可毁也。他人之贤者，丘陵也，犹可逾也。仲尼，日月也，无得而逾焉。人虽欲自绝，其何伤于日月乎？多见其不知量也。”<br/>　　陈子禽谓子贡曰：“子为恭也，仲尼岂贤与子乎？”子贡曰：“君子一言以为知，一言以为不知，言不可不慎也。夫子之不可及也，犹天之不可阶而升也。夫子之得邦家者，所谓立之斯立，道之斯行，绥之斯来，勤之斯和。其生也荣，其死也哀。如之何其可及也？”<br/><br/>逐句翻译：<br/><br/>【本篇引语】<br/>本篇共计25章。其中著名的文句有：“见危致命，见得思义”；“仕而优则学，学而优则仕”；“君子之过，犹日月之食”；“其生也荣，其死也哀”。本篇中包括的主要内容有：孔子学而不厌、不耻下问的精神；孔子对殷纣王的批评，孔子关于学与仕的关系，君子与小人在有过失时的不同表现，以及孔子与其学生和他人之间的对话。<br/>19.1<br/>【原文】<br/>子张曰：“士见危致命，见得思义，祭思敬，丧思哀，其可已矣。”<br/>【注释】<br/>致命：奉献生命。<br/>【大意】<br/>子张说：“士人遇见国家危险，能献出自己的生命，见到有利益可得，能考虑是不是合乎道义，祭祀时能想到恭敬严肃，临丧时能想到悲哀，这样做就可以了。”<br/>【评析】<br/>“见危致命，见得思义”，这是君子之所为，在需要自己献出生命的时候，他可以毫不犹豫，勇于献身。同样，在有利可得的时候，他往往想到这样做是否符合义的规定。这是孔子思想的精华点。<br/>19.2<br/>【原文】<br/>子张曰：“执德不弘，信道不笃，焉能为有？焉能为亡？”<br/>【注释】<br/>亡：同“无”。<br/>【大意】<br/>子张说：“执守仁德不能发扬光大，信仰道义不能专一诚实，这样，怎么好算他有？又怎么好算他没有？”<br/>19.3<br/>【原文】<br/>子夏之门人问交于子张。子张曰：“子夏云何？”对曰：“子夏曰：‘可者与之，其不可者拒之。’”子张曰：“异乎吾所闻：‘君子尊贤而容众，嘉善而矜不能。’我之大贤与，于人何所不容？我之不贤与，人将拒我，如之何其拒人也？”<br/>【注释】<br/>嘉：嘉许。<br/>与：同“欤”。<br/>【大意】<br/>子夏的门人向子张询问交友之道。子张反问：“你们先生子夏怎么说呢？”门人说：“子夏说：‘可以为友的，就与他交友，不可为友的，就拒绝不和他相交。’”子张说：“这和我听说的不同了：一个君子，该尊崇贤者，同时也宽容众人，应该嘉许贤善人，也哀矜那些能力差的人。如果我是个大贤人，对人有什么不能容忍的呢？如果我自己不贤，别人将会拒绝我，我哪里还能拒绝别人呢？”<br/>19.4<br/>【原文】<br/>子夏曰：“虽小道，必有可观者焉；致远恐泥，是以君子不为也。”<br/>【注释】<br/>小道：指某方面的技能、手艺，如古代所谓的农、圃、医、乐、百工等。<br/>泥（nì）：拘泥，不通达。<br/>【大意】<br/>子夏说：“虽然是小小的技艺，也一定有可取之处；但想靠它成就远大的事业恐怕行不通，所以君子不去从事这些小技艺。”<br/>19.5<br/>【原文】<br/>子夏曰：“日知其所亡，月无忘其所能，可谓好学也已矣。”<br/>【注释】<br/>亡：同“无”。<br/>【大意】<br/>子夏说：“每天能知道所不知道的，每月能不忘记所能做的，可以说是好学了啊！”<br/>【评析】<br/>这是孔子教育思想的一个组成部分。孔子并不笼统反对博学强记，因为人类知识中的很多内容都需要认真记忆，不断巩固，并且在原有知识的基础上再接受新的知识。这一点，对我们今天的教育也有某种借鉴作用。<br/>19.6<br/>【原文】<br/>子夏曰：“博学而笃志，切问而近思，仁在其中矣。”<br/>【注释】<br/>笃志：志，意为“识”，此为强记之义。<br/>切问：问与切身有关的问题。<br/>【大意】<br/>子夏说：“学习广博的知识坚守志向，到近处去发问思考，仁就在其中了。”<br/>【评析】<br/>这里又提到孔子的教育方法问题。“博学而笃志”即“博学而强记”，再一次谈到它的重要性的问题。<br/>19.7<br/>【原文】<br/>子夏曰：“百工居肆以成其事，君子学以致其道。”<br/>【注释】<br/>肆（sì）：古代制造物品的场所，手工业作坊。陈列商品的店铺也叫肆。<br/>【大意】<br/>子夏说：“各行各业的工匠们要整天在作坊里工作来做成他们的器物，君子要终生学习来实现道。”<br/>19.8<br/>【原文】<br/>子夏曰：“小人之过也必文。”<br/>【注释】<br/>文：文饰，掩饰。<br/>【大意】<br/>子夏说：“小人犯了错误一定会去掩饰。”<br/>19.9<br/>【原文】<br/>子夏曰：“君子有三变：望之俨然，即之也温，听其言也厉。”<br/>【大意】<br/>子夏说：“君子的态度感觉上有三种变化：看上去严肃可畏，接近他温和可亲，听他说话言辞精确。”<br/>19.10<br/>【原文】<br/>子夏曰：“君子信而后劳其民；未信，则以为厉己也。信而后谏；未信，则以为谤己也。”<br/>【大意】<br/>子夏说：“君子等民众信任他了，再役使他们；否则他们将会怨他有意折磨自己。要先取得君主的信任，而后去劝谏；否则，他就会以为你是在诽谤他。”<br/>19.11<br/>【原文】<br/>子夏曰：“大德不逾闲，小德出入可也。”<br/>【注释】<br/>大德、小德：指大节小节。<br/>闲：木栏，这里指界限。<br/>【大意】<br/>子夏说：“人的德行，大处不可以逾越界限，小处有些出入是可以的。”<br/>【评析】<br/>这一章提出了大节小节的问题。儒家向来认为，作为有君子人格的人，他应当顾全大局，而不在细微末节上斤斤计较。<br/>19.12<br/>【原文】<br/>子游曰：“子夏之门人小子，当洒扫应对进退，则可矣。抑末也，本之则无，如之何？”子夏闻之，曰：“噫！言游过矣！君子之道，孰先传焉？孰后倦焉？譬诸草木，区以别矣。君子之道，焉可诬也？有始有卒者，其惟圣人乎！”<br/>【注释】<br/>抑：但是，不过。转折的意思。<br/>倦：当是“传”字之误。一说是倦，指并不因为不是本原的知识而倦教。<br/>诬：欺骗。<br/>【大意】<br/>子游说：“子夏的门人，做些洒水扫地、言语应对等接待迎宾的事是可以的，但这不过是细枝末节，若论到本原，就没有了，这怎么办呢？”子夏听了说：“噫！言游错了！君子之道，哪些是先传授，哪些是后传授的呢？道好比草木，是要区别各种类别的。君子之道，怎么可以用欺妄来对人呢？能够按照次序有始有终传授的，大概只有圣人吧！”<br/>【评析】<br/>孔子的两个学生子游和子夏，在如何教授学生的问题上发生了争执，而且争得比较激烈，不过，这其中并没有根本的不同，只是教育方法各有自己的路子。<br/>19.13<br/>【原文】<br/>子夏曰：“仕而优则学，学而优则仕。”<br/>【注释】<br/>优：有余力。<br/>【大意】<br/>子夏说：“做官有余力就应该学习，学习有余力就可以做官。”<br/>【评析】<br/>子夏的这段话集中概括了孔子的教育方针和办学目的。做官之余，还有精力和时间，那他就可以去学习礼乐等治国安邦的知识；学习之余，还有精力和时间，他就可以去做官从政。同时，本章又一次谈到“学”与“仕”的关系问题。<br/>19.14<br/>【原文】<br/>子游曰：“丧致乎哀而止。”<br/>【大意】<br/>子游说：“丧礼只要表现遭丧者的悲哀就可以了。”<br/>19.15<br/>【原文】<br/>子游曰：“吾友张也，为难能也！然而未仁。”<br/>【大意】<br/>子游说：“我的朋友子张是难能可贵的人，然而也没有达到仁。”<br/>19.16<br/>【原文】<br/>曾子曰：“堂堂乎张也，难与并为仁矣。”<br/>【注释】<br/>堂堂：仪表壮伟。一说，高不可攀。据说子张注重外表，为人重在“言语形貌”，不重在“正心诚意”。<br/>【大意】<br/>曾子说：“仪表壮伟的子张啊，却难以与他一起做到仁。”<br/>19.17<br/>【原文】<br/>曾子曰：“吾闻诸夫子：人未有自致者也，必也亲丧乎？”<br/>【大意】<br/>曾子说：“我听孔子说：人没有能自己竭尽其情的，如果有，必定是父母去世的时候吧？”<br/>19.18<br/>【原文】<br/>曾子曰：“吾闻诸夫子：孟庄子之孝也，其他可能也；其不改父之臣与父之政，是难能也。”<br/>【注释】<br/>孟庄子：鲁国大夫孟孙速。他的父亲孟孙蔑，品德好有贤名。<br/>【大意】<br/>曾子说：“我听孔子说：孟庄子的孝顺，其他方面别的人都能做到；但他不改换父亲的旧臣，不改变他父亲的政治措施，是难以做到的。”<br/>19.19<br/>【原文】<br/>孟氏使阳肤为士师，问于曾子。曾子曰：“上失其道，民散久矣！如得其情，则哀矜而勿喜。”<br/>【注释】<br/>阳肤：相传是曾参的七名弟子之一。<br/>矜：怜悯。<br/>【大意】<br/>孟氏任用阳肤为狱官，阳肤去向曾子请教。曾子说：“统治者丧失道义，民心已经离散很久了！如果了解了百姓受屈犯法的实情，就应当同情他们，而不要因为明察而自喜啊。”<br/>19.20<br/>【原文】<br/>子贡曰：“纣之不善，不如是之甚也。是以君子恶居下流，天下之恶皆归焉。”<br/>【注释】<br/>纣：名辛，史称帝辛，“纣”是谥号。商朝最后一个君主。<br/>是：代词，指人们传说的那样。<br/>恶（wù）：讨厌，厌恶，憎恨。<br/>恶（è）：坏事。<br/>【大意】<br/>子贡说：“殷纣王的不善，不如传说的那么严重啊。因此，君子不肯居下流的地位，使天下的一切坏事都归到他的头上来。”<br/>19.21<br/>【原文】<br/>子贡曰：“君子之过也，如日月之食焉：过也，人皆见之；更也，人皆仰之。”<br/>【大意】<br/>子贡说：“君子有过错，如同日蚀月蚀：他犯错，人们都看得见；改正，人们都仰望着他。”<br/>19.22<br/>【原文】<br/>卫公孙朝问于子贡曰：“仲尼焉学？”子贡曰：“文武之道，未坠于地，在人。贤者识其大者，不贤者识其小者。莫不有文武之道焉。夫子焉不学？而亦何常师之有？”<br/>【注释】<br/>公孙朝：卫国大夫。<br/>坠于地：掉到地上。<br/>常师：固定的老师。<br/>【大意】<br/>卫国的公孙朝问子贡说：“仲尼的学问是从哪里学来的？”子贡说：“周文王、周武王之道并没有落到地上失传，还有人能知道。贤能的人了解、记住了大的方面，不那么贤能的人了解记住了小的方面，到处都有文武之道。我的老师哪里不能学？而且他何尝有固定的老师呢？”<br/>【评析】<br/>这一章又讲到孔子之学何处而来的问题。子贡说，孔子承袭了周文王、周武王之道，并没有固定的老师给他传授。这实际是说，孔子肩负着上承尧舜禹汤文武周公之道，并把它发扬光大的责任，这不需要什么人讲授给孔子。表明了孔子“不耻下问”、“学无常师”的学习过程。<br/>19.23<br/>【原文】<br/>叔孙武叔语大夫于朝，曰：“子贡贤于仲尼。”子服景伯以告子贡。子贡曰：“譬之宫墙，赐之墙也及肩，窥见室家之好；夫子之墙数仞，不得其门而入，不见宗庙之美、百官之富。得其门者或寡矣。夫子之云，不亦宜乎！”<br/>【注释】<br/>叔孙武叔：名州仇，鲁国大夫，三桓之一。<br/>子服景伯：名何，鲁国大夫。<br/>宫：房屋。秦代之前所有的住所，不论尊卑都叫宫。<br/>仞（rèn）：古代长度单位，七尺为一仞。<br/>宜：相称，适宜。<br/>【大意】<br/>叔孙武叔在朝廷上对大夫们说：“子贡比孔子强。”子服景伯把这话告诉了子贡。子贡说：“拿宫墙来比方，我的墙到肩那么高，能看见屋里的美好；我老师的墙有几丈高，不找到门无法进入，见不到宗庙的美好和房屋的富有。能找到门进去的人太少了。那位先生这样说不也是自然的嘛！”<br/>19.24<br/>【原文】<br/>叔孙武叔毁仲尼。子贡曰：“无以为也！仲尼不可毁也。他人之贤者，丘陵也，犹可逾也；仲尼，日月也，无得而逾焉。人虽欲自绝，其何伤于日月乎？多见其不知量也！”<br/>【注释】<br/>多：用作副词，只是的意思。<br/>【大意】<br/>叔孙武叔诋毁孔子。子贡说：“这样做是没用的！孔子是毁谤不了的。别人的贤良像丘陵，还可以翻越；孔子的贤良像日月，无法越过。有人虽然想要自绝于日月，对日月有什么伤害呢？只显出他自己的不知高低而已。”<br/>19.25<br/>【原文】<br/>陈子禽谓子贡曰：“子为恭也，仲尼岂贤于子乎？”子贡曰：“君子一言以为知，一言以为不知，言不可不慎也。夫子之不可及也，犹天之不可阶而升也。夫子之得邦家者，所谓立之斯立，道之斯行，绥之斯来，动之斯和，其生也荣，其死也哀。如之何其可及也？”<br/>【注释】<br/>陈子禽：陈亢，字子禽。参见《学而第一》第十章注。<br/>知：同“智”。<br/>道：同“导”。<br/>【大意】<br/>陈子禽对子贡说：“您对仲尼故意表现恭敬的吧，仲尼怎么能比你贤良呢？”子贡说：“高贵的人只一句话就能表现出明智，只一句话也可以表现出不明智，说话不可以不谨慎啊。我老师的不可企及，如同天不可以阶梯攀登而上一样。我们老师如果能得到治理国家的权位，就像所说的：教民立，民就立。导民行，民就行。经过他安抚，人民都来归附。经过他鼓动，人民和睦团结。他活着时大家很荣耀，他死了，大家都很悲伤。这样的人，我怎么能赶得上呢？”<br/>【评析】<br/>以上这几章，都是子贡回答别人贬低孔子而抬高子贡的问话。子贡对孔子十分敬重，认为他高不可及。所以他不能容忍别人对孔子的毁谤。 <br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-25-384.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-25-386.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-25.html" action-type="chapterComment" class="comment"><i></i>论语章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

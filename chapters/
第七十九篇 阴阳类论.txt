@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《黄帝内经》正文_第七十九篇 阴阳类论_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="黄帝内经,黄帝内经原文,黄帝内经阅读,第七十九篇 阴阳类论全文,佚名作品" />
+<meta name="description" content="黄帝内经原文阅读,第七十九篇 阴阳类论全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-58-1836.html";
+var nextpage="novel-read-58-1838.html";
+var indexpage = "novel-chapter-58.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-58.html">黄帝内经</a></strong>
+<strong><a href="novel-chapter-58.html">黄帝内经目录</a></strong>
+<span>第七十九篇 阴阳类论</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-58-1836.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第七十九篇 阴阳类论</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-07-29 22:12:12<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【本章要点】<br/>　　一、讨论了三阴三阳的含义和功用，以及其相互间的关系和病状、脉象等。<br/>　　二、论述了疾病的预后与四时阴阳的关系。<br/>　　【原文】<br/>　　孟春始至①，黄帝燕坐临观八极，正八风之气，而问雷公曰：阴阳之类，经脉之道，五中所主，何脏最贵。雷公对曰：春甲乙青，中主肝，治七十二日，是脉之主时，臣以其脏最贵。<br/>　　帝曰：却念上下经，阴阳从容，子所言贵，最其下也。<br/>　　雷公至斋②七日，旦复侍坐。帝曰：三阳为经，二阳为维，一阳为游部，此知五脏终始。三阳为表，二阴为里，一阴至绝，作朔晦③，却具合以正其理。<br/>　　雷公曰：受业未能明。帝曰：所谓三阳者，太阳为经。三阳脉至手太阴，弦浮而不沉，决以度，察以心，合之阴阳之论。所谓二阳者阳明也，至手太阴，弦而沉急不鼓，炅至以病皆死。一阳者少阳也，至手太阴上连人迎，弦急悬不绝，此少阳之病也，专阴则死。<br/>　　三阴者，六经之所主也。交于太阴、伏鼓不浮，上空志心。二阴至肺，其气归膀胱，外连脾胃。一阴独至，经绝气浮，不鼓，钩而滑。此六脉者，乍阴乍阳，六属相并④，缪通五脏，合于阴阳。先至为主，后至为客。<br/>　　雷公曰：臣悉尽意，受传经脉，颂得从容之道以合从容，不知阴阳，不知雌雄。帝曰：三阳为父，二阳为卫，一阳为纪；三阴为母，二阴为雌，一阴为独使。<br/>　　二阳一阴，阳明主病，不胜一阴，脉软而动，九窍皆沉。<br/>　　三阳一阴，太阳脉胜，一阴不为止，内乱五脏，外为惊骇。<br/>　　二阴二阳病在肺，少阴脉沉，胜肺伤脾，外伤四支。<br/>　　二阴二阳皆交至，病在肾，骂詈妄行，巅疾为狂。<br/>　　二阴一阳，病出于肾。阴气客游于心脘，下空窍堤，闭塞不通，四支别离。<br/>　　一阴一阳代绝，此阴气至心，上下无常，出入不知，喉咽于燥，病在土脾。<br/>　　二阳三阴，至阴皆在，阴不过阳，阳气不能止阴，阴阳并绝，浮为血瘕，沉为脓附。阴阳皆壮，下至阴阳，上合昭昭，下合冥冥，诊决死生之期，遂合岁首。<br/>　　雷公曰：请问短期，黄帝不应。雷公复问，黄帝曰：在经论中。雷公曰：请问短期。黄帝曰：冬三月之病，病合于阳者，至春正月，脉有死征，皆归出春。<br/>　　冬三月之病，在理已尽，草与柳叶皆杀，春阴阳皆，绝期在孟春。<br/>　　春三月之病曰阳杀，阴阳皆绝，期在草干。<br/>　　夏三月之病，至阴不过十日，阴阳交，期在溓水⑤。<br/>　　秋三月之病，三阳俱起，不治自已。阴阳交合者，立不能坐，坐不能起。三阳独至，期在石水。二阴独至，期在盛水。<br/>　　【注释】<br/>　　①孟春始至：孟春，即农历正月；孟春始至，指立春当日。<br/>　　②斋：古人在祭祀或者举行典礼前整洁身心示庄重。<br/>　　③朔晦：朔，农历每月初一；晦，农历每月最后一日。<br/>　　④六属相并：属，联合；并，会聚。指六经之脉交联会聚于寸口。<br/>　　⑤溓水：在初冬结薄冰的时候。<br/>　　【译文】<br/>　　在立春的这一天，黄帝很安闲地坐着，观看八方的远景，候察八风的方向，向雷公问道：按照阴阳的分析方法和经脉理论，配合五脏主时，你认为哪一脏最贵？雷公回答说：春季为一年之首，属甲乙木，其色青，五脏中主肝，肝旺于春季七十二日，此时也是肝脉当令的时候，所以我认为肝脏为最贵。<br/>　　黄帝道：我依据《上、下经》阴阳比类分析的理论来体会，你认为最贵的，却是其中最贱下的。<br/>　　雷公斋戒了七天，早晨又侍坐于黄帝的一旁。黄帝道：三阳为经，二阳为维，一阳为游部，懂得这些，可以知道五脏之气运行的终始了。三阴为表，二阴为里，一阴为阴气之最终，是阳气的开始，有如朔晦的交界，都符合于天地阴阳终始的道理。<br/>　　雷公说：我还没有明白其中的意义。黄帝道：所谓“三阳”，是指太阳，其脉至于手太阴寸口，见弦浮不沉之象，应当根据常度来判断，用心体察，并参合阴阳之论，以明好坏。所谓“二阳”，就是阳明，其脉至于手太阴寸口，见弦而沉急，不鼓击于指，火热大至之时而有此病脉，大都有死亡的危险。“一阳”就是少阳，其脉至于手太阴寸口，上连人迎，见弦急悬而不绝，这是少阳经的病脉，如见有阴而无阳的真脏脉象，就要死亡。“三阴”为手太阴肺经，肺朝百脉，所以为六经之主，其气交于太明寸口，脉象沉伏鼓动而不浮，是太阴之气陷下而不能上升，以致心志空虚。“二阴”是少阴，其脉至于肺，其气归于膀胱，外与脾胃相连。“一阴”是厥阴，其脉独至于太阴寸口，经气已绝，故脉气浮而不鼓，脉象如钩而滑。以上六种脉象，或阳脏见阴脉，或阴脏见阳脉，相互交错，会聚于寸口，都和五脏相通，与阴阳之道相合。如出现此种脉象，凡先见于寸口的为主，后见于寸口的为客。<br/>　　雷公说：我已经完全懂得您的意思了，把您以前传授给我的经脉道理，以及我自己从书本上读到的从容之道，和今天您所讲的从容之法相结合的话，我还不明白其中阴阳雌雄的意义。黄帝道：三阳如父亲那样高尊，二阳如外卫，一阳如枢纽；三阴如母亲那样善于养育，二阴如雌性那样内守，一阴如使者一般，能交通阴阳。<br/>　　二阳一阴是阳明主病，二阳不胜一阴，则阳明脉软而动，九窍之气沉滞不利。三阳一阴为病，则太阳脉胜，寒水之气大盛，一阴肝气不能制止寒水，故内乱五脏，外现惊骇。二阴二阳则病在肺，少阴脉沉，少阴之气胜肺伤脾，在外伤及四肢。二阴与二阳交互为患，则土邪侮水，其病在肾，骂詈妄行，癫疾狂乱。二阴一阳，其病出于肾，阴气上逆于心，并使脘下空窍如被堤坝阻隔一样闭塞不通，四肢好像离开身体一样不能为用。一阴一阳为病，其脉代绝，这是厥阴之气上至于心发生的病变，或在上部，或在下部，而无定处，饮食无味，大便泄泻无度，咽喉干燥，病在脾土。二阳三阴为病，包括至阴脾土在内，阴气不能至于阳，阳气不能达于阴，阴阳相互隔绝，阳浮于外则内成血瘕，阴沉于里则外成脓肿；若阴阳之气都盛壮，而病变趋向于下，在男子则阳道生病，女子则阴器生病。上观天道，下察地理，必以阴阳之理来决断病者死生之期，同时还要参合一岁之中何气为首。<br/>　　雷公说：请问疾病的死亡日期。黄帝没有回答。雷公又问。黄帝道：在医书上有说明。雷公又说：请问疾病的死亡日期。黄帝道：冬季三月的病，如病症脉象都属阳盛，则春季正月见脉有死征，那么到出春交夏，阳盛阴衰之时，便会有死亡的危险。冬季三月的病，根据天理，势必将尽，草和柳叶都枯死了，如果到春天阴阳之气都绝，那么其死期就在正月。春季三月的病，名为“阳杀”。阴阳之气都绝，死期在冬天草木枯干之时。夏季三月的病，若不愈，到了至阴之时，那么其死期在至阴后不超过十日；若脉见阴阳交错，则死期在初冬结薄冰之时。冬季三月的病，表现了手足三阳的脉证，不给治疗也会自愈。若是阴阳交错合而为病，则立而不能坐，坐而不能起。若三阳脉独至，则独阳无阴，死期在冰结如石之时。三阴脉独至，则独阴无阳，死期在正月雨水节。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-58-1836.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-58-1838.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-58.html" action-type="chapterComment" class="comment"><i></i>黄帝内经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

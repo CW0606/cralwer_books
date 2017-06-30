@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《南齐书》正文_卷十四·志第六·州郡上_萧子显作品 - 维普阅读网</title>
+<meta name="keywords" content="南齐书,南齐书原文,南齐书阅读,卷十四·志第六·州郡上全文,萧子显作品" />
+<meta name="description" content="南齐书原文阅读,卷十四·志第六·州郡上全文在线阅读,萧子显作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-656-8213.html";
+var nextpage="novel-read-656-8215.html";
+var indexpage = "novel-chapter-656.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-656.html">南齐书</a></strong>
+<strong><a href="novel-chapter-656.html">南齐书目录</a></strong>
+<span>卷十四·志第六·州郡上</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-656-8213.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷十四·志第六·州郡上</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=萧子显&amp;searchsubmit=yes"  target="_blank">萧子显</a><span class="divide">|</span>发布时间：2014-10-19 18:51:06<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　扬南徐豫南豫南兖北兖北徐青冀江广交越<br/><br/>　　扬州，京辇神皋。汉、魏刺史镇寿春，吴置持节督州牧八人，不见扬州都督所治。晋太康元年，吴平，刺史周浚始镇江南。元帝为都督，渡江左，遂成帝畿，望实隆重。领郡如左：<br/><br/>　　丹阳郡<br/><br/>　　建康秣陵丹阳溧阳永世湖熟江宁句容<br/><br/>　　会稽郡<br/><br/>　　山阴永兴上虞余姚诸暨剡鄞始宁句章鄮<br/><br/>　　吴郡<br/><br/>　　吴娄海虞嘉兴海盐钱唐富阳盐官新城建德寿昌桐庐<br/><br/>　　吴兴郡<br/><br/>　　乌程武康余杭东迁长城於潜临安故鄣安吉原乡<br/><br/>　　东阳郡<br/><br/>　　长山太末乌伤永康信安吴宁丰安定阳遂昌<br/><br/>　　新安郡<br/><br/>　　始新黟遂安歙海宁<br/><br/>　　临海郡<br/><br/>　　章安临海宁海始丰乐安<br/><br/>　　永嘉郡<br/><br/>　　永宁安固松阳横阳乐成<br/><br/>　　南徐州，镇京口。吴置幽州牧，屯兵在焉。丹徒水道入通吴会，孙权初镇之。《尔雅》曰：「绝高为京。」今京城因山为垒，望海临江，缘江为境，似河内郡，内镇优重。宋氏以来，桑梓帝宅，江左流寓，多出膏腴。领郡如左：<br/><br/>　　南东海郡<br/><br/>　　郯祝其襄贲利成西隰丹徒武进<br/><br/>　　晋陵郡<br/><br/>　　晋陵无锡延陵曲阿暨阳南沙海阳<br/><br/>　　义兴郡永明二年，割属扬州，后复旧。<br/><br/>　　<br/><br/>　　阳羡临津国山义乡绥安<br/><br/>　　南琅邪郡本治金城，永明徙治白下。<br/><br/>　　<br/><br/>　　临沂江乘兰陵承建武三年省<br/><br/>　　谯建元二年，平阳郡流民在临江郡者，立宣祚县，寻改为谯。永明元年，省怀化一县并属。<br/><br/>　　<br/><br/>　　临淮郡自此以下，郡无实土。<br/><br/>　　<br/><br/>　　海西射阳凌淮阴东阳淮浦建武二年省。<br/><br/>　　<br/><br/>　　淮陵郡<br/><br/>　　司吾武阳建武三年，省泰山郡属。<br/><br/>　　甄城阳乐徐建武三年省<br/><br/>　　<br/><br/>　　南东莞郡<br/><br/>　　东莞莒姑幕建武三年省。<br/><br/>　　<br/><br/>　　南清河郡南徐州领冀州<br/><br/>　　<br/><br/>　　东武城清河贝丘绎幕建武二年省。<br/><br/>　　<br/><br/>　　南彭城郡<br/><br/>　　彭城武原傅阳蕃薛开阳洨僮下邳建武三年省<br/><br/>　　吕建武四年省<br/><br/>　　杼秋建武四年省<br/><br/>　　北陵建武四年省<br/><br/>　　<br/><br/>　　南高平郡宋太始五年侨置，初寄治淮阴，复徙淮南当涂。二县侨属南豫，后属南徐。<br/><br/>　　<br/><br/>　　金飨高平<br/><br/>　　南济阴郡<br/><br/>　　城武单父城阳建武三年省。<br/><br/>　　<br/><br/>　　南濮阳郡<br/><br/>　　廪丘东燕会鄄城建武三年，省济阳郡度属。<br/><br/>　　榆次建武二年省<br/><br/>　　<br/><br/>　　南鲁郡建武二年省<br/><br/>　　<br/><br/>　　鲁樊西安建武二年省<br/><br/>　　<br/><br/>　　南平昌郡建武三年省<br/><br/>　　<br/><br/>　　安丘郡省，属东莞。<br/><br/>　　<br/><br/>　　南泰山郡建武三年省<br/><br/>　　<br/><br/>　　南城郡省，度属平昌，寻又省。<br/><br/>　　广平<br/><br/>　　南济阳郡建武三年省<br/><br/>　　<br/><br/>　　考城郡省，度属鲁，寻又省。<br/><br/>　　<br/><br/>　　豫州。晋元帝永昌元年，刺史祖约避胡贼，自谯还治寿春。寿春，淮南一都之会，地方千余里，有陂田之饶。汉、魏以来扬州刺史所治，北拒淮水，《禹贡》云「淮海惟扬州」也。咸和四年，祖约以城降胡，复以庾亮为刺史，治芜湖。芜湖，浦水南入，亦为险奥。刘备谓孙权曰：「江东先有建业，次有芜湖。」庾亮经略中原，以毛宝为刺史，治邾城，为胡所覆。荆州刺史庾翼领州，在武昌。诸郡失土荒民数千无佃业，翼表移西阳、新蔡二郡荒民就陂田于寻阳。穆帝永和五年，胡伪扬州刺史王浃以寿春降。而刺史或治历阳，进马头及谯，不复归旧镇也。哀帝隆和元年，袁真还寿春。真为桓温所灭，温以子熙为刺史，戍历阳。孝武宁康元年，桓冲移姑熟，以边寇未静，分割谯、梁二郡见民，置之浣川，立为南谯、梁郡。十二年，桓石虔还历阳。庾准为刺史，表省诸权置，皆还如本。义熙二年，刘毅复镇姑熟，上表曰：「忝任此州，地不为旷，西界荒余，密迩寇虏，北垂萧条，土气强犷，民不识义，唯战是习。逋逃不逞，不谋日会。比年以来，无月不战，实非空乏所能独抚。请辅国将军张畅领淮南、安丰、梁国三郡。」时豫州边荒，至乃如此。十二年，刘义庆镇寿春，后常为州治。抚接遐荒，扞御疆埸。领郡如左：<br/><br/>　　南汝阴郡建元二年罢南陈左郡二县并<br/><br/>　　<br/><br/>　　慎汝阴宋安阳和城南顿阳夏宋丘《永元元年地志》无<br/><br/>　　樊《永元志》无<br/><br/>　　郑《永元志》无<br/><br/>　　东宋《永元志》无<br/><br/>　　南陈左县《永元志》无<br/><br/>　　边水《永元志》无<br/><br/>　　<br/><br/>　　晋熙郡<br/><br/>　　新冶阴安怀宁南楼烦齐兴太湖左县<br/><br/>　　颍川郡<br/><br/>　　临颍邵陵南许昌《永元志》无<br/><br/>　　曲阳<br/><br/>　　汝阳郡<br/><br/>　　武津汝阳<br/><br/>　　梁郡《永元元年地志》，南梁郡领睢阳、新汲、陈、蒙、崇义五县。<br/><br/>　　<br/><br/>　　北谯梁蒙城父《永元志》属南谯<br/><br/>　　<br/><br/>　　北陈郡<br/><br/>　　阳夏西华苌平项<br/><br/>　　陈留郡<br/><br/>　　浚仪小黄雍丘<br/><br/>　　南顿郡《永元元年地志》无<br/><br/>　　<br/><br/>　　和城南顿<br/><br/>　　西南顿郡寄治州，《永元元年地志》无<br/><br/>　　<br/><br/>　　西南顿和城谯平乡<br/><br/>　　北梁郡《永元元年地志》无<br/><br/>　　<br/><br/>　　北蒙北陈<br/><br/>　　西汝阴郡<br/><br/>　　楼烦汝阴宋陈《永元志》无<br/><br/>　　平豫《永元志》无<br/><br/>　　固始《永元志》无<br/><br/>　　新蔡《永元志》无<br/><br/>　　汝南《永元志》无<br/><br/>　　安城<br/><br/>　　北谯郡<br/><br/>　　宁陵谯蕲《永元志》属南谯<br/><br/>　　<br/><br/>　　汝南郡《永元元年地志》无<br/><br/>　　<br/><br/>　　瞿阳安城上蔡<br/><br/>　　北新蔡郡<br/><br/>　　鲖阳新蔡固始苞信<br/><br/>　　弋阳郡<br/><br/>　　期思南新息弋阳上蔡平舆<br/><br/>　　陈郡<br/><br/>　　南陈苌平《永元志》无<br/><br/>　　项《永元志》无<br/><br/>　　西华《永元志》无<br/><br/>　　阳夏《永元志》无<br/><br/>　　<br/><br/>　　安丰郡<br/><br/>　　雩娄新化史水扶阳开化边城松滋《永元志》属北新蔡<br/><br/>　　安丰<br/><br/>　　光城左郡<br/><br/>　　乐安光城茹田<br/><br/>　　边城郡《永元元年地志》无<br/><br/>　　<br/><br/>　　建宁郡<br/><br/>　　阳城建宁<br/><br/>　　齐昌郡<br/><br/>　　阳塘保城齐昌永兴<br/><br/>　　右三郡，永明四年割郢州属。<br/><br/>　　南豫州。晋宁康元年，豫州刺史桓冲始镇姑熟，后迁徙，见《晋书》。宋永初二年，分淮东为南豫州，治历阳，而淮西为豫州。元嘉七年省并。大明元年复置，治姑熟。泰始二年治历阳，三年治宣城，五年省。淮西没虏，七年，复分淮东置南豫。建元二年，太祖以西豫吏民寡刻，分置两州，损费甚多，省南豫。左仆射王俭启：「愚意政以江西连接汝、颍，土旷民希。匈奴越逸，唯以寿春为阻。若使州任得才，虏动要有声闻，豫设防御，此则不俟南豫。假令或虑一失，丑羯之来，声不先闻，胡马倏至，寿阳婴城固守不能断其路，朝廷遗军历阳，已当不得先机。戎车初戒，每事草创，孰与方镇常居，军府素正。临时配助，所益实少。安不忘危，古之善政。所以江左屡分南豫，意亦可求。如闻西豫力役尚复粗可，今得南谯等郡，民户益薄，于其实益，复何足云。」太祖不从。永明二年，割扬州宣城、淮南，豫州历阳、谯、庐江、临江六郡，复置南豫州。四年，冠军长史沈宪启：「二豫分置，以桑堁子亭为断。颍川、汝阳在南谯、历阳界内，悉属西豫，庐江居晋熙、汝阴之中，属南豫。求以颍川、汝阳属南豫，庐江还西豫。」七年，南豫州别驾殷瀰称：「颍川、汝阳，荒残来久，流民分散在谯、历二境，多蒙复除，获有郡名，租输益微，府州绝无将吏，空受名领，终无实益。但寄治谯、历，于方断之宜，实应属南豫。二豫亟经分置，庐江属南豫，滨带长江，与南谯接境，民黎租帛，从流送州，实为便利，远逾西豫，非其所愿，郡领灊舒及始新左县，村竹产，府州采伐，为益不少。府州新创，异于旧藩。资役多阙，实希得庐江。请依昔分置。」尚书参议：「往年虑边尘须实，故启回换。今淮、泗无虞，宜许所牒。」诏「可」。领郡如左：<br/><br/>　　淮南郡<br/><br/>　　于湖永明八年，省角城、高平、下邳三县并。<br/><br/>　　繁昌当涂浚遒定陵襄垣<br/><br/>　　宣城郡<br/><br/>　　广德怀安宛陵广阳石城临城宁国宣城建元泾安吴<br/><br/>　　历阳郡<br/><br/>　　历阳龙亢雍丘<br/><br/>　　南谯郡<br/><br/>　　山桑蕲北许昌《永元志》无<br/><br/>　　扶阳曲阳嘉平<br/><br/>　　庐江郡<br/><br/>　　舒建元二年为郡治<br/><br/>　　灊始新和城《永元志》无<br/><br/>　　西华《永元志》无<br/><br/>　　吕亭左县建元二年，割晋熙属。<br/><br/>　　谯建元二年，割南谯属。<br/><br/>　　<br/><br/>　　临江郡建元二年，罢并历阳，后复置。<br/><br/>　　<br/><br/>　　乌江怀德酂<br/><br/>　　南兖州，镇广陵，汉故王国。有江都浦水，魏文帝伐吴出此，见江涛盛壮，叹云：「天所以限南北也。」晋元帝过江，建兴四年，扬声北讨，遣宣城公裒督徐、兖二州，镇广陵。其后或还江南，然立镇自此始也。时百姓遭难，流移此境，流民多庇大姓以为客。元帝太兴四年，诏以流民失籍，使条名上有司，为给客制度，而江北荒残，不可检实。明帝太宁三年，郗鉴为兖州，镇广陵，后还京口。是后兖州或治盱眙，或治山阳。桓玄以桓弘为青州，镇广陵。义熙二年，诸葛长民为青州，徙山阳。时鲜卑接境，长民表云：「此蕃十载衅故相袭，城池崩毁，荒旧散伏，边疆诸戍，不闻鸡犬。且犬羊侵暴，抄掠滋甚。」乃还镇京口。晋末以广陵控接三齐，故青、兖同镇。宋永初元年，罢青并兖。三年，檀道济始为南兖州，广陵因此为州镇。土甚平旷，刺史每以秋月多出海陵观涛，与京口对岸，江之壮阔处也。永明元年，刺史柳世隆奏：「尚书符下土断条格，并省侨郡县。凡诸流寓，本无定憩，十家五落，各自星处。一县之民，散在州境，西至淮畔，东届海隅。今专罢侨邦，不省荒邑，杂居舛止，与先不异。离为区断，无革游滥。谓应同省，随堺并帖。若乡屯里聚，二三百家，井甸可修，区域易分者，别详立。」于是济阴郡六县，下邳郡四县，淮阳郡三县，东莞郡四县，以散居无实土，官长无廨舍，寄止民村，及州治立，见省，民户帖属。领郡如左：<br/><br/>　　广陵郡建元四年，罢北淮阳、北下邳、北济阴、东莞四郡并。<br/><br/>　　<br/><br/>　　海陵广陵高邮江都齐宁永明元年置<br/><br/>　　<br/><br/>　　海陵郡<br/><br/>　　建陵宁海如皋临江蒲涛临泽齐昌永明元年置<br/><br/>　　海安永明五年罢新郡，并此县度属。<br/><br/>　　<br/><br/>　　山阳郡<br/><br/>　　东城山阳盐城左乡<br/><br/>　　盱眙郡<br/><br/>　　考城盱眙阳城直渎长乐<br/><br/>　　南沛郡<br/><br/>　　沛萧相<br/><br/>　　北兖州，镇淮阴。《地理志》云淮阴县属临淮郡，《郡国志》属下邳国，《晋太康地记》属广陵郡。穆帝永和中，北中郎将荀羡北讨鲜卑，云「淮阴旧镇，地形都要，水陆交通，易以观衅。沃野有开殖之利，方舟运漕，无他屯阻。」乃营立城池。宋泰始二年失淮北，于此立州镇。建元四年，移镇盱眙，仍领盱眙郡。旧北对清泗，临淮守险，有阳平石鳖，田稻丰饶。所领唯阳平一郡，永明七年，光禄大夫吕安国启称：「北兖州民戴尚伯六十人诉'旧壤幽隔，飘寓失所，今虽创置淮阴，而阳平一郡，州无实土，寄山阳境内。窃见司、徐、青三州，悉皆新立，并有实郡。东平既是望邦，衣冠所系。希于山阳、盱眙二界间割小户置此郡，始招集荒落，使本壤族姓，有所归依。'臣寻东平郡既是此州本领，臣贱族桑梓，愿立此邦。」见许。领郡如左：<br/><br/>　　阳平郡寄治山阳<br/><br/>　　<br/><br/>　　泰清永阳安宜丰国<br/><br/>　　东平郡<br/><br/>　　寿张割山阳官渎以西三百户置<br/><br/>　　淮安割直渎、破釜以东，淮阴镇下流杂一百户置。<br/><br/>　　<br/><br/>　　高平郡<br/><br/>　　济北郡<br/><br/>　　泰山郡<br/><br/>　　新平郡<br/><br/>　　鲁郡<br/><br/>　　右荒。<br/><br/>　　北徐州，镇钟离。《汉志》锺离县属九江郡，《晋太康二年起居注》置淮南钟离，未详此前所省令。《晋地记》属淮南郡。宋泰始末年属南兖。元徽元年置州，割为州治，防镇缘淮。永明元年，省北徐谯、梁、魏、阳平、彭城五郡。领郡如左：<br/><br/>　　锺离郡<br/><br/>　　燕县郡治<br/><br/>　　朝歌虞永明元年，割马头属。<br/><br/>　　零永明元年，割马头属。<br/><br/>　　<br/><br/>　　马头郡<br/><br/>　　已吾永明元年，罢谯郡属。二年，刺史戴僧静又以济县并之。<br/><br/>　　<br/><br/>　　济阴郡<br/><br/>　　顿丘永明元年，罢定陶并。<br/><br/>　　睢陵乐平永明元年，割钟离属。<br/><br/>　　济安永明元年，割钟离属。<br/><br/>　　<br/><br/>　　新昌郡<br/><br/>　　顿丘谷熟尉氏<br/><br/>　　沛郡<br/><br/>　　相萧沛<br/><br/>　　青州，宋泰始初淮北没虏，六年，始治郁州上。郁州在海中，周回数百里，岛出白鹿，土有田畴鱼盐之利。刘善明为刺史，以海中易固，不峻城雉，乃累石为之，高可八九尺。后为齐郡治。建元初，徙齐郡治瓜步，以北海治齐郡故治，州治如旧。流荒之民，郡县虚置，至于分居土著，盖无几焉。建元四年，移镇朐山，后复旧。领郡如左：<br/><br/>　　齐郡永明元年，罢秦郡并之，治瓜步。<br/><br/>　　<br/><br/>　　临淄永明二年，省华城县并<br/><br/>　　齐安永明元年罢<br/><br/>　　西安宿豫尉氏平虏昌国泰益都<br/><br/>　　北海郡<br/><br/>　　都昌宋郁县，建元改用汉名也。<br/><br/>　　广饶赣榆胶东剧下密平寿<br/><br/>　　东莞琅邪二郡治朐山也<br/><br/>　　<br/><br/>　　即丘南东莞永明元年，以流户置。<br/><br/>　　北东莞<br/><br/>　　冀州，宋元嘉九年分青州置。青州领齐、济南、乐安、高密、平昌、北海、东莱、太原、长广九郡，冀州领广川、平原、清河、乐陵、魏郡、河间、顿丘、高阳、勃海九郡。泰始初，遇虏寇，并荒没。今所存者，泰始之后更置立也。二州共一刺史。郡县十无八九，但有名存，案《宋志》自知也。建元初，以东海郡属冀州。全领一郡：<br/><br/>　　北东海郡治连口<br/><br/>　　<br/><br/>　　襄贲僮下邳厚丘曲城<br/><br/>　　江州，镇寻阳，中流衿带。晋元康元年，惠帝诏：「荆、扬二州，疆土旷远。有司奏割扬州之豫章、鄱阳、庐陵、临川、南康、建安、晋安为新州。新安、东阳、宣城旧豫章封内，豫章之东北，相去悬远，可如故属扬州。又割荆州之武昌、桂阳、安成并十郡，可因江水之名为江州，宜治豫章。」庾亮领刺史，都督六州，云以荆、江为本，校二州户口，虽相去机事，实觉过半，江州实为根本。临终表江州宜治寻阳，以州督豫州新蔡、西阳二郡，治湓城，接近东江诸郡，往来便易。其后庾翼又还豫章。义熙后，还寻阳。何无忌表：「竟陵去治辽远，去江陵正三百里，荆州所立绥安郡民户，参入此境，郡治常在夏口左右，欲资此郡助江滨戍防，以竟陵还荆州。又司州弘农、扬州松滋二郡，寄寻阳，人民杂居，宜并见督。」今九江在州镇之北，彭蠡在其东也。领郡如左：<br/><br/>　　寻阳郡。<br/><br/>　　柴桑彭泽<br/><br/>　　豫章郡<br/><br/>　　南昌新淦艾建城建昌望蔡新吴永修吴平康乐豫章丰城<br/><br/>　　临川郡<br/><br/>　　南城临汝新建永城宜黄南丰东兴安浦西丰<br/><br/>　　庐陵郡<br/><br/>　　石阳西昌东昌吉阳巴丘兴平高昌阳丰遂兴<br/><br/>　　鄱阳郡<br/><br/>　　鄱阳余干葛阳乐安广晋上饶<br/><br/>　　安成郡<br/><br/>　　平都新喻永新萍乡宜阳广兴安复<br/><br/>　　南康郡<br/><br/>　　赣雩都南野宁都平固陂阳虔化永明八年，罢安远县并。<br/><br/>　　南康<br/><br/>　　南新蔡郡<br/><br/>　　慎苞信阳唐左县宋<br/><br/>　　建安郡<br/><br/>　　吴兴建安将乐邵武建阳绥城沙村<br/><br/>　　晋安郡<br/><br/>　　候官罗江原丰晋安温麻<br/><br/>　　广州，镇南海。滨际海隅，委输交部，虽民户不多，而俚獠猥杂，皆楼居山险，不肯宾服。西南二江，川源深远，别置督护，专征讨之。卷握之资，富兼十世。尉他余基，亦有霸迹，江左以其辽远，蕃戚未有居者，唯宋随王诞为刺史，领郡如左：<br/><br/>　　南海郡<br/><br/>　　番禺熙安博罗增城龙川怀化酉平绥宁新丰罗阳高要安远河源<br/><br/>　　东官郡<br/><br/>　　怀安宝安海安欣乐海丰齐昌陆安兴宁<br/><br/>　　义安郡<br/><br/>　　绥安海宁海阳义招潮阳程乡<br/><br/>　　新宁郡<br/><br/>　　博林南兴临沇甘泉新成威平单牒龙潭城阳威化归顺初兴抚纳平乡<br/><br/>　　苍梧郡<br/><br/>　　广信宁新封兴抚宁遂城丁留怀熙猛陵广宁荡康侨宁思安<br/><br/>　　高凉郡<br/><br/>　　安宁罗州莫阳西巩思平禽乡平定<br/><br/>　　永平郡<br/><br/>　　夫宁安沂幹安卢平员乡苏平逋宁雷乡开城毗平武林丰城<br/><br/>　　晋康郡<br/><br/>　　威城都城夫阮元溪安遂晋化永始端溪宾江熙宁乐城武定悦城文招义立<br/><br/>　　新会郡<br/><br/>　　盆允新夷封平初宾封乐义宁新熙永昌始康招集始成<br/><br/>　　广熙郡<br/><br/>　　龙乡罗平宾化宁乡长化定昌永熙宝宁<br/><br/>　　宋康郡<br/><br/>　　广化石门化隆遂度威覃单城开宁海邻舆定绥定<br/><br/>　　宋隆郡<br/><br/>　　平兴招兴崇化建宁熙穆崇德<br/><br/>　　海昌郡<br/><br/>　　宁化招怀永建始化新建<br/><br/>　　绥建郡<br/><br/>　　新招四会化蒙化注化穆<br/><br/>　　乐昌郡<br/><br/>　　始昌乐山宋元义立安乐<br/><br/>　　郁林郡<br/><br/>　　布山郁平阿林建安始集龙平宾平新林绥宁中胄领方怀安归化晋平威化<br/><br/>　　桂林郡<br/><br/>　　武熙腾溪潭平龙冈临浦中留武丰程安威定潭中安远安化龙定<br/><br/>　　宁浦郡<br/><br/>　　安广简阳平山宁浦兴道吴安<br/><br/>　　晋兴郡<br/><br/>　　晋兴熙注桂林增翊安广广郁晋城郁阳<br/><br/>　　齐乐郡<br/><br/>　　希平观宁臻安宋平绥南封陵<br/><br/>　　齐康郡<br/><br/>　　乐康<br/><br/>　　齐建郡<br/><br/>　　初宁永城<br/><br/>　　齐熙郡<br/><br/>　　交州，镇交阯，在海涨岛中。杨雄《箴》曰：「交州荒遰，水与天际。」外接南夷，宝货所出。山海珍怪，莫与为比。民恃险远，数好反叛。领郡如左：<br/><br/>　　九真郡<br/><br/>　　移风胥浦松原高安建初常乐津梧军安吉庞武宁<br/><br/>　　武平郡<br/><br/>　　武定封溪平道武兴根宁南移<br/><br/>　　新昌郡<br/><br/>　　范信嘉宁封山西道临西吴定新道晋化<br/><br/>　　九德郡<br/><br/>　　九德咸驩浦阳南陵都洨越常西安<br/><br/>　　日南郡<br/><br/>　　西卷象林寿冷朱吾比景卢容无劳<br/><br/>　　交�止郡<br/><br/>　　龙编武宁望海句漏吴兴西于朱緌南定曲易海平羸�娄<br/><br/>　　宋平郡<br/><br/>　　昌国义怀绥宁<br/><br/>　　宋寿郡建元二年，割越州属。<br/><br/>　　<br/><br/>　　义昌郡永元二年，改沃屯置。<br/><br/>　　<br/><br/>　　越州，镇临漳郡，本合浦北界也。夷獠丛居，隐伏岩障，寇盗不宾，略无编户。宋泰始中，西江督护陈伯绍猎北地，见二青牛惊走入草，使人逐之不得，乃志其处，云「此地当有奇祥」。启立为越州。七年，始置百梁、陇苏、永宁、安昌、富昌、南流六郡，割广、交朱緌三郡属。元徽二年，以伯绍为刺史，始立州镇，穿山为城门，威服俚獠。土有瘴气杀人。汉世交州刺史每暑月辄避处高，今交土调和，越瘴独甚。刺史常事戎马，唯以战伐为务。<br/><br/>　　临漳郡<br/><br/>　　漳平丹城劳石容城长石都并缓端<br/><br/>　　合浦郡<br/><br/>　　徐闻合浦朱卢新安晋始荡昌朱丰宋丰宋广<br/><br/>　　永宁郡<br/><br/>　　杜罗金安蒙廖简留城<br/><br/>　　百梁郡<br/><br/>　　百梁始昌宋西<br/><br/>　　安昌郡<br/><br/>　　武桑龙渊石秋抚林<br/><br/>　　南流郡<br/><br/>　　方度<br/><br/>　　北流郡永明六年立，无属县。<br/><br/>　　<br/><br/>　　龙苏郡<br/><br/>　　龙苏<br/><br/>　　富昌郡<br/><br/>　　南立义立归明<br/><br/>　　高兴郡<br/><br/>　　宋和宁单高兴威成夫罗南安归安陈莲高城新建<br/><br/>　　思筑郡<br/><br/>　　盐田郡<br/><br/>　　杜同<br/><br/>　　定川郡<br/><br/>　　兴昌<br/><br/>　　隆川郡<br/><br/>　　良国<br/><br/>　　齐宁郡建元二年置，割郁林之新邑、建初二县并。<br/><br/>　　<br/><br/>　　开城建元二年置<br/><br/>　　延海新邑建初<br/><br/>　　越中郡<br/><br/>　　马门郡<br/><br/>　　钟吴田罗马陵思宁<br/><br/>　　封山郡<br/><br/>　　安金<br/><br/>　　吴春俚郡永明六年立，无属县。<br/><br/>　　<br/><br/>　　齐隆郡先属交州，中改为囗囗，永泰元年，改为齐隆，还属囗州。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-656-8213.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-656-8215.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-656.html" action-type="chapterComment" class="comment"><i></i>南齐书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

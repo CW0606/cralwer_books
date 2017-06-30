@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《素书》正文_安礼_黄石公作品 - 维普阅读网</title>
+<meta name="keywords" content="素书,素书原文,素书阅读,安礼全文,黄石公作品" />
+<meta name="description" content="素书原文阅读,安礼全文在线阅读,黄石公作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-249-3945.html";
+var nextpage="novel-chapter-249.html";
+var indexpage = "novel-chapter-249.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-249.html">素书</a></strong>
+<strong><a href="novel-chapter-249.html">素书目录</a></strong>
+<span>安礼</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-249-3945.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>安礼</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=黄石公&amp;searchsubmit=yes"  target="_blank">黄石公</a><span class="divide">|</span>发布时间：2014-08-25 21:04:41<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/><br/>　　怨在不舍小过，患在不预定谋。福在积善，祸在积恶。饥在贱农，寒在堕织。安在得人，危在失事。富在迎来，贫在弃时。上无常操，下多疑心。轻上生罪，侮下无亲。近臣不重，远臣轻之。自疑不信人，自信不疑人。枉士无正友，曲上无直下。危国无贤人，乱政无善人。爱人深者求贤急，乐得贤者养人厚。国将霸者士皆归，邦将亡者贤先避。地薄者大物不产，水浅者大鱼不游，树秃者大禽不栖，林疏者大兽不居。山峭者崩，泽满者溢。弃玉取石者盲，羊质虎皮者柔。衣不举领者倒，走不视地者颠。柱弱者屋坏，辅弱者国倾。足寒伤心，人怨伤国。山将崩者下先隳，国将衰者人先弊。根枯枝朽，人困国残。与覆车同轨者倾，与亡国同事者灭。见已生者慎将生，恶其迹者须避之。畏危者安，畏亡者存。夫人之所行，有道则吉，无道则凶。吉者，百福所归；凶者，百祸所攻。非其神圣，自然所钟。务善策者无恶事，无远虑者有近忧。同志相得，同仁相忧，同恶相党，同爱相求，同美相妒，同智相谋，同贵相害，同利相忌，同声相应，同气相感，同类相依，同义相亲，同难相济，同道相成，同艺相规，同巧相胜：此乃数之所得，不可与理违。释己而教人者逆，正己而化人者顺。逆者难从，顺者易行，难从则乱，易行则理。如此理身、理国、理家，可也！<br/><br/>　　【译文】<br/><br/>　　怨恨产生于不肯赦免小的过失；祸患产生于事前未作仔细的谋画；幸福在于积善累德；灾难在于多行不义。 轻视农业，必招致饥馑；惰于蚕桑，必挨冷受冻。得人必安，失士则危。招来远客即富，荒废农时则贫。上位者反覆无常，言行不一，部属必生猜疑之心，以求自保。对上官轻视怠慢，必定获罪；对下属侮辱傲慢，必定失去亲附。近幸左右之臣不受尊重，关系疏远之臣必不安其位。自己怀疑自己，则不会信任别人；自己相信自己，则不会怀疑别人。邪恶之士决无正直的朋友；邪僻的上司必没有公正刚直的部下。行将灭亡的国家，决不会有贤人辅政；陷于混乱的政治，决不会有善人参与。爱人深者，一定急于求贤才，乐得于贤才者，待人一定丰厚。国家即将称霸，人才都会聚集来归；邦国即将败亡，贤者先行隐避。土地贫瘠，大物不产；水浅之处，大鱼不游；秃树之上，大禽不栖；疏林之中，大兽不居。山势过于陡峭，则容易崩塌；沼泽蓄水过满，则会漫溢出来。弃玉抱石者目光如盲，羊质虎皮者虚于矫饰。拿衣服时不提领子，势必把衣服拿倒。走路不看地面的一定会跌倒。 <br/><br/>　　房屋梁柱软弱，屋子会倒塌；才力不足的人掌政，国家会倾覆。脚下受寒，心肺受损；人心怀恨，国家受伤。大山将要崩塌，土质会先毁坏；国家将要衰亡，人民先受损害。树根干枯，枝条就会腐朽；人民困窘，国家将受伤害。与倾覆的车子走同一轨道的车，也会倾覆；与灭亡的国家做相同的事，也会灭亡。 见到已发生的事情，应警惕还将发生类似的事情；预见险恶的人事，应事先回避。害怕危险，常能得安全；害怕灭亡，反而能生存。人的所作所为，符合行事之道则吉，不符合行事之道则凶。吉祥的人，各种各样的好处都到他那里；不吉祥的人，各种各样的恶运灾祸都向他袭来。这并不是什么奥妙的事，而是自然之理。 务善策者无恶事，无远虑者有近忧。 同志相得，同仁同忧，同恶相党，同爱同求，同美相妒，同智相谋，同贵相害，同利相忌。同声相应，同气相感，同类相似，同义相亲，同难相济。同道相成，同艺相窥，同巧相胜。以上这些都是自然而然的道理，凡人类有所举措，均应遵守这些规律，不可与理相抗。 把自己放在一边，单纯去教育别人，别人就不接受他的大道理；如果严格要求自己，进而去感化别人，别人就会顺服。违反常理，部属则难以顺从；合乎常理，则办事容易。部属难以顺从，则容易产生动乱；办事容易，则能得到畅通的治理。　 <br/><br/>　　以上所述的各项事理，用在修身、持家、治国，均会获得丰硕的效果。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-249-3945.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-249.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-249.html" action-type="chapterComment" class="comment"><i></i>素书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

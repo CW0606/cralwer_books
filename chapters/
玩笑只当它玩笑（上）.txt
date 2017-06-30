@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《花边文学》正文_玩笑只当它玩笑（上）_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="花边文学,花边文学原文,花边文学阅读,玩笑只当它玩笑（上）全文,鲁迅作品" />
+<meta name="description" content="花边文学原文阅读,玩笑只当它玩笑（上）全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-536-6822.html";
+var nextpage="novel-read-536-6824.html";
+var indexpage = "novel-chapter-536.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-536.html">花边文学</a></strong>
+<strong><a href="novel-chapter-536.html">花边文学目录</a></strong>
+<span>玩笑只当它玩笑（上）</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-536-6822.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>玩笑只当它玩笑（上）</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 21:25:05<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>不料刘半农先生竟忽然病故了，学术界上又短少了一个人。这是应该惋惜的。但我于音韵学一无所知，毁誉两面，都不配说一句话。我因此记起的是别一件事，是在现在的白话将被“扬弃”或“唾弃”（２）之前，他早是一位对于那时的白话，尤其是欧化式的白话的伟大的“迎头痛击”者。<br/><br/>　　他曾经有过极不费力，但极有力的妙文：“我现在只举一个简单的例：子曰：‘学而时习之，不亦悦乎？’（３）这太老式了，不好！<br/><br/>　　‘学而时习之，’子曰，‘不亦悦乎？’这好！<br/><br/>　　‘学而时习之，不亦悦乎？’子曰。<br/><br/>　　这更好！为什么好？欧化了。但‘子曰’终没有能欧化到‘曰子’！”<br/><br/>　　这段话见于《中国文法通论》（４）中，那书是一本正经的书；作者又是《新青年》的同人，五四时代“文学革命”的战士，现在又成了古人了。中国老例，一死是常常能够增价的，所以我想从新提起，并且提出他终于也是论语社的同人，有时不免发些“幽默”；原先也有“幽默”，而这些“幽默”，又不免常常掉到“开玩笑”的阴沟里去的。<br/><br/>　　实例也就是上面所引的文章，其实是，那论法，和顽固先生，市井无赖，看见青年穿洋服，学外国话了，便冷笑道：“可惜鼻子还低，脸孔也不白”的那些话，并没有两样的。<br/><br/>　　自然，刘先生所反对的是“太欧化”。但“太”的范围是怎样的呢？他举出的前三法，古文上没有，谈话里却能有的，对人口谈，也都可以懂。只有将“子曰”改成“曰子”是决不能懂的了。然而他在他所反对的欧化文中也寻不出实例来，只好说是“‘子曰’终没有能欧化到‘曰子’！”那么，这不是“无的放矢”吗？<br/><br/>　　欧化文法的侵入中国白话中的大原因，并非因为好奇，乃是为了必要。国粹学家痛恨鬼子气，但他住在租界里，便会写些“霞飞路”，“麦特赫司脱路”（５）那样的怪地名；评论者何尝要好奇，但他要说得精密，固有的白话不够用，便只得采些外国的句法。比较的难懂，不像茶淘饭似的可以一口吞下去是真的，但补这缺点的是精密。胡适先生登在《新青年》上的《易卜生主义》（６），比起近时的有些文艺论文来，的确容易懂，但我们不觉得它却又粗浅，笼统吗？<br/><br/>　　如果嘲笑欧化式白话的人，除嘲笑之外，再去试一试绍介外国的精密的论著，又不随意改变，删削，我想，他一定还能够给我们更好的箴规。<br/><br/>　　用玩笑来应付敌人，自然也是一种好战法，但触着之处，须是对手的致命伤，否则，玩笑终不过是一种单单的玩笑而已。<br/><br/>　　七月十八日。<br/><br/>　　文公直给康伯度的信<br/><br/>　　伯度先生：今天读到先生在《自由谈》刊布的大作，知道为西人侵略张目的急先锋（汉奸）仍多，先生以为欧式文化的风行，原因是“必要”。这我真不知是从那里说起？中国人虽无用，但是话总是会说的。如果一定要把中国话取消，要乡下人也“密司忒”起来，这不见得是中国文化上的“必要”吧。譬如照华人的言语说：张甲说：“今天下雨了。”李乙说：“是的，天凉了。”若照尊论的主张，就应该改做：“今天下雨了，”张甲说。“天凉了，——是的；”李乙说。这个算得是中华民国全族的“必要”吗？一般翻译大家的欧化文笔，已足阻尽中西文化的通路，使能读原文的人也不懂译文。再加上先生的“必要”，从此使中国更无可读的西书了。陈子展先生提倡的“大众语”，是天经地义的。中国人间应该说中国话，总是绝对的。而先生偏要说欧化文法是必要！毋怪大名是“康伯度”，真十足加二的表现“买办心理”了。刘半农先生说：“翻译是要使不懂外国文的人得读”；这是确切不移的定理。而先生大骂其半农，认为非使全中国人都以欧化文法为“必要”的性命不可！先生，现在暑天，你歇歇吧！帝国主义的灭绝华人的毒气弹，已经制成无数了。先生要做买办尽管做，只求不必将全个民族出卖。<br/><br/>　　我是一个不懂颠倒式的欧化文式的愚人！对于先生的盛意提倡，几乎疑惑先生已不是敝国人了。今特负责请问先生为甚么投这文化的毒瓦斯？是否受了帝国主义者的指使？总之，四万万四千九百万（陈先生以外）以内的中国人对于先生的主张不敢领教的！幸先生注意。文公直七月二十五日。<br/><br/>　　八月七日《申报》《自由谈》。<br/><br/>　　康伯度答文公直<br/><br/>　　公直先生：中国语法里要加一点欧化，是我的一种主张，并不是“一定要把中国话取消”，也没有“受了帝国主义者的指使”，可是先生立刻加给我“汉奸”之类的重罪名，自己代表了“四万万四千九百万（陈先生以外）以内的中国人”，要杀我的头了。我的主张也许会错的，不过一来就判死罪，方法虽然很时髦，但也似乎过分了一点。况且我看“四万万四千九百万（陈先生以外）以内的中国人”，意见也未必都和先生相同，先生并没有征求过同意，你是冒充代表的。<br/><br/>　　中国语法的欧化并不就是改学外国话，但这些粗浅的道理不想和先生多谈了。我不怕热，倒是因为无聊。不过还要说一回：我主张中国语法上有加些欧化的必要。这主张，是由事实而来的。中国人“话总是会说的”，一点不错，但要前进，全照老样却不够。眼前的例，就如先生这几百个字的信里面，就用了两回“对于”，这和古文无关，是后来起于直译的欧化语法，而且连“欧化”这两个字也是欧化字；还用着一个“取消”，这是纯粹日本词；一个“瓦斯”，是德国字的原封不动的日本人的音译。<br/><br/>　　都用得很惬当，而且是“必要”的。譬如“毒瓦斯”罢，倘用中国固有的话的“毒气”，就显得含混，未必一定是毒弹里面的东西了。所以写作“毒瓦斯”，的确是出乎“必要”的。<br/><br/>　　先生自己没有照镜子，无意中也证明了自己也正是用欧化语法，用鬼子名词的人，但我看先生决不是“为西人侵略张目的急先锋（汉奸）”，所以也想由此证明我也并非那一伙。否则，先生含狗血喷人，倒先污了你自己的尊口了。<br/><br/>　　我想，辩论事情，威吓和诬陷，是没有用处的。用笔的人，一来就发你的脾气，要我的性命，更其可笑得很。先生还是不要暴躁，静静的再看看自己的信，想想自己，何如？<br/><br/>　　专此布复，并请<br/><br/>　　热安。<br/><br/>　　弟康伯度（７）脱帽鞠躬。八月五日。<br/><br/>　　八月七日《申报》《自由谈》。<br/><br/><br/>　<br/>===============================================================<br/><br/><br/>　　（１）本篇最初发表于一九三四年七月二十五日《申报·自由谈》。<br/><br/>　　（２）白话将被“扬弃”或“唾弃”当时在“大众语”讨论中，有人主张“扬弃”白话文，如高荒在《由反对文言文到建设大众语》中说：“把白话文里面合乎大众需要的部分提高，不合乎大众需要的部分消灭，在实践中将白话文‘扬弃’。”（见一九三四年七月十五日《中华日报·星期专论》）“唾弃”一语见本书《倒提》附录。（３）“学而时习之，不亦悦乎？”语见《论语·学而》。（４）《中国文法通论》刘半农著，一九二○年上海求益书社出版。本文所引的一段，见该书一九二四年印行的《四版附言》中。（５）“霞飞路”旧时上海法租界的路名；露飞（Ｊ．Ｊ．Ｃ．Ｊｏｆｆｒｅ，１８５２—１９３１），是第一次世界大战时法国的统帅。“麦特赫司脱路”，旧时上海公共租界的路名；麦特赫司脱（Ｗ．Ｈ．Ｍｅｄｈｕｒｓｔ），一八六○年左右的英国驻沪领事。<br/><br/>　　（６）胡适的《易卜生主义》一文发表于一九一八年六月十五日《新青年》第四卷第六号。<br/><br/>　　（７）康伯度即“买办”，参看本卷第２６３页注（４）。鲁迅因林默说他写文章是“买办”手笔，故意用了这个名字。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-536-6822.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-536-6824.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-536.html" action-type="chapterComment" class="comment"><i></i>花边文学章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

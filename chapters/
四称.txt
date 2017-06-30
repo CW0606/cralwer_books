@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《管子》正文_四称_管仲作品 - 维普阅读网</title>
+<meta name="keywords" content="管子,管子原文,管子阅读,四称全文,管仲作品" />
+<meta name="description" content="管子原文阅读,四称全文在线阅读,管仲作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-43-1147.html";
+var nextpage="novel-read-43-1149.html";
+var indexpage = "novel-chapter-43.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-43.html">管子</a></strong>
+<strong><a href="novel-chapter-43.html">管子目录</a></strong>
+<span>四称</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-43-1147.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>四称</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=管仲&amp;searchsubmit=yes"  target="_blank">管仲</a><span class="divide">|</span>发布时间：2014-07-24 20:54:47<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　桓公问于管子曰：“寡人幼弱惛愚，不通诸侯四邻之义，仲父不当尽语我昔者有道之君乎？吾亦鉴焉。”管子对曰：“夷吾之所能与所不能，尽在君所矣，君胡有辱令？”桓公又问曰：“仲父，寡人幼弱惛愚，不通四邻诸侯之义，仲父不当尽告我昔者有道之君乎？吾亦鉴焉。”管子对曰：“夷吾闻之于徐伯曰，昔者有道之君，敬其山川、宗庙、社稷，及至先故之大臣，收聚以忠而大富之。固其武臣，宣用其力。圣人在前，贞廉在侧，竟称于义，上下皆饰。形正明察，四时不贷，民亦不忧，五谷蕃殖。外内均和，诸侯臣伏，国家安宁，不用兵革。受币帛，以怀其德；昭受其令，以为法式。此亦可谓昔者有道之君也。”桓公曰：“善哉！”<br/><br/>　　桓公曰：“仲父既己语我昔者有道之君矣，不当尽语我昔者无道之君乎？吾亦鉴焉。”管子对曰：“今若君之美好而宣通也，既官职美道，又何以闻恶为？”桓公曰：“是何言邪？以繬缁缘繬，吾何以知其美也？以素缘素，吾何以知其善也？仲父已语我其善，而不语我其恶，吾岂知善之为善也？”管子对曰：“夷吾闻之徐伯曰，昔者无道之君，大其宫室，高其台榭，良臣不使，谗贼是舍。有家不治，借人为图，政令不善，墨墨若夜，辟若野兽，无所朝处，不修天道，不鉴四方，有家不治，辟若生狂，众所怨诅，希不灭亡。进其谀优，繁其钟鼓，流于博塞，戏其工瞽。诛其良臣，敖其妇女，撩猎毕弋，暴遇诸父，驰骋无度，戏乐笑语。式政既輮，刑罚则烈。内削其民，以为攻伐，辟犹漏釜，岂能无竭。此亦可谓昔者无道之君矣。”桓公曰：“善哉！”<br/><br/>　　桓公曰：“仲父既已语我昔者有道之君与昔者无道之君矣，仲父不当尽语我昔者有道之臣乎？吾以鉴焉。”管子对曰：“夷吾闻之于徐伯曰，昔者有道之臣，委质为臣，不宾事左右；君知则仕，不知则已。若有事，必图国家，遍其发挥。循其祖德，辩其顺逆，推育贤人，谗慝不作。事君有义，使下有礼，贵贱相亲，若兄若弟，忠于国家，上下得体。居处则思义，语言则谋谟，动作则事。居国则富，处军则克，临难据事，虽死不悔。近君为拂，远君为辅，义以与交，廉以与处。临官则治，酒食则慈，不谤其君，不毁其辞。君若有过，进谏不疑；君若有忧，则臣服之。此亦可谓昔者有道之臣矣。”桓公曰：“善哉！”<br/><br/>　　桓公曰：“仲父既以语我昔者有道之臣矣，不当尽语我昔者无道之臣乎？吾亦鉴焉。”管子对曰：“夷吾闻之于徐伯曰，昔者无道之臣，委质为臣，宾事左右；执说以进，不蕲亡己；遂进不退，假宠鬻贵。尊其货贿，卑其爵位；进曰辅之，退曰不可，以败其君，皆曰非我。不仁群处，以攻贤者，见贤若货，见贱若过。贪于货贿，竟于酒食，不与善人，唯其所事。倨敖不恭，不友善士，谗贼与斗，不弥人争，唯趣人诏。湛湎于酒，行义不从。不修先故，变易国常，擅创为令，迷或其君，生夺之政，保贵宠矜。迁损善士，捕援货人，入则乘等，出则党骈，货贿相入，酒食相亲，俱乱其君。君若有过，各奉其身。此亦谓昔者无道之臣。”桓公曰：“善哉！”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-43-1147.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-43-1149.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-43.html" action-type="chapterComment" class="comment"><i></i>管子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

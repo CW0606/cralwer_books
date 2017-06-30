@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《亢仓子》正文_顺训道_亢仓子作品 - 维普阅读网</title>
+<meta name="keywords" content="亢仓子,亢仓子原文,亢仓子阅读,顺训道全文,亢仓子作品" />
+<meta name="description" content="亢仓子原文阅读,顺训道全文在线阅读,亢仓子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-48-1246.html";
+var nextpage="novel-read-48-1248.html";
+var indexpage = "novel-chapter-48.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-48.html">亢仓子</a></strong>
+<strong><a href="novel-chapter-48.html">亢仓子目录</a></strong>
+<span>顺训道</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-48-1246.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>顺训道</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=亢仓子&amp;searchsubmit=yes"  target="_blank">亢仓子</a><span class="divide">|</span>发布时间：2014-07-25 22:55:18<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　闵子骞问仲尼，道之与孝相去奚若。仲尼曰：道者自然之妙用，孝者人道之至德。夫其包运天地，发育万物，曲成类形，布丕性寿，其功至实而不为物府，不为事官，无为功尸，扪求视听莫得而有，字之曰道。用之于人字之曰孝。孝者善事父母之名也。夫善事父母，敬顺为本，意以承之，顺承颜色，无所不至，发一言举一意不敢忘父母，营一手措一足不敢忘父母。事君不敢不忠，朋友不敢不信，临下不敢不敬，向善不敢不勤。虽居独室之中，亦不敢懈其诚，此之谓全孝。故孝诚之至通乎。神明光于四海，有感必应，善事父母之所致也。昔者虞舜其大孝矣乎！庶母惑父，屡憎害之。舜心益恭，惧而无怨。谋使浚井，下土实之，于时天休震动，神明骏赫，道穴而出，奉养滋谨。由是玄德茂盛，为天下君。善事父母之所致也；文王之为太子也，其大孝矣。朝夕必至乎寝门之外，问寺人曰兹日安否何如，曰安，太子温然喜色；小不安节，太子色忧满容朝夕。食上太子必视寒暖之节，食下必知膳羞所进，然后退。寺人言疾，太子肃冠而齐膳宰之馔，必敬视之，汤液之。贡必亲尝之。尝馔善则太子亦能食，尝馔寡太子亦不能饱。以至乎复初，然后亦复初。君后有过，怡声以讽。君后所爱，虽小物必严龚。是故孝成于身，道洽天下。雅曰：文王陟降，在帝左右。言文王静作进退，天必赞之。故纣不能害。梦启之寿，卜世三十，卜年七百，天所命也。善事父母之所致也。闵子骞曰：善事父母之道，幸既闻之矣。敢问教子之义？仲尼曰：凡三王教子，必视礼乐。乐所以修内，礼所以修外。礼乐交修则德容发辉于貌。故能温恭而文明。夫为人臣者，煞其身有益于君则为之，况利其身以善其君乎？是故择建忠良贞正之士，为之师傅，欲其知父于君臣长幼之道。夫知为人子，然後可以为人父；知为人臣，然后可以为人君；知事人，然后能使人。此三王教子之义也。闵子骞退而事之，于家三年，人无间於父母兄弟之言，交游称其信，乡党称其仁，宗族称其悌。德行之声溢于天下，此善事父母之所致也。<br/>　　齐太子坐清台之上，燕庄侯他高冠严色，左带玉具剑，右带环佩，左光照右，右光照左，太子读书不视。壮侯他问曰：齐国有宝乎？太子曰：主信臣忠，百姓戴上，齐国之宝也。壮侯他应声解剑而去。呜呼，人有偏蔽，终身莫自知已乎！贤者见之宽恕而不言，小人暴爱而溢言，亲戚怜嫉而贰言，人有偏蔽恶乎，不自知哉！是故君子检身常若有过，衣其衣，食其食，知其过而不克有以正之者，君子耻之。将欲有言，识其必不能行者，君子罕言。当责众人之恶者，视已善乎哉。当责众人之邪者，视已正乎哉？此之谓反明。　　翟西氏之子甚孝谨，翟西怜其子而好妄与之言。翟西辰出夕返，则曰甲死矣，其子信之。既而甲在焉。他夕则曰乙且害余，其子伺将行仇，既而不见恶端。他夕则曰丁病矣，其子觇之，丁诚无恙。举此类也。冒淹年序子固孝谨，至于训勒，益不保承。乡国之人疾其咎口，谋将煞之。翟西闻而惧，归以告子，子未甚信，既而翟西见煞。谓多言之人为疏露，亦有辞约而不密者，谓轻佻之人，为不定；亦有体闲而心躁者，谓丛杂之人，为猥细；亦有外洁而内浊者，若类而引之，不可殚载。若非彻识，孰克究详。时有不可不应事也者。内静而外动，易动而难静；时有不可不求事也者，内思而外待，待至而后乐。是故外静而内动者，摇思而损性；奔走而逐利者，劳力而害名。人生於世，或有事不遂志，而宣言云不遇时者，是无异负丹颈之罪，俟时行戳，岂不殆哉。其博才通识未见称用者，正可云时非不清，命未与耳，事不韪欤。长于谏者务依存前人之性，而翦制其情之所由起，是以彼此开进亲敬殷笃；不长于谏者务攻前人之性而暗於情之所来，是以彼此嫌贰猜衅日积。儿童之所简者，乃耆耋之所非；耳目之所娱者，乃心虑之所疾。徤责天下之愚者。已之未贤也；徤责天下之迷者，已之未明也。以未贤责众愚，未贤者以之亡；以未明责众迷，未明者以之伤。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-48-1246.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-48-1248.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-48.html" action-type="chapterComment" class="comment"><i></i>亢仓子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《史通》正文_内篇 论赞第九_刘知几作品 - 维普阅读网</title>
+<meta name="keywords" content="史通,史通原文,史通阅读,内篇 论赞第九全文,刘知几作品" />
+<meta name="description" content="史通原文阅读,内篇 论赞第九全文在线阅读,刘知几作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1030-10595.html";
+var nextpage="novel-read-1030-10597.html";
+var indexpage = "novel-chapter-1030.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1030.html">史通</a></strong>
+<strong><a href="novel-chapter-1030.html">史通目录</a></strong>
+<span>内篇 论赞第九</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1030-10595.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>内篇 论赞第九</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘知几&amp;searchsubmit=yes"  target="_blank">刘知几</a><span class="divide">|</span>发布时间：2014-11-28 23:05:05<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　《春秋左氏传》每有发论，假君子以称之。二《传》云公羊子、穀梁子，《史记》云太史公。既而班固曰赞，荀悦曰论，《东观》曰序，谢承曰诠，陈寿曰评，王隐曰议，何法盛曰述，常璩曰撰，刘昺曰奏，袁宏、裴子野自显姓名，皇甫谧、葛洪列其所号。史官所撰，通称史臣。其名万殊，其义一揆。必取便于时者，则总归论赞焉。<br/><br/>　　夫论者，所以辩疑惑，释凝滞。若愚智共了，固无俟商榷。丘明"君子曰"者，其义实在于斯。司马迁始限以篇终，各书一论。必理有非要，则强生其文，史论之烦，实萌于此。夫拟《春秋》成史，持论尤宜阔略。其有本无疑事，辄设论以裁之，此皆私徇笔端，苟衒文彩，嘉辞美句，寄诸简册，岂知史书之大体，载削之指归者哉？必寻其得失，考其异同，子长淡泊无味，承祚懦缓不切，贤才间出，隔世同科。孟坚辞惟温雅，理多惬当。其尤美者，有典诰之风，翩翩奕奕，良可咏也。仲豫义理虽长，失在繁富。自兹以降，流宕忘返，大抵皆华多于实，理少于文，鼓其雄辞，夸其俪事。必择其善者，则干宝、范晔、裴子野是其最也，沈约、臧荣绪、萧子显抑其次也，孙安国都无足采，习凿齿时有可观。若袁彦伯之务饰玄言，谢灵运之虚张高论，玉卮无当，曾何足云！王劭志在简直，言兼鄙野，苟得其理，遂忘其文。观过知仁，斯之谓矣。大唐修《晋书》，作者皆当代词人，远弃史、班，近宗徐、庾。夫以饰彼轻薄之句，而编为史籍之文，无异加粉黛于壮夫，服绮纨于高士者矣。<br/><br/>　　史之有论也，盖欲事无重出，文省可知。如太史公曰：观张良貌如美妇人；项羽重瞳，岂舜苗裔。此则别加他语，以补书中，所谓事无重出者也。又如班固赞曰：石建之浣衣，君子非之；杨王孙裸葬，贤于秦始皇远矣。此则片言如约，而诸义甚备，所谓文省可知者也。及后来赞语之作，多录纪传之言，其有所异，唯加文饰而已。至于甚者，则天子操行，具诸纪末，继以论曰，接武前修，纪论不殊，徒为再列。<br/><br/>　　马迁《自序传》后，历写诸篇，各叙其意。既而班固变为诗体，号之曰述。范晔改彼述名，呼之以赞。寻述赞为例，篇有一章，事多者则约之使少，理寡者则张之令大，名实多爽，详略不同。且欲观人之善恶，史之褒贬，盖无假于此也。<br/><br/>　　然固之总述，合在一篇，使其条贯有序，历然可阅。蔚宗《后书》，实同班氏，乃各附本事，书于卷末，篇目相离，断绝失次。而后生作者，不悟其非，如萧、李、南、北《齐史》，大唐新修《晋史》，皆依范《书》误本，篇终有赞。夫每卷立论，其烦已多，而嗣论以赞，为黩弥甚。亦犹文士制碑，序终而续以铭曰；释氏演法，义尽而宣以偈言。苟撰史若斯，难以议夫简要者矣。<br/><br/>　　至若与夺乖宜，是非失中，如班固之深排贾谊，范晔之虚美隗嚣，陈寿谓诸葛不逮管、萧，魏收称尔朱可方伊、霍，或言伤其实，或拟非其伦。必备加击难，则五车难尽。故略陈梗概，一言以蔽之。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1030-10595.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1030-10597.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1030.html" action-type="chapterComment" class="comment"><i></i>史通章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

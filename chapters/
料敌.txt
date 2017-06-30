@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《吴子》正文_料敌_吴起作品 - 维普阅读网</title>
+<meta name="keywords" content="吴子,吴子原文,吴子阅读,料敌全文,吴起作品" />
+<meta name="description" content="吴子原文阅读,料敌全文在线阅读,吴起作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-42-1109.html";
+var nextpage="novel-read-42-1111.html";
+var indexpage = "novel-chapter-42.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-42.html">吴子</a></strong>
+<strong><a href="novel-chapter-42.html">吴子目录</a></strong>
+<span>料敌</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-42-1109.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>料敌</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=吴起&amp;searchsubmit=yes"  target="_blank">吴起</a><span class="divide">|</span>发布时间：2014-07-24 20:36:25<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　武侯谓吴起曰：“今秦胁吾西，楚带吾南，赵冲吾北，齐临吾东，燕绝吾后，韩据吾前。六国兵四守，势甚不便，忧此奈何？”起对曰：“夫安国家之道，先戒为宝。今君已戒，祸其远矣。臣请论六国之俗：夫齐陈重而不坚，秦陈散而自斗，楚陈整而不久，燕陈守而不走，三晋陈治而不用。”<br/>　　夫齐性刚，其国富，君臣骄奢而简于细民，其政宽而禄不均，一陈两心，前重后轻，故重而不坚。击此之道，必三分之，猎其左右，胁而从之，其陈可坏。　　秦性强，其地险，其政严，其赏罚信，其人不让，皆有斗心，故散而自战。击此之道，必先示之以利而引去之，士贪于得而离其将，乘乖猎散，设伏投机，其将可取。<br/>　　楚性弱，其地广，其政骚，其民疲，故整而不久。击此之道，袭乱其屯，先夺其气，轻进速退，弊而劳之，勿与战争，其军可败。<br/>　　燕性悫，其民慎，好勇义，寡诈谋，故守而不走。击此之道，触而迫之，陵而远之，驰而后之，则上疑而下惧，谨我车骑必避之路，其将可虏。　　三晋者，中国也，其性和，其政平，其民疲于战，习于兵，轻其将，薄其禄，士无死志，故治而不用。击此之道，阻陈而压之，众来则拒之，去则追之，以倦其师。此其势也。<br/>　　“然则一军之中必有虎贲之士，力轻扛鼎，足轻戎马，搴旗取将，必有能者。若此之等，选而别之，爱而贵之，是谓军命。其有工用五兵材力健疾，志在吞敌者，必加其爵列，可以决胜。厚其父母妻子，劝赏畏罚。此坚阵之士，可与持久。能审料此；或以击倍。”武侯曰“善！”<br/>　　吴子曰：“凡料敌，有不卜而与之战者八：一曰疾风大寒，早兴寤迁，刊木济水，不惮艰难；二曰盛夏炎热，晏兴无间，行驱饥渴，务于取远；三曰师既淹久，粮食无有，百姓怨怒，妖祥数起，上不能止；四曰军资既渴，薪刍既寡，天多阴雨，欲掠无所；五曰徒众不多，水地不利，人马疾疫，四邻不至；六曰道远日暮，士众劳惧，倦而未食，解甲而息；七曰将薄吏轻，士卒不固，三军数惊，师徒无助；八曰陈而未定，舍而未毕，行孤涉险，半隐半出。诸如此者，击之勿疑。有不占而避之者六：一曰土地广大，人民富众；二曰上爱萁下，惠施流布；三曰赏信刑察，发必得时，四曰陈功居列，任贤使能；五曰师徒之众，兵甲之精；六曰四邻之助，大国之援。凡此不如敌人，避之勿疑，所谓见可而进，知难而退也。”<br/>　　武侯问曰：“吾欲观敌之外以知其内，察其进以知其止，以定胜负，可得闻乎？”起对曰：“敌人之来，荡荡无虑，旌旗烦乱，人马数顾，一可击十，必使无措。诸侯未会，君臣未和，沟垒未成，禁令未施，三军匈匈，欲前不能，欲去不敢，以半击倍，百战不殆。”　　武侯问敌必可击之道，起对曰：“用兵必须审敌虚实而趋其危。敌人远来新至，行列未定，可击；既食未设备；可击；奔走，可击；勤劳，可击；未得地利，可击；失时不从，可击；旌旗乱动，可击；涉长道，后行未息，可击；涉水半渡，可击；险道狭路，可击；陈数移动，可击；将离士卒，可击；心怖，可击。凡若此者，选锐冲之，分兵继之，急击勿疑。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-42-1109.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-42-1111.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-42.html" action-type="chapterComment" class="comment"><i></i>吴子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

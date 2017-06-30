@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《而已集》正文_辞“大义”_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="而已集,而已集原文,而已集阅读,辞“大义”全文,鲁迅作品" />
+<meta name="description" content="而已集原文阅读,辞“大义”全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-533-6688.html";
+var nextpage="novel-read-533-6690.html";
+var indexpage = "novel-chapter-533.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-533.html">而已集</a></strong>
+<strong><a href="novel-chapter-533.html">而已集目录</a></strong>
+<span>辞“大义”</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-533-6688.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>辞“大义”</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 20:44:05<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>我自从去年得罪了正人君子们的“孤桐先生”，弄得六面碰壁，只好逃出北京以后，默默无语，一年有零。以为正人君子们忘记了这个“学棍”了罢，——哈哈，并没有。<br/>　　印度有一个泰戈尔。这泰戈尔到过震旦来，改名竺震旦。<br/>　　因为这竺震旦做过一本《新月集》，所以这震旦就有了一个新月社（2），——中间我不大明白了——现在又有一个叫作新月书店的。这新月书店要出版的有一本《闲话》，这本《闲话》的广告里有下面这几句话：<br/>　　　　“……鲁迅先生（语丝派首领）所仗的大义，他的战略，读过《华盖集》的人，想必已经认识了。但是现代派的义旗，和它的主将——西滢先生的战略，我们还没有明了。……”<br/>　　“派”呀，“首领”呀，这种谥法实在有些可怕。不远就又会有人来诮骂。甲道：看哪！鲁迅居然称为首领了。天下有这种首领的么？乙道：他就专爱虚荣。人家称他首领，他就满脸高兴。我亲眼看见的。<br/>　　但这是我领教惯的教训了，并不为奇。这回所觉得新鲜而惶恐的，是忽而将宝贵的“大义”硬塞在我手里，给我竖起大旗来，叫我和“现代派”的“主将”去对垒。我早已说过：公理和正义，都被正人君子夺去了，所以我已经一无所有（3）。大义么，我连它是圆柱形的呢还是椭圆形的都不知道，叫我怎么“仗”？<br/>　　“主将”呢，自然以有“义旗”为体面罢。不过我没有这么冠冕。既不成“派”，也没有做“首领”，更没有“仗”过“大义”。更没有用什么“战略”，因为我未见广告以前，竟没有知道西滢先生是“现代派”的“主将”，——我总当他是一个喽罗儿。<br/>　　我对于我自己，所知道的是这样的。我想，“孤桐先生”尚在，“现代派”该也未必忘了曾有人称我为“学匪”，“学棍”，“刀笔吏”的，而今忽假“鲁迅先生”以“大义”者，但为广告起见而已。<br/>　　呜呼，鲁迅鲁迅，多少广告，假汝之名以行！<br/>　　九月三日。<br/><br/>　　　　　　　　　 ----------------------------------<br/><br/>　　（1）本篇最初发表于一九二七年十月一日《语丝》周刊第一五一期。<br/>　　（2）新月社　以一些资产阶级知识分子为核心的文学和政治团体。约成立于一九二三年，主要人物为胡适、徐志摩、梁实秋、罗隆基等。该社取名于泰戈尔的诗集《新月集》，曾以诗社的名义于一九二六年夏天借北京《晨报副刊》版面出过《诗刊》（周刊）十一期；一九二七年该社分子多数南下，在上海创办新月书店，于一九二八年三月发刊综合性的《新月》月刊。他们原来依附北洋政府，后来转而投靠蒋介石政权。<br/>　　（3）“公理”和“正义”，是现代评论派陈西滢等人在支持章士钊、杨荫榆压迫女师大学生时经常使用的字眼。一九二五年十一月底，当女师大学生斗争胜利，回校复课时，陈西滢、王世杰等人又组织所谓“教育界公理维持会”，反对女师大复校，支持章士钊另立女子大学。<br/>　　作者在《新的蔷薇》一文中曾说：“公理是只有一个的。然而听说这早被他们拿去了，所以我已经一无所有。”（见《华盖集续编》） </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-533-6688.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-533-6690.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-533.html" action-type="chapterComment" class="comment"><i></i>而已集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

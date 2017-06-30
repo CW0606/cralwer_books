@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《吴子》正文_应变_吴起作品 - 维普阅读网</title>
+<meta name="keywords" content="吴子,吴子原文,吴子阅读,应变全文,吴起作品" />
+<meta name="description" content="吴子原文阅读,应变全文在线阅读,吴起作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-42-1112.html";
+var nextpage="novel-read-42-1114.html";
+var indexpage = "novel-chapter-42.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-42.html">吴子</a></strong>
+<strong><a href="novel-chapter-42.html">吴子目录</a></strong>
+<span>应变</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-42-1112.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>应变</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=吴起&amp;searchsubmit=yes"  target="_blank">吴起</a><span class="divide">|</span>发布时间：2014-07-24 20:37:19<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　武侯问曰：“车坚马良，将勇兵强，卒遇敌人，乱而失行，则如之何？”起对曰：“凡战之法，昼以旌旗幡麾为节，夜以金鼓笳笛为节。麾左而左，麾右而右，鼓之则进，金之则止，一吹而行，再吹而聚，不从令者诛。三军服威，士卒用命，则战无强敌，攻无坚陈矣。”<br/>　　武侯问曰：“若敌众我寡，为之奈何？”起对曰：“避之于易，邀之于阨。故曰以一击十，莫善于阨；以士击百，莫善于险，以千击万，莫善于阻。今有少年卒起，击金鸣鼓于阨路，虽有大众，莫不惊动。故曰：‘用众者务易，用少者务隘。”<br/>　　武侯问曰：“有师甚众，既武且勇，背大险阻，右山左水；深沟高垒，守以强弩；退如山移，进如风雨；粮食又多，难与长守。”对曰：“大哉问乎！非此车骑之力，圣人之谋也。能备千乘万骑，兼之徒步，分为五军，各军一衢。夫五军五衢，敌人必惑，莫之所加。敌人若坚守，以固其兵，急行间谍，以观其虑。彼听吾说，解之而去；不听吾说，斩使焚书。分为五战，战胜勿追，不胜疾归。如是佯北，安行疾斗，一结其前，一绝其后，两军衔枚，或左或右，而袭其处，五军交至，必有其利。此击强之道也。”　　武侯问曰：“敌近而薄我，欲去无路；我众甚惧，为之奈何？”对曰：“为此之术，若我众彼寡，分而乘之；彼众我寡，以方从之；从之无息，虽众可服。”<br/>　　武侯问曰：“若遇敌于溪谷之间，谤多险阻，彼众我寡，为之奈何？”起对曰：“遇诸丘陵、林谷、深山、大泽，疾行亟去，勿得从容。若高山深谷，卒然相遇，必选鼓噪而乘之。进弓与弩，且射且虏。审察其政，乱则击之勿疑。”<br/>　　武侯问曰：“左右高山，地甚狭迫，卒遇敌人，击之不敢，去之不得，为之奈何？”起对曰：“此谓谷战，虽众不用。募吾材士，与敌相当，轻足利兵，以为前行，分车列骑，隐于四旁，相去数里，无见其兵，敌必坚陈，进退不敢。于是出旌列旆，行出山外营之。敌人必惧，车骑挑之，勿令得休。此谷战之法也。”<br/>　　武侯问曰：“吾与敌相遇大水之泽，倾轮没辕，水薄车骑，舟楫不设，进退不得，为之奈何？”起对曰：“此谓水战，无用车骑，且留其傍。登高四望，必得水情。知其广狭，尽其浅深，乃可为奇以胜之。敌若绝水，半渡而薄之。”<br/>　　武侯问曰：“天久连雨，马陷车止，四面受敌，三军惊骇，为之奈何？”起对曰：“凡用车者，阴湿则停，阳燥则起，贵高贱下，驰其强车，若进若止，必从其道。敌人若起，必逐其迹。”<br/>　　武侯问曰：“暴寇卒来，掠吾田野，取吾牛羊，则如之何？”起对曰：“暴寇之来，必虑其强，善守勿应。彼将暮去，其装必重，其心必恐，还退务速，必有不属，追而击之，其兵可覆。<br/>　　吴子曰：“凡攻敌围城之道，城邑既破，各入其宫。御其禄秩，收其器物。军之所至，无刊其木、发其屋、取其栗、杀其六畜、燔其积聚，示民无残心。其有请降，许而安之。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-42-1112.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-42-1114.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-42.html" action-type="chapterComment" class="comment"><i></i>吴子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

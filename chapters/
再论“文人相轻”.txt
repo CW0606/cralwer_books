@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《且介亭杂文二集》正文_再论“文人相轻”_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="且介亭杂文二集,且介亭杂文二集原文,且介亭杂文二集阅读,再论“文人相轻”全文,鲁迅作品" />
+<meta name="description" content="且介亭杂文二集原文阅读,再论“文人相轻”全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-545-7350.html";
+var nextpage="novel-read-545-7353.html";
+var indexpage = "novel-chapter-545.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-545.html">且介亭杂文二集</a></strong>
+<strong><a href="novel-chapter-545.html">且介亭杂文二集目录</a></strong>
+<span>再论“文人相轻”</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-545-7350.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>再论“文人相轻”</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-02 22:29:30<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>今年的所谓“文人相轻”，不但是混淆黑白的口号，掩护着文坛的昏暗，也在给有一些人“挂着羊头卖狗肉”的。 <br/><br/>　　真的“各以所长，相轻所短”的能有多少呢！我们在近凡年所遇见的，有的是“以其所短，轻人所短”。例如白话文中，有些是该屈难读的，确是一种“短”，于是有人提了小品或语录，向这一点昂然进攻了，但不久就露出尾巴来，暴露了他连对于自己所提倡的文章，也常常点着破句（２），“短”得很。有的却简直是“以其所短，轻人所长”了。例如轻蔑“杂文”的人，不但他所用的也是“杂文”，而他的“杂文”，比起他所轻蔑的别的“杂文”来，还拙劣到不能相提并论（３）。那些高谈阔论，不过是契诃夫（ＡＣｈｅｋｈｏｖ）所指出的登了不识羞的顶颠，傲视着一切（４），被轻者是无福和他们比较的，更从什么地方“相”起？现在谓之“相”，其实是给他们一扬，靠了这“相”，也是“文人”了。然而，“所长”呢？ <br/><br/>　　况且现在文坛上的纠纷，其实也并不是为了文笔的短长。文学的修养，决不能使人变成木石，所以文人还是人，既然还是人，他心里就仍然有是非，有爱憎；但又因为是文人，他的是非就愈分明，爱憎也愈热烈。从圣贤一直敬到骗子屠夫，从美人香草一直受到麻疯病菌的文人，在这世界上是找不到的，遇见所是和所爱的，他就拥抱，遇见所非和所憎的，他就反拨。如果第三者不以为然了，可以指出他所非的其实是“是”，他所憎的其实该爱来，单用了笼统的“文人相轻”这一句空话，是不能抹杀的，世间还没有这种便宜事。一有文人，就有纠纷，但到后来，谁是谁非，孰存孰亡，都无不明明白白。因为还有一些读者，他的是非爱憎，是比和事老的评论家还要清楚的。 <br/><br/>　　然而，又有人来恐吓了。他说，你不怕么？古之嵇康，在柳树下打铁，钟会来看他，他不客气，问道：“何所闻而来，何所见而去？”于是得罪了钟文人，后来被他在司马懿面前搬是非，送命了（５）。所以你无论遇见谁，应该赶紧打拱作揖，让坐献茶，连称“久仰久仰”才是。这自然也许未必全无好处，但做文人做到这地步，不是很有些近乎婊子了么？况且这位恐吓家的举例，其实也是不对的，嵇康的送命，并非为了他是傲慢的文人，大半倒因为他是曹家的女婿，即使钟会不去搬是非，也总有人去搬是非的，所谓“重赏之下，必有勇夫”者是也。 <br/><br/>　　不过我在这里，并非主张文人应该傲慢，或不妨傲慢，只是说，文人不应该随和；而且文人也不会随和，会随和的，只有和事老。但这不随和，却又并非回避，只是唱着所是，颂着所爱，而不管所非和所憎；他得像热烈地主张着所是一样，热烈地攻击着所非，像热烈地拥抱着所爱一样，更热烈地拥抱着所憎——恰如赫尔库来斯（Ｈｅｒｃｕｌｅｓ）的紧抱了巨人安太乌斯（Ａｎｔａｅｕｓ）一样，因为要折断他的肋骨（６）。五月五日。 <br/><br/>　　==========================================================================<br/><br/><br/>　　（１）本篇最初发表于一九三五年六月《文学》月刊第四卷第六号“文学论坛”栏，署名隼。 <br/><br/>　　（２）指林语堂。他在《论语》第二十六期（一九三三年十月）的《论语录体之用》一文中说：“吾恶白话之文，而喜文言之白，故提倡语录体。……盖语录简练可如文言，质朴可如白话，有白话之爽利，无白话之噜*铡！��谆拔闹�。�嗔ㄠ铡！钡�*在《新语林》创刊号（一九三四年七月）的《论个人笔调》一文中，却将引文“有时过客题诗，山门系马；竟日高人看竹，方丈留鸾。”错点为：“有时过客题诗山门，系马竟日；高人看竹，方丈留鸾。” <br/><br/>　　（３）指林希隽，参看本书《徐懋庸作〈打杂集〉序》及其注（５）。（４）这句话见于契诃夫的遗著《随笔》。 <br/><br/>　　（５）关于钟会访嵇康事，见《晋书·嵇康传》：“初，康居贫，尝与向秀共锻于大树之下，以自赡给。颍川钟会，贵公子也，精练有才辩，故往造焉。康不为之礼，而锻不辍。良久会去，康谓曰：‘何所闻而来，何所见而去？’会曰：‘闻所闻而来，见所见而去。’会以此憾之。及是，言于文帝曰：‘……公无忧天下，顾以康为虑耳。……宜因衅除之，以淳风俗。’帝既昵听信会，遂并害之。”钟会（２２５—２６４），字士季，颍川长社（今河南长葛）人。司马昭的重要谋士。魏常道乡公景元三年（２６２）拜镇西将军，次年统兵伐蜀，蜀平后谋反，被杀。文中司马懿应为司马昭。 <br/><br/>　　（６）赫尔库来斯紧抱巨人安太乌斯据古希腊神话：赫尔库来斯是主神宙斯的儿子，神勇有力。安太乌斯是地神盖娅的儿子，他只要靠着地面，就力大无穷。在一次搏斗中，赫尔库来斯把安太乌斯紧紧抱起，使他脱离地面，而扼死了他。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-545-7350.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-545-7353.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-545.html" action-type="chapterComment" class="comment"><i></i>且介亭杂文二集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

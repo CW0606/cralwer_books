@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《北堂书钞》正文_●凡例_虞世南作品 - 维普阅读网</title>
+<meta name="keywords" content="北堂书钞,北堂书钞原文,北堂书钞阅读,●凡例全文,虞世南作品" />
+<meta name="description" content="北堂书钞原文阅读,●凡例全文在线阅读,虞世南作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-999-9606.html";
+var nextpage="novel-read-999-9608.html";
+var indexpage = "novel-chapter-999.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-999.html">北堂书钞</a></strong>
+<strong><a href="novel-chapter-999.html">北堂书钞目录</a></strong>
+<span>●凡例</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-999-9606.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>●凡例</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=虞世南&amp;searchsubmit=yes"  target="_blank">虞世南</a><span class="divide">|</span>发布时间：2014-11-20 20:11:53<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>一宋北堂书钞何為校栞也所以考证陈俞而竟孙严诸先生志也书钞特类书耳自修文御览既佚遂首為隋以前古佚书存亡所繫孙严诸先生閔陈氏窜乱合力襄校未及观成今得其原校底本事半功倍庶以还旧钞面目订陈俞得失即亡佚古书亦赖以存千百矣<br/><br/>　　一海虞陈心抑尚书「禹謨」於万厯庚子校栞书钞為是书鋟版之权舆厥功伟甚独其增删太勇不免以今易古「凡四部书之现存者与本钞輒异多是古本或是节引陈氏必改从今本动增数行多则十数行罕有仍本钞之旧者」　以存改佚「凡四部书之亡佚者陈氏多改引他书如魏略改魏志吴录改吴志之类」屡為昔人以□「陈本之谬昔人但知此两端耳其最甚者尤在改注文而不改书名如以范书改后汉八家仍冒称八家以唐修晋书改晋十八家仍冒称十八家凡若此类属目皆是观卷五十四太僕篇曹褎饘粥一条是以范书冒彪书姚鲁思不知此遂收入所辑续汉书卷一又卷九十一藉田篇王沐浴一条庶眾也一条风气和一条皆是以国语韦注冒贾注汪小米不知此遂收入所撰三君注辑存卷一甚矣陈本之惑人也」<br/><br/>　　虽其每条之末尚有补与续补字样然其删落之处多无明文亦有全段增窜而不言补者又有全段与旧钞同而亦称补者则其例乱矣迹其自附案语多空一格又或写未详二字是亦未尝无审慎之处若能全书如此而不改旧钞面目则可无事再校矣今特称曰陈本详為剖别务期发明旧钞而止<br/><br/>　　一东吴俞羡长布衣「安期」<br/><br/>　　於万厯癸卯得旧写书钞因合艺文类聚初学记六帖通典岁华纪丽等书纂辑唐类函约后陈氏三年而成所录书钞凡己见数书者率加删削然如穴篇则各书所无俞氏亦删落一百二十餘事则不可解矣又輒将书钞窜入各书中如地部石篇窜入类聚白帖者数十事他篇多放此「其明言合併及参用者不在此例」<br/><br/>　　益谬矣其尤甚者每篇必乱旧钞次第每事必改旧钞标目今不悉校惟有胜陈本者有与陈本同误者亦有陈不误而愈误者今分别著之又称之曰俞本一孙渊如观察得本藏诸忠愍侯祠堂前有陶南村「宗仪」<br/><br/>　　分书一则实元季影宋钞也并约诸家分校丹黄满卷凡所校卷数渊如為卷八王石华為卷四十五王文简為卷三洪筠轩為卷十七钱既勤為卷六严铁桥為卷六十四顾千里亦有附校而尚未盈卷大抵石华多勘陈本渊如文简筠轩既勤閒检俞本或及原引之书惟铁桥专考亡佚古籍用力勤而所得多然诸家或人校一卷或数人同校一卷每卷校仍多其全未经校者尚有六十九卷且所校亦媺恶错出今分别标识称严校孙校字样惟王文简王石华则别出之<br/><br/>　　一渊如此书先得严氏？？？其成自卷百三十二至百六十曾经写刻见铁桥漫稿及原影钞总目上注出某卷写某卷刻殆可互证寻因刻资柜而校竟中輟再则孙氏没而书抑散出铁桥且述且悼叹读其书后一篇致足感也近人传钞四录堂书目一卷又云校刻前廿六卷后廿九卷既鲜流传无可印证今务循孙严旧规非曰继渊如进呈之志或聊释铁桥断种之忧云尔<br/><br/>　　一校勘之学　国朝為盛阮文达校十三经注疏多得古本故尤卓绝今书钞厯代栞本且无真本邇来海内流传者如钱遵王朱竹垞季沧苇张月霄汪小米以及丰润丁氏归安陆氏常熟瞿氏各家所藏称為最著然辗转钞录罕有讐校初拟求朱本季本检勘后以朱本不无窜乱「汪小米辑国语三君注四卷所引北堂书钞即据朱竹垞曝书亭钞本见卷一自注其饗醴注一条音官风土注一条皆言钞本譌舛然孙本尚完好可读由此知竹垞钞本颇為书估窜目又黟汪南士辑七家后汉书所引北堂书钞亦系据朱竹垞潜采堂本题曰大唐类要者也但如书钞光禄劣篇引谢书杨赐一条大司农篇引谢书刘据一写本远在闽中异日得之当续补十条据此则朱竹垞藏本不如孙严校本远甚矣」<br/><br/>　　季本则於光绪壬午比部留斋中数日以眎孙本譌舛殊甚今栞刻孙本仍仿孙严先生义例凡海内各本姑置勿论一孙严七家旧校语及今同志新校语本拟别作校记附诸影钞全书末嗣因卷帙颇繁异同亦多遂改附每条原注下以一圈别之使与影钞不相搀乱圈外先列孙严诸先生语下接用今案二字凡七家旧校一字不敢掠美惟审知為写讹误而太过显浅者或不必尽列出否则两说立存其七家所校或有未善窃下已意以别之<br/><br/>　　一南村本注内屡有谨案二字乃当时永兴申解语或是校证语今悉仍其旧此外如卷六体仁篇注云童牛也一条卷百三表篇注云高堂隆集十二字误注一条卷百四笔篇注云出魏志耳一条卷百二十一角篇注云此前篇事一条卷百三十六镜篇注云又曰十二字不用在此一条及光彩流曜四字一条卷百四十五炙篇注论衡下复改三辅故事一条凡若此类又是南村以前旧校者之语其為三唐五代两宋人笔未敢臆断今悉仍之以完南村本之<br/><br/>　　一影钞前三十卷强半无注又惣载三公车惣石穴诸篇皆大写而无标目又或夹注中间每遇标目句间写云云两字又卷一百三十鼓吹篇别有附录四条凡若此类陈俞本多為改易今务还影<br/><br/>　　一影钞中有一条误分為二者有两条误合為一者有前后两类转写时全类误易又或类中混置一二者如确有的据悉仿严氏更正仍注明条下一略仿御览卷首例编出书钞所引书目除集部外约八百餘种每种採用千数百条至三二条不等今按种汇缮成册然后检勘其未经注出书名者遇古书印合輒录书名篇目於条下其或互见数书者亦著之仍不编入书目<br/><br/>　　一取校必陈隋以前四部之书现存者据古刻本亡佚者据精辑本二者俱无则据近年自辑佚书本其前人诸辑本非著出原引书名者如说郛古微书之类苟有他本可据即屏不录其已著出原引书名者如玉函山房平津馆之类仍谨勘所自出未敢迁就<br/><br/>　　一援引各种有原书具存而初校时先从类书转引者均经检阅原书一一覆勘以关要旨不暇追改书名聊省笔墨申明其故庶后人免舍原书而从类书之疑一古本既稀半赖辑佚经子集三部佚书近人辑刻殆遍惟佚史尚闕如闻渊如藏有章氏辑本但久经散佚故数年来约同人撰集积今已录出八百餘种似比孙藏逾富顾书钞中无可引勘者尚不少此则单文孤证专藉本钞而传虽有譌脱亦仍其<br/><br/>　　一影钞引书有同类重见者有异类重见者其文之详略正可互勘是谓以书钞校书钞尤胜他书转引一南村后婿钞本不足贵其又在南村前者惜无可考但為宋元人箸书所引北堂书钞则為旧写本无疑今考事文类聚引三事海录碎事引二事翰苑新书引九事记纂渊海引三事合璧事类引四事杨伯喦辑六帖补引一事此皆宋人所见之书钞也元泰定旧刻战国策吴师道注引三事此又元人所见之书钞也以校南村本若合符节吉光片羽弥见珍<br/><br/>　　一　国朝校勘家有徵引书钞未改本者如孙渊如所辑续古文苑严铁桥所辑全上古三代两汉三国六朝文「今称曰严辑全汉全晋等文或但称严辑本严氏系据孙藏影钞或閒有小异者盖参用武林所续得竹菴本」<br/><br/>　　王怀祖所撰广雅疏证读书杂志王文简所撰经义述闻洪筠轩所撰读书丛录及所校管子穆天子传竹书纪年章逢之所辑古史考凡厥徵引皆用南村此本閒或改订一二字最足资助此外如平津馆所栞六辑六仪之类则开雕已在前及得影钞追改无多又如玉函山房问经堂经训堂守山阁读骚楼诸书所引多据陈本其有异於陈而与旧钞合者百不过一二然此系栞刻孙本铁桥文简筠轩皆同校书钞者怀祖逢之亦尝居五松书屋获观此本故兼採用其他盖无取焉「傅节子以礼所辑傅子及晋诸公叙讚鶉觚集中丞集光禄集五种凡引书钞皆据孙本今亦採用」<br/><br/>　　一永兴於大业中官秘书郎者十年正钞书时也今书钞自著撰名仍题曰秘书郎是其成书尚未入唐可知「题北堂者秘书省后堂也是亦未入唐之塙证邇来竹垞本题大唐类要沧苇本题古唐类范皆书估挖改耳」<br/><br/>　　故书钞内忠作诚中作内作里作间作次坚作牢作固作劳作至作刚或作永固广作阔作大作博作开此皆避隋讳是原辑本之证也虎作□作府作武渊作深民作人世作世或作廿治作理显作？之类此避唐讳又由唐初时传钞之证也朗作良？？或作郎敬作钦作尊贞作真作正楨作槙让作逊頊作项又敬匡怕徵皆缺笔此避宋讳又由北宋影之证也及元季南村再从宋本影写隐隐有跡可寻今悉仍其旧庶不失原钞真面<br/><br/>　　一是刻版式悉仿影钞原本其陶南村孙渊如严铁桥诸先生序跋题名海内鉴藏印章或在卷端或识卷末今均从真蹟摹刊一凡史志及诸家书目与前人专集论列书钞者汇录卷首以誌缘起其有採录未尽者随得随补期免掛漏一影宋书钞少唐比部访求於同治辛未借录於光绪辛巳壬午以后复躬自检校以辑佚未成时有作輟丙戌初秋始余及二三同志屏绝人事昼夜搜讨凡阅廿餘月而后告成回傃访求迄蕆事十有八年矣总计书钞二万一千餘条校定一万八千餘条其无可校者二千餘条以比孙严旧校十增七八异时考有所得拟撰续记附后是书草创甫定伯韶舍人适返京师未及卒业其检校经子则叔元任之检校史集则季修任之至於全书之发凡起例订误辑残则比部独总其成然犹谦挹不自信复与海内通人邮书商搉因录為参订姓氏附焉甫藏事而比部又将从事於佚史以余始终其役特嘱代举其校刊之意备列卷端云<br/><br/>　　光绪戊子十月既望番禺林国賡谨 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-999-9606.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-999-9608.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-999.html" action-type="chapterComment" class="comment"><i></i>北堂书钞章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

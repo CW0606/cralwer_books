@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《三国演义》正文_中华书局九五年版《三国志演义》前言_罗贯中作品 - 维普阅读网</title>
+<meta name="keywords" content="三国演义,三国演义原文,三国演义阅读,中华书局九五年版《三国志演义》前言全文,罗贯中作品" />
+<meta name="description" content="三国演义原文阅读,中华书局九五年版《三国志演义》前言全文在线阅读,罗贯中作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-1052.html";
+var nextpage="novel-read-1052-11802.html";
+var indexpage = "novel-chapter-1052.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1052.html">三国演义</a></strong>
+<strong><a href="novel-chapter-1052.html">三国演义目录</a></strong>
+<span>中华书局九五年版《三国志演义》前言</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-1052.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>中华书局九五年版《三国志演义》前言</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-18.html" target="blank">古典小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=罗贯中&amp;searchsubmit=yes"  target="_blank">罗贯中</a><span class="divide">|</span>发布时间：2014-12-08 21:55:49<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>一、一对“忘年交”<br/><br/>　　小说家的社会地位，在中国古代的封建社会里，得不到应有的尊重。尽管他们的作品流传普及，他们塑造的人物形象和他们编织的故事情节脍炙人口，但他们的姓名和生活情况，却鲜为人知。因此，有关他们的资料很少保存下来，以致我们今天对他们的生平事迹还是知之不多，有些方面甚或是一片空白。<br/><br/>　　《三国》（《三国志演义》的简称，下同）的作者罗贯中不就是这样的吗？<br/><br/>　　但和其他著名的小说家（例如《水浒传》作者施耐庵、《西游记》作者吴承恩、《金瓶梅》作者兰陵笑笑生、《红楼梦》作者曹雪芹）比较起来，他还算是幸运的。<br/><br/>　　不管怎么说，他的姓名总是和《三国》牢固地联系在一起的。在这一方面，他还没有遇到过挑战。不像吴承恩那样，是不是《西游记》的真正的作者，直到今天，还在不断地引起海内外学术界的争议。也不像曹雪芹那样，最近还有人想剥夺他的《红楼梦》著作权，而把伟大作家的桂冠献给另一个冒出来的叫做曹渊的人。<br/><br/>　　在现存《三国》最早的刊本上，明确地题署着两行字：<br/><br/>　　晋平阳侯陈寿史传①<br/><br/>　　后学罗本贯中编次<br/><br/>　　第一行字，表明素材来自何处。第二行字，向读者指出作者是谁。依据中国古代小说刊本或目录题名的通例，“编次”一词在这里不仅含有“编辑”的意思，而且还可以解释为“撰写”和“创作”。<br/><br/>　　从署名可知，作者姓罗，名本，字贯中②。<br/><br/>　　另一方面，罗贯中又不像《水浒传》作者施耐庵和《金瓶梅》作者兰陵笑笑生那样，除了小说上的孤零零的署名之外，其他一切（包括真实的姓名、确切的生卒年、凿凿有据的生平事迹等等）都留给后人去作考证，或者去作驰聘想像力的话题了。<br/><br/>　　罗贯中的幸运就在于，他有一位“忘年交”。<br/><br/>　　六十多年以前，天一阁旧藏明蓝格抄本《录鬼簿·录鬼簿续编》被几位辛勤访书的学者发现了③。令人惊喜的是，在《录鬼簿续编》中，赫然列有罗贯中的小传。<br/><br/>　　关于罗贯中，传世的资料不多。而最早、最全面、最详细、最可靠的资料，就要数《录鬼簿续编》中的这篇小传了。<br/><br/>　　那么，《录鬼簿续编》又是一部什么样的书呢？<br/><br/>　　顾名思义，《录鬼簿续编》是钟嗣成《录鬼簿》的增补本。<br/><br/>　　《录鬼簿》是一部记载元代戏曲家的生平事迹、作品目录的专著。它的版本系统，有简本、繁本、增补本之分④。简本著录作家一百一十三人，繁本著录作家一百五十二人，增补本著录作家一百五十一人。天一阁旧藏明蓝格抄本即增补本。<br/><br/>　　增补本的增补工作，主要由贾仲明进行。他的增补，主要表现在三个方面：一，增补了八十余首吊词；二，在剧目下，增补了若干“题目正名”；三，补撰《录鬼簿续编》⑤，附于《录鬼簿》原书之后。<br/><br/>　　贾仲明是什么人呢？<br/><br/>　　贾仲明，一作贾仲名，自号云水散人、云水翁，淄川（今属山东省淄博市）。<br/><br/>　　他是元末明初著名的戏曲作家。著有杂剧十四种，现存五种。他还是一位散曲作家，著有散曲集《云水遗音》，已佚失不传。<br/><br/>　　他的突出成就，却在于《录鬼簿续编》一书的编撰。这也是他对中国戏曲史所作的最大的贡献。他不愧为古代的一位优秀的戏曲目录学家。<br/><br/>　　他在《书录鬼簿后》一文的末尾，题署“永乐二十年壬寅中秋，淄川八十云水翁贾仲明书于怡和养素轩”。这就告诉我们，在明代的永乐二十年（1422），他的高寿是八十岁。古人自称“八十”，有时是指八十岁整，有时则仅仅是举成数而言，实际上指八十岁上下。若按八十整岁计算，逆推的结果是：他实生于元代至正三年（1343）。<br/><br/>　　所以，他是罗贯中的同时代人，更是罗贯中的朋友。他又是罗贯中小传的作者。单凭这短短的一篇罗贯中小传，应该承认，他已对中国小说史研究作出了不可磨灭的贡献。<br/><br/>　　作为《录鬼簿》一书的补充，《录鬼簿续编》记载了元末明初戏曲家的生平事迹、作品目录。它著录作家七十八人。内容丰富，资料翔实。它的可靠性的程度相当高。试想，记录者和被记录者都是生活在同一时代的人，发生舛误的可能性难道不是十分微小的吗？<br/><br/>　　罗贯中小传位于《录鬼簿续编》的卷首。从排名顺序上看，第一名是钟嗣成，《录鬼簿》的编撰者；　第二名便是罗贯中。这反映了罗贯中在贾仲明心目中的重要的地位。<br/><br/>　　罗贯中小传的全文如下：<br/><br/>　　罗贯中，太原人，号湖海散人。与人寡合，乐府、隐语极为<br/><br/>　　清新。与余为忘年交，遭时多故，各天一方。至正甲辰复会，<br/><br/>　　别来又六十余年，竟不知其所终。这篇小传，篇幅虽短，内容却很宝贵。它向我们透露的消息，有这样几点：<br/><br/>　　一，罗贯中不但是一位小说家，而且还是一位杂剧家、散曲家。他和许许多多的伟大的作家一样：他们往往是博学多才的，他们的成就和贡献也常常是多方面的。<br/><br/>　　二，罗贯中的故乡是山西太原。在元代，有很多山西籍的杂剧作家。我们可以举出一连串的名字，例如：李寿卿、刘唐卿、于伯渊、赵公辅、李行甫、狄君厚、孔文卿、石君宝、郑光祖、乔吉，等等。在中国戏剧史上，或在中国文学史上，这是一个引人注目的突出的现象。<br/><br/>　　三，他生活于动乱的年代，背乡离井，四方漂泊，没有功名，也没有在官场干过事，故以“湖海散人”自称。<br/><br/>　　四，他的性格的特点是“与人寡合”，有一点儿孤僻的味道。<br/><br/>　　五，他的戏曲作品的风格，可以用两个字来概括：“清新”。<br/><br/>　　六，他和贾仲明是“忘年交”。忘年交，是指不受年龄或辈分的拘限而成为亲密的朋友。这表明两人的年龄相差很大，起码要在二十岁上下。具体用在罗、贾二人身上，可以有两种解释：甲，贾仲明的年龄大于罗贯中；乙，或者，罗贯中的年龄大于贾仲明。<br/><br/>　　七，他们二人曾在至正甲辰那一年会过面。至正是元代最后一个皇帝的最后一个年号。甲辰，即至正二十四年（1364）。再过四年，就是明代正式开始的第一年，即洪武元年了。<br/><br/>　　八，贾仲明如果生于至正三年，则在至正二十四年为二十二岁。因此，“忘年交”的解释只有一种能讲得通，即：罗贯中的年龄大于贾仲明。而另一种解释（即贾仲明的年龄大于罗贯中）显然难于成立，因为二十二岁的贾仲明不大可能去同一个幼小的孩童会晤、谈心和订交的。<br/><br/>　　试以罗贯中的年龄大于贾仲明为前提，进一步推算罗贯中的生年。如果罗贯中在至正二十四年为四十岁（比贾仲明大十八岁），则他大约生于元代泰定二年（1325）；如果罗贯中这一年为五十岁（比贾仲明大二十八岁），则他大约生于元代延祜二年（1315）。<br/><br/>　　如果罗贯中生于元代泰定二年，则在明代洪武元年时，他是四十四岁。如果罗贯中生于元代延祜二年，则在明代洪武元年时，他是五十四岁。<br/><br/>　　罗贯中的卒年不详，在目前尚无法推知。<br/><br/>　　框定了罗贯中的生年之后，就可以有根有据地确认：罗贯中是一位生活于元末明初的作家。或者说，他是一位属于十四世纪的作家。<br/><br/>　　点校说明<br/><br/>　　一、此本以毛评本《四大奇书第一种》康熙醉耕堂刊本（今藏北京图书馆）为底本，为目前所知较早的毛评本，其它诸本如芥子园本、文英堂本、三槐堂本等皆由之而出，文字也较诸本为佳。<br/><br/>　　二、底本文字原有错讹残佚处，此次整理，则据芥子园本和三槐堂本校改补正。但底本有些错讹，芥子园本和三槐堂本亦承袭下来，则据内证校改。刊误字一律径改，不出校；但底本中的异体字、俗体字以及同音假借字，体现了原作的文字风貌，今一应保留。底本毛评中，“卷”字“回”字混用，均指回意，今不作改动。所有校记皆置于当页。<br/><br/>　　三、底本卷首有李渔所作《序》一篇，可证后出诸本所载金圣叹序乃书坊妄改李序、托名而成；而“圣叹外书”之说，实为无稽。今将李序置于卷首；另据三槐堂本抄录伪金序，编为附录，置于书后，以便读者鉴别。<br/><br/>　　四、《三国志读法》及《凡例》乃毛氏父子编订、批评《三国志演义》之纲要，对罗贯中创作原旨亦多有发明，今一并保存。<br/><br/>　　五、底本原为六十卷，一百二十回；二回一卷。其总目及正文中之分卷处，俱标明卷数及题名。为使此整理本眉目清晰，无繁琐之弊，今于总目及正文内删其卷目，只标明回目。<br/><br/>　　六、底本卷首又有三国人物绣像四十幅，起“昭烈帝”，终“司马懿”，前图后赞。然其绘刻非精，似另有所本，今一并删之。<br/><br/>　　七、底本在各回前有回前评，今保留。正文内有双行评语，今改作单行排出，以括号区别之。正文行间时有旁批、为注字音之用；天头又有眉批，注明有关地名和字音。其所注为清初人所为，与今地、今音不尽相同，甚至时有讹误，但亦不乏参考价值。今一并保留，插入正文相关位置，并以“旁”、“眉”注明之。　　<br/><br/>　　八、毛评本中，在人名、地名、职官等方面有不少与史实不符之处。醉耕堂本亦不例外。考虑到《三国志演义》毕竟为演义小说而非历史实录，且此类情况也不致对读者阅读造成很大障碍，同时，更为了提供给读者一种完整无误的新版本，故此次整理，不再就此另作校订。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-1052.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1052-11802.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1052.html" action-type="chapterComment" class="comment"><i></i>三国演义章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

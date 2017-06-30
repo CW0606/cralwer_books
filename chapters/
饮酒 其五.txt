@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《饮酒》正文_饮酒 其五_陶渊明作品 - 维普阅读网</title>
+<meta name="keywords" content="饮酒,饮酒原文,饮酒阅读,饮酒 其五全文,陶渊明作品" />
+<meta name="description" content="饮酒原文阅读,饮酒 其五全文在线阅读,陶渊明作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-650-7928.html";
+var nextpage="novel-read-650-7930.html";
+var indexpage = "novel-chapter-650.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-650.html">饮酒</a></strong>
+<strong><a href="novel-chapter-650.html">饮酒目录</a></strong>
+<span>饮酒 其五</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-650-7928.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>饮酒 其五</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=陶渊明&amp;searchsubmit=yes"  target="_blank">陶渊明</a><span class="divide">|</span>发布时间：2014-10-16 20:15:09<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>结庐在人境，而无车马喧。<br/>问君何能尔？心远地自偏。<br/>采菊东篱下，悠然见南山。<br/>山气日夕佳，飞鸟相与还。<br/>此中有真意，欲辨已忘言。<br/><br/>【注释】<br/>(1)这首诗写在和谐宁静的环境中，诗人悠然自得的隐居生活。诗人在平静的心境中，体悟着自然的乐趣和人生的真谛。这一切给诗人的精神带来极大的快慰与满足。<br/>(2)结庐：建造住宅。这里指寄居。人境：人间，世上。车马喧：车马往来的喧闹声。指世俗交往。<br/>(3)尔：如此，这样。心远地自偏：意思是说，只要内心清静，远远超脱于世俗，因而虽居喧闹之地，也就像住在偏僻之处一样。<br/>(4)悠然：闲适自得的样子。南山：指庐山。<br/>(5)山气：山间雾气。日夕：近黄昏之时。相与还：结伴而归。<br/>(6)此中：录本从《文选》作“此还”，今从李本、焦本、苏写本改。真意：淳真自然之意。《庄子?渔父》：“真者，所以受于天也，自然不可易也。故圣人法天贵真，不拘于俗。”辨：辨析，玩味。《庄子?齐物论》：“辩也者，有不辩也，大辩不言。”忘言：《庄子?外物》：“言者所以在意也，得意而忘言。”这两句意思是说，从大自然得到启发。领悟到人生的真谛，但这是无法用言语表达，也无须用言语表达的。<br/><br/>【译文】<br/>住宅盖在人世间，<br/>清静却无车马喧。<br/>问我为何能如此？<br/>心超世外地显偏。<br/>自顾采菊东篱下，<br/>悠然无意见南山。<br/>山间雾气夕阳好，<br/>飞鸟结伴把巢还。<br/>此中当自有真意，<br/>我欲辨之已忘言。<br/><br/>【赏析】<br/>　　对生命本真状态的真切体念 ——《结庐在人境》意象剖析<br/><br/>　　弗洛伊德等西方精神分析学派认为，人的心灵深处有一个“本我”，还有一个“超我”。“本我”，就是老子哲学中的归根反本，它摆脱了文化符号的异化与扭曲，如婴儿自然而和谐的生命的本来面目，它接近于西方存在主义哲学所标举的生命的本真状态。“超我”则是社会文化塑造，特立而成自我，是存在于社会现实中，充当种种特定的社会角色，按照群体规范和要求行动的自我。“本我”和“超我”是一对矛盾，和谐地统一在人的灵魂深处。一时“本我”占据上风，一时“超我”表现明显。“超我”和“本我”的交错呈现，显示了人在不同时期里的不同行为表现甚至整个人生追求。放眼封建时代，许多文人在妥协世俗、扩展生命以用世；努力追求“超我”的同时，其实内心深处也时时流露出对险恶官场及叵测社会的厌弃，在竭尽心机地回归“本我”，力所能及地体念着生命的本真状态，如竹林七贤、谢灵运、陶渊明、李白、王维、苏轼等，但其中在追求“本我”道路上走得最远的，对这一状态体念得最真切的，恐怕要数陶渊明了。陶氏不但敢想，而且敢做；不但做了，而且做得那么彻底。他的这一出世心态在他的许多诗篇中均有所表露，在《饮酒》系列中尤其发挥到了极致。本文便以《结庐在人境》为例略作阐释。<br/>　 《结庐在人境》一诗，是陶渊明诗歌意象的顶峰。在这首诗中，“本我”摆脱了“超我”的纠缠，澄明无碍地存在于诗歌意象中。“结庐在人境，而无车马喧。问君何能尔?心远地自偏”，这种“远”与“静”的境界是“本我”战胜“超我”后才可能出现的。“心远”并不仅仅是因为“地偏”，最关键的恐怕还是陶氏在心灵上的真正忘世，倘若心为物役，尘根未了，则即使身处“无车马喧”的偏地，也仍然会为凡事俗情所羁绊，像唐朝王维辈那样像模像样地隐居终南，但他心里图的依然是那条加官晋爵的捷径。在王维身上，“本我”仅仅是追求“超我”的一种手段。而陶渊明则完全不同，他的“超我”已然被排斥在心灵之外，“本我”即生命的本真已呈现出一种完完全全的展开状态。这个时候，不管形体在田园还是在闹市，“心远地自偏”，这种澄明无碍、自由自在的心灵使万物都展现出宁静悠远的情韵。<br/><br/><br/>　 “采菊东篱下，悠然见南山。山气日夕佳，飞鸟相与还。”至此，诗人与“本我”融为一体。采菊的陶渊明，已是解脱了各种尘世纷扰，以生命本真状态呈现的陶渊明了。他心灵的悠然空明，投射在菊花与南山的意象中。他的整个身心已融入山气和美丽的夕阳之中，又似乎化作了飞鸟在大自然的怀抱中翱翔。如此心平气和、心无旁骛地与大自然相承合，体味着大自然本身无穷的韵味。在这种观照中，物是原态的，心是宁静的，心物交汇在内心里，在和谐意识中，认认真真地进入了一种物我同一的“忘我”状态。<br/><br/><br/>　 前四句，诗人摆脱“超我”从世俗回归自然；中间四句，诗人又以一种超脱虚静的心态，真切地体念着生命的本真状态；到了最后两句，诗人则更似乎进入了一种神情恍惚、虚无缥缈的仙幻之境。“此中有真意，欲辩已忘言”，所谓的“真意”即是对回归生命本真的体念与感受。这种体念与感受想要说但说不出来。古人说得好，“得意必忘言”，已然得了“真意”的陶氏，合情合理地“忘言”，绝不是故作高深，只是这种感受确实只可意会，不可言传。<br/><br/><br/>　 这首诗中无酒，诗人却将其归入饮酒二十首，且成为其中冠冕，原因就在于其意象的捕捉与构成具有直觉无意识的酒神精神的特点。诚如古人所说：“这首诗意象构成中景与意会，全在一偶然无心上。‘采菊’二句，俱偶尔之兴味，东篱有菊，偶然采之，……而南山之见，亦是偶尔凑趣。山且无意而见，菊岂有意而采，……山中飞鸟，为日夕而归，……但其归也，适值吾见南山之时，……此亦偶凑之趣也。……其一点‘真意’，乃千圣不传之秘，即道书千卷，佛经完万叶，犹不能尽厥蕴，故但以‘欲辩已忘言’五字喝断‘此中有真意’之间。虽然，固已言之矣，不曰‘采菊东篱’云乎?”“偶尔之兴味”，即审美的直觉无意识状态。从此状态中蜕化而出的诗歌意象，才能获得“境在寰中，神游象外”的悠远不尽的意味。这偶然无心的情与景会，正是诗人生命自我敞亮之时其空明无碍的本真之境的无意识投射。这里，相与归还的鸟儿和悦欣慰，它们没有了彷徨，没有了迷茫，也没有了离群之悲伤。它们投射着诗人摆脱“超我”的孤独迷惘后，精神获得巨大的归属和依托感，从而呈现出自由而宁静欢畅的心情。<br/><br/><br/>　 对生命本真状态的真心体念是这首诗真意之所在，也是《饮酒》诗及陶渊明诗歌的终极目标。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-650-7928.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-650-7930.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-650.html" action-type="chapterComment" class="comment"><i></i>饮酒章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

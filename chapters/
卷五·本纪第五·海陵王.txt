@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《南齐书》正文_卷五·本纪第五·海陵王_萧子显作品 - 维普阅读网</title>
+<meta name="keywords" content="南齐书,南齐书原文,南齐书阅读,卷五·本纪第五·海陵王全文,萧子显作品" />
+<meta name="description" content="南齐书原文阅读,卷五·本纪第五·海陵王全文在线阅读,萧子显作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-656-8204.html";
+var nextpage="novel-read-656-8206.html";
+var indexpage = "novel-chapter-656.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-656.html">南齐书</a></strong>
+<strong><a href="novel-chapter-656.html">南齐书目录</a></strong>
+<span>卷五·本纪第五·海陵王</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-656-8204.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷五·本纪第五·海陵王</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=萧子显&amp;searchsubmit=yes"  target="_blank">萧子显</a><span class="divide">|</span>发布时间：2014-10-19 18:47:50<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　海陵恭王昭文，字季尚，文惠太子第二子也。永明四年，封临汝公，邑千五百户。初为辅国将军、济阳太守。十年，转持节、督南豫州诸军事、南豫州刺史，将军如故。十一年，进号冠军将军。文惠太子薨，还都。郁林王即位，为中军将军，领兵置佐。封新安王，邑二千户。隆昌元年，为使持节、都督扬南徐二州诸军事、扬州刺史，将军如故。其年，郁林王废，尚书令西昌侯鸾议立昭文为帝。<br/><br/>　　延兴元年秋，七月，丁酉，即皇帝位。以尚书令、镇军大将军、西昌侯鸾为骠骑大将军、录尚书事、扬州刺史、宣城郡公。诏曰：「太祖高皇帝英谋光大，受命作齐；世祖武皇帝宏猷冠世，继晖下武；世宗文皇帝清明懿铄，四海宅心：并德漏下泉，功昭上象，声教所覃，无思不洽。洪基式固，景祚方融，而天步多阻，运钟否剥。嗣君昏忍，暴戾滋多，弃侮天经，悖灭人纪。朝野重足，遐迩侧视，民怨神恫，宗祧如缀。赖忠谟肃举，霄汉廓清，俾三后之业，绝而更纽，七百之庆，危而复安。猥以冲人，入纂乾绪，载怀驭朽，若坠诸渊，思与黎元，共绥戬福。」大赦，改元。文武赐位二等。<br/><br/>　　八月，甲辰，以新除卫尉萧谌为中领军，司空王敬则进位太尉，新除车骑大将军陈显达为司空，尚书左仆射王晏为尚书令，左卫将军王广之为豫州刺史，骠骑大将军鄱阳王锵为司徒。诏遣大使巡行风俗。丁未，诏曰：「新安国五品以上，悉与满叙；自此以下，皆听解遣。其欲仕者，适其所乐。」以骁骑将军河东王铉为南徐州刺史，西中郎将临海王昭秀为车骑将军，南徐州刺史永嘉王昭粲为荆州刺史。戊申，以辅国将军王诩为广州刺史，中书郎萧遥欣为兖州刺史。庚戌，以车骑板行参军李庆综为宁州刺史。辛亥，以安西将军王玄邈为中护军，新除后军司马萧诞为徐州刺史。壬子，以冠军司马臧灵智为交州刺史。乙卯，申明织成、金薄、彩花、锦绣履之禁。<br/><br/>　　九月，癸酉，诏曰：「顷者以淮关徭戍，勤瘁于行役，故覃以荣阶，薄酬厥劳。勋状淹留，未集王府，非所以急舍爵之典，趣报功之旨。便可分遣使部，往彼铨用。」辛巳，以前九真太守宋慈明为交州刺史。癸未，诛新除司徒鄱阳王锵、中军大将军随郡王子隆。遣平西将军王广之诛南兖州刺史安陆王子敬。于是江州刺史晋安王子懋起兵，遣中护军王玄邈讨之。乙未，骠骑大将军鸾假黄铖，内外纂严。又诛湘州刺史南平王锐、郢州刺史晋熙王钅求、南豫州刺史宜都王铿。丁亥，以卫将军庐陵王子卿为司徒，抚军将军桂阳王铄为中军将军、开府仪同三司。冬，十月，癸巳，诏曰：「周设媒官，趣及时之制，汉务轻徭，在休息之典，所以布德弘教，宽俗阜民。朕君制八纮，志敷九德，而习俗之风，为弊未改，静言多愠，无忘昏昃。督劝婚嫁，宜严更申明，必使禽币以时，摽梅息怨。正厨诸役，旧出州郡，徵吏民以应其数，公获二旬，私累数朔。又广陵年常递出千人以助淮戍，劳扰为烦，抑亦苞苴是育。今并可长停，别量所出。诸县使村长路都防城直县，为剧尤深，亦宜禁断。」丁酉，解严。进骠骑大将军、扬州刺史宣城公鸾为太傅，领大将军、扬州牧，加殊礼，进爵为王。戊戌，诛新除中军将军桂阳王铄、抚军将军衡阳王钧、侍中秘书监江夏王锋、镇军将军建安王子真、左将军巴陵王子伦。癸卯，以宁朔将军萧遥欣为豫州刺史，新除黄门郎萧遥昌为郢州刺史，辅国将军萧诞为司州刺史。宣城王辅政，帝起居皆谘而后行。思食蒸鱼菜，太官令答无录公命，竟不与。辛亥，皇太后令曰：「司空、后将军、丹阳尹、右仆射、中领军、八座：夫明晦迭来，屯平代有，上灵所以眷命，亿兆所以归怀。自皇家淳耀，列圣继轨，诸侯官方，百神受职。而殷忧时启，多难荐臻，隆昌失德，特紊人鬼，非徒四海解体，乃亦九鼎将移。赖天纵英辅，大匡社稷，崩基重造，坠典再兴。嗣主幼冲，庶政多昧，且早婴尪疾，弗克负荷，所以宗正内侮，戚藩外叛，觇天视地，人各有心。虽三祖之德在民，而七庙之危行及。自非树以长君，镇以渊器，未允天人之望，宁息奸宄之谋！太傅宣城王胤体宣皇，钟慈太祖，识冠生民，功高造物，符表夙著，讴颂有在，宜入承宝命，式宁宗祏。帝可降封海陵王，吾当归老别馆。昔宣帝中兴汉室，简文重延晋祀，庶我鸿基，于兹永固。言念家国，感庆载怀。」<br/><br/>　　建武元年，诏「海陵王依汉东海王彊故事，给虎贲、旄头、画轮车，设钟虡宫县，供奉所须，每存隆厚。」十一月，称王有疾，数遣御师占视，乃殒之。给温明秘器，衣一袭，敛以衮冕之服。大鸿胪监护丧事。葬给辒辌车，九旒大辂，黄屋左纛，前后部羽葆鼓吹，挽歌二部，依东海王故事。谥曰恭王。年十五。<br/><br/>　　史臣曰：郭璞称永昌之名，有二日之象，而隆昌之号亦同焉。案汉中平六年，献帝即位，便改元为光熹，张让、段圭诛后，改元为昭宁，董卓辅政，改元为永汉，一岁四号也。晋惠帝太安二年，长沙王鳷事败，成都王颖改元为永安；颖自邺夺，河间王颙复改元为永兴，一岁三号也。隆昌、延兴、建武，亦三改年号。故知丧乱之轨迹，虽千载而必同矣。<br/><br/>　　赞曰：穆穆海陵，因亡代兴。不先不后，遭命是膺。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-656-8204.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-656-8206.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-656.html" action-type="chapterComment" class="comment"><i></i>南齐书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

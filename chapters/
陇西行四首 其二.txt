@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《陇西行四首》正文_陇西行四首 其二_陈陶作品 - 维普阅读网</title>
+<meta name="keywords" content="陇西行四首,陇西行四首原文,陇西行四首阅读,陇西行四首 其二全文,陈陶作品" />
+<meta name="description" content="陇西行四首原文阅读,陇西行四首 其二全文在线阅读,陈陶作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1133-18590.html";
+var nextpage="novel-read-1133-18592.html";
+var indexpage = "novel-chapter-1133.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1133.html">陇西行四首</a></strong>
+<strong><a href="novel-chapter-1133.html">陇西行四首目录</a></strong>
+<span>陇西行四首 其二</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1133-18590.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>陇西行四首 其二</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=陈陶&amp;searchsubmit=yes"  target="_blank">陈陶</a><span class="divide">|</span>发布时间：2015-01-29 21:11:25<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>誓扫匈奴不顾身，五千貂锦丧胡尘。<br/>可怜无定河边骨，犹是深闺梦里人。<br/><br/>【注释】<br/>１、陇西行：古代歌曲名。<br/>２、貂锦：这里指战士。<br/>３、无定河：在陕西北部。<br/>４、深闺：这里指战死者的妻子。<br/><br/>【译文】<br/>唐军将士誓死横扫匈奴奋不顾身；<br/>五千身穿锦袍的精兵战死在胡尘。<br/>真可怜呵那无定河边成堆的白骨，<br/>还是少妇们梦中相依相伴的恋人。<br/><br/>【赏析】<br/>　　《陇西行》共四首，这是第二首。首二句写将士忠勇，丧亡甚众；末二句写牺牲者是春闺少妇日夜盼望归来团聚的情人。全诗反映了唐代长期征战带给人民的痛苦和灾难，表达了非战情绪。三、四两句，以“无定河边骨”与“春闺梦里人”比照，虚实相对，宛若电影中的蒙太奇，用意工妙。诗情凄楚，吟来潸然泪下。 <br/>　　首二句以精炼概括的语言，叙述了一个慷慨悲壮的激战场面。唐军誓死杀敌，奋不顾身，但结果五千将士全部丧身“胡尘”。“誓扫”、“不顾”，表现了唐军将士忠勇敢战的气概和献身精神。汉代羽林军穿锦衣貂裘，这里借指精锐部队。部队如此精良，战死者达五千之众，足见战斗之激烈和伤亡之惨重。<br/>　　接着，笔锋一转，逼出正意：“可怜无定河边骨，犹是春闺梦里人。”这里没有直写战争带来的悲惨景象，也没有渲染家人的悲伤情绪，而是匠心独运，把“河边骨”和“春闺梦”联系起来，写闺中妻子不知征人战死，仍然在梦中想见已成白骨的丈夫，使全诗产生震撼心灵的悲剧力量。知道亲人死去，固然会引起悲伤，但确知亲人的下落，毕竟是一种告慰。而这里，长年音讯杳然，人早已变成无定河边的枯骨，妻子却还在梦境之中盼他早日归来团聚。灾难和不幸降临到身上，不但毫不觉察，反而满怀着热切美好的希望，这才是真正的悲剧。<br/>　　明代杨慎《升庵诗话》认为，此诗化用了汉代贾捐之《议罢珠崖疏》“父战死于前，子斗伤于后，女子乘亭鄣，孤儿号于道，老母、寡妻饮泣巷哭，遥设虚祭，想魂乎万里之外”的文意，称它“一变而妙，真夺胎换骨矣”。贾文着力渲染孤儿寡母遥祭追魂，痛哭于道的悲哀气氛，写得沉痛而富有情致。文中写家人“设祭”、“想魂”，已知征人战死。而陈陶诗中的少妇则深信丈夫还活着，丝毫不疑其已经死去，几番梦中相逢。诗意更深挚，情景更凄惨，因而也更能使人一洒同情之泪。<br/>　　这诗的跌宕处全在三、四两句。“可怜”句紧承前句，为题中之义；“犹是”句荡开一笔，另辟新境。“无定河边骨”和“春闺梦里人”，一边是现实，一边是梦境；一边是悲哀凄凉的枯骨，一边是年轻英俊的战士，虚实相对，荣枯迥异，造成强烈的艺术效果。一个“可怜”，一个“犹是”，包含着多么深沉的感慨，凝聚了诗人对战死者及其家人的无限同情。<br/>　　明王世贞《艺苑卮言》赞赏此诗后二句“用意工妙”，但指责前二句“筋骨毕露”，后二句为其所累。其实，首句写唐军将士奋不顾身“誓扫匈奴”，给人留下了深刻的印象。而次句写五千精良之兵，一旦之间丧身于“胡尘”，确实令人痛惜。征人战死得悲壮，少妇的命运就更值得同情。所以这些描写正是为后二句表现少妇思念征人张本。可以说，若无前二句明白畅达的叙述描写作铺垫，想亦难见后二句“用意”之“工妙”。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1133-18590.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1133-18592.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1133.html" action-type="chapterComment" class="comment"><i></i>陇西行四首章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《少年张冲六章》正文_作者访谈录（1）_杨争光作品 - 维普阅读网</title>
+<meta name="keywords" content="少年张冲六章,少年张冲六章原文,少年张冲六章阅读,作者访谈录（1）全文,杨争光作品" />
+<meta name="description" content="少年张冲六章原文阅读,作者访谈录（1）全文在线阅读,杨争光作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1354-24945.html";
+var nextpage="novel-read-1354-24947.html";
+var indexpage = "novel-chapter-1354.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1354.html">少年张冲六章</a></strong>
+<strong><a href="novel-chapter-1354.html">少年张冲六章目录</a></strong>
+<span>作者访谈录（1）</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1354-24945.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>作者访谈录（1）</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-23.html" target="blank">文学小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=杨争光&amp;searchsubmit=yes"  target="_blank">杨争光</a><span class="divide">|</span>发布时间：2015-05-07 22:40:19<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>一个“问题少年”成长土壤的结构分析<br/>　　——　长篇小说《少年张冲六章》访谈录<br/>　　钟红明（《收获》杂志社编辑部主任，以下简称钟）与<br/>　　杨争光（《少年张冲六章》作者，以下简称杨）对话：<br/>　　钟：也许是在2004年、2005年？我到茂名参加广东青年作家的笔会，然后到深圳见到你。当时谈到了许多作品构思，其中就说到要写一个年轻人的长篇，写到摇滚对他们的意味和感动，写到网络，写到他们的爱情。但当时你和他们的生活还有一段距离。2009年，当我读到长篇小说《少年张冲六章》的时候，我才清晰地感受到，那个构想，从呈现的主题和深度，到表达的形式，都已经发生了巨大变化。过程是怎样的?<br/>　　杨：是2004年。我在这本书的后记里有所交代。那时候，我想写的是一个乡村少年的爱情故事，在我的想象里，少年的爱情比成年的爱情更像爱情，乡村少年的爱情比城市少年的爱情更具浪漫的气质，主人公已经有了，他叫张冲。<br/>　　2009年5月，我开始动笔写这本书的时候，一切都发生了改变。经过5年点点滴滴的积累和准备，包括采访笔录，我的笔记本上写满了关于这本书的文字。我发现还有比爱情更严重的东西。我想象里的那个少年张冲青涩的形象里，纠缠和埋伏着苍老的根系，盘根错节，复杂纷纭。我要写的，已不仅是那个少年张冲，我甚至认为，那些纠缠和埋伏在他青涩少年里的许多东西，比他更加重要，我有了许多的胡思乱想——我干脆把这本书后记里边的几段文字放在这里，算做给你的交代吧：<br/>　　……在我们的文化里，少年张冲和我们一样首先不属于他自己，或者，干脆就不属于自己。他属于父母，属于家庭，属于亲人，属于集体，最终，属于祖国和人民。<br/>　　人民从来都是一个抽象的名词。<br/>　　祖国也是。我甚至在《辞海》里也查不到它。<br/>　　我们从来都相信：“天将降大任于斯人也，必先苦其心志，劳其筋骨，饿其体肤，空泛其身……”<br/>　　我们要“修身，齐家，治国，平天下”。<br/>　　我们要做闪光的螺丝钉。做精英。做“人中龙”。尽管我们知道，精英和“人中龙”永远是少数，但历史和现实永远也扑不灭我们的幻想：我们也许可以挤进去，甚至，我们必须挤进去，成为其中的一员。<br/>　　我们认为这一切都是理所当然的。<br/>　　也就理所当然地掉了进去，无法脱逃，也不愿脱逃。<br/>　　我们做困兽斗，愈斗愈烈，愈斗愈惨，最终还要拉进我们的孩子。因为，我们的孩子是我们生命的延续，最终的希望。<br/>　　我记得，鲁迅曾写过这样的话：我们只会对孩子瞪眼。<br/>　　现在，我们又学会了给孩子献媚。这也许和我们的人口政策有关。我们敢对孩子瞪眼的时候，是我们可以随意生育的时候。当我们只准生一个的时候，我们就不敢瞪了。“瞪我就死给你看！”只这一句，就可以让我们立刻崩溃，就地瘫软。<br/>　　所以用“献媚”。<br/>　　“瞪眼”和“献媚”都是奴才的脾性。<br/>　　但我们是以爱的名义。<br/>　　也许，我们首先做了自己的奴才，然后才是别人的，公众的，秩序的。<br/>　　还要“惠及”我们的孩子。<br/>　　奴才的脾性真是我们与生俱来的，要和我们生死相依么？<br/>　　凿壁偷光，囊萤夜读，悬梁刺股……<br/>　　病态的努力加固着我们病态的文化。从幼儿园到中学，我们的孩子首先要对付的竟是他们难以对付的，不断加重的书包！</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1354-24945.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1354-24947.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1354.html" action-type="chapterComment" class="comment"><i></i>少年张冲六章章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

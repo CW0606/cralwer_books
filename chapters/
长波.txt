@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《海军往事》正文_长波_陆颖墨作品 - 维普阅读网</title>
+<meta name="keywords" content="海军往事,海军往事原文,海军往事阅读,长波全文,陆颖墨作品" />
+<meta name="description" content="海军往事原文阅读,长波全文在线阅读,陆颖墨作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-1304.html";
+var nextpage="novel-read-1304-23951.html";
+var indexpage = "novel-chapter-1304.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1304.html">海军往事</a></strong>
+<strong><a href="novel-chapter-1304.html">海军往事目录</a></strong>
+<span>长波</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-1304.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>长波</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-23.html" target="blank">文学小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=陆颖墨&amp;searchsubmit=yes"  target="_blank">陆颖墨</a><span class="divide">|</span>发布时间：2015-04-18 21:19:25<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>如果你走进海湾里那座长波台,就会被那一座座高耸的天线震撼。每座天线有一百多米高,战士们每个月都要爬到天线顶维护。更多的是你看不到的,全在山洞里面,据说山洞里的机房比一个电影院还大。潜艇在水下远航时,只有长波台发出的电波才能传到千里之外,再进入海底。指挥部也只有通过长波台指挥远航的潜艇。 <br/>　　在这里,有一件怪事,常常会听到官兵之间问候不是你吃了吗?而是照了吗?照什么呢,一问,说是照镜子;再细问,才知道他们说的镜子是一个人,这个人或者说这个镜子,现在长波台的官兵还都没有见过。 <br/>　　他姓霍,是建设长波台时的总指挥,大家都叫他霍总。 <br/>　　那是上世纪六十年代初,长波台刚要开工建设,援建的苏联专家到这片海滩点个卯竟撤走回国了,大大小小一千七百多箱设备零件就堆在工地上。 <br/>　　之前,刚组建的人民海军潜艇是依靠苏联的长波台,所以说,长波台的建立,关系到中国的主权。到现在这个份儿上,不管多艰难,中国人也要把自己的长波台建起来。海军迅速抽调力量组建了一个指挥部,一时,荒凉的海滩热闹起来,除了两个工兵团,还来了大批的知识分子,都是全海军挑出的宝贝疙瘩。别看住着工棚,随便抓一个,不是清华、北大的,就是哈军工、西军电的,手气好时还能碰上个刚刚留苏回来的博士、副博士。当时大家奇怪的只是,上级派来的一把手霍总却是一位只在长征路上才开始识字的大老粗。 <br/>　　霍总在战争年代的传奇故事很多,如过草地时,他七天七夜不吃饭,居然没有饿得晕倒,出了草地,还能马上投入战斗,空腹空手夺来两支步枪;再比如,百团大战中,他能单身爬入炮楼,用一颗土制手榴弹让七个鬼子都举了双手。还有一些可能是传神了,说泸定桥十八勇士中有他,太行山用步枪打下日本飞机的也是他。不管怎么说,无论普通战士,还是知识分子,对老革命的尊重和对英雄的崇拜是毫无疑问的。 <br/>　　刚来那几天,几乎所有的人都是在仰视着霍总,他在指挥部的地位也无人可比。有一件小事可以为证,那时条件差,全指挥部的小车只有一辆,是苏联的嘎斯吉普。霍总左腿上留着弹片,在方圆十几公里的海滩转悠全靠着这辆吉普。他不坐的时候,那辆车就停着,没有规定别人不能坐那辆车,但没有人会想起去坐那辆车。 <br/>　　但是越来越多的人发现了霍总的文化水平。最明显的标志是经常说错别字,如果说把“造诣”说成了“造脂”还可以理解的话,那么在一次交班会上把“注意灼伤”说成“注意约伤”,在场的人只有面面相觑了。知识分子的嘴巴比一般的军人要活跃,渐渐议论就多了,霍总这样的文化水平能不能当好这个总指挥,确实叫好多人捏把汗,毕竟这个工程的科技含量太大,而且是那么重要。 <br/>　　开工誓师大会上是在海边的一片沙滩上举行的,主席台也就是架起的几块木板。系在两根木杆上的会标,让海风吹得猎猎作响,两千多名官兵都坐着小马扎,黑压压的一片。大会开始前,全场起立,唱起了《义勇军进行曲》,当时,大家唱得都很豪迈,也很激动。指挥部参谋长宣布开会后,霍总开始讲话。他一张嘴,就让全场振奋起来。 <br/>　　他说:“同志们,你们知道这个工程是谁批准的吗?!”台下一片寂静,大多数人都张大嘴巴等待结果。 <br/>　　他顿了一下,抬高嗓门儿说:“是伟大领袖毛主席亲自批准的!” <br/>　　顿时台下的人都挺身坐得笔直,好像长高了一截。 <br/>　　他又说:“现在有人拿我们一把,只有靠我们自己了。如果我们完不成任务,毛主席就会睡不着觉。我们能让毛主席睡不着觉吗?”说着站起来用右臂猛地一挥。 <br/>　　台下传来了雷鸣般的吼声“不能!” <br/>　　一时间,整个海滩让一股豪迈之气震撼,仿佛潮水也退了一大截。这时,霍总又是人们传说中的霍总了。他喝口水,坐下来,拿出准备好的稿子,开始部署任务。 <br/>　　麻烦来了。 <br/>　　他刚念到第二节,就出了个错别字。当时全场还沉浸在豪迈的气氛里,没有什么反应。等他念到那些专业名词时,那些知识分子竖起耳朵,拿着笔记本用心记录时,出错的频率一下子增多了,有时一句话中会念错两三个字。 <br/>　　台下出现了嗡嗡的议论声。霍总自己不知道发生了什么事,疑惑地停下来,看了看台下。由于他的目光,台下暂时又安静了,可他刚开口念了一会儿,又嗡嗡地议论起来。他忽然觉察到什么,右手翻开第一页时,翻了两次才翻过去。但他还是稳得住,清清嗓子又接着念了下去。下面记笔记的由于许多次听不明白,只好停下手中的笔,一个个满脸迷茫。 <br/>　　突然,他再一次念到了“频率”俩字,念的是“步卒”,终于有人听明白了,前排有个调皮的开发了艺术细胞,说了句“我们不是步兵是海军”,周边上的几个人忍不住哧哧笑了起来。 <br/>　　霍总自然听到了,脸上再也挂不住了。他是个直性子,突然把手中稿子朝前面用力一摔,大声说“写的什么破玩意儿,没法念”。<br/>　　全场惊呆了。 <br/>　　稿子散了一地,让风吹得满地跑。主持会议的参谋长带着几个兵费了好大的劲,才一张张捉了回来。参谋长满头大汗地把稿子理好,用目光请示霍总。这时的霍总喘着粗气谁也不理,用手撑着脑门儿,满脸涨得通红。参谋长嗽了一下,对台下说:“我先做个自我批评。这稿子是我带人准备的,昨天晚上搞得匆忙了些。字体比较潦草,笔误也比较多。霍总年龄大了,眼睛老花,念起来不方便。现在由我来替首长念完。”然后,参谋长就念了起来。 <br/>　　霍总还是保持那个姿势,一直到参谋长念完。 <br/>　　参谋长收起稿子,请示霍总:“是不是散会?” <br/>　　霍总看了他一眼,突然说:“我说几句,刚才参谋长有几句话讲得不对。” <br/>　　参谋长一下子紧张了,在场的人也都紧张了。 <br/>　　霍总从参谋长面前把稿子又拿过去,然后面对台下举起来:“哪有什么笔误?哪有什么潦草?大家都看看,这稿子写得很好,字体也很工整。” <br/>　　参谋长一脸尴尬。 <br/>　　霍总缓了口气:“同样的稿子,为什么我念不下去,而参谋长念得好好的呢?你们说。” <br/>　　这时候,自然没有人会站起来回答他的这个问题。 <br/>　　他说:“很简单,就因为参谋长上过高中,有文化;而我小学都没上过,没文化。这下好啊,大家都可以看到有文化和没文化的区别了吧。”他停了一下,又说:“在座的,文化程度有高的,也有低的。我想啊,这长波台咱中国人没搞过,文化程度不论高低,都要拿镜子照自己身上的不足。低的自然要学。为了让别人不笑话我们,为了让毛主席能睡得着觉,高的也要学。从今天开始,我带头学,因为你们的文化都比我高,都是我老师。” <br/>　　全场起立,自发地响起了雷鸣般掌声。从此以后,找自身的不足和抓学习成了这支部队的传家宝。一代又一代的人都把这个故事的主人公当作一面镜子。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-1304.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1304-23951.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1304.html" action-type="chapterComment" class="comment"><i></i>海军往事章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

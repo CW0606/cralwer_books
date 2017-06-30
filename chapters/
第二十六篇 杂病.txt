@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《黄帝内经》正文_第二十六篇 杂病_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="黄帝内经,黄帝内经原文,黄帝内经阅读,第二十六篇 杂病全文,佚名作品" />
+<meta name="description" content="黄帝内经原文阅读,第二十六篇 杂病全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-58-1865.html";
+var nextpage="novel-read-58-1867.html";
+var indexpage = "novel-chapter-58.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-58.html">黄帝内经</a></strong>
+<strong><a href="novel-chapter-58.html">黄帝内经目录</a></strong>
+<span>第二十六篇 杂病</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-58-1865.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第二十六篇 杂病</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-07-29 22:21:41<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【题解】本篇论述了多种疾病，因范围广泛、没有一定类别，故命名为&quot;杂病&quot;。<br/>　　【原文】厥挟脊而痛者，至顶，头沉沉然，目皖院然[1]，腰脊强。取足太阳胭中血络。<br/>　　厥胸满面肿，唇漯漯然[2]，暴言难，甚则不能言，取足阳明。<br/>　　厥气走喉而不能言，手足清，大便不利，取足少阴。<br/>　　厥而腹向向然，多寒气，腹中谷谷，便溲难，取足太阴。嗌干，口中热如胶，取足少阴。<br/>　　膝中痛，取犊鼻[3]，以员利针，发而间之。针大如整，刺膝无疑。喉痹不能言，取足阳明；能言，取手阳明。<br/>　　疟不渴，间日而作，取足阳明；渴而日作，取手阳明。<br/>　　【提要】本段论述了厥、嗌干、膝痛、喉痹、疟的症状、诊断和治疗方法。<br/>　　【注释】[1]目院院然视物不清的样子。<br/>　　[2]唇漯漯然张介宾注&quot;唇漯漯，肿起貌&quot;；马莳注&quot;唇漯漯然，有涎出唾下之意。&quot;综合二注，即为口唇肿起，口涎不收之意。<br/>　　[3]犊鼻穴位名，在外膝眼凹陷中，属足阳明胃经。<br/>　　【白话解】厥病，上逆之气导致脊柱两侧疼痛直达巅顶，头部昏昏沉沉，双目视物不清，腰背强直，这是足太阳经的病变．治疗时应取足太阳经的委中穴处的血络，点刺出血以泻邪气。<br/>　　厥病胸中满闷，面部肿胀，涎液不能收，突然出现言语困难，甚至不能言语的，这是足阳明胃经的病变，应取足阳明经的穴位。<br/>　　气向上逆充塞咽喉，致使不能言语，手足清冷，大便不通，是足少阴肾经的病变，治疗时应取肾经的穴位。<br/>　　厥气上逆而腹中胀满，寒气内盛，肠鸣，大小便不利等，病变在足太阴脾经，治疗时应取足太阴脾经的腧穴。<br/>　　咽中干，口中燥热，口中津液稠粘似胶，是足少阴肾经的病变，应取足少阴肾经的穴位针刺治疗。<br/>　　足膝中疼痛，应用员利针刺足阳明胃经的犊鼻穴，出针之后，间隔一段时间可以再次治疗，员利针是长似牛尾长毛的大针，十分适合针刺膝部。<br/>　　喉痹，若是不能说话，就针刺足阳明胃经的腧穴；若是还能说话，就针刺手阳明大肠经。<br/>　　疟病，不渴，隔一日发作，应针刺足阳明胃经的穴位；．若是口渴，而且每天发作，就取手阳明大肠经。<br/>　　【原文】 齿痛，不恶清饮，取足阳明；恶清饮，取手阳明。 。聋而不痛者，取足少阳；聋而痛者，取手阳明。<br/>　　衄而不止，虾血流，取足太阳；虾血，取手太阳。不已，刺宛骨下；不已，刺胭中出血。<br/>　　腰痛，痛上寒，取足太阳、阳明；痛上热，取足厥阴不可以俯仰，取足少阳。中热而喘，取足少阴胭中血络。<br/>　　喜怒而不欲食，言益小，刺足太阴；怒而多言，刺足少阳。<br/>　　颇痛，刺手阳明与颇之盛脉出血。<br/>　　项痛不可俯仰，刺足太阳；不可以顾，刺手太阳也。<br/>　　小腹满大，上走胃，至心，淅淅身时寒热，小便不利，取足厥阴。<br/>　　腹满，大便不利，腹大，亦上走胸嗌，喘息喝喝然，取足少阴。<br/>　　腹满食不化，腹向向然，不能大便，取足太阴。<br/>　　【提要】本段论述了齿痛、耳聋、衄、喜怒、痛、腹满的症状、诊断和治疗方法。<br/>　　【白话解】牙齿疼痛，不怕饮冷，治疗应针刺足阳明胃经穴位；若是怕冷饮，就取手阳明大肠经的穴位治疗。<br/>　　耳聋但不疼痛的，应取足少阳经的穴位；耳聋而疼痛的，应取手阳明大肠经的穴位。<br/>　　鼻出血不止，有血块的，治疗应取足太阳膀胱经的穴位；若是出血不多而兼有血块的，应针刺手太阳小肠经的穴位；仍不止血的，就针刺手太阳小肠经的腕骨穴；若还是不能止血，就针刺足太膀胱经的委中穴，采用针刺出血的方法治疗。<br/>　　腰痛，若疼痛的部位发凉，就针刺足太阳膀胱经和足阳明胃经；若是疼痛的部位发热，就针刺足厥阴肝经；若是疼痛而不能俯仰身躯，就取足少阳胆经针刺。因感受热邪而发喘喝病的，治疗当取足少阴肾经，并在委中穴附近的血络处放血。 一易怒而不欲饮食，言语很少的，应针刺足太阴脾经；常发怒且说话甚多的，治疗时应针刺足少阳胆经。<br/>　　腮部疼痛，应针刺手阳明大肠经和腮部跳动明显的动脉，刺之出血。<br/>　　项部疼痛而头不能俯仰的，应针刺足太阳经；项部疼痛而不能回头的，应针刺手太阳经的穴位。<br/>　　小腹胀满，向上波及胃脘和心胸的，全身恶寒瑟缩而发热，小便不利，治疗时应取足厥阴经的穴位。<br/>　　腹中胀满，大便不通，腹部胀大，中气上逆冲胸甚至咽喉，张口喘息并发出喝喝的声音，治疗时应该取足少阴肾经穴位进行针刺治疗。<br/>　　腹中胀满，食谷不化，腹中有响声，大便不通利，治疗应当针刺足太阴脾经的腧穴。<br/>　　【原文】心痛引腰脊，欲呕，取足少阴。<br/>　　心痛，腹胀，啬啬然，大便不利，取足太阴。<br/>　　心痛，引背不得息，刺足少阴不已，取手少阳。心痛弓腹满，上下无常处，便溲难，刺足厥阴。心痛，但短气不足以息，刺手太阴。<br/>　　心痛，当九节刺之，按，已刺按之，立已；不已，上下求之，得之立已。<br/>　　颇痛，刺足阳明曲周动脉，见血，立已；不已，按人迎于经立已。<br/>　　气逆上，刺膺中陷者，与下胸动脉。<br/>　　腹痛，刺脐左右动脉，已刺按之，立已；不已，刺气街，已刺按之，立已。<br/>　　痿厥为四末束挽，乃疾解之，日二不仁者，十日而知。无休，病已止。<br/>　　岁，以草刺鼻，嚏，嚏而已；无息而疾迎引之，立已大惊之，亦可已。<br/>　　【提要】本段论述了心痛、腹痛、痿厥等的症状、诊断和治疗方法。<br/>　　【注释】[1]岁《太素》、《甲乙经》作&quot;哕&quot;。<br/>　　【白话解】心痛牵引腰脊作痛，恶心欲呕吐的，取足少阴经的穴位针刺治疗。<br/>　　心痛，腹中胀满，大便涩而不通，取足太阴脾经的穴位针刺治疗。<br/>　　心痛牵引至后背，致使喘息不利，应针刺足少阴肾经的穴位。若不愈，可以针刺手少阳三焦经的穴位。<br/>　　心痛，仅有气短而呼吸困难的，应针刺手太阴肺经。<br/>　　心痛，应当针刺第九椎之下的筋缩穴，如果疼痛不能止，就在针刺之后用手按压，一般就可以马上止痛。如果这样还没有效果，就在筋缩穴的附近寻找位置，只要找到了正确的位置，用这种方马上就可以奏效。<br/>　　腮部疼痛，应针刺足阳明胃经颊车穴周围的动脉，针刺出血之后就会马上见效；若是不能止痛，用手按人迎穴旁边的动脉，很快就可止痛。<br/>　　气逆上冲，针刺胸前足阳明胃经的膺窗穴或者屋翳穴，以及胸下的动脉。<br/>　　腹中疼痛，针刺两侧的天枢穴处的动脉，刺过之后用手按压，马上就好；如果还不能好，就针刺足阳明胃经的气街穴，针刺过后用手按压，马上见效。<br/>　　痿厥病，将四肢都缠束起来，就会感到闭闷不舒，于是迅速将其解开。这样的治疗方法每天做两次，四肢没有感觉的病人，十天之后就能有感觉了，然后坚持这样的治疗，不要半途而废，直至病愈为止。<br/>　　呃逆的病，用草刺激病人的鼻腔，打喷嚏之后，呃逆可止；另外，屏住呼吸，到呃逆将至之时，迅速提气，然后呼气，使气下行，这样也很快能止住，或者当发作的时候，突然惊吓他一次，也能治愈。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-58-1865.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-58-1867.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-58.html" action-type="chapterComment" class="comment"><i></i>黄帝内经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

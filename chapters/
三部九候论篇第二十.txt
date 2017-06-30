@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《素问》正文_三部九候论篇第二十_黄帝作品 - 维普阅读网</title>
+<meta name="keywords" content="素问,素问原文,素问阅读,三部九候论篇第二十全文,黄帝作品" />
+<meta name="description" content="素问原文阅读,三部九候论篇第二十全文在线阅读,黄帝作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-269-4601.html";
+var nextpage="novel-read-269-4603.html";
+var indexpage = "novel-chapter-269.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-269.html">素问</a></strong>
+<strong><a href="novel-chapter-269.html">素问目录</a></strong>
+<span>三部九候论篇第二十</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-269-4601.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>三部九候论篇第二十</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=黄帝&amp;searchsubmit=yes"  target="_blank">黄帝</a><span class="divide">|</span>发布时间：2014-08-30 14:29:30<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>黄帝问曰：余闻九针于夫子，众多博大，不可胜数。余愿闻要道，以属子孙，传之后世，着之骨髓，藏之肝肺，歃血而受，不敢妄泄。令合天道，必有终始。上应天光星辰历纪，下副四时五行，贵贱更互，冬阳夏阴，以人应之奈何，愿闻其方？<br/>岐伯对曰：妙乎哉问也！此天地之至数。<br/>帝曰：愿闻天地之至数，合于人形血气，通决死生，为之奈何？<br/>岐伯曰：天地之至数始于一，终于九焉。<br/>一者天，二者地，三者人，因而三之，三三者九，以应九野。<br/>故人有三部，部有三候，以决死生，以处百病，以调虚实，而除邪疾。<br/>帝曰：何谓三部？<br/>岐伯曰：有下部、有中部、有上部，部各有三候。三候者，有天、有地、有人也。必指而导之，乃以为真。<br/>上部天，两额之动脉；上部地，两颊之动脉；上部人，耳前之动脉。<br/>中部天，手太阴也；中部地，手阳明也；中部人，手少阴也。<br/>下部天，足厥阴也；下部地，足少阴也；下部人，足太阴也。<br/>故下部之天以候肝，地以候肾，人以候脾胃之气。<br/>帝曰：中部之候奈何？<br/>岐伯曰：亦有天，亦有地，亦有人，天以候肺，地以候胸中之气，人以候心。<br/>帝曰：上部以何候之？<br/>岐伯曰：亦有天，亦有地，亦有人。天以候头角之气，地以候口齿之气，人以候耳目之气。<br/>三部者，各有天，各有地，各有人。三而成天，三而成地，三而成人。三而三之，合则为九，九分为九野，九野为九脏。故神脏五，形脏四，合为九脏。五脏已败，其色必夭，夭必死矣。<br/>帝曰：以候奈何？<br/>岐伯曰：必先度其形之肥瘦，以调其气之虚实，实则泻之，虚则补之。必先去其血脉而后调之，无问其病，以平为期。<br/>帝曰：决死生奈何？<br/>岐伯曰：形盛脉细，少气不足以息者危。形瘦脉大，胸中多气者死。形气相得者生。参伍不调者病。三部九候皆相失者死。上下左右之脉相应如参舂者病甚，上下左右相失不可数者死。中部之候虽独调，与众脏相失者死。中部之候相减者死，目内陷者死。<br/>帝曰：何以知病之所在？<br/>岐伯曰：察九候独小者病，独大者病，独疾者病，独迟者病，独热者病，独寒者病，独陷下者病。<br/>以左手足上，上去踝五寸按之，庶右手足当踝而弹之，其应过五寸以上蠕蠕然者不病，其应疾中手浑浑然者病，中手徐徐然者病。其应上不能至五寸，弹之不应者死。<br/>是以脱肉身不去者死。中部乍疏乍数者死。其脉代而钩者，病在络脉。<br/>九候之相应也，上下若一，不得相失。一候后则病，二候后则病甚，三候后则病危。所谓后者，应不俱也。察其腑脏，以知死生之期，必先知经脉，然后知病脉。真藏脉见者胜死。足太阳气绝者，其足不可屈伸，死必戴眼。<br/>帝曰：冬阴夏阳奈何？<br/>岐伯曰：九候之脉皆沉细旋绝者为阴，主冬，故以夜半死。盛躁喘数者为阳，主夏，故以日中死。<br/>是故寒热病者以平旦死。热中及热病者以日中死。病风者以日夕死。病水者以夜半死。其脉乍疏乍数，乍迟乍疾者，日乘四季死。<br/>形肉已脱，九候虽调犹死。七诊虽见，九候皆从者不死。所言不死者，风气之病，及经月之病，似七诊之病而非也，故言不死。若有七诊之病，其脉候亦败者死矣。必发哕噫。<br/>必审问其所始病，与今之所方病，而后各切循其脉，视其经络浮沉，以上下逆从循之。其脉疾者不病，其脉迟者病；脉不往来者死，皮肤着者死。<br/>帝曰：其可治奈何？<br/>岐伯曰：经病者治其经，孙络病者治其孙络血。血病身有痛者治其经络。其病者在奇邪，奇邪之脉则缪刺之，留瘦不移节而刺之。上实下虚切而从之，索其结络脉，刺出其血以见通之。瞳子高者太阳不足，戴眼者太阳已绝，此决死生之要，不可不察也。手指及手外踝上，五指留针。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-269-4601.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-269-4603.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-269.html" action-type="chapterComment" class="comment"><i></i>素问章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

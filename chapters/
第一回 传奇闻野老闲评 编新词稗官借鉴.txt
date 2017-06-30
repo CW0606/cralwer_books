@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《李公案》正文_第一回 传奇闻野老闲评 编新词稗官借鉴_惜红居士作品 - 维普阅读网</title>
+<meta name="keywords" content="李公案,李公案原文,李公案阅读,第一回 传奇闻野老闲评 编新词稗官借鉴全文,惜红居士作品" />
+<meta name="description" content="李公案原文阅读,第一回 传奇闻野老闲评 编新词稗官借鉴全文在线阅读,惜红居士作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1136-18634.html";
+var nextpage="novel-read-1136-18636.html";
+var indexpage = "novel-chapter-1136.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1136.html">李公案</a></strong>
+<strong><a href="novel-chapter-1136.html">李公案目录</a></strong>
+<span>第一回 传奇闻野老闲评 编新词稗官借鉴</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1136-18634.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第一回 传奇闻野老闲评 编新词稗官借鉴</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-18.html" target="blank">古典小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=惜红居士&amp;searchsubmit=yes"  target="_blank">惜红居士</a><span class="divide">|</span>发布时间：2015-01-30 23:24:06<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>词曰：<br/>　　藉藉颂声载道，悠悠众口铄金。<br/>　　是非功罪未分明，青史何年论定？<br/>　　一枕黄粱乍熟，半窗红日西沉。<br/>　　村言市语任纷纭，姑妄言之妄听。<br/>　　这首词是惜红居士的杜撰，也算小说家的通例。凡作小说，无论高底好歹，必有一首词开首。这词的排调，十书有九是《西江月》。因此，惜红居士编纂此书，也不能不照例办理。<br/>　　这部书，本来说的是近今一位大员。这位大员却并不由科甲出身，亦并非是军功保举，就是从小小知县起家，一直升到尚书总督，五省的钦差。这也算得功名到头，富贵不尽的了。<br/>　　谁知道这位大员却天生成的一种古怪脾气：生平不喜银钱，不贪衣食；穿的是破衣旧帽，吃的是淡饭粗茶；见人破烂龌龊的他便喜欢，有人送金玉锦绣的他便生气。凡是他老先生的属下，所有戏园、酒馆、估衣、绸缎、古董，以及柳巷花街，秦楼楚馆，多弄得一星生意毫无，只好叫苦连天，闭门歇业。所以，虽历任封疆，却未曾丝毫享用。偏又值国家多事之秋，兵连祸结，从长江钦差奉旨督师，带了数十营不练之兵、乌合之众，星夜赶程北上，鲁莽从事，竟至一败涂地，不可收拾。呜呼哀哉，一命归天，尽忠报国。朝廷加恩优恤，加官荫子，赐祭立祠，这也算得忠义流芳，传扬不已了。谁知道，倒树寻根，追原祸始，以纵庇匪人定为罪首，官阶追夺，恤典撤销。可怜一辈子赫赫烈烈的声名，竟弄得此惨惨凄凄的结果。<br/>　　是非功罪，朝有信史，野有舆评，此非吾辈所得议论，编这部书的更不敢褒贬一字。今就他做州县的时候，到处颂扬有几桩奇奇怪怪的公案，故老相传，熟在人口，茶坊野店，你谈我讲，说是青天老爷的政绩，就是小地方的典故，活龙活现，仿佛宋朝的包龙图，国初的施不全一般。惜红居士吃饱了老米饭，穿暖了粗布衣，闲空得不耐烦，便将茶坊野店你谈我讲的一段段故事搬演出来，为消愁解闷的活计。至其事之有无虚实、迟早后先，编书的得之传闻，并非目睹，不敢说语语对真，事事靠实。真的不得假，假的不得真，看此书的必能理会得，固然不必多虑。<br/>　　但说了这大半天，到底所说的这位大员姓甚名谁？诸公听我道来：这就是人人皆知、个个尽晓的铜锤李，李大人。<br/>　　欲知端的，且听下回分解。正是：<br/>　　身后是非谁管得，满村听唱蔡中郎。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1136-18634.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1136-18636.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1136.html" action-type="chapterComment" class="comment"><i></i>李公案章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

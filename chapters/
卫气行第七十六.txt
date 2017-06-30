@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《灵枢》正文_卫气行第七十六_黄帝作品 - 维普阅读网</title>
+<meta name="keywords" content="灵枢,灵枢原文,灵枢阅读,卫气行第七十六全文,黄帝作品" />
+<meta name="description" content="灵枢原文阅读,卫气行第七十六全文在线阅读,黄帝作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-268-4735.html";
+var nextpage="novel-read-268-4737.html";
+var indexpage = "novel-chapter-268.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-268.html">灵枢</a></strong>
+<strong><a href="novel-chapter-268.html">灵枢目录</a></strong>
+<span>卫气行第七十六</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-268-4735.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卫气行第七十六</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=黄帝&amp;searchsubmit=yes"  target="_blank">黄帝</a><span class="divide">|</span>发布时间：2014-08-30 22:35:23<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>黄帝问于岐伯曰：愿闻卫气之行，出入之合，何如？岐伯曰：岁有十二月，日有十二辰，子午为经，卯酉为纬。天周二十八宿，而一面七星，四七二十八星，房昴为纬，虚张为经，是故房至毕为阳，昴至心为阴，阳主昼，阴主夜。故卫气之行，一日一夜五十周于身，昼日行于阳二十五周，夜行于阴二十五周，周于五藏。是故平旦阴尽，阳气出于目，目张则气上于头，循项下足太阳，循背下至小指之端。其散者，别于目锐眦，下手太阳，下至手小指之间外侧。其散者，别于目锐眦，下足少阳，注小指次指之间。以上循手少阳之分，下至小指次指之间。别者以上至目前，合于颔脉，注足阳明，以上行至跗上，入五指之间。其散者，从耳下下手阳明，入大指之间，入掌中。其至于足也，入足心，出内踝下，行阴分，复合于目，故为一周。是故日行一舍，人气行一周与十分身之八；日行二舍，人气行三周于身与十分身之六；日行三舍，人气行于身五周与十分身之四；日行四舍，人气行于身七周与十分身之二；日行五舍，人气行于身九周；日行六舍，人气行于身十周与十分身之八；日行七舍，人气行于身十二周在身与十分身之六；日行十四舍，人气二十五周于身有奇分与十分身之二，阳尽于阴，阴受气矣。其始入于阴，常从足少阴注于肾，肾注于心，心注于肺，肺注于肝，肝注于脾，脾复注于肾为周。是故夜行一舍，人气行于阴藏一周与十分藏之八，亦如阳行之二十五周，而复合于目。阴阳一日一夜，合有奇分十分身之二，与十分藏之二，是故人之所以卧起之时有早晏者，奇分不尽故也。<br/>　　　 黄帝曰：卫气之在于身也，上下往来不以期，候气而刺之，奈何？伯高曰：分有多少，日有长短，春秋冬夏，各有分理，然后常以平旦为纪，以夜尽为始。是故一日一夜，水下百刻，二十五刻者，半日之度也，常如是毋已，日入而止，随日之长短，各以为纪而刺之。谨候其时，病可与期，失时反候者，百病不治。故曰：刺实者，刺其来也；刺虚者，刺其去也。此言气存亡之时，以候虚实而刺之。是故谨候气之所在而刺之，是谓逢时。在于三阳，必候其气在于阳而刺之；病在于三阴，必候其气在阴分而刺之。水下一刻，人气在太阳；水下二刻，人气在少阳；水下三刻，人气在阳明；水下四刻，人气在阴分。水下五刻，人气在太阳；水下六刻，人气在少阳；水下七刻，人气在阳明；水下八刻，人气在阴分。水下九刻，人气在太阳；水下十刻，人气在少阳；水下十一刻，人气在阳明；水下十二刻，人气在阴分。水下十三刻，人气在太阳；水下十四刻，人气在少阳；水下十五刻，人气在阳明；水下十六刻，人气在阴分。水下十七刻，人气在太阳；水下十八刻，人气在少阳；水下十九刻，人气在阳明；水下二十刻，人气在阴分。水下二十一刻，人气在太阳；水下二十二刻，人气在少阳；水下二十三刻，人气在阳明；水下二十四刻，人气在阴分。水下二十五刻，人气在太阳，此半日之度也。从房至毕一十四舍，水下五十刻，日行半度，回行一舍，水下三刻与七分刻之四。《大要》曰：常以日之加于宿上也，人气在太阳，是故日行一舍，人气行三阳行与阴分，常如是无已，天与地同纪，纷纷A2V8A2V8，终而复始，一日一夜，水下百刻而尽矣。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-268-4735.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-268-4737.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-268.html" action-type="chapterComment" class="comment"><i></i>灵枢章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

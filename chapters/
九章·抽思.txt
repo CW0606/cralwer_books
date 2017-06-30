@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《九章》正文_九章·抽思_屈原作品 - 维普阅读网</title>
+<meta name="keywords" content="九章,九章原文,九章阅读,九章·抽思全文,屈原作品" />
+<meta name="description" content="九章原文阅读,九章·抽思全文在线阅读,屈原作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-87-1953.html";
+var nextpage="novel-read-87-1955.html";
+var indexpage = "novel-chapter-87.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-87.html">九章</a></strong>
+<strong><a href="novel-chapter-87.html">九章目录</a></strong>
+<span>九章·抽思</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-87-1953.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>九章·抽思</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=屈原&amp;searchsubmit=yes"  target="_blank">屈原</a><span class="divide">|</span>发布时间：2014-08-02 20:34:39<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文<br/>心郁郁之忧思兮，独永叹乎增伤。<br/>思蹇产之不释兮，曼遭夜之方长。<br/>悲秋风之动容兮，何回报之浮浮。<br/>数惟荪之多怒兮，伤余心之忧忧。<br/>愿摇起而横奔兮，览民尤以自镇。<br/>结微情以陈词兮，矫以遗夫美人。<br/>昔君与我成言兮，曰黄昏以为朝。<br/>羌中道而回畔兮，反既有此他志。<br/>骄吾以其美好兮，览余以其修姱。<br/>与余言而不信兮，盖为余而造怒。<br/>愿承间而自察兮，心震悼而不敢。<br/>悲夷犹而冀进兮，心怛伤之憺憺。<br/>兹历情以陈辞兮，荪详聋而不闻。<br/>固切人之不媚兮，众果以我为患。<br/>初吾所陈之耿著兮，岂至今其庸亡。<br/>何独乐斯之謇謇兮，愿荪美之可光。<br/>望三五以为像兮，指彭咸以为做仪。<br/>夫何极而不至兮，故远闻而难亏。<br/>善不由外来兮，名不可以虚作。<br/>孰无施而有报兮，孰不实而有获。<br/>少歌曰：与美人抽思兮，并日夜而无正。<br/>骄吾以其美好兮，敖朕辞而不听。<br/>倡曰：有鸟自南兮，来集汉北。<br/>好姱佳丽兮，牉独处此异域。<br/>既惸独而不群兮，又无良媒在其侧。<br/>道卓远而日忘兮，愿自申而不得。<br/>望北山而流涕兮，临流水而太息。<br/>望孟夏之短夜兮，何晦明之若岁。<br/>惟郢路之辽远兮，魂一夕而九逝。<br/>曾不知路之曲直兮，南指月与列星。<br/>愿径逝而未得兮，魂识路之营营。<br/>何灵魂之不信直兮，人之心不与吾心同。<br/>理弱而媒不通兮，尚不知余之从容。<br/>乱曰：长濑湍流，泝江潭兮。<br/>狂顾南行，聊以娱心兮。<br/>轸有崴嵬，蹇吾愿兮。<br/>超回志度，行隐进兮。<br/>低佪夷犹，宿北姑兮。<br/>愁叹苦神，灵遥思兮。<br/>路远处幽，又无行媒兮。<br/>道思作颂，聊以自救兮。<br/>忧心不遂，斯言谁告兮。<br/><br/>赏析<br/>题目“抽思”，取之于诗篇中“少歌”之首句(此句“抽怨”一本作“抽思”)。<br/><br/>　　对“抽思”的解释，王逸《楚辞章句》谓：“为君陈道、拔恨意也。”朱熹《楚辞集注》认为：“抽，拔也。思，意也。”王夫之《楚辞通释》说：“抽，绎也。思，情也。”蒋骥《山带阁注楚辞》以为：“抽，拔也。抽思，犹言剖露其心思，即指上陈之耿著言。”<br/><br/>　　比较起来，似王夫之的说法较为可取，本篇所写，乃是把蕴藏在内心深处像乱丝般的愁情抽绎出来。<br/><br/>　　从体式上看，本篇有个与它篇不尽合一的独特篇章结构：除篇尾有“乱辞”外(这是《九章》中多数篇所具备)，还增加了“少歌”与“倡曰”两种形式，此为它篇(如《离骚》、《九歌》及《九章》其它篇等)所罕见。所谓“少歌”，朱熹《楚辞集注》认为乃类同于“小歌”，是诗章前部分内容的小结；所谓“倡曰”，即是“唱曰”，是诗章第二部分内容的发端。联系本篇整体内容，这别具一格的“少歌”与“倡曰”至少起了两个作用：其一，内容结构上的转换，由前半部分刻画与君不合、劝谏无望而生的忧思之情，转向了独处汉北时心情的描摹，“少歌”与“倡曰”在这里起了承上启下的作用，使诗篇顺理成章；其二，诗篇的结构体式有所突破，给人耳目一新之感，避免了单一化叙述的单调与呆板，产生了回旋曲折的艺术效果。<br/><br/>　　全诗最大的特色，应该是流贯全篇的缠绵深沉、细腻真切的怨愤之情，它贯穿了诗的始终，又紧扣了诗题“抽思”，并时时与之相照应。<br/><br/>　　诗篇一开首即扣住了题目(《抽思》)——以忧伤入题，用一连串具有鲜明感情色彩的词汇一下子将读者引入了“忧伤”的氛围，从而步入了诗人刻意营造的感情王国。<br/><br/>　　诗人丰富复杂的情感是随着诗章的逐步展开而渐次委婉吐露的。诗篇先从比喻人手，描述了诗人的忧思之重犹如处于漫漫长夜之中，曲折纠缠而难以解开，由此自然联系到了自然界——“谓秋风起而草木变色也”(朱熹语)；继而写到了楚怀王，由于他的多次迁怒，而使诗人倍增了忧愁，虽有一片赤诚之心，却仍无济于事，反而是怀王多次悔约，不能以诚待之。诗人试图再次表白自己希冀靠拢君王，却不料屡遭谗言，其心情自不言而喻——“震悼”、“夷犹”、“怛伤”、“憺憺”，一系列刻画内心痛苦词语的运用，细致入微地表现了诗人的忠诚与不被理解的窘迫。“望三五以为像兮，指彭咸以为仪”，“善不由外来兮，名不可以虚作”，——一番表露，既是真诚的内心剖白，也是寄寓深邃哲理、予人启迪的警策之句，赋予诗章以理性色彩。<br/><br/>　　“少歌”后的“倡曰”部分，叙述角度有所转换。这部分以由南飞北的鸟儿作譬，刻画了诗人独处汉北时“独而不群”、“无良媒”的处境，其时其地，诗人的忧思益增；“望北山而流涕兮，临流水而太息”两句，令人读之怃然。值得注意的是，诗篇至此巧妙地插进了一段梦境的描写，以此抒写诗人对郢都炽烈的怀念，使读者似乎看到诗人的梦魂由躯体飘出，在星月微光下，直向郢都飞逝，而现实的毁灭在空幻的梦境中得到了暂时的慰藉。这是一段极富浪漫色彩的描绘，读者似与诗人一起，带着忧思，追寻、飞翔……<br/><br/>　　诗篇最后部分的“乱辞”完全照应了开头，也照应了诗题。诗人最终唱出的，依然是失望之辞——因为，梦幻毕竟是梦幻，现实终究是现实，处于进退两难之中的诗人，无法也不可能摆脱既成的困境，他唯有陷入极度矛盾之中而藉诗章以倾吐心绪，此外别无选择。　(徐志啸)</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-87-1953.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-87-1955.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-87.html" action-type="chapterComment" class="comment"><i></i>九章章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

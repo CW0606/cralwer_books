@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《二心集》正文_我们要批评家_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="二心集,二心集原文,二心集阅读,我们要批评家全文,鲁迅作品" />
+<meta name="description" content="二心集原文阅读,我们要批评家全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-534-6736.html";
+var nextpage="novel-read-534-6738.html";
+var indexpage = "novel-chapter-534.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-534.html">二心集</a></strong>
+<strong><a href="novel-chapter-534.html">二心集目录</a></strong>
+<span>我们要批评家</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-534-6736.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>我们要批评家</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 21:01:50<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>看大概的情形（我们这里得不到确凿的统计），从去年以来，挂着“革命的”的招牌的创作小说的读者已经减少，出版界的趋势，已在转向社会科学了。这不能不说是好现象。最初，青年的读者迷于广告式批评的符咒，以为读了“革命的”创作，便有出路，自己和社会，都可以得救，于是随手拈来，大口吞下，不料许多许多是并不是滋养品，是新袋子里的酸酒，红纸包里的烂肉，那结果，是吃得胸口痒痒的，好像要呕吐。<br/>　　得了这一种苦楚的教训之后，转而去求医于根本的，切实的社会科学，自然，是一个正当的前进。<br/>　　然而，大部分是因为市场的需要，社会科学的译著又蜂起云涌了，较为可看的和很要不得的都杂陈在书摊上，开始寻求正确的知识的读者们已经在惶惑。然而新的批评家不开口，类似批评家之流便趁势一笔抹杀：“阿狗阿猫”。<br/>　　到这里，我们所需要的，就只得还是几个坚实的，明白的，真懂得社会科学及其文艺理论的批评家。<br/>　　批评家的发生，在中国已经好久了。每一个文学团体中，大抵总有一套文学的人物。至少，是一个诗人，一个小说家，还有一个尽职于宣传本团体的光荣和功绩的批评家。这些团体，都说是志在改革，向旧的堡垒取攻势的，然而还在中途，就在旧的堡垒之下纷纷自己扭打起来，扭得大家乏力了，这才放开了手，因为不过是“扭”而已矣，所以大创是没有的，仅仅喘着气。一面喘着气，一面各自以为胜利，唱着凯歌。旧堡垒上简直无须守兵，只要袖手俯首，看这些新的敌人自己所唱的喜剧就够。他无声，但他胜利了。<br/>　　这两年中，虽然没有极出色的创作，然而据我所见，印成本子的，如李守章的《跋涉的人们》②，台静农的《地之子》③，叶永秦的《小小十年》前半部，柔石的《二月》及《旧时代之死》④，魏金枝的《七封信的自传》⑤，刘一梦的《失业以后》⑥，总还是优秀之作。可惜我们的有名的批评家，梁实秋先生还在和陈西滢相呼应，这里可以不提；成仿吾先生是怀念了创造社过去的光荣之后，摇身一变而成为“石厚生”，接着又流星似的消失了；钱杏邨先生近来又只在《拓荒者》上，搀着藏原惟人，一段又一段的，在和茅盾扭结⑦。每一个文学团体以外的作品，在这样忙碌或萧闲的战场，便都被“打发”或默杀了。<br/>　　这回的读书界的趋向社会科学，是一个好的，正当的转机，不惟有益于别方面，即对于文艺，也可催促它向正确，前进的路。但在出品的杂乱和旁观者的冷笑中，是极容易雕谢的，所以现在所首先需要的，也还是——几个坚实的，明白的，真懂得社会科学及其文艺理论的批评家。<br/>　======================================<br/><br/><br/>　　 本篇最初发表于一九三○年四月一日《萌芽月刊》第一卷第四期。<br/>　　②李守章字俊民，江苏南通人。《跋涉的人们》收短篇小说四篇，一九二九年北新书局出版。<br/>　　③台静农安徽霍丘人，作家，未名社成员。《地之子》收短篇小说十四篇，一九二八年未名社出版。<br/>　　④柔石（1902～1931）参看本书《柔石小传》及其有关注。<br/>　　⑤魏金枝（1900～1972）浙江嵊县人，作家。《七封信的自传》，收短篇小说六篇，一九二八年上海人间书店出版，原题为《七封书信的自传》。<br/>　　⑥刘一梦（？—1931）山东沂水人。《失业以后》收短篇小说八篇，一九二九年上海春野书店出版。<br/>　　⑦这里说的钱杏邨“和茅盾扭结”，指钱杏邨在《拓荒者》第一期《中国新兴文学中的几个具体的问题》中，反复引证藏原惟人的《再论普罗列塔利亚写实主义》、《普罗列塔利亚艺术的内容与形式》等文，来评论茅盾的作品和反对茅盾《从牯岭到东京》一文中所提出的意见。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-534-6736.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-534-6738.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-534.html" action-type="chapterComment" class="comment"><i></i>二心集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

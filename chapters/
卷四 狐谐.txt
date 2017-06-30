@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《聊斋志异》正文_卷四 狐谐_蒲松龄作品 - 维普阅读网</title>
+<meta name="keywords" content="聊斋志异,聊斋志异原文,聊斋志异阅读,卷四 狐谐全文,蒲松龄作品" />
+<meta name="description" content="聊斋志异原文阅读,卷四 狐谐全文在线阅读,蒲松龄作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1254-23254.html";
+var nextpage="novel-read-1254-23256.html";
+var indexpage = "novel-chapter-1254.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1254.html">聊斋志异</a></strong>
+<strong><a href="novel-chapter-1254.html">聊斋志异目录</a></strong>
+<span>卷四 狐谐</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1254-23254.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷四 狐谐</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-18.html" target="blank">古典小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=蒲松龄&amp;searchsubmit=yes"  target="_blank">蒲松龄</a><span class="divide">|</span>发布时间：2015-03-31 20:54:23<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>万福，字子祥，博兴人也。幼业儒。家少有而运殊蹇，行年二十有奇，尚不能掇一芹。<br/><br/>　　乡中浇俗，多报富户役，长厚者至碎破其家。万适报充役，惧而逃，如济南，税居逆旅。夜有奔女，颜色颇丽。万悦而私之。请其姓氏。女自言：“实狐，但不为君祟耳。”万喜而不疑。女嘱勿与客共，遂日至，与共卧处。凡日用所需，无不仰给于狐。<br/><br/>　　居无何，二三相识，辄来造访，恒信宿不去。万厌之而不忍拒，不得已，以实告客。客愿一睹仙容。万白于狐。狐谓客曰：“见我何为哉？我亦犹人耳。”闻其声，呖呖在目前，四顾，即又不见。客有孙得言者，善俳谑，固请见，且谓：“得听娇音，魂魄飞越；何吝容华，徒使人闻声相思？”狐笑曰：“贤哉孙子！欲为高曾母作行乐图耶？”诸客俱笑。狐曰：“我为狐，请与客言狐典，颇愿闻之否？”众唯唯。狐曰：“昔某村旅舍，故多狐，辄出祟行客。客知之，相戒不宿其舍，半年，门户萧索。主人大忧，甚讳言狐。忽有一远方客，自言异国人，望门休止。主人大悦。甫邀入门，即有途人阴告曰：‘是家有狐。’客惧，白主人，欲他徙。主人力白其妄，客乃止。入室方卧，见群鼠出于床下。客大骇，骤奔，急呼：‘有狐！’主人惊问。客怨曰：‘狐巢于此，何诳我言无？’主人又问：‘所见何状？’客曰：‘我今所见，细细么么，不是狐儿，必当是狐孙子？’”言罢，座客为之粲然。孙曰，“既不赐见，我辈留宿，宜勿去，阻其阳台。”狐笑曰：“寄宿无妨；倘小有迕犯，幸勿滞怀。”客恐其恶作剧，乃共散去。<br/><br/>　　然数日必一来，索狐笑骂。狐谐甚，每一语，即颠倒宾客，滑稽者不能屈也。群戏呼为“狐娘子”。一日，置酒高会，万居主人位，孙与二客分左右座，上设一榻屈狐。狐辞不善酒。咸请坐谈，许之。酒数行，众掷骰为瓜蔓之令。客值瓜色，会当饮，戏以觥移上座曰：“狐娘子大清醒，暂借一觞。”狐笑曰：“我故不饮。愿陈一典，以佐诸公饮。”孙掩耳不乐闻。客皆言曰：“骂人者当罚。”狐笑曰：“我骂狐何如？”众曰：“可。”于是倾耳共听。狐曰：“昔一大臣，出使红毛国，着狐腋冠，见国王。王见而异之，问：‘何皮毛，温厚乃尔？’大臣以狐对。王言：此物生平未曾得闻。狐字字画何等？使臣书空而奏曰：‘右边是一大瓜，左边是一小犬。’”主客又复哄堂。<br/><br/>　　二客，陈氏兄弟，一名所见，一名所闻。见孙大窘，乃曰：“雄狐何在，而纵雌流毒若此？”狐曰：“适一典，谈犹未终，遂为群吠所乱，请终之。国王见使臣乘一骡，甚异之。使臣告曰：‘此马之所生。’又大异之。使臣曰：‘中国马生骡，骡生驹驹。’王细问其状。使臣曰：‘马生骡，是“臣所见”；骡生驹驹，乃“臣所闻”。’”举座又大笑。<br/><br/>　　众知不敌，乃相约：后有开谑端者，罚作东道主。顷之，酒酣，孙戏谓万曰：“一联请君属之。”万曰：“何如？”孙曰：“妓者出门访情人，来时‘万福’，去时‘万福’。”合座属思不能对。狐笑曰：“我有之矣。”众共听之。曰：“龙王下诏求直谏，鳖也‘得言’，龟也‘得言’。”四座无不绝倒。孙大恚曰：“适与尔盟，何复犯戒？”狐笑曰：“罪诚在我；但非此，不成确对耳。明旦设席，以赎吾过。”相笑而罢。狐之诙谐，不可殚述。<br/><br/>　　居数月，与万偕归。乃博兴界。告万曰：“我此处有葭莩亲，往来久梗，不可不一讯。日且暮，与君同寄宿，待旦而行可也。”万询其处，指言：“不远。”万疑前此故无村落，姑从之。二里许，果见一庄，生平所未历。狐往叩关，一苍头出应门。入则重门迭阁，宛然世家。俄见主人，有翁与媪，揖万而坐。列筵丰盛，待万以姻娅，遂宿焉。狐早谓曰：“我遽偕君归，恐骇闻听。君宜先往，我将继至。”万从其言，先至，预白于家人。未几，狐至。与万言笑，人尽闻之，而不见其人。逾年，万复事于济，狐又与俱。忽有数人来，狐从与语，备极寒暄。乃语万曰：“我本陕中人，与君有夙因，遂从尔许时。今我兄弟至矣。将从以归，不能周事。”留之不可，竟去。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1254-23254.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1254-23256.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1254.html" action-type="chapterComment" class="comment"><i></i>聊斋志异章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《三闲集》正文_“皇汉医学”_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="三闲集,三闲集原文,三闲集阅读,“皇汉医学”全文,鲁迅作品" />
+<meta name="description" content="三闲集原文阅读,“皇汉医学”全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-549-7423.html";
+var nextpage="novel-read-549-7425.html";
+var indexpage = "novel-chapter-549.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-549.html">三闲集</a></strong>
+<strong><a href="novel-chapter-549.html">三闲集目录</a></strong>
+<span>“皇汉医学”</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-549-7423.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>“皇汉医学”</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-04 20:16:53<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>革命成功〔２〕之后，“国术”“国技”“国花”“国医”闹得乌烟瘴气之时，日本人汤本求真做的《皇汉医学》〔３〕译本也将乘时出版了。广告〔４〕上这样说——“日医汤本求真氏于明治三十四年卒业金泽医学专门学校后应世多年觉中西医术各有所长短非比较同异舍短取长不可爱发愤学汉医历十八年之久汇集吾国历来诸家医书及彼邦人士研究汉医药心得之作著‘皇汉医学’一书引用书目多至一百余种旁求博考洵大观也……” <br/><br/>　　我们“皇汉”人实在有些怪脾气的：外国人论及我们缺点的不欲闻，说好处就相信，讲科学者不大提，有几个说神见鬼的便绍介。这也正是同例，金泽医学专门学校卒业者何止数千人，做西洋医学的也有十几位了，然而我们偏偏刮目于可入《无双谱》〔５〕的汤本先生的《皇汉医学》。小朋友梵儿〔６〕在日本东京，化了四角钱在地摊上买到一部冈千仞作的《观光纪游》〔７〕，是明治十七年（一八八四）来游中国的日记。他看过之后，在书头卷尾写了几句牢骚话，寄给我了。来得正好，钞一段在下面：“二十三日，梦香竹孙来访。……梦香盛称多纪氏〔８〕医书。余曰，‘敝邦西洋医学盛开，无复手多纪氏书者，故贩原板上海书肆，无用陈余之刍狗〔９〕也。’曰，‘多纪氏书，发仲景氏〔１０〕微旨，他年日人必悔此事。’曰，‘敝邦医术大开，译书续出，十年之后，中人争购敝邦译书，亦不可知。’梦香默然。余因以为合信氏医书（案：盖指《全体新论》〔１１〕），刻于宁波，宁波距此咫尺，而梦香满口称多纪氏，无一语及合信氏者，何故也？……”（卷三《苏杭日记》下二页。） <br/><br/>　　冈氏于此等处似乎终于不明白。这是“四千余年古国古”〔１２〕的人民的“收买废铜烂铁”脾气，所以文人则“盛称多纪氏”，武人便大买旧炮和废枪，给外国“无用陈余之刍狗”有一条出路。 <br/><br/>　　冈氏距明治维新〔１３〕后不久，还有改革的英气，所以他的日记里常有好意的苦言。革命底批评家或云与其看世纪末的烦琐隐晦没奈何之言，不如上观任何民族开国时文字，证以此事，是颇有一理的。 <br/><br/>　　七月二十八日。 <br/><br/>　　<br/><br/><br/>　　〔１〕本篇最初发表于一九二九年八月五日《语丝》第五卷第二十二期。 <br/><br/>　　“皇汉医学”，日本应用中医原理来治病的医学。<br/><br/>　　〔２〕革命成功国民党于一九二七年发动四一二反革命政变后，在南京建立反动政权，自称“革命成功”。这里是讽刺的说法。<br/><br/>　　〔３〕汤本求真（１８６７—１９４１）日本医生，汉医学家，著有《皇汉医学》和《日医应用汉方释义》等。《皇汉医学》以中医理论为基础，阐述中医治疗的效用。前部以注解我国东汉张机的医学著作为主，后部分述中医方剂的主治症候。有周子叙的中译本，一九三○年九月上海中华书局出版。 <br/><br/>　　〔４〕这是中华书局的“《皇汉医学》出版预告”，载一九二九年七月十七日上海《新闻报》。 <br/><br/>　　〔５〕《无双谱》清代金古良编绘，内收从汉到宋的“忠孝、才节、事功……妖佞之从来无有者”四十人的画像，并各附乐府诗一首，记其“生平大端”。 <br/><br/>　　〔６〕梵儿即李秉中（？—１９４０），四川彭山人。原是北京大学学生，后入黄埔军校，继去苏联、日本学习陆军，为国民党军官。早期与作者通信较多。《鲁迅日记》一九二九年七月二十二日：“收李秉中自日本所寄赠《观光纪游》一部三本。” <br/><br/>　　〔７〕冈千仞（１８３３—１９１４）日本人。清末曾到中国游历，著有《沪上》、《苏杭》、《燕京》、《粤南》等日记共十卷，总称《观光纪游》，一八八五年自费刊印。 <br/><br/>　　〔８〕多纪氏即多纪蓝溪（１７３１—１８０１），名元惠，字仲明，日本内科医生。 <br/><br/>　　〔９〕刍狗语见《老子》：“天地不仁，以万物为刍狗。”刍狗是古代祭祀时用草做成的狗，祭后即弃去，所以喻作轻贱无用之物。<br/><br/>　　〔１０〕仲景氏张机，字仲景，南阳郡（今河南南阳市）人，东汉医学家。著有《金匮要略》、《伤寒论》。 <br/><br/>　　〔１１〕《全体新论》英国合信在华编写的生理学著作，陈修堂译，一八五一年广东金利埠惠爱医局石印，后在宁波等处刻印。按鲁迅在一九二九年十月二十二日致江绍原信中曾说：“括弧中《全体新论》下，乞添入‘等五种’三字。” <br/><br/>　　〔１２〕“四千余年古国古”语出清代黄遵宪《出军歌》：“四千余岁古国古，是我完全土。”（载一九○二年十月《新小说》第一号）<br/><br/>　　〔１３〕明治维新指发生于日本明治年间（１８６８—１９１２）的维新运动。它结束了封建王朝德川幕府的统治，促进了资本主义在日本的发展。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-549-7423.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-549-7425.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-549.html" action-type="chapterComment" class="comment"><i></i>三闲集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

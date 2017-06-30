@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《拟古九首》正文_拟古 其六_陶渊明作品 - 维普阅读网</title>
+<meta name="keywords" content="拟古九首,拟古九首原文,拟古九首阅读,拟古 其六全文,陶渊明作品" />
+<meta name="description" content="拟古九首原文阅读,拟古 其六全文在线阅读,陶渊明作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-645-7888.html";
+var nextpage="novel-read-645-7890.html";
+var indexpage = "novel-chapter-645.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-645.html">拟古九首</a></strong>
+<strong><a href="novel-chapter-645.html">拟古九首目录</a></strong>
+<span>拟古 其六</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-645-7888.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>拟古 其六</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=陶渊明&amp;searchsubmit=yes"  target="_blank">陶渊明</a><span class="divide">|</span>发布时间：2014-10-15 21:15:37<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>苍苍谷中树，冬夏常如兹；<br/>年年见霜雪，谁谓不知时。<br/>厌闻世上语，结友到临淄。<br/>稷下多谈士，指彼决吾疑。<br/>装束既有日，已与家人辞。<br/>行行停出门，还坐更自思。<br/>不怨道里长，但畏人我欺。<br/>万一不合意，永为世笑嗤。<br/>伊怀难具道，为君作此诗。<br/><br/>【注释】<br/>(1)这首诗以谷中青松自喻，表现坚贞不渝的意志。尽管诗中流露出犹豫彷徨的矛盾复杂心理，但仍决意不为流言所惑，不受世俗之欺，所以写诗以明志。<br/>(2)苍苍：深青色，犹言“青青”。树：指松柏。常如兹：总是这样，谓郁郁葱葱，不凋零。<br/>(3)时：季节的变化。暗寓时世。以上四句起兴，以松柏的坚贞自喻。<br/>(4)世上语：泛指世俗流言。临淄：地名，战国时齐国国都，在今山东省。<br/>(5)稷（jì计）下：古地名，战国齐都临淄城稷门（西边南首门）附近地区。齐宣王招集文学、学术之士在此讲学。《史记?田敬仲完世家》：“齐宣王时，稷下学士复盛。”集解引刘向《别录》：“齐有稷门，城门也。谈说之士，期会于稷下也。”又《史记?孟子荀卿列传》：“齐之稷下，如淳于髡（kūn 坤）、慎到，环渊、田骈、邹奭（shì式）之属，各著书言治乱之事，以干世主。”谈士：善于言谈论辩之人，指稷下之士。谓这些人善空谈而不耐霜雪的考验。指彼：指望他们。决我疑：解决我的疑问。<br/>(6)装束：整备行装。既有日：已经有好几日。<br/>(7)这两句写临行时又徘徊不前，犹豫再三，表示内心复杂矛盾的状态。<br/>(8)道里：道路里程，即路程。人我欺：即人欺我。人，指“谈士”。<br/>(9)不合意：见解不同。嗤（chī痴）：讥笑。逯本作“之”，今从焦本改。<br/>(10)伊：此。难具道：难以详细他讲出来。君：泛指读者。<br/><br/>【译文】<br/>葱郁苍青山谷树，<br/>冬天夏日常如此。<br/>年年经历霜和雪，<br/>更变四时岂不知？<br/>已厌听闻世上语，<br/>交结新友去临淄。<br/>齐国稷下多谈士，<br/>指望他们解我疑。<br/>备好行装已数日，<br/>且同家属告别离。<br/>欲行又止心犹豫，<br/>还坐重新再三思。<br/>不怕此行道路远，<br/>担心谈士会相欺。<br/>万一相互不合意，<br/>永远为人所笑嗤。<br/>心内之情难尽诉，<br/>为君写下这歌诗。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-645-7888.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-645-7890.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-645.html" action-type="chapterComment" class="comment"><i></i>拟古九首章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

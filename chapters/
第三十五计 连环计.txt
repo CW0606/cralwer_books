@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《三十六计》正文_第三十五计 连环计_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="三十六计,三十六计原文,三十六计阅读,第三十五计 连环计全文,佚名作品" />
+<meta name="description" content="三十六计原文阅读,第三十五计 连环计全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-232-3069.html";
+var nextpage="novel-read-232-3071.html";
+var indexpage = "novel-chapter-232.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-232.html">三十六计</a></strong>
+<strong><a href="novel-chapter-232.html">三十六计目录</a></strong>
+<span>第三十五计 连环计</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-232-3069.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第三十五计 连环计</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-08-19 22:50:02<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>本为元杂剧名。剧本写汉末董卓专权，王允设计，先许嫁美女貂蝉与吕布，后又献给董卓，以离间二人，致使吕布杀死董卓。后用以指一个接一个相互关联的计策。<br/>【原典】<br/>将多兵众，不可以敌，使其自累，以杀其势。在师中吉，承天宠也①。<br/>【注释】<br/>①在师中古，承天变也：语出《易经．师》卦（卦名讲释见前第二十六计注）。本卦九二．《象》辞：“在师中吉，承天宠也”是说主帅身在军中指挥，吉利，因为得到上天的宠爱。此计运用此象理，是说将帅巧妙地运用此计，克敌制胜，就如同有上天护佑一样。<br/>【按语】<br/>庞统使曹操战舰勾连，而后纵火焚之，使不得脱。则连环计者，其结在使敌自累，而后图之。盖一计累敌，—计攻敌，两计扣用，以摧强势也。如宋毕再遇赏引敌与战，且前且却，至于数四。视日已晚，乃以香料煮黑，布地上。复前博战，佯败走。敌乘胜追逐。其马已饥，闻豆香，乃就食，鞭之不前。遇率师反攻，遂大胜。皆连环之计也。<br/>【故事】<br/>三国王允<br/>　　三国演义小说中的连环计是发生在第八回 王司徒巧使连环计 董太师大闹凤仪亭，央视版电视剧是在第六集 连环计。内容为：王允将貂蝉私下许配给吕布，又派人接待董卓，将貂蝉送给董卓，并且告知吕布是董卓接貂蝉回府，择日将与董卓完婚。后貂蝉在董卓和吕布两人之间离间，使得两人相互猜忌，并且结下怨仇，在三国演义第九回中，吕布杀掉了董卓。<br/><br/>战国张仪<br/>　　战国时，楚怀王为“从约长”，联合齐国等共同抵御秦国。秦惠文王十分担心，秦相国张仪献计说：“我愿出使楚国，去说服楚怀王，以离间他与齐国等诸侯国的关系，让他们的“合纵计”瓦解。”。秦王同意了他的建议，张仪于是辞去相国位，前往楚国。他得知楚王有个宠臣叫靳（音：斤）尚，在王左右，言无不听，就用重金贿赂了靳尚，靳尚在楚王面前极力推崇了张仪，楚王也知道张仪很有才干，便召见了张。张仪说：“当今天下，只有秦、齐、楚三国最为强势，如果秦跟齐国结盟，则齐强楚弱；如果秦跟楚国结盟，则楚强齐弱。然而，秦王只愿意同楚国联盟，我这次特意为二国通好而来，秦王答应把以前商鞅夺取楚国之商於六百里地归还给楚国。”，楚怀王听后大喜，不顾客卿陈轸的劝谏，决定与齐国断交，而同秦国结好，并派亲信逢侯丑同张仪去秦国受地。<br/>　　二人快到秦国都城时，张仪假借酒醉，故意从马车上摔下，以腿伤为由，在家闭门养伤，让逢侯丑一个人留在馆舍，逢侯丑见秦王不到，见张仪也不得，由此三个月过去，还地之事毫无下落。逢将情况写信报告给楚王，楚王以为是还没跟齐国完全断交的原因，于是，派人去齐境辱骂齐闵王，闵王一怒之下，干脆入秦结好，共同攻打楚国。张仪见齐国的使者来到，知道离间楚、齐的计谋完成，便出来召见逢侯丑，逢又问起受地的事，张仪故作惊诧地说：“怎么？没有这回事嘛，我只答应把我的六里封地给楚国的，商於六百里地，是经过千征百战得来的，秦王是不会轻意还给楚国的。”。逢侯丑这才明白中了张仪的“连环计”：不仅没有得到商於之地，反而无辜与齐国结怨。<br/><br/>三国庞统<br/>　　庞统使曹操战舰勾连，而后纵火焚之，使不得脱。则连环计者，其结在使敌自累，而后图之。盖一计累敌，—计攻敌，两计扣用，以摧强势也。如宋毕再遇赏引敌与战，且前且却，至于数四。视日已晚，乃以香料煮黑，布地上。复前博战，佯败走。敌乘胜追逐。其马已饥，闻豆香，乃就食，鞭之不前。遇率师反攻，遂大胜。皆连环之计也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-232-3069.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-232-3071.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-232.html" action-type="chapterComment" class="comment"><i></i>三十六计章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《战国策》正文_卷三十一·燕三_刘向作品 - 维普阅读网</title>
+<meta name="keywords" content="战国策,战国策原文,战国策阅读,卷三十一·燕三全文,刘向作品" />
+<meta name="description" content="战国策原文阅读,卷三十一·燕三全文在线阅读,刘向作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-262-4327.html";
+var nextpage="novel-read-262-4329.html";
+var indexpage = "novel-chapter-262.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-262.html">战国策</a></strong>
+<strong><a href="novel-chapter-262.html">战国策目录</a></strong>
+<span>卷三十一·燕三</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-262-4327.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷三十一·燕三</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘向&amp;searchsubmit=yes"  target="_blank">刘向</a><span class="divide">|</span>发布时间：2014-08-28 20:53:51<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>齐韩魏共攻燕<br/><br/>　　齐、韩、魏共攻燕，燕使太子请救于楚。楚王使景阳将而救之。暮舍，使左右司马各营壁地，已，植表。景阳怒曰：“所营者，水皆至灭表。此焉可以舍！”乃令徙。明日大雨，山水大出，所营者，水皆灭表。军吏乃服。于是遂不救燕，而攻魏邕丘，取之以与宋。三国惧，乃罢兵。魏军其西，齐军其东，楚军欲还不可得也。景阳乃开西和门，昼以车骑，暮以烛见，通使于魏。齐师怪之，以为燕、楚与魏谋之，乃引兵而去。齐兵已去，魏失其与国，无与共击楚，乃夜遁。楚师乃还。<br/><br/>　　----------------------------------------<br/><br/>　　张丑为质于燕<br/><br/>　　张丑为质于燕，燕王欲杀之，走且出境，境吏得丑。丑曰：“燕王所为将杀我者，人有言我有宝珠也，王欲得之。今我已亡之矣，而燕王不我信。今子且致我，我且言子之夺我珠而吞之，燕王必当杀者，刳子腹及子之肠矣。夫欲得之君，不可说以利。吾要且死，子肠亦且寸绝。”境吏恐而赦之。<br/><br/>　　----------------------------------------<br/><br/>　　燕王喜使栗腹以百金为赵孝成王寿<br/><br/>　　燕王喜使栗腹以百金为赵孝成王寿，酒三日，反报曰：“赵民其状者睫死于长平，其孤未状，可伐也。”王乃召昌国君乐间而问曰：“何如？”对曰：“赵，四达之国也，其民皆习于兵，不可与战。”王曰：“吾以倍攻之，可乎？”曰：“不可。”曰：“以三，可乎？”曰：“不可。”王大怒。左右皆以为赵可伐，遽起六十万以攻赵。令栗腹以四十万攻鄗，使庆秦以二十万攻代。赵使廉颇以八万遇栗腹于鄗，使乐乘以五万遇庆秦于代。燕人大败。乐间入赵。<br/><br/>　　燕王以书且谢焉，曰：“寡人不佞，不能奉顺君意，故君捐国而去，则寡人之不肖明矣。敢端其愿，而君不肯听，故使使者陈愚意，君试论之。语曰：’仁不轻绝，智不轻怨。’君之于先王也，世之所明知也。寡人望有非则君掩盖之，不虞君之明罪之也；望有过则君教诲之，不虞君之明罪之也。且寡人之罪，国人莫不知，天下莫不闻，君微出明怨以弃寡人，寡人必有罪矣。虽然，恐君之未尽厚也。谚曰：’厚者不毁人以自益也，仁者不危人以要名。’以故掩人之邪者，厚任之行也；救人之过者，仁者之道也。世有掩寡人之邪，救寡人之过，非君心所望之？今君厚受位于先王以成尊，轻弃寡人以快心，则掩邪救过，难得于君矣。且世有薄于故厚施，行有失而故惠用。今使寡人任不肖之罪，而君有失厚之累，于为君择之也，无所取之。国之有封疆，犹家之有垣墙，所以合好掩恶也。室不能相和，出语邻家，未为通计也。怨恶未见而明弃之，未尽厚也。寡人虽不肖乎，未如殷纣之乱也；君虽不得意乎，未如商容、箕左之累也。然则不内盖寡人，而明怨于外，恐其遇足以伤于高而薄于行也，非然也。<br/><br/>　　“茍可以明君之义，成君之高，虽任恶名，不难受也。本欲以为明寡人之薄，而君不得厚；扬寡人之辱，而君不得荣，此一举而两失也。义者不亏人以自益，况伤人以自损乎！愿君无以寡人不肖，累往事之美。昔者，柳下惠吏于鲁，三黜而不去。或谓之曰：’可以去。’柳下惠曰：’茍与人之异，恶往而不黜乎？犹且黜乎,宁于国外国尔。’柳下惠不以三黜自累，故前业不忘；不以去为心，故远近无议。今寡人之罪，国人未知，而语寡人者边天下。语曰：’论不修心，议不累物，仁不轻绝，智不简功。’弃大功者，辍也；轻绝厚利者，怨也。辍而弃之，怨而累之，宜在远者，不望之乎君也。今以寡人无罪，君岂怨之乎？愿君捐怨，追惟先王，复以教寡人！意君曰，余且慝心以成而过，不顾先王以明而恶，使寡人进不得修功，退不得改过，君之所揣也，唯君图之！此寡人之愚意也。敬以书谒之。”<br/><br/>　　乐间、乐乘怨不用其计二人卒留赵，不报。<br/><br/>　　----------------------------------------<br/><br/>　　秦并赵北向迎燕<br/><br/>　　秦并赵，北向迎燕。燕王闻之，使人贺秦王。使者过赵，赵王系之。使者曰：“秦、赵为一，而天下服矣。兹之所以受命于赵者，为秦也。今臣使秦，而赵系之，是秦、赵有隙。秦、赵有隙，天下必不服，而燕不受命矣。且臣之使秦，无妨赵之伐燕也。”赵王以为然，而遣之。<br/><br/>　　使者见秦王曰：“燕王窃闻秦并赵，燕王使使者贺千金。“秦王曰：“一夫无道，吾使赵有之，子何贺？”使者曰：“臣闻全赵之时，南邻为秦，北下曲阳为燕，赵广三百里，而与秦相距五十余年矣，所以不能反胜秦者，国小而地无所取。今王使赵北并燕，燕、赵同力，必不复受于秦矣。臣切为王患之。“秦王以为然，起兵而救燕。<br/><br/>　　----------------------------------------<br/><br/>　　燕太子丹质于秦亡归<br/><br/>　　燕太子丹质于秦，亡归。见秦且灭六国，兵以临易水，恐其祸至。太子丹患之，谓其太傅鞫武曰：“燕秦不两立，愿太傅幸而图之。”武对曰：“秦地边天下，威胁韩、魏、赵氏，则易水以北，为有所定也。奈何以见陵之怨，欲排其逆鳞哉？“太子曰：“然则何由？”太傅曰：“请入，图之。”<br/><br/>　　居之有间，樊将军亡秦之燕，太子容之。太傅鞫武谏曰：“不可。夫秦王之暴，而积怨于燕，足为寒心，又况闻樊将军之在乎！是以委肉当饿虎之蹊，祸必不振矣！虽有管、晏，不能为谋。愿太子急遣樊将军入匈奴以灭口。请西约三晋，南连齐、楚，北讲于单于，然后乃可图也。”太子丹曰：“太傅之计，旷日弥久，心昏然，恐不能须臾。且非独于此也。夫樊将军困穷于天下，归身于丹，丹终不迫于强秦，二弃所哀恋之交置之匈奴，是丹命固卒之时也。愿太傅更虑之。”鞫武曰：“燕有田光先生者，其智深，其勇沉，可与之谋也。”太子曰：“愿因太傅交于田先生，可乎？”鞫武曰：“敬诺。”出见田光，道太子曰：“愿图国事于先生。”田光曰：“敬奉教。”乃造焉。<br/><br/>　　太子跪而逢迎，却行为道，跪而拂席。田先生坐定，左右无人，太子避席而且曰：“燕、秦不两立，愿先生留意也。”田光曰：“臣闻骐骥盛壮之时，一日而驰千里。至其衰也，驽马先之。今太子闻光壮盛之时，不知吾精已消亡矣。虽然，光不敢以乏国事也。所善荆轲，可使也。”太子曰：“愿因先生得愿交于荆轲，可乎？”田光曰：“敬诺。”即起趋出。太子送之至门，曰：“丹所报，先生所言者，国大事也，愿先生勿泄也。”田光俯而笑曰：“诺。”<br/><br/>　　偻行见荆轲，曰：“光与子相善，燕国莫不知。今太子闻光壮盛之时，不知吾形已不逮也，幸而教之曰：’燕、秦不两立，愿先生留意也。’光窃不自外，言足下于太子，愿足下过太子于宫。”荆轲曰：“谨奉教。”田光曰：“光闻长者之行，不使人疑之，今太子约光曰：’所言者，国之大事也，愿先生勿泄也。’是太子疑光也。夫为行使人疑之，非节侠士也。”于自杀以激荆轲，曰：“愿足下急过太子，言光已死，明不言也。”遂自刭而死。<br/><br/>　　轲见太子，言田光已死，明不言也。太子再拜而跪，膝下行流涕，有顷而后言曰：“单所请田先生无言者，欲以生大事之谋，今田先生以死明不泄言，岂丹之心哉？”荆轲坐定，太子避席顿首曰：“田先生不致丹不肖，使得至前，愿有所道，此天所以哀燕不弃其孤也。今秦有贪饕之心，而欲不可足也。非尽天下之地，臣海内之王者，其意不餍。今秦已虏韩王，尽纳其地，又举兵南伐楚，北临赵。王翦将数十万之众临漳、邺，而李信出太原，云中。赵不能支秦，必入臣。入臣，则祸至燕。燕小弱，数困于兵，今计举国不足以当秦。诸侯服秦，莫敢合从。丹之私计，愚以为诚得天下之勇士，使于秦，窥以重利，秦王贪其贽，必得所愿矣。诚得劫秦王，使悉反诸侯之侵地，若曹沫之与齐桓公，则大善矣；则不可，因而刺杀之。彼大将擅兵与外，而内有大乱，则君臣相疑。以其间诸侯，诸侯得合从，其偿破秦必矣。此丹之上愿，而不知所以委命，唯荆卿留意焉。”太子前顿首，固请无让。然后许诺。于是尊荆轲为上卿，舍上舍，太子日日造问，供太牢异物，间进车骑美女，恣荆轲所欲，以顺适其意。<br/><br/>　　久之，荆卿未?a href="http://www.zggdwx.com/zhenguan/37.html"&gt;行幸狻Ｇ亟�豸迤普裕�舱酝酰�∈掌涞兀���甭缘兀�裂嗄辖纭Ｌ�拥た志澹�饲刖Ｇ湓唬骸扒乇�┠憾梢姿��蛩溆�な套阆拢�善窨傻迷眨俊本Ｇ湓唬骸拔⑻�友裕�荚傅泌酥�＝裥卸�扌牛�蚯匚纯汕滓病７蚪穹����赝豕褐�鹎Ы铮�赝蚣摇３夏艿梅���祝�胙喽街�赝枷浊赝跚赝醣厮导�迹�寄说糜幸员ㄌ�印！碧�釉唬骸胺���郧罾Ю垂榈ぃ�げ蝗桃约褐�剑��顺ふ咧�猓�缸阆赂�侵�！?<br/><br/>　　荆轲知太子不忍，乃遂私见樊于期曰：“秦之遇将军，可谓深矣。父母宗族，皆为戮没。今闻购将军之首，金千斤，邑万家，将奈何？”樊将军仰天太息流涕曰：“吾每念，常痛于骨髓，顾计不知所出耳。”轲曰：“今有一言，可以解燕国之患，而报将军之雠者，何如？”樊于期乃前曰：“为之奈何？“荆轲曰：“愿得将军之首以献秦，秦王必喜而善见臣，臣左受拔其袖，而右手揕抗其胸，然则将军之仇报，而燕国见陵之耻除矣。将军岂有意舆？”樊于期偏袒扼腕而进曰：“此臣日夜切齿拊心也，乃今得闻教。”遂自刎。太子闻之驰往，伏尸而哭，极哀。既已，无可奈何，乃遂收盛樊于期之首，函封之。<br/><br/>　　于是，太子预求天下之利匕首，得赵人徐夫人之匕首，取之百金，使工以药淬之，以试人，血汝缕，人无不立死者。乃为装遣荆轲。燕国有勇士秦武阳，年十二，杀人，人不敢与忤视。乃令秦武阳为副。荆轲有所待，欲俱，其人居远未来，而为留待。顷之未发，太子迟之，疑其有改悔，乃复请之曰：“日以尽矣，荆卿岂无意哉？丹请先遣秦武阳。”荆轲怒，叱太子曰：“近日往而不反者，竖子也！今提一匕首入不测之强秦，仆所以留者，待吾客与俱。今太子迟之，请辞决矣！”。遂发。<br/><br/>　　太子及宾客知其事者，皆白衣冠以送之。至易水上，既祖，取道。高渐离击筑，荆轲和而歌，为变征之声，士皆垂泪涕泣。又前而为歌曰：“风萧萧兮易水寒，壮士一去兮不复还！”复为慷慨羽声，士皆瞋目，发尽上指冠。于是荆轲遂就车而去，终已不顾。<br/><br/>　　既至秦，持千金之资币物，厚遗秦王宠臣中庶子蒙嘉。嘉为先言于秦王曰：“燕王诚振畏慕大王之威，不敢兴兵以拒大王，愿举国为内臣，比诸侯之列，给贡职如郡县，而得奉守先王之宗庙。恐惧不敢自陈，谨斩樊于期头，及献燕之督亢之地图，函封，燕王拜送于庭，使使以闻大王。唯大王命之。”<br/><br/>　　秦王闻之，大喜。乃朝服，设九宾，见燕使者咸阳宫。荆轲奉樊于期头函，而秦武阳奉地图匣，以次进至陛下。秦武阳色变振恐，群臣怪之，荆轲顾笑武阳，前为谢曰：“北蛮夷之鄙人，未尝见天子，国外振慑，愿大王少假借之，使毕使于前。“秦王谓轲曰：“取武阳所持图。”轲既取图奉之，发图，图穷而匕首见。因左手拔秦王之袖，右持匕首揕抗之。未至身，秦王惊，自引而起，绝袖。拔剑，剑长，掺其室。时怨急，剑坚，故不可立拔。荆轲逐秦王，秦王还柱而走。群臣惊愕，卒起不意，尽失其度。而秦法，群臣侍殿上者，不得持尺兵。诸郎中执兵，皆陈殿下，非有诏不得上。方急时，不及召下兵，以故荆轲逐秦王，而卒惶急无以击轲，而乃以手共搏之。是时，侍医夏无且，以其所奉药曩体轲。秦王之方还柱走，卒惶急不知所为，左右乃曰：’王负剑！王负剑！’遂拔以击荆轲，断其左股。荆轲废，乃引其匕首，提秦王，不中，中柱。秦王复击轲，被八创。轲自知事不就，倚柱而笑，箕踞以骂曰：“事所以不成者，乃欲以生劫之，必得约契以报太子也。”左右既前斩荆轲，秦王目眩良久。而论功赏群臣及当坐者，各有差。而赐夏无且黄金二百镒，曰：“无且爱我，乃以药曩提轲也。”<br/><br/>　　于是，秦大怒燕，益发兵诣赵，诏王翦军以伐燕。十月而拔燕蓟城。燕王喜、太子丹等，皆率其精兵东保于辽东。秦将李信追击燕王，王急，用代王嘉计，杀太子丹，欲献之秦。秦复进兵攻之。五岁而卒灭燕国，而虏燕王喜。秦兼天下。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-262-4327.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-262-4329.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-262.html" action-type="chapterComment" class="comment"><i></i>战国策章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

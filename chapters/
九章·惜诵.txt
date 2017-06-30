@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《九章》正文_九章·惜诵_屈原作品 - 维普阅读网</title>
+<meta name="keywords" content="九章,九章原文,九章阅读,九章·惜诵全文,屈原作品" />
+<meta name="description" content="九章原文阅读,九章·惜诵全文在线阅读,屈原作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-87.html";
+var nextpage="novel-read-87-1952.html";
+var indexpage = "novel-chapter-87.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-87.html">九章</a></strong>
+<strong><a href="novel-chapter-87.html">九章目录</a></strong>
+<span>九章·惜诵</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-87.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>九章·惜诵</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=屈原&amp;searchsubmit=yes"  target="_blank">屈原</a><span class="divide">|</span>发布时间：2014-08-02 20:32:20<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文<br/>惜诵以致愍兮，发愤以抒情。<br/>所非忠而言之兮，指苍天以为正。<br/>令五帝以折中兮，戒六神与向服。<br/>俾山川以备御兮，命咎繇使听直。<br/>谒忠诚以事君兮，反离群而赘肬。<br/>亡儇媚与背众兮，情与貌其不变。<br/>故相臣莫若君兮，所以证之不远。<br/>吾谊先君而后身兮，羌众人之所仇。<br/>专惟君而无他兮，又众兆之所雠。<br/>一心而不豫兮，羌不可保也。<br/>疾亲君而无他兮，有招祸之道也。<br/>思君其莫我忠兮，勿忘身之贱贫。<br/>事君而不贰兮，迷不知宠之门。<br/>忠何罪组遇罚兮，亦非余心之所志。<br/>行不群以巅越兮，又兆众之所咍。<br/>纷逢尤以离谤兮，謇不可释；<br/>情沉抑而不达兮，又蔽而莫之白。<br/>心郁邑而不达兮，又莫察余之中情。<br/>固烦言不可结而诒兮，愿陈志而无路。<br/>退静默而莫余知兮，进号呼又莫吾闻。<br/>申侘傺之烦惑兮，中闷瞀之忳忳。<br/>昔余梦登天兮，魂中道而无杭。<br/>吾使厉神占之兮，曰：“有志极而无旁”。<br/>“终危独以离异兮？”曰：“君可思而不可恃。<br/>故众口其铄金兮，初若是而逢殆。<br/>惩于羹而吹齑兮，何不变此志也？<br/>欲释阶而登天兮，犹有曩之态也。<br/>众骇遽以离心兮，又何以为此伴也？<br/>同极而异路兮，又何以为此援也？<br/>晋申生之孝子兮，父信谗而不好。<br/>行婞直而不豫兮，鲧功用而不就。”<br/>吾闻作忠以造怨兮，忽谓之过言。<br/>九折臂而成医兮，吾至今而知其信然。<br/>矰弋机而在上兮，罻罗张而在下。<br/>设张辟以娱兮，愿侧身而无所。<br/>欲儃佪以干傺兮，恐重患而离尤。<br/>欲高飞而远集兮，君罔谓汝何之？<br/>欲横奔而失路兮，坚志而不忍。<br/>背膺牉以交痛兮，心郁结不纡轸。<br/>捣木兰以矫蕙兮，糳申椒以为粮。<br/>播江离与滋菊兮，愿春日以为糗芳。<br/>恐情质之不信兮，故重著以自明。<br/>矫兹媚以私处兮，愿曾思而远身。<br/><br/>赏析<br/>关于“惜诵”二字，历来有着各种不同的解释。王逸《楚辞章句》说:“惜，贪也；诵，论也。”“言己贪忠信之道，可以安君，论之于心，诵之于口，至于身以疲病，而不能忘。”洪兴祖《楚辞补注》说:“惜诵者，惜其君而诵之也。”朱熹《楚辞集注》说:“惜者，爱而有忍之意。诵，言也。”“言始者爱惜其言，忍而不发，以致极有忧愍之心。”王夫之《楚辞通释》说:“惜，爱也。诵，诵读古训以致谏也。”林云铭《楚辞灯》说:“惜，痛也，即《惜往日》之惜。不在位而犹进谏，比之矇诵，故曰诵。”“言痛己因进谏而遇罚，自致其忧也。”蒋骥《山带阁注楚辞》说:“惜，痛也。诵，公言之也。”“盖原于怀王见疏之后，复乘间自陈，而益被谗致困，故深自痛惜，而发愤为此篇以白其情也。”戴震《屈原赋注》说:“诵者，言前事之称。惜诵，悼惜而诵言之也。”姜亮夫《屈原赋校注》赞同林云铭的说法。游国恩《楚辞论文集》则认为“《惜诵》是喜欢谏诤的意思”，释“惜”为爱好，以“诵”为谏诤。<br/><br/>　　笔者认为自王逸以来的各家说法，都有一定的合理的成分，但哪一种解释更加接近屈原原来的意思呢？按此篇与《离骚》意旨相近，当是受谗被疏之后的作品。因此，篇名之“惜”字以戴震的解释为近，而“诵”字，则以林云铭等人的说法为好，合起来解释，“惜诵”就是以痛惜的心情，来称述自己因直言进谏而遭谗被疏之事。<br/><br/>　　关于本篇的写作时期，历来有两种意见:一认为作于怀王时期，二认为作于顷襄王时期。大部分学者同意第一种意见，而王夫之《楚辞通释》、郭沫若《屈原研究》持第二种意见。从作品内容看，本篇不如《离骚》那么沉痛，也看不出已遭放逐的迹象，汪瑗《楚辞集解》认为“大抵此篇作于谗人交构，楚王造怒之际，故多危惧之词，然尚未放逐也。”这一说法比较符合实际情况。至于具体的作时，蒋骥《山带阁注楚辞》认为作于“初失位”时，亦即怀王十六年(前313)左右。夏大霖《屈骚心印》、游国恩《楚辞概论》等均同，林云铭则认为作于怀王十七年，姜亮夫《屈原赋校注》认为“其三十岁初放时之作”，陆侃如《屈原评传》认为作于怀王二十四年。从当时的时代背景来分析，怀王十六年是楚国政治的转折点，从这一年后，楚国开始走下坡路，屈原也遭谗被疏，所以，本篇作于怀王十六、七年是有可能的。<br/><br/>　　《惜诵》是《九章》的第一篇，叙述自己在政治上遭受打击的始末，和自己对待现实的态度，基本内容与《离骚》前半篇大致相似:故有“小离骚”之称。<br/><br/>　　全篇可划分为五段。<br/><br/>　　从开头至“命咎繇使听直”为第一段，讲述自己写本篇作品的起因，那是因为有人在楚王面前进了谗言，说自己不忠于楚国及其国君，楚王乃发雷霆之怒，疏远了屈原，屈原愤懑之极，不禁对天发誓:我对楚王是一片忠诚，天地鬼神可鉴。屈原还设想召来五方天帝、日月星辰、山川神祇和古代正直的法官，组成一个公正的法庭，来听取自己的申诉，并作出公正的评判。<br/><br/>　　接下来是申诉的开始，从“竭忠诚以事君兮”至“有招祸之道也”十六句为第二段，这一节是诉讼的正辞，意在阐明两个问题:一是自己竭诚事君，专心无二；二是自己日月可鉴的一片忠心却成了“招祸之道”。“竭忠诚”二句，是屈原说自己忠而被谤，以致被疏而离群独处的事实。“忘儇媚”二句言自己被谗谤的原因，此实望君之参验而考实。“言与行其可迹兮”四句，承上文之意，申说参验考实是可以办到的，为提出申诉作引。“壹心而不豫兮”四句申述自己言行的动机，一切皆是为楚王着想，并无他意，但却因此招祸。<br/><br/>　　“思君其莫我忠兮”至“中闷瞀之忳忳”为第三段，述自己心情的忧苦。“思君”四句进一步说明自己是“先君而后身”，从未把宠辱放在心上，暗示既不与小人比周，也不会对君王产生二心。“忠何罪”四句意谓遇罚倒不在乎，只是自己这样的结果会为国人所笑，紧承上文进一步抒发自己的愤懑心情。“纷逢尤”四句由“逢尤”“离谤”过渡到欲白于君。“忳郁邑余侘傺兮”四句紧承“莫之白”而申言之。“退静默”四句意为:退而静默不言，恐无人知道自己的苦心；进而大声疾呼，又怕无人会听。本段着重写自己陈志无路的心情，即“发愤以抒情”也。在上段中说“相臣莫若君”，此段进而写君王“荃不察余之中情”(《离骚》)。君既不知，只好“指苍天以为正”，只好寻厉神而占卜之，自然转入下文。<br/><br/>　　从“昔余梦登天兮”至“鮌功用而不就”为第四段，为占梦者对屈原的劝告，与《离骚》女媭一节，大意略同。“昔余梦”四句托为游仙，引入下文。“终危独”句为屈原问语:“我又问:是否要遭受疏远？”从“日:君可思而不可恃”至“鮌功用而不就”为厉神的答语。“君不思”至“犹有曩之态也”为第一层意思，厉神指出屈原有目的而无道路，劝屈原放弃忠君，认为如果照“曩之态”那无疑是“欲登天而释阶”，根本不可能达到目的。接着“众骇遽”四句言楚王发怒后，本来同道的那些人都已离心背德，弃之而去。最后“晋申生”四句采用了二个比喻，说明孝子忠臣被说成不忠、不孝，是古已有之的事情。<br/><br/>　　“吾闻作忠以造怨兮”至最后为第五段，写屈原找厉神占梦以后的感想。楚国人观点如此，君王对自己的态度如此，留是不可能的，但去呢？却又不忍，那只有洁身自保而已。“吾闻”四句，朱熹《楚辞集注》析曰:“人九折臂，更历方药，乃成良医，故吾于今，乃知作忠造怨之语，为诚然也。”所用比喻简明恰当。“矰弋机”四句，言诗人遭谗被疏，如有矰弋在侧，竟无容身之地，真是左右为难。在这样的形势下，屈原该怎么办呢？“欲儃佪”八句屈原为自己设想了三条出路:一是儃佪，即逗留、等待，但这样唯恐再遭忧患；二是高飞远集，即远适他国，但到底去哪个国家呢？三是“横奔而失路”，即朱熹说的“妄行失道”或陈第说的“违道妄作”(《屈宋古音义》)，就是与坏人们同流合污。但这三条路，选择任何一条都是十分不理想的，这使诗人“背膺牉以交痛兮，心郁结而纡轸”。这三条路都是不好走的呀，考虑再三的结果，还是另选其他的道路。“檮木兰以矫蕙兮”八句，用比喻之意，说自己还是保持自己美好的品德，远离这复杂肮脏的社会，块然独处吧！<br/><br/>　　本篇在艺术上有着十分鲜明的特点。首先，全篇洋溢着非常浓郁的浪漫主义色彩。作者发挥了丰富的想像力，虚构了一个实际上并不存在也不可能存在的虚幻的法庭，它由五方天帝、山川诸神、古代好法官共同组成。让他们来听取自己极度苦闷的倾诉，又虚构了一个厉神，让他在占梦时作答，如同女媭一样，给屈原以劝告和回答。这样的写法，使本篇诗作出现了一幅虚无飘渺的景象，引人入胜，给人以身临其境的艺术享受。其次，本篇诗作以十分细腻的笔调描摹了抒情主人公的意志活动和感情冲突。诗歌从对天发誓，写到进退维谷、百口莫辩的困境，登天占梦的幻境以及“檮木兰”、“播江蓠”的精神境界，处处都写得波澜起伏，回旋曲折，扣人心弦。使读者深切地感受到诗歌抒情主人公所叙述的不幸遭遇，决不仅仅关系到他个人一身，而是与国家的前途和命运密切相联的。再次，就是语言上的特点，本篇诗作直抒胸臆，语言真挚生动，朴素自然，尤其是“众口铄金”、“九折臂而成医”等众多民间成语的运用，更使人感到通俗浅显，耳目一新。　(林家骊)</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-87.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-87-1952.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-87.html" action-type="chapterComment" class="comment"><i></i>九章章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

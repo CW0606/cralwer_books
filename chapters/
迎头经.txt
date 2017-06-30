@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《伪自由书》正文_迎头经_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="伪自由书,伪自由书原文,伪自由书阅读,迎头经全文,鲁迅作品" />
+<meta name="description" content="伪自由书原文阅读,迎头经全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-550-7504.html";
+var nextpage="novel-read-550-7506.html";
+var indexpage = "novel-chapter-550.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-550.html">伪自由书</a></strong>
+<strong><a href="novel-chapter-550.html">伪自由书目录</a></strong>
+<span>迎头经</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-550-7504.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>迎头经</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-04 21:19:02<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>中国现代圣经（２）——迎头经曰：“我们……要迎头赶上去，不要向后跟着。” <br/><br/>　　传（３）曰：追赶总只有向后跟着，普通是无所谓迎头追赶的，然而圣经决不会错，更不会不通，何况这个年头一切都是反常的呢。所以赶上偏偏说迎头，向后跟着，那就说不行！ <br/><br/>　　现在通行的说法是：“日军所至，抵抗随之”，至于收复失地与否，那么，当然“既非军事专家，详细计画，不得而知”。（４）不错呀，“日军所至，抵抗随之”，这不是迎头赶上是什么！日军一到，迎头而“赶”：日军到沈阳，迎头赶上北平；日军到闸北，迎头赶上真茹；日军到山海关，迎头赶上塘沽；日军到承德，迎头赶上古北口……以前有过行都洛阳，现在有了陪都西安，将来还有“汉族发源地”昆仑山——西方极乐世界。至于收复失地云云，则虽非军事专家亦得而知焉，于经有之，曰“不要向后跟着”也。证之已往的上海战事，每到日军退守租界的时候，就要“严饬所部切勿越界一步”（５）。这样，所谓迎头赶上和勿向后跟，都是不但见于经典而且证诸实验的真理了。右传之一章。 <br/><br/>　　传又曰：迎头赶和勿后跟，还有第二种的微言大义——报载热河实况曰：“义军（６）皆极勇敢，认扰乱及杀戮日军为兴奋之事……唯张作相（７）接收义军之消息发表后，张作相既不亲往抚慰，热汤又停止供给义军汽油，运输中断，义军大都失望，甚至有认替张作相立功为无谓者。”“日军既至凌源，其时张作相已不在，吾人闻讯出走，热汤扣车运物已成目击之事实，证以日军从未派飞机至承德轰炸……可知承德实为妥协之放弃。”（张慧冲（８）君在上海东北难民救济会席上所谈。）虽然据张慧冲君所说，“享名最盛之义军领袖，其忠勇之精神，未能悉如吾人之意想”，然而义军的兵士的确是极勇敢的小百姓。正因为这些小百姓不懂得圣经，所以也不知道迎头式的策略。于是小百姓自己，就自然要碰见迎头的抵抗了：热汤放弃承德之后，北平军委分会下令“固守古北口，如义军有欲入口者，即开枪迎击之”。这是说，我的“抵抗”只是随日军之所至，你要换个样子去抵抗，我就抵抗你；何况我的退后是预先约好了的，你既不肯妥协，那就只有“不要你向后跟着”而要把你“迎头赶上”梁山了。右传之二章。 <br/><br/>　　诗云：“惶惶”大军，迎头而奔，“嗤嗤”小民，勿向后跟！赋（９）也。 <br/><br/>　　三月十四日。 <br/><br/>　　这篇文章被检查员所指摘，经过改正，这才能在十九日的报上登出来了。 <br/><br/>　　原文是这样的—— <br/><br/>　　第三段“现在通行的说法”至“当然既”，原文为“民国廿二年春×三月某日（１０），当局谈话曰：‘日军所至，抵抗随之……至收复失地及反攻承德，须视军事进展如何而定，余’。”又“不得而知”下有注云：（《申报》三月十二日第三张）。 <br/><br/>　　第五段“报载热河……”上有“民国廿二年春×三月”九字。 <br/><br/>　　三月十九夜记。 <br/>　<br/>===============================================================<br/><br/>　　（１）本篇最初发表于一九三三年三月十九日《申报·自由谈》，署名何家干。 <br/><br/>　　（２）中国现代圣经指孙中山的《三民主义》。“迎头赶上去”等语，见该书《民族主义》第六讲，原文为：“我们要学外国，是要迎头赶上去，不要向后跟着他。譬如学科学，迎头赶上去，便可以减少两百多年的光阴。” <br/><br/>　　（３）传这里是指阐释经义的文字。 <br/><br/>　　（４）“日军所至”等语，见一九三三年三月十二日《申报》载国民党代理行政院长宋子文答记者问：“我无论如何抵抗到底。日军所至，抵抗随之”；“至于收复失地及反攻承德，须视军事进展如何而定，余非军事专家，详细计划，不得而知。” <br/><br/>　　（５）“严饬所部切勿越界一步”一二八上海战事后，国民党政府为向日本侵略者乞降求和，曾同意侵入中国国土的日军暂撤至上海公共租界，并“严饬”中国军队不得越界前进。<br/><br/>　　（６）义军指“九一八”后活动在东北三省、热河一带的抗日义勇军。 <br/><br/>　　（７）张作相（１８８７—１９４９）辽宁义县人，九一八事变时任吉林省政府主席、东北边防军副司令长官。 <br/><br/>　　（８）张慧冲（１８９８—１９６２）广东中山人，魔术、电影演员。曾于一九三三年初赴热河前线拍摄义勇军抗日纪录影片。这里引用的是他自热河回上海后于三月十一日的谈话，载三月十二日《申报》。<br/><br/>　　（９）赋《诗经》的表现手法之一，据唐代孔颖达《毛诗注疏》解释，是“直陈其事”的意思。 <br/><br/>　　（１０）春×三月某日这里的“×”，是从《春秋》第一句“元年、春、王正月”套来的。据《春秋公羊传》隐公元年解释：“何言乎‘王正月’？大一统也。”这里用“×三月”，含有讽刺国民党法西斯独裁统治的意味。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-550-7504.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-550-7506.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-550.html" action-type="chapterComment" class="comment"><i></i>伪自由书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

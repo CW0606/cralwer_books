@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《文子》正文_道原_文子作品 - 维普阅读网</title>
+<meta name="keywords" content="文子,文子原文,文子阅读,道原全文,文子作品" />
+<meta name="description" content="文子原文阅读,道原全文在线阅读,文子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-38.html";
+var nextpage="novel-read-38-962.html";
+var indexpage = "novel-chapter-38.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-38.html">文子</a></strong>
+<strong><a href="novel-chapter-38.html">文子目录</a></strong>
+<span>道原</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-38.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>道原</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=文子&amp;searchsubmit=yes"  target="_blank">文子</a><span class="divide">|</span>发布时间：2014-07-22 20:44:43<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　老子曰：「有物混成，先天地生，惟象無形，窈窈冥冥，寂寥淡漠，不聞其聲，吾強為之名，字之曰道。」夫道者：高不可極，深不可測，苞裹天地，稟受無形，原流泏泏，沖而不盈，濁以靜之徐清。施之無勞，無所朝夕，表之不盈一握。約而能張，幽而能明，柔而能剛，含陰吐陽，而章三光。山以之高，淵以之深，獸以之走，鳥以之飛，麟以之游，鳳以之翔，星歷以之行。以亡取存，以卑取尊，以退取先。古者三皇，得道之統，立于中央，神與化游，以撫四方。是故，能天運地滯，輪轉而無廢，水流而不止，與物終始。風興雲蒸，雷聲雨降，并應無窮，已雕已琢，還復于禮。無為為之而合乎生死，無為言之而通乎德，恬愉無矜而得乎和，有萬不同而便乎生。和陰陽，節四時，調五行，潤乎草木，浸乎金石，禽獸碩大，毫毛潤澤，鳥卵不敗，獸胎不殰。父無喪子之憂，兄無哭弟之哀，童子不孤，婦人不孀，虹蜺不見，盜賊不行，含德之所致也。天常之道，生物而不有，成化而不宰，萬物恃之而生，莫之知德；恃之而死，莫之能怨。收藏畜積而不加富，布施稟受而不益貧。忽兮怳溪，不可為象兮；怳兮忽兮，用不詘兮；窈兮冥兮，應化無形兮；遂兮通兮，不虛動兮，與剛柔卷舒兮，與陰陽俯仰兮。<br/><br/>　　老子〔文子〕曰：大丈夫恬然無思，惔然無慮，以天為蓋，以地為車，以四時為馬，以陰陽為御，行乎無路，游乎無怠，出乎無門。以天為蓋，則無所不覆也；以地為車，則無所不載也；四時為馬，則無所不使也；陰陽為御，則無所不備也。是故疾而不搖，遠而不勞，四支不動，聰明不損，而照見天下者，執道之要，觀無窮之地也。故天下之事不可為也，因其自然而推之；萬物之變不可救也，秉其要而歸之。是以聖人內修其本，而不外飾其末，歷其精神，偃其知見，故漠然無為而無不為也，無治而無不治也。所謂無為者，不先物為也；無治者，不易自然也；無不治者，因物之相然也。<br/><br/>　　老子〔文子〕曰：「執道以御民者，事來而循之，物動而因之。萬物之化，無不應也；百事之變，無不耦也。故道者，虛無、平易、清靜、柔弱、純粹素樸，此五者，道之形象也。虛無者，道之舍也；平易者，道之素也；清靜者，道之鑒也；柔弱者，道之用也。反者，道之常也；柔者，道之剛也；弱者，道之強也；純粹素樸者，道之幹也。虛者，中無載也；平者，心無累也。嗜欲不載，虛之至也；無所好憎，平之至也；一而不變，靜之至也；不與物雜，粹之至也；不憂不樂，德之至也。夫至人之治也，棄其聰明，滅其文章，依道廢智，與民同出乎公。約其所守，寡其所求，去其誘慕，除其貴欲，損其思慮。約其所守即察，寡其所求即得，故以中制外，百事不廢，中能得之則外能牧之。中之得也，五藏寧，思慮平，筋骨勁強，耳目聰明。大道坦坦，去身不遠，求之遠者，往而復返。<br/><br/>　　老子〔文子〕曰：聖人妄乎治人，而在乎自理。貴忘乎勢位，而在乎自得，自得天下得我矣；樂忘乎富貴，而在乎和，知大己而小天下，幾無道矣。故曰：「至虛極也，守靜篤也，萬物并作，吾以觀其復。」夫道者，陶冶萬物，終始無形，寂然不動，大通混冥；深閎廣大，不可為外；折毫剖芒，不可為內；無環堵之宇，而生有無之總名也。真人體之以虛無、平易、清靜、柔弱、純粹素樸，不與物雜，至德天地之道，故謂之真人。真人者，知大己而小天下，貴治身而賤治人，不以物滑和，不以欲亂情，隱其名姓，有道則隱，無道則見，為無為，事無事，知不知也。懷天道，包天心，噓吸陰陽，吐故納新，與陰俱閉，與陽俱開，與剛柔卷舒，與陰陽俯仰，與天同心，與道同體；無所樂，無所苦，無所喜，無所怒，萬物玄同，無非無是。夫形傷乎寒暑燥濕之虐者，形究而神杜；神傷于喜怒思慮之患者，神盡而形有餘。故真人用心復性，依神相扶，而得終始，是以其寢不夢，覺而不憂。<br/><br/>　　孔子問道，老子曰：正汝形，一汝視，天和將至；攝汝知，正汝度，神將來舍，德將為汝容，道將為汝居。瞳兮，若新生之犢，而無求其故，形若枯木；心若死灰，真其實知而不以曲故自持，恢恢無心可謀，「明白四達，能無知乎？」<br/><br/>　　老子〔文子〕曰：夫事生者，應變而動。變生于時，知時者，無常之行。故「道可道，非常道；名可名，非常名。」書者言之所生也，言出于智，智者不知，非常道也；名可名，非藏書者也。「多聞數窮，不如守中；絕學無憂，絕聖棄智，民利百倍。」人生而靜，天之性也；感物而動，性之欲也；物至而應，智之動也；智與物接，而好憎生焉；好憎成形，而智出于外，不能反己，而天理滅矣。是故，聖人不以人易天，外與物化而內不失情，故通于道者，反于清靜，究于物者，終于無為。以恬養智，以漠合神，即乎無門，循天者，與道游也；隨人者，與俗交也：故聖人不以事滑天，不以欲亂情，不謀而當，不言而信，不慮而得，不為而成。是以，處上而民不重，居前而人不害，天下歸之，奸邪畏之，以其無爭于萬物也，故莫敢與之爭。<br/><br/>　　老子〔文子〕曰：夫人從欲失性，動未嘗正也，以治國則亂，以治身則穢，故不聞道者，無以反其性，不通物只，不能清靜。原人之性無邪穢，久湛于物即易，易而忘其本即合于其若性。水之性欲清，沙石穢之；人之性欲平，嗜欲害之，唯聖人能遺物反己。是故，聖人不以智役物，不以欲滑和，其為樂不忻忻，其于憂不惋惋；是以，高而不危，安而不傾。故聽善言便計，雖愚者知說之；稱聖德高行，雖不肖者知慕之。說之者眾，而用之者寡；慕之者多，而行之者少。所以然者：□于物而繫于俗。故曰：「我無為而民自化，我無欲而民自富，我好靜而民自正，我無欲而民自樸。」清靜者，德之至也；柔弱者，道之用也；虛無恬愉者，萬物之祖也：三者行則淪于無形。無形者，一之謂也。一者，無心合于天下也。布德不慨，用之不勤，視之不見，聽之不聞，無形而有形生焉，無聲而五音鳴焉，無味而五味形焉，無色而五色成焉，故有生于無，實生于虛。音之數不過五，五音之變，不可勝聽也；味之數不過五，五味之變，不可勝嘗也；色之數不過五，五色之變，不可勝觀也。音者，宮立而五音形矣。故一之理，施于四海；一之嘏，察于天地。其全也，敦兮其若樸；其散也，渾兮其若濁。濁而徐清，沖而徐盈，澹然若大海，氾兮若浮雲，若無而有，若亡而存。<br/><br/>　　老子〔文子〕曰：萬物之總，皆閱一孔；百事之根，皆出一門，故聖人一度循軌，不變其故，不易其常，放准循繩，曲因其直，直因其常。夫喜怒者，到之邪也；憂悲者，德之失也；好憎者，心之過也；嗜欲者，生之累也。人大怒破陰，大喜墜陽，薄氣發暗，驚怖為狂，憂悲焦心，疾乃成積，人能除此五者，即合于神明。神明者，得其內也。得其內者，五藏寧，思慮平，耳目聰明，筋骨勁強，疏達而不悖，堅強而不匱，無所太過，無所不逮。天下莫柔若于水；水為道也，廣不可極，深不可測，長極無窮，遠淪無涯，息耗減益，過于不訾，上天為雨露，下地為潤澤，萬物不得不生，百事不得不成，大苞群生而不費，行不可得而窮極，微不可得而把握，擊之不創，刺之不傷，斬之不斷，灼之不熏，綽約流循而可靡散，利貫金石，強淪天下，有餘不足，任天下取與，稟受萬物而無所失後，無私無公，與天地洪同，是謂至德。夫水所以能成其至德者，以其綽約潤滑也，故曰：「天下之至柔，馳騁天下之至堅，無有入于無間。」夫無形者，物之太祖；無音者，類之大宗；真人者，通于靈府，與造化者為人，執玄德于心，而化馳如神。是故，不道之道，芒乎大哉，未發號施令而移風易俗，其唯心行也。萬物有所生而獨如其根，百事有所出而獨守其門，故能窮無窮，極無極，照物而不眩，響應而不知。<br/><br/>　　老子〔文子〕曰：夫德道者，志弱而事強，心虛而應當。志弱者，柔毳安靜，藏于不取，行于不能，澹然無為，動不失時，故「貴必以賤為本，高必以下為基。」托小以包大，在中以制外，行柔而剛，力無不勝，敵無不陵，應化揆時，莫能害之。欲剛者，必以柔守之；欲強者，必以弱保之。積柔即剛，積弱即強，觀其所積，以知存亡。強勝不若己者，至于若己者而格，柔勝出于己只，其力不可量，故「兵強即滅，木強即折。」革強即裂，齒堅于舌而先斃，故「柔弱者，生之幹也；堅強者，死之徒也。」先唱者窮之路，後動者達之原。夫執道以耦變，先亦制後，後亦制先，何即？不知所以制人，人亦不能制也。所謂後者，調其數而合其時，時之變，則間不容息，先之則太過，後之則不及。日回月周，時不與人游，故聖人不貴尺之璧，而貴寸之陰。時難得而易失，故聖人隨時而舉事，因資而立功，守清道，拘雌節，因循而應變，常後而不先，柔弱以靜，安徐以定，功大靡堅，不能與爭也。<br/><br/>　　老子〔文子〕曰：機械之心藏于中，即純白之不粹，神德不全于身者，不知何遠之能懷；欲害之心忘乎中者，即飢虎可尾也，而況于人乎？體道者，佚而不窮；任數者，勞而無功。夫法刻刑誅者，非帝王之業也；箠策繁用者，非致遠之御也。好憎繁多，禍乃相隨。故先王之法非所作也，所因也；其禁誅非所為也，所守也，故能因即大，作即細；能守即固，為即敗。夫任耳目以聽視者，勞心而不明；以智慮為治者，苦心而無功。任一人之材難以至治，一人之能不足以治三畝之宅，循道理之數，因天地自然，即六合不足均也。聽失于非譽，目淫于彩色，禮亶不足以放愛，誠心可以懷遠。故兵莫憯乎志，莫邪為下；冠莫大于陰陽，而枹鼓為細。所謂大冠伏尸不言節，中冠藏于山，小冠遁于民間。故曰：「民多智能，奇物滋起；法令滋章，盜賊多有。」去彼取此，天殃不起，「故以智治國，國之賊；不以智治國，國之德。」夫無形大，有形細；無形多，有形少；無形強，有形弱；無形實，有形虛，有形者遂事也，無形者作始也。遂事者，成器也；作始者，樸也。有形則有聲，無形則無聲；有形產于無形，故無形者，有形知始也。廣厚有名，有名者貴全也；儉薄無名，無名者賤輕也。殷富有名，有名尊寵也；貧寡無名，無名者卑辱；雄牡有名，有名者章明也；雌牝無名，無名者隱約也；有餘者有名，有名者高賢也；不足者無名，無名者任下也；有功即有名，無功即無名，有名產于無名，無名者有名之母也。夫道，「有無相生也，難易相成也。」是以，聖人執道虛靜、微妙以成其德。故有道即有德，有德即有功，有功即有名，有名即復歸于道，功名長久，終身無咎。王公有功名，孤寡無功名，故曰：「聖人自謂孤寡。」歸其根本，功成而不有，故有功以為利，無名以為用。古者民童蒙，不知東西，貌不離情，言不出行，行出無容，言而不文。其衣煖而無采，其兵鈍而無刃，行蹎蹎，視瞑瞑，鑿井而飲，耕田而食，不布施，不求德，高下不相傾，長短不相形，風齊于俗可隨也，事周于能易為也，矜偽以惑世，軻行以迷眾，聖人不以為民俗。<br/><br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-38.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-38-962.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-38.html" action-type="chapterComment" class="comment"><i></i>文子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

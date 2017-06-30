@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《汉书》正文_纪·惠帝纪_班固作品 - 维普阅读网</title>
+<meta name="keywords" content="汉书,汉书原文,汉书阅读,纪·惠帝纪全文,班固作品" />
+<meta name="description" content="汉书原文阅读,纪·惠帝纪全文在线阅读,班固作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-263-4332.html";
+var nextpage="novel-read-263-4334.html";
+var indexpage = "novel-chapter-263.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-263.html">汉书</a></strong>
+<strong><a href="novel-chapter-263.html">汉书目录</a></strong>
+<span>纪·惠帝纪</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-263-4332.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>纪·惠帝纪</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=班固&amp;searchsubmit=yes"  target="_blank">班固</a><span class="divide">|</span>发布时间：2014-08-28 21:01:45<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>孝惠皇帝，高祖太子也，母曰吕皇后。帝年五岁，高祖初为汉王。二年，立为太子。十二年四月，高祖崩。五月丙寅，太子即皇帝位，尊皇后曰皇太后。赐民爵一级。中郎、郎中满六岁爵三级，四岁二级。外郎满六岁二级。中郎不满一岁一级。外郎不满二岁赐钱万。宦官尚食比郎中，谒者、执楯、执戟、武士、驺比外郎。太子御骖乘赐爵五大夫，舍人满五岁二级。赐给丧事者，二千石钱二万，六百石以上万，五百石、二百石以下至佐史五千。视作斥上者，将军四十金，二千石二十金，六百石以上六金，五百石以下至佐史二金。减田租，复十五税一。爵五大夫、吏六百石以上及宦皇帝而知名者有罪当盗械者，皆颂系；上造以上及内外公孙、耳孙有罪当刑及当为城旦舂者，皆耐为鬼薪、白粲；民年七十以上若不满十岁有罪当刑者，皆完之。又曰：“吏所以治民也，能尽其治则民赖之，故重其禄，所以为民也。今吏六百石以上父母妻子与同居，及故吏尝佩将军、都尉印将兵，及佩二千石官印者，家唯给军赋，他无有所与。”<br/><br/>　　令郡诸侯王立高庙。<br/><br/>　　元年冬十二月，赵隐王如意薨。民有罪，得买爵三十级以免死罪。赐民爵，户一级。<br/><br/>　　春正月，城长安。<br/><br/>　　二年冬十月，齐悼惠王来朝，献城阳郡以益鲁元公主邑，尊公主为太后。<br/><br/>　　春正月癸酉，有两龙见兰陵家人井中，乙亥夕而不见。陇西地震。<br/><br/>　　夏旱。郃阳侯仲薨。<br/><br/>　　秋七月辛未，相国何薨。<br/><br/>　　三年春，发长安六百里内男女十四万六千人城长安，三十日罢。<br/><br/>　　以宗室女为公主，嫁匈奴单于。<br/><br/>　　夏五月，立闽越君摇为东海王。<br/><br/>　　六月，发诸侯王、列侯徒隶二万人城长安。<br/><br/>　　秋七月，都厩灾。南越王赵佗称臣奉贡。<br/><br/>　　四年冬十月壬寅，立皇后张氏。<br/><br/>　　春正月，举民孝弟、力田者复其身。<br/><br/>　　三月甲子，皇帝冠，赦天下。省法令妨吏民者；除挟书律。长乐宫鸿台灾。宜阳雨血。<br/><br/>　　秋七月乙亥，未央宫凌室灾；丙子，织室灾。<br/><br/>　　五年冬十月，雷；桃李华，枣实。<br/><br/>　　春正月，复发长安六百里内男女十四万五千人城长安，三十日罢。<br/><br/>　　夏，大旱。<br/><br/>　　秋八月己丑，相国参薨。<br/><br/>　　九月，长安城成。赐民爵，户一级。<br/><br/>　　六年冬十月辛丑，齐王肥薨。<br/><br/>　　令民得卖爵。女子年十五以上至三十不嫁，五算。<br/><br/>　　夏六月，舞阳侯哙薨。<br/><br/>　　起长安西市，修敖仓。<br/><br/>　　七年冬十月，发车骑、材官诣荥阳，太尉灌婴将。<br/><br/>　　春正月辛丑朔，日有蚀之。夏五月丁卯，日有蚀之，既。<br/><br/>　　秋八月戊寅，帝崩于未央宫。九月辛丑，葬安陵。<br/><br/>　　赞曰：孝惠内修亲亲，外礼宰相，优宠齐悼、赵隐，恩敬笃矣。闻叔孙通之谏则惧然，纳曹相国之对而心说，可谓宽仁之主。曹吕太后亏损至德，悲夫！</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-263-4332.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-263-4334.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-263.html" action-type="chapterComment" class="comment"><i></i>汉书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

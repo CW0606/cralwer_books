@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《伪自由书》正文_言论自由的界限_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="伪自由书,伪自由书原文,伪自由书阅读,言论自由的界限全文,鲁迅作品" />
+<meta name="description" content="伪自由书原文阅读,言论自由的界限全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-550-7500.html";
+var nextpage="novel-read-550-7502.html";
+var indexpage = "novel-chapter-550.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-550.html">伪自由书</a></strong>
+<strong><a href="novel-chapter-550.html">伪自由书目录</a></strong>
+<span>言论自由的界限</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-550-7500.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>言论自由的界限</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-04 21:17:40<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　看《红楼梦》（２），觉得贾府上是言论颇不自由的地方。焦大以奴才的身分，仗着酒醉，从主子骂起，直到别的一切奴才，说只有两个石狮子干净。结果怎样呢？结果是主子深恶，奴才痛嫉，给他塞了一嘴马粪。 <br/><br/>　　其实是，焦大的骂；并非要打倒贾府，倒是要贾府好，不过说主奴如此，贾府就要弄不下去罢了。然而得到的报酬是马粪。所以这焦大，实在是贾府的屈原（３），假使他能做文章，我想，恐怕也会有一篇《离骚》之类。 <br/><br/>　　三年前的新月社（４）诸君子，不幸和焦大有了相类的境遇。他们引经据典，对于党国有了一点微词，虽然引的大抵是英国经典，但何尝有丝毫不利于党国的恶意，不过说：“老爷，人家的衣服多么干净，您老人家的可有些儿脏，应该洗它一洗”罢了。不料“荃不察余之中情兮”（５），来了一嘴的马粪：国报同声致讨，连《新月》杂志也遭殃。但新月社究竟是文人学士的团体，这时就也来了一大堆引据三民主义，辨明心迹的“离骚经”。现在好了，吐出马粪，换塞甜头，有的顾问，有的教授，有的秘书，有的大学院长，言论自由，《新月》也满是所谓“为文艺的文艺”了。 <br/><br/>　　这就是文人学士究竟比不识字的奴才聪明，党国究竟比贾府高明，现在究竟比乾隆时候光明：三明主义。 <br/><br/>　　然而竟还有人在嚷着要求言论自由。世界上没有这许多甜头，我想，该是明白的罢，这误解，大约是在没有悟到现在的言论自由，只以能够表示主人的宽宏大度的说些“老爷，你的衣服……”为限，而还想说开去。 <br/><br/>　　这是断乎不行的。前一种，是和《新月》受难时代不同，现在好像已有的了，这《自由谈》也就是一个证据，虽然有时还有几位拿着马粪，前来探头探脑的英雄。至于想说开去，那就足以破坏言论自由的保障。要知道现在虽比先前光明，但也比先前利害，一说开去，是连性命都要送掉的。即使有了言论自由的明令，也千万大意不得。这我是亲眼见过好几回的，非“卖老”也，不自觉其做奴才之君子，幸想一想而垂鉴焉。 <br/><br/>　　四月十七日。 <br/>　<br/>===============================================================<br/><br/>　　（１）本篇最初发表于一九三三年四月二十二日《申报·自由谈》，署名何家干。 <br/><br/>　　（２）《红楼梦》长篇小说。清代曹雪芹著。通行本为一二○回，后四十回一般认为是高鹗续作。焦大是小说中贾家的一个忠实的老仆，他酒醉骂人被塞马粪事见该书第七回。只有两个石狮子干净的话，见第六十六回，系另一人物柳湘莲所说。 <br/><br/>　　（３）屈原（约前３４０—约前２７８）名平，字原，又字灵均，战国后期楚国诗人。楚怀王时官至左徒，由于他的政治主张不见容于贵族集团而屡遭迫害，后被顷襄王放逐到沅、湘流域，愤而作长诗《离骚》，以抒发其愤激心情和追求理想的决心。 <br/><br/>　　（４）新月社以一些资产阶级知识分子为核心的文学和政治团体，约于一九二三年在北京成立，主要成员有胡适、徐志摩、陈源、梁实秋、罗隆基等。该社曾以诗社名义于一九二六年夏在北京《晨报副刊》出过《诗刊》（周刊）。一九二七年在上海创办新月书店，一九二八年三月出版综合性的《新月》月刊。一九二九年他们曾在《新月》上发表谈人权等问题的文章，引证英、美各国法规，提出解决中国政治问题的意见，意在向蒋介石献策邀宠。但文章发表后，国民党报刊纷纷著文攻击，说他们“言论实属反动”，国民党中央议决由教育部对胡适加以“警诫”，《新月》月刊曾遭扣留。他们继而变换手段，研读“国民党的经典”，著文引据“党义”以辨明心迹，终于得到蒋介石的赏识。 <br/><br/>　　（５）“荃不察余之中情兮”语见屈原《离骚》：“荃不察余之中情兮，反信谗而�怒。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-550-7500.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-550-7502.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-550.html" action-type="chapterComment" class="comment"><i></i>伪自由书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

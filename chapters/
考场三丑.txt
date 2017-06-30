@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《花边文学》正文_考场三丑_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="花边文学,花边文学原文,花边文学阅读,考场三丑全文,鲁迅作品" />
+<meta name="description" content="花边文学原文阅读,考场三丑全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-536-6794.html";
+var nextpage="novel-read-536-6796.html";
+var indexpage = "novel-chapter-536.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-536.html">花边文学</a></strong>
+<strong><a href="novel-chapter-536.html">花边文学目录</a></strong>
+<span>考场三丑</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-536-6794.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>考场三丑</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 21:18:51<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　 黄棘<br/><br/>　　古时候，考试八股的时候，有三样卷子，考生是很失面子的，后来改考策论（２）了，恐怕也还是这样子。第一样是“缴白卷”，只写上题目，做不出文章，或者简直连题目也不写。然而这最干净，因为别的再没有什么枝节了。第二样是“钞刊文”（３），他先已有了侥幸之心，读熟或带进些刊本的八股去，倘或题目相合，便即照钞，想瞒过考官的眼。品行当然比“缴白卷”的差了，但文章大抵是好的，所以也没有什么另外的枝节。第三样，最坏的是瞎写，不及格不必说，还要从瞎写的文章里，给人寻出许多笑话来。人们在茶余酒后作为谈资的，大概是这一种。<br/><br/>　　“不通”还不在其内，因为即使不通，他究竟是在看题目做文章了；况且做文章做到不通的境地也就不容易，我们对于中国古今文学家，敢保证谁决没有一句不通的文章呢？有些人自以为“通”，那是因为他连“通”“不通”都不了然的缘故。<br/><br/>　　今年的考官之流，颇在讲些中学生的考卷的笑柄。其实这病源就在于瞎写。那些题目，是只要能够钞刊文（４），就都及格的。例如问“十三经”是什么，文天祥是那朝人，全用不着自己来挖空心思做，一做，倒糟糕。于是使文人学士大叹国学之衰落，青年之不行，好像惟有他们是文林中的硕果似的，像煞有介事了。<br/><br/>　　但是，钞刊文可也不容易。假使将那些考官们锁在考场里，骤然问他几条较为陌生的古典，大约即使不瞎写，也未必不缴白卷的。我说这话，意思并不在轻议已成的文人学士，只以为古典多，记不清不足奇，都记得倒古怪。古书不是很有些曾经后人加过注解的么？那都是坐在自己的书斋里，查群籍，翻类书，穷年累月，这才脱稿的，然而仍然有“未详”，有错误。现在的青年当然竭无力指摘它了，但作证的却有别人的什么“补正”在；而且补而又补，正而又正者，也时或有之。<br/><br/>　　由此看来，如果能钞刊文，而又敷衍得过去，这人便是现在的大人物；青年学生有一些错，不过是常人的本分而已，但竟为世诟病，我很诧异他们竟没有人呼冤。<br/><br/>　　九月二十五日。<br/>　<br/>===============================================================<br/><br/><br/>　　（１）本篇最初发表于一九三四年十月二十日《太白》半月刊第一卷第三期。<br/><br/>　　（２）策论封建时代考试的一种文体。即用有关政事、经义的问题为题，命应试者书面各陈己见。清光绪末年，曾两次下令废除八股，改用策论。<br/><br/>　　（３）“钞刊文”科举时代，刊印中试前列者的八股文章，以供应试人作揣摩之用，如《三场闱墨》之类，称为刊文。“钞刊文”就是在考试时直接钞袭刊文上的文章。<br/><br/>　　（４）这里所说的刊文，指当时《会考升学指导》一类投机书籍。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-536-6794.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-536-6796.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-536.html" action-type="chapterComment" class="comment"><i></i>花边文学章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《山海经》正文_海经·海外东经_先秦无名作品 - 维普阅读网</title>
+<meta name="keywords" content="山海经,山海经原文,山海经阅读,海经·海外东经全文,先秦无名作品" />
+<meta name="description" content="山海经原文阅读,海经·海外东经全文在线阅读,先秦无名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-222-2557.html";
+var nextpage="novel-read-222-2559.html";
+var indexpage = "novel-chapter-222.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-222.html">山海经</a></strong>
+<strong><a href="novel-chapter-222.html">山海经目录</a></strong>
+<span>海经·海外东经</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-222-2557.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>海经·海外东经</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=先秦无名&amp;searchsubmit=yes"  target="_blank">先秦无名</a><span class="divide">|</span>发布时间：2014-08-14 21:03:33<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　海外自东南陬至东北陬者。<br/>　　【长差】丘，爰有遗玉、青马、视肉、杨柳、甘华。甘果所生，在东海。两山夹丘，上有树木。一曰嗟丘。一曰百果所在，在尧葬东。<br/>　　大人国在其北，为人大，坐而削船。一曰在【长差】丘北。<br/>　　奢比尸国在其北，兽身、人面、大耳，珥两青蛇。一曰肝榆之尸在大人北。<br/>　　君子国在其北，衣冠带剑，食兽，使二大虎在旁，其人好让不争。有薰华草，朝生夕死。一曰在肝榆之尸北<br/>　　【上工下虫】在其北，各有两首。一曰在君子国北。朝阳之谷，神曰天吴，是为水伯。在【上工下虫】北两水间。其为兽也，八首人面，八足八尾，皆青黄。<br/>　　青丘国在其北，其狐四足九尾。一曰在朝阳北。<br/>　　帝命竖亥步，自东极至于西极，五亿十选九千八百步。竖亥右手把算，左手指青丘北。一曰禹令竖亥。一曰五亿十万九千八百步。<br/>　　黑齿国在其北，为人黑，食稻啖蛇，一赤一青，在其旁。一曰在竖亥北，为人黑首，食稻使蛇，其一蛇赤。<br/>　　下有汤谷。汤谷上有扶桑，十日所浴，在黑齿北。居水中，有大木，九日居下枝，一日居上枝。<br/>　　雨师妾在其北。其为人黑，两手各操一蛇，左耳有青蛇，右耳有赤蛇。一曰在十日北，为人黑身人面，各操一龟。<br/>　　玄股之国在其北。其为人衣鱼食，使两鸟夹之。一曰在雨师妾北。<br/>　　毛民之国在其北，为人身生毛。一曰在玄股北。<br/>　　劳民国在其北，其为人黑。或曰教民。一曰在毛民北，为人面目手足尽黑。<br/>　　东方句芒，鸟身人面，乘两龙。<br/>　　建平元年四月丙戊，待诏太常属臣望校治，侍中光禄勋臣龚，侍中奉车都尉光禄大夫臣秀领主省。 <br/><br/>【白话文】<br/>　　（注释：凡■ 为打不出来的字）海外从东南角到东北角的国家地区、山丘河川分别如下。 丘，这里有遗玉、青马、视肉怪兽、杨柳树、甘柤树、甘华树。结出甜美果子的树所生长的地方，就在东海边。两座山夹着?丘，上面 有树木。另一种说法认为?丘就是嗟丘。还有一种说法认为各种果树所存在 的地方，在葬埋帝尧之地的东面。<br/>　　大人国在它的北面，那里的人身材高大，正坐在船上撑船。一 种说法认为大人国在?丘的北面。奢比尸神在大人国的北面，那里的人都长着野兽的身子、人的 面孔、大大的耳朵，耳朵上穿挂着两条青蛇。另一种说法认为肝榆尸神在大 人国的北面。<br/>　　君子国在奢比尸神的北面,那里的人穿衣戴帽而腰间佩带着 剑，能吃野兽，使唤的两只花斑老虎就在身旁，为人喜欢谦让而不争斗。那 里有一种薰华草，早晨开花傍晚凋谢。另一种说法认为君子国在肝榆尸神的北面。<br/>　　虹霓，俗称美人虹。据古人说，虹双出而颜色鲜艳的为雄，称作虹在它的北面，它的各端都有两个脑袋。另一种说法认为■ ■在君子国的北面。<br/>　　朝阳谷，有一个神人叫做天吴，就是所谓的水伯。他住在■■ 北面的两条水流中间。他是野兽形状，长着八个脑袋而是人的脸面，八只爪 子八条尾巴，背部是青中带黄的颜色。<br/>　　青丘国在它的北面。那里有一种狐狸长着四只爪子九条尾巴。另一种说法认为青丘国在朝阳谷的北面。<br/>　　天帝命令竖亥用脚步测量大地，从最东端走到最西端，是五亿 十选九千八百步。竖亥右手拿着算筹，左手指着青丘国的北面。另一种说法 认为是大禹命令竖亥测量大地。还一种说法认为测量出五亿十万九千八百步。<br/>　　黑齿国在它的北面，那里的人牙齿漆黑，吃着稻米又吃着蛇，还有一条红蛇和一条青蛇，正围在他身旁。另一种说法认为黑齿国在竖亥所 在地的北面，那里的人是黑脑袋，吃着稻米驱使着蛇，其中一条蛇是红色的。 下面有汤谷。汤谷边上有一棵扶桑树，是十个太阳洗澡的地方，在黑齿国的北面。正当大水中间，有一棵高大的树木，九个太阳停在树的下 枝，一个太阳停在树的上枝。<br/>　　雨师妾国在汤谷的北面。那里的人全身黑色，两只手各握着一 条蛇，左边耳朵上挂有青色蛇，右边耳朵挂有红色蛇。另一种说法认为雨师 妾国在十个太阳所在地的北面，那里的人是黑色身子而人的面孔，两只手各 握着一只龟。 玄股国在它的北面。那里的人穿着鱼皮衣而吃鸥鸟蛋，使唤的两只鸟在身边。另一种说法认为玄股国在雨师妾国的北面。 毛民国在它的北面。那里的人全身长满了毛。另一种说法认为毛民国在玄股国的北面。<br/>　　劳民国在它的北面，那里的人全身黑色。有的人称劳民国为教民国。另一种说法认为劳民国在毛民国的北面，那里的人脸面眼睛手脚全是黑的。<br/>　　东方的句芒神，是鸟的身子人的面孔，乘着两条龙。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-222-2557.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-222-2559.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-222.html" action-type="chapterComment" class="comment"><i></i>山海经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

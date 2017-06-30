@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《古籍序跋集》正文_《嵇康集》逸文考_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="古籍序跋集,古籍序跋集原文,古籍序跋集阅读,《嵇康集》逸文考全文,鲁迅作品" />
+<meta name="description" content="古籍序跋集原文阅读,《嵇康集》逸文考全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-554-7644.html";
+var nextpage="novel-read-554-7646.html";
+var indexpage = "novel-chapter-554.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-554.html">古籍序跋集</a></strong>
+<strong><a href="novel-chapter-554.html">古籍序跋集目录</a></strong>
+<span>《嵇康集》逸文考</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-554-7644.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>《嵇康集》逸文考</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-06 21:29:22<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　嵇康《游仙诗》云：翩翩凤辖，逢此网罗。（《太平广记》四百引《续齐谐记》（2）。）嵇康有《白首赋》。（《文选》二十三《谢惠连秋怀诗》李善注（3）。）嵇康《怀香赋序》曰：余以太簇之月，登于历山之阳，仰眺崇冈，俯察幽坂。乃睹怀香，生蒙楚之间。曾见斯草，植于广厦之庭，或被帝王之囿；怪其遐弃，遂迁而树于中唐。华丽则殊采阿那，芳实则可以藏书。又感其弃本高崖，委身阶庭，似傅说显殷，四叟归汉，故因事义赋之。（《艺文类聚》八十一。案《太平御览》九百八十三引嵇含《槐香赋》，文与此同；《类聚》以为康作，非也。严可均辑《全三国文》据《类聚》录之；张溥本亦存其目，并误（4）。）嵇康《酒赋》云：重酎至清，渊凝冰洁，滋液兼备，芬芳□□（5）。（《北堂书钞》一百四十八。案同卷又引嵇含《酒赋》云：“浮螘萍连，醪华鳞设。”疑此四句亦嵇含之文。）嵇康《蚕赋》曰：食桑而吐丝，前乱而后治。 <br/>　　（6）（《太平御览》八百十四。）嵇康《琴赞》云：懿吾雅器，载璞灵山；体具德真，清和自然。澡以春雪，澹若洞泉；温乎其仁，玉润外鲜。昔在黄农，神物以臻；穆穆重华，托心五弦。（“托心”《书钞》作“记以”，据《初学记》十六引改。）闲邪纳正，亹亹其仙。宣和养气，（《初学记》十六两引，一作“素”。）介乃遐年。 <br/>　　（《北堂书钞》一百九。）（7）嵇康《太师箴》（8）曰：若会酒坐，见人争语，其形势似欲转盛，便当舍去，此斗之兆也。（《太平御览》四百九十六。 <br/>　　严可均曰：“此疑是序，未敢定之。”今案：此《家诫》也，见本集第十卷；《御览》误题尔。）嵇康《灯铭》：肃肃宵征，造我友庐，光灯吐耀，华缦长舒。（见《全三国文》，不著所出。今案：《杂诗》（9）也，见本集第一卷，亦见《文选》。）《嵇康集目录》（《世说》注，《御览》引作《嵇康集序》）曰：孙登者，字公和，不知何许人。无家属，于汲县北山土窟中得之。夏则编草为裳，冬则被发自覆。好读《易》；鼓一弦琴。见者皆亲乐之；每所止家，辄给其衣服饮食，得无辞让。（《魏志》《王粲传》注，《世说新语》《棲逸篇》注，《御览》二十七，又九百九十九。）《嵇康文集录》注曰：河内山嵚守颍川，山公族父。 <br/>　　（《文选》《嵇叔夜与山巨源绝交书》（10）李善注。）《嵇康文集录》注曰：阿都，吕仲悌，东平人也。（同上） <br/><br/>==========================================================================<br/><br/>　　 　本篇当写定于一九二四年六月之前。附鲁迅校本《嵇康集》后，收入一九三八年版《鲁迅全集》第九卷。 <br/>　　（2）《太平广记》　类书，宋代李昉等编，五百卷。主要收录六朝至宋初的小说、笔记，引书四百七十余种，分九十二类。《续齐谐记》，志怪小说集，南朝梁吴均著，一卷。续南朝宋东阳无疑《齐谐记》（已佚）而作，故名。 <br/>　　（3）　谢惠连（397—433）　南朝宋文学家，陈郡阳夏（今河南太康）人。曾任彭城王刘义康法曹参军，有《谢法曹集》。李善（约630—689），唐代扬州江都（今属江苏）人。高宗时官崇文馆学士。曾注《昭明文选》。 <br/>　　（4）　按宋本《艺文类聚》所收《怀香赋序》署嵇含作，别本误署嵇康。嵇含（263—306），字君道，嵇康侄孙。晋初任襄城太守。严可均（1762—1843），字景文，号铁桥，乌程（今浙江吴兴）人，清代学者。所编《全上古三代秦汉三国六朝文》为文总集，七六四卷。按该书据《艺文类聚》收《怀香赋序》于嵇康文中，又据《太平御览》收《槐香赋》并序于嵇含文中，二序实为一篇。张溥（1602—1641），字天如，太仓（今属江苏）人，明代文学家。编有《汉魏六朝百三名家集》，内收《嵇中散集》，集中全录《怀香赋序》，非仅存其目。 <br/>　　（5）　芬芳□□　清代孔广陶校本《北堂书钞》引此句缺二字，明代陈禹谟本《北堂书钞》作“芬菲澂澈”。 <br/>　　（6）　《蚕赋》　这里题作嵇康《蚕赋》的两句引文出自荀卿《赋篇》，《太平御览》题撰人为“荀卿”，篇名作《蚕赋》；严可均《全上古三代秦汉三国六朝文》转引《御览》时误题撰人为嵇康。 <br/>　　（7）　“穆穆重华”等六句，据孔广陶本《北堂书钞》。陈禹谟本作“穆穆重华，五弦始兴。闲邪纳正，感扬悟灵。宣和养气，介乃遐龄。”按《初学记》卷十六引“闲闲纳正，宣和养素”二句，题嵇康《琴赞》；引“穆穆重华，托心五弦，宣和养气，介乃遐年”四句，误题嵇康《琴赋》。 <br/>　　（8）　《太师箴》　嵇康所作的一篇讽诫皇帝的文章，见鲁迅校本《嵇康集》卷十。 <br/>　　（9）　《杂诗》　嵇康所作的一首四言诗，见鲁迅校本卷一，即《四言诗十一首》之十一；黄省曾刻本则单列，另题《杂诗一首》。此诗又见《文选》卷二十九。 <br/>　　（10）　《嵇叔夜与山巨源绝交书》　见鲁迅校本《嵇康集》卷二。 <br/>　　山巨源即山涛（205—283），字巨源，河内怀（今河南武陟）人，嵇康友人。魏末任选曹郎，曾推荐嵇康接替自己的职务，嵇康鄙弃他依附司马氏集团，写信与之绝交。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-554-7644.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-554-7646.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-554.html" action-type="chapterComment" class="comment"><i></i>古籍序跋集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

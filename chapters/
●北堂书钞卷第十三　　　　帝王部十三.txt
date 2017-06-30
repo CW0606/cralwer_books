@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《北堂书钞》正文_●北堂书钞卷第十三　　　　帝王部十三_虞世南作品 - 维普阅读网</title>
+<meta name="keywords" content="北堂书钞,北堂书钞原文,北堂书钞阅读,●北堂书钞卷第十三　　　　帝王部十三全文,虞世南作品" />
+<meta name="description" content="北堂书钞原文阅读,●北堂书钞卷第十三　　　　帝王部十三全文在线阅读,虞世南作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-999-9619.html";
+var nextpage="novel-read-999-9621.html";
+var indexpage = "novel-chapter-999.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-999.html">北堂书钞</a></strong>
+<strong><a href="novel-chapter-999.html">北堂书钞目录</a></strong>
+<span>●北堂书钞卷第十三　　　　帝王部十三</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-999-9619.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>●北堂书钞卷第十三　　　　帝王部十三</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=虞世南&amp;searchsubmit=yes"  target="_blank">虞世南</a><span class="divide">|</span>发布时间：2014-11-20 20:18:47<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　隋祕书郎虞世南撰南海孔广陶校註武功四十六<br/><br/>　　○武功四十六<br/><br/>　　戴纘武功「毛○今案见诗幽风七月」无忘武功「春秋○今案见左传宣十二年」皇矣汉祖聪明神武「汉书○今案见卷一百下叙传」<br/><br/>　　武皇之兴神武盖天「曹植魏德论云○今案类聚卷十引同」仁德内洽神武外照「晋中兴书」徐方既同天子之功「○今案见诗大雅常武」<br/><br/>　　嗣武受之耆定尔功「并毛○今案见诗周颂武之篇耆上陈俞本添胜殷遏刘句」禁暴戢兵保定天下「左氏○今案见宣十二年」明王之征犹时雨也「大戴礼○孙氏校明改时今案孔广森校定本王言篇同又本钞及陈俞本王误天孙严未校出」文王之时民乐兴师「春秋○严氏校师兴改兴师今案续汉书祭祀志注引春秋文耀鉤同陈俞本俱作师兴」南征北怨「书○今案见仲虺之誥」前歌后舞「乐稽耀嘉○今案俞本及文选孙子楚与孙皓书注引同本钞注作乐喜云三字陈本作乐书皆非」不言同辞「越绝○今案见王謨辑本卷三」不占自来「帝王世纪」<br/><br/>　　文王一怒能安天下「孟子○今案近本能作而」顿戟一怒伏尸满野「管子○今案见地数篇第七十七」天子之怒伏尸百万「战国策○今案见魏策唐睢使秦」<br/><br/>　　王奋厥武如震如怒「○今案见诗大雅常雅本钞脱如震二字」王赫斯怒爰整其旅「毛○今案见诗大雅皇矣」相公征关右赫怒震天威「王粲诗○今案见百三家本王粲集从军诗第一首」天子出征受成於学「○今案见礼记王制陈俞本受作爰」天子出征类乎上帝「礼记○案见王制篇」<br/><br/>　　帝王出征车载庙主「挚虞决疑要注○今案御览三百六引决疑要注庙主作之主餘同陈本删小注俞本脱挚字疑字」王用出征「易○今案见离卦」周王于迈「毛○今案见诗大雅棫朴」殷受雒命誓伐放横「书」诸侯不义从而征之「帝王世○今案类聚十一引同」受命诛横顺天之德「春秋元命包○今案玉函山房辑本据书钞引同」承命诛害以从天心「春秋○今案御览八十四引春秋元命苞从作顺餘同本钞及陈俞本俞误害孙严未校出」兼弱攻昧「书○今案见仲虺之誥」推亡固存「书○今案见仲虺之誥」黄帝伐九黎「帝王世纪○今案本钞下页有高阳平允黎一条高阳者黄帝之孙也黄帝伐蚩尤及与炎帝战阪泉无伐九黎之事近人辑有指海本浮溪精舍本可以以参考此条疑是衍文也」<br/><br/>　　帝舜伐三苗尧伐驩兜禹伐共工文王伐崇武王伐紂「孙卿子○今案见苏州谢墉校本议兵篇陈本删三苗句」啟伐有扈「帝王世纪○今案续汉书郡国志注引同」<br/><br/>　　啟征西河「纪年云○今案见读骚楼本帝啟十五年」武始北出「礼记○今案见乐记」宣王北伐「毛○今案见六月诗序」羲和湎淫胤往征之「○今案见书允征序」葛伯不祀汤始征之「○今案见书仲虺之誥」诞将天威咸克厥敌「○今案近本尚书君奭篇克作刘陈俞本亦作克」我伐用张于汤有光「并书○今案见秦誓中」保佑命尔爕伐大商「○今案见诗大雅大明」韦顾既伐「○今案见诗商颂长发伐下陈俞本衍一句」截彼淮浦「并毛○今案见诗大雅常武陈俞本浦下衍一句」四征弗庭绥厥兆民「书○今案见周官篇」式辟四方彻我疆土「毛○今案见诗大雅江汉」<br/><br/>　　晨举脂烛过木折舟示无返志「说苑○今案近本说苑十三权谋篇无晨举四字同陈俞本折作拆」有苗不恭尔徂征「书○今案见大禹謨」赫赫明明王命卿士「○今案见诗大雅常武」整我六师以修我戎「○今案见诗大雅常武」王于兴师脩我矛戟「○今案见诗秦风无衣陈俞本矛戟作戈矛」武夫光光「○今案见诗大雅江汉」武夫滔滔「并毛诗○今案见诗大雅江汉」耀兵饗车「○孙氏校此条下删观兵饗车四字衍文也今案车疑作军」观兵瀚海　临江观兵「魏志○今案见卷二文帝纪」练师简卒爰整其旅「魏朋帝」振师五柞习马长杨「杨雄云○孙氏校祚改柞今案见杨赋」戎车既飭「毛○今案见诗小雅六月」乃驾騖冥之乘「六韜○今案御览三百三十六引乘作车」元戎十乘以先啟行「○今案见诗小雅六月」伯也执殳為王前「毛○今案见诗卫风伯兮」前朱雀后玄武左青龙右白虎「礼○今案礼记幽礼上详见本钞武功部五又陈本无往俞本作引仪礼」以雕鶡為旗帜「列子○今案见列子帝篇」以旌為和之门「周礼○今案见夏官大司马和上有左右二字」旌旗十里「书○今案卷六武帝纪作千里」帆舟万艘「魏文帝○今案见张溥辑百三家本浮淮赋」躬秉武节「典论○今案陈俞本同问经堂本躬误射类聚十二引秉作抗御八十八引秉作执」亲御龙舟「魏志○今案见明帝纪」阵為不战「河图」阵于商郊「书○今案见武成篇」矢于牧野维予侯兴「○今案见诗大雅大明」致天之届于牧之野「○今案见鲁颂閟宫」殷商之旅其会如林「○今案见诗大雅大明陈俞本殷误敦」牧野洋洋檀车煌煌「并毛○今案见大雅大明」左杖黄鉞右秉白旄「书○今案见书牧誓」武王载旆见有虔秉鉞「毛○今案见商颂长发」摠于而山立武王之事也「○今案见礼记乐记」貔■〈豸？方〉戾兽黄帝教之战「刘子○今案陈俞本■〈豸？才〉作楙陈仁锡辑本刘子阅武篇亦作貅」龙战于野其血玄黄「易○今案见坤卦」战于条「○今案见商书伊训」大战于甘「书○今案见甘誓篇」战于丹水之浦「六韜○今案平津馆本同俞本删」血流标杵「书○今案见武成篇」滍水不流「东观记○今案见聚珍本卷一光武纪及御览九十引东观记光武纪」以尔鉤援与尔临衝「○今案见大雅皇矣」临衝闲闲崇墉言言「毛○今案见诗大雅皇矣」<br/><br/>　　变化如神「魏书○今案御览九十三引同亦见魏志武帝纪注引」变化无方「英雄记」龙举翼起「楚汉春秋」龙举云兴「东观○今案见聚珍本光武纪」显天威天命明威「○今案陈俞本上句作诞将天威下句作将天命明威」董之用威「○今案见书大禹謨」禪之以威「并书○今案陈俞本删此句」以威天下「易○今案见下」以威不轨「左氏○今案见左传襄廿七年子罕■〈言？几〉左师求邑事」威武纷紜「司马相如○今案见难蜀父老篇」威灵外覆「王褒四子讲德论○今案宋刻文选同」外辉武威「荀悦汉纪○今案荀悦纪孝元纪辉作耀餘同本钞及俞本荀纪误礼记孙严未校出陈本亦脱小注」威光左扫「曹植○今案类聚卷十引曹植魏德论左作佐严辑全三国文据书钞引仍作左考书古公左右先王是左佐亦通用」威光震「刘邵七华○今案严辑七华据书钞引同陈俞本删七华二字」威加海内「汉书○今案见高帝纪大风歌」威振六合「张严默记之」威震天下「魏志○今案见魏志六董卓传」罔弗祇畏「书」莫不震叠「毛○今案见诗周颂时迈」黄帝威四盗「蒋子万机论云○今案御览七十九引威作灭」<br/><br/>　　高阳平九黎「帝王世纪○今案类聚十一引同」五十二战而天下服「帝王世○今案类聚十一引同俞本删下四字」二十七征德施诸侯「○今案见类聚十一引帝王世纪俞本删下四字」革车三万伐桀於鸣条「并帝王世纪○今案万字疑误考吕氏春秋则言车七十乘耳」甲卒三千破紂王于牧野「淮南子○孙氏校作田士非也今案见淮南子本经训篇本钞卒作辛转写者误笔耳孙校改作甲士何竟沿陈俞之误耶」拨乱反正「汉书○今案见班书武帝纪赞」折铁摧木「论衡○今案见王謨本恢国篇」罪人黜伏「书○今案见汤誥篇」攘除不轨「风俗通○今案见风俗通三王篇又御七十七引同」脩教而伐因土而降「左氏○今案见僖十九年土作垒餘同陈俞本上而字作為」婴城者云彻带邑者席卷「抱朴子○王石华校澈作撤今案沿陈俞本之误也考金陵继氏校定本弣抱朴子佚文及本钞阵篇引皆作彻足见旧钞之足贵」悬紂首于白旗斩妲己以玄鉞「史记○今案见周本纪」杀蚩尤於绝轡之野「帝王世纪○今案说郛本同」克殷诛紂「尉他子○今案见陈仁锡本尉繚子天官篇陈俞本他作繚「并项灭嬴」<br/><br/>　　傅玄古今赞○今案张溥百三家本传玄汉高祖画赞有讨秦灭项句即此条之异文」取秦若鸿毛举楚若拾遗「梅福○今案陈俞本上若字作如考汉书六十七梅福传与陈俞同」断脩蛇禽封豕「韩子○今案近本韩子无此文考淮南子本经训豕作豨餘同」斩铜马破骨都「崔駰反都赋○王石华校从陈俞本骨都改擅乡严氏覆校勒之是也今案陈俞本又注后汉光武纪非也本钞骨都误赏郡反误文考张溥百三家崔駰集尚完好今据订正」<br/><br/>　　高宗伐鬼方三年克之「易○今案见既济卦」孝正征匈奴扫五王之庭「典论○今案御览八十八引同」薄伐玁允「○今案见诗小雅六月」玁允于襄「毛○今案见小雅出车」攘服四夷天下安然「新序」偏师出塞漠北地空「范曄后汉○今案见范书卷四」刈单于之旗探符离之窟「典论○孙氏校将刈单于之四字移正原钞旗上空一格非也今案御览八十八引同陈本刈误刘俞本删此条」荡鬼区於白水禽侨矫制於遐川「曹植○今案案类聚卷十引曹植魏德论禽作擒严辑全三国文亦作擒」南威百越北攘匈奴「刘歆云○今案御览八十八引刘歆宗庙议威作灭」断匈奴隔互羌「刘歆○孙氏校互羌改玄菟沿陈俞本之误也今案御览八十八引刘歆宗庙议互作氐餘同本钞凡从氐声之字皆作互如石？互？？互等字是也转写者或误作玄耳乃陈俞既孙校竟从之不知歆文玄菟言起不言隔也又安得傅会耶」<br/><br/>　　威震赤谷「贾逵永平颂○今案□辑全后汉文三十一据书钞引同陈俞本逵陈本并脱贾字」威震匈奴「汉书○今案见武帝纪」武义四加所征者服「桓子新论○今案严辑本入识通篇」霜雪被而茨蕀枯紘纲振而逆鳞扫「后汉书○孙氏校綋改絃今案类聚十一引袁山松后汉书絃作横蕀作棘俞本亦作棘」<br/><br/>　　惣螭虎之劲卒即矫涂其如夷「徐干○今案本钞攻战篇引同」踰长城之阻登单于之臺「典论○今案严辑全三国文据书钞引同张溥百三家本问经堂本均脱」<br/><br/>　　西压月窟东振日城「杨雄云○今案文选长杨赋作日域淮御览卷四引作城钞合」东临沧海西至玉门「陈思王○今案百三家太求自试表至作望」<br/><br/>　　屠柳城度龙塞「谬袭鼓吹曲三○今案本钞及陈本曲误典又考郭茂倩辑乐府诗集卷十八龙作陇餘同」此蚩尤之兵非人之力也「史记○今案见卷九十七郱主传」<br/><br/>　　执讯获丑「○今案见诗小雅采巨」俘厥瑶玉「书序○今案典宝序瑶作宝考本钞瑶字当作珤珤古宝字也」于疆于理「毛○今案见诗大雅江汉」百战百胜「邓析子○孙氏校朴改析今案棠荫馆本邓子无厚篇同」克殷年丰「春秋○今案见左传僖十九年」班师振旅「书○今案见大禹謨」杀一夫而利天下「六韜○今案平律馆本据书钞引同」一戎衣而天下大定「书○今案见武成篇」庶民施政庶士倍禄「礼记○今案见乐记陈俞本施作絁」绎箕子囚「书○孙氏校云释字应大写盖原钞释字侧注也今案见武成篇」封比干墓「帝王世纪○今案御览十一引同」出征执罪释奠于学「礼记○今案见王制篇」<br/><br/>　　归而饮至以数军实「春秋○今案见左氏隐五年」拓土三千里往返速若飞「王粲诗云○今案张溥百三家本土作地速若作一如」<br/><br/>　　北堂书钞卷第十三 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-999-9619.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-999-9621.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-999.html" action-type="chapterComment" class="comment"><i></i>北堂书钞章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

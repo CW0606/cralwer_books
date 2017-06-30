@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《管子》正文_幼官_管仲作品 - 维普阅读网</title>
+<meta name="keywords" content="管子,管子原文,管子阅读,幼官全文,管仲作品" />
+<meta name="description" content="管子原文阅读,幼官全文在线阅读,管仲作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-43-1122.html";
+var nextpage="novel-read-43-1124.html";
+var indexpage = "novel-chapter-43.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-43.html">管子</a></strong>
+<strong><a href="novel-chapter-43.html">管子目录</a></strong>
+<span>幼官</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-43-1122.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>幼官</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=管仲&amp;searchsubmit=yes"  target="_blank">管仲</a><span class="divide">|</span>发布时间：2014-07-24 20:47:26<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　若因处虚守静人物，人物则皇。五和时节，君服黄色，味甘味，听宫声，治和气，用五数，饮于黄后之井，以倮兽之火爨，藏温濡，行敺养，坦气修通，凡物开静，形生理。常至命，尊贤授德，则帝。身仁行义，服忠用信，则王。审谋章礼，选士利械，则霸。定生处死，谨贤修伍，则众。信赏审罚，爵材禄能，则强。计凡付终，务本饬末，则富。明法审数，立常备能，则治。同异分官，则安。<br/><br/>　　通之以道，畜之以惠，亲之以仁，养之以义，报之以德，结之以信，接之以礼，和之以乐，期之以事，攻之以官，发之以力，威之以诚。一举而上下得终，再举而民无不从，三举而地辟散成，四举而农佚粟十，五举而务轻金九，六举而絜知事变，七举而外内为用，八举而胜行威立，九举而帝事成形 。<br/><br/>　　九本搏大，人主之守也。八分有职，卿相之守也。七官饰胜备威，将军之守也。六纪审密，贤人之守也。五纪不解，庶人之守也。动而无不从，静而无不同。治乱之本三，尊卑之交四，富贫之经五，盛衰之纪六，安危之机七，强弱之应八，存亡之数九。练之以散群傰署。凡数财署，杀僇以聚财，劝勉以选众，使二分具本。发善必审于密，执威必明于中。此居图方中。<br/><br/>　　中方副图<br/><br/>　　必得文威武官习，胜之，务时因，胜之。终无方，胜之。几行义，胜之。理名实，胜之。急时分，胜之。事察伐，胜之。行备具，胜之。原无象，胜之。本定独威，胜。定计财，胜。定闻知，胜。定选士，胜。定制禄，胜。定方用，胜。定纶理，胜。定死生，胜。定成败，胜。定依奇，胜。定实虚，胜。定盛衰，胜。举机诚要，则敌不量。用利至诚，则敌不校。明名章实，则士死节。奇举发不意，则士欢用。交物因方，则械器备。因能利备，则求必得。执务明本，则士不偷。备具无常，无方应也。听于钞，故能闻未极。视于新，故能见未形，思于濬，故能知未始。发于惊，故能至无量。动于昌，故能得其宝。立于谋，故能实不可故也。器成教守，则不远道里。号审教施，则不险山河。博一纯固，则独行而无敌。慎号审章，则其攻不待权与。明必胜，则慈者勇。器无方，则愚者智。攻不守，则拙者巧。数也。动慎十号。明审九章。饰习十器。善习五官。谨修三官。必设常主。计必先定。求天下之精材。论百工之锐器。器成，角试否臧。收天下之豪杰，有天下之称材。说行若风雨，发如雷电。此居于图方中。<br/><br/>　　东方本图<br/><br/>　　春行冬政，肃。行秋政，雷。行夏政，阉。十二，地气发，戒春事。十二，小卯，出耕。十二，天气下，赐与。十二，义气至，修门闾。十二，清明，发禁。十二，始卯，合男女。十二，中卯。十二，下卯。三卯同事，八举时节。君服青色，味酸味，听角声，治燥气，用八数，饮于青后之井。以羽兽之火爨。藏不忍，行敺养。坦气修通，凡物开静，形生理。合内空周外。强国为圈，弱国为属。动而无不从，静而无不同。举发以礼，时礼必得。和好不基。贵贱无司，事变日至。此居于图东方方外。<br/><br/>　　东方副图<br/><br/>　　旗物尚青，兵尚矛。刑则交寒害釱。器成不守，经不知。教习不著，发不意。经不知，故莫之能圉。发不意，故莫之能应。莫之能应，故全胜而无害。莫之能圉，故必胜而无敌。四机不明，不过九日，而游兵惊军。障塞不审，不过八日，而外贼得闲。由守不慎，不过七日，而内有谗谋。诡禁不修，不过六日，而窃盗者起。死亡不食，不过四日，而军财在敌。此居于图东方方外。<br/><br/>　　南方本图<br/><br/>　　夏行春政，风。行冬政，落。重则雨雹。行秋政，水。十二，小郢至，德。十二，绝气下，下爵赏。十二，中郢，赐与。十二，中绝，收聚。十二，大暑至，尽善。十二，中暑。十二，小暑终。三暑同事。七举时节，君服赤色，味苦味，听羽声，治阳气，用七数。饮于赤后之井。以毛兽之火爨。藏薄纯，行笃厚，坦气修通，凡物开静，形生理。定府官，明名分，而审责于群臣有司，则下不乘上，贱不乘贵，法立数得，而无比周之民，则上尊而下卑，远近不乖，此居于图南方方外。<br/><br/>　　南方副图<br/><br/>　　旗物尚赤。兵尚戟。刑则烧交彊郊。必明其一，必明其将，必明其政，必明其士。四者备，则以治击乱，以成击败。数战则士疲，数胜则君骄，骄君使疲民，则国危。至善不战，其次一之。大胜者积众。胜无非义者，焉可以为大胜。大胜，无不胜也。此居于图南方方外。<br/><br/>　　西方本图<br/><br/>　　秋行夏政，叶。行春政，华。行冬政，秏。十二，期风至，戒秋事。十二，小卯，薄百爵。十二，白露下，收聚。十二，复理，赐与。十二，始节赋事。十二，始卯，合男女。十二，中卯。十二，下卯。三卯同事。九和时节，君服白色，味辛味，听商声，治湿气，用九数。饮于白后之井。以介虫之火爨。藏恭敬，行搏锐，坦气修通，凡物开静，形生理。闲男女之畜，修乡闾之什伍。量委积之多寡，定府官之计数。养老弱而勿通，信利周而无私，此居于图西方方外。<br/><br/>　　西方副图<br/><br/>　　旗物尚白，兵尚剑。刑则绍昧断绝。始乎无端，卒乎无穷。始乎无端，道也。卒乎无穷，德也。道不可量，德不可数。不可量，则众强不能图。不可数，则为轴不敢乡。两者备施，动静有功。畜之以道，养之以德。畜之以道，则民和，养之以德，则民合。和合故能习；习故能偕。偕习以悉。莫之能伤也。此居于图西方方外。<br/><br/>　　北方本图<br/><br/>　　冬行秋政，雾。行夏政，雷。行春政，烝泄。十二，始寒，尽刑。十二，小榆，赐予。十二，中寒，收聚。十二，中榆，大收。十二，寒至，静。十二，大寒，之阴。十二，大寒终三寒同事。六行时节，君服黑色，味咸味，听征声，治阴气，用六数，饮于黑后之井。以鳞兽之火爨。藏慈厚，行薄纯。坦气修通，凡物开静，形生理。<br/><br/>　　器成于僇，教行于钞。动静不记，行止无量。戒审四时以别息，异出入以两易，明养生以解固，审取予以总之。<br/><br/>　　一会诸侯，令曰：“非玄帝之命，毋有一日之师役”。再会诸侯，令曰：养孤老，食常疾，收孤寡。三会诸侯，令曰：田租百取五。市赋百取二。关赋百取一。毋乏耕织之器。四会诸侯，令曰：修道路，偕度量，一称数。薮泽以时禁发之。五会诸侯，令曰：修春秋冬夏之常祭，食。天壤山川之故祀，必以时。六会诸侯，令曰：以尔壤生物共玄官，请四辅，将以礼上帝。七会诸侯，令曰：官处四体而无礼者。流之焉莠命。八会诸侯，令曰：立四义而毋议者，尚之于玄官，听于三公。九会诸侯，令曰：以尔封内之财物，国之所有为币。<br/><br/>　　九会，大命焉出，常至。千里之外，二千里之内。诸侯三年而朝习命。二年，三卿使四辅。一年正月朔日，令大夫来修。受命三公。二千里之外，三千里之内，诸侯五年而会至习命。三年，名卿请事。二年，大夫通吉兇。十年，重适入，正礼义。五年，大夫请受变。三千里之外，诸侯世一至，置大夫以为廷安，入，共受命焉。此居于图北方方外。<br/><br/>　　北方副图<br/><br/>　　旗物尚黑，兵尚胁盾。刑则游仰灌流。察数而知治，审器而识胜。明谋而适胜。通德而天下定。定宗庙。育男女。官四分，则可以立威、行、德、制法仪、出号令。至善之为兵也，非地是求也，罚人是君也。立义而加之以胜，至威而实之以德。守之而后修，胜心焚海内。民之所利立之，所害除之，则民人从。立为六千里之侯。则大人从。使国君得其治。则人君从会。请命于天地，知气和，则生物从。计缓急之事。则危危而无难。明于器械之利，则涉难而不变。察于先后之理，则兵出而不困。通于出入之度，则深入而不危。审于动静之务，则功得而无害。著于取与之分，则得地而不执。慎于号令之官。则举事而有功。此居于图北方方外。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-43-1122.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-43-1124.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-43.html" action-type="chapterComment" class="comment"><i></i>管子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

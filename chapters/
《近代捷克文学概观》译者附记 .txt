@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《文序跋集》正文_《近代捷克文学概观》译者附记 _鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="文序跋集,文序跋集原文,文序跋集阅读,《近代捷克文学概观》译者附记 全文,鲁迅作品" />
+<meta name="description" content="文序跋集原文阅读,《近代捷克文学概观》译者附记 全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-619-7801.html";
+var nextpage="novel-read-619-7803.html";
+var indexpage = "novel-chapter-619.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-619.html">文序跋集</a></strong>
+<strong><a href="novel-chapter-619.html">文序跋集目录</a></strong>
+<span>《近代捷克文学概观》译者附记 </span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-619-7801.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>《近代捷克文学概观》译者附记 </strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-13 21:49:09<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　捷克人在斯拉夫民族（2）中是最古的人民，ěQ也有着最富的文学。但在二十年代（3），几乎很少见一本波希米亚文（4）的书，后来出了J．Kollár（5）以及和他相先后的文人，文学才有新生命，到前世纪末，他们已有三千以上的文学家了！<br/>　　这丰饶的捷克文学界里，最显著的三大明星是：纳卢达（1834—91），捷克（1846—），符尔赫列支奇（6）（1853—1912）。现在译取凯拉绥克（Josef　Karásek）《斯拉夫文学史》第二册第十一十二两节与十九节的一部分，便正可见当时的大概；至于最近的文学，却还未详。此外尚有符尔赫列支奇的同人与支派如Ad．CKerny，J．S．Machar，Anton　Sova（7）；以及散文家如K．Rais，K．Klostermann，MrsKtik兄弟，M．SKimácKek，Alois　Jirásek（8）等，也都有名，惜现在也不及详说了。<br/>　　二一年九月五日附记。<br/><br/>==========================================================================<br/><br/>　　 　本篇连同《近代捷克文学概观》的译文，最初发表于一九二一年十月《小说月报》第十二卷第十号“被损害民族的文学号”，署名唐俟。凯拉绥克，通译卡拉塞克。<br/>　　（2）　斯拉夫民族　欧洲最大的民族共同体，分为东斯拉夫人、西斯拉夫人、南斯拉夫人。捷克人和斯洛伐克人都属于西斯拉夫人。<br/>　　（3）　二十年代　指十九世纪二十年代。<br/>　　（4）　波希米亚文　即捷克文。波希米亚在捷克西部，原为捷克民族聚居地区。<br/>　　（5）　J．Kollár　扬·柯拉尔（1793—1852），捷克诗人。他以民族语言写作，为捷克文学最早缔造者之一。主要作品有诗集《斯拉夫的女儿》等。<br/>　　（6）　纳卢达（J．Neruda）　现译聂鲁达，捷克诗人、政论家，捷克现实主义文学创始人之一。他的诗歌继承民歌传统，富有反抗社会不平和民族压迫的精神。主要作品有诗集《墓地的花朵》、《宇宙之歌》，小说《小城故事》等。捷克（S．CKech，1846—1908），通译捷赫，捷克诗人、小说家，曾积极参加民族独立运动。他的作品多反映捷克人民遭受民族压迫和社会压迫的痛苦。主要作品有诗集《黎明之歌》、《奴隶之歌》等和长篇讽刺小说《勃鲁契克先生第一次月球旅行记》等。<br/>　　符尔赫列支奇（J．Vrchlicky），本名弗利达（E．Frida），捷克诗人、剧作家及翻译家，主要作品有《叙事诗集》、《世界的精神》、《神话集》等诗集。<br/>　　（7）　Ad．CKerny　阿多尔夫·契尔尼（Adolf　CKerny，1864—？）捷克作家。J．S．Machar，马察尔（1864—1942），捷克诗人，评论家。<br/>　　第一次世界大战时曾因参加祖国独立运动被捕入狱。主要作品有《萨蒂利之死》、《马格达伦》等。Anton　Sova，安东宁·索瓦（Antonin　Sova，1864—1928），捷克诗人。他信仰空想社会主义，作品受有法国象征派的影响。主要作品有《受挫折的心》、《过去的烦恼》等。<br/>　　（8）　K．Rais　莱斯（1859—1926），捷克作家，他的小说多反映农民和山地居民的痛苦，并同情工人争取美好生活的斗争。K．Klos－termann，克罗斯退曼（1848—1923），生于德国的捷克作家，他的作品主要描写西南波希米亚地区的现实生活。MrsKtik兄弟，莫尔什蒂克兄弟，兄名阿洛伊思（Alois　MrsKtik，1861—1924），捷克作家，著有《在乡村的一年》等；弟名威廉（Vilém　MrsKtik，1863—1912），著有《五月的故事》及长篇《圣塔卢齐亚》等。M．SKimcKek，什马切克（1860—1913），捷克作家，曾在甜菜糖厂工作。著有《在切割机旁》、《工厂的灵魂》等。Alois　Jiráek，阿洛伊思·伊拉塞克（1851—1930），捷克作家。他的作品充满对祖国独立和自由的向往。著有长篇小说《斯卡拉奇》、《在激流中》、《在我们国土上》及剧本《扬·日什卡》、《扬·胡斯》等。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-619-7801.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-619-7803.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-619.html" action-type="chapterComment" class="comment"><i></i>文序跋集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

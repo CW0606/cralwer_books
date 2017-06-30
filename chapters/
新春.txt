@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《新春》正文_新春_刘方平作品 - 维普阅读网</title>
+<meta name="keywords" content="新春,新春原文,新春阅读,新春全文,刘方平作品" />
+<meta name="description" content="新春原文阅读,新春全文在线阅读,刘方平作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-1171.html";
+var nextpage="novel-chapter-1171.html";
+var indexpage = "novel-chapter-1171.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1171.html">新春</a></strong>
+<strong><a href="novel-chapter-1171.html">新春目录</a></strong>
+<span>新春</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-1171.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>新春</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘方平&amp;searchsubmit=yes"  target="_blank">刘方平</a><span class="divide">|</span>发布时间：2015-02-08 21:28:47<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>更深月色半人家，北斗阑干南斗斜。<br/>今夜偏知春气暖，虫声新透绿窗纱。<br/> <br/>【注释】<br/>阑干：这里指横斜的样子。<br/>南斗：星宿名，在北斗七星南。<br/>偏知：才知。<br/>新：初。<br/> <br/>【注音】<br/>北斗阑干(gān)南斗斜(xiá)。<br/> <br/>【译文】<br/>夜半更深明月西挂照亮半边人家，北斗七星横卧南斗六星也已倾斜。<br/>今夜我忽然感到春天的温暖气息，还听得春虫叫声穿透绿色的窗纱。<br/> <br/>【赏析】<br/>　　本诗写的是初春月夜黎明前的情景。夜深人静，月光斜照着半边庭院；北斗星和南斗星横斜着，天将亮了。低微唧唧的虫鸣声，第一次透进了绿色的窗纱，春意在不知不觉中来到了。<br/>　　诗的前两句写环境的幽静，后两句写感觉到春天的气息。以“虫声新透绿窗纱”来表达春回大地的信息，“透”字传神，读来亲切有味，境界全出。<br/>　　《月夜》一诗，诗人写得极其细腻，将季节的瞬时微妙变化表现出来。这一首描写月夜春色的小诗，它犹如一首小夜曲，可以让人听得似痴如醉；又好像是一幅水彩画，可以让人看得似乎要沉浸于画意之中而又不能自拔。诗作写得有声有色，恬静雅淡，令人过目不忘，久久回味。首句的“半人家”是诗中的佳笔，它写出了庄户人家的农舍一半为银白色月晖所包围，而另一半却依然坐落在黑暗中。而组合村庄的大片农舍都是这样一边有光，一边阴暗。如此着色，便使黑者更黑，白者更白，在用光上便能更加突出主体（村落）。这要比让描写的景物全都搽上一层亮色更醒目，也更有艺术美。有不少注本谓“半人家”是指一半人家，倒也能说得通，但诗句却无一点灵气了。二句应该以互文手法解释，即北斗和南斗都发生了倾斜变化，这样就可看出时间的推移，已从入夜而接近更深了。三四句运用了典型示范的笔法来加强春色迷人的主题，其运用的主要意象便是虫声。又有“新透绿窗纱”补加，更给人以清新右爱的感觉。因为这虫声本来已是够清脆悦耳的了，再让它通过“绿窗纱”，似乎将它过滤了一遍，将那些不规整的杂首全都清除掉，剩下的当然全是乐音了。然后再为这乐音加上点“绿色”，这样弄得这虫声似乎又好听，又好看，岂不美哉？因此末句中还暗用了通感手法，其目的是在声音美之上再饰以色彩美，于是便美不胜收了。本诗由于形象声音色彩俱佳，所以对后人便产生了一定的影响。一般说来，春虫的鸣声并不过于吸引人的注意，倒是唧唧的秋虫成为众多诗人笔下的常见之物。再说秋季降临时北斗、南斗的斗柄也会发生横斜变化。又，三四句也能解释成：因秋色初降，虫声悦耳，景色宜人，所以反过来对春色之温暖才有更深的体会。这样描写月夜，诗人对季节、时间、空间感受非常敏锐，因此不落俗套，富于创新。由虫声而知春暖春意春至春景，让人的喜悦之情油然而生，诗句构思和艺术表现都见新巧，一感一听，生了一喜，颇具新意。<br/> <br/>【评析】<br/>　　唐诗中，以春和月为题的不少。或咏春景而感怀，或望明月而生情思。此诗写春，不唯不从柳绿桃红之类的事物着笔，反借夜幕将这似乎最具有春天景色特点的事物遮掩起来，写月，也不细描其光影，不感叹其圆缺；而只是在夜色中调进半片月色，这样，夜色不至太浓，月色也不至太明，造成一种蒙胧而和谐的旋律。<br/>　　此诗首揭“更深”二字，为以下景色的描绘确定了基调，也给全诗笼罩一种特殊氛围。“月色半人家”是“更深”二字的具体化，接下的一句“北斗阑干南斗斜”，是“更深”于夜空的征象，两句一起造成春夜的静穆，意境深邃。月光半照，是因为月轮西斜，诗以星斗阑干为映衬，这就构成两句之间的内在关联。更多唐诗欣赏敬请关注“习古堂国学网”的唐诗三百首栏目。<br/>　　恬谧的春夜，万物的生息迁化在潜行。“今夜偏知春气暖．虫声新透绿窗纱”，正是诗人全身心地去体察大自然的契机而得到的佳句。从虫介之微而知寒暖之候，说明诗入有着深厚的乡村生活的根柢。因此。这两句非一般人所能道。没有长期乡村生活经验的入。固然说不出；便是生活在乡村，也并非人人都说得出来。今夜虫鸣，究竟是第一回还是第几回，谁去注意它，这须得有心人。还应该有一颗诗心。一个“新”字，饱含对乡村生活的深情，既是说清新，又有欣悦之意。<br/>　　诗中说“春气暖”自“今夜”始，表明对节候变化十分敏感，“偏知”一语洋溢着自得之情。写隔窗听到虫声，用“透”。给人以生机勃发的力度感。窗纱的绿色，夜晚是看不出的。这绿意来自诗人内心的盎然春意。至此，我们就可以明白：诗人之所以不描写作为春天表征的鲜明的外在景观。而是借助深夜景色气氛来烘托诗的意境，就是因为这诗得之于诗人的内心。诗人是以一颗纯净的心灵体察自然界的细微变化的。诗的前二句写景物，不着一丝春的色彩．却暗中关合春意，颇具蕴藉之致。第三句的“春气暖”。结句的“虫声”，“绿窗纱”互为映发。于是春意俱足。但这声与色，仍从“意”(感觉)中来。诗人并非唯从“虫声”才知道春气已暖，“春气暖”是诗人对“今夜”的细微感觉，而“虫声”只是与其感觉冥合的一个物候。因此，诗的意蕴是深厚的。构思的新颖别致，决定于感受的独特。唐代田园诗成为一个重要流派，也不乏名家。然而。能仿佛陶诗一二者并不多见。象本诗这样深得陶体真趣的。就更为寥寥。至于说本诗有无隐微之情的寄托，于字面无征，不好去穿凿。<br/> <br/>【作者介绍】<br/>　　刘方平(758年前后在世)，唐朝河南洛阳人。匈奴族。天宝前期曾应进士试，又欲从军 ，均未如意，从此隐居颍水、汝河之滨，终生未仕。与皇甫冉、元德秀、李颀、严武为诗友，为薪颖士赏识。工诗，善画山水。其诗多咏物写景之作，尤擅绝句，其诗多写闺情、乡思，思想内容较贫弱，但艺术性较高，善于寓情于景，意蕴无穷。其《月夜》 、《春怨》、《新春》、《秋夜泛舟》等都是历来为人传诵的名作。<br/>　　刘方平是邢襄公政会之后.天宝时名士，却不乐仕进，寄情山水、书画，诗亦有名，擅长绝句。诗风清新自然，常能以看似淡淡的几笔铺陈勾勒出情深意切的场景，手法甚是高妙。代表作有《采莲曲》、《望夫石》、《京兆眉》、《月夜》、《寄严八判官》、《代宛转歌二首》、《乌栖曲二首》、《春怨》、《梅花落》、《秋夜泛舟》等，其中以《采莲曲》、《月夜》和《春怨》为最著名。《采莲曲》写一窈窕女子（“楚腰”代指“细腰苗条”之意，因古有“楚王好细腰”的典故）唱着荆歌，在“落日晴江里”采莲，问她何以如此熟练，答是“采莲从小惯，十五即乘潮”（原来是十五岁开始就乘潮采莲了），写得十分形象生动，清新活泼。《望夫石》吟咏“佳人（望夫）成古石”的感人故事，写那石头上“犹有春山杏，枝枝似薄妆”（石上生长的春日红杏象是佳人施于面上的淡红“薄妆”），构思极为精巧，富有意趣。诗一卷（全唐诗上卷第二百五十一）。<br/>　　刘方平是当时震惊一时的美男子，史书未曾详细记载其容貌，但是野史里与一些正史里稍有提及他的美貌。因此现在的一些动漫产业也常以刘方平为原型塑造了一系列生动鲜明的形象，真可谓是才华横溢，才貌双全。<br/>　　刘方平的诗清新亮丽，风格鲜明，是因为他早期的生活幸福，他有一妻三子，大子刘眉，儿子刘含，小子刘霜在文学上都颇有造诣。令人惋惜的他们的诗都失传，以至后人无法瞻仰其才华。<br/>　　刘方平之妻许氏，也是出生于书香门第，虽在当时女子里才华横溢，但是丑闻连连，曾与寺里僧人有过奸情，刘方平离家四处游玩，便不问家里情况。以至于许氏愈加放肆，最后在偷会情人时跌在雪地里死去了。（选自《古今野史杂谈》）</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-1171.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-1171.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1171.html" action-type="chapterComment" class="comment"><i></i>新春章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

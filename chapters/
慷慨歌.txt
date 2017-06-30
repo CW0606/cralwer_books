@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《慷慨歌》正文_慷慨歌_先秦无名作品 - 维普阅读网</title>
+<meta name="keywords" content="慷慨歌,慷慨歌原文,慷慨歌阅读,慷慨歌全文,先秦无名作品" />
+<meta name="description" content="慷慨歌原文阅读,慷慨歌全文在线阅读,先秦无名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-208.html";
+var nextpage="novel-chapter-208.html";
+var indexpage = "novel-chapter-208.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-208.html">慷慨歌</a></strong>
+<strong><a href="novel-chapter-208.html">慷慨歌目录</a></strong>
+<span>慷慨歌</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-208.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>慷慨歌</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=先秦无名&amp;searchsubmit=yes"  target="_blank">先秦无名</a><span class="divide">|</span>发布时间：2014-08-09 23:11:01<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>贪吏不可为而可为，<br/>廉吏可为而不可为。<br/>贪吏而不可为者，当时有污名；<br/>而可为者，子孙以家成。<br/>廉吏而可为者，当时有清名；<br/>而不可为者，子孙困穷被褐而负薪。<br/>贪吏常苦富，廉吏常苦贫。<br/>独不见楚相孙叔敖，廉洁不受钱。<br/><br/>【由来】<br/>孙叔敖是春秋时期楚国的令尹，在他的治理下，百姓安居乐业，国家日臻强盛，称霸诸侯。他为官廉洁，家无余财，临终的时候，嘱咐儿子说：“孩子，我没有给你留下什么财产，以后家中生活必定贫穷。如果确实太困难了，你可以去找优孟。他是我的朋友，会尽力帮助你的。”优孟是楚国宫廷中的伶人，他身长八尺，言语诙谐，常常借笑谈巧妙地对国君进行讽谏。孙叔敖去世之后，他的儿子果然一贫如洗，只得靠砍柴为生。一天，他背着一捆柴从山上回来，在路上正好碰上了优孟。他想起父亲的话，便向优孟诉说了自己的艰难处境。优孟听了，非常同情，嗟叹不已。<br/>优孟回到家里，就穿戴上孙叔敖当年一样的衣冠，着意模仿他的言谈举止。三天之后，他便妆扮成孙叔敖的模样，去见楚庄王。楚庄王一时之间，还以为是孙叔敖复活了，又惊又喜，便要让他当相国。优孟说：“大王，让我回家与妻子商量一下，再来回复吧。”过了三天，优孟又来见庄王。庄王急问：“你妻子同意了吧？”优孟连连摇头，说：“我妻子说：‘不可！不可！楚国的相国万万当不得！你没有看见孙叔敖吗？治理楚国，廉洁尽忠，一旦死了，儿子贫无立锥之地，砍柴为生！像这样当相国，还不如死了干净！’”说完，优孟还唱了一首《慷慨歌》： 贪吏不可为而可为，廉吏可为而不可为。贪吏而不可为者，污且卑；而可为者，子孙乘坚以策肥。廉吏而可为者，高且洁；而不可为者，子孙衣单而食缺。独不见，楚相孙叔敖，廉洁不受钱！ 优孟唱完，已是泪流满面。楚庄王一听，忙向优孟仔细询问孙叔敖家人的情况。接着，又命人找来孙叔敖的儿子，当即将寝丘（在今河南沈丘县东南）的四百户的食邑分封给他。<br/>这首《慷慨歌》，后来还刻在孙叔敖的墓碑上。此后，人们就用“优孟衣冠”来比喻假装古人或模仿他人，也比喻登台演戏。<br/><br/>【赏析】<br/>〖《诗纪》云。一作楚商歌。〗<br/><br/>　　〖孙叔敖碑曰：楚相孙君讳饶。字叔敖。临卒。将无棺椁。令其子曰：优孟曾许千金贷吾。孟。楚之乐长。与相君相善。虽言千金。实不负也。卒后数年。庄王置酒以为乐。优孟乃言孙君相楚之功。即慷慨商歌曲曰云云。涕泣数行。王心感动。即求其子而加封焉。〗<br/><br/>　　贪吏而可为而不可为。廉吏而可为而不可为。贪吏而不可为者。当时有污名。而可为者。子孙以家成。廉吏而可为者当时有清名。而不可为者。子孙困穷被褐而负薪。贪吏常苦富。廉吏常苦贫。独不见楚相孙叔敖。廉洁不受钱。（○《隶释》三。《风雅逸篇》六。《诗纪前集》二。○逯案。《隶释》所载孙叔敖碑，立於后汉延熹三年五月二十八日。）<br/>-----------逯钦立 编《先秦汉魏晋南北朝诗》-----------</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-208.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-208.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-208.html" action-type="chapterComment" class="comment"><i></i>慷慨歌章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

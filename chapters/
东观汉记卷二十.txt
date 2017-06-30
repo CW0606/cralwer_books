@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《东观汉记校注》正文_东观汉记卷二十_刘珍作品 - 维普阅读网</title>
+<meta name="keywords" content="东观汉记校注,东观汉记校注原文,东观汉记校注阅读,东观汉记卷二十全文,刘珍作品" />
+<meta name="description" content="东观汉记校注原文阅读,东观汉记卷二十全文在线阅读,刘珍作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-252-3998.html";
+var nextpage="novel-read-252-4000.html";
+var indexpage = "novel-chapter-252.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-252.html">东观汉记校注</a></strong>
+<strong><a href="novel-chapter-252.html">东观汉记校注目录</a></strong>
+<span>东观汉记卷二十</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-252-3998.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>东观汉记卷二十</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘珍&amp;searchsubmit=yes"  target="_blank">刘珍</a><span class="divide">|</span>发布时间：2014-08-26 20:37:19<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>传十五<br/><br/>　　匈奴南单于<br/><br/>　　匈奴南单于列传。〔一〕范晔后汉书卷八九南匈奴传李贤注<br/><br/>　　单于比，匈奴头曼十八代孙。〔二〕范晔后汉书卷八九南匈奴传李贤注<br/><br/>　　十二月癸丑，匈奴始分为南北单于。〔三〕范晔后汉书卷八九南匈奴传李贤注<br/><br/>　　建成二十五年，南单于遣左贤王击北单于，〔四〕北单于震怖，却地千馀里。十三年中工官作橹车成，可驾数牛，尝送塞上。议者见车巧，相谓曰：「谶言汉九世当却夷千里，宁谓此邪？」〔五〕圣人之文，〔六〕与天券契。及胡隤怀，〔七〕数月而卑。〔八〕书钞卷一三九<br/><br/>　　建武二十六年，南单于遣使献骆驼二头，文马十匹。〔九〕初学记卷二０<br/><br/>　　建武中，南单于来朝，赐御食及橙、橘、龙眼、荔支。〔一０〕御览卷九七一<br/><br/>　　赐鹿蠡王玉具剑，〔一一〕羽盖车一驷，中郎将持节卫护焉。〔一二〕范晔后汉书卷四和帝纪李贤注<br/><br/>　　南单于上书献橐驼。单于岁祭三龙祠，走马斗橐驼，以为乐事。〔一三〕御览卷九０一<br/><br/>　　帝遣单于，〔一四〕飨赐作乐百戏，上幸离宫临观。〔一五〕类聚卷六二<br/><br/>　　〔一〕　「匈奴南单于列传」，范晔后汉书南匈奴传篇题下李贤注云：「前书直言匈奴传，不言南北，今称『南』者，明其为北生义也。以南单于向化尤深，故举其顺者以冠之。东观记称匈奴南单于列传，范晔因去其『单于』二字。」此条即据李贤注辑录。史通古今正史篇叙东观汉记撰修经过云：「伏无忌与谏议大夫黄景作诸王、王子、功臣、恩泽侯表，南单于、西羌传。」<br/><br/>　　〔二〕　「单于比，匈奴头曼十八代孙」，范晔后汉书南匈奴传李贤注云：「头曼即冒顿单于父，自头曼单于至比，父子相承十代，以单于相传乃十八代也。」<br/><br/>　　〔三〕　「十二月癸丑，匈奴始分为南北单于」，此条文字玉海卷一五二亦引，字句全同。范晔后汉书南匈奴传云：建武「二十二年，单于舆死，子左贤王乌达鞮侯立为单于。复死，弟左贤王蒲奴立为单于。比不得立，既怀愤恨。……比密遣汉人郭衡奉匈奴地图，二十三年，诣西河太守求内附。……二十四年春，八部大人共议立比为呼韩邪单于，以其大父尝依汉得安，故欲袭其号。于是款五原塞，愿永为蕃蔽，扞御北虏。帝用五官中郎将耿国议，乃许之。其冬，比自立为呼韩邪单于」。于是始有南北单于之分。其下李贤引此条文字作注。<br/><br/>　　〔四〕　「建武二十五年，南单于遣左贤王击北单于」，范晔后汉书光武帝纪建武二十五年云：「南单于遣使诣阙贡献，奉蕃称臣。又遣其左贤王击破北匈奴，却地千馀里。」<br/><br/>　　〔五〕　「宁谓此邪」，范晔后汉书南匈奴传云：建武二十五年春，南单于比「遣弟左贤王莫将兵万馀人击北单于弟薁鞬左贤王，生获之。又破北单于帐下，并得其众合万馀人，马七千匹、牛羊万头。北单于震怖，却地千里。初，帝造战车，可驾数牛，上作楼橹，置于塞上，以拒匈奴。时人见者或相谓曰：『谶言汉九世当却北狄地千里，岂谓此邪？』」可与此相证。<br/><br/>　　〔六〕　「圣人之文」，此下四句范晔后汉书南匈奴传无。<br/><br/>　　〔七〕　「怀」，字误，疑当作「坏」。<br/><br/>　　〔八〕　「数月而卑」，此条姚本、聚珍本皆未辑录。<br/><br/>　　〔九〕　「文马十匹」，此条万花谷后集卷一八亦引，字句全同。范晔后汉书南匈奴传云：建武二十六年，南单于比「遣使上书，献骆驼二头，文马十匹」。「文马」，谓马体毛色有文彩者。<br/><br/>　　〔一０〕「南单于来朝，赐御食及橙、橘、龙眼、荔支」，此条类聚卷八七，御览卷九六六、卷九七一，事类赋卷二七，记纂渊海卷九二，合璧事类卷四０亦引，字句稍略。范晔后汉书南匈奴传建武二十六年载：「单于岁尽辄遣奉奏，送侍子入朝，中郎将从事一人将领诣阙。汉遣谒者送前侍子还单于庭，交会道路。元正朝贺，拜祠陵庙毕，汉乃遣单于使，令谒者将送，赐綵缯千匹，锦四端，金十斤，太官御食酱及橙、橘、龙眼、荔支。」未言南单于来朝，此文有误。<br/><br/>　　〔一一〕「赐鹿蠡王玉具剑」，原无「鹿蠡王」三字，书钞卷一九引云：「赐鹿蠡王羽车一驷。」今据增补。聚珍本作「谷蠡王」。<br/><br/>　　〔一二〕「中郎将持节卫护焉」，范晔后汉书和帝纪永元四年载：「春正月，北匈奴右谷蠡王于除鞬自立为单于，款塞乞降。遣大将军左校尉耿夔授玺绶。」其下李贤引此文作注。<br/><br/>　　〔一三〕「以为乐事」，此条姚本全未辑录，聚珍本仅辑有首句。初学记卷二九、六帖卷九七、合璧事类别集卷七六亦引此条文字，字句稍略。范晔后汉书南匈奴传云：「匈奴俗，岁有三龙祠，常以正月、五月、九月戊日祭天神。南单于既内附，兼祠汉帝，因会诸部，议国事，走马及骆驼为乐。」<br/><br/>　　〔一四〕「遣」，原误作「遗」，聚珍本不误，今据改正。<br/><br/>　　〔一五〕「上幸离宫临观」，范晔后汉书南匈奴传云：「呼兰若尸逐就单于兜楼储先在京师，汉安二年立之。天子临轩，大鸿胪持节拜授玺绶，引上殿。赐青盖驾驷、鼓车、安车、驸马骑、玉具刀剑、什物，给綵布二千匹。赐单于阏氏以下金锦错杂具，軿车马二乘。遣行中郎将持节护送单于归南庭。诏太常、大鸿胪与诸国侍子于广阳城门外祖会，飨赐作乐，角抵百戏。顺帝幸胡桃宫临观之。」<br/><br/>　　做都夷〔一〕<br/><br/>　　朱酺，〔二〕明帝时为益州刺史，移书属郡，喻以圣德，白狼王等百馀国重译来庭，歌诗三章，酺献之。〔三〕御览卷五七０<br/><br/>　　远夷乐德歌诗曰：堤官愧搆，大汉是治。魏冒踰糟。与天合意。罔驿刘脾，吏译平端，旁莫支留。不从我来。徵衣随旅，闻风向化，知唐桑艾。所见奇异。邪毗〈糹甚〉〈糹甫〉，多赐缯布，推潭僕远。甘美酒食。拓拒苏便，昌乐肉飞。局后仍离。屈申悉备。偻让龙洞，蛮夷贫薄。莫支度由。无所报嗣。阳雒僧鳞，愿主长寿。莫稚角存。子孙昌炽。远夷慕德歌诗曰：偻让皮尼，蛮夷所处。且交陵悟。日入之部。绳动随旅，慕义向化。路旦拣雒。归日出主。圣德渡诺，圣德深恩。魏菌度洗。与人富厚。综邪流藩，冬多霜雪。做邪寻螺。夏多和雨。藐浔泸灕，寒温时适。菌补邪推。部人多有。辟危归险，涉危历险。莫受万柳。不远万里。术叠附德，去俗归德。仍路孳摸。心归慈母。远夷怀德歌诗曰：荒服之仪，荒服之外。犁籍怜怜。土地墝埆。阻苏邪犁，食肉衣皮。莫砀麤沐。不见盐穀。罔驿传微，吏译传风。是汉夜拒。大汉安乐。踪优路仁，携负归仁。雷折险龙。触冒险陕。伦狼藏幢，高山岐峻。扶路侧禄。缘崖磻石。息落服淫，木薄发家。理历髭雒。百宿到洛。捕茞菌毗，父子同赐。怀稿匹漏。怀抱匹帛。传室呼敕，传告种人。陵阳臣僕。长愿臣僕。〔四〕范晔后汉书卷八六西南夷做都夷传<br/><br/>　　〔一〕　「做都夷」，范晔后汉书卷八六有传。<br/><br/>　　〔二〕　「朱酺」，范晔后汉书西南夷做都夷传作「朱辅」。李贤注云：「东观记『辅』作『酺』，梁国宁陵人也。」<br/><br/>　　〔三〕　「酺献之」，聚珍本有朱酺传，辑录有此条文字。按范晔后汉书西南夷做都夷传云：「永平中，益州刺史梁国朱辅，好立功名，慷慨有大略。在州数岁，宣示汉德，威怀远夷。自汶山以西，前世所不至，正朔所未加。白狼、槃木、唐菆等百馀国，户百三十馀万，口六百万以上，举种奉贡，称为臣僕。辅上疏曰：『臣闻诗云：「彼徂者岐，有夷之行。」传曰：「岐道虽僻，而人不远。」诗人诵咏，以为符验。今白狼王唐菆等慕化归义，作诗三章。路经邛来大山零高坂，峭危峻险，百倍岐道。襁负老幼，若归慈母。远夷之语，辞意难正。草木异种，鸟兽殊类。有犍为郡掾田恭与之习狎，颇晓其言，臣辄令讯其风俗，译其辞语。今遣从事史李陵与恭护送诣阙，并上其乐诗。昔在圣帝，舞四夷之乐。今之所上，庶备其一。』帝嘉之，事下史官，录其歌焉。」则此条文字当入西南夷做都夷传。<br/><br/>　　〔四〕　「长愿臣僕」，此条玉海卷一五二亦引，字句微异。范晔后汉书西南夷做都夷传载，永平中，益州刺史朱辅上做都夷所作诗三章，范书载有全文。李贤于诗三章前注云：「东观记载其歌，并载夷人本语，并重译训诂为华言，今范史所载者是也。今录东观夷言，以为此注也。」可见东观汉记亦录有诗三章。这里所辑即据范书。范书所载诗三章，先记华言，下注夷语。从李贤注看来，东观汉记似乎先记夷语，再重译为华言。聚珍本即如此辑录，今从之。<br/><br/>　　西羌〔一〕<br/><br/>　　西羌祖爰剑为秦所奴隶，而亡藏岩穴中，见焚，有影象如虎，为蔽火，得不死。诸羌以为神，推以为豪。〔二〕御览卷三八八<br/><br/>　　护羌窦林奉使，〔三〕羌颠岸降，诣林，林欲以为功效，奏言大豪。后颠岸兄颠吾复诣林，林言其第一豪。问事状，林对前后两屈。林以诬罔诣狱。上不忍诛，免官。后凉州刺史奏林赃罪，复收繫羽林监，遂死狱中。〔四〕文选卷二０潘岳四言诗关中李善注<br/><br/>　　羌什长巩便。〔五〕文选卷五七潘岳马汧督诔李善注<br/><br/>　　金城、陇西卑湳、勒姐种羌反，出塞外。〔六〕文选卷二０潘岳四言诗关中李善注<br/><br/>　　〔一〕　「西羌」，范晔后汉书卷八七有传。又见汪文台辑司马彪续汉书卷五。据史通古今正史篇所载。侍中伏无忌与谏议大夫黄景撰东观汉记西羌传。<br/><br/>　　〔二〕　「推以为豪」，范晔后汉书西羌传云：「羌无弋爰剑者，秦厉公时为秦所拘执，以为奴隶。不知爰剑何戎之别也。后得亡归，而秦人追之急，藏于岩穴中得免。羌人云爰剑初藏穴中，秦人焚之，有景象如虎，为其蔽火，得以不死。……诸羌见爰剑被焚不死，怪其神，共畏事之，推以为豪。」<br/><br/>　　〔三〕　「护羌窦林奉使」，「护羌」二字下脱「校尉」二字。窦林曾为护羌校尉，详下注。<br/><br/>　　〔四〕　「遂死狱中」，范晔后汉书西羌传云：「永平元年，复遣中郎将窦固、捕虏将军马武等击滇吾于西邯，大破之。……以谒者窦林领护羌校尉，居狄道。林为诸羌所信，而滇岸遂诣林降。林为下吏所欺，谬奏上滇岸以为大豪，承制封为归义侯，加号汉大都尉。明年，滇吾复降，林复奏其第一豪，与俱诣阙献见。帝怪一种两豪，疑其非实，以事诘林。林辞窘，乃伪对曰：『滇岸即滇吾，陇西语不正耳。』帝穷验知之，怒而免林官。会凉州刺史又奏林臧罪，遂下狱死。」明帝纪永平二年载：「十二月，护羌校尉窦林下狱死。」<br/><br/>　　〔五〕　「羌什长巩便」，聚珍本注云：「此上下文阙。」<br/><br/>　　〔六〕　「金城、陇西卑湳、勒姐种羌反，出塞外」，范晔后汉书西羌传云：「肃宗建初元年，安夷县吏略妻卑湳种羌妇，吏为其夫所杀，安夷长宗延追之出塞，种人恐见诛，遂共杀延，而与勒姐及吾良二种相结为寇。陇西太守孙纯遣从事李睦及金城兵会和罗谷，与卑湳等战，斩首虏数百人。复拜故度辽将军吴棠领护羌校尉，居安夷。二年夏，迷吾遂与诸众聚兵，欲叛出塞。金城太守郝崇追之，战于荔谷，崇兵大败，崇轻骑得脱，死者二千馀人。」<br/><br/>　　西域〔一〕<br/><br/>　　永元十三年，〔二〕安息王献条支大雀。〔三〕此雀卵大如瓮。〔四〕类聚卷九二<br/><br/>　　〔一〕　「西域」，范晔后汉书卷八八有传。又见汪文台辑司马彪续汉书卷五。<br/><br/>　　〔二〕　「永元十三年」，姚本、聚珍本作「永元二年」，御览卷九二二引作「永祚元年」，皆有讹误。范晔后汉书西域传载安息国云：「和帝永元……十三年，安息王满屈复献师子及条支大鸟，时谓之安息雀。」和帝纪永元十三年载：「冬十一月，安息国遣使献师子及条支大雀。」<br/><br/>　　〔三〕　「条支大雀」，范晔后汉书和帝纪李贤注引郭义恭广志云：「大雀颈及身膺蹄都似橐驼，举头高八九尺，张翅丈馀，食大麦，其卵如瓮，即今之驼鸟也。」<br/><br/>　　〔四〕　「此雀卵大如瓮」，此句原无，姚本、聚珍本有，今据增补。不知二本从何书辑录。姚本此句下尚有「又永和九年，永昌献象牙、熊子」二句，亦不知辑自何书。顺帝永和只有六年，此云「九年」，误。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-252-3998.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-252-4000.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-252.html" action-type="chapterComment" class="comment"><i></i>东观汉记校注章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

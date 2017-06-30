@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孔丛子》正文_对魏王_孔鲋作品 - 维普阅读网</title>
+<meta name="keywords" content="孔丛子,孔丛子原文,孔丛子阅读,对魏王全文,孔鲋作品" />
+<meta name="description" content="孔丛子原文阅读,对魏王全文在线阅读,孔鲋作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-217-2404.html";
+var nextpage="novel-read-217-2406.html";
+var indexpage = "novel-chapter-217.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-217.html">孔丛子</a></strong>
+<strong><a href="novel-chapter-217.html">孔丛子目录</a></strong>
+<span>对魏王</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-217-2404.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>对魏王</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=孔鲋&amp;searchsubmit=yes"  target="_blank">孔鲋</a><span class="divide">|</span>发布时间：2014-08-12 20:26:34<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>魏王问人主所以为患．魏安厘王子高对曰、建大臣而不与谋嬖幸者言用则知士以疏自疑自疑上之疏巳也嬖臣以遇徼幸者．内则射合主心．外则挺主之非．此最人主之大患也．<br/>子高谓魏王曰、臣入魏国．见君之二计臣焉张叔谋有余．范威智不逮．然其功一也．王曰叔也有余．威也不逮．何同乎．答曰驽骥同辕．伯乐为之咨嗟．玉石相揉．和氏为之叹息．故贤愚共贯则能士匿谋．真伪相错则正士结舌．叔虽有余犹威不逮也．<br/><br/>魏王问何如可谓大臣、子高荅曰、大臣则必取众人之选．能犯颜谏争公正无私者．计陈事成主裁其赏事败臣执其咎主任之而无疑臣当之而弗避君总其美臣行其义．然则君不猜于臣．臣不隐于君．故动无过计．举无败事．是以臣主并各有得也．<br/><br/>信陵君问曰、古之善为国、至于无讼、其道何由．答曰由乎政善也．上下勤德而无私德无不化俗无不移．众之所誉．政之所是也．众之所毁．政之所非也．毁誉是非．与政相应所以无讼也．<br/><br/>齐王行车裂之刑、群臣诤之弗听、子高见于齐王、曰闻君行车裂之刑．无道之刑也．而君行之．臣窃以为下吏之过也．王曰寡人以民多犯法．为法之轻也．子高曰然．此诚君之盛意也．夫人含五常之性．有喜怒哀乐．喜怒哀乐无过其节．节过则毁于义．民多犯法．以法重无所措手足也．今天下悠悠士无定处有德则往．无德则去．欲规霸王之业．与众大国为难．而行酷刑以惧远近．国内之民将叛．四方之士不至．此乃亡国之道．君之下吏不具以闻徒恐逆主意以为忧．不虑不谏之危亡其所矜者小所丧者大．故曰下吏之过也．臣观之．又非徒不诤而巳也心知此事之为不可．将有非议在后．则因曰君忿意实然我谏诤必有龙逢比干之祸．是为虚自居于忠正之地．而闇推君主使同于桀纣也．且夫为人臣见主非而不诤．以陷主于危亡．罪之大者也人主疾臣之弼巳而恶之．资臣以箕子比干之忠．惑之大者也．齐王曰谨闻命．遂除车裂之法焉．<br/><br/>子高见齐王、齐王问谁可临淄宰、称管穆焉、王曰穆容貌陋、民不敬、答曰夫见敬在德．且臣所称．称其材也．君王闻晏子赵文子乎．晏子长不过三尺．面貌恶．齐国上下莫不宗焉．赵文子其身如不胜衣．其言如不出口．非但体陋．辞气又呐呐然．其相晋国．晋国以宁．诸侯敬服．皆有德故也．以穆躯形方之二子．犹悉贤之．昔臣常行临淄市．见屠商焉．身修八尺．须髯如戟．面正红白．市之男女未有敬之者．无德故也．王曰是所谓祖龙始者也．祖龙始乃屠商姓名诚如先生之言．于是乃以管穆为临淄宰．</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-217-2404.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-217-2406.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-217.html" action-type="chapterComment" class="comment"><i></i>孔丛子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

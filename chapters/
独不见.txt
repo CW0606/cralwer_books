@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《独不见》正文_独不见_沈佺期作品 - 维普阅读网</title>
+<meta name="keywords" content="独不见,独不见原文,独不见阅读,独不见全文,沈佺期作品" />
+<meta name="description" content="独不见原文阅读,独不见全文在线阅读,沈佺期作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-1183.html";
+var nextpage="novel-chapter-1183.html";
+var indexpage = "novel-chapter-1183.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1183.html">独不见</a></strong>
+<strong><a href="novel-chapter-1183.html">独不见目录</a></strong>
+<span>独不见</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-1183.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>独不见</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=沈佺期&amp;searchsubmit=yes"  target="_blank">沈佺期</a><span class="divide">|</span>发布时间：2015-02-10 14:55:38<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　卢家少妇郁金堂，海燕双栖玳瑁梁。<br/>　　九月寒砧催木叶，十年征戍忆辽阳。<br/>　　白狼河北音书断，丹凤城南秋夜长。<br/>　　谁谓含愁独不见，更教明月照流黄！<br/><br/>【注释】<br/>⑴独不见：乐府旧题，属《杂曲歌辞》。《乐府解题》：“独不见，伤思而不见也。”<br/>⑵卢家少妇：泛指少妇。郁金堂：以郁金香料涂抹的堂屋。堂，一作“香”。梁朝萧衍《河中之水歌》：“河中之水向东流，洛阳女儿名莫愁。……十五嫁为卢家妇，十六生儿字阿侯。卢家兰室桂为梁，中有郁金苏合香。”<br/>⑶海燕：又名越燕，燕的一种。因产于南方滨海地区（古百越之地），故名。玳瑁（dàimào旧读dàimèi）：海生龟类，甲呈黄褐色相间花纹，古人用为装饰品。<br/>⑷寒砧（zhēn）：指捣衣声。砧，捣衣用的垫石。古代妇女缝制衣服前，先要将衣料捣过。为赶制寒衣妇女每于秋夜捣衣，故古诗常以捣衣声寄思妇念远之情。木叶：树叶。<br/>⑸辽阳：辽河以北，泛指辽东地区。<br/>⑹白狼河：今辽宁省境内之大凌河。音：一作“军”。<br/>⑺丹凤城：此指长安。相传秦穆公女儿弄玉吹箫，引来凤凰，故称咸阳为丹凤城。后以凤城称京城。唐时长安宫廷在城北，住宅在城南。长安大明宫正南门为丹凤门（见《两京城坊考》卷一）。<br/>⑻谁为：即“为谁”。为，一作“谓”。<br/>⑼教（jiāo）：使。流黄：黄紫色相间的丝织品，此指帷帐，一说指衣裳。更教：一作“使妾”。照：一作“对”。<br/><br/>【译文】<br/>　　卢家年轻的主妇，居住在以郁金香浸洒和泥涂壁的华美的屋宇之内，海燕飞来，成对成双地栖息于华丽的屋梁之上。九月里，寒风过后，在急切的捣衣声中，树叶纷纷下落，丈夫远征辽阳已逾十载，令人思念。白狼河北的辽阳地区音信全部被阻断，幽居在长安城南的少妇感到秋日里的夜晚特别漫长。她哀叹：我到底是为哪一位思而不得见的人满含哀愁啊？为何还让那明亮的月光照在帏帐之上？<br/><br/>【赏析】<br/>　　这首七律，是借用了乐府古题“独不见”。郭茂倩《乐府诗集》解题云：“独不见，伤思而不得见也。”此诗的主人公是一位长安少妇，她所“思而不得见”的是征戍辽阳十年不归的丈夫。诗人以委婉缠绵的笔调，描述女主人公在寒砧处处、落叶萧萧的秋夜，身居华屋之中，心驰万里之外，辗转反侧，久不能寐的孤独愁苦情状。此诗对后来唐代律诗，尤其是边塞诗影响很大，历来评价甚高。姚鼐说它“高振唐音，远包古韵，此是神到之作，当取冠一朝矣。”<br/>　　“卢家少妇郁金堂，海燕双栖玳瑁梁。”卢家少妇，名莫愁，梁武帝萧衍诗中的人物，后来用作少妇的代称。郁金是一种香料，和泥涂壁能使室内芳香；玳瑁是一种海龟，龟甲极美观，可作装饰品。开头两句以重彩浓笔夸张地描绘女主人公闺房之美：四壁以郁金香和泥涂饰，顶梁也用玳瑁壳装点起来，无比芬芳，无比华丽。连海燕也飞到梁上来安栖了。“双栖”两字，暗用比兴。看到梁上海燕那相依相偎的柔情密意，这位“莫愁”女也许有所感触吧。此时，又听到窗外西风吹落叶的声音和频频传来的捣衣的砧杵之声。秋深了，天凉了，家家户户忙着准备御冬的寒衣，有征夫游子在外的人家，就更要格外加紧了。这进一步勾起少妇心中之愁。“寒砧催木叶”，造句十分奇警。分明是萧萧落叶催人捣衣而砧声不止，诗人却故意主宾倒置，以渲染砧声所引起的心理反响。事实上，正是寒砧声落叶声汇集起来在催动着闺中少妇的相思，促使她更觉内心的空虚寂寞，更觉不见所思的愁苦。夫婿远戍辽阳，一去就是十年，她的苦苦相忆，也已整整十年了。<br/>　　颈联出句的“白狼河北”正应上联的辽阳。主人公想：十年了，夫婿音讯断绝，他现在处境怎样？命运是吉是凶？几时才能归来？还有无归来之日？一切一切，都在茫茫未卜之中，叫人连怀念都没有一个准着落。因此，这位长安城南的思妇，在这秋夜空闺之中，心境就不单是孤独、寂寥，也不只是思念、盼望，而且在担心，在忧虑，在惴惴不安，愈思愈愁，愈想愈怕，以至于不敢想象了。上联的“忆”字，在这里有了更深一层的表现。<br/>　　寒砧声声，秋叶萧萧，叫卢家少妇无法入眠。更有那一轮恼人的明月，竟也来凑趣，透过窗纱把流黄帏帐照得明晃晃的炫人眼目，给人愁上添愁。前六句是诗人充满同情的描述，到这结尾两句则转为女主人公愁苦已极的独白，她不胜其愁而迁怒于明月了。诗句构思新巧，比之前人写望月怀远的意境大大开拓一步，从而增强了抒情色彩。<br/>　　这首诗，人物心情与环境气氛密切结合。“海燕双栖玳瑁梁”烘托“卢家少妇郁金堂”的孤独寂寞，寒砧木叶、城南秋夜，烘托“十年征戍忆辽阳”、“白狼河北音书断”的思念忧愁，尾联“含愁独不见”的情语借助“明月照流黄”的景物渲染，便显得余韵无穷。论手法，则有反面的映照（“海燕双栖”），有正面的衬托（“木叶”、“秋夜长”），多方面多角度地抒写了女主人公“思而不得见”的愁肠。诗虽取材于闺阁生活，语言也未脱尽齐梁以来的浮艳习气，却显得境界广远，气势飞动，读起来给人一种“顺流直下”（《诗薮·内编》卷五）之感。<br/><br/>【点评】<br/>胡应麟《诗薮·内编》卷五：卢家少妇体格丰神，良称独步，惜颔颇偏枯，结非本色。同乐府语也，同一人诗也。然起句千古骊珠，结语几成蛇足。<br/>方东树《昭昧詹言》：本以燕之双栖兴少妇独居，却以“郁金堂”、“玳瑁梁”等字攒成异彩，五色并驰，令人目眩，此得齐梁之秘而加神妙者。三四不过叙流年时景，而措语沉着重稳。五六句分写行者，居者，匀配完足，复以“白狼”、“丹凤”攒染设色。收拓并一步，正跌进一步。曲折圆转，如弹丸脱手，远包齐梁，高振唐音。<br/>胡震亨《唐音癸签》：沈诗篇题原名《独不见》，一结翻题取巧，六朝乐府变声，非律诗正格也。<br/>沈德潜《说诗晬语》卷上：云卿《独不见》一章，骨高，气高，色泽情韵俱高，视中唐“莺啼燕语报新年”诗，味薄语纤，床分上下。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-1183.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-1183.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1183.html" action-type="chapterComment" class="comment"><i></i>独不见章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

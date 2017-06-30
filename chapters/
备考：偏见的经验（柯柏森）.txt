@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《集外集拾遗》正文_备考：偏见的经验（柯柏森）_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="集外集拾遗,集外集拾遗原文,集外集拾遗阅读,备考：偏见的经验（柯柏森）全文,鲁迅作品" />
+<meta name="description" content="集外集拾遗原文阅读,备考：偏见的经验（柯柏森）全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-541-6990.html";
+var nextpage="novel-read-541-6992.html";
+var indexpage = "novel-chapter-541.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-541.html">集外集拾遗</a></strong>
+<strong><a href="novel-chapter-541.html">集外集拾遗目录</a></strong>
+<span>备考：偏见的经验（柯柏森）</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-541-6990.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>备考：偏见的经验（柯柏森）</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-30 19:53:48<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>我自读书以来，就很信“开卷有益”这句话是实在话，因为不论什么书，都有它的道理，有它的事实，看它总可以增广些智识，所以《京副》上发表“青年必读书”的征求时，我就发生“为什么要分青年必读的书”的疑问，到后来细思几次，才得一个“假定”的回答，就是说：青年时代，“血气未定，经验未深”，分别是非能力，还没有充足，随随便便买书来看，恐怕引导入于迷途；有许多青年最爱看情书，结果坠入情网的不知多少，现在把青年应该读的书选出来，岂不很好吗？ <br/><br/>　　因此，看见胡适之先生选出“青年必读书”后，每天都要先看“青年必读书”才看“时事新闻”，不料二月二十一日看到鲁迅先生选的，吓得我大跳。鲁迅先生说他“从来没有留心过，所以现在说不出”，这也难怪。但是，他附注中却说“要趁这机会，略说自己的经验，以供若干读者的参考”云云，他的经验怎样呢？他说：我看中国书时，总觉得就沉静下去，与实人生离开；读外国书时（但除了印度），往往就与人生接触，想做点事。 <br/><br/>　　中国书中虽有劝人入世的话，也多是僵尸的乐观，外国书即使是颓唐和厌世的，但却是活人的颓唐和厌世。我以为要少——或者竟不——看中国书，多看外国书。 <br/><br/>　　少看中国书，其结果不过不能作文而已，但现在的青年最要紧的是“行”，不是“言”，只要是活的，不能作文算什么大不了的事呢。 <br/><br/>　　啊！的确，他的经验真巧妙，“看中国书就沉静下去，与实人生离开；读外国书，就与人生接触，想做点事。中国书虽有劝人入世的话，也多是僵尸的乐观，外国书即使是颓唐和厌世的，但却是活人的颓唐和厌世。”这种经验，虽然钱能训要废中国文字不得专美于前，却是“万绿丛中一点红”的经验了。 <br/><br/>　　唉！是的！“看中国书就沉静下去，与实人生离开，读外国书，就与人生接触，想做点事”，所谓“人生”，究竟是什么的人生呢？“欧化”的人生哩？抑“美化”的人生呢？尝听说：卖国贼们，都是留学外国的博士硕士。大概鲁迅先生看了活人的颓唐和厌世的外国书，就与人生接触，想做点……事吗？ <br/><br/>　　哈哈！我知道了，鲁迅先生是看了达尔文罗素等外国书，即忘了梁启超胡适之等的中国书了。不然，为什么要说中国书是僵死的？假使中国书僵死的，为什么老子，孔子，孟子，荀子辈，尚有他的著作遗传到现在呢？ <br/><br/>　　喂！鲁迅先生！你的经验……你自己的经验，我真的百思不得其解，无以名之，名之曰：“偏见的经验”。十四，二，二十三。（自警官高等学校寄） <br/><br/><br/><br/>　　（１）本篇最初发表于一九二五年三月五日《京报副刊》。<br/>　　（２）“必读书”栏一九二五年一月间《京报副刊》为征求“青年必读书十部”印发了一种表格，分上下两栏，上栏是“青年必读书”，下栏是“附注”。参看《华盖集·青年必读书》玻场*清朝割台湾旅顺等地一八九四年，清政府在甲午战争中失败，次年与日本签订《马关条约》，将台湾割让给日本，一九四五年，抗日战争胜利后始归还我国。一八九七年，俄国侵占我国旅顺港，次年又强租旅顺、大连，日俄战争后，旅、大两地被日本侵占，一九四五年抗战胜利后归还我国。 <br/><br/>　　（４）达尔文（Ｃ．Ｄａｒｗｉｎ，１８０９—１８８２）英国生物学家，进化论的奠基者。严复翻译的赫胥黎的《天演论》于一八九八年由湖北沔阳卢氏木刻印行，首先在中国介绍了达尔文的生物进化学说。达尔文的《物种由来》最初由马君武译成中文，译名《物种原始》，一九二○年中华书局出版。 <br/><br/>　　（５）罗素（Ｂ．Ｒｕｓｓｅｌｌ，１８７２—１９７０）英国哲学家。一九二○年曾来我国讲学。著有《数学原理》、《哲学问题》等。<br/>　　（６）钱能训字干臣，浙江嘉善人。曾任北洋军阀政府内务总长，代理国务总理。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-541-6990.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-541-6992.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-541.html" action-type="chapterComment" class="comment"><i></i>集外集拾遗章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

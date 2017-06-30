@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《古诗十九首》正文_明月皎夜光_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="古诗十九首,古诗十九首原文,古诗十九首阅读,明月皎夜光全文,佚名作品" />
+<meta name="description" content="古诗十九首原文阅读,明月皎夜光全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-312-4920.html";
+var nextpage="novel-read-312-4922.html";
+var indexpage = "novel-chapter-312.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-312.html">古诗十九首</a></strong>
+<strong><a href="novel-chapter-312.html">古诗十九首目录</a></strong>
+<span>明月皎夜光</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-312-4920.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>明月皎夜光</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-09-02 21:18:07<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　明月皎夜光，促织鸣东壁⑴。<br/><br/>　　玉衡指孟冬⑵，众星何历历⑶。<br/><br/>　　白露沾野草，时节忽复易⑷。<br/><br/>　　秋蝉鸣树间，玄鸟逝安适⑸？<br/><br/>　　昔我同门友⑹，高举振六翮⑺。<br/><br/>　　不念携手好，弃我如遗迹⑻。<br/><br/>　　南箕北有斗⑼，牵牛不负轭⑽。<br/><br/>　　良无盘石固⑾，虚名复何益？<br/><br/>【注释】<br/>　　⑴促织：蟋蟀。　<br/>　　⑵玉衡：指北斗七星中的第五至七星。北斗七星形似酌酒的斗：第一星至第四星成勺形，称斗魁；第五星至第七星成一条直线，称斗柄。由于地球绕日公转，从地面上看去，斗星每月变一方位。古人根据斗星所指方位的变换来辨别节令的推移。孟冬：冬季的第一个月。这句是说由玉衡所指的方位，知道节令已到孟冬（夏历的七月）。　<br/>　　⑶历历：分明貌。一说，历历，行列貌。<br/>　　⑷易：变换。　<br/>　　⑸玄鸟：燕子。安适：往什么地方去？燕子是候鸟，春天北来，秋时南飞。这句是说天凉了，燕子又要飞往什么地方去了？　<br/>　　⑹同门友：同窗，同学。　<br/>　　⑺翮（hé合）：鸟的羽茎。据说善飞的鸟有六根健劲的羽茎。这句是以鸟的展翅高飞比喻同门友的飞黄腾达。　<br/>　　⑻“弃我”句是说，就象行人遗弃脚印一样抛弃了我。　<br/>　　⑼南箕：星名，形似簸箕。北斗：星名，形似斗（酌酒器）。　<br/>　　⑽牵牛：指牵牛星。轭：车辕前横木，牛拉车则负轭。“不负轭”是说不拉车。这二句是用南箕、北斗、牵牛等星宿的有虚名无实用，比喻朋友的有虚名无实用。　<br/>　　⑾盘石：同“磐石”，大石。<br/> <br/>【鉴赏】<br/>　　此诗之开篇“明月皎夜光，促织鸣东壁”，读者可以感觉到诗人此刻正浸染着一派月光。这是的皎洁的月色，蟋蟀的低吟，交织成一曲无比清切的夜之旋律。再看夜空，北斗横转，那由“玉衡”（北斗第五星）、“开阳”、“摇光”三星组成的斗柄（杓），正指向天象十二方位中的“孟冬，闪烁的星辰，更如镶嵌天幕的明珠，把夜空辉映得一片璀璨。一切似乎都很美好，包括那披着一身月光漫步的诗人。但是“此刻”究竟是什么时辰：“玉衡指孟冬”。据金克木先生解说，“孟冬”在这里指的不是初冬节令（因为下文明说还有“秋蝉”），而是指仲秋后半夜的某个时刻。仲秋的后半夜－－如此深沉的夜半，诗人却还在月下踽踽步，确实有些反常。倘若不是胸中有着缠绕不去的忧愁，搅得人心神不宁，谁也不会在这样的时刻久久不眠。明白了这一层，人们便知道，诗人此刻的心境非但并不“美好”，简直有些凄凉。由此体味上述四句，境界就立为改观——不仅那皎洁的月色，似乎变得幽冷了几分，就是那从“东璧”下传来的蟋蟀之鸣，听去也格外到哀切。从美好夜景中，抒写客中独步的忧伤，那“美好”也会变得“凄凉”的，这就是艺术上的反衬效果。<br/>　　诗人默默无语，只是在月光下徘徊。当他踏过草径的时候，忽然发现了什么：“白露沾野草。朦胧的草叶上，竟已沾满晶莹的露珠，那是秋气已深的征兆－－诗人似平直到此刻才感觉到，深秋已在不知不觉中到来。时光之流驶有多疾速呵！而从那枝叶婆婆的树影间，又有时断时续的寒蝉之流鸣。怪不得往日的燕子（玄鸟）都不见了，原来已是秋雁南归的时节。“秋蝉鸣树间，玄鸟逝安适？”意谓：这些燕子又将飞往哪里去呢？这就是诗人在月下所发出的怅然问叹。这问叹似乎只对“玄鸟”而发，实际上，它又是诗人那充满失意的怅然自问。从下文可知，诗人之游宦京华已几经寒暑。而今草露蝉鸣、又经一秋，它们在诗人心上所勾起的，该是流离客中的惆怅和凄怆。以上八句从描述秋夜之景入笔，抒写诗人月下徘徊的哀伤之情。适应着秋夜的清寂和诗人怅惘、失意之感，笔触运得轻轻的，色彩也一片渗白；没有大的音响，只有蟋蟀、秋蝉交鸣中偶发的、诗人那悠悠的叹息之声。当诗人一触及自身的伤痛时，情感便不兔愤愤起来。诗人久滞客中，在如此夜半焦灼难眠，那是因为他曾经希望过、期待过，而今这希望和期待全破灭了。“昔我同门友，高举振六翮”，在诗人求宦京华的蹉跎岁月中，和他携手而游的同门好友，先就举翅高飞、腾达青云了。这在当初，如一道灿烂的阳光，把诗人的前路照耀得五彩缓纷。他相信，“同门”好友将会从青云间垂下手来，提携自己一把；总有一天，他将能与友人一起比翼齐飞、邀游碧空。但事实却大大出乎诗人预料，昔日的同门之友，而今却成了相见不相认的陌路之人。他竟然在平步青云之际，把自己当作走路时的脚迹一样，留置身后而不屑一顾了。“不念携手好，弃我如遗迹”，这毫不经意中运用的妙喻，不仅入木三分地刻画了同门好友“一阔脸就变”的卑劣之态，同时又表露了诗人那不谙世态炎凉的惊讶、悲愤和不平。全诗的主旨至此方才揭开，那在月光下徘徊的诗人，原来就是这样一位被同门好友所欺骗、所抛弃的落魄者。在他的背后，月光印出了静静的身影;而在头顶上空，依然是明珠般闪烁的“历历”众星。当诗人带着被抛弃的余愤怒仰望星空时，偏偏又瞥见了那名为“箕星”、“斗星”和“牵牛”的星座。正如《小雅·大东》所说的：“维南有箕，不可以颠扬；维北有斗，不可以挹酒浆”、“皖彼牵牛，不以服箱（车）”。它们既不能颠扬、斟酌和拉车，还要取这样的名称，真是莫大的笑语。诗人顿时生出一股无名的怨气，指点着这些徒有虚名的星座大声责问起来：“南箕北有斗，牵牛不负扼！”突然指责起渺渺苍穹中的星星，好像太奇怪了，其实一点也不奇怪。诗人心中实在有太多的苦闷，这苦闷无处发泄，不拿这些徒其虚名的星星是问，已经无人客问。然而星星不语，只是狡黠地眨着眼，它们仿佛是在嘲笑：“你自己又怎么样呢？不也担着‘同门友’的虚名，终于被同门之友抛弃了吗？”——“良无盘石固，虚名复何益！”想到当年友人怎样信誓旦旦，声称着同门之谊的“坚如盘石”；而今“同门”虚名犹存，“盘石”友情不在。诗人终于仰天长叹，以悲愤的感慨收束了全诗。这叹息和感溉，包含了诗人那被炎凉世态所欺骗、所愚弄的无比伤痛和悲哀。<br/>　　抒写这样的伤痛和悲哀，本来只用数语即可说尽。此诗却偏从秋夜之景写起，初看似与词旨全无关涉，其实均与后文的情感抒发脉络相连：月光笼盖悲情，为全诗敷上了凄清的底色;促织鸣于东壁，给幽寂增添了几多哀音；“玉衡指孟”点明夜半不眠之时辰，“众星何历历”暗伏箕、斗、牵牛之奇思；然后从草露、蝉鸣中，引出时光流驶之感，触动同门相弃之痛;眼看到了愤极“直落”、难以控驭的地步，“妙在忽蒙上文‘众星历历’，借箕、斗、牵牛有名无实，凭空作比，然后拍合，便顿觉波澜跌宕”（张玉谷《古诗赏析》）。这就是《明月皎夜光》写景抒愤上的妙处，那感叹、愤激、伤痛和悲哀，始终交织在一片星光、月色、螺蜂、蝉鸣之中。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-312-4920.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-312-4922.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-312.html" action-type="chapterComment" class="comment"><i></i>古诗十九首章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

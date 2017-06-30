@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《金匮要略》正文_卷上 疟病脉证并治第四_张仲景作品 - 维普阅读网</title>
+<meta name="keywords" content="金匮要略,金匮要略原文,金匮要略阅读,卷上 疟病脉证并治第四全文,张仲景作品" />
+<meta name="description" content="金匮要略原文阅读,卷上 疟病脉证并治第四全文在线阅读,张仲景作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-253-4008.html";
+var nextpage="novel-read-253-4010.html";
+var indexpage = "novel-chapter-253.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-253.html">金匮要略</a></strong>
+<strong><a href="novel-chapter-253.html">金匮要略目录</a></strong>
+<span>卷上 疟病脉证并治第四</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-253-4008.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷上 疟病脉证并治第四</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=张仲景&amp;searchsubmit=yes"  target="_blank">张仲景</a><span class="divide">|</span>发布时间：2014-08-26 20:45:03<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>疟病脉证并治第四：（证二条 方六首）<br/><br/>　　师曰：疟脉自弦，弦数者多热，弦迟者多寒。弦小紧者下之差，弦迟者可温之，弦紧者可发汗、针灸也，浮大者可吐之，弦数者风发也，以饮食消息止之。<br/><br/>　　病疟，以月一日发，当以十五日愈，设不差，当月尽解。如其不差，当云何？师曰：此结为癥瘕，名曰疟母，急治之，宜鳖甲煎丸。<br/><br/>　　鳖甲煎丸方<br/><br/>　　鳖甲十二分（炙） 乌扇三分（烧） 黄芩三分 柴胡六分 鼠妇三分（熬）干姜三分 大黄三分 芍药五分 桂枝三分 葶苈一分（熬） 石韦三分（去毛） 厚朴三分 牡丹五分（去心） 瞿麦二分 紫葳三分 半夏一分 人参一分 蟅虫五分（熬） 阿胶三分（炙） 蜂巢四分（炙） 赤硝十二分 蟋螂六分（熬） 桃仁二分<br/><br/>　　右二十三昧，为末，取锻灶下灰一斗，清酒一斛五斗，浸灰，候酒尽一半，着鳖甲于中，煮令泛烂如胶漆，绞取汁，内诸药，煎为丸，如梧子大，空心服七丸，日三服。（《千金方》用鳖甲十二片，又有海藻三分，大戟一分，蟅虫五分，无鼠妇、赤硝二味，以鳖甲煎和诸药为丸）<br/><br/>　　师曰：阴气孤绝，阳气独发，则热而少气烦冤，手足热而欲呕，名曰瘅疟。若但热不寒者，邪气内藏于心，外舍分肉之间，令人消铄脱肉。<br/><br/>　　温疟者，其脉如平，身无寒但热，骨节疼烦，时呕，白虎加桂枝汤主之。白虎加桂枝汤方<br/><br/>　　知母六两 甘草二两（炙） 石膏一斤 粳米二合 桂（去皮）三两<br/><br/>　　右锉，每五钱，水一盏半，煎至八分，去滓，温服，汗出愈。<br/><br/>　　疟多寒者，名曰牡疟，蜀漆散主之。<br/><br/>　　蜀漆散方<br/><br/>　　蜀漆（烧去腥） 云母（烧二日夜） 龙骨等分<br/><br/>　　右三味，作为散，未发前以浆水服半钱。温疟加蜀漆半分，临发时服一钱匕。（一方云母作云实）<br/><br/>　　附《外台秘要》方<br/><br/>　　牡蛎汤 治牡疟。<br/><br/>　　牡蛎四两（熬） 麻黄（去节）四两 甘草二两 蜀漆三两<br/><br/>　　右四味，以水八升，先煮蜀漆、麻黄，去上沫，得六升内诸药，煮取三升，温眼一升，若吐，则勿更服。<br/><br/>　　柴胡去半夏加栝蒌汤 治疟病发渴者，亦治劳疟。<br/><br/>　　柴胡八两 人参三两 黄芩三两 甘草三两 栝蒌根四两 生姜二两大枣十二枚<br/><br/>　　右七昧，以水一斗二升，煮取六升，去滓，再煎取三升，温服一升，日二服。<br/><br/>　　柴胡姜桂汤 治疟寒多，微有热，或但寒不热。（服一剂如神）<br/><br/>　　柴胡半斤 桂枝三两（去皮） 干姜二两 黄芩三两 栝蒌根四两 牡蛎三两（熬） 甘草二两（炙）<br/><br/>　　右七味，以水一斗二升，煮取六升，去滓，再煎取三升，温服一升，日三服，初服微烦，复服汗出便愈。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-253-4008.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-253-4010.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-253.html" action-type="chapterComment" class="comment"><i></i>金匮要略章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

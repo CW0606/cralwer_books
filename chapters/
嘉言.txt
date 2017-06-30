@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孔丛子》正文_嘉言_孔鲋作品 - 维普阅读网</title>
+<meta name="keywords" content="孔丛子,孔丛子原文,孔丛子阅读,嘉言全文,孔鲋作品" />
+<meta name="description" content="孔丛子原文阅读,嘉言全文在线阅读,孔鲋作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-217.html";
+var nextpage="novel-read-217-2394.html";
+var indexpage = "novel-chapter-217.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-217.html">孔丛子</a></strong>
+<strong><a href="novel-chapter-217.html">孔丛子目录</a></strong>
+<span>嘉言</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-217.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>嘉言</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=孔鲋&amp;searchsubmit=yes"  target="_blank">孔鲋</a><span class="divide">|</span>发布时间：2014-08-12 20:23:36<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>夫子适周见苌宏．言终退．苌宏语刘文公曰．吾观孔仲尼有圣人之表．河目而隆颡．黄帝之形貌也．修肱而龟背．长九尺有六寸．成汤之容体也．然言称先王．躬履谦让．洽闻强记．博物不穷．抑亦圣人之兴者乎．刘子曰方今周室衰微而诸侯力争．孔丘布衣．圣将安施．苌宏曰尧舜文武之道．或弛而坠．礼乐崩丧亦正其统纪而巳矣．既而夫子闻之．曰吾岂敢哉．亦好礼乐者也．<br/>陈惠公大城．因起凌阳之台．未终．而坐法死者数十人．又执三监吏．夫子适陈．闻之．见陈侯．与俱登台而观焉．夫子曰美哉斯台．自古圣王之为城台．未有不戮一人而能致功若此者也．陈侯默而退．遂窃赦所执吏．既而见夫子．问曰昔周作灵台亦戮人乎．荅曰文王之兴．附者六州．六州之众．各以子道来．故区区之台．未及期日而巳成矣．何戮之有乎．夫以少少之众．能立大大之功．唯君尔．<br/><br/>子张曰、女子必渐乎二十而后嫁．何也．孔子曰十五许嫁而后从夫．是阳动而阴应．男唱而女随之义也．以为缋组紃织纴者．女子之所有事也．黼黻文章之义．妇人之所有大功也．必十五以往渐乎二十．然后可以通乎此事．通乎此事．然后乃能上以孝于舅姑．下以事夫养子也．<br/><br/>宰我使于齐而反．见夫子．曰梁邱据遇虺毒．三旬而后瘳．朝齐君．齐君会大夫众宾而庆焉．弟子与在宾列．大夫众宾并复献攻疗之方．弟子谓之曰夫所以献方将为病也．今梁邱巳疗矣．而诸夫子乃复献方．方将安施．意欲梁邱大夫复有虺害当用之乎．众坐默然无辞．弟子此言何如．夫子曰汝说非也．夫三折肱为良毉．梁邱子遇虺毒而获疗．犹有与之同疾者．必问所以巳之之方焉．众人为此故各言其方．欲售之以巳人之疾也．凡言其方者．称其良也．且以□据所以巳之之方优劣耳．<br/><br/>夫子适齐．晏子就其馆．既宴其私焉．曰齐其危矣．譬若载无辖之车以临千仞之谷．其不颠覆亦难冀也．子吾心也．子以齐为游息之馆．当或可救．子幸不吾隐也．夫子曰夫死病无可为毉．夫政令者、人君之衔辔．所以制下也．今齐君失之巳久矣．子虽欲挟其辀而扶其轮．良弗及也．抑犹可以终齐君及子之身．过此以往齐其田氏矣．<br/><br/>齐东郭亥欲攻田氏．执贽见夫子而访焉．夫子曰子为义也．丘不足与计事．揖子贡使荅之．子贡谓之曰今子士也．位卑而图大．位卑则人不附也．图大则人惮之．殆非子之任也．盍姑巳乎．夫以一缕之任．系千钧之重．上县之于无极之高．下垂之于不测之深．旁人皆哀其绝．而造之者不知其危．子之谓乎马方骇鼓而惊之．系方绝重而填之．马奔车覆．六辔不禁．系绝于高．坠入于深．其危必矣．东郭亥免战而跪．曰吾巳矣．愿子无言．既而夫子告子贡曰、东郭亥欲为义者也．子亦告之以难易则可矣．奚至惧之哉．宰我问君子尚辞乎．孔子曰、君子以理为尚．博而不要．非所察也．繁辞富说．非所听也．唯知者不失理．孔子曰吾于予取其言之近类也．于赐取其言之切事也．近类则足以喻之．切事则足以惧之． </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-217.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-217-2394.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-217.html" action-type="chapterComment" class="comment"><i></i>孔丛子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

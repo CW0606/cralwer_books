@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《文序跋集》正文_《苦闷的象征》_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="文序跋集,文序跋集原文,文序跋集阅读,《苦闷的象征》全文,鲁迅作品" />
+<meta name="description" content="文序跋集原文阅读,《苦闷的象征》全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-619-7779.html";
+var nextpage="novel-read-619-7781.html";
+var indexpage = "novel-chapter-619.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-619.html">文序跋集</a></strong>
+<strong><a href="novel-chapter-619.html">文序跋集目录</a></strong>
+<span>《苦闷的象征》</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-619-7779.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>《苦闷的象征》</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-13 21:41:58<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>引言（2）<br/><br/>　　去年日本的大地震（3），损失自然是很大的，而厨川博士的遭难也是其一。<br/>　　厨川博士名辰夫，号白村。我不大明白他的生平，也没有见过有系统的传记。但就零星的文字里掇拾起来，知道他以大阪府立第一中学出身，毕业于东京帝国大学，得文学士学位；此后分住熊本和东京者三年，终于定居京都，为第三高等学校教授。大约因为重病之故罢，曾经割去一足，然而尚能游历美国，赴朝鲜；平居则专心学问，所著作很不少。据说他的性情是极热烈的，尝以为“若药弗瞑眩厥疾弗瘳”（4），所以对于本国的缺失，特多痛切的攻难。论文多收在《小泉先生及其他》、《出了象牙之塔》及殁后集印的《走向十字街头》中。此外，就我所知道的而言，又有《北美印象记》，《近代文学十讲》，《文艺思潮论》，《近代恋爱观》，《英诗选释》等。<br/>　　然而这些不过是他所蕴蓄的一小部分，其余的可是和他的生命一起失掉了。<br/>　　这《苦闷的象征》也是殁后才印行的遗稿，虽然还非定本，而大体却已完具了。第一分《创作论》是本据，第二分《鉴赏论》其实即是论批评，和后两分都不过从《创作论》引申出来的必然的系论。至于主旨，也极分明，用作者自己的话来说，就是“生命力受了压抑而生的苦闷懊恼乃是文艺的根柢，而其表现法乃是广义的象征主义”。但是“所谓象征主义者，决非单是前世纪末法兰西诗坛的一派所曾经标榜的主义，凡有一切文艺，古往今来，是无不在这样的意义上，用着象征主义的表现法的”。（《创作论》第四章及第六章）作者据伯格森（5）一流的哲学，以进行不息的生命力为人类生活的根本，又从弗罗特（6）一流的科学，寻出生命力的根柢来，即用以解释文艺，——尤其是文学。然与旧说又小有不同，伯格森以未来为不可测，作者则以诗人为先知，弗罗特归生命力的根柢于性欲，作者则云即其力的突进和跳跃。这在目下同类的群书中，殆可以说，既异于科学家似的专断和哲学家似的玄虚，而且也并无一般文学论者的繁碎。作者自己就很有独创力的，于是此书也就成为一种创作，而对于文艺，即多有独到的见地和深切的会心。<br/>　　非有天马行空（7）似的大精神即无大艺术的产生。但中国现在的精神又何其萎靡锢蔽呢？这译文虽然拙涩，幸而实质本好，倘读者能够坚忍地反复过两三回，当可以看见许多很有意义的处所罢：这是我所以冒昧开译的原因，——自然也是太过分的奢望。<br/>　　文句大概是直译的，也极愿意一并保存原文的口吻。但我于国语文法是外行，想必很有不合轨范的句子在里面。其中尤须声明的，是几处不用“的”字，而特用“底”字的缘故。即凡形容词与名词相连成一名词者，其间用“底”字，例如　Social　being　为社会底存在物，Psychische　Trauma　为精神底伤害等；又，形容词之由别种品词转来，语尾有　－tive，－tic　之类者，于下也用“底”字，例如　Specula^tive，romantic，就写为思索底，罗曼底。<br/>　　在这里我还应该声谢朋友们的非常的帮助，尤其是许季黻（8）君之于英文；常维钧（9）君之于法文，他还从原文译出一篇《项链》（10）给我附在卷后，以便读者的参看；陶璇卿（11）君又特地为作一幅图画，使这书被了凄艳的新装。<br/>　　一九二四年十一月二十二日之夜鲁迅在北京记。<br/><br/>==========================================================================<br/><br/>　　 　《苦闷的象征》　文艺论文集，日本文艺批评家厨川白村著。其第一、第二两部分译文曾陆续发表于一九二四年十月一日至三十一日《晨报副镌》。一九二五年三月出版单行本，为《未名丛刊》之一，由北京大学新潮社代售，后改由北新书局出版。<br/>　　厨川白村（1880—1923），日本文艺理论家。曾留学美国，回国后任大学教授。著有《近代文学十讲》、《出了象牙之塔》、《文艺思潮论》等文艺论著多种，主要介绍十九世纪末、二十世纪初的欧美文学和文艺思潮。<br/>　　（2）　本篇最初印入《苦闷的象征》卷首，未在其他报刊发表。<br/>　　（3）　大地震　指一九二三年九月发生于日本关东的大地震。<br/>　　（4）　“若药弗瞑眩厥疾弗瘳”　语见《书经·说命（上篇）》，意思是如果服药后不至头脑昏晕，重病也就不能治愈。<br/>　　（5）　伯格森（H．Bergson，1859—1941）　法国唯心主义哲学家，神秘主义者。著有《时间与自由意志》、《物质与记忆》、《创造进化论》等。<br/>　　（6）　弗罗特（S．Freud，1856—1939）　通译弗洛伊德，奥地利精神病学家，精神分析学说的创立者。这种学说认为文学、艺术、哲学、宗教等一切精神现象，都是人们因受压抑而潜伏在下意识里的某种“生命力”（Libido），特别是性欲的潜力所产生的。著有《精神分析论》、《关于歇斯底里症》等。<br/>　　（7）　天马行空　语见元刘廷振《萨天锡诗集序》：“其所以神化而超出于众表者，殆犹天马行空而步骤不凡。”比喻才思奔放，自由驰骋。<br/>　　（8）　许季黻（1882—1948）　即许寿裳，浙江绍兴人，教育家。<br/>　　一九○二年至一九○八年留学日本，归国后先后任浙江两级师范学堂教务长、北京女子高等师范学校校长、中山大学教授。抗日战争胜利后在台湾大学任教，一九四八年二月被国民党反动派暗杀。著有《亡友鲁迅印象记》、《我所认识的鲁迅》等。<br/>　　（9）　常维钧　名惠，字维钧，河北宛平（今北京丰台）人。北京大学法文系毕业，曾任北大《歌谣》周刊编辑。<br/>　　（10）　《项链》　短篇小说，法国小说家莫泊桑作。<br/>　　（11）　陶璇卿（1893—1929）　即陶元庆，浙江绍兴人，画家。<br/>　　曾任浙江台州第六中学及上海立达学园教员。他曾为鲁迅早期的著译绘制封面画多幅。<br/><br/><br/>译《苦闷的象征》后三日序<br/><br/>　　这书的著者厨川白村氏，在日本大地震时不幸被难了，这是从他镰仓别邸的废墟中掘出来的一包未定稿。因为是未定稿，所以编者——山本修二（2）氏——也深虑公表出来，或者不是著者的本望。但终于付印了，本来没有书名，由编者定名为《苦闷的象征》。其实是文学论。<br/>　　这共分四部：第一创作论，第二鉴赏论，第三关于文艺的根本问题的考察，第四文学的起源。其主旨，著者自己在第一部第四章中说得很分明：生命力受压抑而生的苦闷懊恼乃是文艺的根柢，而其表现法乃是广义的象征主义。<br/>　　因为这于我有翻译的必要，我便于前天开手了，本以为易，译起来却也难。但我仍只得译下去，并且陆续发表；又因为别一必要，此后怕于引例之类要略有省略的地方。<br/>　　省略了的例，将来倘有再印的机会，立誓一定添进去，使他成一完书。至于译文之坏，则无法可想，拚着挨骂而已。<br/>　　一九二四年九月二十六日　鲁迅。<br/><br/>==========================================================================<br/><br/>　　 　本篇最初发表于一九二四年十月一日《晨报副镌》，后未印入单行本。<br/>　　（2）　山本修二（1894—1976）　日本戏剧理论家。京都帝国大学毕业，曾任京都大学教授。著有《英美现代剧的动向》、《演剧与文化》等。<br/><br/><br/>《自己发见的欢喜》译者附记<br/><br/>　　波特莱尔（2）的散文诗，在原书上本有日文译；但我用　Max　Bruno（3）德文译一比较，却颇有几处不同。现在姑且参酌两本，译成中文。倘有那一位据原文给我痛加订正的，是极希望，极感激的事。否则，我将来还想去寻一个懂法文的朋友来修改他；但现在暂且这样的敷衍着。<br/>　　十月一日，译者附记。<br/><br/>==========================================================================<br/><br/>　　 　本篇连同《自己发见的欢喜》（原书第二部分之第二节）的译文，最初发表于一九二四年十月二十六日《晨报副镌》，后未印入单行本。<br/>　　（2）　波特莱尔（C．Baudelaire，1821—1867）　法国颓废派诗人。著有诗集《恶之华》等。这里说的“散文诗”，指他的一首题为《窗户》的小诗。<br/>　　（3）　Max　Bruno　麦克思·布鲁诺。<br/><br/><br/>《有限中的无限》译者附记<br/><br/>　　法文我一字不识，所以对于　Van　Lerberghe（2）的歌无可奈何。现承常维钧君给我译出，实在可感；然而改译波特来尔的散文诗的担子我也就想送上去了。想世间肯帮别人的忙的诸公闻之，当亦同声一叹耳。十月十七日，译者附记。<br/><br/>==========================================================================<br/><br/>　　 　本篇连同《有限中的无限》（原书第二部分之第四节）的译文，最初发表于一九二四年十月二十八日《晨报副镌》，后未印入单行本。<br/>　　（2）　Van　Lerberghe　望·莱培格（1861—1907），比利时诗人、戏剧家。著有抒情诗集《夏娃之歌》、讽刺喜剧《潘》等。这里说的“歌”，即指《夏娃之歌》。<br/><br/><br/>《文艺鉴赏的四阶段》译者附记<br/><br/>　　先前我想省略的，是这一节中的几处，现在却仍然完全译出，所以序文（2）上说过的“别一必要”，并未实行，因为译到这里时，那必要已经不成为必要了。十月四日，译者附记。<br/><br/>==========================================================================<br/><br/>　　 　本篇连同《文艺鉴赏的四阶段》（原书第二部分之第五节）的译文，最初发表于一九二四年十月三十日《晨报副镌》，后未印入单行本。<br/>　　（2）　序文　指《译〈苦闷的象征〉后三日序》。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-619-7779.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-619-7781.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-619.html" action-type="chapterComment" class="comment"><i></i>文序跋集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

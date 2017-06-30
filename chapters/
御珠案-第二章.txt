@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《大唐狄公案》正文_御珠案-第二章_高罗佩作品 - 维普阅读网</title>
+<meta name="keywords" content="大唐狄公案,大唐狄公案原文,大唐狄公案阅读,御珠案-第二章全文,高罗佩作品" />
+<meta name="description" content="大唐狄公案原文阅读,御珠案-第二章全文在线阅读,高罗佩作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-798-8876.html";
+var nextpage="novel-read-798-8878.html";
+var indexpage = "novel-chapter-798.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-798.html">大唐狄公案</a></strong>
+<strong><a href="novel-chapter-798.html">大唐狄公案目录</a></strong>
+<span>御珠案-第二章</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-798-8876.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>御珠案-第二章</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-18.html" target="blank">古典小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=高罗佩&amp;searchsubmit=yes"  target="_blank">高罗佩</a><span class="divide">|</span>发布时间：2014-11-01 22:01:35<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　狄公和他的内眷正坐在官船尾部高高的敞轩里打麻雀牌。冥色渐浓，手上的牌面已经不易辨认了。他们的官船泊在运河里离其它船只稍远的地方，运河上下船舫鸦轧，首尾相接。<br/><br/>　　今天正是五月初五——一年一度的龙船节。午后日头转昃，濮阳城的百姓犹如流水般涌出了南门，熙熙攘攘挤拥在运河岸边的彩台下——龙船赛的终点。彩台上披红垂绿，旗幡猎猎。<br/><br/>　　狄公是这里的刺史，他将给夺魁的赛船发放奖礼。刺史来此也不过是凑凑这典仪的趣。但狄公对这节日倒是十分的热心，他在日落前一个时辰就离了城，带了内眷扈从，坐了三顶大轿赶到他的官船里。官船停泊在彩台对面，彩台下早已人山人海，万头攒簇。狄公在船里草草进了晚膳，用了点甜羹。晚膳后，他们便坐下来玩牌，等着月亮出来，赛船开始。<br/><br/>　　薄暮时分，江风微寒。歌声、笑声从远近水面飘来。一应船上的灯彩都点起来了。宁静而幽暗的水面上顿时倒映出一派绚丽摇目的光彩。这景致真仿佛是仙境一般。然而牌桌上的四个人都专心致志地打着他们的牌。玩麻雀牌是狄公家的癖好，他们玩起牌来也煞是认真，又还有许多奥妙的法门和复杂的讲究。这时，牌局正临胜负的关键。<br/><br/>　　小妾出了一枚牌，一面回头吩咐茶炉前蹲着看火的两个丫环道：“将我们的彩灯也点起来吧，恁的暮黑，牌儿上的花都看不清了。”<br/><br/>　　狄公正思量着桌上这牌局，忽抬头见老管家走进敞轩，不由得恼了火：“又是什么事？莫不是那个蹊跷的客人又来了不成？”<br/><br/>　　半个时辰前，狄公和他的妻妾们正靠在栏杆边观赏河上景致时，曾有一个陌生人踅上了船。管家刚待要通报，那人打住了脚步想了一想，又下船走了，道是他不想烦扰狄老爷了。<br/><br/>　　“老爷，这番却是卞相公和柯相公叩求拜见。”眉须皤白的老管家恭敬地禀报。<br/><br/>　　“传他们进来。”狄公叹了一口气。<br/><br/>　　卞嘉和柯元良是负责筹备这次龙船赛的。闲常里狄公坐衙升厅，问理公事，很少与他俩有什么来往。卞嘉是位名医，开着一家大生药铺子，柯元良是濮阳城有名的古董宝玩商。<br/><br/>　　“他们坐不长久。”狄公笑着对三位妻妾说。<br/><br/>　　正夫人噘嘴道：“这个不妨事，不过你不许偷偷将牌换了。”<br/><br/>　　三人一齐将自己的牌朝下放倒，起身走避到屏风后去了。狄公乃站起向等候在敞轩外的客人点头示意。<br/><br/>　　“两位相公进来请坐。”狄公和蔼地说：“你们许是来禀报龙船赛的事吧，想来诸事都预备就绪了？”<br/><br/>　　两位古板正经的乡绅穿着素绸的长褂袍，头上戴着黑纱便帽。<br/><br/>　　“正是，老爷。”卞嘉答道。他声音干涩却善于辞令。“柯先生和我刚离开白玉桥，通共九条船都在起发点编排定妥。”<br/><br/>　　“桨手都不错吧？”狄公问道。一边回头提醒端茶上桌来的丫环，“小心把牌撒弄乱了！”说着赶紧也把自己的牌面朝下放倒。<br/><br/>　　卞嘉答道：“每条船上的十二名桨手，不消几日都募全了。二号船上的桨手全是运河船夫，他们赔了誓今番非要赢了城里人不可，争夺之剧烈自不消说。柯先生和我安排他们在白玉桥镇的酒店里尽情地饱吃了一顿，此时他们正心急着上场哩。”<br/><br/>　　“卞大夫，你的九号船且是轻快，我的那条敢情是输，究竟是船身太沉。”柯元良噘了噘嘴说道。<br/><br/>　　狄公道：“柯先生，听说你的船是严格按着我们祖先传下的古老样式打制的，只这一层就不同一般。”<br/><br/>　　柯元良的脸上浮起一丝笑容。他相貌端然，骨格奇拔，风度翩翩，举止优雅。<br/><br/>　　听了狄公这一句奖美的话，慌忙欠身答道：“狄老爷乃是知音了，我断不敢忘了我们祖先的旧制。信而好古，吾道不孤啊！”<br/><br/>　　柯元良累世乡宦，诗书传家，他一生只读圣贤书，又是骨董古物的收藏家。狄公也曾几番想亲眼看看柯元良搜集的古人字画。如今听了他这番话，心中赞许，不禁深有感慨地说：“听柯先生之言，端的快慰。古往今来，普天之下，但凡有江河水渎之处就有庆贺这龙船节的风俗。海内的百姓劳累终年亦只有在这一日里可尽情取乐一番。”<br/><br/>　　“本州百姓都道是赛龙船可使河神娘娘开个颜儿，河神娘娘一开颜那年头便风调雨顺，河塘鱼满，”卞大夫道。<br/><br/>　　柯元良皱了皱眉，看了卞嘉一眼，说道：“往昔，这赛龙船行动就着了魔道。<br/><br/>　　赛船之后，用一个活人供祭，照例在河神娘娘庙里杀一个美貌的后生，披红挂绿，唤作是‘白娘娘的新官人’。那贡了牺牲的人家竟还认作是难得的风光。”<br/><br/>　　“幸而国初定鼎就废止了这悖戾人情的淫祭。”狄公道。<br/><br/>　　卞嘉忙道：“然而白娘娘的阴魂却还不曾消歇。此地百姓至今还供奉着她的神像，河神庙里终年香火不断。我记起四年前，赛船时翻了一条船，有个人淹死了，闹得这一州百姓纷纷扬扬都称是吉祥兆头，道是该年敢情五谷满囤，人畜兴旺。”<br/><br/>　　柯元良不安地看了看卞大夫，他放下茶盅站起来说：“狄老爷，告辞了。我们此刻还要到彩台上去看看奖礼预备齐妥了没有。”<br/><br/>　　卞大夫也只好跟着站了起来，他们拜辞了狄公出敞轩匆匆下船去了。<br/><br/>　　三位夫人紧接儿从屏风后转将出来，又坐起了牌局。小妾急急地嚷道；“都剩几枚牌了？正是煞末一搏了！”（狄仁杰注：这位小妾是我的同乡——苏州人，煞末就是最后的意思）<br/><br/>　　丫环送上新沏的茶，四个人又专心致志地打起了牌。狄公缓缓地捋着胡须，算计着招式。他的牌势已“三线归元”，只等“三筒”或“白板”任何一枚。“三筒”<br/><br/>　　已全出齐了，还有一枚“白板”在外，若是谁将那枚“白板”打出来，他就赢了。<br/><br/>　　狄公瞅着他的妻妾们兴奋而发红的脸颊，寻思着那枚牌究竟在谁手里。<br/><br/>　　突然，近处一声巨大的花炮轰击，接着是一串儿爆竹声，隐隐有萧鼓乐动。<br/><br/>　　“出牌啊！”狄公对着他上家的大妾不耐烦地催道。“已放焰火了！”<br/><br/>　　大妾犹豫了一下，拍了拍她晶光油亮的头发，然后往桌上打出了一枚“四索”。<br/><br/>　　“我赢了！我赢了！”小妾兴奋地叫着摊下了牌。——她只等着这枚“四索”。<br/><br/>　　狄公失望地问道：“你们谁把那‘白板’藏住了，我多时间只等候着这枚倒霉的牌。”<br/><br/>　　他们把牌放倒，谁都没有“白板”，剩下的牌里亦没有。<br/><br/>　　狄公皱着眉头说道：“这可是作怪了，桌上只有一枚，我这里一对，另有一枚‘白板’端的生翅飞走了不成？”<br/><br/>　　“莫不是掉到了地上？”正夫人说道。<br/><br/>　　他们一齐朝桌底下看，又抖抖衣裙，都没有。大妾说：“会不会是丫头忘了放进匣子里？”<br/><br/>　　“岂有此理！”狄公气恼地说。“匣里倒牌出来时我通数了一遍，每次倒牌我依例都要数过一遍。”<br/><br/>　　“嘘——”的一声，然后又是一阵震耳的巨响，运河被焰火落下的密雨一般的彩星照亮了。<br/><br/>　　“寻什么‘白板’！这红绿花伞儿一天光星，恁美的景致都不看了？”正夫人说。<br/><br/>　　他们急忙站起来，都走到了船栏边。焰火正从四面升起，爆竹声连响成一片，人群中爆发出了高声喝彩，一弯惨淡的银月在天空挂出。此时竞赛的龙船已驰出了白玉桥，观赛的人们纷纷地议论着他们下的赌注。<br/><br/>　　“我们不妨也来押个宝吧！”狄公乘兴说道。“今夜就是那穷愁小民也都要赌上几个铜钱。”<br/><br/>　　小妾拍手赞同：“老爷主张的是，我押三号船五十铜钱。这两天我手气正旺。”<br/><br/>　　“我押五十在卞大夫船上。”正夫人也发了兴。<br/><br/>　　“我押五十在柯先生的船上，我信先祖旧风。”狄公道。<br/><br/>　　忽然，他们看到两岸船上的人都站了起来，伸长了脖颈注视着运河转弯处，赛船就要作最后的冲刺了。狄公和他的妻妾又靠到栏杆边，紧张期待的气氛也感染了他们。<br/><br/>　　两叶扁舟从岸边驰出，在彩台前的运河中分开扎下了锚，船上的仲事官展开了一面大红旗。<br/><br/>　　远处鼓声隐隐，船虽是尚未见到，但可知是逼近了河弯。<br/><br/>　　人群乱糟糟呼喊起来，九号船已转过河弯。狭长的船身内十二名桨手，两两并排，应着船中央的大铜鼓的节奏拼命地划着。一条大汉宽胸阔肩，袒露着上身，扬着两个鼓捶疯狂地擂着大铜鼓。舵手则把住长长的尾舵，向桨手们大声吼叫。刻画着龙头的船首扬头翘起，河里白浪飞溅，岸头吼声震天。<br/><br/>　　“是卞先生的九号船，我赢了！”正夫人禁不住喊了起来。<br/><br/>　　九号船的龙尾巴后出现了第二条船的龙头，那龙头张大着嘴正仿佛要咬住前面的龙尾巴。<br/><br/>　　狄公道：“那是二号，运河船夫的二号，他们正鼓劲在追赶呢！”<br/><br/>　　二号船的司鼓是个五短身材的精焊小子，他发狂一般擂着鼓，撕裂着嗓子不住地吼喊。二号渐渐逼近了九号，它的龙头已咬住了九号的龙尾。人群震耳欲聋的呼喝声将鼓声都淹没了。<br/><br/>　　又有四条船在河弯上出现，但谁也没去理会。所有的眼睛都盯住了九号和二号。<br/><br/>　　二号船速飞快，更逼近了九号，狄公能看清九号船上的司鼓脸上的狂笑。此刻他们离终点只有十来丈，仲事官垂下了大红旗，指示着终点线。<br/><br/>　　突然，九号船的大个子司鼓动作停了，右手的鼓捶僵在空中，像是他仰看着这支鼓捶惊呆了，转眼间便见他扑倒在大铜鼓上。桨手们眼望着他一时都发了愣，几支桨搅碰在一处，船身略微一倾慢了下来。九号和二号同时从终点的大红旗下面穿过，但九号落下了半只船的距离。<br/><br/>　　“可怜的小子，才要得手，竟是误了，早不该灌得那么多。”狄公叹了一口气。<br/><br/>　　两岸人群呼声雷动，群情激昂，亦多有惊异惋惜的。<br/><br/>　　当九号和二号浮到彩台边时，其余的七条船也过了终点线，每条赛船都受到了激动的人群热烈喝采，一派鼓乐喧动起来，焰火重新从四周升起。<br/><br/>　　狄公看到一只小船朝他的官船划来，他对妻妾们说：“敢情是来接我去发送奖礼了，老管家伺候你们先行回府，少顷我了却此事，随后便回。”<br/><br/>　　三位妻妾转身拜送，狄公下了官船。卞嘉和柯元良早在搁桥边上等候着他。狄公下到了那条小船，拱手对卞嘉说：“卞先生，这番输得却是可惜了，想是那司鼓病得不重吧？”<br/><br/>　　“我这就去看看，老爷。他是条雄壮的好汉，许是困乏了，松动了脚力，不消一刻便可恢复的，老爷不必挂虑。”卞嘉说道。<br/><br/>　　柯元良站一旁没吭一声．他心神不安地捋着胡须，双眉紧锁着。<br/><br/>　　他们上了岸，衙官带了六名衙卒向狄公致礼。卞嘉和柯元良将狄公引上彩台的悬梯。狄公一登上彩台，他的中实的的属僚老参军洪亮便将他拽到竹漆屏风后的内室，替他换上了一套深绿色锦缎官袍，系了玉带，戴上了乌纱帽。<br/><br/>　　“衙里都没什么事吧？”狄公问道。<br/><br/>　　洪参军点了点头，说：“掾吏、衙役赶早放了班，回家胡乱整理了酒饭都赶来这里看龙船赛了。”<br/><br/>　　“你且先去看看九号船的司鼓是什么回事，才要到终点，竟败倒了下来。”<br/><br/>　　狄公装束停当出来到彩台前面，彩台下挤满了赶热闹的人群。衙卒让龙船的桨手们排列成行，引舵手走上彩台。狄公好言嘉勉了几句，发放了奖礼——红纸包里一块印糕和几文散钱，给输了的船二号船则是大红缎檀香盒，盒内二十两足色纹银。<br/><br/>　　末了，狄公祝一州百姓都交鸿运，发财致富。一时人群中大声鼓掌，喝彩不已。<br/><br/>　　致辞毕，狄公踱步进行漆屏风后的内室，洪亮面色阴郁地向他禀报：“老爷，那司鼓死了！仵作道是被人用毒药毒死的。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-798-8876.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-798-8878.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-798.html" action-type="chapterComment" class="comment"><i></i>大唐狄公案章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

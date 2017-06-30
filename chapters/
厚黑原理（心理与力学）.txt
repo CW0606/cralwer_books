@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《厚黑学》正文_厚黑原理（心理与力学）_李宗吾作品 - 维普阅读网</title>
+<meta name="keywords" content="厚黑学,厚黑学原文,厚黑学阅读,厚黑原理（心理与力学）全文,李宗吾作品" />
+<meta name="description" content="厚黑学原文阅读,厚黑原理（心理与力学）全文在线阅读,李宗吾作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-519-6408.html";
+var nextpage="novel-read-519-6410.html";
+var indexpage = "novel-chapter-519.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-519.html">厚黑学</a></strong>
+<strong><a href="novel-chapter-519.html">厚黑学目录</a></strong>
+<span>厚黑原理（心理与力学）</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-519-6408.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>厚黑原理（心理与力学）</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=李宗吾&amp;searchsubmit=yes"  target="_blank">李宗吾</a><span class="divide">|</span>发布时间：2014-09-24 20:26:36<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>自序一<br/><br/><br/>　　民国元年，我在成都《公论日报》上发表一文，题曰《厚黑学》，谓：古今成功之英雄，无一非面厚心黑者。这本是一种游戏文字，不料自此以后，厚黑学三字，遂传播四川，成一普通名词。我自己也莫名其妙，心想：此等说法，能受一般人欢迎，一定与心理学有关系，继续研究下去，始知厚黑学是渊源于性*恶说，在学理上是有根据的，然私心终有所疑。遍寻中外心理学诸书读之，均不足解我之疑，乃将古今人说法尽行扫去，另用物理学的规律来研究心理学觉得人心之变化，处处是跟着力学规律走的。从古人事迹上、今日政治上、日用琐事上、自己心坎上、理化数学上、中国古书上、西洋学说上、四面八方，印证起来，处处可通，乃创一臆说：“心理依力学规律而变化。”民国九年，写一文曰《心理与力学》，藏之箧中，未敢发表，十六年方刊入拙著《宗吾臆谈》内。兹特重加整理，扩大为一单行本。<br/><br/><br/>　　我这《心理与力学》一书，开始于民国九年，今为民国二十七年，历时十八年，而此书渊源于厚黑学。我研究厚黑学，始于满清末年，可说此书之成，经过30年之久。记得唐朝贾岛做了两句诗，“独行潭底影，数息树边身。”自己批道：“二句三年得，一吟双泪流。”我今日发表此书，真有他那种感想。<br/><br/><br/>　　我的思想，好比一株树；厚黑学是思想之出发点，等于树根；因厚黑学而生出一条臆说：“心理依力学规律而变化”，等于树身；其他所写《社会问题之商榷》、《考试制度之商榷》、《中国学术之趋势》，与夫最近所写的《制宪与抗日》等文，都是以“心理依力学规律而变化”这条臆说为根据，等于树上生出的枝叶花果。故我所写，虽种种不同，实是一贯。<br/><br/><br/>　　去岁遇川大教授福建江超西先生，是专门研究物理的，并且喜欢研究易学，是博通中外的学者。我把稿子全部拿与他看，把所有疑点提出请教。承蒙一一指示，认为我这种说法讲得通，并赐序一篇，我是非常感激。然而我终不敢自信，请阅者不吝赐教。<br/><br/><br/>　　我研究这个问题，已经闹得目迷五色*，文中种种说法，对与不对，自己无从知道。我重在解释心中疑团：阅者指驳越严，我越是感激，绝不敢答辩一字。诸君赐教的文字，可在任何报章杂志上发表，发表后，请惠赠一份，交成都《华西日报》转交，以便改正。<br/><br/><br/>　　二十七年一月十三日<br/><br/><br/>　　富顺李宗吾于成都<br/><br/><br/>　　自序二<br/><br/><br/>　　我发表此书后，得着不少的批评，使我获益匪浅，至为感谢。除全部赞成和全部否认者外，其有认为大致不差，某某点尚应该改者，我已遵照修改。有些地方，虽经指示，而我认为尚应商酌者，则暂仍其旧，请阅者再加指正。所有赐教文字，请交重庆《国民公报》转交，以便加以修改。<br/><br/><br/>　　读者常驳我道：“人之心理，变化不测，哪里会有规律？”我说：物理也是变化不测，何以又有规律？今之科学家，研究物理，可谓极精了。我们试取一瓷杯，置之地上，手执一铁锤，请问：此锤击下去，此杯当成若干块？每块形状如何？恐怕聚世界科学家研究之，无一人能预知，所可知者，铁锤击下，此杯必破裂而已。何也？杯子内部分子之构造，无从推测也，我们不能因此就说，物理变化，无有规律。人藏其心，不可测度，与瓷杯之分子相同，所以心理变化，如珠走盘，横斜曲直，不可得知，所可知者，必不出此盘而已。人持弓箭，朝东射，朝西射，我们不能预知，但一射出来，其箭必依抛物线进行，这即是力之规律。我所谓心理变化有规律可寻者，亦就是也。<br/><br/>　　我说“心理依力学规律而变化”，原是一种臆说，不能说是公例。公例者，无一例外之谓也。当初牛顿发明万有引力，定出三例，许多人都不承认，后来逐渐证明，逐渐承认，最后宇宙各种现象，俱合牛顿规律，惟天王星不合，有此例外，仍不能成为公例。直到1846年，有天文家将天王星合牛顿规律这部分提出，将其不合规律之部分加以研究，断定天王星之外，另有一行星，其形状如何，位置如何，加入此星之引力，天王星即合规律了。此说一发表出来，众天文家，依其说以搜求之，立把海王星寻出，果然丝毫不差错，牛顿之说，乃成为公例。心理之变化，较物理更复杂，更奇妙。我之说法，不为一般人所承认者，概例外之事太多也。我不认为我之臆说有错，而认为人心中之海王星太多。我们亦能只握着大原则，以搜求各人心中之海王星耳。<br/><br/><br/>　　有人说：你想把人事与物理沟通为一，从前许多人都做过这种工作，无奈这条路走不通。我说：苏伊士运河，从前许多人都说凿不通，卒之凿通。巴拿马运河，许多人都说凿不通，卒之也凿通。我认为自然界以同一原则生人生物，物理上之规律，必可适用于人事，不过我个人学识不够，不能把他沟通为一罢了。学术者，世界公物，当合全世界研究之，非一人之力所能胜也。尚望读者诸君共同研究，如我这种方式走不通，希望读者另用他种方式把他弄通。我研究这个问题，如坠五里雾中，诸君其亦怜我之愚，而有以教之乎！<br/><br/><br/>　　物理纷繁极矣，牛顿寻出规律，纷繁之物理，厘然就诸，而科学因之大进步。世界纷乱极矣，我们在人事上如能寻出规律，则世界学说，可归一致，人世之纠纷，可以免除，而文明自必大进步。此著者所为希望诸君共同研究者也。<br/><br/><br/>　　三十一年十月八日<br/><br/><br/>　　李宗吾于陪都</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-519-6408.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-519-6410.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-519.html" action-type="chapterComment" class="comment"><i></i>厚黑学章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

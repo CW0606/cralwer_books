@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《九章算术》正文_版本与校勘_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="九章算术,九章算术原文,九章算术阅读,版本与校勘全文,佚名作品" />
+<meta name="description" content="九章算术原文阅读,版本与校勘全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-250-3947.html";
+var nextpage="novel-read-250-3949.html";
+var indexpage = "novel-chapter-250.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-250.html">九章算术</a></strong>
+<strong><a href="novel-chapter-250.html">九章算术目录</a></strong>
+<span>版本与校勘</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-250-3947.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>版本与校勘</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-08-25 21:14:10<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>刘、李注本九章算术在宋代有北宋元丰七年（公元一０八四年）秘书省刻本和南宋嘉定年鲍澣之刻本。明代永乐大典依据九章名义分类抄录，到清朝初年并未散佚。明代留心古典数学的人很少，九章算术非但没有新的刻本，连宋代遗留下来的旧书也渐次散佚。清初南京黄虞稷家中有南宋刻本九章算术，仅存方田、粟米、衰分、少广、商功五章。一六七八年梅文鼎到南京应乡试时曾到黄家翻阅过。这个残本九章算术于乾隆中为曲阜孔继涵所得，嘉庆中为阳城张敦仁所得，今存上海图书馆。常熟毛衣于一六八四年向黄家借钞得一影宋钞本。这个影宋的残本九章算术于乾隆中转入清宫，作为天禄琳琅阁藏书，今存故宫博物院。一九三二年故宫博物院把它影印为天禄琳琅丛书的一种。<br/>　　乾隆三十八年（一七七三）开四库全书馆，婺源戴震充四库全书纂修及分校官。次年，戴震从永乐大典中抄集九章算术九卷，并且做了一番校勘工作。四库全书本和武英殿聚珍版本九章算术都有戴震的校订文字和补图。商务印书馆刊行的丛书集成本是依据武英殿本排印的。<br/><br/>　　戴震的儿女亲家孔继涵刻微波榭本算经十书，其中九章算术九卷採用戴震的校定本。戴震校正的文字，颠扑不破的果然不少，但也有些地方，他师心自用，把原本不错的文字改掉，后来的读者很容易被他蒙蔽而引起误会。所以作为一个善本书看，微波榭本的参考价值是远不如武英殿本的。微波榭本九章算术卷九的最后一页上题称「大清乾隆三十八年癸巳秋阙里孔氏依汲古阁影宋刻本重雕」，书的底本和刻书年代都有问题，显然是不足徵信的。此后依据微波榭本翻刻的九章算术有常熟屈曾发的重刻本、南昌梅启照的算经十书本和商务印书馆的万有文库本、四部丛刊本等等。<br/><br/>　　嘉庆年锺祥李潢撰九章算术细草图说，用微波榭本作底本，校正了很多错误文字。戴震所谓「舛误不可通」而无法校订的文句，经过李潢校订后，一般都能文从字顺容易理解了。但碰到戴震误改原文的地方，他就没有能够纠正过来。方程章最后一题的刘徽注中，叙述了两个「新术」的演算程序，文字冗长，数字繁琐，旧刻本的讹文夺字很多，不容易整理。李潢的友人戴敦元和李锐各代为校正一术。李潢就照录他们的校定稿作为细草图说的一部分。又，均输章第八题答数、术文和李淳风等的注文俱有讹字，李潢未能订正，沉钦裴于李潢死后算校编辑付刻时代为校正。<br/>　　为了要恢复唐代立于学官的刘、李注本九章算术，我根据天禄琳琅丛书本和宜稼堂本杨辉详解九章算法所引，重加校订，写出了校勘记四百六十馀条。戴震、李潢二家所校定的文字认为是正确的，于校勘记中声明他们的开辟草莱的功绩。也有各本俱误而各家漏校或误校的文字，只能凭个人意见，擅自校改，但在校勘记中保留各本原有的异文衍字。商功章阳马术和句股章容圆术的刘徽注中各有意义难于理解而不能句读的文字，无法校订，只能付之缺疑。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-250-3947.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-250-3949.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-250.html" action-type="chapterComment" class="comment"><i></i>九章算术章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

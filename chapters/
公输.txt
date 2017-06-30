@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《墨子》正文_公输_墨子作品 - 维普阅读网</title>
+<meta name="keywords" content="墨子,墨子原文,墨子阅读,公输全文,墨子作品" />
+<meta name="description" content="墨子原文阅读,公输全文在线阅读,墨子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-32-784.html";
+var nextpage="novel-read-32-786.html";
+var indexpage = "novel-chapter-32.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-32.html">墨子</a></strong>
+<strong><a href="novel-chapter-32.html">墨子目录</a></strong>
+<span>公输</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-32-784.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>公输</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=墨子&amp;searchsubmit=yes"  target="_blank">墨子</a><span class="divide">|</span>发布时间：2014-07-20 15:32:36<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/>　　公输盘为楚造云梯之械，成，将以攻宋。子墨子闻之，起于齐，行十日十 夜而至于郢，见公输盘。<br/><br/>　　公输盘曰：“夫子何命焉为？”子墨子曰：“北方有侮臣，愿藉子杀之。” 公输盘不说。子墨子曰：“请献十金。”公输盘曰：“吾义固不杀人。”子墨 子起，再拜，曰：“请说之。吾从北方闻子为梯，将以攻宋，宋何罪之有？荆 国有余于地，而不足于民，杀所不足，而争所有余，不可谓智。宋无罪而攻之， 不可谓仁。知而不争，不可谓忠。争而不得，不可谓强。义不杀少而杀众，不 可谓知类。”公输盘服。子墨子曰：“然，乎不已乎？”公输盘曰：“不可， 吾既已言之王矣。”子墨子曰：“胡不见我于王？”公输盘曰：“诺。”<br/><br/>　　子墨子见王，曰：“今有人于此，舍其文轩，邻有敝舆，而欲窃之；舍其 锦绣，邻有短褐，而欲窃之；舍其粱肉，邻有糠糟，而欲窃之。此为何若人？” 王曰：“必为窃疾矣。”子墨子曰：“荆之地，方五千里，宋之地，方五百里， 此犹文轩之与敝舆也；荆有云梦，犀兕麋鹿满之，江汉之鱼鼋鼍为天下富，宋 所为无雉兔狐狸者也，此犹粱肉之与糠糟也；荆有长松、文梓，（木鞭）、（ 木丹）、楠、豫章，宋无长木，此犹锦绣之与短褐也。臣以三事之攻宋也，为 与此同类。臣见大王之必伤义而不得。”王曰：“善哉！虽然，公输盘为我为 云梯，必取宋。”<br/><br/>　　于是见公输盘。子墨子解带为城，以牒为械，公输盘九设攻城之机变，子 墨子九距之。公输盘之攻械尽，子墨子之守圉有余，公输盘屈，而曰：“吾知 所以距子矣，吾不言。”子墨子亦曰：“吾知子之所以距我，吾不言。”楚王 问其故，子墨子曰：“公输子之意，不过欲杀臣，杀臣，宋莫能守，可攻也。 然臣之弟子禽滑厘等三百人，已持臣守圉之器，在宋城上而待楚寇矣。虽杀臣， 不能绝也。”楚王曰：“善哉!吾请无攻宋矣。”<br/><br/>　　子墨子归，过宋。天雨，庇其闾中，守闾者不内也。故曰：“治于神者， 众人不知其功；争于明者，众人知之。”<br/><br/>译文：<br/>　　公输盘为楚国造了云梯那种器械，造成后，将用它攻打宋国。墨子听说了，就从齐国起身，行走了十天十夜才到楚国国都郢，会见公输盘。<br/><br/>　　公输盘说：“您将对我有什么吩咐呢？”墨子说：“北方有一个欺侮我的人，愿借助你杀了他。”公输盘不高兴。墨子说：“我愿意献给你十镒黄金。”公输盘说：“我奉行义，决不杀人。”<br/><br/>　　墨子站起来，再一次对公输盘行了拜礼，说：“请向你说说这义。我在北方听说你造云梯，将用它攻打宋国。宋国有什么罪呢？楚国有多余的土地，人口却不足。现在牺牲不足的人口，掠夺有余的土地，不能认为是智慧。宋国没有罪却攻打它，不能说是仁。知道这些，不去争辩，不能称作忠。争辩<br/><br/>　　却没有结果，不能算是强。你奉行义，不去杀那一个人，却去杀害众多的百姓，不可说是明智之辈。”公输盘服了他的话。<br/><br/>　　墨子又问他：“那么，为什么不取消进攻宋国这件事呢？”公输盘说：“不能。我已经对楚王说了。”墨子说：“为什么不向楚王引见我呢？”公输盘说：“行。”<br/><br/>　　墨子见了楚王，说：“现在这里有一个人，舍弃他的华丽的丝织品，邻居有一件粗布的短衣，却打算去偷；舍弃他的美食佳肴，邻居只有糟糠，却打算去偷。这是怎么样的一个人呢？”楚王回答说：“这人一定患了偷窃病。”<br/><br/>　　墨子说：“楚国的地方，方圆五千里；宋国的地方，方圆五百里，这就象彩车与破车相比。楚国有云梦大泽，犀、兕、麋鹿充满其中，长江、汉水中的鱼、鳖、鼋、鼍富甲天下；宋国却连野鸡、兔子、狐狸、都没有，这就象美食佳肴与糟糠相比。楚国有巨松、梓树、楠、樟等名贵木材；宋国连棵大树都没有，这就象华丽的丝织品与粗布短衣相比。从这三方面的事情看，我认为楚国进攻宋国，与有偷窃病的人同一种类型。我认为大王您如果这样做，一定会伤害了道义，却不能据有宋国。”<br/><br/>　　楚王说：“好啊！即使这么说，公输盘已经给我造了云梯，一定要攻取宋国。”<br/><br/>　　于是又叫来公输盘见面。墨子解下腰带，围作一座城的样子，用小木片作为守备的器械。公输盘九次陈设攻城用的机巧多变的器械，墨子九次抵拒了他的进攻。公输盘攻战用的器械用尽了，墨子的守御战术还有余。公输盘受挫了，却说：“我知道用什么办法对付你了，但我不说。”楚王问原因。墨子回答说：“公输盘的意思，不过是杀了我。杀了我，宋国没有人能防守了，就可以进攻。但是，我的弟子禽滑厘等二百人，已经手持我守御用的器械，在宋国的都城上等待楚国侵略军呢。即使杀了我，守御的人却是杀不尽的。”楚王说：“好啊！我不攻打宋国了。”<br/><br/>　　墨子从楚国归来，经过宋国，天下着雨，他到闾门去避雨，守闾门的人却不接纳他。所以说：“运用神机的人，众人不知道他的功劳；而于明处争辩不休的人，众人却知道他。”<br/><br/>注释<br/>（1）本篇记述公输盘制造云梯，准备帮助楚国进攻宋国，墨子从齐国起身，到楚国制止公输盘、楚王准备进攻宋国的故事。全文生动地表现了墨子“兼爱”、“非攻”的主张，从故事中，我们也可以看到墨子不辞辛苦维护正义的品格和机智、果敢的才能。<br/>（2）第一个“乎”为“胡”之误，胡：何。<br/>（3）文轩：彩车。<br/>（4）距：通“拒”。<br/>（5）圉：御。<br/>（6）诎：屈。<br/>（7）内：通“纳”。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-32-784.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-32-786.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-32.html" action-type="chapterComment" class="comment"><i></i>墨子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《春怨》正文_春怨_金昌绪作品 - 维普阅读网</title>
+<meta name="keywords" content="春怨,春怨原文,春怨阅读,春怨全文,金昌绪作品" />
+<meta name="description" content="春怨原文阅读,春怨全文在线阅读,金昌绪作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-1195.html";
+var nextpage="novel-chapter-1195.html";
+var indexpage = "novel-chapter-1195.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1195.html">春怨</a></strong>
+<strong><a href="novel-chapter-1195.html">春怨目录</a></strong>
+<span>春怨</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-1195.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>春怨</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=金昌绪&amp;searchsubmit=yes"  target="_blank">金昌绪</a><span class="divide">|</span>发布时间：2015-02-10 16:26:26<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　打起黄莺儿，莫教枝上啼。<br/>　　啼时惊妾梦，不得到辽西。<br/><br/>【注释】<br/>⑴春怨：一题“伊州歌”。<br/>⑵打起：打得飞走。<br/>⑶莫教：不让。<br/>⑷妾：女子的自称。<br/>⑸辽西：大约指唐代辽河以西营州、燕州一带地方。即今辽宁省锦州、朝阳至北京市东北怀柔、顺义一带，隋代因秦汉旧名曾于此地置辽西郡，寄治于营州，唐初改曰燕州，州治在辽西县。<br/><br/>【译文】<br/>我敲打树枝把黄莺儿赶走，不让它在那里声声啼鸣。<br/>鸣声会惊破我的好梦，到不了辽西去会见亲人。<br/><br/>【赏析】<br/>　　这首小诗以妍美的生活意象体现幽怨的情思：在一家庭院的树梢头上，有几只爱唱歌的黄莺儿正在欢唱着，突然，住室的门被打开了从里面走出一位红颜少妇，嗔怒地把唱得正欢的黄莺儿赶跑了，口里还喃喃不已地自言自语着。<br/>　　这就是此诗要描绘的一幅生活画面，春光如此可爱，黄莺儿婉转的歌声又那么悦耳动听，这位少妇为何无心欣赏良辰美景，反而要把黄莺儿赶走。原来，她的丈夫久戍边疆，遥遥千里，音容杳无，她寂寞惆怅而又无可奈何，只能寄希望于梦中和亲人相见。此刻，也许她在梦境中正走在去边地的路上，满心欢喜地盼望着和丈夫的会面，不知趣的黄莺儿偏偏在这个时候惊扰了她的美梦，她连这种虚幻的安慰也不能得到，必会把一腔怅恨无端地向着黄莺儿发泄。<br/>　　五言绝句妙在以小见大，语短意长，这首诗正是如此。它摄取了一位少妇日常生活中一个饶有趣味的细节，反映了一个重大的社会课题。诗中所说的辽西，为唐朝东北边境军事要地，据史载，当时在唐朝东北边境上居住着奚、契丹等少数民族，唐王朝和契丹族之间多次发生战争，朝廷曾先后派武攸宜、张守珪等进击契丹人。天宝之后，契丹族更加强大。由于边事频仍，到辽西一带戍守的士卒往往长期不得还家，甚至埋骨荒陲。因此，广大人民希望统治者能够安抚边庭，过安定团聚的生活。唐代有不少诗人曾写过这个题材，如高适著名的《燕歌行》就涉及张守珪击契丹事。令孤楚也写过一首五绝《闺人赠远》：“绮席春眠觉，纱窗晓望迷。朦胧残梦里，犹自在辽西。”这两诗的主旨与《春怨》并无二致，构思也颇为相似。不过，《闺人赠远》虽不能把丈夫盼回，却毕竟在梦中同亲人见了一面，《春怨》连这种虚幻的美梦也没有做成，怨情尤为沉重而凄惋。它以颇富民歌风味的清新的语言，通过一个意蕴丰富的动作性细节的描写，含蓄而又深刻地表现了广大人民在当时所承受的精神痛苦与哀怨情绪。<br/>　　这首诗，语言生动活泼，具有民歌色彩，而且在章法上还有其与众不同的特点：它通篇词意联属，句句相承，环环相扣，四句诗形成了一个不可分割的整体，达到了王夫之在《夕堂永日绪论》中为五言绝句提出的“就一意圆净成章”的要求。这一特点，人所共称。谢榛在《四溟诗话》中曾把诗的写法分为两种：一种是“一句一意”，“摘一句亦成诗”，如杜甫诗“日出篱东水，云生舍北泥。竹高鸣翡翠，沙僻舞鹍鸡”（《绝句六首》之一），属于此类；另一种是“一篇一意”，“摘一句不成诗”，这首《春怨》诗就是一个典型的例子。这首诗不同于惯常的起承转合的思路，而是突如其来地先写一个“打起黄莺儿”的动作意象，然后层层递进地叙明原因。为何“打起黄莺儿”，是因为不让黄莺在枝间啼叫；为何“莫教枝上啼”，是因为黄莺的歌声惊扰了佳人的好梦；为何特别恼怒黄莺“惊妾梦”，是因为它把佳人在梦中到辽西与丈夫会面这一线可怜的希望也给无情地打消了。四句小诗，句句设疑，句句作答，犹如抽蕉剥笋，剥去一层，还有一层。所以，它不仅篇法圆净，而且在结构上也曲尽其妙。<br/><br/>【点评】<br/>《贵耳集》：作诗有句法，意连句圆。“打起黄莺儿······”一句一接，末尝间断。作诗当参此意，便有神圣工巧。<br/>《唐诗品汇》：刘须溪云：恨恨无绝。<br/>《陵阳室中语》：大概作诗从首至尾辄联属，如有理词状，此四句可为标准矣。<br/>《艺苑卮言》：“打起黄莺儿······”不惟语意之高妙而已，其句法圆紧，中间增一字不得，着一意不得，起结极斩绝，而中自纡缓。无余法而有余味。<br/>《唐诗选脉会通评林》：顾璘曰：此所谓调古者。周敬曰：极真极细，愈浅愈深。唐汝询曰：想头高，托意更苦。<br/>《唐诗摘钞》：闺人梦远是常意，只要想头曲折如此，便佳。<br/>《载酒园诗话》：金昌绪“打起黄莺儿······”令狐楚则曰：“绮席存眠觉，纱窗晓望迷。朦胧残梦里，犹自在辽西。”张仲素更曰：“袅袅城边柳，青青陌上桑。提笼忘采叶，咋夜梦渔阳。”或反语以见奇，或寻蹊而别悟。<br/>《辍锻录》：唐人最善于脱胎，变化无迹，读者惟觉其妙，莫测其源。金昌绪“打起黄莺儿”云云，岑嘉州脱而为“枕上片时春梦中，行尽江南数千里”。至家三拜先生（指方于），则又从岑诗翻出云：“昨日草枯今日生，羁人又动故乡情。夜来有梦登归路，未到桐庐已及明。”或触景生情，或当机别悟，唐人如此等类，不可枚举。<br/>《唐诗别裁》：语音一何脆！一气蝉联而下者，以此为法。<br/>《唐诗笺注》：忆辽西而怨思无那，闻莺语而迁怒相惊，天然白描文笔，无可移易一字。此诗前辈以为一气团结，增减不得一字，与“三日入厨下”诗，俱为五绝之最。<br/>《网师园唐诗笺》：真情发为天籁、一句一意，仍一首如一句。<br/>《诗法易简录》：此诗有一气相生之妙，音节清脆可爱。唯梦中得到辽西、则相见无期可知，言外意须微参。不怨在辽西者之不得归，而但怨黄莺之惊梦，乃深于怨者。<br/>《南苑一知集》：望辽西，情也。欲到辽西，情紧矣。除是梦中可到辽西，又恐莺儿惊起，使梦不成，须于预先安排莫教他啼。夫梦中未必即到辽西，莺儿未必即来惊梦，无聊极思，故至若此，较思归望归者，不深数层乎？<br/>《读雪山房唐诗序例》：司空曙之“知有前期在”，金昌绪之“打却黄莺儿”，张仲素之“提笼忘采桑”……或天真烂漫，成寄意深微，虽使王维、李白为之，未能远过。<br/>《诗境浅说续编》：此等诗虽分四句，实系一事，蝉联而下，脱口一气呵成。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-1195.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-1195.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1195.html" action-type="chapterComment" class="comment"><i></i>春怨章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

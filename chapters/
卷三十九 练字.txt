@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《文心雕龙》正文_卷三十九 练字_刘勰作品 - 维普阅读网</title>
+<meta name="keywords" content="文心雕龙,文心雕龙原文,文心雕龙阅读,卷三十九 练字全文,刘勰作品" />
+<meta name="description" content="文心雕龙原文阅读,卷三十九 练字全文在线阅读,刘勰作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-665-8520.html";
+var nextpage="novel-read-665-8522.html";
+var indexpage = "novel-chapter-665.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-665.html">文心雕龙</a></strong>
+<strong><a href="novel-chapter-665.html">文心雕龙目录</a></strong>
+<span>卷三十九 练字</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-665-8520.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷三十九 练字</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘勰&amp;searchsubmit=yes"  target="_blank">刘勰</a><span class="divide">|</span>发布时间：2014-10-20 20:55:58<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　夫文爻象列而结绳移，鸟迹明而书契作，斯乃言语之体貌，而文章之宅宇也。苍颉造之，鬼哭粟飞；黄帝用之，官治民察。先王声教，书必同文，輶轩之使，纪言殊俗，所以一字体，总异音。《周礼》保氏，掌教六书。秦灭旧章，以吏为师。及李斯删籀而秦篆兴，程邈造隶而古文废。<br/><br/>　　汉初草律，明著厥法。太史学童，教试八体。又吏民上书，字谬辄劾。是以马字缺画，而石建惧死，虽云性慎，亦时重文也。至孝武之世，则相如撰篇。及宣平二帝，征集小学，张敞以正读传业，扬雄以奇字纂训，并贯练《雅》、《颂颉》，总阅音义。鸿笔之徒，莫不洞晓。且多赋京苑，假借形声，是以前汉小学，率多玮字，非独制异，乃共晓难也。暨乎后汉，小学转疏，复文隐训，臧否亦半。<br/><br/>　　及魏代缀藻，则字有常检，追观汉作，翻成阻奥。故陈思称∶“扬马之作，趣幽旨深，读者非师传不能析其辞，非博学不能综其理。”岂直才悬，抑亦字隐。自晋来用字，率从简易，时并习易，人谁取难？今一字诡异，则群句震惊，三人弗识，则将成字妖矣。后世所同晓者，虽难斯易，时所共废，虽易斯难，趣舍之间，不可不察。<br/><br/>　　夫《尔雅》者，孔徒之所纂，而《诗》、《书》之襟带也；《仓颉》者，李斯之所辑，而史籀之遗体也。《雅》以渊源诂训，《颉》以苑囿奇文，异体相资，如左右肩股，该旧而知新，亦可以属文。若夫义训古今，兴废殊用，字形单复，妍媸异体。心既托声于言，言亦寄形于字，讽诵则绩在宫商，临文则能归字形矣。<br/><br/>　　是以缀字属篇，必须拣择∶一避诡异，二省联边，三权重出，四调单复。诡异者，字体瑰怪者也。曹摅诗称∶“岂不愿斯游，褊心恶?凶呶。”两字诡异，大疵美篇。况乃过此，其可观乎！联边者，半字同文者也。状貌山川，古今咸用，施于常文，则龃龉为瑕，如不获免，可至三接，三接之外，其字林乎！重出者，同字相犯者也。《诗》、《骚》适会，而近世忌同，若两字俱要，则宁在相犯。故善为文者，富于万篇，贫于一字，一字非少，相避为难也。单复者，字形肥瘠者也。瘠字累句，则纤疏而行劣；肥字积文，则黯黕而篇暗。善酌字者，参伍单复，磊落如珠矣。凡此四条，虽文不必有，而体例不无。若值而莫悟，则非精解。<br/><br/>　　至于经典隐暧，方册纷纶，简蠹帛裂，三写易字，或以音讹，或以文变。子思弟子，“于穆不似”，音讹之异也。晋之史记，“三豕渡河”，文变之谬也。《尚书大传》有“别风淮雨”，《帝王世纪》云“列风淫雨”。“别”、“列”、“淮”、“淫”，字似潜移。“淫”、“列”义当而不奇，“淮”、“别”理乖而新异。傅毅制诔，已用“淮雨”；元长作序，亦用“别风”，固知爱奇之心，古今一也。史之阙文，圣人所慎，若依义弃奇，则可与正文字矣。<br/><br/>　　赞曰∶<br/><br/>　　篆隶相熔，苍雅品训。古今殊迹，妍媸异分。<br/><br/>　　字靡易流，文阻难运。声画昭精，墨采腾奋。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-665-8520.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-665-8522.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-665.html" action-type="chapterComment" class="comment"><i></i>文心雕龙章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

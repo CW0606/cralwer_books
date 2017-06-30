@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《论语》正文_里仁第四_孔子作品 - 维普阅读网</title>
+<meta name="keywords" content="论语,论语原文,论语阅读,里仁第四全文,孔子作品" />
+<meta name="description" content="论语原文阅读,里仁第四全文在线阅读,孔子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-25-369.html";
+var nextpage="novel-read-25-371.html";
+var indexpage = "novel-chapter-25.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-25.html">论语</a></strong>
+<strong><a href="novel-chapter-25.html">论语目录</a></strong>
+<span>里仁第四</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-25-369.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>里仁第四</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=孔子&amp;searchsubmit=yes"  target="_blank">孔子</a><span class="divide">|</span>发布时间：2014-07-19 10:40:05<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/>　　子曰：“里仁为美。择不处仁，焉得知！”<br/>　　子曰：“不仁者，不可以久处约，不可以长处乐。仁者安仁，知者利仁。”<br/>　　子曰：“唯仁者能好人，能恶人。”<br/>　　子曰：“苟志于仁矣，无恶也。”<br/>　　子曰：“富与贵，是人之所欲也，不以其道得之，不处也。贫与贱，是人这所恶也，不以其道得之，不去也。君子去仁，恶乎成名？君子无终食之间违仁，造次必于是，颠沛必于是。”<br/>　　子曰：“我未见好仁者，恶不仁者。好仁者无以尚之，恶不仁者其为仁矣，不使不仁者加乎其身。有能一日用力于仁矣乎，我未见力不足者。盖有之矣，我未之见也。”<br/>　　子曰：“人之过也，各于其党。观过，斯知仁矣！”<br/>　　子曰：“朝闻道，夕死可矣。”<br/>　　子曰：“士志于道，而耻恶衣恶食者，未足与议也。”<br/>　　子曰：“君子之于天下也，无适也，无莫也，义之与比。”<br/>　　子曰：“君子怀德，小人怀土。君子怀刑，小人怀惠。”<br/>　　子曰：“放于利而行，多怨。”<br/>　　子曰：“能以礼让为国乎，何有。不能以礼让为国，如礼何？”<br/>　　子曰：“不患无位，患所以立。不患莫己知，求为可知也。”<br/>　　子曰：“参乎，吾道一以贯之。”曾子曰：“唯。”子出，门人问曰：“何谓也？”曾子曰：“夫子之道，忠恕而已矣。”<br/>　　子曰：“君子喻于义，小人喻于利。”<br/>　　子曰：“见贤思齐焉，见不贤而内自省也。”<br/>　　子曰：“事父母几谏，见志不从，又敬不违，劳而不怨。”<br/>　　子曰：“父母在，不远游，游必有方。”<br/>　　子曰：“三年无改于父之道，可谓孝矣。”<br/>　　子曰：“父母之年，不可不知也。一则以喜，一则以惧。”<br/>　　子曰：“古者言之不出，耻恭之不逮也。”<br/>　　子曰：“以约失之者鲜矣。”<br/>　　子曰：“君子欲讷于言而敏于行。”<br/>　　子曰：“德不孤，必有邻。”<br/>　　子游曰：“事君数，斯辱矣。朋友数，斯疏矣。”<br/><br/>逐句翻译：<br/><br/>【本篇引语】<br/>本篇包括26章，主要内容涉及到义与利的关系问题、个人的道德修养问题、孝敬父母的问题以及君子与小人的区别。这一篇包括了儒家的若干重要范畴、原则和理论，对后世都产生过较大影响。<br/>4.1<br/>【原文】<br/><br/>【注释】<br/>里：邻里。周代五家为邻，五邻为里。这里用作动词，作居住讲。<br/>仁：仁德之风纯厚的地方；一说，有仁德的人。<br/>处：居住，相处。<br/>焉（yān）：怎么，哪里。<br/>知：同“智”，明智。<br/>【大意】<br/>孔子说：“住在有仁德之风的地方才好。不选择有仁德的住处，怎么能算明智呢？”<br/>【评析】<br/>每个人的道德修养既是个人自身的事，又必然与所处的外界环境有关。重视居住的环境，重视对朋友的选择，这是儒家一贯注重的问题。近朱者赤、近墨者黑，与有仁德的人住在一起，耳濡目染，都会受到仁德者的影响；反之，就不大可能养成仁的情操。<br/>4.2<br/>【原文】<br/>子曰：“不仁者，不可以久处约，不可以长处乐。仁者安仁，知者利仁。”<br/>【注释】<br/>约：穷困，俭约。<br/>乐：富裕，安乐。<br/>知：同“智”。<br/>【大意】<br/>孔子说：“没有仁德的人不能长久地过俭约的生活，也不能长久地过富足安乐的生活。有仁德的人能安心于行仁德，有智慧的人能利用仁德。”<br/>【评析】<br/>在这章中，孔子认为，没有仁德的人不可能长久地处在贫困或安乐之中，否则，他们就会为非作乱或者骄奢淫逸。只有仁者安于仁，智者也会行仁。这种思想是希望人们注意个人的道德操守，在任何环境下都做到矢志不移，保持气节。<br/>4.3<br/>【原文】<br/>子曰：“唯仁者能好人，能恶人。”<br/>【注释】<br/>好（hào）：动词，喜欢，喜爱。<br/>恶（wù）：厌恶，讨厌。<br/>【大意】<br/>孔子说：“只有有仁德的人才能够以正确的方式喜爱某人，厌恶某人。”<br/>【评析】<br/>儒家在讲“仁”的时候，不仅是说要“爱人”，而且还有“恨人”一方面。当然，孔子在这里没有说到要爱什么人，恨什么人，但有爱则必然有恨，二者是相对立而存在的。只要做到了“仁”，就必然会有正确的爱和恨。<br/>4.4<br/>【原文】<br/>子曰：“苟志于仁矣，无恶也。”<br/>【注释】<br/>苟：假如，如果。<br/>志：立志，有志于。<br/>恶（è）：做坏事。<br/>【大意】<br/>孔子说：“假如立志于实行仁德，就不会做坏事。”<br/>【评析】<br/>这是紧接上一章而言的。只要养成了仁德，那就不会去做坏事，即不会犯上作乱、为非作恶，也不会骄奢淫逸、随心所欲。而是可以做有益于国家、有利于百姓的善事了。<br/>4.5<br/>【原文】<br/>子曰：“富与贵，是人之所欲也，不以其道得之，不处也。贫与贱，是人之恶也，不以其道得之，不去也。君子去仁，恶者成名？君子无终食之间违仁，造次必于是，颠沛必于是。”<br/>【注释】<br/>是：代词，这。<br/>处：接受，享受。<br/>去：摆脱，避开。<br/>恶：同“乌”，相当于“何”，如何，怎样。<br/>终食之间：吃一顿饭的功夫。<br/>违：违背。<br/>造次：仓促，匆忙。<br/>颠沛：原指跌倒，引申为受挫，困顿流离。<br/>【大意】<br/>孔子说：“发财和升官，这是人们所盼望的，若不是用正当方法得到的，君子不会接受。贫穷和卑贱，这是人们所厌恶的，若不是用正当的方法摆脱，君子就不会那么做。君子抛弃了仁德，怎么能成就他的名声呢？君子即使吃一顿饭的功夫也不能违背仁德，匆忙仓促时也一定按仁德行事，颠沛流离也一定按仁德做事。”<br/>【评析】<br/>这一段，反映了孔子的理欲观。以往的孔子研究中往往忽略了这一段内容，似乎孔子主张人们只要仁、义，不要利、欲。事实上并非如此。任何人都不会甘愿过贫穷困顿、流离失所的生活，都希望得到富贵安逸。但这必须通过正当的手段和途径去获取。否则宁守清贫而不去享受富贵。这种观念在今天仍有其不可低估的价值。这一章值得研究者们仔细推敲。<br/>4.6<br/>【原文】<br/>子曰：“我未见好仁者，恶不仁者。好仁者，无以尚之；恶不仁者，其为仁矣，不使不仁者加乎其身。有能一日用其力于仁矣乎？我未见力不足者。盖有之矣，我未之见也。”<br/>【注释】<br/>尚：动词，超过。<br/>矣：用法同“也”，表示语气停顿。<br/>盖：句首发语词，表示揣测意。<br/>未之见：是“未见之”的倒装。<br/>【大意】<br/>孔子说：“我没见过爱好仁德的人和厌恶不仁德的人。爱好仁德的人是无法超过的，厌恶不仁德的人行仁德时，不使不仁德的东西加在自己的身上。有谁能一整天用自己的力量去主动实行仁德呢？我没见过力量不够的。大概这样做的人有，但我没见过。”<br/>【评析】<br/>孔子特别强调个人道德修养，尤其是养成仁德的情操。但当时动荡的社会中，爱好仁德的人已经不多了，所以孔子说他没有见到。但孔子认为，对仁德的修养，主要还是要靠个人自觉的努力，因为只要经过个人的努力，是完全可以达到仁的境界的。<br/>4.7<br/>【原文】<br/>子曰：“人之过也，各于其党。观过，斯知仁矣。”<br/>【注释】<br/>过：过错。<br/>党：这里指意气相投的人。<br/>仁：同“人”。<br/>【大意】<br/>孔子说：“人犯的过错与各自那一类的人相同。观察他犯的过错，就能知道他是什么样的人了。”<br/>【评析】<br/>孔子认为，人之所以犯错误，从根本上讲是他没有仁德。有仁德的人往往会避免错误，没有仁德的人就无法避免错误，所以从这一点上，没有仁德的人所犯错误的性质是相似的。这从另一角度讲了加强道德修养的重要性。<br/>4.8<br/>【原文】<br/>子曰：“朝闻道，夕死可矣！”<br/>【注释】<br/>朝（zhāo）：早上。<br/>闻：听到，知道。<br/>道：指某种真理，即儒家之道。<br/>【大意】<br/>孔子说：“早上明白了真理，晚上就死去也是可以的。”<br/>【评析】<br/>这一段话常常被人们所引用。孔子所说的道究竟指什么，这在学术界是有争论的。我们的认识是，孔子这里所讲的“道”，系指社会、政治的最高原则和做人的最高准则，这主要是从伦理学意义上说的。<br/>4.9<br/>【原文】<br/>子曰：“士志于道，而耻恶衣恶食者，未足与议也！”<br/>【注释】<br/>士：读书人，一般的小知识分子。<br/>【大意】<br/>孔子说：“读书人有志于道，却又以自己穿的衣服不好、吃的饭菜不好为耻，这种人不值得与他谈论。”<br/>【评析】<br/>本章和前一章讨论的都是道的问题。本章所讲“道”的含义与前章大致相同。这里，孔子认为，一个人斤斤计较个人的吃穿等生活琐事，他是不会有远大志向的，因此，根本就不必与这样的人去讨论什么道的问题。<br/>4.10<br/>【原文】<br/>子曰：“君子之于天下也，无适也，无莫也，义之与比。”<br/>【注释】<br/>适、莫：有多种解释。有认为人情亲疏厚薄；有认为敌对、爱慕。这里解释为可与不可。<br/>比：挨着，靠拢，靠近。<br/>【大意】<br/>孔子说：“君子对于天下事情的处理，没有规定要怎样干，也没有规定不要怎样干，怎样干合理恰当就怎样干。”<br/>【评析】<br/>这一章里孔子提出对君子要求的基本点之一：“义之与比。”有高尚人格的君子为人公正、友善，处世严肃灵活，不会厚此薄彼。本章谈论的仍是个人的道德修养问题。<br/>4.11<br/>【原文】<br/>子曰：“君子怀德，小人怀土。君子怀刑，小人怀惠。”<br/>【注释】<br/>刑：法度典范，刑罚。<br/>【大意】<br/>孔子说：“君子关心的是道德，小人关心的是田土乡宅；君子关心法度，小人关心恩惠。”<br/>【评析】<br/>本章再次提到君子与小人这两个不同类型的人格形态，认为君子有高尚的道德，他们胸怀远大，视野开阔，考虑的是国家和社会的事情，而小人则只知道思恋乡土、小恩小惠，考虑的只有个人和家庭的生计。这是君子与小人之间的区别点之一。<br/>4.12<br/>【原文】<br/>子曰：“放于利而行，多怨。”<br/>【注释】<br/>放：同“仿”，依据。<br/>【大意】<br/>孔子说：“依据个人利益而行动，会招来很多的怨恨。”<br/>【评析】<br/>本章也谈义与利的问题。他认为，作为具有高尚人格的君子，他不会总是考虑个人利益的得与失，更不会一心追求个人利益，否则，就会招致来自各方的怨恨和指责。这里仍谈先义后利的观点。<br/>4.13<br/>【原文】<br/>子曰：“能以礼让为国乎？何有？不能以礼让为国，如礼何？”<br/>【注释】<br/>礼让：按周礼注重礼仪，谦让。<br/>何有：有什么困难呢。<br/>【大意】<br/>孔子说：“能用礼让来治理国家吗？那有什么困难呢？不能用礼让来治理国家，又怎么来对待礼仪呢（礼仪有什么用呢）？”<br/>【评析】<br/>孔子把“礼”的原则推而广之，用于国与国之间的交往，这在古代是无可非议的。因为孔子时代的“国”乃“诸侯国”，均属中国境内的兄弟国家。然而，在近代以来，曾国藩等人仍主张对西方殖民主义国家采取“礼让为国”的原则，那就难免被指责为“**主义”了。<br/>4.14<br/>【原文】<br/>子曰：“不患无位，患所以立。不患莫己知，求为可知也。”<br/>【注释】<br/>立：站住脚。<br/>莫己知：即“莫知己”，没人知道自己。<br/>【大意】<br/>孔子说：“不担忧没有官职，只担忧没有胜任官职的本领。不担忧没人知道自己，去追求使别人知道自己的本领好了。”<br/>【评析】<br/>这是孔子对自己和自己的学生经常谈论的问题，是他立身处世的基本态度。孔子并非不想成名成家，并非不想身居要职，而是希望他的学生必须首先立足于自身的学问、修养、才能的培养，具备足以胜任官职的各方面素质。这种思路是可取的。<br/>4.15<br/>【原文】<br/>子曰：“参乎！吾道一以贯之。”曾子曰：“唯。”子出，门人问曰：“何谓也？”曾子曰：“夫子之道，忠恕而已矣！”<br/>【注释】<br/>贯：贯穿。<br/>唯：是的，表示应答。<br/>忠：忠诚，诚挚。<br/>恕：对别人宽容。<br/>【大意】<br/>孔子说：“参啊！我主张的道贯穿了一个基本概念。”曾子说：“是的。”孔子出去后，别的学生问曾参说：“那是什么意思？”曾子说：“夫子主张的道不过是忠恕罢了。”<br/>【评析】<br/>忠恕之道是孔子思想的重要内容，待人忠恕，这是仁的基本要求，贯穿于孔子思想的各个方面。在这章中，孔子只说他的道是有一个基本思想一以贯之的，没有具体解释什么是忠恕的问题，在后面的篇章里，就回答了这个问题。对此，我们将再作剖析。<br/>4.16<br/>【原文】<br/>子曰：“君子喻于义，小人喻于利。”<br/>【注释】<br/>喻：明白，懂得。<br/>义：合乎正义和道义的事情。<br/>利：私利，财利。<br/>【大意】<br/>孔子说：“君子懂得义，小人只知道利。”<br/>【评析】<br/>“君子喻于义，小人喻于利”是孔子学说中对后世影响较大的一句话，被人们传说。这就明确提出了义利问题。孔子认为，利要服从义，要重义轻利，他的义指服从等级秩序的道德，一味追求个人利益，就会犯上作乱，破坏等级秩序。所以，把追求个人利益的人视为小人。经过后代儒家的发展，这种思想就变成义与利尖锐对立、非此即彼的义利观。<br/>4.17<br/>【原文】<br/>子曰：“见贤思齐焉，见不贤而内自省也。”<br/>【注释】<br/>贤：贤人，有才德的人。<br/>齐：用作动词，向……看齐，与……等同。<br/>省（xǐnɡ）：反省，内省，检讨自己的思想行为。<br/>【大意】<br/>孔子说：“看见有贤德的人，就该想到要向他看齐，见到没有贤德的人，就该反省自己是否有他那样的错误。”<br/>【评析】<br/>本章谈的是个人道德修养问题。这是修养方法之一，即见贤思齐，见不贤内自省。实际上这就是取别人之长补自己之短，同时又以别人的过失为鉴，不重蹈别人的旧辙，这是一种理性主义的态度，在今天仍不失其精辟之见。<br/>4.18<br/>【原文】<br/>子曰：“事父母几谏，见志不从，又敬不违，劳而不怨。”<br/>【注释】<br/>事：事奉。<br/>几（jī）：婉转，轻微，隐微。<br/>劳：操劳；一说，忧愁。<br/>【大意】<br/>孔子说：“事奉父母，如果他们有不对之处，要委婉地劝止，看到自己的心意没有被听从，仍要恭敬不冒犯他们，为父母操劳但不要怨恨。”<br/>【评析】<br/>这一段还是讲关于孝敬父母的问题。事奉父母，这是应该的，但如果一味要求子女对父母绝对服从，百依百顺，甚至父母不听劝说时，子女仍要对他们毕恭毕敬，毫无怨言。这就成了封建专制主义，是维护封建宗法家族制度的重要纲常名教。<br/>4.19<br/>【原文】<br/>子曰：“父母在，不远游。游必有方。”<br/>【注释】<br/>游：离家出游。<br/>方：方向，方位。<br/>【大意】<br/>孔子说：“父母在世时，不要远离家乡，若定要远离家乡，也必须有确定的地方。”<br/>【评析】<br/>“父母在，不远游”是先秦儒家关于“孝”字道德的具体内容之一。历代都用这个孝字原则去约束、要求子女为其父母尽孝。这种孝的原则在今天已经失去了它的意义。<br/>4.20<br/>【原文】<br/>子曰：“三年无改于父之道，可谓孝矣。”<br/>【注释】<br/>三年：见《学而第一》第十一章注。<br/>【大意】<br/>孔子说：“父亲死后，多年不改变他合理的方面，可以说是孝。”<br/>4.21<br/>【原文】<br/>子曰：“父母之年，不可不知也。一则以喜，一则以惧。”<br/>【注释】<br/>惧：担忧，担心。这里指担忧父母年事已高，会衰老死亡。<br/>【大意】<br/>孔子说：“父母的年纪不可以不知道。一方面因为他们高寿而高兴，另一方面又因为他们年纪大了而为之担忧。”<br/>【评析】<br/>春秋末年，社会动荡不安，臣弑君、子弑父的犯上作乱之事时有发生。为了维护宗法家族制度，孔子就特别强调“孝”。所以这一章还是谈“孝”，要求子女从内心深处要孝敬自己的父母，绝对服从父母，这是要给予批评的。<br/>4.22<br/>【原文】<br/>子曰：“古者言之不出，耻躬之不逮也。”<br/>【注释】<br/>古者：古代的人，往往指古代有地位的人。<br/>耻：以……为耻。<br/>躬：亲自，亲身。<br/>逮（dài）：赶上。<br/>【大意】<br/>孔子说：“古人言语不轻易出口，认为说出来了却做不到是可耻的。”<br/>【评析】<br/>孔子一贯主张谨言慎行，不轻易允诺，不轻易表态，如果做不到，就会失信于人，你的威信也就降低了。所以孔子说，古人就不轻易说话，更不说随心所欲的话，因为他们以不能兑现允诺而感到耻辱。这一思想是可取的。<br/>4.23<br/>【原文】<br/>子曰：“以约失之者鲜矣！”<br/>【注释】<br/>约：约束，谨慎节制。这里指用一种立身处世原则约束自己。<br/>失：过失，犯错误。<br/>鲜（xiǎn）：少。<br/>【大意】<br/>孔子说：“因为对自己节制约束而犯过失的事很少。”<br/>4.24<br/>【原文】<br/>子曰：“君子欲讷于言而敏于行。”<br/>【注释】<br/>讷（nè）：语言迟钝。这里指说话谨慎，有分寸。<br/>行：行动，行为。<br/>【大意】<br/>孔子说：“君子要谨慎地说话，却要敏捷地行动。”<br/>4.25<br/>【原文】<br/>子曰：“德不孤，必有邻。”<br/>【注释】<br/>邻：邻居。这里指志趣相投、志同道合的人。<br/>【大意】<br/>孔子说：“有德行的人不会孤立，一定会有志同道合的人。”<br/>4.26<br/>【原文】<br/>子游曰：“事君数，斯辱矣；朋友数，斯疏矣。”<br/>【注释】<br/>数（shuò）：屡次，多次，频繁。<br/>斯：副词，就。<br/>【大意】<br/>子游说：“对君主过于频繁地劝谏就会招致侮辱，对朋友过多地提意见，就会被疏远。” <br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-25-369.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-25-371.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-25.html" action-type="chapterComment" class="comment"><i></i>论语章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

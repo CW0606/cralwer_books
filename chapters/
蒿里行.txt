@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《蒿里行》正文_蒿里行_曹操作品 - 维普阅读网</title>
+<meta name="keywords" content="蒿里行,蒿里行原文,蒿里行阅读,蒿里行全文,曹操作品" />
+<meta name="description" content="蒿里行原文阅读,蒿里行全文在线阅读,曹操作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-486.html";
+var nextpage="novel-chapter-486.html";
+var indexpage = "novel-chapter-486.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-486.html">蒿里行</a></strong>
+<strong><a href="novel-chapter-486.html">蒿里行目录</a></strong>
+<span>蒿里行</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-486.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>蒿里行</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=曹操&amp;searchsubmit=yes"  target="_blank">曹操</a><span class="divide">|</span>发布时间：2014-09-17 21:18:06<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/><br/>　　关东有义士，兴兵讨群凶。<br/><br/>　　初期会盟津，乃心在咸阳。<br/><br/>　　军合力不齐，踌躇而雁行。<br/><br/>　　势利使人争，嗣还自相戕。<br/><br/>　　淮南弟称号，刻玺於北方。<br/><br/>　　铠甲生虮虱，万姓以死亡。<br/><br/>　　白骨露於野，千里无鸡鸣。<br/><br/>　　生民百遗一，念之断人肠。<br/><br/>【注释】<br/><br/>⑴蒿里行：汉乐府旧题，属《相和歌·相和曲》，本为当时人们送葬所唱的挽歌，曹操借以写时事。蒿里，指死人所处之地。<br/>⑵关东：函谷关（今河南灵宝西南）以东。义士：指起兵讨伐董卓的诸州郡将领。<br/>⑶讨群凶：指讨伐董卓及其党羽。<br/>⑷初期：本来期望。盟津：即孟津（今河南孟县南）。相传周武王伐纣时曾在此大会八百诸侯，此处借指本来期望关东诸将也能像武王伐纣会合的八百诸侯那样同心协力。<br/>⑸乃心：其心，指上文“义士”之心。咸阳：秦时的都城，此借指长安，当时献帝被挟持到长安。<br/>⑹力不齐：指讨伐董卓的诸州郡将领各有打算，力量不集中。<br/>⑺踌躇：犹豫不前。雁行（háng）：飞雁的行列，形容诸军列阵后观望不前的样子。此句倒装，正常语序当为“雁行而踌躇”。<br/>⑻嗣：后来。还：同“旋”，不久。自相戕（qiāng）：自相残杀。当时盟军中的袁绍、公孙瓒等发生了内部的攻杀。<br/>⑼淮南句：指袁绍的异母弟袁术于建安二年（197）在淮南寿春（今安徽寿县）自立为帝。<br/>⑽刻玺句：指初平二年（191）袁绍谋废献帝，想立幽州牧刘虞为皇帝，并刻制印玺。玺，印，秦以后专指皇帝用的印章。<br/>⑾铠甲句：由于长年战争，战士们不脱战服，铠甲上都生了虱子。铠甲，古代的护身战服，金属制成的叫铠，皮革制成的叫甲。虮，虱卵。此句以下描写战乱给百姓带来的深重灾难，给社会造成的巨大破坏。<br/>⑿万姓：百姓。以：因此。<br/>⒀生民：百姓。遗：剩下。<br/><br/>【译文】<br/><br/>　　关东的仗义之士都起兵讨伐那些凶残的人。最初约会各路将领订盟，同心讨伐长安董卓。讨伐董卓的各路军队汇合以后，因为各有自己的打算，力不齐一，互相观望，谁也不肯率先前进。势利二字引起了诸路军的争夺，随后各路军队之间就自相残杀起来。袁绍的堂弟袁术在淮南称帝号，袁绍谋立傀儡皇帝在北方刻了皇帝印玺。由于战争连续不断，士兵长期脱不下战衣，铠甲上生满了虮虱，众多的百姓也因连年战乱而大批死亡。尸骨曝露于野地里无人收埋，千里之间没有人烟，听不到鸡鸣。一百个老百姓当中只不过剩下一个还活着，想到这里令人极度哀伤。<br/><br/>【背景】<br/><br/>　　东汉灵帝中平六年（189年），汉灵帝死，少帝刘辩即位，何进等谋诛宦官，不成，被宦官所杀；袁绍袁术攻杀宦官，朝廷大乱；董卓带兵进京，驱逐袁绍、袁术，废除刘辩，另立刘协为帝（献帝），自己把持了政权。汉献帝初平元年（190年），袁术、韩馥、孔伷等东方各路军阀同时起兵，推袁绍为盟主，曹操为奋威将军，联兵西向讨董卓。然而这支联军中的众将各怀私心，都想借机扩充自己的力量，故不能齐心合力，一致对付董卓。当董卓领兵留守洛阳以拒关东之师时，各路人马都逡巡不前，惟恐损失了自己的军事力量。据史载，当时无人敢于率先与董卓交锋，曹操对联军的驻兵不动十分不满，于是独自引领三千人马在荥阳迎战了董卓部将徐荣，虽然战事失利，但体现了曹操的胆识与在这历史动荡中的正义立场。不久，讨伐董卓的联军由于各自的争势夺利，四分五裂，互相残杀起来，其中主要的就有袁绍、韩馥、公孙瓒等部，从此开始了汉末长期的军阀混战，造成人民大量死亡和社会经济极大破坏。此诗即是对这一历史事件的反映。<br/><br/>【赏析】<br/><br/>　　这首《蒿里行》可以说是《薤露行》的姐妹篇，清人方东树的《昭昧詹言》中说：“此用乐府题，叙汉末时事。所以然者，以所咏丧亡之哀，足当哀歌也。《薤露》哀君，《蒿里》哀臣，亦有次第。”就说明了此诗与《薤露行》既有联系，又各有侧重不同。《蒿里》也属乐府《相和歌·相和曲》，崔豹《古今注》中就说过：“《薤露》送王公贵人，《蒿里》送士大夫庶人，使挽柩者歌之，世呼为挽歌。”因此，如果说《薤露行》主要是写汉朝王室的倾覆，那么，《蒿里行》则主要是写诸军阀之间的争权夺利，酿成丧乱的历史事实。<br/>　　此诗前十句勾勒了这样的历史画卷：关东各郡的将领，公推势大兵强的渤海太守袁绍为盟主，准备兴兵讨伐焚宫、毁庙、挟持献帝、迁都长安、荒淫兀耻、祸国殃民的董卓。当时各郡虽然大军云集，但却互相观望，裹足不前，甚至各怀鬼胎，为了争夺霸权，图谋私利，竟至互相残杀起来。诫之不成便加之笔伐，诗人对袁绍兄弟阴谋称帝、铸印刻玺、借讨董卓匡扶汉室之名，行争霸天下称孤道寡之实给予了无情的揭露，并对因此造成的战乱感到悲愤。诗中用极凝练的语言将关东之师从聚合到离散的过程原原本本地说出来，成为历史的真实记录。然而，曹操此诗的成功与价值还不仅在此，自“铠甲生虮虱”以下，诗人将笔墨从记录军阀纷争的事实转向描写战争带给人民的灾难，在揭露军阀祸国殃民的同时，表现出对人民的无限同情和对国事的关注和担忧，这就令诗意超越了一般的记事，而反映了诗人的忧国忧民之心。<br/>　　连年的征战，使得将士长期不得解甲，身上长满了虮子、虱子，而无辜的百姓却受兵燹之害而大批死亡，满山遍野堆满了白骨，千里之地寂无人烟，连鸡鸣之声也听不到了，正是满目疮痍，一片荒凉凄惨的景象，令人目不忍睹。最后诗人感叹道：在战乱中幸存的人百不馀一，自己想到这些惨痛的事实，简直肝肠欲裂，悲痛万分。诗人的感情达到高潮，全诗便在悲怆愤懑的情调中戛然而止。<br/>　　此诗比《薤露行》更深刻地揭露了造成社会灾难的原因，更坦率地表现了自己对现实的不满和对人民的同情。曹操本人真正在政治舞台上崭露头角还是从他随袁绍讨伐董卓始，故此诗中所写的事实都是他本人的亲身经历，较之《薤露行》中所述诸事，诗人更多直接感性的认识，故诗中反映的现实更为真切，感情更为强烈。如最后两句完全是诗人目睹兵连祸结之下民不聊生，哀鸿遍野的真实情境而产生的感时悯世之叹。刘勰评曹氏父子的诗曾说：“志不出于滔荡，辞不离于哀思。”（《文心雕龙·乐府》）锺嵘评曹操的诗也说：“曹公古直，甚有悲凉之句。”（《诗品·下》）都指出了曹操的诗歌感情沉郁悲怆的特点。惟其有情，故曹操的诗读来有感人的力量；惟其悲怆，故造成了其诗沉郁顿挫、格高调响的悲壮气势。这首《蒿里行》即是极为典型的例子。故陈祚明说：“孟德所传诸篇，虽并属拟古，然皆以写己怀来，始而忧贫，继而悯乱，慨地势之须择，思解脱而未能，亹亹之词，数者而已。”（《采菽堂古诗选》）可见曹操诗歌抒忧写愤的特征已为前人所注重。<br/>　　正因为此诗实录当时事实并由诗人直抒胸臆，故全诗用了简洁明了的白描手法，无意于词句的雕凿粉饰，而以明快有力的语言出之，如“关东有义士，兴兵讨群凶。初期会孟津，乃心在咸阳”四句，明白如话，一气直下，将关东之师初起时的声势与正义刻画殆尽，自己的爱憎也于此鲜明地表现出来。又如“军合力不齐，踌躇而雁行”等语描写联军将领的各怀私心，逡巡不前，可谓入木三分。对于袁绍等军阀的讥刺与抨击是随着事态的发展而逐步表现的，起先称之为“义士”，并指出“乃心在咸阳”，意在恢复汉祚，然自“踌躇而雁行”已逗出其军心不齐和怯懦畏战的弊端。然后写其各为势利而争、发展到自相残杀,最后点明其称帝野心，可谓如层层剥笋，步步深入。但都以直接明白的语言写来，令人感到诗人抑捺不住的真实感情，而军阀懦弱而丑恶的嘴脸已跃然纸上。至于诗人感情的强烈，也完全由明畅的语言冲口而出，如写白骨蔽野，千里无人，都以直陈其事的方式说出，最后说“生民百遗一，念之断人肠”，直出胸臆，无一丝造作之意，可视为诗人心声的自然表露。<br/><br/>【点评】<br/><br/>　　（明）钟惺：“关东有义士”四句，古甚，似《书》、《诰》、《誓》。“军合力不齐”二句，写群力牵制，不能成功，尽此五字，即此老赤壁之败，亦未免坐此，□□又云：看尽乱世群雄情形，本初、公路、景升辈落其目中掌中久矣。（《古诗归》）<br/>　　（清）陈祚明：“军合”四句，足尽诸人心事。“白骨”四句悲凉，笔下整严，老气无敌。（《采菽堂古诗选》）<br/>　　（清）张玉榖：此叹二袁辈讨董卓，以不和滋变，乱益甚也。首四，就本初讨逆初心说起，欲抑先扬，作一开势。“军合”六句，转笔接叙当时诸路兵起，迟疑起衅，公路竟至僭号之事。“铠甲”四句，正写诸路兵乱之惨。末二，结到感伤，重在生民涂炭。又云： 二章皆赋当时之事，而借此旧题，盖亦有故。《薤露》、《蒿里》本送葬哀挽之辞，用以伤乱后丧亡，固无不可。且上章执君杀主，意重在上之人。下章万姓死亡，意重在下之人，又恰与《薤露》送王公贵人，《蒿里》送士大夫庶人，两相配合，勿徒以创格目之。（《古诗赏析》）<br/>　　（清）宋长白：余按此诗全在“淮南弟称号”一下八句，即桓温谓王敦“可儿，可儿”之意。老瞒不自觉其捉鼻也。（《柳亭诗话》卷十二）<br/>　　（清）方东树：“铠甲”四句，极写乱伤之惨，而诗则真朴雄阔远大。（《昭昧詹言》）</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-486.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-486.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-486.html" action-type="chapterComment" class="comment"><i></i>蒿里行章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《而已集》正文_文学和出汗_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="而已集,而已集原文,而已集阅读,文学和出汗全文,鲁迅作品" />
+<meta name="description" content="而已集原文阅读,文学和出汗全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-533-6705.html";
+var nextpage="novel-read-533-6707.html";
+var indexpage = "novel-chapter-533.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-533.html">而已集</a></strong>
+<strong><a href="novel-chapter-533.html">而已集目录</a></strong>
+<span>文学和出汗</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-533-6705.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>文学和出汗</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 20:48:03<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>上海的教授对人讲文学，以为文学当描写永远不变的人性，否则便不久长（2）。例如英国，莎士比亚和别的一两个人所写的是永久不变的人性，所以至今流传，其余的不这样，就都消灭了云。<br/>　　这真是所谓“你不说我倒还明白，你越说我越胡涂”了。<br/>　　英国有许多先前的文章不流传，我想，这是总会有的，但竟没有想到它们的消灭，乃因为不写永久不变的人性。现在既然知道了这一层，却更不解它们既已消灭，现在的教授何从看见，却居然断定它们所写的都不是永久不变的人性了。<br/>　　只要流传的便是好文学，只要消灭的便是坏文学；抢得天下的便是王，抢不到天下的便是贼。莫非中国式的历史论，也将沟通了中国人的文学论欤？<br/>　　而且，人性是永久不变的么？<br/>　　类人猿，类猿人，原人，古人，今人，未来的人，……<br/>　　如果生物真会进化，人性就不能永久不变。不说类猿人，就是原人的脾气，我们大约就很难猜得着的，则我们的脾气，恐怕未来的人也未必会明白。要写永久不变的人性，实在难哪。<br/>　　譬如出汗罢，我想，似乎于古有之，于今也有，将来一定暂时也还有，该可以算得较为“永久不变的人性”了。然而“弱不禁风”的小姐出的是香汗，“蠢笨如牛”的工人出的是臭汗。不知道倘要做长留世上的文字，要充长留世上的文学家，是描写香汗好呢，还是描写臭汗好？这问题倘不先行解决，则在将来文学史上的位置，委实是“岌岌乎殆哉”（3）。<br/>　　听说，例如英国，那小说，先前是大抵写给太太小姐们看的，其中自然是香汗多；到十九世纪后半，受了俄国文学的影响，就很有些臭汗气了。那一种的命长，现在似乎还在不可知之数。<br/>　　在中国，从道士听论道，从批评家听谈文，都令人毛孔痉挛，汗不敢出（4）。然而这也许倒是中国的“永久不变的人性”罢。<br/>　　二七，一二，二三。<br/><br/>　　　　　　　　　 ----------------------------------<br/><br/>　　（1）本篇最初发表于一九二八年一月十四日《语丝》周刊第四卷第五期。<br/>　　（2）指梁实秋。他在一九二六年十月二十七、二十八日《晨报副刊》发表的《文学批评辩》一文中说：“物质的状态是变动的，人生的态度是歧异的；但人性的质素是普遍的，文学的品味是固定的。所以伟大的文学作品能禁得起时代和地域的试验。《依里亚德》在今天尚有人读，莎士比亚的戏剧，到现在还有人演，因为普遍的人性是一切伟大的作品之基础。”这种超阶级的“人性论”，是他在一九二七年前后数年间所写的文艺批评的根本思想。<br/>　　（3）“岌岌乎殆哉”　语出《孟子·万章》：“天下殆哉，岌岌乎！”即危险不安的意思。<br/>　　（4）汗不敢出　见《世说新语·言语》：“战战栗栗，汗不敢出。” </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-533-6705.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-533-6707.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-533.html" action-type="chapterComment" class="comment"><i></i>而已集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

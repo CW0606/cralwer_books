@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《九章算术》正文_卷第三 衰分_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="九章算术,九章算术原文,九章算术阅读,卷第三 衰分全文,佚名作品" />
+<meta name="description" content="九章算术原文阅读,卷第三 衰分全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-250-3951.html";
+var nextpage="novel-read-250-3953.html";
+var indexpage = "novel-chapter-250.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-250.html">九章算术</a></strong>
+<strong><a href="novel-chapter-250.html">九章算术目录</a></strong>
+<span>卷第三 衰分</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-250-3951.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷第三 衰分</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-08-25 21:20:00<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>衰分术曰：各置列衰，副并为法，以所分乘未并者各自为实，实如法而一。不满法者，以法命之。<br/><br/>　　〔一〕今有大夫、不更、簪裹、上造、公士，凡五人，共猎得五鹿。欲以爵次分之，问各得几何？　　答曰：<br/><br/>　　大夫得一鹿、三分鹿之二。<br/><br/>　　不更得一鹿、三分鹿之一。　　簪裹得一鹿。<br/><br/>　　上造得三分鹿之二。<br/><br/>　　公士得三分鹿之一。<br/><br/>　　术曰：列置爵数，各自为衰，副并为法。以五鹿乘未并者，各自为实。实如法得一鹿。　　〔二〕今有牛、马、羊食人苗。苗主责之粟五斗。羊主曰：「我羊食半马。」马主曰：「我马食半牛。」今欲衰偿之，问各出几何？　　答曰：<br/><br/>　　牛主出二斗八升、七分升之四。<br/><br/>　　马主出一斗四升、七分升之二。　　羊主出七升、七分升之一。<br/><br/>　　术曰：置牛四、马二、羊一，各自为列衰，副并为法。以五斗乘未并者各自为实。实如法得一斗。<br/><br/>　　〔三〕今有甲持钱五百六十，乙持钱三百五十，丙持钱一百八十，凡三人俱出关，关税百钱。欲以钱数多少衰出之，问各几何？　　答曰：<br/><br/>　　甲出五十一钱、一百九分钱之四十一。　　乙出三十二钱、一百九分钱之一十二。<br/><br/>　　丙出一十六钱、一百九分钱之五十六。<br/><br/>　　术曰：各置钱数为列衰，副并为法，以百钱乘未并者，各自为实，实如法得一钱。<br/><br/>　　〔四〕今有女子善织，日自倍，五日织五尺。问日织几何？　　答曰：　　初日织一寸、三十一分寸之十九。<br/><br/>　　次日织三寸、三十一分寸之七。<br/><br/>　　次日织六寸、三十一分寸之十四。<br/><br/>　　次日织一尺二寸、三十一分寸之二十八。<br/><br/>　　次日织二尺五寸、三十一分寸之二十五。　　术曰：置一、二、四、八、十六为列衰，副并为法，以五尺乘未并者，各自为实，实如法得一尺。<br/><br/>　　〔五〕今有北乡算八千七百五十八，西乡算七千二百三十六，南乡算八千三百五十六，凡三乡，发傜三百七十八人。欲以算数多少衰出之，问各几何？<br/><br/>　　答曰：<br/><br/>　　北乡遣一百三十五人、一万二千一百七十五分人之一万一千六百三十七。<br/><br/>　　西乡遣一百一十二人、一万二千一百七十五分人之四千四。<br/><br/>　　南乡遣一百二十九人、一万二千一百七十五分人之八千七百九。　　术曰：各置算数为列衰，副并为法，以所发傜人数乘未并者，各自为实，实如法得一人。<br/><br/>　　〔六〕今有禀粟，大夫、不更、簪裹、上造、公士，凡五人，一十五斗。今有大夫一人后来，亦当禀五斗。仓无粟，欲以衰出之，问各几何？<br/><br/>　　答曰：<br/><br/>　　大夫出一斗、四分斗之一。<br/><br/>　　不更出一斗。<br/><br/>　　簪褭出四分斗之三。<br/><br/>　　上造出四分斗之二。<br/><br/>　　公士出四分斗之一。　　术曰：各置所禀粟斛斗数，爵次均之，以为列衰，副并而加后来大夫亦五斗，得二十以为法。以五斗乘未并者各自为实。实如法得一斗。<br/><br/>　　〔七〕今有禀粟五斛，五人分之，欲令三人得三，二人得二。问各几何？<br/><br/>　　答曰：<br/><br/>　　三人，人得一斛一斗五升、十三分升之五。<br/><br/>　　二人，人得七斗六升、十三分升之十二。　　术曰：置三人，人三；二人，人二，为列衰。副并为法。以五斛乘未并者，各自为实。实如法得一斛。<br/><br/>　　返衰术曰：列置衰而令相乘，动者为不动者衰。<br/><br/>　　〔八〕今有大夫、不更、簪褭、上造、公士，凡五人，共出百钱。欲令高爵出少，以次渐多，问各几何？<br/><br/>　　答曰：<br/><br/>　　大夫出八钱、一百三十七分钱之一百四。　　不更出一十钱、一百三十七分钱之一百三十。<br/><br/>　　簪褭出一十四钱、一百三十七分钱之八十二。　　上造出二十一钱、一百三十七分钱之一百二十三。<br/><br/>　　公士出四十三钱、一百三十七分钱之一百九。<br/><br/>　　术曰：置爵数各自为衰，而返衰之，副并为法。以百钱乘未并者各自为实。实如法得一钱。<br/><br/>　　〔九〕今有甲持粟三升，乙持粝米三升，丙持粝饭三升。欲令合而分之，问各几何？<br/><br/>　　答曰：<br/><br/>　　甲二升、一十分升之七。<br/><br/>　　乙四升、一十分升之五。<br/><br/>　　丙一升、一十分升之八。<br/><br/>　　术曰：以粟率五十、粝米率三十、粝饭率七十五为衰、而返衰之，副并为法。以九升乘未并者各自为实。实如法得一升。<br/><br/>　　〔一０〕今有丝一斤，价直二百四十。今有钱一千三百二十八，问得丝几何？<br/><br/>　　答曰：五斤八两一十二铢、三分铢之四。<br/><br/>　　术曰：以一斤价数为法，以一斤乘今有钱数为实，实如法得丝数。　　〔一一〕今有丝一斤价直三百四十三。今有丝七两一十二铢，问得钱几何？<br/><br/>　　答曰：一百六十一钱、三十二分钱之二十三。<br/><br/>　　术曰：以一斤铢数为法，以一斤价数，乘七两一十二铢为实。实如法得钱数。　　〔一二〕今有缣一丈价直一百二十六。今有缣一匹九尺五寸，问得钱几何？<br/><br/>　　答曰：六百三十三钱、五分钱之三。<br/><br/>　　术曰：以一丈寸数为法，以价钱数乘今有缣寸数为实，实如法得钱数。<br/><br/>　　〔一三〕今有布一匹，价直一百二十三。今有布二丈七尺，问得钱几何？　　答曰：八十四钱、分钱之三。<br/><br/>　　术曰：以一匹尺数为法，今有布尺数乘价钱为实，实如法得钱数。　　〔一四〕今有素一匹一丈，价直六百二十五。今有钱五百，问得素几何？<br/><br/>　　答曰：<br/><br/>　　术曰：以价直为法，以一匹一丈尺数乘今有钱数为实。实如法得素数。<br/><br/>　　〔一五〕今有与人丝一十四斤，约得缣一十斤。今与人丝四十五斤八两，问得缣几何？<br/><br/>　　答曰：三十二斤八两。<br/><br/>　　术曰：以一十四斤两数为法，以一十斤乘今有丝两数为实，实如法得缣数。　　〔一六〕今有丝一斤，耗七两。今有丝二十三斤五两，问耗几何？<br/><br/>　　答曰：一百六十三两四铢半。　　术曰：以一斤展十六两为法，以七两乘今有丝两数为实，实如法得耗数。　　〔一七〕今有生丝三十斤，乾之，耗三斤十二两。今有乾丝一十二斤，问生丝几何？<br/><br/>　　答曰：一十三斤一十一两十铢、七分铢之二。　　术曰：置生丝两数，除耗数，馀，以为法。三十斤乘乾丝两数为实。实如法得生丝数。<br/><br/>　　〔一八〕今有田一亩，收粟六升、太半升。今有田一顷二十六亩一百五十九步，问收粟几何？<br/><br/>　　答曰：八斛四斗四升、一十二分升之五。<br/><br/>　　术曰：以亩二百四十步为法，以六升、太半升乘今有田积步为实，实如法得粟数。<br/><br/>　　〔一九〕今有取保一岁，价钱二千五百。今先取一千二百，问当作日几何？<br/><br/>　　答曰：一百六十九日、二十五分日之二十三。<br/><br/>　　术曰：以价钱为法，以一岁三百五十四日乘先取钱数为实，实如法得日数。<br/><br/>　　〔二０〕今有贷人千钱，月息三十。今有贷人七百五十钱，九日归之，问息几何？<br/><br/>　　答曰：六钱、四分钱之三。<br/><br/>　　术曰：以月三十日，乘千钱为法。以息三十乘今所贷钱数，又以九日乘之，为实。实如法得一钱。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-250-3951.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-250-3953.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-250.html" action-type="chapterComment" class="comment"><i></i>九章算术章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《徐人歌》正文_徐人歌_先秦无名作品 - 维普阅读网</title>
+<meta name="keywords" content="徐人歌,徐人歌原文,徐人歌阅读,徐人歌全文,先秦无名作品" />
+<meta name="description" content="徐人歌原文阅读,徐人歌全文在线阅读,先秦无名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-169.html";
+var nextpage="novel-chapter-169.html";
+var indexpage = "novel-chapter-169.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-169.html">徐人歌</a></strong>
+<strong><a href="novel-chapter-169.html">徐人歌目录</a></strong>
+<span>徐人歌</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-169.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>徐人歌</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=先秦无名&amp;searchsubmit=yes"  target="_blank">先秦无名</a><span class="divide">|</span>发布时间：2014-08-06 21:26:04<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　延陵季子兮不忘故。<br/><br/>　　脱千金之剑带丘墓。<br/><br/>【注释】<br/>吴国公子季子出使各国，途经徐国，受到热情款待。他心知徐国国君十分喜欢自己的宝剑，但他使命没有完成，不能相赠，便暗下决心等他回来时将宝剑赠于徐国国君。谁知归来后发现徐国国君已突然暴毙，季子于是解下价值千金的宝剑，挂在徐国国君的墓地。后来一直成为后人恪守信义的典范。<br/><br/>【翻译】<br/>延陵季子呀不忘老朋友，<br/>解下宝剑呀挂在墓前树梢头。<br/><br/>【赏析】<br/>这首《徐人歌》，关系到我国古代的一个十分动人的故事。汉代刘向《新序·节士》记载，吴国延陵季子带着宝剑出使晋国，路过徐国时，徐君看到他的宝剑，虽然没有说，却在表情上流露出想要的意思。季子因为马上要到大国去出使，没有把宝剑献给徐君，可是在心里暗自答应了。当他出使回来时，徐君已经去世。于是，他便把宝剑挂在徐君墓前的树上而去。徐国人称许季子的行为，便编了这首歌来赞美他。可知这是一首歌颂守信用、重情谊的歌。<br/>歌中的“延陵季子”，即季札，春秋时吴国贵族，吴王寿梦的幼子，因封于延陵(今江苏常州)所以称为延陵季子，又称公子札。曾于公元前544年（馀祭四年）出使鲁国，后又游历、出使齐、郑、晋等国，以有远见著称。首句中的“故”，即故旧、老朋友，此指徐君，因为已有初交，所以这样称他。全篇共两句，写季札最为动人的美德——不忘故交，即使是在徐君去世以后，仍然毫不犹豫地将当初心中默许赠剑之事付诸行动，解下十分宝贵的佩剑，用带子把它挂到了徐君坟墓前的树上。<br/>守信用，重情谊，这是中华民族传统美德之一。孔子每日三省之一就是“与朋友交而不信乎”(《论语·学而》)。游侠推重的“已然诺”与“言必信，行必果”，强调的也是守信。《汉书·灌夫传》说：“夫(灌夫)不好文学，喜任侠，已然诺。”注谓：“已，必也。谓一言许人，必信之也。”自古以来守信用的事例多得不胜枚举。鲁国尾生与情人约会于桥下，女友未来而洪水已至，他宁愿抱住桥柱被淹死也不肯离去(见《庄子·盗跖》)，是守信；商鞅立大木，出告示说凡是能移此木者可得五十金，一人移去，果得重赏(见《史记·商君列传》)，也是守信；东汉范式与张劭相约两年后某日千里相访，至期，张劭设鸡黍以待，范式果然如约来到(见《后汉书·范式传》)，还是守信。而且守信又往往是与重情相关的。上述三个故事中，除商鞅守信是出于政治需要外，尾生守信是基于爱情，范式、张劭守信是源于友情。季札挂剑的故事，就是古来众多守信用又重情谊的故事中最动人的几个的一个。只是这一故事发生在生者与亡者之间，又因为采用的是极为简洁生动的口语且又深情流注，因而留给人的印象似乎更加深刻，也更加真挚感人。<br/><br/>【评价】<br/>　〖《新序》曰：延陵季子将聘晋。带宝剑以过徐君。徐君观剑不言而心欲之。季子未献也。然其心已许之。使反而徐君已死。季子於是以剑带徐君墓树而去。徐人为之歌曰：〗<br/><br/>　　延陵季子兮不忘故。脱千金之剑带丘墓。（《类聚》作树。○《新序》节士篇。《类聚》三十四。《御览》四百六十五。《诗纪前集》二。）<br/>-----------逯钦立 编《先秦汉魏晋南北朝诗》----------- </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-169.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-169.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-169.html" action-type="chapterComment" class="comment"><i></i>徐人歌章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

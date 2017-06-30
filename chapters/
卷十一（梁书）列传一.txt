@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《旧五代史》正文_卷十一（梁书）列传一_（宋）薛居正作品 - 维普阅读网</title>
+<meta name="keywords" content="旧五代史,旧五代史原文,旧五代史阅读,卷十一（梁书）列传一全文,（宋）薛居正作品" />
+<meta name="description" content="旧五代史原文阅读,卷十一（梁书）列传一全文在线阅读,（宋）薛居正作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1430-26901.html";
+var nextpage="novel-read-1430-26903.html";
+var indexpage = "novel-chapter-1430.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1430.html">旧五代史</a></strong>
+<strong><a href="novel-chapter-1430.html">旧五代史目录</a></strong>
+<span>卷十一（梁书）列传一</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1430-26901.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷十一（梁书）列传一</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=（宋）薛居正&amp;searchsubmit=yes"  target="_blank">（宋）薛居正</a><span class="divide">|</span>发布时间：2016-08-03 23:14:38<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>◎后妃<br/><br/>　　文惠皇太后王氏，开平初追谥。太祖性孝愿，奉太后未尝小失色，朝夕视膳，为士君子之规范。帝严察用法，无纤毫假贷，太后言之，帝颇为省刑。（《北梦琐言》云：梁祖父诚蚤卒，有三子俱幼。母王氏，携养寄于同县人刘崇家。昆弟之中，惟温狡猾无行，崇母抚养之，崇兄弟尝加谴杖。一日，偷崇家釜而窜，为崇追回，崇母遮护，以免扑责。善逐走鹿，往往及而获之。又，崇母常见其有龙蛇之异。他日与仲兄存入黄巢军作贼，伯兄昱与母王氏尚依刘家。温既辞去，不知存亡。及温领镇于汴，盛饰舆马，使人迎母于崇家。王氏惶恐，辞避深藏，不之信，谓人曰：“朱三落拓无行，何处作贼送死，焉能自致富贵？汴帅非吾子也。”使者具陈离乡去里之由，归国立功之事，王氏方泣而信。是日，与崇母并迎归汴。温盛礼郊迎，人士改观。崇以旧恩，位至列卿，为商州刺史。王氏以温贵，封晋国太夫人。仲兄存，于贼中为矢石所中而卒。温置酒于母，欢甚，语及家事，谓母曰：“朱五经辛苦业儒，不登一命，今有子为节度使，无忝前人矣！”母不怿，良久谓温曰：“汝致身及此，信为英特，然行谊未必如先人。朱二与汝同入贼军，身死蛮徼，孤男稚女，艰食无告。汝未有恤孤之心，英特即有，诸无取也。”温垂涕谢罪，即令召诸兄子皆至汴。友宁、友伦皆立军功，位至方镇。）<br/><br/>　　元贞皇后张氏，乾化中追谥。（《五代会要》云：太祖皇后张氏早崩，开平二年，追封贤妃，至乾化二年十一月二十三日，追册曰元贞皇后。又，《北梦琐言》云：梁祖魏国夫人张氏，砀山富室女，父蕤，曾为宋州刺史。温时闻张有姿色，私心倾慕，有丽华之叹。及温在同州，得张于兵间，因以妇礼纳之。温以其宿款，深加礼异。张贤明有礼，温虽虎狼其心，亦所景伏。每军谋国计，必先延访。或已出师，中途有所不可，张氏一介请旋，如期而至，其信重如此。初收兖、郓，得朱瑾妻，温告之曰：“彼既无依，寓于辎车。”张氏遣人召之，瑾妻再拜，张氏答拜泣下，谓之曰：“兖、郓与司空同姓之国，昆仲之间，以小故寻戈，致吾姒如此。设不幸汴州失守，妾亦似吾姒之今日也。”又泣下，乃度为尼，张恒给其费。张既卒，继宠者非人，及僣号后，大纵朋淫，骨肉聚麀，帷薄荒秽，以致友珪之祸，起于妇人。始能以柔婉之德，制豺虎之心，如张氏者，不亦贤乎！又，案《五代会要》所载，内职有梁太祖昭仪陈氏、昭容李氏，《欧阳史》并见《家人传》。）<br/><br/>　　末帝德妃张氏。（《五代会要》云：少帝妃张氏，乾化五年九月二十四日，册为德妃，其夕薨。案《欧阳史次妃郭氏传》云：晋天福三年，诏太社先藏罪人首级，许亲属收葬，乃出末帝首，遣右卫将军安崇阮与妃同葬。妃卒洛阳。又案：《五代史》无外戚传。《五代会要》云：梁太祖长女安阳公主，降罗廷规，开平二年八月追封。长乐公主，降赵岩，开平元年五月十一日封。普宁公主，降昭祚王氏，开平元年五月十一日封。金华公主，开平二年十月封。真宁公主，乾化三年十月五日封。少帝长女寿春公主，乾化三年四月五日封。第二女寿昌公主，贞明元年九月二十三日封。今考《通鉴考异》引《梁功臣列传》云：罗廷规尚安阳公主，又尚金华公主。是书《罗绍威传》亦载开平四年，诏金华公主出家为尼。是金华公主实归罗氏，《五代会要》阙载。）</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1430-26901.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1430-26903.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1430.html" action-type="chapterComment" class="comment"><i></i>旧五代史章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

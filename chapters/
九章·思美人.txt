@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《九章》正文_九章·思美人_屈原作品 - 维普阅读网</title>
+<meta name="keywords" content="九章,九章原文,九章阅读,九章·思美人全文,屈原作品" />
+<meta name="description" content="九章原文阅读,九章·思美人全文在线阅读,屈原作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-87-1955.html";
+var nextpage="novel-read-87-1957.html";
+var indexpage = "novel-chapter-87.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-87.html">九章</a></strong>
+<strong><a href="novel-chapter-87.html">九章目录</a></strong>
+<span>九章·思美人</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-87-1955.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>九章·思美人</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=屈原&amp;searchsubmit=yes"  target="_blank">屈原</a><span class="divide">|</span>发布时间：2014-08-02 20:35:36<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文<br/>思美人兮，揽涕而伫眙。<br/>媒绝路阻兮，言不可结而诒。<br/>蹇蹇之烦冤兮，陷滞而不发。<br/>申旦以舒中情兮，志沈菀而莫达。<br/>愿寄言于浮云兮，遇丰隆而不将。<br/>因归鸟而致辞兮，羌迅高而难当。<br/>高辛之灵盛兮，遭玄鸟而致诒。<br/>欲变节以从俗兮，媿易初而屈志。<br/>独历年而离愍兮，羌冯心犹未化。<br/>宁隐闵而寿考兮，何变易之可为。<br/>知前辙之不遂兮，未改此度。<br/>车既復而马颠兮，蹇独怀此异路。<br/>勒骐骥而更驾兮，造父为我操之。<br/>迁逡次而勿驱兮，聊假日以须时。<br/>指嶓冢之西隈兮，与纁黄以为期。<br/>开春发岁兮，白日出之悠悠。<br/>吾将荡志而愉乐兮，遵江夏以娱忧。<br/>揽大薄之芳茝兮，搴长洲之宿莽。<br/>惜吾不及古人兮，吾谁与玩此芳草。<br/>解萹薄与杂菜兮，备以为交佩。<br/>佩缤纷以缭转兮，遂萎绝而离异。<br/>吾且儃佪以娱忧兮，观南山之变态。<br/>窃快在中心兮，扬厥凭而不俟。<br/>芳与泽其杂糅兮，羌芳华自中出。<br/>纷郁郁其远蒸兮，满内而外扬。<br/>情与质信可保兮，羌居蔽而闻章。<br/>令薜荔以为理兮，惮举趾而缘木。<br/>因芙蓉而为媒兮，惮褰裳而濡足。<br/>登高吾不说兮，入下吾不能。<br/>固朕形之不服兮，然容与而狐疑。<br/>广遂前画兮，未改此度兮。<br/>命则处幽吾将罢兮，愿及白日之未暮也。<br/>独茕茕而南行兮，思彭咸之故也。<br/><br/>赏析<br/>对本篇诗的著作权问题，现代不少学者曾有怀疑，引起过一些争议；笔者以为，由于所持论据尚欠充分，这些怀疑说服力不足，本诗的著作权仍应归屈原本人。<br/><br/>　　篇题为“思美人”，美人系指楚君王(怀王或顷襄王)。诗为屈原于江南放逐途中所作，表述的心愿仍为思国、思乡和美政理想一定要实现，希望君主不重蹈历史覆辙，努力振兴楚国。<br/><br/>　　本诗最大的特点即是“依诗取兴，引类譬喻”(王逸《楚辞章句·离骚解题》)，如同《离骚》一样，诗中处处都体现出“香草以配忠贞，恶禽臭物以比谗佞。灵脩美人以媲于君，宓妃佚女以譬贤臣”(同上)的鲜明特色。<br/><br/>　　首先，诗题“思美人”即是“灵脩美人以媲于君”的体现；“美人”在诗中毫无疑问是指楚君主，而非一般意义上的美女。(至于是哪位君主——怀王抑或顷襄王，历来有争议。)屈原撰写此诗的目的，就是试图以思女形式，寄托自己对君主的希冀，以求得到君主的信赖而实现理想目标。<br/><br/>　　诗一开篇即陈述了诗人思女的行为——“揽涕”、“伫眙”，感情真挚而又炽烈。然而由于客观条件的拘牵——无良媒，致使他“志沉菀而莫达”，一再申言也无济于事。不过，诗人并不因此而完全丧失信心，他仍竭尽全力地努力追求：“宁隐闵而寿考兮，何变易之可为。”“知前辙之不遂兮，未改此度。”“广遂前画兮，未改此度也。”直至诗篇之末，诗人明知自己已实在无能为力了，却仍不改“度”——努力的行为不得已作罢，而节操却始终不易。<br/><br/>　　诗篇在写美人的同时，也写到了香花美草，它们均一一“以配忠贞”：沿江夏行进时，诗人“擥芳茝”、“搴宿莽”、“解萹薄与杂菜”，这里的“芳茝”、“宿莽”、“萹薄”、“杂菜”，均非实指植物，而是用以喻指才能，诗人一路采摘、佩饰它们，乃是为自己为国效力时作准备。遗憾的是美人——君主并不赏识，致使诗人只得发出“吾谁与玩此芳草”的慨叹。这还不够，诗人更以芳草自譬，说芳草与污秽杂糅，作为芳草，终能卓然自现，而决不会为污秽所没；又将芳草比作媒人，“令薜荔以为理”、“因芙蓉而为媒”，欲通过这些媒人而向美人求爱，但又缺乏勇气。毫无疑问，美人、鲜花、香草，在诗篇中都一一成了作者心目中的理想化象征者，它们在表现诗人本身的气质形象及体现诗篇的主旨方面起了极好的烘托作用。<br/><br/>　　超越时间与空间的局限，大胆地将地上与天国、人间与仙境、历史与现实等有机地融合一体，让现实人物、历史人物、神话人物交织一起，从而形成浓烈的浪漫奇特风格，是本篇又一突出的艺术手法。<br/><br/>　　诗人在求美人未成后，思绪难以自抑，情感受到挫伤，此时，处于现实困境的人物突然想到了神话人物、历史人物——“愿寄言于浮云兮，遇丰隆而不将”，“高辛之灵盛兮，遭玄鸟而致诒”，“勒骐骥而更驾兮，造父为我操之”。这些神话人物与历史人物的闯入，大大丰富了诗章的艺术内涵，拓展了读者的想像思维空间，显示了诗人超常的艺术想像力；正由于此，本诗才更显出想像奇特、神思飞扬的特点，表现出与《九章》其他篇有所不同的风格与色彩。　(徐志啸) </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-87-1955.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-87-1957.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-87.html" action-type="chapterComment" class="comment"><i></i>九章章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

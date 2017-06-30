@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《月夜》正文_月夜_刘方平作品 - 维普阅读网</title>
+<meta name="keywords" content="月夜,月夜原文,月夜阅读,月夜全文,刘方平作品" />
+<meta name="description" content="月夜原文阅读,月夜全文在线阅读,刘方平作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-1169.html";
+var nextpage="novel-chapter-1169.html";
+var indexpage = "novel-chapter-1169.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1169.html">月夜</a></strong>
+<strong><a href="novel-chapter-1169.html">月夜目录</a></strong>
+<span>月夜</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-1169.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>月夜</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘方平&amp;searchsubmit=yes"  target="_blank">刘方平</a><span class="divide">|</span>发布时间：2015-02-07 22:47:52<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　更深月色半人家，北斗阑干南斗斜。<br/>　　今夜偏知春气暖，虫声新透绿窗纱。<br/><br/>【注释】<br/>⑴更深：古时计算时间，一夜分成五更。更深，夜深了。<br/>⑵月色半人家：月光只照亮了人家房屋的一半，另一半隐藏在黑暗里。<br/>⑶北斗：在北方天空排列成斗形的七颗亮星。<br/>⑷阑干：这里指横斜的样子。<br/>⑸南斗：有星六颗。在北斗星以南，形似斗，故称“南斗”。<br/>⑹偏知：才知，表示出乎意料。<br/>⑺新：初。新透：第一次透过。<br/><br/>【译文】<br/>夜静更深，月光只照亮了人家房屋的一半，另一半隐藏在黑夜里。<br/>北斗星倾斜了，南斗星也倾斜了。<br/>今夜才知春天的来临，因为你听那被树叶映绿的窗纱外，唧唧的虫鸣，头一遭儿传到了屋子里来了。<br/><br/>【赏析】<br/>　　唐诗中，以春和月为题的不少。或咏春景而感怀，或望明月而生情思。此诗写春，不唯不从柳绿桃红之类的事物着笔，反借夜幕将这似乎最具有春天景色特点的事物遮掩起来，写月，也不细描其光影，不感叹其圆缺；而只是在夜色中调进半片月色，这样，夜色不至太浓，月色也不至太明，造成一种蒙胧而和谐的旋律。<br/>　　首句的“半人家”是诗中的佳笔，它写出了庄户人家的农舍一半为银白色月晖所包围，而另一半却依然坐落在黑暗中。而组合村庄的大片农舍都是这样一边有光，一边阴暗。如此着色，便使黑者更黑，白者更白，在用光上便能更加突出主体（村落）。这要比让描写的景物全都搽上一层亮色更醒目，也更有艺术美。有不少注本谓“半人家”是指一半人家，倒也能说得通，但诗句却无一点灵气了。“月色半人家”是“更深”二字的具体化，接下的一句“北斗阑干南斗斜”，以互文手法解释，即北斗和南斗都发生了倾斜变化，这样就可看出时间的推移，已从入夜而接近更深了。此是“更深”于夜空的征象，两句一起造成春夜的静穆，意境深邃。月光半照，是因为月轮西斜，诗以星斗阑干为映衬，这就构成两句之间的内在关联。<br/>　　恬谧的春夜，万物的生息迁化在潜行。“今夜偏知春气暖．虫声新透绿窗纱”，正是诗人全身心地去体察大自然的契机而得到的佳句，运用了典型示范的笔法来加强春色迷人的主题，其运用的主要意象便是虫声。又有“新透绿窗纱”补加，更给人以清新右爱的感觉。因为这虫声本来已是够清脆悦耳的了，再让它通过“绿窗纱”，似乎将它过滤了一遍，将那些不规整的杂首全都清除掉，剩下的当然全是乐音了。从虫芥之微而知寒暖之候，说明诗人有着深厚的乡村生活的根柢。因此。这两句非一般人所能道。没有长期乡村生活经验的人固然说不出；便是生活在乡村，也并非人人都说得出来。今夜虫鸣，究竟是第一回还是第几回，谁去注意它，这须得有心人，还应该有一颗诗心。一个“新”字，饱含对乡村生活的深情，既是说清新，又有欣悦之意。<br/>　　诗中说“春气暖”自“今夜”始，表明对节候变化十分敏感，“偏知”一语洋溢着自得之情。写隔窗听到虫声，用“透”。给人以生机勃发的力度感。窗纱的绿色，夜晚是看不出的。这绿意来自诗人内心的盎然春意。诗人之所以不描写作为春天表征的鲜明的外在景观。而是借助深夜景色气氛来烘托诗的意境，就是因为这诗得之于诗人的内心。诗人是以一颗纯净的心灵体察自然界的细微变化的。诗的前二句写景物，不着一丝春的色彩。却暗中关合春意，颇具蕴藉之致。第三句的“春气暖”。结句的“虫声”，“绿窗纱”互为映发。于是春意俱足。但这声与色，仍从“意”（感觉）中来。诗人并非唯从“虫声”才知道春气已暖，“春气暖”是诗人对“今夜”的细微感觉，而“虫声”只是与其感觉冥合的一个物候。如此描写月夜，诗人对季节、时间、空间感受非常敏锐，因此不落俗套，富于创新。由虫声而知春暖春意春至春景，让人的喜悦之情油然而生，诗句构思和艺术表现都见新巧，一感一听，生了一喜，颇具新意。全诗写得自然流畅，生趣横溢，洋溢着诗人对春天、对生命的赞颂。唐代田园诗成为一个重要流派，也不乏名家。然而，能仿佛陶诗一二者并不多见，象本诗这样深得陶体真趣的，就更为寥寥。<br/><br/>【点评】<br/>清代文学家顾贞观评此诗：“二十有八字无可用者，其‘透’一字妙甚，故言唐人村田之诗善者当此绝句。”<br/>语言学家刘征在《唐诗随评》中评论此诗：“唐诗中，借助其他景物来反映月色，是这首诗独到的手法。在一种静谧的乡村世界，给读者带来了清新、和谐的感觉。”<br/>学者张志公评此诗：“在一种平静的氛围中又不失带来的格调，是种突破，是种革新。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-1169.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-1169.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1169.html" action-type="chapterComment" class="comment"><i></i>月夜章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

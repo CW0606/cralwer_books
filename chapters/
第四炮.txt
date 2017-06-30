@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《四十一炮》正文_第四炮_莫言作品 - 维普阅读网</title>
+<meta name="keywords" content="四十一炮,四十一炮原文,四十一炮阅读,第四炮全文,莫言作品" />
+<meta name="description" content="四十一炮原文阅读,第四炮全文在线阅读,莫言作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1412-26030.html";
+var nextpage="novel-read-1412-26032.html";
+var indexpage = "novel-chapter-1412.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1412.html">四十一炮</a></strong>
+<strong><a href="novel-chapter-1412.html">四十一炮目录</a></strong>
+<span>第四炮</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1412-26030.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第四炮</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-23.html" target="blank">文学小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=莫言&amp;searchsubmit=yes"  target="_blank">莫言</a><span class="divide">|</span>发布时间：2015-06-23 22:21:27<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>初夏的早晨人们很疲倦，因为夜实在是太短了，似乎刚一闭眼天就亮了。我和父亲逃到尘土飞扬的大街上，还听到母亲在院子里大声吼叫。那时候我们还住着从爷爷手里继承下来的那三间低矮破旧的草屋，日子过得既乱七八糟又热热闹闹。那三间草屋在村子里新盖起来的红瓦房群落里寒酸透顶，就像一个小叫花子跪在一群披绸挂缎的地主老财面前乞讨。院子的围墙只有半人高，墙头上生长着野草，这样的围墙别说挡不住强盗，连怀孕的母狗都挡不住。郭六家的那条母狗就经常跳到我家院子里叼我们的肉骨头。我经常入迷地看着那条母狗轻捷地跳进跳出，它的黑色的xx头擦着墙头，落地后还晃晃荡荡。父亲走在大街上，我骑在父亲的肩头上，高高在上地看着母亲在院子里一边怒骂一边用菜刀剁着一堆育秧拔苗后的地瓜母本，这是她从火车站前垃圾堆上捡回来的。因为父亲的好吃懒做，我们家的日子过得像抽风一样，富起来满锅肥肉，穷起来锅底朝天。父亲被母亲骂急了就说：快了，快了，第二次"土改"就要开始了，到时候你就会感谢我了。你不用羡慕老兰，老兰的下场跟他那个地主老子一样，被贫农团的人拉到桥头上，父亲伸出一根食指，宛如一根枪筒，指向母亲的头颅，嘴巴里发出一声模拟的枪声：嘭！母亲惊惧地捂住脑袋，脸色刷白。但二次"土改"总是迟迟不来，害得母亲不得不捡人家扔了的烂地瓜回来喂小猪。我家那两只小猪因为吃不饱，饿得吱吱乱叫，听着就让人心烦。父亲曾经愤怒地说：叫叫，叫他妈的什么叫？！再叫就煮了吃了你们这些杂种。母亲攥着菜刀，目光炯炯地看着父亲，说：你敢，这两头小猪是我养的，谁敢动它们一根毛儿我就跟谁拼个鱼死网破！父亲嘻嘻地笑着说：看把你吓的那个样子，这两头瘦猪，除了骨头就是皮，白给我吃我也不吃！我仔细地打量过那两头小猪，它们身上可吃的肉实在是有限，但它们那四只呼呼嗒嗒的大耳朵还能拌出两盘子好菜，猪头上最好吃的东西，我认为就是耳朵，那东西不肥不腻，里边全是白色的小脆骨，嚼起来咯咯嘣嘣，很有咬头，如果用新鲜的顶花戴刺儿的小黄瓜加上蒜泥和香油一拌，味道就会更加美好。我说：爹爹，我们可以吃它们的耳朵！母亲愤怒地瞪着我，说：看我先把你这个小杂种的耳朵割下来吃了！她提着菜刀真地冲了上来，吓得我扑到父亲怀里躲藏。她拧住了我的耳朵就往外拖，父亲扳住我的脖子往后拽，我被撕裂的危险和痛苦折磨得尖声嚎叫，与村子里的杀猪声混合在一起，几乎没有什么区别。到底还是父亲劲大，把我从母亲手里挣了出来。他低头察看了我的裂了纹的耳朵，抬起头来说：你的心真狠！人家说虎毒不食亲儿，我看你比虎还要毒！母亲气得面如黄蜡，嘴唇青紫，站在灶前浑身颤抖。我在父亲的护卫之下，胆子壮了起来，便提着母亲的名字大声叫骂：杨玉珍，我这辈子就毁在你这个臭娘们手里！母亲被我骂愣了，目不转睛地盯着我看。父亲嘿嘿地干笑几声，把我拎起来就往外跑，我们跑到院子里，才听到母亲发出了尖厉的长嚎。小畜生，你把我气死了哇……那两头小猪扭动着细长的尾巴，闷着头在墙角上拱土，仿佛两个试图打洞越狱的囚徒。父亲在我的脑袋上拍了一巴掌，低声问我：你这小子，怎么知道她的名字？我仰望着他严肃的黑脸，说：我是听你说的呀！——我什么时候对你说过她叫杨玉珍？——你对野骡子姑姑说过，你说，"我这辈子就毁在杨玉珍这个臭娘们手里！"——父亲用他的大手捂住了我的嘴，压低了嗓门对我说：小子，你给我闭嘴，爹待你不薄，你可别害我！——父亲的手肥厚松软，散发着一股辛辣的烟味儿。这样的男人手在农村比较少见，原因就在于他半辈子游手好闲，几乎没参加沉重的体力劳动。他松开手后，我粗重地喘息着，对他的暧昧态度很不满意。这时，母亲提着菜刀从屋子里蹿了出来。她好像故意把头发搓乱了似的，脑袋不像脑袋，像村子中央那棵大杨树上的喜鹊窝。她大叫着：罗通，罗小通，你们这两个混账王八羔子，老娘今日不活了，跟你们拼了，这日子反正是没法子往下过了，咱们一起完蛋吧！——母亲脸上可怕的表情向我们宣告：她满腔怒火，决不是虚张声势，看样子是豁出来要跟我们同归于尽了。一女拼命，十男莫敌，这种情况下迎头上去，基本上是送死，这时候最明智的莫过于逃跑。我父亲生活浪荡，但智商很高，好汉不吃眼前亏，他一把将我抄起来夹在胳膊弯子里，转身就往墙跟跑去。他没往大门前跑是完全正确的，因为尽管我家没有任何值钱的东西，但我母亲还是恪守着她从娘家带来的恶习，每天晚上都用一把大铜锁把门锁起来。如果说我们家还有什么财物能换来一只猪头，也只有这把铜锁了。我猜想被肉馋急了时，父亲肯定没少打这把铜锁的主意，但母亲爱护这把锁就像爱护她的耳朵一样，因为这锁是我姥爷送给她的嫁妆，是个象征性的礼物，其中包含着姥爷一大片良苦用心。父亲如果夹着我跑到门口，即便破门而出，也势必浪费很多时间，而在这段时间里，母亲的菜刀很可能让我们脑袋开花。父亲夹着我跑到墙边，一个鹞子翻身便翻过了墙头，将暴怒的母亲和一大堆烦心事儿通通地抛在了脑后。我丝毫也不怀疑母亲同样具有翻越土墙的能力，但她并没有这样做，她把我们轰出院子后就停止了追赶，站在墙边蹦跳了一阵就回到了房门前，一边剁着那些烂地瓜，一边骂人。这是一种绝妙的发泄方法，既不产生不可收拾的流血性后果，当然也就不必承担法律责任，但同时又体会到了刀砍斧剁心中仇敌的快感。当时我猜想她把那些烂地瓜当成了我们的脑袋，现在回想起来，她更多的是把那些烂地瓜当成了野骡子的脑袋。她心中真正的仇敌不是我也不是父亲，而是那个野骡子。她认为是野骡子勾引了我的父亲，这是否是个冤案我也说不清楚。在父亲与野骡子的关系上，究竟谁占主动、是谁先向对方送去了秋波，只有他们俩能说清。<br/><br/>　　说到此处，有一种异样的温暖涌上了我的心头，这个方才转到马通神后边去的女子，跟我的野骡子姑姑是多么相似啊。我一直感到她眼熟，但一直没有往这里想。因为野骡子姑姑早在十年前就死了。也许野骡子姑姑没有死？或者她死后又复了生？或者她被别人借尸还了魂？我的心中一阵阵地迷糊，感到眼前的景物都有些漂浮起来。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1412-26030.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1412-26032.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1412.html" action-type="chapterComment" class="comment"><i></i>四十一炮章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

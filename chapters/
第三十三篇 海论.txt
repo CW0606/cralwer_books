@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《黄帝内经》正文_第三十三篇 海论_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="黄帝内经,黄帝内经原文,黄帝内经阅读,第三十三篇 海论全文,佚名作品" />
+<meta name="description" content="黄帝内经原文阅读,第三十三篇 海论全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-58-1872.html";
+var nextpage="novel-read-58-1874.html";
+var indexpage = "novel-chapter-58.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-58.html">黄帝内经</a></strong>
+<strong><a href="novel-chapter-58.html">黄帝内经目录</a></strong>
+<span>第三十三篇 海论</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-58-1872.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第三十三篇 海论</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-07-29 22:23:20<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【本章要点】<br/>　　一、说明十二经脉应十二经水合为“四海”，它们各有会聚与输注之处。<br/>　　二、文中列举了四海有余和不足的症状，并提出“调其虚实”的治疗原则。<br/>　　【原文】<br/>　　黄帝问于岐伯曰：余闻刺法于夫子，夫子之所言，不离于营卫血气。夫十二经脉者，内属于腑脏，外络于肢节，夫子乃合之于四海①乎。岐伯答曰：人亦有四海，十二经水。经水者，皆注于海，海有东西南北，命曰四海。<br/>　　黄帝曰：以人应之奈何？岐伯曰：人有髓海，有血海，有气海，有水谷之海，凡此四者，以应四海也。<br/>　　黄帝曰：远乎者，夫子之合人天地四海也，愿闻应之奈何？岐伯曰：必先明知阴阳表荥输②所在，四海定矣。<br/>　　黄帝曰：定之奈何？岐伯曰：胃者水谷之海，其输上在气街（冲），下至三里；冲脉者，为十二经之海，其输上在于大杼，下出于巨虚之上下廉；膻中者，为气之海，其输上在于柱骨之上下，前在于人迎，脑为髓之海，其输上在于其盖，下在风府。<br/>　　黄帝曰：凡此四海者，何利何害？何生何败？岐伯曰：得顺者生，得逆者败；知调者利，不知调者害。<br/>　　黄帝曰：四海之逆顺奈何？岐伯曰：气海有余者，气满胸中，悗息③面赤；气海不足，则气少不足以言。血海有余，则常想其身大，怫然④不知其所病；血海不足，亦常想其身小，狭然⑤不知其所病。水谷之海有余，则腹满；水谷之海不足，则饥不受谷食。髓海有余，则轻劲多力，自过其度⑥；髓海不足，则脑转耳鸣，胫酸眩冒，目无所见，懈怠安卧。<br/>　　黄帝曰：余已闻逆顺⑦，调之奈何？岐伯曰：审守其俞，而调其虚实，无犯其害，顺者得复，逆者必败。黄帝曰：善。<br/>　　【注释】<br/>　　①四海：指自然界东南西北四海。<br/>　　②荥输：指十二经脉的荥穴和输穴，这里专指四海所流注的穴位。<br/>　　③悗息：胸中满闷，是气海穴有实证的主要症状之一。<br/>　　④怫然：形容郁闷不舒的样子。<br/>　　⑤狭然：形容自觉身体狭小的样子。<br/>　　⑥轻劲多力，自过其度：轻快有力，行动无度，有精力过于旺盛、狂躁的感觉。<br/>　　⑦逆顺：指异常和正常。<br/>　　【译文】<br/>　　黄帝问岐伯道：你讲刺法时，总是离不开营卫气血。人体中运行营卫气血的十二经脉，在内联属于五脏六腑，在外联络于肢体关节，你能把它们与四海联系起来吗？岐伯回答说：人体也有四海和与十二经脉相应的十二经水，经水都留注于海中，自然界有东、南、西、北四个海，因此将此称为四海。<br/>　　黄帝说：人体是怎样与四海相应的呢？岐伯说：人体有髓海、血海、气海、水谷之海，这四海与自然界的四海相应。<br/>　　黄帝说：这实在是一个很精深的问题，你把人身的四海与自然界的四海联系在一起，它们是怎样相应的呢？岐伯回答说：必须先明确人身的阴阳、表里及经脉荥、输穴等的分布情况，才可以确定人身的四海。<br/>　　黄帝说：怎样确定四海及经脉重要穴位的位置呢？岐伯说：胃受纳水谷，故为水谷之海。胃的气血所输注的重要穴位，在上为气冲穴，在下为足三里穴；冲脉与十二经联系密切，故为十二经之海。冲脉的气血所输注的重要穴位，在上为大杼穴，在下为上巨虚和下巨虚；膻中是宗气会聚的地方，所以称为气海。膻中的气血所输注的重要穴位，在上部为天柱骨上的痖门穴和天柱骨下的大椎穴，在前面的有人迎穴；脑中充满髓液，所以脑为髓，脑的气血所输注的重要穴位，在上部脑盖中央的百会穴，在下为风府穴。<br/>　　黄帝说：这四海，怎样滋助和损害人体呢？又是怎样促进和耗败生命活动的呢？岐伯说：如人身四海功能正常，生命力就旺盛；若四海功能失常，人的生命活动就会减弱。调养四海，就有利于身体健康，不善于调养四海，身体就会遭受损害。<br/>　　黄帝说：四海的正常和反常情况是怎样的呢？岐伯说：如人的气海邪气有余，就会出现胸中满闷，呼吸急促，面色红赤的症状；如气海正气不足，就会出现气少而说话无力。如人的血海邪气有余，就会常常感到自己身体庞大，郁闷不舒，但又不知道有什么病。若人的水谷之海邪气有余，就会得腹满的病；如水谷之海正气不足，就会出现饥饿但却不欲进食的症状。如髓海邪气有余，动作就会表现为过于轻快有力，行动无度；髓海正气不足，就会出现头晕眩、耳鸣、目眩、腿酸软无力、目盲，周身懈怠懒动，常欲安卧等症状。<br/>　　黄帝说：又怎样治疗四海的疾病呢？岐伯说：应诊察四海输注的各个要穴，并调节它们的虚实，但不要违反虚补、实泄的治疗原则，以免造成严重的后果。按照这条原则去治疗，就能使身体康复，否则，就会有死亡的危险。黄帝说：讲得真好！</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-58-1872.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-58-1874.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-58.html" action-type="chapterComment" class="comment"><i></i>黄帝内经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

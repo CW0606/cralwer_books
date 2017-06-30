@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《黄帝内经》正文_第二十一篇 经脉别论_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="黄帝内经,黄帝内经原文,黄帝内经阅读,第二十一篇 经脉别论全文,佚名作品" />
+<meta name="description" content="黄帝内经原文阅读,第二十一篇 经脉别论全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-58-1778.html";
+var nextpage="novel-read-58-1780.html";
+var indexpage = "novel-chapter-58.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-58.html">黄帝内经</a></strong>
+<strong><a href="novel-chapter-58.html">黄帝内经目录</a></strong>
+<span>第二十一篇 经脉别论</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-58-1778.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第二十一篇 经脉别论</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-07-29 21:54:57<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【本篇要点】<br/>　　一:说明环境、情志的变化和体力的劳逸都影响着脉搏.临床诊断,必须结合观察病人身体的强弱、骨肉皮肤的形态等,才能正确地了解病情.<br/>　　二:详细地阐述了饮食物的消化、吸收、输布等过程,指出其主要是依靠脾的运化和肺的输布,得以营养全身.<br/>　　三:论述了六经偏盛所发生的症状和治法,同时阐述了气逆所出现的脉象.<br/>　　【原文与译文】<br/>　　黄帝问曰：人之居处动静勇怯，脉亦为之变乎？<br/>　　黄帝问道：人们的居住环境、活动、安静、勇敢、怯懦有所不同，其经脉血气也随着变化吗？<br/>　　岐伯对曰：凡人之惊恐恚劳动静，皆为变也。<br/>　　岐伯回答说：人在惊恐、忿怒、劳累、活动或安静的情况下，静脉血气都要受到影响而发生变化。<br/>　　是以夜行则喘出于肾，淫气病肺。<br/>　　所以夜间远行劳累，就会扰动肾气，使肾气不能闭藏而外泄，则气喘出于肾脏，其偏胜之气，就会侵犯肺脏。<br/>　　有所堕恐，喘出于肝，淫气害脾。<br/>　　若因坠堕而受到恐吓，就会扰动肝气，而喘出于肝，其偏胜之气就会侵犯脾脏。<br/>　　有所惊恐，喘出于肺，淫气伤心。<br/>　　或有所惊恐，惊则神越气乱，扰动肺气，喘出于肺，其偏胜之气就会侵犯心脏。<br/>　　渡水跌仆，喘出于肾与骨。<br/>　　渡水而跌仆，跌仆伤骨，肾主骨，水湿之气通于肾，致肾气和骨气受到扰动，气喘于肾和骨。<br/>　　当是之时，勇者气行则已，怯者则着而为病也。<br/>　　在这种情况下，身体强盛的人，气血畅行，不会出现什麽病变；怯弱的人，气血留滞，就会发生病变。<br/>　　故曰：诊病之道，观人勇怯，骨肉皮肤，能知其情，以为诊法也。<br/>　　所以说：诊察疾病，观察病人的勇怯及骨骼、肌肉、皮肤的变化，便能了解病情，并以此作为诊病的方法。<br/>　　故饮食饱甚，汗出于胃。惊而夺精，汗出于心。持重远行，汗出于肾。疾走恐惧，汗出于肝。摇体劳苦，汗出于脾。<br/>　　在饮食过饱的时候，则食气蒸发而汗出于胃。惊则神气浮越，则心气受伤而汗出于心。负重而远行的时候，则骨劳气越，肾气受伤而汗出于肾。疾走而恐惧的时候，由于疾走伤筋，恐惧伤魂，则肝气受伤而汗出于肝。劳力过度的时候，由于脾主肌肉四肢，则脾气受伤而汗出于脾。<br/>　　故春秋冬夏，四时阴阳，生病起于过用，此为常也。<br/>　　春、夏、秋、冬四季阴阳的变化都有其常度，人在这些变化中所发生疾病，就是因为对身体的劳用过度所致，这是通常的道理。<br/>　　食气入胃，散精于肝，淫气于筋。<br/>　　五谷入胃，其所化生的一部分精微之气输散到肝脏，再由肝将此精微之气滋养于筋。<br/>　　食气入胃，浊气归心，淫精于脉。<br/>　　五谷入胃，其所化生的精微之气，注入于心，再由心将此精气滋养于血脉。<br/>　　脉气流经，经气归于肺，肺朝百脉，输精于皮毛。<br/>　　血气流行在经脉之中，到达于肺，肺又将血气输送到全身百脉中去，最后把精气输送到皮毛。<br/>　　毛脉合精，行气于腑，腑精神明，留于四藏。<br/>　　皮毛和经脉的精气汇合，又还流归入于脉，脉中精微之气，通过不断变化，周流于四脏。<br/>　　气归于权衡，权衡以平，气口成寸，以决死生。<br/>　　这些正常的生理活动，都要取决于气血阴阳的平衡。气血阴阳平衡，则表现在气口的脉搏变化上，气口的脉搏，可以判断疾病的死生。<br/>　　饮入于胃，游溢精气，上输于脾，脾气散精，上归于肺，通调水道，下输膀胱，水精四布，五经并行。合于四时，五脏阴阳，揆度以为常也。<br/>　　水液入胃以后，游溢布散其精气，上行输送与脾，经脾对精微的布散转输，上归于肺，肺主清肃而司治节，肺气运行，通调水道，下输于膀胱。如此则水精四布，外而布散于皮毛，内而灌输于五脏之经脉，并能合于四时寒暑的变易和五脏阴阳的变化。作出适当的调节，这就是经脉的正常生理现象。<br/>　　太阳脏独至，厥喘虚气逆，是阴不足阳有余也。表里当俱泻，取之下俞。<br/>　　太阳经脉偏盛，则发生厥逆、喘息、虚气上逆等症状，这是阴不足而阳有余，表里两经俱当用泻法，取足太阳经的束骨穴和足少阴经的太溪穴。<br/>　　阳明脏独至，是阳气重并也。当泻阳补阴，取之下俞。<br/>　　阳明经脉偏盛，是太阳、少阳之气重并于阳明，当用泻阳补阴的治疗方法，当泻足阳明经的陷谷穴，补太阴经的太白穴。<br/>　　少阳脏独至，是厥气也。蹻前卒大，取之下俞。<br/>　　少阳经脉偏盛，是厥气上逆，所以阳蹻脉前的少阳劢猝然盛大，当取足少阳经的临泣穴。<br/>　　少阳独至者，一阳之过也。<br/>　　少阳经脉偏盛而独至，就是少阳太过。<br/>　　太阴脏搏者，用心省真，五脉气少，胃气不平，三阴也。宜治其下俞，补阳泻阴。<br/>　　太阴经脉鼓搏有力，应当细心的审查是否真脏脉至，若五脏之脉均气少，胃气又不平和，这是足太阴脾太过的缘过，应当用补阳泻阴的治疗方法，补足阳明之陷谷穴，泻足太阴之太白穴。<br/>　　一阳独啸，少阳厥也。阳并于上，四脉争张，气归于肾。宜治其经络；泻阳补阴。<br/>　　二阴经脉独盛，是少阴厥气上逆，而阳气并越于上，心、肝、脾、肺四脏受其影响，四脏之脉争张于外，病的根源在于肾，应治其表里的经络，泻足太阳经的经穴昆仑、络穴飞扬，补足少阴的经穴复溜，络穴大钟。<br/>　　一阴至，厥阴之治也。真虚(疒肙)心，厥气留薄，发为白汗，调食和药，治在下俞。<br/>　　一阴经脉偏盛，是厥阴所主，出现真气虚弱，心中痠痛不适的症状，厥气留于经脉与正气相搏而发为白汗，应该注意饮食调养和药物的治疗，如用针刺，当取决阴经下部的太冲穴，以泄其邪。<br/>　　帝曰：太阳脏何象？<br/>　　黄帝说：太阳经的脉象是怎样的呢？<br/>　　岐伯曰：象三阳而浮也。<br/>　　岐伯说：其脉象似三阳之气浮盛于外，所以脉浮。<br/>　　帝曰：少阳脏何象？<br/>　　黄帝说：少阳经的脉象是怎样的呢？<br/>　　岐伯曰：象一阳也，一阳脏者，滑而不实也。<br/>　　岐伯说：其脉象似一阳之初生，滑而不实。<br/>　　帝曰：阳明脏何象？<br/>　　黄帝说：阳明经的脉象是怎样的呢？<br/>　　岐伯曰：象大浮也。太阴脏搏，言伏鼓也。二阴搏至，肾沉不浮也。<br/>　　岐伯说：其脉象大而浮。太阴经的脉象搏动，虽沉伏而指下仍搏击有力；少阴经的脉象搏动，是沉而不浮。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-58-1778.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-58-1780.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-58.html" action-type="chapterComment" class="comment"><i></i>黄帝内经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

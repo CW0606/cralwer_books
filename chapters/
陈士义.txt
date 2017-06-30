@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孔丛子》正文_陈士义_孔鲋作品 - 维普阅读网</title>
+<meta name="keywords" content="孔丛子,孔丛子原文,孔丛子阅读,陈士义全文,孔鲋作品" />
+<meta name="description" content="孔丛子原文阅读,陈士义全文在线阅读,孔鲋作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-217-2405.html";
+var nextpage="novel-read-217-2407.html";
+var indexpage = "novel-chapter-217.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-217.html">孔丛子</a></strong>
+<strong><a href="novel-chapter-217.html">孔丛子目录</a></strong>
+<span>陈士义</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-217-2405.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>陈士义</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=孔鲋&amp;searchsubmit=yes"  target="_blank">孔鲋</a><span class="divide">|</span>发布时间：2014-08-12 20:26:54<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>魏王遣使者奉黄金束帛聘子顺为相．孔武后名□字子顺子高之子也子顺谓使者曰、若王信能用吾道．吾道固为治世也．虽疏食饮水．吾犹为之．若徒欲制服吾身．委以重禄．吾犹一夫尔．则魏王不少于一夫．子度魏王之心以告我．使者曰魏国狭小．乏于圣贤．寡君久闻下风．愿委国先生．亲受教训．如肯降节．岂惟魏国君臣是赖．其亦社稷之神祗实永受庆．于是乃之魏．魏王郊迎．谓子顺曰寡人不肖．嗣先君之业．先生圣人之后．道德懿邵．幸见顾临．愿图国政．对曰臣羁旅之臣．慕君高义．是以戾此君辱贶而问以政事．敢不敬受君之明命．<br/>魏王朝群臣、问理国之所先、季文对曰唯在知人．王未之应．子顺进曰、知人则哲．帝尧所病．故四凶在朝．鲧任无功．夫岂乐然哉．人难知故也．今文之对．不称吾君之所能行．而乃欲强吾君以圣人所难．此不可行之说也．王曰先生言之．对曰当今所急．在修仁尚义崇德敦礼以接邻国而巳．昔舜命众官．群臣竞让德．礼之致也．茍使朝臣皆有推贤之心．主虽不知人．则臣位必当．若皆以知人为治．则人主宜未过尧．且其目所不见者亦必漏矣．王曰善矣．秦王得西戎利刀以之割玉如割木焉、以示东方诸侯、魏王问子顺曰、古亦有之乎、对曰周穆王大征西戎．西戎献锟鋘之剑火浣之布．其剑长尺有咫．炼钢赤剑用之切玉如泥焉．是则古亦有焉．王曰火浣之布若何．对曰周书火浣布垢必投诸火．布则火色．垢乃灰色．出火振之皓然．疑乎雪焉．王曰今何以独无．对曰秦贪而多求．求欲无厌．是故西戎闭而不致．此以素防绝之也．然则人主贪欲．乃异物所以不至．不可不慎也．<br/><br/>魏王曰吾闻道士登华山、则长生不死、意亦愿之、对曰古无是道．非所愿也．王曰吾闻信之、对曰未审君之所闻．亲闻之于不死者耶．闻之于传闻者耶．君闻之于传闻者妄也．若闻之于不死者今安在．在者君学之勿疑．不在者君勿学无疑．<br/><br/>李由之母少寡、与李音窃相好而生由、由有才艺、仕于魏、王甚爱之、或曰李由母奸不知其父、不足贵也、王以告由、且曰吾不以此贱子也、虽然古之圣贤亦有似子者乎、吾将举以拆毁子者、李由对曰今人不通于远、在臣欲言谁耳、且孔子少孤、则亦不知其父者也、孔子母死、殡于五父之衢、人见之皆以为孤葬、问鄹曼父之母、得合葬于防、此则圣人与臣同者也、王笑曰善、子顺闻之、问魏王曰、李由安得斯言、王曰假以自显、无伤也、对曰虚造谤言以诬圣人．非无伤也．且夫明主之于臣．唯德所在不以小疵妨大行也．昔斗子文生于淫而不害其为令尹．今李由可则宠之．何患于人之言而使横生不然之说．若欺有知．则有知不受．若欺凡人．则凡人无知．必亦问臣．则臣亦不为君之故．诬祖以显由也．如此群臣更知由恶此必聚矣．所谓求白洁而益其垢．犹抱石以救溺．愈不济矣．魏王使相国脩好邻国、遂连和于赵、赵王既宾之、而燕问子顺曰今寡人欲求北狄、不知其所以然、答曰诱之以其所利而与之通市．则自至矣．王曰寡人欲因而弱之．若与交市分我国货散于夷狄．是彊之也．可乎．答曰夫与之市者．将以我无用之货取其有用之物．是故所以弱之之术也．王曰何谓我之无用．彼之有用．答曰衣服之物则有珠玉五彩．饮食之物则有酒醪五熟．五味也此即我之所有而彼之所利者也．夷狄之货．唯牛马旃裘弓矢之器．是其所饶而轻以与人者也．以吾所有．易彼所饶．如斯不巳．则夷狄之用将麋于衣食矣．殆可举棰而驱之．岂徒弱之而巳乎．赵王曰敬受教．<br/><br/>枚产魏人问子顺曰臣匮于财闻猗顿善殖货欲学之、然先生同国也、当知其术、愿以告我、答曰然．知之．猗顿鲁之穷士也．耕则常饥．桑则常寒．闻陶朱公富．往而问术焉．朱公告之．曰子欲速富．当畜五□．于是乃适西河．大畜牛羊于猗氏之南．十年之间．其滋息不可计．赀拟王公．驰名天下．以兴富于猗氏故曰猗顿且夫为富者非唯一术．今子徒问猗顿何也．枚产曰亦将问之于先生也．答曰吾贫而子问以富术．纵有其术．是不可用之术也．昔人有言能得长生者．道士闻而欲学之．比往言者死矣．道士高蹈而恨．夫所欲学．学不死也．其人巳死而犹恨之．是不知所以为学也．今子欲求殖货而问术于我．我且自贫．安能教子以富乎．子之此问．有似道士之学不死者也．<br/><br/>东里闾魏人空腹而好自贤、欲自亲于子顺、子顺不下、或曰夫君子之交于世士、亦取其一节而巳、东闾子疏达亮直、大丈夫也、求为先生役、而先生无意接之、斯者无乃非周公之交人乎．子顺曰、此吾所以行周公之行也．夫东闾子外质顽拙．有似疏直．然内怀容媚□魅．非大丈夫之节也．若其度骸称肤．面目鬓眉．实美于人．圣人论士．不以为贵者．无益于德故也．然东闾子中不应外．侮慢世士．即所谓愚人而谓人为愚者也．持其虚状以不德于人．此乃周公之所罪．何交之有．<br/><br/>宫他魏人见子顺曰、他困贫贱、将欲自讬富贵之门、庶克免乎、子顺曰夫富而可以讬贫．贵而可以寄贱者．天下寡矣．非信义君子明识穷达则不可今子所欲讬者谁也．宫他曰将适赵公子、子顺曰非其人矣．虽好养士．自奉而巳．终弗能称也．宫他曰将适燕相国、子顺曰彼徒兄弟甥舅各济其私．无求贤之志．不足归也．宫他曰将适齐田氏、子顺曰齐大国也．其士大夫皆有自多之心．不能容子也．他曰然则何向而可．子顺曰吾勿识也．宫他曰唯先生知人．愿告所择．将往庇焉．子顺曰济子之欲．则宜若郈成子者也．昔郈成子自鲁聘晋过乎卫．右宰谷臣止而觞之．陈乐而不作．送以实璧．反过而不辞．其仆曰、日者右宰之觞吾子甚欢也．今过而不辞．何也．成子曰夫止而觞我．与我欢也．陈乐而不作．告我哀也．送我以璧．寄之我也．若由此观之．卫其有乱乎．背卫三十里．闻宁喜作难．右宰死之．还车而临．三举而归．反命于君．乃使人迎其妻子．隔宅而居之．分禄而食之．其子长而反其璧．夫子闻之．曰智可与征谋仁可与讬孤廉可以寄财者．其郈成子之谓乎．今子求若人之比庇焉．可也．宫他曰循先生之言．舍先生将安之．请从执事．子顺辞不得巳．乃言之魏王而升诸朝．<br/><br/>子顺相魏、●嬖宠之官以事贤才．夺无任之禄以赐有功．诸丧职秩者不悦．乃造谤言．文咨魏人以告．且曰夫不害前政而有成．孰与变之而起谤哉．子顺曰民不可与虑始久矣．古之善为政者．其初不能无谤子产相郑．三年而后谤止．吾先君之相鲁．三月而后谤止．今吾为政日新．虽不能及圣贤．庸知谤止独无时乎．文咨曰、子产之谤尝亦闻之．未识先君之谤何也．子顺曰先君初相鲁．鲁人谤诵曰麛裘而芾．投之无戾．芾之麛裘投之无邮．及三年政成化既行．民又作诵曰衮衣章甫．实获我所章甫衮衣．惠我无私．文咨喜曰乃知先生亦不异乎圣贤矣．<br/><br/>魏王谓子顺曰吾欲致天下之士．奈何．子顺对曰、昔周穆王问祭公谋父、曰吾欲得天下贤才、对曰去其帝王之色．则几乎得贤才矣．今臣亦请君去其尊贵之色而巳．王曰吾欲得无欲之士为臣．何如．子顺曰人之可使以有欲也．故欲多者其所得用亦多．欲少者其所得用亦少．夫夷齐无欲．虽文武不能制．君安得而臣之． </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-217-2405.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-217-2407.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-217.html" action-type="chapterComment" class="comment"><i></i>孔丛子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

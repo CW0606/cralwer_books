@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《华盖集续编》正文_再来一次_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="华盖集续编,华盖集续编原文,华盖集续编阅读,再来一次全文,鲁迅作品" />
+<meta name="description" content="华盖集续编原文阅读,再来一次全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-538-6887.html";
+var nextpage="novel-read-538-6889.html";
+var indexpage = "novel-chapter-538.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-538.html">华盖集续编</a></strong>
+<strong><a href="novel-chapter-538.html">华盖集续编目录</a></strong>
+<span>再来一次</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-538-6887.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>再来一次</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-29 23:01:44<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>去年编定《热风》时，还有绅士们所谓“存心忠厚”之意，很删削了好几篇。但有一篇，却原想编进去的，因为失掉了稿子，便只好从缺。现在居然寻出来了；待《热风》再版时，添上这篇，登一个广告，使迷信我的文字的读者们再买一本，于我倒不无裨益。但是，算了罢，这实在不很有趣。 <br/>　　不如再登一次，将来收入杂感第三集，也就算作补遗罢。 <br/>　　这是关于章士钊先生的—— <br/>　　“两个桃子杀了三个读书人”章行严先生在上海批评他之所谓“新文化”说，“二桃杀三士”怎样好，“两个桃子杀了三个读书人”便怎样坏，而归结到新文化之“是亦不可以已乎？”（2）是亦大可以已者也！“二桃杀三士”并非僻典，旧文化书中常见的。但既然是“谁能为此谋？相国齐晏子。”我们便看看《晏子春秋》（3）罢。 <br/>　　《晏子春秋》现有上海石印本，容易入手的了，这古典就在该石印本的卷二之内。大意是“公孙接田开疆古冶子事景公，以勇力搏虎闻，晏子过而趋，三子者不起，”于是晏老先生以为无礼，和景公说，要除去他们了。那方法是请景公使人送他们两个桃子，说道，“你三位就照着功劳吃桃罢。”呵，这可就闹起来了： <br/>　　“公孙接仰天而叹曰，‘晏子，智人也，夫使公之计吾功者，不受桃，是无勇也。士众而桃寡，何不计功而食桃矣？接一搏而再搏虎，若接之功，可以食桃而无与人同矣。’援桃而起。 <br/>　　“田开疆曰，‘吾仗兵而却三军者再。若开疆之功，可以食桃而无与人同矣。’援桃而起。 <br/>　　“古冶子曰，‘吾尝从君济于河，鼋衔左骖以入砥柱之流。 <br/>　　当是时也，冶少不能游，潜行逆流百步，顺流九里，得鼋杀之，左操骖尾，右挈鼋头，鹤跃而出。津人皆曰，河伯也；若冶视之，则大鼋之首。若冶之功，可以食桃而无与人同矣！二子何不反桃？’抽剑而起。” <br/>　　钞书太讨厌。总而言之，后来那二士自愧功不如古冶子，自杀了；古冶子不愿独生，也自杀了：于是乎就成了“二桃杀三士”。 <br/>　　我们虽然不知道这三士于旧文化有无心得，但既然书上说是“以勇力闻”，便不能说他们是“读书人”。倘使《梁父吟》（4）说是“二桃杀三勇士”，自然更可了然，可惜那是五言诗，不能增字，所以不得不作“二桃杀三士”，于是也就害了章行严先生解作“两个桃子杀了三个读书人”。 <br/>　　旧文化也实在太难解，古典也诚然太难记，而那两个旧桃子也未免太作怪：不但那时使三个读书人因此送命，到现在还使一个读书人因此出丑，“是亦不可以已乎”！ <br/>　　去年，因为“每下愈况”（5）问题，我曾经很受了些自以为公平的青年的教训，说是因为他革去了我的“签事”，我便那么奚落他。现在我在此只得特别声明：这还是一九二三年九月所作，登在《晨报副刊》上的。那时的《晨报副刊》，编辑尚不是陪过泰戈尔先生的“诗哲”，也还未负有逼死别人，掐死自己的使命，所以间或也登一点我似的俗人的文章；（6）而我那时和这位后来称为“孤桐先生”的，也毫无“睚眦之怨”（7）。 <br/>　　那“动机”（8），大概不过是想给白话的流行帮点忙。 <br/>　　在这样“祸从口出”之秋，给自己也辩护得周到一点罢。 <br/>　　或者将曰，且夫这次来补遗，却有“打落水狗”之嫌，“动机”就很“不纯洁”了。然而我以为也并不。自然，和不多时以前，士钊秘长运筹帷幄，假公济私，谋杀学生，通缉异己之际，“正人君子”时而相帮讥笑着被缉诸人的逃亡，时而“孤桐先生”“孤桐先生”叫得热剌剌地的时候一比较，目下诚不免有落寞之感。但据我看来，他其实并未落水，不过“安住”在租界里而已（9）：北京依旧是他所豢养过的东西在张牙舞爪，他所勾结着的报馆在颠倒是非，他所栽培成的女校在兴风作浪：依然是他的世界。 <br/>　　在“桃子”上给一下小打击，岂遂可与“打落水狗”同日而语哉？！ <br/>　　但不知怎的，这位“孤桐先生”竟在《甲寅》上辩起来了，以为这不过是小事。这是真的，不过是小事。 <br/>　　（10）弄错一点，又何伤乎？即使不知道晏子，不知道齐国，于中国也无损。农民谁懂得《梁父吟》呢，农业也仍然可以救国的（11）。但我以为攻击白话的豪举，可也大可以不必了；将白话来代文言，即使有点不妥，反正也不过是小事情。 <br/>　　我虽然未曾在“孤桐先生”门下钻，没有看见满桌满床满地的什么德文书的荣幸，但偶然见到他所发表的“文言”，知道他于法律的不可恃，道德习惯的并非一成不变，文字语言的必有变迁，其实倒是懂得的。懂得而照直说出来的，便成为改革者；懂得而不说，反要利用以欺瞒别人的，便成为“孤桐先生”及其“之流”。他的保护文言，内骨子也不过是这样。 <br/>　　如果我的检验是确的，那么，“孤桐先生”大概也就染了《闲话》所谓“有些志士”的通病，为“老婆子女”所累了，此后似乎应该另买几本德文书，来讲究“节育”。 <br/>　　五月二十四日。 <br/><br/>　　　　　　　<br/>===============================================================<br/><br/>　　 本篇最初发表于一九二六年六月十日《莽原》半月刊第十一期。 <br/>　　（2）章士钊（行严）关于“二桃杀三士”的一段话，见他在一九二三年八月发表于上海《新闻报》的《评新文化运动》一文：“夫语以耳辨。徒资口谈。文以目辨。更贵成诵。则其取音之繁简连截。有其自然。不可强混。如园有桃。笔之于书。词义俱完。今曰此于语未合也。必曰园里有桃子树。二桃杀三士。谱之于诗。节奏甚美。今曰此于白话无当也。必曰两个桃子杀了三个读书人。是亦不可以已乎。” <br/>　　（3）《晏子春秋》　撰人不详。内容是记载春秋时齐国大夫晏婴（平仲）的言行。这里所引的一段，见该书卷二《谏》下。 <br/>　　（4）《梁父吟》　亦作《梁甫吟》，乐府楚调曲名。此篇系乐府古辞（旧题诸葛亮作，不确），鲁迅上文所引“谁能为此谋？相国齐晏子。”为诗中的最末两句。“相国”一作“国相”。 <br/>　　（5）“每下愈况”语见《庄子·知北游》。参看本卷第114页注（5）。 <br/>　　（6）《“两个桃子杀了三个读书人”》一文，发表于一九二三年九月十四日的《晨报副刊》（署名雪之），其时编辑为孙伏园；一九二五年十月一日起才由徐志摩（即文中说的“诗哲”）编辑。关于“逼死别人，掐死自己”的话，参看本卷第236页注（16）。 <br/>　　（7）“睚眦之怨”　意即小小的仇恨。语见《史记·范睢传》： <br/>　　“一饭之德必偿，睚眦之怨必报。”陈西滢在《现代评论》第三卷第七十期（一九二六年四月十日）发表《杨德群女士事件》一文，以答复女师大学生雷榆等五人为三一八惨案烈士杨德群辩诬的信，其中暗指鲁迅说：“因为那‘杨女士不大愿意去’一句话，有些人在许多文章里就说我的罪状比执政府卫队还大！比军阀还凶！……不错，我曾经有一次在生气的时候揭穿过有些人的真面目，可是，难道四五十个死者的冤可以不雪，睚眦之仇却不可不报吗？” <br/>　　（8）“动机”　陈西滢在《现代评论》第二卷第四十八期（一九二五年十一月七日）《闲话》中说：“一件艺术品的产生，除了纯粹的创作冲动，是不是常常还夹杂着别种动机？是不是应当夹杂着别种不纯洁的动机？……年轻的人，他们观看文艺美术是用十二分虔敬的眼光的，一定不愿意承认创造者的动机是不纯粹的吧。可是，看一看古今中外的各种文艺美术品，我们不能不说它们的产生的动机都是混杂的。” <br/>　　（9）一九二六年春夏之交，冯玉祥国民军在直奉军阀的联合进攻下，准备放弃北京。段祺瑞趁机阴谋与奉系军阀里应外合，赶走冯军。四月十日凌晨，驻守北京的国民军包围段宅和执政府，段闻讯后即逃往东交民巷。随着段祺瑞的倒台，章士钊也逃到天津租界。 <br/>　　（10）章士钊在《甲寅》周刊第一卷第九号（一九二五年九月十二日）上重新刊载他所作的《评新文化运动》一文，前面加了一段按语，其中说：“北京报纸。屡以文中士与读书人对举。为不合情实。意谓二桃之士。乃言勇士。非读书人。此等小节。宁关谋篇本旨。且不学曰学。其理彼乃蒙然。又可哂也。” <br/>　　（11）农业也仍然可以救国的　这是针对章士钊所谓农业救国论而说的。章曾一再鼓吹什么“农村立国”，如在《甲寅》周刊第一卷第二十六号（一九二六年一月九日）发表的《农国辨》一文中说：“凡所剿袭于工国浮滥不切之诸法。不论有形无形。姑且放弃。返求诸农。 <br/>　　先安国本。而后于以拙胜巧之中。徐图捍御外侮之道。庶乎其可。” </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-538-6887.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-538-6889.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-538.html" action-type="chapterComment" class="comment"><i></i>华盖集续编章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

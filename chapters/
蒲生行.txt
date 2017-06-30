@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《蒲生行》正文_蒲生行_谢眺作品 - 维普阅读网</title>
+<meta name="keywords" content="蒲生行,蒲生行原文,蒲生行阅读,蒲生行全文,谢眺作品" />
+<meta name="description" content="蒲生行原文阅读,蒲生行全文在线阅读,谢眺作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-789.html";
+var nextpage="novel-chapter-789.html";
+var indexpage = "novel-chapter-789.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-789.html">蒲生行</a></strong>
+<strong><a href="novel-chapter-789.html">蒲生行目录</a></strong>
+<span>蒲生行</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-789.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>蒲生行</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=谢眺&amp;searchsubmit=yes"  target="_blank">谢眺</a><span class="divide">|</span>发布时间：2014-10-30 22:57:36<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/><br/>　　蒲生广湖边，托身洪波侧。<br/><br/>　　春露惠我泽，秋霜缛我色。<br/><br/>　　根叶从风浪，常恐不永植。<br/><br/>　　摄生各有命，岂云智与力。<br/><br/>　　安得游云上，与尔同羽翼。<br/><br/>【赏析】<br/><br/>　　全诗共十句。前六句写蒲的身世。“蒲生广湖边，托身洪波侧。”二句写蒲的出生地——“广湖边”、“洪波侧”。其湖因水广故波浪洪大。在这样的大水大浪中生长出来，是非常艰险的。所以，蒲对它的出生地毫无感情，它从不把它的出生地看作是它的可爱的家乡，是它的安身立命之所，而只苟求借此“托身”而已。确是心中无限伤心苦，尽在“托身”一语中。“春露惠我泽，秋霜缛我色”，写蒲的成长。前句写蒙恩，后句写受祸。春露的降临，它也分享到一点恩惠，展现了自己的活力。但这恩惠稍驻即逝。秋日一到，可怕的严霜，把那表现自己生命的翠色一扫而尽，使之变得憔悴黄萎。它的生机已被摧残殆尽。但是，这还不是它苦难的终结。更有那无情的狂风恶浪，乘蒲之危，把蒲连根带叶从水下拔起，使之生命悬空，漂泊沉浮，无从着落。“根叶从风浪，常恐不永植”。环境的险恶，生命的垂危，并未使它产生了此残生之念，而还是顽强地要活下去。“常恐不永植”，正是为了争取“永植”下去。这为末二句暗设伏笔。<br/>　　古人对社会上出现和存在的不合理现象，无法克服、无法解释时，就认为这是由不可捉摸的命运所决定的。南朝诗人鲍照也说：“人生亦有命，安能行叹复坐愁”（《拟行路难》）。蒲为了自己的生存，为了改善自身的生活环境，也曾尽过自己的“智”和“力”，但它得到的报答总是那样的不合理，不公平。于是它只好承认：“摄生各有命，岂云智与力”。“摄生”在此是生活的意思。“各”与末句“尔”相呼应，提示了这不合理、不公平现象的另一方面，即与苦难生涯相反的一方。<br/>　　末二句“安得游云上，与尔同羽翼。”从宿命中突兀振起，提出了自己的理想，希望能与不受风浪冲击，不受冰霜摧残，能自由翱翔长空的“尔”——飞鸟一起。无忧无愁地共享这大自然的乐趣。它既认为，身世的幸与不幸，是由命运所操纵的，同时，它又不甘心听任命运的摆布，而要摆脱这不幸命运对它的残害，与幸运者共享快乐。然而，这毕竟是理想，是希望，而眼下的现实是正“常恐不永植”呢。人生的理想与希望，其情况与结果是多样的。一般地说，想要锦上添花，最有可能实现；等待雪中送炭，已是相当困难；企望在绝境中出现奇迹，差不多只是梦想了。这种注定失望的希望，最为令人痛惋。“安得”二句所提，正是这最后一种希望。<br/>　　此诗乍读时，觉得字字句句在咏蒲，细味后，便觉字字句句在写人。关于咏物诗，古人有体物之妙说。所谓体物之妙，就是咏物诗要不即不离，不离于物，又不太粘着物上。《蒲生行》可算得是“体物之妙”的佳作了。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-789.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-789.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-789.html" action-type="chapterComment" class="comment"><i></i>蒲生行章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

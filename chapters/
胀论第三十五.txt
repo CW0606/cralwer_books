@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《灵枢》正文_胀论第三十五_黄帝作品 - 维普阅读网</title>
+<meta name="keywords" content="灵枢,灵枢原文,灵枢阅读,胀论第三十五全文,黄帝作品" />
+<meta name="description" content="灵枢原文阅读,胀论第三十五全文在线阅读,黄帝作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-268-4693.html";
+var nextpage="novel-read-268-4695.html";
+var indexpage = "novel-chapter-268.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-268.html">灵枢</a></strong>
+<strong><a href="novel-chapter-268.html">灵枢目录</a></strong>
+<span>胀论第三十五</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-268-4693.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>胀论第三十五</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=黄帝&amp;searchsubmit=yes"  target="_blank">黄帝</a><span class="divide">|</span>发布时间：2014-08-30 21:57:59<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>黄帝曰：脉之应于寸口，如何而胀？岐伯曰：其脉大坚以涩者，胀也。黄帝曰：何以知藏府之胀也？岐伯曰：阴为藏，阳为府。黄帝曰：夫气之令人胀也，在于血脉之中耶？藏府之内乎？岐伯曰：三者皆存焉，然非胀之舍也。黄帝曰：愿闻胀之舍。岐伯曰：夫胀者，皆在于藏府之外，排藏府而郭胸胁，胀皮肤，故命曰胀。黄帝曰：藏府之在胸胁腹里之内也，若匣匮之藏禁器也，各有次舍，异名而同处，一域之中，其气各异，愿闻其故。黄帝曰：未解其意，再问。岐伯曰：夫胸腹，藏府之郭也。膻中者，心主之宫城也。胃者，太仓也。咽喉、小肠者，传送也。胃之五窍者，闾里门户也。廉泉、玉英者，津液之道也。故五藏六府者，各有畔界，其病各有形状。营气循脉，卫气逆为脉胀；卫气井脉循分为肤胀。三里而泻，近者一下，远者三下。无问虚实，工在疾泻。<br/>　　　 黄帝曰：愿闻胀形。岐伯曰：夫心胀者，烦心短气，卧不安。肺胀者，虚满而喘咳。肝胀者，胁下满而痛引小腹。脾胀者，善哕，四肢烦悗，体重不能胜衣，卧不安。肾胀者，腹满引背央央然，腰髀痛。六府胀：胃胀者，腹满，胃脘痛，鼻闻焦臭，妨于食，大便难。大肠胀者，肠鸣而痛濯濯，冬日重感于寒，则飧泄不化。小肠胀者，少腹A1J8胀，引腰而痛。膀胱胀者，少腹满而气癃。三焦胀者，气满于皮肤中，轻轻然而不坚。胆胀者，胁下痛胀，口中苦，善太息。凡此诸胀者，其道在一。明知逆顺，针数不失。泻虚补实，神去其室，致邪失正，真不可定，粗之所败，谓之夭命。补虚泻实，神归其室，久塞其空，谓之良工。<br/>　　　 黄帝曰：胀者焉生？何因而有？岐伯曰：卫气之在身也，常然并脉循分肉，行有逆顺，阴阳相随，乃得天和，五藏更始，四时循序，五谷乃化。然后厥气在下，营卫留止，寒气逆上，真邪相攻，两气相搏，乃合为胀也。黄帝曰：善。何以解惑？岐伯曰：合之于真，三合而得。帝曰：善。<br/>　　　 黄帝问于岐伯曰：《胀论》言无问虚实，工在疾泻，近者一下，远者三下。今有其三而不下者，其过焉在？岐伯对曰：此言陷于肉肓而中气穴者也。不中气穴，则气内闭；针不陷肓，则气不行；上越中肉，则卫气相乱，阴阳相逐。其于胀也，当泻不泻，气故不下。三而不下，必更其道，气下乃止，不下复始，可以万全，乌有殆者乎？其于胀也，必审其A2V2，当泻则泻，当补则补，如鼓应桴，恶有不下者乎？</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-268-4693.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-268-4695.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-268.html" action-type="chapterComment" class="comment"><i></i>灵枢章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

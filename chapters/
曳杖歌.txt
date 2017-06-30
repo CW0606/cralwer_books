@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《曳杖歌》正文_曳杖歌_孔子作品 - 维普阅读网</title>
+<meta name="keywords" content="曳杖歌,曳杖歌原文,曳杖歌阅读,曳杖歌全文,孔子作品" />
+<meta name="description" content="曳杖歌原文阅读,曳杖歌全文在线阅读,孔子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-172.html";
+var nextpage="novel-chapter-172.html";
+var indexpage = "novel-chapter-172.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-172.html">曳杖歌</a></strong>
+<strong><a href="novel-chapter-172.html">曳杖歌目录</a></strong>
+<span>曳杖歌</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-172.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>曳杖歌</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=孔子&amp;searchsubmit=yes"  target="_blank">孔子</a><span class="divide">|</span>发布时间：2014-08-06 21:31:34<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>泰山其颓乎？<br/>梁木其坏乎？<br/>哲人其萎乎？<br/><br/>【译文】<br/>泰山快要崩塌了么？<br/>屋梁快要断裂了么？<br/>哲人快要死去了么？<br/><br/>【赏析】<br/>关于孔子作《曳杖歌》前后的情况，在《礼记·檀弓上》、《孔子家语·终记解》以及《史记·孔子世家》等书中都有大体相同的记载。兹引《礼记·檀弓上》中的相关文字如下：<br/>孔子蚤作，负手曳杖，消摇于门，歌曰：“泰山其颓乎？梁木其坏乎？哲人其萎乎？”既歌而入，当户而坐。子贡闻之，曰：“泰山其颓，则吾将安仰？梁木其坏，哲人其萎，则吾将安放？夫子殆将病也。”遂趋而入。夫子曰：“赐，尔来何迟也！……予畴昔之夜，梦坐奠于两楹之间。夫明王不兴，而天下其孰能宗予？予殆将死也。”盖寝疾七日而没。<br/>东汉郑玄在上述引文之末注解说：“明圣人知命。”所谓“知命”，字面意思是了解自己的命运；比较科学的解释，也就是依据已知的情况对未来作出较为近是的预测。孔子唱这首歌时，只是一种预感，接着病倒了，七天后去世，正应验了他预感的正确。活着，活得清醒；快去世时，也不糊涂。大概这就是孔子之所以为孔子，也是这首《曳杖歌》所要昭示世人的这一层意思吧。<br/>从《礼记》的记载中可以知道，孔子在吟唱这首《曳杖歌》之前，心灵上正经历着微妙的深刻的变化：夜里他做了一个不祥的梦，梦见正坐在两个廊柱之间被人祭奠；他早早地起了床（“蚤作”），或许梦醒后就一直未曾睡着吧；他反背着手，拖着手杖，孔颖达解释“负手曳杖”说：“杖以扶身，恒在前面用。今乃反手却后以曳其杖，示不复杖也。”（《礼记正义》）所谓“示不复杖”，意思是自己将不久于人世，不会再用手杖了；他还“消摇于门”，从屋内走到门口，显出一副放松随便的样子。“消摇”，即“逍遥”，安闲放松的样子。孔颖达说：“夫子礼度自守，貌恒矜庄。今乃消摇放荡以自宽纵……示不能以礼自持。”又说“负手曳杖”与“消摇于门”二句，“并将死之意状”（引书同上）。正是在这样一种特殊的心态支配之下，孔子这位在二十多年前已早知“天命”的哲人，面对即将到来的死亡，也不能不长歌当哭，动情地唱出这首留恋人生、爱惜生命、无奈地直面死亡的悲歌。<br/>《曳杖歌》全文只三句。前两句用比拟，以物比人，以“泰山”、“梁木”拟“哲人”。“泰山”是众山所仰的高山，现在泰山快要崩塌，众山就无可瞻仰了。“梁木”是放置檩条、椽子的地方，现在梁木快要折断，檩条、椽子就无可依托了。紧接着这两个比喻的句子，末句直接说到自身。“哲人”，乃夫子自道；“萎”，原指草木枯死，引申为病危。上述做梦等种种潜意识的以及行为上的异常情况，令孔子自感已经病入膏肓，将不久于人世了。孔子的高足子贡，这天早上刚好来看望老师，听了这首歌，由“泰山”、“梁木”的比喻，他想到了“哲人其萎”的后果将是十分严重的。他所说的“则吾将安放”，意思是他们这些学生就将永远失去孔子这位诲人不倦、可敬可亲的好老师了，不觉心情黯然。<br/>全诗三个句子，虽有前两句的比喻与后一句的直陈两个层次，但因感情真挚，比喻贴切而又形象，且句式整齐，每句的第三字都用表示“大概”或“将要”的副词“其”字，故仍不失一气呵成、流利紧凑的即兴吟成的本色。<br/><br/>【评价】<br/>〖《诗纪》云。一作梦奠歌。亦见《家语》。〗<br/><br/>　　〖檀弓曰：孔子蚤作。负手曳杖。消摇於门。歌曰云云。既歌而入。当户而坐。子贡闻之曰：泰山其颓。则吾将安仰。梁木其坏。哲人其萎。则吾将安放。遂趋而入。夫子曰：予畴昔之夜。梦奠於两楹之间。夫明王不兴。而天下其孰能宗予。予殆将死也。盖寝疾七日而终。〗<br/><br/>　　泰山其颓乎。梁木其坏乎。哲人其萎乎。（○礼记檀弓上。《家语》终记解。《书钞》百六、百三十三。《御览》四百、五百七十、七百十。《诗纪前集》一。）<br/>-----------逯钦立 编《先秦汉魏晋南北朝诗》----------- </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-172.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-172.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-172.html" action-type="chapterComment" class="comment"><i></i>曳杖歌章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

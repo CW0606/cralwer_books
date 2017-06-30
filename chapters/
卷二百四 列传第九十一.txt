@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《元史》正文_卷二百四 列传第九十一_宋濂、王袆作品 - 维普阅读网</title>
+<meta name="keywords" content="元史,元史原文,元史阅读,卷二百四 列传第九十一全文,宋濂、王袆作品" />
+<meta name="description" content="元史原文阅读,卷二百四 列传第九十一全文在线阅读,宋濂、王袆作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1436-28080.html";
+var nextpage="novel-read-1436-28082.html";
+var indexpage = "novel-chapter-1436.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1436.html">元史</a></strong>
+<strong><a href="novel-chapter-1436.html">元史目录</a></strong>
+<span>卷二百四 列传第九十一</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1436-28080.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷二百四 列传第九十一</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=宋濂、王袆&amp;searchsubmit=yes"  target="_blank">宋濂、王袆</a><span class="divide">|</span>发布时间：2016-08-22 22:37:13<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>◎宦者<br/><br/>　　前世宦者之祸尝烈矣，元之初兴，非能有鉴乎古者，然历十有余世，考其乱亡之所由，而初不自阉人出，何哉？盖自太祖选贵臣子弟给事内廷，凡饮食、冠服、书记，上所常御者，各以其职典之，而命四大功臣世为之长，号四怯薛。故天子前后左右，皆世家大臣及其子孙之生而贵者，而宦官之擅权窃政者不得有为于其间。虽或有之，然不旋踵而遂败。此其诒谋，可谓度越前代者矣。如李邦宁者，以亡国阉竖，遭遇世祖，进齿荐绅，遂跻极品，然其言亦有可称者焉。至于朴不花，乃东夷之人，始以西宫同里，因缘柄用，遂与权奸同恶相济，讫底于诛戮，则固有以致之也。用特著之于篇。<br/><br/>　　李邦宁，字叔固，钱唐人，初名保宁，宋故小黄门也。宋亡，从瀛国公入见世祖，命给事内庭，警敏称上意。令学国书及诸蕃语，即通解，遂见亲任。授御带库提点，升章佩少监，迁礼部尚书，提点太医院事。成宗即位，进昭文馆大学士、太医院使。帝尝寝疾，邦宁不离左右者十余月。武宗立，命为江浙行省平章政事，邦宁辞曰：“臣以阉腐余命，无望更生，先朝幸赦而用之，使得承乏中涓，高爵厚禄，荣宠过甚。陛下复欲置臣宰辅，臣何敢当。宰辅者，佐天子共治天下者也，奈何辱以寺人。陛下纵不臣惜，如天下后世何，诚不敢奉诏。”帝大悦，使大臣白其言于太后及皇太子，以彰其善。<br/><br/>　　帝尝奉皇太后燕大安阁，阁中有故箧，问邦宁曰：“此何箧也？”对曰：“此世祖贮裘带者。臣闻有圣训曰：‘藏此以遗子孙，使见吾朴俭，可为华侈之戒。’”帝命发箧视之，叹曰：“非卿言，朕安知之。”时有宗王在侧，遽曰：“世祖虽神圣，然啬于财。”邦宁曰：“不然。世祖一言，无不为后世法；一予夺，无不当功罪。且天下所入虽富，苟用不节，必致匮乏。自先朝以来，岁赋已不足用，又数会宗藩，资费无算，旦暮不给，必将横敛掊怨，岂美事耶。”太后及帝深然其言。俄加大司徒、尚服院使，遥授丞相，行大司农，领太医院事，阶金紫光禄大夫。<br/><br/>　　太庙旧尝遣官行事，至是复欲如之，邦宁谏曰：“先朝非不欲亲致飨祀，诚以疾废礼耳。今陛下继成之初，正宜开彰孝道，以率先天下，躬祀太室，以成一代之典。循习故弊，非臣所知也。”帝称善。即日备法驾，宿斋宫，且命邦宁为大礼使。礼成，加恩三代：曾祖颐，赠银青光禄大夫、司徒，谥敬懿；祖德懋，赠仪同三司、大司徒，谥忠献；父捴，赠太保、开府仪同三司，谥文穆。<br/><br/>　　仁宗即位，以邦宁旧臣，赐钞千锭，辞弗受。国学将释奠，敕遣邦宁致祭于文宣王。点视毕，至位立，殿户方辟，忽大风起，殿上及两庑烛尽灭，烛台底铁鐏入地尺，无不拔者，邦宁悚息伏地，诸执事者皆伏。良久风定，乃成礼，邦宁因惭悔累日。<br/><br/>　　初，仁宗为皇太子，丞相三宝奴等用事，畏仁宗英明，邦宁揣知其意，言于武宗曰：“陛下富于春秋，皇子渐长，父作子述，古之道也。未闻有子而立弟者。”武宗不悦曰：“朕志已定，汝自往东宫言之。”邦宁惭惧而退。仁宗即位，左右咸请诛之，仁宗曰：“帝王历数，自有天命，其言何足介怀。”加邦宁开府仪同三司，为集贤院大学士。以疾卒。<br/><br/>　　朴不花，高丽人，亦曰王不花。皇后奇氏微时，与不花同乡里，相为依倚。及选为宫人，有宠，遂为第二皇后，居兴圣宫，生皇太子爱猷识理达腊。于是不花以阉人入事皇后者有年，皇后爱幸之，情意甚胶固，累迁官至荣禄大夫、资正院使。资正院者，皇后之财赋悉隶焉。<br/><br/>　　至正十八年，京师大饥疫，时河南北、山东郡县皆被兵，民之老幼男女，避居聚京师，以故死者相枕藉。不花欲要誉一时，请于帝，市地收瘗之，帝赐钞七千锭，中宫及兴圣、隆福两宫，皇太子、皇太子妃，赐金银及他物有差，省院施者无算；不花出玉带一、金带一、银二锭、米三十四斛、麦六斛、青貂银鼠裘各一袭以为费。择地自南北两城抵卢沟桥，掘深及泉，男女异圹，人以一尸至者，随给以钞，舁负相踵。既覆土，就万安寿庆寺建无遮大会。至二十年四月，前后瘗者二十万，用钞二万七千九十余锭、米五百六十余石。又于大悲寺修水陆大会三昼夜，凡居民病者予之药，不能丧者给之棺。翰林学士承旨张翥为文颂其事，曰《善惠之碑》。<br/><br/>　　于是帝在位久，而皇太子春秋日盛，军国之事，皆其所临决。皇后乃谋内禅皇太子，而使不花喻意于丞相太平，太平不答。二十年，太平乃罢去，而独搠思监为丞相。时帝益厌政，不花乘间用事，与搠思监相为表里，四方警报、将臣功状，皆抑而不闻，内外解体。然根株盘固，气焰薰灼，内外百官趋附之者十九。又宣政院使脱欢，与之同恶相济，为国大蠹。<br/><br/>　　二十三年，监察御史也先帖木儿、孟也先不花、傅公让等乃劾奏朴不花、脱欢奸邪，当屏黜。御史大夫老的沙以其事闻，皇太子执不下，而皇后庇之尤固，御史乃皆坐左迁。治书侍御史陈祖仁，连上皇太子书切谏之，而台臣大小皆辞职，皇太子乃为言于帝，令二人皆辞退。而祖仁言犹不已，又上皇帝书言：“二人乱阶祸本，今不芟除，后必不利。汉、唐季世，其祸皆起此辈，而权臣、藩镇乘之。故千寻之木，吞舟之鱼，其腐败必由于内，陛下诚思之，可为寒心。臣愿俯从台谏之言，将二人特加摈斥，不令以辞退为名，成其奸计。海内皆知陛下信赏必罚，自此二人始，将士孰不效力，寇贼亦皆丧胆，天下可全，而有以还祖宗之旧。若优柔不断，彼恶日盈，将不可制。臣宁饿死于家，誓不与同朝，牵联及祸。”语具《陈祖仁传》。会侍御史李国凤亦上书皇太子，言：“不花骄恣无上，招权纳赂，奔竞之徒，皆出其门，骎骎有赵高、张让、田令孜之风，渐不可长，众人所共知之，独主上与殿下未之知耳。自古宦者，近君亲上，使少得志，未有不为国家祸者。望殿下思履霜坚冰之戒，早赐奏闻，投之西夷，以快众心，则纪纲可振。纪纲振，则天下之公论为可畏，法度为不可犯，政治修而百废举矣。”由是帝大怒，国凤、祖仁等亦皆左迁。<br/><br/>　　时老的沙执其事颇力，皇太子因恶之，而皇后又谮之于内，帝以老的沙母舅故，封为雍王，遣归国。已而复以不花为集贤大学士、崇正院使，皇后之力也。老的沙至大同，遂留孛罗帖木儿军中。是时，搠思监、朴不花方倚扩廓帖木儿为外援，怨孛罗帖木儿匿老的沙不遣，遂诬孛罗帖木儿与老的沙谋不轨。二十四年，诏削其官，使解兵柄归四川。孛罗帖木儿知不出帝意，皆搠思监、朴不花所为，怒不奉诏。宗王不颜帖木儿等为表言其诬枉，而朝廷亦畏其强不可制，复下诏数搠思监、朴不花互相壅蔽簧惑主听之罪，屏搠思监于岭北，窜朴不花于甘肃，以快众愤，而复孛罗帖木儿官爵。然搠思监、朴不花皆留京城，实未尝行。未几，孛罗帖木儿遣秃坚帖木儿以兵向阙，声言清君侧之恶。四月十二日，驻于清河，帝遣达达国师问故，往复者数四，言必得搠思监、朴不花乃退兵。帝度其势不可解，不得已，执两人畀之，其兵乃退。朴不花遂为孛罗帖木儿所杀。事具搠思监、孛罗帖木儿传。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1436-28080.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1436-28082.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1436.html" action-type="chapterComment" class="comment"><i></i>元史章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

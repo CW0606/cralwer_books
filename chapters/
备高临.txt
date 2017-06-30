@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《墨子》正文_备高临_墨子作品 - 维普阅读网</title>
+<meta name="keywords" content="墨子,墨子原文,墨子阅读,备高临全文,墨子作品" />
+<meta name="description" content="墨子原文阅读,备高临全文在线阅读,墨子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-32-786.html";
+var nextpage="novel-read-32-788.html";
+var indexpage = "novel-chapter-32.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-32.html">墨子</a></strong>
+<strong><a href="novel-chapter-32.html">墨子目录</a></strong>
+<span>备高临</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-32-786.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>备高临</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=墨子&amp;searchsubmit=yes"  target="_blank">墨子</a><span class="divide">|</span>发布时间：2014-07-20 15:41:27<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/>　　禽子再拜再拜曰：“敢问适人积土为高，以临吾城，薪土俱上，以为羊黔，蒙橹俱前，遂属之城，兵弩俱上，为之奈何？”<br/><br/>　　子墨子曰：子问羊黔之守邪？羊黔者，将之拙者也，足以劳卒，不足以害城。守为台城，以临羊黔，左右出巨，各二十尺，行城三十尺，强弩之，技机藉之，奇器口口之，然则羊黔之攻败矣。<br/><br/>　　备临以连弩之车，材大方一方一尺，长称城之薄厚。两轴三轮，轮居筐中，重下上筐。左右旁二植，左右有衡植，衡植左右皆圜内，内径四寸。左右缚弩皆于植，以弦钩弦，至于大弦。弩臂前后与筐齐，筐高八尺，弩轴去下筐三尺五寸。连弩机郭同铜，一石三十钧。引弦鹿长奴。筐大三围半，左右有钩距，方三寸，轮厚尺二寸，钩距臂博尺四寸，厚七寸，长六尺。横臂齐筐外，蚤尺五寸，有距，搏六寸，厚三寸，长如筐有仪，有诎胜，可上下，为武重一石，以材大围五寸。矢长十尺，以绳□□矢端，如如戈射，以磨■卷收。矢高弩臂三尺，用弩无数，出人六十枚，用小矢无留。十人主此车。<br/><br/>　　遂具寇，为高楼以射道，城上以荅罗矢。<br/><br/>译文：<br/>　　禽滑厘一再谦拜后说：“请问：如果敌人堆积土古筑成高台，对我城造成居高临下之势，木头土石一齐上，构筑成名叫羊黔的土山，兵士以大盾牌做掩护从高台土山上一齐攻来，一下子就接近了我方的城头，刀箭齐用，该怎么对付呢？”<br/><br/>　　墨子先生回答说：你问的是对付“羊黔”进攻的防守办法么？“羊黔”这种攻城办法，是带兵打仗者的蠢办法，只会将自己的士兵弄得疲劳不堪，不足以给守城一方造成危胁。守城的一方只要在城头上继续加高做所谓“台城”，依然对羊黔保持居高临下之势，台城左右用大木编连起来，两旁各横出二十尺。这种临时做成的台城又叫行城，高度为三十尺。在上面用强劲的弓箭射击敌人，凭借“技机”和精妙的武器对付敌人，这样一来，用羊黔之法进攻就失败了。<br/><br/>　　对付筑台居高临下的进攻，还可以使用一种连弩车。造这种车的木材，要大小一尺见方，长度与城墙厚度相等。两根车轴，三个轮子，轮子装在车箱当中，车箱上下两个，左右各做两根立柱，还有横梁两根，横梁的左右两头都是圆榫头，榫头直径四寸，把有把的箭都捆在左右两边的柱子上，弓弦相钩，连到大弦上。弓把前后与车箱齐平，车箱高度为八尺，弓轴距下面的车箱三尺五寸。连弩的“机括”用铜做成，重一百五十斤。用辘轳收引弓弦。车箱周长为三围半，左右两边装有“钩距”，“钩距”三寸见方，车轮厚一尺二寸，钩距臂宽一尺四寸，厚七寸，长六尺。横臂与车箱外缘齐平，臂端一尺五寸的地方装有叫做“距”的横柄，柄宽六寸，厚三寸，长度与车箱相<br/><br/>　　应。还装有一种瞄准仪，有出入时可以上下伸缩调整。再用大小一围五寸的木料做一个弩床，床重一百二十斤。箭长十尺，用绳子栓住箭尾，就象用细丝绳系住射空中飞鸟用的箭一样，以便将箭收回，不过这里是用辘轳卷收。箭高出弩臂三尺，用箭没有固定数，但至少要保证出入有六十枚，小箭就不必收回了。象这样的连弩车，十人掌管使用一辆。<br/><br/>　　为了成功地抵距敌人的进攻，筑了高楼射击敌人，还得在城上用草编成厚厚的遮掩物来遮挡和收取敌方射来的箭。<br/><br/>注释<br/>（1）《备高临》是墨子研究城池防守战术的篇章之一。主要阐述如何对付敌人采用居高临下攻城方法的战术。<br/>（2）“强弩”后应加“射”字。<br/>（3）“尺”字前疑重“方一”二字。<br/>（4）“缚”字应作“缚”。<br/>（5）“同”字应作“用”。<br/>（6）“长奴”应作“卢收”。<br/>（7）“戈”应作“弋”。<br/>（8）“磨”应作“磿”。<br/>（9）“人”应作“入”。<br/>（10）“道”应作“适”。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-32-786.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-32-788.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-32.html" action-type="chapterComment" class="comment"><i></i>墨子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

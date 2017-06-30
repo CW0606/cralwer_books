@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《战争与和平》正文_第十三部 第八章_列夫·托尔斯泰作品 - 维普阅读网</title>
+<meta name="keywords" content="战争与和平,战争与和平原文,战争与和平阅读,第十三部 第八章全文,列夫·托尔斯泰作品" />
+<meta name="description" content="战争与和平原文阅读,第十三部 第八章全文在线阅读,列夫·托尔斯泰作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1211-20850.html";
+var nextpage="novel-read-1211-20852.html";
+var indexpage = "novel-chapter-1211.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1211.html">战争与和平</a></strong>
+<strong><a href="novel-chapter-1211.html">战争与和平目录</a></strong>
+<span>第十三部 第八章</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1211-20850.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第十三部 第八章</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-28.html" target="blank">外国名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=列夫·托尔斯泰&amp;searchsubmit=yes"  target="_blank">列夫·托尔斯泰</a><span class="divide">|</span>发布时间：2015-03-07 16:39:22<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>	<br/>　　拿破仑在莫斯科河获得辉煌的胜利之后，进入了莫斯科；胜利是无庸置疑的。因为战场在法国人手中。俄国人撤退了，放弃了首都。莫斯科城的丰富的粮草、武器、装备和数不尽的财富，全都在拿破仑手中。只有法国军队一半数量的俄国军队，在整整的一个月中不曾有过一次进攻的尝试。拿破仑的境况最为辉煌。要是以两倍的兵力攻击并歼灭俄军残部，要是提出有利的讲和条件，一旦讲和被拒绝，就进军威胁彼得堡，甚至万一受挫，就返回斯摩棱斯克或维尔纳，或者就留在莫斯科，总之，要保持法国军队当时所处的那种辉煌境况，似乎用不着什么特殊的天才就可以做到。为了做到这一点，只需要做一件最简单、最容易的事情，那就是禁止军队抢劫，准备冬季服装（在莫斯科能得到足够全军用的冬装），用正当的方法征集粮草，据法国的历史学家说，莫斯科有足够军全食用半年多的粮食。可是拿破仑，这个历史学家誉为天才中最伟大的天才，掌握全军大权的人，竟然没有做任何一件事情。<br/><br/>　　他不仅不去做这一类事情中的任何一件事情，而且正相反，他把他的权力却用在从摆在他面前可供他选择的所有道路中，选择了一条比所有道路都更加愚蠢和更为有害的道路。可供拿破仑选择的道路有：在莫科斯过冬，向彼得堡进军，向下诺夫哥罗德进军，向北或者向南（库图佐夫后来所走的那条路）撤退，可是，再也想不出比拿破仑做的更愚蠢、更有害的事了，那就是，在莫斯科停留到十月底，任由部队抢劫这个城市，后来，又动摇不定是否留下守备队，就退出了莫斯科，接近了库图佐夫，却不进行战斗，接着转向右方，走近小雅罗斯拉维茨，又失掉了试行突破的机会，不走库图佐夫走的那条大路，而沿着被破坏了的斯摩棱斯克大路向莫扎伊斯克退却，结果证明，再也想不出比这更愚蠢、对军队更有害的事情了。就是最有经验的战略家，即便假定拿破仑的目的是要毁灭掉他的军队，也想不出另外一系列的行动，像拿破仑所做的那样，确定无疑地、与俄国军队采取任何措施都无关地，彻底毁灭整个法国军队。<br/><br/>　　天才的拿破仑却做到了这一点。但是，说拿破仑毁掉了自己的军队，是因为他想那样做，或者说他太愚笨，如同说拿破仑把军队带到莫斯科，是因为他想那样做，或者说因为他很聪明和有天才，都同样地不公平。<br/><br/>　　在这种或那种情况下，他个人的行动并不比任何一个士兵的行动更有力。只不过他个人的行动符合现象在形成过程中所遵循的某些规律罢了。<br/><br/>　　历史学家十分荒谬地告诉我们说（仅仅因为结果未能证实拿破仑的行动是对的），拿破仑的天才在莫斯科衰退了。其实，他像先前像后来，像一九一三年完全一样，竭尽他全部聪明才智和力量为他自己、为他的军队谋求最大的利益。拿破仑在这一时期的行动令人惊叹，并不比他在埃及、意大利和普鲁士等地有所逊色。我们不能知道拿破仑在埃及（那里有四千年的历史注视着他的伟大）的实际的天才达到何种程度，因为只有法国人才向我们描述他的这些伟大功勋。我们也难以准确无误地判断他在奥地利和在普鲁士的天才，因为有关他在那里的活动的报导，我们要从法国和德国的文献中去查找；整个兵团未经战斗就不可思议地投降当了俘虏，要塞还没有被包围就一个个陷落，这一切使德国人不能不承认他的天才，为那场在德国进行的战争作出唯一的解释。但是我们，感谢上帝，没有理由为了遮掩自己的耻辱，而承认他的天才。我们为了要有直截了当看问题的权利，我们已经为此而付出了代价，我们也就决不会放弃这种权利。<br/><br/>　　他在莫斯科的行动，就如同在所有的地方一样，令人叹为观止，显示了他的天才。自从他进入莫斯科到他撤退出莫斯科的这段时间里，他发出了一个接一个的命令，制定了一个又一个的各种计划。莫斯科的居民都跑光了，没有代表团前来见他，甚至连莫斯科大火，都没有使他惊慌失措。他并没有忽略他的军队的利益，也没有忽略敌人方面的活动，也没有忽略俄国人民的利益，也没有忽略巴黎方面的政务，也没有忽略关于即将缔结和约的外交方面的考虑——</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1211-20850.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1211-20852.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1211.html" action-type="chapterComment" class="comment"><i></i>战争与和平章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

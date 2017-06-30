@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《神农本草经》正文_虫兽部中品_神农氏作品 - 维普阅读网</title>
+<meta name="keywords" content="神农本草经,神农本草经原文,神农本草经阅读,虫兽部中品全文,神农氏作品" />
+<meta name="description" content="神农本草经原文阅读,虫兽部中品全文在线阅读,神农氏作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-227-2856.html";
+var nextpage="novel-read-227-2858.html";
+var indexpage = "novel-chapter-227.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-227.html">神农本草经</a></strong>
+<strong><a href="novel-chapter-227.html">神农本草经目录</a></strong>
+<span>虫兽部中品</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-227-2856.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>虫兽部中品</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=神农氏&amp;searchsubmit=yes"  target="_blank">神农氏</a><span class="divide">|</span>发布时间：2014-08-18 22:25:12<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>犀角　味苦寒。主治百毒蛊注，邪鬼瘴气，杀钩吻鸠羽蛇毒，除邪，不迷惑魇寐。久服轻身。生川谷。<br/>　　羚羊角　味咸寒。主明目益气起阴，去恶血注下，辟蛊毒恶鬼不祥，安心气，常不魇寐。久服强筋骨轻身。生川谷。<br/>　　羖羊角　味咸温。主治青盲、明目，杀疥虫，止寒泄，辟恶鬼虎狼，止惊悸。久服安心益气轻身。生川谷。<br/>　　白马茎　味咸平。主治伤中脉绝，阴不起。强志益气，长肌肉，肥健生子。眼，主治惊痫腹满疟疾。悬蹄，主治惊邪瘈疭，乳难，辟恶气鬼毒蛊注不祥。生平泽。<br/>　　狗阴茎　味咸平。主治伤中，阴痿不起，令强热大生子，除女子带下十二疾。胆，明目。一名狗精。生平泽。<br/>　　鹿茸　味甘温。主治漏下恶血，寒热惊痫，益气强志，生齿不老。角，主治恶疮痈肿，逐邪恶气，留血在阴中。<br/>　　伏翼　味咸平。主治目暝，明目，夜视有精光。久服令人喜乐媚好无忧。一名蝙蝠。生太山川谷。<br/>　　猬皮　味苦平。主治五痔阴蚀，下血赤白，五色血汁不止，阴肿痛引腰背。酒煮杀之。生川谷。<br/>　　石龙子　味咸寒。主治五癃，邪结气，破石淋，下血，利小便水道。一名蜥蜴。生川谷。<br/>　　桑螵蛸　味咸平。主治伤中，疝瘕阴痿，益精生子，女子血闭腰痛，通五淋，利小便水道。生桑枝上，采蒸之。一名蚀肬。<br/>　　蚱蝉　味咸寒。主治小儿惊痫，夜啼，癫病，寒热。生杨柳上。<br/>　　白僵蚕　味咸。主治小儿惊痫夜啼，去三虫，灭黑鼾*，令人面色好，男子阴疡病。生平泽。<br/>　　木虻　味苦平。主治目赤痛，眥伤泪出，瘀血血闭，寒热酸斯*，无子。一名魂常。生川泽。<br/>　　蜚虻　味苦微寒。主逐瘀血，破下血积坚癖癥瘕寒热，通利血脉及九窍。生川谷。<br/>　　蜚廉　味咸。主治血瘀，癥坚寒热，破积聚，喉咽痹，内寒无子。生川泽。<br/>　　蛴螬　味咸微温。主治恶血血瘀，痹气，破折血在胁下坚满痛，月闭，目中淫肤，青翳白膜。一名愤（虫旁）蛴。生平泽。<br/>　　蛞蝓　味咸寒。主治贼风喎僻，轶筋及脱肛，惊痫挛缩。一名陵蠡。生池泽。<br/>　　海蛤　味苦平。主治咳逆上气，喘息烦满，胸痛寒热。一名魁蛤。生池泽。文蛤，主治恶疮，蚀五痔。<br/>　　龟甲　味咸平。主治漏下赤白，破癥瘕，痎疟，五痔阴蚀，湿痹，四肢重弱，小儿囟不合。久服轻身不饥。一名神屋。生池泽。<br/>　　鳖甲　味咸平。主治心腹癥瘕，坚积寒热，去痞、息肉，阴蚀，痔，恶肉。生池泽。<br/>　　鮀鱼甲　味辛微温。主治心腹癥瘕，伏坚积聚，寒热，女子崩中下血五色，小腹阴中相引痛，疥疮死肌。生池泽。<br/>　　乌贼鱼骨　味咸微温。主治女子漏下赤白经汁，血闭，阴蚀肿痛，寒热，癥瘕，无子。生池泽。<br/>　　蟹*　味咸寒。主治胸中邪气，热结痛，喎僻面肿。败漆。烧之致鼠。生池泽。<br/>　　虾蟇　味辛寒。主治邪气，破癥坚血，痈肿阴疮。服之不患热病。生池泽。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-227-2856.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-227-2858.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-227.html" action-type="chapterComment" class="comment"><i></i>神农本草经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

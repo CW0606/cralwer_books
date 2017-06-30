@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《鬼谷子》正文_权篇第九_鬼谷子作品 - 维普阅读网</title>
+<meta name="keywords" content="鬼谷子,鬼谷子原文,鬼谷子阅读,权篇第九全文,鬼谷子作品" />
+<meta name="description" content="鬼谷子原文阅读,权篇第九全文在线阅读,鬼谷子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-24-359.html";
+var nextpage="novel-read-24-361.html";
+var indexpage = "novel-chapter-24.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-24.html">鬼谷子</a></strong>
+<strong><a href="novel-chapter-24.html">鬼谷子目录</a></strong>
+<span>权篇第九</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-24-359.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>权篇第九</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鬼谷子&amp;searchsubmit=yes"  target="_blank">鬼谷子</a><span class="divide">|</span>发布时间：2014-07-19 00:39:55<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/><br/>　　说者，说之也；说之者，资之也。饰言者，假之也；假之者，益损也。应对者，利辞也；利辞者，轻论也。成义者，明之也；明之者，符验也。（言或反覆，欲相却也。）难言者，却论也；却论者，钓几也 。　　<br/>　　佞言者，谄而干忠；谀言者，博而干智；平言者，决而干勇；戚言者，权而干信；静言者，反而干胜。先意承欲者，谄也；繁称文辞者，博也；纵舍不疑者，决也；策选进谋者，权也；他分不足以窒非者，反也。<br/>　　故口者，机关也；所以关闭情意也。耳目者，心之佐助也；所以窥间见奸邪。故曰：参调而应，利道而动。故繁言而不乱，翱翔而不迷，变易而不危者，（者见）要得理。故无目者不可示以五色，无耳者不可告也五音。故不可以往者，无所开之也。不可以来者，无所受之也。物有不通者，圣人故不事也。古人有言曰：「口可以食，不可以言」者，有讳忌也。众口烁金，言有曲故也。<br/>　　人之情，出言则欲听，举事则欲成。是故智者不用其所短而用愚人之所长；不用其所拙而用愚人之所工；故不困也。言其有利者，从其所长也；言其有害者，避其所短也。故介虫之捍也，必以坚厚；螫虫之动也，必以毒螫。故禽兽知用其长，而谈者亦知其用而用也。故曰：辞言有五：曰病、曰恐、曰忧、曰怒、曰喜。病者，感衰气而不神也。恐者，肠绝而无主也。忧者，闭塞而不泄也。怒者，妄动而不治也。喜者，宣散而无要也。此五者精则用之，利则行之。<br/>　　故与智者言，依于博；与博者言，依于辨；与辨者言，依于要；与贵者言，依于势；与富者言，依于高；与贫者言，依于利；与贱者言，依于谦；与勇者言，依于敢；与愚者言，依于锐；此其术也，而人常反之。是故与智者言，将以此明之；与不智者言，将以此教之；而甚难为也。故言多类，事多变。故终日言不失其类，而事不乱；终日不变，而不失其主。故智贵不忘。听贵聪，辞贵奇。<br/>　　【注释】<br/>　　权：权衡。<br/>　　干：同于或为。<br/><br/>译文：<br/><br/>　　古代善于统治天下的人，必然首先衡量天下各种力量的轻重，揣摩诸侯的实情。如果对权势分析不全面，就不可能了解诸侯力量的强弱虚实；如果揣诸侯的实情不够全面，就不可能掌握事物暗中变化的征兆。什么是“量权”呢？答案是：“测量尺寸大小；谋划数量多少；称验财货有无；估量人口多少、贫富，什么有余、什么不足，以及达到了什么样的程度；分辨地形险易，哪里有利，哪里有害；判断各方的谋虑谁长、谁短；分析君臣亲疏关系，谁贤、谁不肖；考核谋士的智慧，谁多、谁少；观察天时祸福，什么时候吉、什么时候凶；比较与诸侯的联系，哪个可以利用、哪个不可以利用；测验民心离叛或亲附的变化，那里安定、哪里危险，爱好什么憎恶什么；预测反叛事，在哪里更容易发生，哪些人能知道内情。”如此这些，就是所谓的“量权”。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-24-359.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-24-361.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-24.html" action-type="chapterComment" class="comment"><i></i>鬼谷子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

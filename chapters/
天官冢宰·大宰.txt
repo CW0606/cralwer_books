@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《周礼》正文_天官冢宰·大宰_周公旦作品 - 维普阅读网</title>
+<meta name="keywords" content="周礼,周礼原文,周礼阅读,天官冢宰·大宰全文,周公旦作品" />
+<meta name="description" content="周礼原文阅读,天官冢宰·大宰全文在线阅读,周公旦作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-34-809.html";
+var nextpage="novel-read-34-811.html";
+var indexpage = "novel-chapter-34.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-34.html">周礼</a></strong>
+<strong><a href="novel-chapter-34.html">周礼目录</a></strong>
+<span>天官冢宰·大宰</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-34-809.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>天官冢宰·大宰</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=周公旦&amp;searchsubmit=yes"  target="_blank">周公旦</a><span class="divide">|</span>发布时间：2014-07-20 16:39:05<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/>　　大宰之职，掌建邦之六典，以佐王治邦国：一曰治典，以经邦国，以治官府，以纪万民。二曰教典，以安邦国，以教官府，以扰万民。三曰礼典，以和邦国，以统百官，以谐万民。四曰政典，以平邦国，以正百官，以均万民。五曰刑典，以诘邦国，以刑百官，以纠万民。六曰事典，以富邦国，以任百官，以生万民。以八法治官府：一曰官属，以举邦治。二曰官职，以辨邦治。三曰官联，以会官治。四曰官常，以听官治。五曰官成，以经邦治。六曰官法，以正邦治。七曰官刑，以纠邦治。八曰官计，以弊邦治。以八则治都鄙：一曰祭祀，以驭其神。二曰法则，以驭其官。三曰废置，以驭其吏。四曰禄位，以驭其士。五曰赋贡，以驭其用。六曰礼俗，以驭其民。七曰刑赏，以驭其威。八曰田役，以驭其众。以八柄诏王驭群臣：一曰爵，以驭其贵。二曰禄，以驭其富。三曰予，以驭其幸。四曰置，以驭其行。五曰生，以驭其福。六曰夺，以驭其贫。七曰废，以驭其罪。八曰诛，以驭其过，以八统诏王驭万民：一曰亲亲，二曰敬故，三曰进贤，四曰使能，五曰保庸，六曰尊贵，七曰达吏，八曰礼宾。以九职任万民：一曰三农，生九谷。二曰园圃，毓草木。三曰虞衡，作山泽之材。四曰薮牧，养蕃鸟兽。五曰百工，饬化八材。六曰商贾，阜通货贿。七曰嫔妇，化治丝枲。八曰臣妾，聚敛疏材。九曰闲民，无常职，转移执事。以九赋敛财贿：一曰邦中之赋，二曰四郊之赋，三曰邦甸之赋，四曰家削之赋，五曰邦县之赋，六曰邦都之赋，七曰关市之赋，八曰山泽之赋，九曰币余之赋。以九式均节财用：一曰祭祀之式，二曰宾客之式，三曰丧荒之式，四曰羞服之式，五曰工事之式，六曰币帛之式，七曰刍秣之式，八日匪颁之式，九曰好用之式。以九贡致邦国之用：一曰祀贡，二曰嫔贡，三曰器贡，四曰币贡，五曰材贡，六曰货贡，七曰服贡，八曰斿贡，九曰物贡。以九两系邦国之民：一曰牧，以地得民。二曰长，以贵得民。三曰师，以贤得民。四曰儒，以道得民。五曰宗，以族得民。六曰主，以利得民。七曰吏，以治得民。八曰友，以任得民。九曰薮，以富得民。正月之吉，始和，布治于邦国都鄙，乃县治象之法于象魏，使万民观治象，挟日而敛之。置其辅。乃施典于邦国，而建其牧，立其监，设其参，傅其伍，陈其殷，置其辅。乃施则于都鄙，而建其长，立其两，设其伍，陈其殷。乃施法于官府，而建其正，立其贰，设其考，陈其殷，置其辅。凡治，以典待邦巩之治，以则待都鄙之治，以法待官府之治，以官成待万民之治，以礼待宾侩其疚。祀五帝，则掌百官之誓戒，与其具修。前期十日，帅执事而卜日。遂戒，及执事，□涤濯，及纳享，赞王牲事。及祀之日，赞玉币爵之事。祀大神示，亦如之。享先王，亦如之，赞玉几、玉爵。大朝觐会同，赞玉币、玉献、玉几、玉爵。大丧，赞赠玉、含玉。作大事，则戒于百官，赞王命。王□治朝，则赞听治；□四方之听朝，亦如之。凡邦之小治，则冢宰听之。待四方之宾客之小治。岁终，则令百官府各正其治，受其会，听其致事，而诏王废置。三岁，则大计群吏之治而诛赏之。<br/><br/>译文：<br/>　　大宰的职责，掌管建立和颁行王国的六种法典，以辅助王统治天下各国。第一是治典，用来治理天下各国，治理官府，治理民众。第二是教典，用来安定天下各国，教育官府的官吏，使民众顺服。第三是礼典，用来谐调天下各国，统御百官，使民众和谐。第四是政典，用来使天下各国政治公平，百官政风端正，民众赋役平均。第五是刑典，用来禁止天下各国的叛逆，惩罚百官的违法者，纠察民众。第六是事典，用来使天下各国富强，百官胜任职事，民众能得生养。<br/><br/>　　依据八种法则来治理官府。第一是官属，用来开展王国的政事。第二是官职，用来区别王国官吏的职责。第三是官联，用来会合各官共同办事。第四是官常，用来考察官吏的工作。第五是官成，用来治理王国的政事。第六是官法，用来端正王国的政风。第七是官刑，用来纠察王国的政事。第八是官廿，用来评断王国的吏治。<br/><br/>　　依据八种制度治理王畿内的采邑。第一是祭祀制度，用来节制对神的祭祀。第二是[有关宫室、车服等级的]制度，用来统御属官。第三是废置制度，用来治理官吏。第四是禄位制度，用来督励学士。第五是赋贡制度，用来调节财用。第六是礼仪风俗，用来约束民众。第七是刑赏制度，用来树立威信。第八是田役制度，用来役使民众。<br/><br/>　　用八种权柄辅助王统御群臣。第一是授予爵位的权柄，以使臣尊贵。第二是授予俸禄的权柄，以使臣富有。第三是赐予的权柄，以使臣得宠幸。第四是安置官吏的权柄，以劝励臣下的贤行。第五是赦免死罪的权柄，以使臣得免死之福。第六是剥夺的权柄，以使臣贫穷。第七是废黜的权柄，以惩罚罪臣。第八是诛杀的权柄，以使罪臣遭祸。<br/><br/>　　用八项原则辅助王统御民众。第一是亲近亲族，第二是尊敬故旧，第三是荐举贤人，第四是任用能人，第五是抚慰有功的人，第六是尊重尊贵的人，第七是提拔勤劳的小吏，第八是礼敬宾客。<br/><br/>　　以九类职业任用民众。第一是在三种不同地形从事农业，生产各种谷物。第二是园圃之业，培育瓜果。第三是虞衡之业，开发利用山林川泽的材物。第四是薮牧之业，蕃养鸟兽。第五是百工之业，利用各种原材料制造器物。第六是商贾之业，使财物大流通。第七是嫔妇之业，治理丝麻。第八是臣妾之业，采集草木果实。第九是闲民，没有固定职业，经常转换雇主为人做工。<br/><br/>　　用九种赋税法征收财物。第一是王都中的赋税法，第二是[距王都百里的]四郊的赋税法，第三是[距王都百里至二百里的]邦甸的赋税法，第四是[距王都二百里至三百里的]家削的赋税法，第五是[距王都三百里至四百里的]邦县的赋税法，第六是[距王都四百里至五百里的]邦都的赋税法，第七是关市的赋税法，第八是山泽的赋税法，第九是给公用的剩余财物的回收法。<br/><br/>　　用九种法则调节财物用度。第一是祭祀所用财物的法则，第二是接待宾客所用财物的法则，第三是遇死丧或灾荒所用财物的法则，第四是饮食和车服所用财物的法则，第五是工匠制作所用财物的法则，第六是行聘问礼所用财物的法则，第七是饲养牛马草料支出的法则，第八是分颁群臣俸禄所用财物的法则，第九是[王闲暇时]为与诸侯和臣下结恩好而赐予财物的法则。<br/><br/>　　按九种贡法收取诸侯国的财物。第一是贡献祭祀用物，第二是贡献接待宾客用物，第三是贡献各种器物，第四是贡献丝织物，第五是贡献竹、木材，第六是贡献珠贝金玉等自然之物，第七是贡献缝制祭服用的材料，第八是贡献玩赏之物，第九是贡献各地土特产。<br/><br/>　　用九种和协的办法联系天下各国的民众。第一是诸侯国君，以土地取得民众。第二是官长，以尊贵的爵位取得民众。第三是老师，以贤德取得民众。第四是儒士，以道艺取得民众。第五是大宗，以亲睦族人取得民众。第六是主人，以有利可依取得民众。第七是官吏，以治理民事取得民众。第八是朋友，以可托付信任取得民众。第九是掌管山林川泽的官吏，以山林川泽的材物取得民众。<br/><br/>　　[周历]正月初一，开始向各国诸侯和王畿内的采邑宣布治典，把形成文字的治典悬挂在象魏上，让民众观看治典，过十天而后收藏起来。<br/><br/>　　在各诸侯国和王畿内的采邑施行治典，为各州设州牧，为各国设国君，为国君设三卿，为卿设五大夫，为大夫设众士，为士置府史。在王畿施行八则，为各采邑设君长，为君长设两卿，为卿设五大夫，为大夫设众士，为士置府史。在官府施行八法，为各官府设长官，为长官设副手，副手下设考核官，属官下设众士，士下置府史。 <br/><br/>　　凡治理天下，用六典以待治理天下各国，用八则以待治理王畿，用八法以待治理官府，用官成以待治理民众，用宾礼以待接待宾客。<br/><br/>　　祭祀五帝，掌管告诫百官[不要失礼]，以及具备祭祀用品并把祭祀场所打扫干净。祭祀前的第十天，率众官占卜祭祀的日期，接着就斋戒。[到祭祀的前夕]携同众官视察祭器是否洗涤干净。到[祭祀那天黎明王牵牲]行纳亨礼的时候，帮助王牵牲。到祭祀那天天大亮的时候，帮助王拿玉器、币帛和爵。祭祀天上的大神和地神的礼仪也是这样。祭祀先王也是这样。还要帮助王拿玉几和玉爵。<br/><br/>　　诸侯朝觐王大会同而来，大宰协助王接受诸侯奉献的玉币，协助王接受诸侯进献的珍异之物，协助王设置玉几，协助王接受诸侯向王进酢酒的玉爵。<br/><br/>　　有大丧，协助[嗣王]行赠玉、含玉之礼。<br/><br/>　　采取大的军事行动，负责告诫百官，协助王发布命令。<br/><br/>　　王在治朝处理政事，就协助王评断政事。王巡守四方时听断政事，[大宰的职责]也是这样。<br/><br/>　　凡王国政务的小事，就由大宰处理。四方来朝宾客有小事也有待大宰处理。<br/><br/>　　[夏历]年终，命令各官府实事求是地整理文书资料，接受他们的会计总账，评断他们汇报的政绩，而帮助王决定对官吏的罢黜和提升。三年大考核众官吏的政绩，而[帮助王]决定对他们的惩罚和奖励。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-34-809.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-34-811.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-34.html" action-type="chapterComment" class="comment"><i></i>周礼章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

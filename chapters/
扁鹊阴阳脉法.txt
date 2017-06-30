@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《脉经》正文_扁鹊阴阳脉法_王叔和作品 - 维普阅读网</title>
+<meta name="keywords" content="脉经,脉经原文,脉经阅读,扁鹊阴阳脉法全文,王叔和作品" />
+<meta name="description" content="脉经原文阅读,扁鹊阴阳脉法全文在线阅读,王叔和作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-517-6187.html";
+var nextpage="novel-read-517-6189.html";
+var indexpage = "novel-chapter-517.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-517.html">脉经</a></strong>
+<strong><a href="novel-chapter-517.html">脉经目录</a></strong>
+<span>扁鹊阴阳脉法</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-517-6187.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>扁鹊阴阳脉法</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王叔和&amp;searchsubmit=yes"  target="_blank">王叔和</a><span class="divide">|</span>发布时间：2014-09-23 20:29:56<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>脉，平旦曰太阳，日中曰阳明，晡时曰少阳，黄昏曰少阴，夜半曰太阴，鸡鸣曰厥阴，是三阴三阳时也。<br/><br/>　　少阳之脉，乍小乍大，乍长乍短，动摇六分。王十一月甲子夜半，正月、二月甲子王。<br/><br/>　　太阳之脉，洪大以长，其来浮于筋上，动摇九分。三月、四月甲子王。<br/><br/>　　阳明之脉，浮大以短，动摇三分。大前小后，状如科斗，其至跳。五月、六月甲子王。<br/><br/>　　少阴之脉紧细，动摇六分。王五月甲子日中，七月、八月甲子王。<br/><br/>　　太阴之脉、紧细以长，乘于筋上，动摇九分。九月、十月甲子王。<br/><br/>　　厥阴之脉，沉短以紧，动摇三分。十一月、十二月甲子王。<br/><br/>　　厥阴之脉急弦，动摇至六分以上，病迟脉寒，少腹痛引腰，形喘者死；脉缓者可治。刺足厥阴入五分。少阳之脉，乍短乍长，乍大乍小，动摇至六分以上。病头痛，胁下满，呕可治；扰即死（一作伛可治，偃即死）。刺两季肋端足少阳也，入七分。阳明之脉，洪大以浮，其来滑而跳，大前细后，状如科斗，动摇至三分以上。病眩头痛，腹满痛，呕可治；扰即死。刺脐上四寸，脐下三寸，各六分。从二月至八月，阳脉在表；从八月至正月，阳脉在里。附阳脉强，附阴脉弱。至即惊，实则。细而沉，不即泄，泄即烦，烦即渴，渴即腹满，满即扰，扰即肠，即脉代，乍至乍不至。大而沉即咳，咳即上气，上气甚则肩息，肩息甚则口舌血出，血出甚即鼻血出。变出寸口，阴阳表里，以互相乘。如风有道，阴脉乘阳也。寸口中，前后溢者，行风。<br/><br/>　　寸口中，外实内不满者，三风、四温。寸口者，劳风。劳风者，大病亦发，快行汗出亦发。软风者，上下微微扶骨，是其诊也。表缓腹内急者，软风也。猥雷实夹者，飘风。从阴趋阳者，风邪。一来调，一来速，鬼邪也。阴缓阳急者，表有风来入脏也。阴急者，风已抱阳入腹。上逯逯，下宛宛，不能至阳，流饮也。上下血微，阴强者，为漏癖；阳强者，酒癖也。伛偷不过，微反阳，澹浆也。阴扶骨绝者，从寸口前顿趣于阴，汗水也。来调四布者，欲病水也。阴脉不偷，阳脉伤，复少津。寸口中后大前兑，至阳而实者，癖食。小过阳一分者，七日癖；二分者，十日癖；三分者，十五日癖；四分者，二十日癖；四分中伏不过者，半岁癖。敦敦不至胃阴一分，饮饵癖也。外勾者，久癖也。内卷者，十日以还。外强内弱者，裹大核也，并浮而弦者，汁核。并浮紧而数，如沉，病暑食粥（一作微）。有内紧而伏，麦饭若饼。寸口脉倚阳，紧细以微，瓜菜皮也；若倚如紧，荠藏菜也。赜赜无数，生肉癖也；附阳者，炙肉癖也。小倚生，浮大如故，生麦豆也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-517-6187.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-517-6189.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-517.html" action-type="chapterComment" class="comment"><i></i>脉经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

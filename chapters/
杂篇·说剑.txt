@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《庄子》正文_杂篇·说剑_庄子作品 - 维普阅读网</title>
+<meta name="keywords" content="庄子,庄子原文,庄子阅读,杂篇·说剑全文,庄子作品" />
+<meta name="description" content="庄子原文阅读,杂篇·说剑全文在线阅读,庄子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-39-1012.html";
+var nextpage="novel-read-39-1014.html";
+var indexpage = "novel-chapter-39.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-39.html">庄子</a></strong>
+<strong><a href="novel-chapter-39.html">庄子目录</a></strong>
+<span>杂篇·说剑</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-39-1012.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>杂篇·说剑</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=庄子&amp;searchsubmit=yes"  target="_blank">庄子</a><span class="divide">|</span>发布时间：2014-07-22 21:13:35<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　昔赵文王喜剑，剑士夹门而客三千余人，日夜相击于前，死伤者岁 百余人。好之不厌。如是三年，国衰。诸侯谋之。太子悝患之，募左 右曰：“孰能说王之意止剑士者，赐之千金。”左右曰：“庄子当能 。”太子乃使人以千金奉庄子。庄子弗受，与使者俱往见太子，曰： “太子何以教周，赐周千金？”太子曰：“闻夫子明圣，谨奉千金以 币从者。夫子弗受，悝尚何敢言。”庄子曰：“闻太子所欲用周者， 欲绝王之喜好也。使臣上说大王而逆王意，下不当太子，则身刑而死 ，周尚安所事金乎？使臣上说大王，下当太子，赵国何求而不得也！ ”太子曰∶“然。吾王所见，唯剑士也。”庄子曰：“诺。周善为剑 。”太子曰：“然吾王所见剑士，皆蓬头突鬓，垂冠，曼胡之缨，短 后之衣，瞋囗目而语难，王乃说之。今夫子必儒 服而见王，事必大逆。”庄子曰：“请治剑服。”治剑服三日，乃见 太子。太子乃与见王。王脱白刃待之。庄子入殿门不趋，见王不拜。 王曰：“子欲何以教寡人，使太子先。”曰：“臣闻大王喜剑，故以 剑见王。”王曰：“子之剑何能禁制？”曰：“臣之剑十步一人，千 里不留行。”王大悦之，曰：“天下无敌矣。”庄子曰：“夫为剑者 ，示之以虚，开之以利，后之以发，先之以至。愿得试之。”王曰： “夫子休，就舍待命，令设戏请夫子。”王乃校剑士七日，死伤者六 十余人，得五六人，使奉剑于殿下，乃召庄子。王曰：“今日试使士 敦剑。”庄子曰：“望之久矣！”王曰：“夫子所御杖，长短何如？ ”曰：“臣之所奉皆可。然臣有三剑，唯王所用。请先言而后试。” 王曰：“愿闻三剑。”曰：“有天子剑，有诸侯剑，有庶人剑。”王 曰：“天子之剑何如？”曰：“天子之剑，以燕谿石城为锋，齐岱为 锷，晋卫为脊，周宋为镡，韩魏为夹，包以四夷，裹以四时，绕以渤 海，带以常山，制以五行，论以刑德，开以阴 阳，持以春夏，行以秋冬。此剑直之无前，举之无上，案之无下，运 之无旁。上决浮云，下绝地纪。此剑一用，匡诸侯，天下服矣。此天 子之剑也。”文王芒然自失，曰：“诸侯之剑何如？”曰：“诸侯之 剑，以知勇士为锋，以清廉士为锷，以贤良士为脊，以忠圣士为镡， 以豪桀士为夹。此剑直之亦无前，举之亦无上，案之亦无下，运之亦 无旁。上法圆天，以顺三光；下法方地，以顺四时；中和民意，以安 四乡。此剑一用，如雷霆之震也，四封之内，无不宾服而听从君命者 矣。此诸侯之剑也。”王曰：“庶人之剑何如？”曰：“庶人之剑， 蓬头突鬓，垂冠，曼胡之缨，短后之衣，瞋目 而语难，相击于前，上斩颈领，下决肝肺。此庶人之剑，无异于斗鸡 ，一旦命已绝矣，无所用于国事。今大王有天子之位而好庶人之剑， 臣窃为大王薄之。”王乃牵而上殿，宰人上食，王三环之。庄子曰： “大王安坐定气，剑事已毕奏矣！”于是文王不出宫三月，剑士皆服 毙其处也。<br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-39-1012.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-39-1014.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-39.html" action-type="chapterComment" class="comment"><i></i>庄子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

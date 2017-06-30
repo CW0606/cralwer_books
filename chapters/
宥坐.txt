@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《荀子》正文_宥坐_荀子作品 - 维普阅读网</title>
+<meta name="keywords" content="荀子,荀子原文,荀子阅读,宥坐全文,荀子作品" />
+<meta name="description" content="荀子原文阅读,宥坐全文在线阅读,荀子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-41-1103.html";
+var nextpage="novel-read-41-1105.html";
+var indexpage = "novel-chapter-41.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-41.html">荀子</a></strong>
+<strong><a href="novel-chapter-41.html">荀子目录</a></strong>
+<span>宥坐</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-41-1103.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>宥坐</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=荀子&amp;searchsubmit=yes"  target="_blank">荀子</a><span class="divide">|</span>发布时间：2014-07-24 20:21:33<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　孔子观于鲁桓公之庙，有欹器焉，孔子问于守庙者曰：“此为何器？”守庙者 曰：“此盖为宥坐之器，”孔子曰：“吾闻宥坐之器者，虚则欹，中则正，满则覆。” 孔子顾谓弟子曰：“注水焉。”弟子挹水而注之。中而正，满而覆，虚而欹，孔子 喟然而叹曰：“吁！恶有满而不覆者哉！”子路曰：“敢问持满有道乎？”孔子曰： “聪明圣知，守之以愚；功被天下，守之以让；勇力抚世，守之以怯，富有四海， 守之以谦：此所谓挹而损之之道也。”<br/><br/>　　孔子为鲁摄相，朝七日而诛少正卯。门人进问曰：“夫少正卯鲁之闻人也，夫 子为政而始诛之，得无失乎，”孔子曰：“居，吾语女其故。人有恶者五，而盗窃 不与焉：一曰：心达而险；二曰：行辟而坚；三曰：言伪而辩；四曰：记丑而博； 五曰：顺非而泽－－此五者有一于人，则不得免于君子之诛，而少正卯兼有之。故 居处足以聚徒成群，言谈足饰邪营众，强足以反是独立，此小人之桀雄也，不可不 诛也。是以汤诛尹谐，文王诛潘止，周公诛管叔，太公诛华仕，管仲诛付里乙，子 产诛邓析史付，此七子者，皆异世同心，不可不诛也。诗曰：‘忧心悄悄，愠于群 小。’小人成群，斯足忧也。”<br/><br/>　　孔子为鲁司寇，有父子讼者，孔子拘之，三月不别。其父请止，孔子舍之。季 孙闻之，不说，曰：“是老也欺予。语予曰：为国家必以孝。今杀一人以戮不孝！ 又舍之。”冉子以告。孔子慨然叹曰：“呜呼！上失之，下杀之，其可乎？不教其 民，而听其狱，杀不辜也。三军大败，不可斩也；狱犴不治，不可刑也，罪不在民 故也。嫚令谨诛，贼也。今生也有时，歛也无时，暴也；不教而责成功，虐也。－ －已此三者，然后刑可即也。书曰：‘义刑义杀，勿庸以即，予维曰未有顺事。’ 言先教也。故先王既陈之以道，上先服之；若不可，尚贤以綦之；若不可，废不能 以单之；綦三年而百姓从风矣。邪民不从，然后俟之以刑，则民知罪矣。诗曰： ‘尹氏大师，维周之氐；秉国之均，四方是维；天子是庳，卑民不迷。’是以威厉 而不试，刑错而不用，此之谓也。今之世则不然：乱其教，繁其刑，其民迷惑而堕 焉，则从而制之，是以刑弥繁，而邪不胜。三尺之岸而虚车不能登也，百仞之山任 负车登焉，何则？陵迟故也。数仞之墙而民不踰也，百仞之山而竖子冯而游焉，陵 迟故也。今之世陵迟已久矣，而能使民勿踰乎，诗曰：‘周道如砥，其直如矢。君 子所履，小人所视。眷焉顾之，潸焉出涕。’岂不哀哉！”<br/><br/>　　诗曰：“瞻彼日月，悠悠我思。道之云远，曷云能来。”子曰：“伊稽首不其 有来乎？”<br/><br/>　　孔子观于东流之水。子贡问于孔子曰：“君子之所以见大水必观焉者，是何？” 孔子曰：“夫水遍与诸生而无为也，似德。其流也埤下，裾拘必循其理，似义，其 洸洸乎不淈尽，似道。若有决行之，其应佚若声响，其赴百仞之谷不惧，似勇。主 量必平，似法。盈不求概，似正。淖约微达，似察。以出以入以就鲜絜，似善化。 其万折也必东，似志。是故见大水必观焉。<br/><br/>　　孔子曰：“吾有耻也，吾有鄙也，吾有殆也：幼不能强学，老无以教之，吾耻 之，去其故乡，事君而达，卒遇故人曾无旧言，吾鄙之；与小人处者，吾殆之也。”<br/><br/>　　孔子曰：“如垤而进，吾与之；如丘而止，吾已矣。”今学曾未如(月尤)赘， 则具然欲为人师。<br/><br/>　　孔子南适楚，厄于陈蔡之间，七日不火食，藜羹不糁，弟子皆有饥色。子路进 而问之曰：“由闻之：为善者天报之以福，为不善者天报之以祸，今夫子累德积义 怀美，行之日久矣，奚居之隐也？”孔子曰：“由不识，吾语女。女以知者为必用 邪？王子比干不见剖心乎！女以忠者为必用邪？关龙逢不见刑乎！女以谏者为必用 邪？吴子胥不磔姑苏东门外乎！夫遇不遇者，时也；贤不肖者，材也；君子博学深 谋，不遇时者多矣！由是观之，不遇世者众矣，何独丘也哉！且夫芷兰生于深林， 非以无人而不芳。君子之学，非为通也，为穷而不困，忧而意不衰也，知祸福终始 而心不惑也。夫贤不肖者，材也；为不为者，人也；遇不遇者，时也；死生者，命 也。今有其人，不遇其时，虽贤，其能行乎？苟遇其时，何难之有！故君子博学深 谋，修身端行，以俟其时。”孔子曰：“由！居！吾语女。昔晋公子重耳霸心生于 曹，越王句践霸心生于会稽，齐桓公小白霸心生于莒。故居不隐者思不远，身不佚 者志不广；女庸安知吾不得之桑落之下？”<br/><br/>　　子贡观于鲁庙之北堂，出而问于孔子曰：“乡者赐观于太庙之北堂，吾亦未辍， 还复瞻被九盖皆继，被有说邪？匠过绝邪？”孔子曰：“太庙之堂亦尝有说，官致 良工，因丽节文，非无良材也，盖曰贵文也。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-41-1103.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-41-1105.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-41.html" action-type="chapterComment" class="comment"><i></i>荀子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

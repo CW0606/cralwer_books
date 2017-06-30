@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《集外集拾遗补编》正文_《吕超墓志铭》跋_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="集外集拾遗补编,集外集拾遗补编原文,集外集拾遗补编阅读,《吕超墓志铭》跋全文,鲁迅作品" />
+<meta name="description" content="集外集拾遗补编原文阅读,《吕超墓志铭》跋全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-542-7118.html";
+var nextpage="novel-read-542-7120.html";
+var indexpage = "novel-chapter-542.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-542.html">集外集拾遗补编</a></strong>
+<strong><a href="novel-chapter-542.html">集外集拾遗补编目录</a></strong>
+<span>《吕超墓志铭》跋</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-542-7118.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>《吕超墓志铭》跋</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-01 20:36:11<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　吕超墓志石（２），于民国六年出山阴兰上（３）乡。余从陈君古遗（４）得打本（５）一枚，以漫患难读，久置箧中。明年，徐吕孙（６）先生至京师，又与一本，因得校写。其文仅存百十余字，（７）国号年号俱泐，无可冯证。唯据郡名及岁名考之，疑是南齐永明中刻也。按随国，晋武帝分义阳立，（８）宋齐为郡，隋为县。此云隋郡，当在隋前。南朝诸王分封于随者，惟宋齐有之。此云隋郡王国，则又当在梁陈以前。《通鉴目录》（９），宋文帝元嘉六年，齐武帝永明七年，并太岁在己巳。《宋书》（１０）《文帝纪》，元嘉二十六年冬十月，广陵王诞改封随郡王。又《顺帝纪》，升明二年十二月，改封南阳王�为随郡王，改随阳郡。其时皆在己巳后。《南齐书》（１１）《武帝纪》，建元四年六月，进封枝江公子隆（１２）为随郡王。子隆本传云，永明三年为辅国将军，南琅琊彭城二郡太守，明年迁江州刺史，未拜，唐寓之（１３）贼平，迁为持节，督会稽东阳新安临海永嘉五郡东中郎将，会稽太守。《祥瑞志》云：“永明五年，山阴县孔广家园柽树十二层，会稽太守随王子隆献之”，与传合。子隆尝守会稽，则其封国之中军，因官而居山阴，正事理所有。故此己巳者，当为永明七年，而五月廿五为卒日。一年者，十一年。《通鉴目录》，永明十一年十月戊寅，十二月丁丑朔，则十一月为戊申朔，丙寅为十九日，其葬日也。和帝（１４）为皇子时，亦封随郡王，于时不合。唐开元十八年（１５）己巳，二十一年十一月丙寅朔，与志中之一年冬十一月丙寅颇近，然官号郡名，无不格迕，若为迁窆，则年代相去又过远，殆亦非矣。永明中，为中军将军见于纪传者，南郡王长懋，王敬则，阴智伯，庐陵王子卿。此云刘（１６），泐其名，无可考。“志风烈者云”以下无字。次为铭辞，有字可见者四行，其后余石尚小半。六朝志例，铭大抵不溢于志，或当记妻息名字，今亦俱泐。志书“随”为“隋”，罗泌云，随文帝恶随从辵改之。（１７）王伯厚亦讥帝不学。（１８）后之学者，或以为初无定制，或以为音同可通用，至征委蛇委随作证。今此石远在前，已如此作，知非随文所改。《隶释》《张平子碑颂》，有“在珠咏隋，于璧称和”语（１９）。隋字收在刘球《隶韵》（２０）正无辵，则晋世已然。作随作隋作阢，止是省笔而已。东平本兖州所领郡，宋末没于魏，《南齐书》《州郡志》言永明七年，因光禄大夫吕安国（２１）启立于北兖州。启有云“臣贱族桑梓，愿立此邦”，则安国与超盖同族矣。与石同出垅中者，尚有瓦罂铜竟各一枚。竟有铭云“郑氏作镜幽涑三商幽明镜”十一字，篆书，俱为谁何毁失。附识于此，使后有考焉。 <br/><br/>　　==============================================================================<br/><br/><br/>　　（１）本篇据手稿编入，原无标点。据《鲁迅日记》，当写于一九一八年六月十一日。此文曾发表于一九一八年六月二十五日《北京大学日刊》第一七一号“文艺”栏，题为《新出土吕超墓志铭考证》，署名周树人。一九一九年又曾印入顾鼎梅编刊的《吕超墓志拓片专集》，题为《南齐《吕超墓志〉跋》，末署“绍兴周树人跋”。（２）吕超墓志石出土于一九一六年（民国五年）十二月，原石“超”字之下有“静”字残画可辨，当定名为《吕超静墓志石》。《鲁迅日记》一九二三年六月八日，一九二四年八月二十二日，分别有购得《吕超静墓志》拓本的记载。按一九一七年绍兴张拯亢曾对此石作过考证，误断为隋炀帝大业五年（６０９）物。（３）兰上即绍兴西南的兰亭。《水经·渐江水注》：“兰亭，亦曰兰上里”。吕超墓志石的出土地点灰灶头村在兰亭以西约二里。（４）陈古遗（１８７５—１９４３）字伯翔（又作伯祥），号古遗，浙江绍兴人。越社、叒社社员。曾任绍兴府中学堂、绍兴浙江省立第五师范学校教员，《浙事新闻报》、《越铎日报》编辑。著有《中国历代郡县分类考》等。 <br/><br/>　　（５）打本即拓片。语见唐代窦泉《述书赋》注。（６）徐�孙名维则，字�孙，浙江绍兴人，金石收藏家、目录学家。当时在北京大学附属国史编纂处工作。著有《东西学书录》、《石墨盦碎锦》等。《鲁迅日记》一九一八年六月二日：“午后得徐以（按同�）孙信并《吕超墓志》拓片一枚。” <br/><br/>　　（７）鲁迅校写的《吕超墓志》释文曾发表于一九一八年六月二十四日《北京大学日刊》第一七○号“文艺”栏，全文如下：墓志 <br/><br/>　　故龙骧将军隋郡王国中军吕府君讳超东平人也胄兴自姜奄有营业飞芳因官即邦今居会稽山阴起令誉早宣故孝弟出 <br/><br/>　　风猷日新而��有 <br/><br/>　　岁在己巳夏五月廿五 <br/><br/>　　一年冬十一月丙寅 <br/><br/>　　同系中军将军刘 <br/><br/>　　金石志风烈者云 <br/><br/>　　蔼蔼清猷白云岫素 <br/><br/>　　嘉如应我 <br/><br/>　　其區眷言 <br/><br/>　　蕙 <br/><br/>　　夕悄松 <br/><br/>　　（８）按晋武帝当系惠帝之误，《晋书·地理志下》：“惠帝……分义阳立随郡。” <br/><br/>　　（９）《通鉴目录》即《资治通鉴目录》，是《资治通鉴》的提要，北宋司马光著，三十卷。 <br/><br/>　　（１０）《宋书》南朝宋史，南朝梁沈约编撰，一百卷。下文的广陵王诞，即宋文帝第六子刘诞；南阳王岁羽，即宋明帝第六子刘�。按升明二年十二月，当为十一月。 <br/><br/>　　（１１）《南齐书》南朝齐史，南齐萧子显编撰，五十九卷（１２）子隆即萧子隆（４７４—４９４），字云兴，南齐武帝第八子。齐高帝建元四年（４８２）至武帝永明八年（４９０）间为随郡王。（１３）唐寓之（？—４８６）南齐富阳（今浙江富阳）人，农民起义领袖。永明三年（４８５）起兵反齐，次年攻占钱塘（今浙江杭州）称帝，国号吴。同年兵败被杀。 <br/><br/>　　（１４）和帝即萧宝融（４８８—５０２），南齐高帝第八子，于建武元年（４９４）受封随郡王。 <br/><br/>　　（１５）唐开元十八年按唐开元十八年为庚午，己巳当为开元十七年。 <br/><br/>　　（１６）刘范鼎卿据《吕超墓志》精拓本“刘”字下有“玄”字残划可辨，并引证《南史》，认为此人系“刘玄明，临淮人，为山阴令”，“其时玄明已任中军将军，未几殆即改官司农矣。”（见顾燮光《梦碧鋎石言》所收范跋）按《南史·循吏传》仅载刘玄明“终于司农卿”，未见任中军将军的记载。 <br/><br/>　　（１７）罗泌字长源，宋代庐陵（今属江西）人。著有《路史》四十七卷。据《困学纪闻》清代翁元圻辑注本卷十三“随恶走改隋”条“集证”：“罗泌《路史》：随文帝恶随从辵，改为隋。”按四库全书本《路史》不见有此记载。 <br/><br/>　　（１８）王伯厚（１２２３—１２９６）名应麟，庆元（今浙江宁波）人，宋代学者。著有《困学纪闻》二十卷。该书卷十三“随恶走改隋”条：“徐楚金《说文系传》云，‘随文帝恶随字为走，乃去之，成隋字。’隋，列肉也，其不祥大焉。殊不知随从辵：辵，安步也，……而妄去之，岂非不学之故！” <br/><br/>　　（１９）《隶释》宋代洪适编，二十七卷，是集录汉、魏石刻文字的专书。《张平子碑颂》，晋代夏侯湛撰，见《隶释》卷十九。张平子即东汉科学家张衡，“在珠咏隋，于璧称和”是对他的赞词。隋，指隋侯珠；和，指和氏璧。 <br/><br/>　　（２０）《隶韵》字书，宋代刘球著，十卷。钩摹宋代以前出土汉碑隶字，按韵分类。《张平子碑颂》的隋字收入该书卷一“五支”部。（２１）吕安国（４２６—４９０）南齐广陵（今江苏扬州）人。官义阳太守、平北将军兼南兖州刺使。他曾启请在南齐侨置的北兖州设置东平侨郡。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-542-7118.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-542-7120.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-542.html" action-type="chapterComment" class="comment"><i></i>集外集拾遗补编章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《庄子》正文_内篇·应帝王_庄子作品 - 维普阅读网</title>
+<meta name="keywords" content="庄子,庄子原文,庄子阅读,内篇·应帝王全文,庄子作品" />
+<meta name="description" content="庄子原文阅读,内篇·应帝王全文在线阅读,庄子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-39-988.html";
+var nextpage="novel-read-39-990.html";
+var indexpage = "novel-chapter-39.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-39.html">庄子</a></strong>
+<strong><a href="novel-chapter-39.html">庄子目录</a></strong>
+<span>内篇·应帝王</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-39-988.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>内篇·应帝王</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=庄子&amp;searchsubmit=yes"  target="_blank">庄子</a><span class="divide">|</span>发布时间：2014-07-22 21:00:38<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　啮缺问于王倪，四问而四不知。啮缺因跃而大喜，行以告蒲衣子。 蒲衣子曰：“而乃今知之乎？有虞氏不及泰氏。有虞氏其犹藏仁以要 人，亦得人矣，而未始出于非人。泰氏其卧徐徐，其觉于于。一以己 为马，一以己为牛。其知情信，其德甚真，而未始入于非人。”<br/><br/>　　肩吾见狂接舆。狂接舆曰：“日中始何以语女？”肩吾曰：“告我 ：君人者以己出经式义度，人孰敢不听而化诸！”狂接舆曰：“是欺 德也。其于治天下也，犹涉海凿河而使蚊负山也。夫圣人之治也，治 外夫？正而后行，确乎能其事者而已矣。且鸟高飞以避矰弋之害，鼷 鼠深穴乎神丘之下以避熏凿之患，而曾二虫之无知？”<br/><br/>　　天根游于殷阳，至蓼水之上，适遭无名人而问焉，曰：“请问为天 下。”无名人曰：“去！汝鄙人也，何问之不豫也！予方将与造物者 为人，厌则又乘夫莽眇之鸟，以出六极之外，而游无何有之乡，以处 圹埌之野。汝又何帛以治天下感予之心为？”又复问，无名人曰： “汝游心于淡，合气于漠，顺物自然而无容私焉，而天下治矣。”<br/><br/>　　阳子居见老聃，曰：“有人于此，向疾强梁，物彻疏明，学道不倦 ，如是者，可比明王乎？”老聃曰：“是於圣人也，胥易技系，劳形 怵心者也。且也虎豹之文来田，猨狙之便执嫠之狗来藉。如是者，可 比明王乎？”阳子居蹴然曰：“敢问明王之治。”老聃曰：“明王之 治：功盖天下而似不自己，化贷万物而民弗恃。有莫举名，使物自喜。 立乎不测，而游于无有者也。”<br/><br/>　　郑有神巫曰季咸，知人之死生、存亡、祸福、寿夭，期以岁月旬日 若神。郑人见之，皆弃而走。列子见之而心醉，归，以告壶子，曰： “始吾以夫子之道为至矣，则又有至焉者矣。”壶子曰：“吾与汝既 其文，未既其实。而固得道与？众雌而无雄，而又奚卵焉！而以道与 世亢，必信，夫故使人得而相汝。尝试与来，以予示之。”<br/><br/>　　明日，列子与之见壶子。出而谓列子曰：“嘻！子之先生死矣！弗 活矣！不以旬数矣！吾见怪焉，见湿灰焉。”列子入，泣涕沾襟以告 壶子。壶子曰：“乡吾示之以地文，萌乎不震不正，是殆见吾杜德机 也。尝又与来。”明日，又与之见壶子。出而谓列子曰：“幸矣！子 之先生遇我也，有瘳矣！全然有生矣！吾见其杜权矣！”列子入，以 告壶子。壶子曰：“乡吾示之以天壤，名实不入，而机发于踵。是殆 见吾善者机也。尝又与来。”明日，又与之见壶子。出而谓列子曰： “子之先生不齐，吾无得而相焉。试齐，且复相之。”列子入，以告 壶子。壶子曰：“吾乡示之以以太冲莫胜，是殆见吾衡气机也。鲵桓 之审为渊，止水之审为渊，流水之审为渊。渊有九名，此处三焉。尝 又与来。”明日，又与之见壶子。立未定，自失而走。壶子曰：“追 之！”列子追之不及。反，以报壶子曰：“已灭矣，已失矣，吾弗及 已。”壶子曰：“乡吾示之以未始出吾宗。吾与之虚而委蛇，不知其 谁何，因以为弟靡，因以为波流，故逃也。”然后列子自以为未始学 而归。三年不出，为其妻爨，食豕如食人，于事无与亲。雕琢复朴， 块然独以其形立。纷而封哉，一以是终。<br/><br/>　　无为名尸，无为谋府，无为事任，无为知主。体尽无穷，而游无朕 。尽其所受乎天而无见得，亦虚而已！至人之用心若镜，不将不逆， 应而不藏，故能胜物而不伤。<br/><br/>　　南海之帝为儵北海之帝为忽，中央之帝为浑沌。儵与忽时相与遇于 浑沌之地，浑沌待之甚善。儵与忽谋报浑沌之德，曰：“人皆有七窍 以视听食息此独无有，尝试凿之。”日凿一窍，七日而浑沌死。<br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-39-988.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-39-990.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-39.html" action-type="chapterComment" class="comment"><i></i>庄子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

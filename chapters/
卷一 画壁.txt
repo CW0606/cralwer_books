@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《聊斋志异》正文_卷一 画壁_蒲松龄作品 - 维普阅读网</title>
+<meta name="keywords" content="聊斋志异,聊斋志异原文,聊斋志异阅读,卷一 画壁全文,蒲松龄作品" />
+<meta name="description" content="聊斋志异原文阅读,卷一 画壁全文在线阅读,蒲松龄作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1254-23116.html";
+var nextpage="novel-read-1254-23118.html";
+var indexpage = "novel-chapter-1254.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1254.html">聊斋志异</a></strong>
+<strong><a href="novel-chapter-1254.html">聊斋志异目录</a></strong>
+<span>卷一 画壁</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1254-23116.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷一 画壁</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-18.html" target="blank">古典小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=蒲松龄&amp;searchsubmit=yes"  target="_blank">蒲松龄</a><span class="divide">|</span>发布时间：2015-03-30 21:27:21<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>江西孟龙潭，与朱孝廉客都中。偶涉一兰若，殿宇禅舍，俱不甚弘敞，惟一老僧挂搭其中。见客入，肃衣出迓，导与随喜。<br/>　　<br/>　　殿中塑志公像。两壁图绘精妙，人物如生。东壁画散花天女，内一垂髫者，拈花微笑，樱唇欲动，眼波将流。朱注目久，不觉神摇意夺，恍然凝想。身忽飘飘，如驾云雾，已到壁上。见殿阁重重，非复人世。一老僧说法座上，偏袒绕视者甚众。朱亦杂立其中。<br/>　　<br/>　　少间，似有人暗牵其裾。回顾，则垂髫儿，冁然竟去。履即从之。过曲栏，入一小舍，朱次且不敢前。女回首，举手中花，遥遥作招状，乃趋之。舍内寂无人；遽拥之，亦不甚拒，遂与狎好。既而闭户去，嘱勿咳，夜乃复至，如此二日。女伴觉之，共搜得生，戏谓女曰：“腹内小郎已许大，尚发蓬蓬学处子耶？”共捧簪珥，促令上鬟。女含羞不语。一女曰：“妹妹姊姊，吾等勿久住，恐人不欢。”群笑而去。生视女，髻云高簇，鬟凤低垂，比垂髫时尤艳绝也。四顾无人，渐入猥亵，兰麝熏心，乐方未艾。<br/>　　<br/>　　忽闻吉莫靴铿铿甚厉，缧锁锵然。旋有纷嚣腾辨之声。女惊起，与生窃窥，则见一金甲使者，黑面如漆，绾锁挈槌，众女环绕之。使者曰：“全未？”答言：“已全。”使者曰：“如有藏匿下界人，即共出首，勿贻伊戚。”又同声言：“无。”使者反身鹗顾，似将搜匿。女大惧，面如死灰。张皇谓朱曰：“可急匿榻下。”乃启壁上小扉，猝遁去。朱伏，不敢少息。俄闻靴声至房内，复出。未几，烦喧渐远，心稍安；然户外辄有往来语论者。<br/>　　<br/>　　朱局蹐既久，觉耳际蝉鸣，目中火出，景状殆不可忍，惟静听以待女归，竟不复忆身之何自来也。时孟龙潭在殿中，转瞬不见朱，疑以问僧。僧笑曰：“往听说法去矣。”问：“何处？”曰：“不远。”少时，以指弹壁而呼曰：“朱檀越何久游不归？”旋见壁间画有朱像，倾耳伫立，若有听察。僧又呼曰：“游侣久待矣！”遂飘忽自壁而下，灰心木立，目瞪足耎。<br/>　　<br/>　　孟大骇，从容问之，盖方伏榻下，闻叩声如雷，故出房窥听也。共视拈花人，螺髻翘然，不复垂髫矣。朱惊拜老僧，而问其故。僧笑曰：“幻由人生，贫道何能解。”朱气结而不扬，孟心骇而无主。即起，历阶而出。<br/><br/>　　异史氏曰：“幻由人生，此言类有道者。人有淫心，是生亵境；人有亵心，是生怖境。菩萨点化愚蒙，千幻并作，皆人心所自动耳。老婆心切，惜不闻其言下大悟，披发入山也。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1254-23116.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1254-23118.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1254.html" action-type="chapterComment" class="comment"><i></i>聊斋志异章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

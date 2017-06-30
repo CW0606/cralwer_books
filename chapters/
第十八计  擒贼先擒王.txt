@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《三十六计》正文_第十八计  擒贼先擒王_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="三十六计,三十六计原文,三十六计阅读,第十八计  擒贼先擒王全文,佚名作品" />
+<meta name="description" content="三十六计原文阅读,第十八计  擒贼先擒王全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-232-3052.html";
+var nextpage="novel-read-232-3054.html";
+var indexpage = "novel-chapter-232.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-232.html">三十六计</a></strong>
+<strong><a href="novel-chapter-232.html">三十六计目录</a></strong>
+<span>第十八计  擒贼先擒王</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-232-3052.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第十八计  擒贼先擒王</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-08-19 22:45:20<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>作战要先擒拿主要敌手。比喻做事要抓关键。<br/>【原典】<br/>摧其坚，夺其魁，以解其体。龙战于野，其道穷也①。<br/>【注释】<br/>①龙战于野，其道穷也：语出《易经．坤》卦。坤，卦名。本卦是同卦相叠（坤下坤上），为纯阴之卦。引本卦上六，《象辞》：“龙战于野，其道穷也。”是说即使强龙争斗在田野大地之上，也是走入了困顿的绝境。比喻战斗中擒贼擒王谋略的威力。<br/>【按语】<br/>攻胜则利不胜取。取小遗大，卒之利、将之累、帅之害、攻之亏也。舍胜而不摧坚擒王．是纵虎归山也。擒王之法，不可图辨旌旗，而当察其阵中之首动。昔张巡与尹子奇战，直冲敌营，至子奇麾下，营中大乱，斩贼将五十余人，杀士卒五千余人。迎欲射子奇而不识，剡蒿为矢，中者喜谓巡矢尽，走白子奇，乃得其状，使霁云射之，中其左目，几获之，子奇乃收军退还。<br/>【故事】<br/>擒贼擒王拿鲁肃<br/>　　刘备通过鲁肃“借得”荆州却不肯归还，派关羽镇守荆州。东吴这边，周瑜死后，鲁肃继任大都督，向关羽索讨荆州不成，于是，打算骗关羽过江，先好言相劝，若关羽执意不肯，便拿下关羽，然后攻打失去主将的荆州。<br/>　　鲁肃摆下酒宴，假意款待关羽，暗中令吕蒙等设下伏兵。<br/>　　关羽知晓鲁肃意思，故意只带周仓等少数人马过江赴宴，席间，鲁肃几次或明或暗的向关羽索讨荆州，但是关羽以酒宴谈公务伤感情等理由敷衍鲁肃。<br/>　　酒过三巡，关羽见时间差不多了，就要告别，此时，鲁肃准备伏兵活捉关羽，但是关羽却一把挽住鲁肃的手，拉着他一起到江边。鲁肃怕事情败露，不敢推辞。而吕蒙等人怕伤害鲁肃，不敢动手，就这样，关羽安全到了江边，上了自己的船回到荆州。<br/><br/>挟持明英宗<br/>　　明英宗九岁登基，太监王振持宠专权，作威作福，朝中诸臣，多半仰他鼻息，天下侧目，敢怒不敢言。<br/>　　明英宗即正统十四年七月，北方番王乜先兴兵犯疆，直捣大同，大同守兵失利，塞外城堡，相继陷落，警报日传，朝野震惊。<br/>　　王振擅作主张，自命为统帅，还逼英宗御驾亲征。动员令只下了两日匆促起后，五十万大军，浩浩荡荡向北进发。过了居庸关，遭遇狂风暴雨，军心汹汹，前锋部队的败报频至，随驾大臣等奏请皇帝留驾，王振不准，还兼道急行军，还未到大同，被给成问题了，兵无粮，马无草，军士纷纷饿死，满路死尸。<br/>　　番王乜先见此情形，满怀欢喜，故意避开，诱王振深入。八月间，王振大军到了大同，驻扎未定即下令进军攻击。未久，警报传至，前军已全军覆没了。<br/>　　王振闻报大惊，乃召集一个御前会议，群臣争论结果，王振才无可奈何答应明日班师回京。<br/>　　大同的守将郭登献计：“车驾还京，宜转从紫荆入，才能安全。”王振不听，下令后军作前部，照原路退却。行至雉鸣山，乜先率兵追到了，王振吓得手足无措，急派武将朱勇率兵三万御敌。敌军即展开两翼夹攻，很快把朱勇的三万兵马吃掉。 次日，军至土木（地方名），已是傍晚时分了，离怀来城不过二十里，诸臣都想赶入城去，王振却说尚有千多辆辎重在后未至，不能轻易委弃，必须在此地相待，群臣力争不果，只好在土木扎营。<br/>　　次日清早，敌军已经四面八方拥至，团团把土木包围住，因此军心大乱，王振仓惶出走，连皇帝都不要了，只身逃亡。此时兵无主帅，士兵互相蹂踏，争先奔逸，挤死的挤死，投降的投降。英宗左右只得几名亲兵相随，几番突围不得，卒至束手被擒。<br/>　　王振在荒乱中只顾逃命，于路上亦被子部属护卫将军攀忠用铁锤打死。五十万大军，逃回京都不过二百人。<br/>　　乜先捉到英宗，如获至宝，竟利用此俘虏向明朝讨便宜，把英宗拥到大同，声言要一万两黄金取赎，钱到即放人。朝廷派员往敌营准备迎驾，献上黄金，乜先约明晨送还英宗，到期，使臣苦等不至，前往探问。始知乜先已于半夜挟英宗跑了，白白被骗万两黄金。<br/>　　以后屡犯边疆，都挟持英宗同行，使明军有投鼠忌器顾虑。明君以英宗回銮无期，奏请皇太后以国家为重，另立新君，乃下谕立王祈钰即皇帝位，是为景帝，遥尊英宗为太上皇。<br/>　　这一来，挟持英宗的价值降低了，再也没有什么可供利用，同时兵部尚书于谦对乜先态度强硬，一浍讨好或投鼠忌器。因此经守几番波折，乜先就把英宗送归明朝。<br/><br/>满清的分割亲兵阵容战术<br/>　　根据军史专家夏惟桐考证，此为清摄政王多尔衮在与明军长期的战争中总结的针对性战术。该战术的出现并不是因为军事理论发展造成的，而是因为经济环境造成的。<br/>　　明代张居正改革的红利在万历年大征之后全部耗尽，国库空虚。<br/>　　山西高盛和等汉奸商号走私铁器、铜器给与满清换回的只是满清从北直隶、山东抢走的金银，恶性循环之后，造成明代通货紧缩；<br/>　　明代党争频繁，经济措施不能有效贯彻。<br/>　　山东漕运混乱，不能疏通南北经济。<br/>　　恶化的经济环境造成了明代的军费紧张，加上明代的腐败的常例制度（军费出兵部则克扣50％，到地方巡抚处则再克扣50％），所以军饷严重不足。将领为了保持战斗力，只能保证自己的亲兵足饷，一般总兵级将领可以保持亲兵数百人。是全军战斗力的核心。<br/>　　满清在与明军的战斗中，发现武将周围的亲兵，装备与训练程度与其他士兵完全不同后，制定了针对的性的战术。野战时，以精锐的白甲兵（八旗的棉甲骑兵），突入明军阵型，分割总兵亲兵阵营与其他兵士。<br/>　　由于亲兵几乎是明军最有战斗力和组织力的兵士，分割之后，明军阵型一般都会大乱甚至溃退，满清再乘机扩大战果。<br/><br/>美军的斩首行动<br/>　　斩首行动即用巡航导弹和精确制导导弹对敌方进行军事打击，通过精准打击，首先消灭对方的首脑和首脑机关，彻底摧毁对方的抵抗意志。“擒贼先擒王，打蛇打七寸”形象反映了这种思想。“斩首行动”的要素是快速、精确、内应。<br/><br/>秸秆箭引出尹子奇<br/>　　唐朝安史之乱时，安禄山气焰嚣张，连连大捷，安禄山之子安庆绪派勇将尹子奇率十万劲旅进攻睢阳。御史中丞张巡驻守睢阳，见敌军来势汹汹，决定据城固守。敌兵二十余次攻城，均被击退。<br/>　　尹子奇见士兵已经疲惫，只得鸣金收兵。晚上，敌兵刚刚准备休息，忽听城头战鼓隆隆，喊声震天，尹子奇急令部队准备与冲出城来的唐军激战。而张巡“只打雷不下雨”，不时擂鼓，像要杀出城来，可是一直紧闭城门，没有出战。尹子奇的部队被折腾了整夜，没有得到休息，将士们疲乏至极，眼睛都睁不开，倒在地上就呼呼大睡。这时，城中一声炮响，突然之间，张巡率领守兵冲杀出来，敌兵从梦中惊醒，惊慌失措，乱作一团。张巡一鼓作气，接连斩杀五十余名敌将，五千余名士兵，敌军大乱。<br/>　　张巡急令部队擒拿敌军首领尹子奇，部队一直冲到敌军帅旗之下。张巡从未见过尹子奇，根本不认识，现在他又混在乱军之中，更加难以辨认。张巡心生一计，让士兵用秸秆削尖作箭，射向敌军。敌军中不少人中箭，他们以为这下玩了，没有命了。但是发现，自己中的是秸秆箭，心中大喜，以为张巡军中已没有箭了。他们争先恐后向尹子奇报告这个好消息。<br/>　　张巡见状，立刻辨认出了敌军首领尹子奇，急令神箭手、部将南霁云向尹子奇放箭。正中尹子奇左眼，这回可是真箭，只见尹子奇鲜血淋漓，抱头鼠窜，仓皇逃命。敌军一片混乱，大败而逃。<br/><br/>王世充智用假李密<br/>　　王世充是西域胡人，因他天资聪敏，多谋善断，很受隋文帝、隋炀帝的器重。<br/>　　有一次，王世充与李密展开一场生死决战。王世充事先找到一个长相酷似李密的人，捆起来藏在军中。当两军打得难解难分的时候，王世充命人把那个假李密牵到两军阵前，让士兵大声嚷嚷：“抓到李密了!抓到李密了!”结果，王世充的军队见捉到了敌首，士气大振，而李密的军队看到主帅被擒，立即乱了方寸，大败而逃。王世充指挥军队乘胜追击，把敌人打得落花流水。<br/>　　可见，王世充深深懂得擒贼擒王的道理。虽然没有真正捉到敌人的首领，但弄一个假的来充当，同样起到了瓦解敌人军心的作用。<br/><br/>昆阳大捷<br/>　　公元23年，王莽的数十万大军包围了昆阳。刘秀奉命突围出城，到各地召集援军。当刘秀率援军返回昆阳时，王莽的大军已将昆阳围得水泄不通。<br/>　　刘秀带来的援军数量不多，即使再加上守城的部队，与庞大的王莽军相比，也是处于劣势。如果盲目地与王莽军作战，等于飞蛾投火，自取灭亡。经反复考虑，刘秀制订出擒贼擒王的作战方案：从援军中抽调精壮将士组成敢死队，首先进攻莽军的统帅部，接着大队人马紧随其后，捣毁敌人的指挥中枢，使敌人陷入混乱，然后通知守城部队出击配合，造成内外夹攻的有利局面。<br/>　　攻击敌人的时刻到来了。刘秀亲率3000名勇猛强壮的敢死队从昆阳城东迂回到城西，来到莽军中营的附近，出其不意地发动猛攻。莽军统帅王邑、王寻被这突如其来的打击弄蒙了，一时搞不清这支部队的来意，命令各营不许擅自行动。王邑、王寻带领1万人马前来迎战，以为用这些人马足以应付刘秀了。岂料刘秀手下的敢死队像狂风一样扑了过来，刀劈枪挑，勇不可挡。莽军的其他部队因没有接到出击的命令，只好眼睁睁地见刘秀的敢死队和后援部队把中营打得稀里哗啦。在混战中，王寻被杀，王邑逃跑。莽军因失去了统帅顿时乱成一团。<br/>　　这时，坚守昆阳的守军看到援军旗开得胜，倍增信心，立即打开城门，呐喊着冲了出来，配合援军夹攻莽军。莽军见势不妙，仓皇向江边逃窜。在抢渡过江时，恰遇河水暴涨，淹死者不计其数。王邑只带几千残兵败将丧魂落魄地逃回了洛阳。<br/><br/>泰王智斩王储<br/>　　1569年，泰国被缅甸灭亡。15年后，已长大成人的泰国王子在肯城自立为泰王。缅王闻讯，派王储率兵讨伐。<br/>　　泰王召集军事会议，说出了自己的想法：缅甸王储是缅甸国的王位继承人。缅王派他亲自带兵，是要让他在群臣面前树立威信，以便日后接替王位。我们来个擒贼先擒王，设法生擒王储作为人质，逼缅军退兵。大家点头表示同意。<br/>　　泰王在缅甸王储必经的路上设下埋伏。当缅军进入伏击圈时，泰军的伏兵四起，缅军的阵脚大乱。不料泰王所骑的大象正值发情期，见缅军大象四处奔逃，立即追赶。等到尘埃落定之后，泰王发现自己孤入敌阵，缅甸王储率众正立于一棵大树下。泰王心想：这下坏了，擒人不成，倒要反被人擒。情急之下，泰王异常冷静。他高声对缅甸王储说：“皇兄为何待在树下乘凉，莫不是怕我吧?敢与我一对一决个雌雄吗?”缅甸王储本可以命手下人蜂拥而上杀掉或生擒泰王，但他十分顾及王储的身份，还是亲自应战了。缅甸王储催动坐象向泰王冲来，泰王的坐象行动稍缓一步，被缅甸王储一刀砍掉了头盔。泰王坐象又反身一撞，正好使缅甸王储的坐象横对着他。泰王举刀猛砍，正中缅甸王储的右肩。缅甸王储当即血流如柱，倒在了象脖子上。缅军见主帅被杀，无心恋战，急忙退兵。<br/>　　王储被泰王斩杀，缅甸王后悔莫及。此后150年内缅甸再也没有侵犯泰国。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-232-3052.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-232-3054.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-232.html" action-type="chapterComment" class="comment"><i></i>三十六计章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

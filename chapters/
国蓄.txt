@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《管子》正文_国蓄_管仲作品 - 维普阅读网</title>
+<meta name="keywords" content="管子,管子原文,管子阅读,国蓄全文,管仲作品" />
+<meta name="description" content="管子原文阅读,国蓄全文在线阅读,管仲作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-43-1187.html";
+var nextpage="novel-read-43-1189.html";
+var indexpage = "novel-chapter-43.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-43.html">管子</a></strong>
+<strong><a href="novel-chapter-43.html">管子目录</a></strong>
+<span>国蓄</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-43-1187.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>国蓄</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=管仲&amp;searchsubmit=yes"  target="_blank">管仲</a><span class="divide">|</span>发布时间：2014-07-24 21:05:23<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　国有十年之蓄，而民不足于食，皆以其技能望君之禄也；君有山海之金，而民不足于用，是皆以其事业交接于君上也。故人君挟其食，守其用，据有余而制不足，故民无不累于上也。五谷食米，民之司命也；黄金刀币，民之通施也。故善者执其通施以御其司命，故民力可得而尽也。<br/><br/>　　夫民者亲信而死利，海内皆然。民予则喜，夺则怒，民情皆然。先王知其然，故见予之形，不见夺之理。故民爱可洽于上也。租籍者，所以强求也：租税者，所虑而请也。王霸之君去其所以强求，废其所虑而请，故天下乐从也。<br/><br/>　　利出于一孔者，其国无敌；出二孔者，其兵不诎；出三孔者，不可以举兵；出四孔者，其国必亡。先王知其然，故塞民之养，隘其利途。故予之在君，夺之在君，贫之在君，富之在君。故民之戴上如日月，亲君若父母。<br/><br/>　　凡将为国，不通于轻重，不可为笼以守民；不能调通民利，不可以语制为大治。是故万乘之国有万金之贾，千乘之国有千金之贾，然者何也？国多失利，则臣不尽其忠，士不尽其死矣。岁有凶穰，故谷有贵贱；令有缓急，故物有轻重。然而人君不能治，故使蓄贾游市，乘民之不给，百倍其本。分地若一，强者能守；分财若一，智者能收。智者有什倍人之功，愚者有不赓本之事。然而人君不能调，故民有相百倍之生也。夫民富则不可以禄使也，贫则不可以罚威也。法令之不行，万民之不治，贫富之不齐也。且君引錣量用，耕田发草，上得其数矣。民人所食，人有若干步亩之数矣，计本量委则足矣。然而民有饥饿不食者何也？谷有所藏也。人君铸钱立币，民庶之通施也，人有若干百千之数矣。然而人事不及、用不足者何也？利有所并藏也。然则人君非能散积聚，钧羡不足，分并财利而调民事也，则君虽强本趣耕，而自为铸币而无已，乃今使民下相役耳，恶能以为治乎？<br/><br/>　　岁适美，则市粜无予，而狗彘食人食。岁适凶，则市籴釜十繦，而道有饿民。然则岂壤力固不足而食固不赡也哉？夫往岁之粜贱，狗彘食人食，故来岁之民不足也。物适贱，则半力而无予，民事不偿其本；物适贵，则什倍而不可得，民失其用。然则岂财物固寡而本委不足也哉？夫民利之时失，而物利之不平也。故善者委施于民之所不足，操事于民之所有余。夫民有余则轻之，故人君敛之以轻；民不足则重之，故人君散之以重。敛积之以轻，散行之以重，故君必有十倍之利，而财之櫎可得而平也。<br/><br/>　　凡轻重之大利，以重射轻，以贱泄平。万物之满虚随财，准平而不变，衡绝则重见。人君知其然，故守之以准平，使万室之都必有万钟之藏，藏繦千万；使千室之都必有千钟之藏，藏繦百万。春以奉耕，夏以奉芸。耒耜械器，种镶粮食，毕取赡于君。故大贾蓄家不得豪夺吾民矣。然则何？君养其本谨也。春赋以敛缯帛，夏贷以收秋实，是故民无废事而国无失利也。<br/><br/>　　凡五谷者，万物之主也。谷贵则万物必贱，谷贱则万物必贵。两者为敌，则不俱平。故人君御谷物之秩相胜，而操事于其不平之间。故万民无籍而国利归于君也。夫以室庑籍，谓之毁成；以六畜籍，谓之止生；以田亩籍，谓之禁耕；以正人籍，谓之离情；以正户籍，谓之养赢。五者不可毕用，故王者遍行而不尽也。故天子籍于币，诸侯籍于食。中岁之谷，粜石十钱。大男食四石，月有四十之籍；大女食三石，月有三十之籍：吾子食二石，月有二十之籍。岁凶谷贵，籴石二十钱，则大男有八十之籍，大女有六十之籍，吾子有四十之籍。是人君非发号令收啬而户籍也，彼人君守其本委谨，而男女诸君吾子无不服籍者也。一人廪食，十人得余；十人廪食，百人得余；百人廪食，千人得余。夫物多则贱，寡则贵，散则轻，聚则重。人君知其然，故视国之羡不足而御其财物。谷贱则以币予食，布帛贱则以币予衣。视物之轻重而御之以准，故贵贱可调而君得其利。<br/><br/>　　前有万乘之国，而后有千乘之国，谓之抵国。前有千乘之国，而后有万乘之国，谓之距国。壤正方，四面受敌，谓之衢国。以百乘衢处，谓之托食之君。千乘衢处，壤削少半。万乘衢处，壤削太半。何谓百乘衢处托食之君也？夫以百乘衢处，危慑围阻千乘万乘之间，夫国之君不相中，举兵而相攻，必以为捍挌蔽圉之用。有功利不得乡。大臣死于外，分壤而功；列陈系累获虏，分赏而禄。是壤地尽于功赏，而税臧殚于继孤也。是特名罗于为君耳，无壤之有；号有百乘之守，而实无尺壤之用，故谓托食之君。然则大国内款，小国用尽，何以及此？曰：百乘之国，官赋轨符，乘四时之朝夕，御之以轻重之准，然后百乘可及也。千乘之国，封天财之所殖，诫器之所出，财物之所生，视岁之满虚而轻重其禄，然后千乘可足也。万乘之国，守岁之满虚，乘民之缓急，正其号令而御其大准，然后万乘可资也。<br/><br/>　　玉起于禺氏，金起于汝汉，珠起于赤野，东西南北距周七千八百里。水绝壤断，舟车不能通。先王为其途之远，其至之难，故托用于其重，以珠玉为上币，以黄金为中币，以刀布为下币。三币握之则非有补于暖也，食之则非有补于饱也，先王以守财物，以御民事，而平天下也。今人君籍求于民，令曰十日而具，则财物之贾什去一；令曰八日而具，则财物之贾什去二；令曰五日而具，则财物之贾什去半；朝令而夕具，则财物之贾什去九。先王知其然，故不求于万民而籍于号令也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-43-1187.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-43-1189.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-43.html" action-type="chapterComment" class="comment"><i></i>管子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

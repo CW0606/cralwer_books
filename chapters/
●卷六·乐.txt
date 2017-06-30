@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《酉阳杂俎》正文_●卷六·乐_段成式作品 - 维普阅读网</title>
+<meta name="keywords" content="酉阳杂俎,酉阳杂俎原文,酉阳杂俎阅读,●卷六·乐全文,段成式作品" />
+<meta name="description" content="酉阳杂俎原文阅读,●卷六·乐全文在线阅读,段成式作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1036-10915.html";
+var nextpage="novel-read-1036-10917.html";
+var indexpage = "novel-chapter-1036.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1036.html">酉阳杂俎</a></strong>
+<strong><a href="novel-chapter-1036.html">酉阳杂俎目录</a></strong>
+<span>●卷六·乐</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1036-10915.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>●卷六·乐</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-18.html" target="blank">古典小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=段成式&amp;searchsubmit=yes"  target="_blank">段成式</a><span class="divide">|</span>发布时间：2014-11-30 21:19:19<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　咸阳宫中有铸铜人十二枚，坐皆三五尺，列在一筵上。琴筑笙竽，各有所执，皆组绶花彩，俨若生人。筵下有铜管，吐口高数尺。其一管空，内有绳大如指。使一人吹空管，人纫绳，则琴瑟竽筑皆作，与真乐不异。有琴长六尺，安十三弦二十六徽，皆七宝饰之，铭曰"璵璠之乐"。玉笛长二尺三寸，二十六孔，吹之则见车马出山林，隐隐相次，息亦不见，铭曰"昭华之管"。<br/><br/>　　魏高阳王雍，美人徐月华，能弹卧箜篌，为《明妃出塞》之声。<br/><br/>　　有田僧超，能吹笳为《壮士歌》、《项羽吟》。将军崔延伯出师，每临敌，令僧超为壮士声，遂单马入阵。<br/><br/>　　古琵琶用鵾鸡股。开元中，段师能弹琵琶，用皮弦。贺怀智破拨弹之，不能成声。<br/><br/>　　蜀将军皇甫直，别音律，击陶器能知时月。好弹琵琶。元和中，尝造一调，乘凉临水池弹之。本黄钟而声入蕤宾，因更弦再三奏之，声犹蕤宾也。直甚惑，不悦，自意为不祥。隔日，又奏于池上，声如故。试弹于他处，则黄钟也。直因调蕤宾，夜复鸣弹于池上，觉近岸波动，有物激水如鱼跃，及下弦则没矣。直遂集客车水竭池，穷池索之。数日，泥下丈余，得铁一片，乃方响蕤宾铁也。<br/><br/>　　王沂者，平生不解弦管。忽旦睡，至夜乃寤，索琵琶弦之，成数曲，一名《雀啅蛇》，一名《胡王调》，一名《胡瓜苑》，人不识闻，听之莫不流涕。其妹请学之，乃教数声，须臾总忘，后不成曲。<br/><br/>　　有人以猿臂骨为笛吹之，其声清圆，胜于丝竹。琴有气。常识一道者，相琴知吉凶。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1036-10915.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1036-10917.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1036.html" action-type="chapterComment" class="comment"><i></i>酉阳杂俎章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

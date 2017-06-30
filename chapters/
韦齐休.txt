@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《河东记》正文_韦齐休_薛渔思作品 - 维普阅读网</title>
+<meta name="keywords" content="河东记,河东记原文,河东记阅读,韦齐休全文,薛渔思作品" />
+<meta name="description" content="河东记原文阅读,韦齐休全文在线阅读,薛渔思作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1027-10442.html";
+var nextpage="novel-read-1027-10444.html";
+var indexpage = "novel-chapter-1027.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1027.html">河东记</a></strong>
+<strong><a href="novel-chapter-1027.html">河东记目录</a></strong>
+<span>韦齐休</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1027-10442.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>韦齐休</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=薛渔思&amp;searchsubmit=yes"  target="_blank">薛渔思</a><span class="divide">|</span>发布时间：2014-11-27 20:17:53<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　韦齐休，擢进士第，累官至员外郎，为王璠浙西团练副使。太和八年，卒于润州之官舍。三更后，将小敛，忽于西壁下大声曰：“传语娘子，且止哭，当有处分。”其妻大惊，仆地不苏。齐休于衾下厉声曰：“娘子今为鬼妻，闻鬼语，忽惊悸耶？”妻即起曰：“非为畏悸，但不合与君遽隔幽明，孤惶无所依怙。不意神识有知，忽通言语，不觉惛绝，诚俟明教，岂敢有违？”齐休曰：“死生之期，涉于真宰。夫妇之道，重在人伦。某与娘子，情义至深，他生亦未相舍。今某尸骸且在，足宽襟抱，家事大小，且须商量，不可空为儿女悲泣，使某幽冥间更忧妻孥也。夜来诸事，并自劳心，总无失脱，可助仆喜。”妻曰：“何也？”齐休曰：“昨日湖州庾七寄买口钱，苍遑之际，不免专心部署。今则一文不欠，亦足为慰。”良久语绝，即各营丧事。才曙，复闻呼：“适到张清家，近造得三间草堂，前屋舍自足，不烦劳他人更借下处矣。”其夕，张清似梦中。忽见齐休曰：“我昨日已死，先令买茔三亩地，可速支关布置。”一一分明，张清悉依其命。及将归，自择发日，呼唤一如常时。婢仆将有私窃，无不发摘，随事捶挞。及至京，便之茔所。张清准拟皆毕。十数日，向三更，忽呼其下曰：“速起，报堂前，萧三郎来相看，可随事具食。款待如法，妨他忙也。”二人语，历历可听。萧三郎者，即职方郎中萧彻，是日卒于兴化里。其夕遂来，俄闻萧呼叹曰：“死生之理，仆不敢恨。但可异者，仆数日前，因至少陵别墅，偶题一首诗，今思之，乃是生作鬼诗。”因吟曰：“新构茅斋野涧东，松楸交影足悲风。人间岁月如流水，何事频行此路中。”齐休亦悲咤曰：“足下此诗，盖是自谶。仆生前忝有科名，粗亦为人所知。死未数日，便有一无名小鬼赠一篇，殊为著钝，然虽细思之，已是落他芜境。”乃咏曰：“涧水溅溅流不绝，芳草绵绵野花发。自去自来人不知，黄昏惟有青山月。”萧亦叹羡之曰：“韦四公死已多时，犹不甘此事，仆乃适来人也，遽为游岱之魂，何以堪处？”即闻相别而去。又数日，亭午间，呼曰：“裴二十一郎来慰，可具食，我自迎去。”其日，裴氏昆季果来。至启夏门外，瘁然神耸。又素闻其事，遂不敢行吊而回。裴即长安县令，名观，齐休之妻兄也。其部曲子弟，动即罪责，不堪其惧，及今未已，不知竟如之何。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1027-10442.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1027-10444.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1027.html" action-type="chapterComment" class="comment"><i></i>河东记章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《黄帝内经》正文_第四十三篇 淫邪发梦_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="黄帝内经,黄帝内经原文,黄帝内经阅读,第四十三篇 淫邪发梦全文,佚名作品" />
+<meta name="description" content="黄帝内经原文阅读,第四十三篇 淫邪发梦全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-58-1882.html";
+var nextpage="novel-read-58-1884.html";
+var indexpage = "novel-chapter-58.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-58.html">黄帝内经</a></strong>
+<strong><a href="novel-chapter-58.html">黄帝内经目录</a></strong>
+<span>第四十三篇 淫邪发梦</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-58-1882.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第四十三篇 淫邪发梦</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-07-29 22:25:39<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【题解】淫邪，系指亢盛的邪气。因文中主要论述了淫邪扰乱脏腑而形成梦的机理和表现，故称为&quot;淫邪发梦&quot;。<br/>　　【原文】黄帝日愿闻淫邪泮衍，奈何?岐伯日正邪从?外袭内，而未有定舍，反淫于脏，不得定处，与营卫俱行，而与魂魄飞扬，使人卧不得安而喜梦；气淫于腑，则有余于外，不足于内气淫于脏，则有余于内，不足于外。<br/>　　黄帝日有余不足，有形乎?岐伯日阴气盛，则梦涉大水而恐惧；阳气盛，则梦大火而燔灼；阴阳俱盛，则梦相杀。上盛则梦飞，下盛则梦堕；甚饥则梦取，甚饱则梦予肝气盛，则梦怒，肺气盛，则梦恐惧、哭泣、飞扬；心气盛，则梦善笑恐畏；脾气盛，则梦歌乐、身体重不举；肾气盛，则梦腰脊两解不属。凡此十二盛者，至而泻之，立已。<br/>　　厥气客于心，则梦见丘山烟火；客于肺，则梦飞扬，见金铁之奇物客于肝，则梦山林树木；客于脾，则梦见丘陵大泽，坏屋风雨客于肾，则梦临渊，没居水中；客于膀胱，则梦游行；客于胃，则梦饮食；客于大肠，则梦田野；客于小肠，则梦聚邑冲衢；客于胆，则梦斗讼自刳嵋；客于阴器，则梦接内；客于项，则梦斩首；客于胫，则梦行走而不能前，及居深地布 [2]苑中；客于股肱，则梦礼节拜起；客于胞膻[3]，则梦溲便。凡此十五不足者，至而补之立已也。<br/>　　【提要】本段主要阐述了邪气乘人体脏腑的虚弱而侵入脏腑，使魂魄不安而成梦的机理，列举了因各脏腑的盛衰，邪气的不同，出现不同的梦境，提示释梦诊断疾病的具体方法。<br/>　　【注释】 [1]自刳音枯，刨割。自刳，自杀或自残。<br/>　　[2]峁，音叫，地窖。<br/>　　[3]膻，音琛，直肠。<br/>　　【白话解】黄帝说我想了解邪气在人体内流散的情况是怎样的。岐伯回答说邪从外侵人人体，有时没有固定的侵犯部位，却向内侵犯脏腑，而且与营气、卫气一起在体内流行，致使魂魄不能安定，使人睡卧不宁而多梦。如果邪气侵犯夭腑，就会使在外的阳气过盛而在里的阴气不足。如果邪气侵犯五脏，就会使在里的阴气过盛而在外的阳气不足。<br/>　　黄帝问人体阴气和阳气的过盛、不足，有具体表现吗?岐伯答道如果阴气亢盛，梦见渡涉大水而感到恐惧。阳气亢盛，就会梦见大火烧灼的景象。阴气和阳气都亢盛，会梦见相互厮杀。人体上部邪气亢盛，梦见身体在天空飞腾。人体下部邪气亢盛，梦见身体向下坠堕。过度饥饿的时候，会梦见向人索取东西。过饱的时候，会梦见给予别人东西。肝气亢盛，做忿怒的梦。肺气亢盛，做恐惧、哭泣和飞扬腾越的梦。心气亢盛，梦见好喜笑或恐惧畏怯。脾气亢盛，梦见歌唱奏乐或身体沉重不能举动。肾气亢盛，会梦见腰脊分离而不相连接。以上所谈的这十二种气盛所形成的梦境，分别使用针刺泻法，很快就能痊愈。<br/>　　由于正气虚弱而邪气侵入于心，就会梦见山丘烟火弥漫。侵入肺的，梦见飞扬腾越或金石类奇形怪状的东西。侵入肝的，梦见山林树木。侵入脾的，梦见丘陵和大的湖?白，或者风雨中毁坏的房屋。侵入肾的，会梦见站在深渊的边沿或浸泡在水中。侵入膀胱的，梦见漂荡流行。侵入胃的，梦见食物。侵人大肠的，梦见田野；侵入小肠的，梦见许多人聚集在广场或要塞。侵入胆的，梦见同人争斗、诉讼或自杀。侵袭到生殖器的，梦见性交。侵袭到项部的，梦见被杀头。侵袭到小腿的，梦见想走路而不能前进，或被困在地下深处的窖园中。侵袭到大腿的，梦见行礼跪拜；侵袭到尿道和直肠的，梦见解大便、小便。以上所谈这十五种正气不足而邪气侵袭的梦境，分别运用针刺补法，很快就能痊愈。<br/>　　【按语】本篇所论述的各种梦境，虽与实际病理变化不完全相符，但梦多是一种病态应该引起临床医师注意，或可作为临床诊断某一脏腑病变的一种思路，如经常梦中恼怒，可视为肝气郁结等。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-58-1882.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-58-1884.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-58.html" action-type="chapterComment" class="comment"><i></i>黄帝内经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

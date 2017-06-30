@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《白鹿原》正文_序言_陈忠实作品 - 维普阅读网</title>
+<meta name="keywords" content="白鹿原,白鹿原原文,白鹿原阅读,序言全文,陈忠实作品" />
+<meta name="description" content="白鹿原原文阅读,序言全文在线阅读,陈忠实作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-1230.html";
+var nextpage="novel-read-1230-21962.html";
+var indexpage = "novel-chapter-1230.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1230.html">白鹿原</a></strong>
+<strong><a href="novel-chapter-1230.html">白鹿原目录</a></strong>
+<span>序言</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-1230.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>序言</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-23.html" target="blank">文学小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=陈忠实&amp;searchsubmit=yes"  target="_blank">陈忠实</a><span class="divide">|</span>发布时间：2015-03-18 20:52:46<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>１<br/><br/>　　到50岁才捅破了一层纸，文学仅仅只是一种个人兴趣。<br/><br/>　　为什么读了头一本小说就无法抑制，就产生了一种想把中学图书馆的小说都挨个读一遍的强烈欲望，现在想来就只能归于兴趣。人的兴趣是多种多样的，兴趣在小小年纪就呈现出来，有的喜欢画画，有的精于算计，有的敏于乐感，有的巧于魔术变幻……文学只是人群中千奇百怪的兴趣中的一种。<br/><br/>　　首先是阅读直接诱发起我对文学的兴趣。上初中时我阅读的头一本小说是《三里湾》，这也是我平生阅读的第一本小说。赵树理对我来说是陌生的，而三里湾的农民和农村生活对我来说却是熟识不过的。这本书把我有关农村的生活记忆复活了，也使我第一次验证了自己关于乡村关于农民的印象和体验，如同看到自己和熟识的乡邻旧时生活的照片。这种复活和验证在幼稚心灵引起的惊讶、欣喜和激动是带有本能性的。我随之便把赵树理已经出版的小说全部借来阅读了，这时候的赵树理在我心中已经是中国最伟大的作家了；我人生历程中所发生的第一次崇拜就在这时候，他就是赵树理。<br/><br/>　　也就在阅读赵树理小说的浓厚兴趣里，我写下了生平第一篇小说《桃园风波》，是在初中二年级的一次自选作文课上写下的。记得老师给我了前所未有的大篇幅的评语，得分为５﹢……我这一生的全部有幸和不幸，就是从阅读《三里湾》和这篇小说的写作开始的。时光已经流逝了整整４０年。４０年前写作那篇小说时的我，根本不会想到也无法料知今天的我的这一番模样。平静说来，那篇小说本不是当作小说写的，更不是为了出版为了发表为了挣稿费为了什么什么，仅仅只是为了完成一次语文老师布置的自拟选题的作文……当我今天编选这一套三卷本的小说选集的时候，无法湮灭的记忆很自然地又活跃起来，真是感慨系之。<br/><br/>　　兴趣不衰，热爱之情便不泯。于是就想通了那些被文学这个魔鬼缠住的人之所以被监禁被流放被剃阴阳头被踢屁股历经九死而不改不悔的全部缘由。面对在我之先的上两代经历过阴阳两界巨大痛苦的作家，我从来不敢把自己追求文学所招致的小小灾难当作灾难，更不敢把它当作某种资本去争取文学以外的价值。所有对文学情有独钟的人都经历了那个过程，一个不可跨越无计逃遁的火与冰的过程，灾难和痛苦只分深浅或者说轻重，而不是有无。完全得意于那个过程的人是另一种形态或另一种意义上的作家。我在４０年的文学历程中的灾难属于轻的一类，痛苦也属于浅的一类，但毕竟都一一经历了，于是我就有了属于自己的最真切也最牢靠的关于生命和艺术的体验。我常想，那些刚刚走出牢门结束了流放的作家，之所以还能摊开稿纸拧开钢笔，恐怕不是为了出名为了发财抑或为了什么什么吧？我想只是兴趣。<br/><br/>　　兴趣是会转移的，不是所有人都会受一种兴趣的支配而在文学这条路上从天明走到天黑。如果他对文学的兴趣转移了，可能转移到制造导弹保卫疆域，也可能转移到耍猴变魔术玩杂技博取观众的喝彩去了。兴趣转移是人类的正常作为，许多人的兴趣从文学转移到其它领域，而且做出了卓越的创造；也有许多人的兴趣从另一事业转移到文学上来，同样写出了辉煌篇章。从这个最简单的本质意义上说，关于文人下海的讨论没有多少实际意义。<br/><br/>　　文学是个魔鬼。然而能使人历经九死不悔不改初衷而痴情矢志终生，她确实又是一个美丽而又神圣的魔鬼。<br/><br/>　　２<br/><br/>　　到５０岁时还捅破了一层纸，创作实际上也不过是一种体验的展示。<br/><br/>　　体验包括生命体验和艺术体验而形成的一种独特体验。千姿百态的文学作品是由作家那种独特体验的巨大差异决定的。出于对创作这项劳动的如此理解，我觉得作家之间和作品之间只能互相宽容百花齐放，因为谁也改变不了谁的那种独特体验，谁也代替不了谁的那种独特体验。红花没有必要嘲讽白花，黄花也无必要笑傲紫花，家花更代替不了野花，洋花卑视土花并不能以此显示葬贵。所有红花白花黄花紫花家花野花洋花土花，应该不断完善自身以期更加完美，应该互相鼓励以求更加扩大差异，才会百花齐放争奇斗艳万姿纷呈；要么互相杂交取优汰劣生出一种或几种土洋结合家野合璧的杂种新种，可能不失为一种创造。<br/><br/>　　总之，不要互相敌视互相撕咬互相消灭，作家毕竟又不是某一种花，他的那个独特体验是消灭不了的；任何一种花的生存，应该靠自身的姿色，也仅仅只能依赖自己的姿色去生存；作家是用作品和这个世界对话的，企望依靠非花（即非文学的因素）去达到花（即文学）的目的，肯定说是不可能的，文学史上无论在中国和外国在这方面都没有得手的先例；应该消灭的不是任何一种花，而只能是罂粟毒株。<br/><br/>　　生命体脸由生活体验发展过来。生活体验脱不出体验生活的基本内涵。生活体验或体验生活对于任何艺术流派艺术兴趣的作家都是不可或缺的。普遍的通常的规律，作家总是经由生活体验进入到生命体验的，然而并不是所有作家都能由生活体验进入生命体验，甚至可以说进入生命体验的只是一个少数；即使进入了生命体验的作家也不是每一部作品都属于生命体验的作品，这是我通过阅读所看到的中外文坛上的一个基本的现状。<br/><br/>　　出于对创作的这样的理解，新时期以来我基本没有参与文坛的种种争论，也不想把自己归结于某一种新潮“主义”的旗帜下。因为在我看来，任何一种流派任何一个“主义”的产生，都是作家的独特体验孕育的结果，不是硬学的，硬学是学不来的，模仿的结果只能是画虎类猫。但艺术毕竟是相通的，可以互相影响，可以用一种流派的长处弥补别一种“主义”的短处，可以加深扩展自己对艺术的体验。<br/><br/>　　新时期中国当代文学的全面复兴，我是经历了一个全过程，这套选集里的长、中、短篇小说全部选自我从1978年截止到1992年初的作品。我在编选时已经惊讶起初几年的一些短篇的单薄和艺木上的拘谨，再显明不过地展示出我艺术探索的笔迹。无需掩丑更不要尴尬，那是一个真实的探索过程，如同不必为自己曾经穿过开档裤而尴尬一样。《白鹿原》出版后，我基本没有再写小说。我想读书，我想通过广泛的阅读进一步体验艺术。我不追求等身著作，只要在有生之年能写出一本两本聊以自慰死后可以垫棺做枕的书，就算我的兴趣得到了报偿。<br/><br/>　　生命体验是可以信赖的。它不是听命于旁人的指示也不是按某本教科书去阐释生活，而是以自已的心灵和生命所体验到的人类生命的伟太和生命的龌龊，生命的痛苦和生命的欢乐，生命的顽强和生命的脆弱，生命的崇高和生命的卑鄙等等难以用准确的理性语言来概括而只一适宜于用小说来表达来展示的那种自以为是独特的感觉。<br/><br/>　　３<br/><br/>　　刚刚交上知天命的50岁时，写完了《白鹿原》。写完这部长篇，关于文学和创作的两层纸才捅透打破了，也发觉自己完全固执于独特体验的己见了。<br/><br/>　　许是因了这部长篇的连锁反应，在此之前的中篇和短篇也不断地被出版社组装出版，印数之大仅仅在此前两年是作梦都不敢想的。很简单，读者恐怕也是出于我当初读《三里湾》之后的那种心理，便想读我的其它小说，这很正常。我当然很高兴，读者多了，作家与读者交流沟通的渠道也就拓宽了，这是任何形态的艺术创造的本意。艺术创造就是为了沟通，小说不过是作家的双重体验和读者沟通的媒体。文学作品沟通古人和当代人，沟通不同肤色不同语系的东方人和西方人，沟通心灵。一部作品能够广泛地完成那个沟通，作家创造的全部目的就算实现，再无须多说一句话，只任人去说。<br/><br/>　　长篇《白鹿原》从发表到现在接近两年，我收到过数以千计的读者来信，许多信读罢常常使我陷入沉默无言只想喝酒。“我想写出这本书的人不累死也得吐血……不知你是否活着还能看到我的信么？”这是石家庄一位医生或护士写来的信中的一句话。我想借着这套选集出版作序的机缘，向这位读者和所有关心关注我的朋友致以真诚的谢意，我活得依然沉静如初，也还基本健康。<br/><br/>　　当然，我更应该告诉读者朋友，这套小说选集包括了1992年以前的主要作品，小说领域里的长、中、短的形式都算实践过了。明天，我肯定还要展示我的新的体验，绝不会重复自己；重复别人是悲哀，重复自己更为悲哀，重复的直接后果是艺术创造的葵缩。<br/><br/>　　创造着是心地踏实的。<br/><br/>　　1995.3.8.<br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-1230.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1230-21962.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1230.html" action-type="chapterComment" class="comment"><i></i>白鹿原章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

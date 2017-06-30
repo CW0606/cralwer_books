@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《辽史》正文_卷三十九 志第九_脱脱作品 - 维普阅读网</title>
+<meta name="keywords" content="辽史,辽史原文,辽史阅读,卷三十九 志第九全文,脱脱作品" />
+<meta name="description" content="辽史原文阅读,卷三十九 志第九全文在线阅读,脱脱作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1434-27525.html";
+var nextpage="novel-read-1434-27527.html";
+var indexpage = "novel-chapter-1434.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1434.html">辽史</a></strong>
+<strong><a href="novel-chapter-1434.html">辽史目录</a></strong>
+<span>卷三十九 志第九</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1434-27525.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷三十九 志第九</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=脱脱&amp;searchsubmit=yes"  target="_blank">脱脱</a><span class="divide">|</span>发布时间：2016-08-16 22:37:55<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>◎地理志三<br/><br/>　　中京道<br/><br/>　　中京大定府，虞为营州，夏属冀州，周在幽州之分。秦郡天下，是为辽西。汉为新安平县。汉末步奚居之，幅员千里，多大山深谷，阻险足以自固。魏武北征，纵兵大战，降者一十余万，去之松漠。其后拓拔氏乘辽建牙于此，当饶乐河水之南，温渝河水之北。唐太宗伐高丽，驻跸于此。部帅苏支从征有功，奚长可度率众内附，为置饶乐都督府。咸通以后，契丹始大，奚族不敢复抗。太祖建国，举族臣属。圣宗尝过七金山土河之滨，南望云气，有郛郭楼阙之状，因议建都。择良工于燕、蓟，董役二岁，郛郭、宫掖、楼阁、府库、市肆廊庑，拟神都之制。统和二十四年，五帐院进故奚王牙帐地。二十五年，城之，实以汉户，号曰中京，府曰大定。皇城中有祖庙，景宗、承天皇后御容殿。城池湫湿，多凿井泄之，人以不便。大同驿以待宋使，朝天馆待新罗使，来宾馆待夏使。有七金山、马盂山、双山、松山、土河。统州十、县九：<br/><br/>　　大定县。白霫故地。以诸国俘户居之。<br/><br/>　　长兴县。本汉宾从县。以诸部人居之。<br/><br/>　　富庶县。本汉新安平地，开泰二年析京民置。<br/><br/>　　劝农县。本汉宾从县地。开泰二年析京民置。<br/><br/>　　文定县。开泰二年析京民置。<br/><br/>　　升平县。开泰二年析京民置。<br/><br/>　　归化县。本汉柳城县地。<br/><br/>　　神水县。本汉徒河县地。开泰二年置。<br/><br/>　　金源县。本唐青山县境。开泰二年析京民置。<br/><br/>　　恩州，怀德军，下，刺史。本汉新安平县地。太宗建州。开泰中，以渤海户实之。初隶永兴宫，后属中京。统县一：<br/><br/>　　恩化县。开泰中渤海人户置。<br/><br/>　　惠州，惠和军，中，刺史。本唐归义州地。太祖俘汉民数百户兔鹿山下，创城居之，置州。属中京，统县一：<br/><br/>　　惠和县。圣宗迁上京惠州民，括诸宫院落帐户置。<br/><br/>　　高州，观察。唐信州之地。万岁通天元年，以契丹室活部置。开泰中，圣宗伐高丽，以俘户置高州。有平顶山、滦河。属中京。统县一：<br/><br/>　　三韩县，辰韩为扶余，弁韩为新罗，马韩为高丽。开泰中，圣宗伐高丽，俘三国之遗人置县。户五千。<br/><br/>　　武安州，观察。唐沃州地。太祖俘民居木叶山下，因建城以迁之，号杏埚新城。复以辽西户益之，更曰新州。统和八年改今名。初刺史，后升。有黄柏岭、袅罗水、个没里水。属中京。统县一：<br/><br/>　　沃野县。<br/><br/>　　利州，中、观察。本中京阜俗县。统和二十六年置刺史州，开泰元年升。属中京。统县一：<br/><br/>　　阜俗县。唐末，契丹渐炽，役使奚人，迁居琵琶川。统和四年置县。初隶彰愍宫，更隶中京。后置州，仍属中京。<br/><br/>　　榆州，高平军，下，刺史。本汉临渝县地。后隶右北平骊城县。唐载初二年，析慎州置黎州，处靺鞨部落，后为奚人所据。太宗南征，横帐解里以所俘镇州民置州，开泰中没入。属中京。统县二：<br/><br/>　　和众县。本新黎县地。<br/><br/>　　永和县。本汉昌城县地。统和二十二年置。<br/><br/>　　泽州，广济军，下，刺史。本汉土垠县地。太祖俘蔚州民，立寨居之，采炼陷河银冶。隶中京留守司。开泰中置泽州。有松亭关、神山、九宫岭、石子岭、泺河、撒河。属中京。统县二：<br/><br/>　　神山县。神山在西南。<br/><br/>　　滦河县。本汉徐无县地。属永兴宫。<br/><br/>　　北安州，兴化军，上，刺史。本汉女祁县地，属上谷郡。晋为冯跋所据。唐为奚王府西省地。圣宗以汉户置北安州。属中京。统县一：<br/><br/>　　兴化县。本汉且居县地。<br/><br/>　　潭州，广润军，下，刺史。本中京之龙山县，开泰中置州，仍属中京。统县一：<br/><br/>　　龙山县。本汉交黎县地。开泰二年以习家寨置。<br/><br/>　　松山州，胜安地，下，刺史。开泰中置。统和八年省，复置。属中京。统县一：<br/><br/>　　松山县。本汉文成县地。边松漠，商贾会冲。开泰二年置县。有松山川。<br/><br/>　　宋王曾《上契丹事》曰：出燕京北门，至望京馆。五十里至顺州。七十里至檀州，渐入山。五十里至金沟馆。将至馆，川原平旷，谓之金沟淀。自此入山，诘曲登陟，无复里堠，但以马行记日，约其里数。九十里至古北口，两傍峻崖，仅容车轨。又度德胜岭，盘道数层，俗名思乡岭，八十里至新馆。过雕窠岭、偏枪岭，四十里至如来馆。过乌泺河，东有滦州，又过摸斗岭，一名渡云岭，芹菜岭，七十里至柳河馆。松亭岭甚险峻，七十里至打造部落馆。东南行五十里至牛山馆。八十里至鹿儿峡馆。过虾蟆岭，九十里至铁桨馆。过石子岭，自此渐出山，七十里至富谷馆。八十里至通天馆，二十里至中京大定府。城垣卑小，方圆才四里许。门但重屋，无筑阇之制。南门曰朱夏，门内通步廊，多坊门。又有市楼四：曰天方、大衢、通闤、望阙。次至大同馆。其门正北曰阳德、阊阖。城内西南隅冈上有寺。城南有园圃，宴射之所。自过古北口，居人草庵板屋，耕种，但无桑柘；所种皆从垅上，虞吹沙所壅。山中长松郁然，深谷中时见畜牧牛马橐驼，多青羊黄豕。<br/><br/>　　成州，兴府军，节度。晋国长公主以媵户置，军曰长庆，隶上京。复改军名。统县一：<br/><br/>　　同昌县。<br/><br/>　　兴中府。本霸州彰武军，节度。古孤竹国。汉柳城县地。慕容皝以柳城之北，龙山之南，福德之地，乃筑龙城，构宫庙，改柳城为龙城县，遂迁都，号曰和龙宫。慕容垂复居焉，后为北跋所灭。元魏取为辽西郡。隋平高保宁，置营州。炀帝废州置柳城郡。唐武德初改营州总管府，寻为都督府。万岁通天中，陷李万荣。神龙初，移府幽州。开元四年，复治柳城。八年，西徙渔阳。十年，还柳城。后为奚所据。太祖平奚及俘燕民，将建城，命韩知方择其处。乃完葺柳城，号霸州彰武军，节度。统和中，制置建、霸、宜、锦、白川等五州。寻落制置，隶积庆宫。后属兴圣宫。重熙十年升兴中府。有大华山、小华山、香高山、麝香崖，天授皇帝刻石在焉，驻龙峪、神射泉、小灵河。统州二、县四：<br/><br/>　　兴中县。本汉柳城县地。太祖掠汉民居此，建霸城县。重熙中置府，更名。<br/><br/>　　营丘县。析霸城置。<br/><br/>　　象雷县。开泰二年以麦务川置。初隶中京。后属。<br/><br/>　　闾山县。本汉且虑县。开泰二年以罗家军置。隶中京，后属。<br/><br/>　　安德州，化平军，下，刺史。以霸州安德县置，来属。统县一：安德县。统和八年析霸城东南龙山徒河境户置。初隶乾州，更属霸州，置州来属。<br/><br/>　　黔州，阜昌军，下，刺史。本汉辽西郡地。太祖平渤海，以所俘户居之，隶黑水河提辖司。安帝置州，析宜、霸二州汉户益之。初隶永兴宫，更隶中京，后置府，来属。统县一：盛吉县。太祖平渤海，俘兴州盛吉县民来居，因置县。<br/><br/>　　宜州，崇义军，上，节度。本辽西累县地。东丹王每秋畋于此。兴宗以定州俘户建州。有坟山，松柏连亘百余里，禁樵采，浚河，累石为堤。隶积庆宫。统县二：<br/><br/>　　弘政县。世宗以定州俘户置。民工织纴，多技巧。<br/><br/>　　闻义县。世宗置。初隶海北州，后来属。<br/><br/>　　锦州，临海军，中，节度。本汉辽东无虑县。慕容皝置西乐县。太祖以汉俘建州。有大胡僧山、小胡僧山、大查牙山、小查牙山、淘河岛。隶弘义宫。统州一、县二：<br/><br/>　　永乐县。<br/><br/>　　安昌县。岩州，保肃军，下，刺史。本汉海阳县地。太祖平渤海，迁汉户杂居兴州境，圣宗于此建城焉。隶弘义宫，来属。统县一：兴城县。<br/><br/>　　川州，长宁军，中，节度。本唐青山州地。太祖弟明王安端置。会同三年，诏为白川州。安端子察割以大逆诛，没入，省曰川州。初隶崇德宫，统和中属文忠王府。统县三：<br/><br/>　　弘理县。统和八年以诸宫提辖司户置。<br/><br/>　　咸康县。<br/><br/>　　宜民县。统和中置。<br/><br/>　　建州，保静军，上，节度。唐武德中，置昌乐县。太祖完葺故垒，置州。汉乾祐元年，故石晋太后诣世宗，求于汉城侧耕垦自赡。许于建州南四十里给地五十顷，营构房室，创立宗庙。州在灵河之南，屡遭水害，圣宗迁于河北康崇州故城。初名武宁军，隶永兴宫，后属敦睦宫。统县二：<br/><br/>　　永霸县。<br/><br/>　　永康县。本唐昌黎县地。<br/><br/>　　来州，归德军，下，节度。圣宗以女直五部岁饥来归，置州居之。初刺史，后升。隶永兴宫。有三州山、六州山、五脂山。统州二、县一：<br/><br/>　　来宾县。本唐来远县地。<br/><br/>　　隰州，平海军，下，刺史。慕容皝置集宁县。圣宗括帐户迁信州，大雪不能进，建城于此，置焉。隶兴圣宫，来属。统县一：海浜县。本汉县。濒海，地多碱卤，置盐场于此。<br/><br/>　　迁州，兴善军，下，刺史。本汉阳乐县地。圣宗平大延琳，迁归州民置，来属。有箭笴山。统县一：迁民县。<br/><br/>　　润州，海阳军，下，刺史。圣宗平大延琳，迁宁州之民居此，置州。统县一：<br/><br/>　　海阳县。本汉阳乐县地，迁润州，本东京城内渤海民户，因叛，移于此。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1434-27525.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1434-27527.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1434.html" action-type="chapterComment" class="comment"><i></i>辽史章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

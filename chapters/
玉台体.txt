@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《玉台体》正文_玉台体_权德舆作品 - 维普阅读网</title>
+<meta name="keywords" content="玉台体,玉台体原文,玉台体阅读,玉台体全文,权德舆作品" />
+<meta name="description" content="玉台体原文阅读,玉台体全文在线阅读,权德舆作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-1192.html";
+var nextpage="novel-chapter-1192.html";
+var indexpage = "novel-chapter-1192.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1192.html">玉台体</a></strong>
+<strong><a href="novel-chapter-1192.html">玉台体目录</a></strong>
+<span>玉台体</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-1192.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>玉台体</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=权德舆&amp;searchsubmit=yes"  target="_blank">权德舆</a><span class="divide">|</span>发布时间：2015-02-10 16:11:15<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>昨夜裙带解，今朝蟢子飞。<br/>铅华不可弃，莫是藁砧归。<br/><br/>【注释】<br/>（1）蟢子：小蜘蛛脚长者，俗称蟢子。<br/>（2）铅华：指脂粉。<br/>（3）藁砧：丈夫的隐语。<br/><br/>【译文】<br/>昨晚我裙带忽然松弛解开，早晨又看见蟢子双双飞来。<br/>要赶紧描眉擦粉梳妆打扮，莫非是我的丈夫快要回来。<br/><br/>【赏析】<br/>　　诗的前两句写的是两种喜兆接连出现。<br/>　　“昨夜裙带解，今朝蟢子飞。”前句写这位女子昨夜裙带自解，后旬写今天早上这女子又看见长脚的蜘蛛飞来了。裙带自解是夫归之兆，蟢子飞也是喜兆，于是这女人满心欢喜，认为丈夫真的要回来了。蟢子飞，据刘勰《新论》：“野人见蟢子飞，以为有喜乐之瑞。”诗人通过对两种喜兆的描写，把小女子那种急切、思念、惊喜的复杂心理展现得极为生动、传神，让人玩味。<br/>　　诗的后两句写女子对喜兆的反应。<br/>　　“铅华不可弃，莫是藁砧归。”铅华，脂粉。莫是，莫不是。句意为：赶紧涂脂抹粉打扮一下吧，恐怕丈夫真的要回来了。藁砧，即稿砧，是丈夫的隐称。周祈《名义考》卷五：“古有罪者，席稿伏于椹(帖)上，以铁斩之。言稿椹则言铁矣，铁与夫同音，故隐语稿椹为夫也。”这女子见喜兆后的激动心态在诗人的笔下表现得是多么细致入微。<br/>　　然而这女子的丈夫回来没有?喜兆有没有应验?这位女子最终是欢喜还是失望?诗中并没有交代。诗人只是抓住了这女子思夫的一瞬间进行渲染，把这女子的思夫之情含蓄地表达出来，给读者留下了巨大的想象空间，未尽之意读者自可以根据自己的理解去联想。<br/>　　这首诗，文字质朴无华，但感情却表现得细致入微。象“裙带解”、“蟢子飞”，这都是些引不起一般人注意的小事，但却荡起了女主人公心灵上无法平静的涟漪。诗又写得含蓄而耐人寻味。丈夫出门后，女主人公的处境、心思、生活情态如何，作者都未作说明，但从“铅华不可弃”的心理独白中，便有一个“岂无膏沐，谁适为容”（《诗经·伯兮》）的思妇形象跃然纸上。通篇描摹心理，用语切合主人公的身分、情态，仿旧体而又别开生面。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-1192.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-1192.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1192.html" action-type="chapterComment" class="comment"><i></i>玉台体章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

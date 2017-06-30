@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《旧五代史》正文_卷一百二十二（周书）列传二_（宋）薛居正作品 - 维普阅读网</title>
+<meta name="keywords" content="旧五代史,旧五代史原文,旧五代史阅读,卷一百二十二（周书）列传二全文,（宋）薛居正作品" />
+<meta name="description" content="旧五代史原文阅读,卷一百二十二（周书）列传二全文在线阅读,（宋）薛居正作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1430-27012.html";
+var nextpage="novel-read-1430-27014.html";
+var indexpage = "novel-chapter-1430.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1430.html">旧五代史</a></strong>
+<strong><a href="novel-chapter-1430.html">旧五代史目录</a></strong>
+<span>卷一百二十二（周书）列传二</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1430-27012.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷一百二十二（周书）列传二</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=（宋）薛居正&amp;searchsubmit=yes"  target="_blank">（宋）薛居正</a><span class="divide">|</span>发布时间：2016-08-05 21:37:01<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>◎宗室<br/><br/>　　剡王侗，太祖子，初名青哥，汉末遇害。太祖即位，诏赠太尉，赐名侗。显德四年追封。<br/><br/>　　杞王信，太祖子，初名意哥，汉末遇害。太祖即位，诏赠司空，赐名信。显德四年追封。（案：太祖诸子蚤岁遇害，本无事迹。原本过于简略，疑有删节，今据《欧阳史·家人传》云：初，帝举兵于魏，汉以兵围帝第，时张贵妃与诸子青哥、意哥，侄守筠、奉超、定哥皆被诛。青哥、意哥不知其母谁氏。太祖即位，诏故第二子青哥赠太尉，赐名侗；第三子意哥赠司空，赐名信。皇侄守筠赠左领军卫将军，以“筠”声近“荣”，为世宗避，更名守愿；奉超赠左监门卫将军；定哥赠左千牛卫将军，赐名逊。世宗显德四年夏四月癸未，诏曰：“礼以缘情，恩以悼往，矧在友于之列，尤钟恻怆之情。故皇弟赠太保侗、赠司空信，景运初启，天年不登，俾予终鲜，实动予怀。侗可赠太傅，追封剡王；信司徒，杞王。”又诏曰：“故皇从弟赠左领军卫将军守愿、赠左监门卫将军奉超、赠左千牛卫将军逊等，顷因季世，不享遐龄，每念非辜，难忘有恸。守愿可赠左卫大将军，奉超右卫大将军，逊右武卫大将军。”）<br/><br/>　　越王宗谊，世宗子，汉末遇害。显德四年追封。<br/><br/>　　曹王宗让，世宗子，显德六年封。<br/><br/>　　纪王熙谨，世宗子，显德六年封，皇朝乾德二年卒。<br/><br/>　　蕲王熙诲，世宗子，显德六年封。（《欧阳史·家人传》云：世宗子七人，长曰宜哥，次二皆未名，次曰恭皇帝，次曰熙让，次曰熙谨，次曰熙诲，皆不知其母为谁氏，宜哥与其二皆为汉诛。太祖即位，诏赐皇孙名，谊赠左骁卫大将军，诚左武卫大将军，諴左屯卫大将军。显德三年，君臣请封宗室，世宗以谓为国日浅，恩信未及于人，须功德大成，庆流于世，而后议之可也。明年夏四月癸未，先封太祖诸子。又诏曰：“父子之道，圣贤不忘，再思夭阙之端，愈动悲伤之抱。故皇子左骁卫大将军谊、左武卫大将军诚、左屯卫大将军諴等，载惟往事，有足伤怀，宜增一字之封，仍赠三台之秩。谊可赠太尉，追封越王；诚太傅，吴王；諴太保，韩王。”而皇子在者皆不封。六年，北复三关，遇疾还京师。六月癸未，皇子宗训特进左卫上将军，封梁王，而宗让亦拜左骁卫上将军，封燕国公。后十日而世宗崩，梁王即位，是为恭皇帝。其年八月，宗让更名熙让，封曹王。熙谨、熙诲皆前未封爵，遂拜熙谨右武卫大将军，封纪王；熙诲左领军卫大将军，封蕲王。乾德二年十月，熙谨卒，熙让、熙诲不知其所终。）</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1430-27012.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1430-27014.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1430.html" action-type="chapterComment" class="comment"><i></i>旧五代史章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

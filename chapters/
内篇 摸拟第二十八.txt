@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《史通》正文_内篇 摸拟第二十八_刘知几作品 - 维普阅读网</title>
+<meta name="keywords" content="史通,史通原文,史通阅读,内篇 摸拟第二十八全文,刘知几作品" />
+<meta name="description" content="史通原文阅读,内篇 摸拟第二十八全文在线阅读,刘知几作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1030-10614.html";
+var nextpage="novel-read-1030-10616.html";
+var indexpage = "novel-chapter-1030.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1030.html">史通</a></strong>
+<strong><a href="novel-chapter-1030.html">史通目录</a></strong>
+<span>内篇 摸拟第二十八</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1030-10614.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>内篇 摸拟第二十八</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘知几&amp;searchsubmit=yes"  target="_blank">刘知几</a><span class="divide">|</span>发布时间：2014-11-28 23:08:54<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　夫述者相效，自古而然。故列御寇之言理也，则凭李叟；扬子云之草《玄》也，全师孔公。符朗则比迹于庄周，范晔则参踪于贾谊。况史臣注记，其言浩博，若不仰范前哲，何以贻厥后来？<br/><br/>　　盖摸拟之体，厥途有二：一曰貌同而心异，二曰貌异而心同。何以言之？盖古者列国命官，卿与大夫有别。必于国史所记，则卿亦呼为大夫，此《春秋》之例也。当秦有天下，地广殷、周，变诸侯为帝王，目宰辅为丞相。而谯周撰《古史考》，思欲摈抑马《记》，师仿孔《经》。其书李斯之弃市也，乃云"秦杀其大夫李斯"。夫以诸侯之大夫名天子之丞相，以此而拟《春秋》，所谓貌同而心异也。<br/><br/>　　当春秋之世，列国甚多，每书他邦，皆显其号。至于鲁国，直云我而已。如金行握纪，海内大同，君靡客主之殊，臣无彼此之异。而干宝撰《晋纪》，至天子之葬，必云"葬我某皇帝"。且无二君，何我之有？以此而拟《春秋》，又所谓貌同而心异也。<br/><br/>　　狄灭二国，君死城屠；齐桓行霸，兴亡继绝。《左传》云："邢迁如归，卫国忘亡。"言上下安堵，不失旧物也。如孙皓暴虐，人不聊生，晋师是讨，后予相怨。而干宝《晋纪》云："吴国既灭，江外忘亡。"岂江外安典午之善政，同归命之未灭乎？以此而拟《左氏》，又所谓貌同而心异也。<br/><br/>　　春秋诸国，皆用夏正。鲁以行天子乐礼，故独用周家正朔。至如书"元年春王正月"者，年则鲁君之年，月则周王之月。如曹、马受命，躬为帝王，非是以诸侯守藩，行天子班历。而孙盛《魏》、《晋》二《阳秋》，每书年首，必云"某年春帝正月"。夫年既编帝纪，而月又列帝名。以此而拟《春秋》，又所谓貌同而心异也。<br/><br/>　　五始所作，是曰《春秋》；三《传》并兴，各释经义。如"公羊传"屡云："何以书？记某事也。"此则先引《经》语，而继以释辞，势使之然，非史体也。如吴均《齐春秋》，每书灾变，亦曰："何以书？记异也。"夫事无他议，言从己出，辄自问而自答者，岂是叙事之理者邪？以此而拟《公羊》，又所谓貌同而心异也。<br/><br/>　　且《史》、《汉》每于列传首书人名字，至传内有呼字处，则于传首不详。如《汉书·李陵传》称陇西任立政，"陵字立政曰：'少公，归易耳。'"夫上不言立政之字，而辄言"字立政曰少公"者，此省文，从可知也。至令狐德棻《周书》于《伊娄穆传》首云"伊娄穆字奴干"，既而续云太祖"字之曰：'奴干作仪同面向我也。'"夫上书其字，而下复曰字，岂是事从简易，文去重复者邪？以此而拟《汉书》，又所谓貌同而心异也。<br/><br/>　　昔《家语》有云："苍梧人娶妻而美，以让其兄。虽则为让，非让道也。"又扬子《法言》曰："士有姓孔字仲尼"，其文是也，其质非也。如向之诸子，所拟古作，其殆苍梧之让，姓孔字仲尼者欤？盖语曰：世异则事异，事异则备异。必以先王之道，持今世之人，此韩子所以著《五蠢》之篇，称宋人有守株之说也。世之述者，锐志于奇，喜编次古文，撰叙今事，而巍然自谓《五经》再生，《三史》重出，多见其无识者矣。<br/><br/>　　惟夫明识之士则不然。何则？所拟者非如图画之写真，镕铸之象物，以此而似彼也。其所以为似者，取其道术相会，义理玄同，若斯而已。亦犹孔父贱为匹夫，栖皇放逐，而能祖述尧、舜，宪章文、武，亦何必居九五之位，处南面之尊，然后谓之连类者哉！<br/><br/>　　盖《左氏》为书，叙事之最。自晋已降，景慕者多，有类效颦，弥益其丑。然求诸偶中，亦可言焉。盖君父见害，臣子所耻，义当略说，不忍斥言。故《左传》叙桓公在齐遇害，而云"彭生乘公，公薨于车"。如干宝《晋纪》叙愍帝殁于平阳，而云："晋人见者多哭，贼惧，帝崩。"以此而拟《左氏》，所谓貌异而心同也。<br/><br/>　　夫当时所记或未尽，则先举其始，后详其末，前后相会，隔越取同。若《左氏》成七年，郑获楚锺仪以献晋，至九年，晋归锺仪于楚以求平，其类是也。至裴子野《宋略》叙索虏临江，太子劭使力士排徐湛、江湛僵仆，于是始与劭有隙。其后三年，有江湛为元凶所杀事。以此而拟《左氏》，亦所谓貌异而心同也。<br/><br/>　　凡列姓名，罕见其字。苟前后互举，则观者自知。如《左传》上言羋斟，则下曰叔牂，前称子产，则次见国侨，其类是也。至裴子野《宋略》亦然。何者？上书桓玄，则下云敬道；后叙殷铁，则先著景仁。以此而拟《左氏》，又所谓貌异而心同也。<br/><br/>　　《左氏》与《论语》，有叙人酬对，苟非烦词积句，但是往复唯诺而已，则连续而说，去其"对曰"、"问曰"等字。如裴子野《宋略》云：李孝伯问张畅"卿何姓？"曰"姓张。""张长史乎？"以此而拟《左氏》、《论语》，又所谓貌异而心同也。<br/><br/>　　善人君子，功业不书，见于应对，附彰其美。如《左传》称楚武王欲伐随，熊率且比曰："季梁在，何益！"至萧方等《三十国春秋》说朝廷闻慕容隽死，曰："中原可图矣！"桓温曰："慕容恪在，其忧方大！"以此而拟《左氏》，又所谓貌异而心同也。<br/><br/>　　夫将叙其事，必预张其本，弥缝混说，无取睠言。如《左传》称叔辄闻日蚀而哭，昭子曰："子叔其将死乎？"秋八月，叔辄卒。至王劭《齐志》称张伯德梦山上挂丝，占者曰："其为幽州刺史乎？"秋七月，拜为幽州刺史。以此而拟《左氏》，又所谓貌异而心同也。<br/><br/>　　盖文虽缺略，理甚昭著，此丘明之体也。至如叙晋败于邲，先济者赏，而云："上、中、下军争舟，舟中之指可掬。"夫不言攀舟乱，以刃断指，而但曰"舟指可掬"，则读者自睹其事矣。至王劭《齐志》述高季式破敌于韩陵，追奔逐北，而云"夜半方归，槊血满袖"。夫不言奋槊深入，击刺甚多，而但称"槊血满袖"，则闻者亦知其义矣。以此而拟《左氏》，又所谓貌异而心同也。<br/><br/>　　大抵作者，自魏已前，多效《三史》，从晋已降，喜学《五经》。夫史才文浅而易摸，经文义深而难拟，既难易有别，故得失亦殊。盖貌异而心同者，摸拟之上也；貌同而心异者，摸拟之下也。然人皆好貌同而心异，不尚貌异而心同者，何哉？盖鉴识不明，嗜爱多僻，悦夫似史而憎夫真史，此子张所以致讥于鲁侯，有叶公好龙之喻也。袁山松云："书之为难也有五：烦而不整，一难也；俗而不典，二难也；书不实录，三难也；赏罚不中，四难也；文不胜质，五难也。"夫拟古而不类，此乃难之极者，何为独阙其目乎？呜呼！自子长以还，似皆未睹斯义。后来明达，其鉴之哉！</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1030-10614.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1030-10616.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1030.html" action-type="chapterComment" class="comment"><i></i>史通章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

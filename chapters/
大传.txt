@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《礼记》正文_大传_戴圣作品 - 维普阅读网</title>
+<meta name="keywords" content="礼记,礼记原文,礼记阅读,大传全文,戴圣作品" />
+<meta name="description" content="礼记原文阅读,大传全文在线阅读,戴圣作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-228-2880.html";
+var nextpage="novel-read-228-2882.html";
+var indexpage = "novel-chapter-228.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-228.html">礼记</a></strong>
+<strong><a href="novel-chapter-228.html">礼记目录</a></strong>
+<span>大传</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-228-2880.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>大传</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=戴圣&amp;searchsubmit=yes"  target="_blank">戴圣</a><span class="divide">|</span>发布时间：2014-08-18 22:45:35<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>礼：不王不禘。王者禘其祖之所自出，以其祖配之。诸侯及其大祖，大夫士有大事，省于其君，干祫，及其高祖。<br/><br/>　　牧之野，武王之大事也。既事而退，柴于上帝，祈于社，设奠于牧室。遂率天下诸侯，执豆笾，逡奔走；追王大王亶父、王季历、文王昌；不以卑临尊也。上治祖祢，尊尊也；下治子孙，亲亲也；旁治昆弟，合族以食，序以昭缪，别之以礼义，人道竭矣。<br/><br/>　　圣人南面而听天下，所且先者五，民不与焉。一曰治亲，二曰报功，三曰举贤，四曰使能，五曰存爱。五者一得于天下，民无不足、无不赡者。五者，一物纰缪，民莫得其死。圣人南面而治天下，必自人道始矣。<br/><br/>　　立权度量，考文章，改正朔，易服色，殊徽号，异器械，别衣服，此其所得与民变革者也。其不可得变革者则有矣：亲亲也，尊尊也，长长也，男女有别，此其不可得与民变革者也。<br/><br/>　　同姓从宗，合族属；异姓主名，治际会。名著，而男女有别。其夫属乎父道者，妻皆母道也；其夫属乎子道者，妻皆妇道也。谓弟之妻「妇」者，是嫂亦可谓之「母」乎？名者人治之大者也，可无慎乎？四世而缌，服之穷也；五世袒免，杀同姓也。六世，亲属竭矣。其庶姓别于上，而戚单于下，昏姻可以通乎？系之以姓而弗别，缀之以食而弗殊，虽百世而昏姻不通者，周道然也。<br/><br/>　　服术有六：一曰亲亲，二曰尊尊，三曰名，四曰出入，五曰长幼，六曰从服。从服有六：有属从，有徒从，有从有服而无服，有从无服而有服，有从重而轻，有从轻而重。<br/><br/>　　自仁率亲，等而上之，至于祖，名曰轻。自义率祖，顺而下之，至于祢，名曰重。一轻一重，其义然也。<br/><br/>　　君有合族之道，族人不得以其戚戚君，位也。<br/><br/>　　庶子不祭，明其宗也。庶子不得为长子三年，不继祖也。别子为祖，继别为宗，继祢者为小宗。有百世不迁之宗，有五世则迁之宗。百世不迁者，别子之后也；宗其继别子者，百世不迁者也。宗其继高祖者，五世则迁者也。尊祖故敬宗。敬宗，尊祖之义也。有小宗而无大宗者，有大宗而无小宗者，有无宗亦莫之宗者，公子是也。公子有宗道：公子之公，为其士大夫之庶者，宗其士大夫之适者，公子之宗道也。绝族无移服，亲者属也。<br/><br/>　　自仁率亲，等而上之，至于祖；自义率祖，顺而下之，至于祢。是故，人道亲亲也。亲亲故尊祖，尊祖故敬宗，敬宗故收族，收族故宗庙严，宗庙严故重社稷，重社稷故爱百姓，爱百姓故刑罚中，刑罚中故庶民安，庶民安故财用足，财用足故百志成，百志成故礼俗刑，礼俗刑然后乐。《诗》云：「不显不承，无斁于人斯」，此之谓也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-228-2880.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-228-2882.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-228.html" action-type="chapterComment" class="comment"><i></i>礼记章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

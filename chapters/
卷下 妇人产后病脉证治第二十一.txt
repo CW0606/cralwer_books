@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《金匮要略》正文_卷下 妇人产后病脉证治第二十一_张仲景作品 - 维普阅读网</title>
+<meta name="keywords" content="金匮要略,金匮要略原文,金匮要略阅读,卷下 妇人产后病脉证治第二十一全文,张仲景作品" />
+<meta name="description" content="金匮要略原文阅读,卷下 妇人产后病脉证治第二十一全文在线阅读,张仲景作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-253-4025.html";
+var nextpage="novel-read-253-4027.html";
+var indexpage = "novel-chapter-253.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-253.html">金匮要略</a></strong>
+<strong><a href="novel-chapter-253.html">金匮要略目录</a></strong>
+<span>卷下 妇人产后病脉证治第二十一</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-253-4025.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷下 妇人产后病脉证治第二十一</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=张仲景&amp;searchsubmit=yes"  target="_blank">张仲景</a><span class="divide">|</span>发布时间：2014-08-26 20:48:54<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>妇人产后病脉证治第二十一：（论一首 证六条 方七首）<br/><br/>　　问曰：新产妇人有三病，一者病痉，二者病郁冒，三者大便难，何谓也？师曰：新产血虚、多出汗、喜中风，故令病痉；亡血复汗、寒多，故令郁冒；亡津液，胃燥，故大便难。<br/><br/>　　产妇郁冒，其脉微弱，不能食，大便反坚，但头汗出，所以然者，血虚而厥，厥而必冒。冒家欲解，必大汗出。以血虚了厥，孤阳上出，故头汗出。所以产妇喜汗出者，亡阴血虚，阳气独盛，敢当汗出，阴阳乃复。大便坚，呕不能食，小柴胡汤主之。（方见呕吐中）<br/><br/>　　病解能食，七八日更发热者，此为胃实，大承气汤主之。（方见痉中）产后腹中疼痛，当归生姜羊肉汤主之；并治腹中寒疝虚劳不足。<br/><br/>　　当归生姜羊肉汤方（见寒疝中）<br/><br/>　　产后腹痛，烦满不得卧，枳实芍药散主之。<br/><br/>　　枳实芍药散方<br/><br/>　　枳实（烧令黑，勿太过） 芍药等分<br/><br/>　　右二味，杵为散，服方寸匕，日三服，并主痈脓，以麦粥下之。<br/><br/>　　师曰：产妇腹痛，法当以枳实芍药散，假令不愈者，此为腹中有干血着脐下，宜下瘀血汤主之；亦主经水不利。<br/><br/>　　下瘀血汤方<br/><br/>　　大黄二两 桃仁二十枚 蟅虫二十枚（熬，去足）<br/><br/>　　右三昧，末之，炼蜜和为四九，以酒一升，煎一丸，取八合，顿服之，新血下如豚肝。<br/><br/>　　产后七八日，无太阳证，少腹坚痛，此恶露不尽。不大便，烦躁发热，切脉微实，再倍发热，日晡时烦躁者，不食，食则谵语，至夜即愈，宜大承气汤主之。热在里，结在膀肽也。（方见痉病中）<br/><br/>　　产后风，续之数十日不解，头微痛，恶寒，时时有热，心下闷，干呕汗出，虽久，阳旦证续在耳，可与阳旦汤。（即桂枝汤，方见下利中）<br/><br/>　　产后，中风发热，面正赤，喘而头痛，竹叶汤主之。<br/><br/>　　竹叶汤方<br/><br/>　　竹叶一把 葛根三两 防风 桔梗 桂枝 人参 甘草各一两 附子一枚（炮） 大枣十五枚 生姜五两<br/><br/>　　右十味，以水一斗，煮取二升半，分温三服，温覆使汗出。颈项强，用大附子一枚，破之如豆大，煎药汤去沫。呕者，加半夏半升洗。<br/><br/>　　妇人乳中虚，烦乱呕逆，安中益气，竹皮大丸主之。<br/><br/>　　竹皮大丸方<br/><br/>　　生竹茹二分 石膏二分 桂枝一分 甘草七分 白薇一分<br/><br/>　　右五味，末之，枣肉和丸弹子大，以饮服一丸，日三夜二服。有热者，倍白薇，烦喘者加柏实一分。<br/><br/>　　产后下利虚极，白头翁加甘草阿胶汤主之。<br/><br/>　　白头翁加甘草阿胶汤方<br/><br/>　　白头翁 甘草 阿胶各二两 秦皮 黄连 柏皮各三两<br/><br/>　　右六味，以水七升，煮取二升半，内胶令消尽，分温三服。<br/><br/>　　附方<br/><br/>　　《千金》三物黄芩汤 治妇人在草蓐，自发露得风。四肢苦烦热，头痛者，与小柴胡汤，头不痛但烦者，此汤主之。<br/><br/>　　黄芩一两 苦参二两 干地黄四两<br/><br/>　　右三昧，以水八升，煮取二升，温服一升，多吐下虫。<br/><br/>　　《千金》内补当归建中汤 治妇人产后虚羸不足，腹中刺痛不止，吸吸少气，或苦少腹中急，摩病引腰者，不能食饮。产后一月日，得服四五剂为善，令人强壮宜。<br/><br/>　　当归四两 桂枝三两 芍药六两 生姜三两 甘草二两 大枣十二枚<br/><br/>　　右六味，以水一斗，煮取三升，分温三服，一日令尽，若大虚，加饴糖六两，汤成内之，于火上暖令饴消。若去血过多，崩伤内衄不止，加地黄六两、阿胶二两，合八味，汤成内阿胶。若无当归，以穹穷代之；若无生姜，以干姜代之。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-253-4025.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-253-4027.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-253.html" action-type="chapterComment" class="comment"><i></i>金匮要略章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

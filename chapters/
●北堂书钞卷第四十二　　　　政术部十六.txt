@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《北堂书钞》正文_●北堂书钞卷第四十二　　　　政术部十六_虞世南作品 - 维普阅读网</title>
+<meta name="keywords" content="北堂书钞,北堂书钞原文,北堂书钞阅读,●北堂书钞卷第四十二　　　　政术部十六全文,虞世南作品" />
+<meta name="description" content="北堂书钞原文阅读,●北堂书钞卷第四十二　　　　政术部十六全文在线阅读,虞世南作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-999-9648.html";
+var nextpage="novel-read-999-9650.html";
+var indexpage = "novel-chapter-999.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-999.html">北堂书钞</a></strong>
+<strong><a href="novel-chapter-999.html">北堂书钞目录</a></strong>
+<span>●北堂书钞卷第四十二　　　　政术部十六</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-999-9648.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>●北堂书钞卷第四十二　　　　政术部十六</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=虞世南&amp;searchsubmit=yes"  target="_blank">虞世南</a><span class="divide">|</span>发布时间：2014-11-20 20:36:52<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　隋祕书郎虞世南撰南海孔广陶校註<br/><br/>　　亡徵四十五　　　　　　亡国四十六<br/><br/>　　○亡徵四十五<br/><br/>　　山崩川竭亡之徵也「史周本纪幽王二年○今案陈本俞本同据史记亡下有国字」国家将亡必有妖孽「中庸○今案见礼记中庸篇」国家将亡神又降之「左传云有神降於莘惠王问也○今案庄公三十一年传」夏之亡也回禄信於聆隧「国语云云○今案隧误随考国语上作聆隧据订又韦昭解云聆隧地名宋庠补音云聆音琴餘同陈俞本添引注文」商之亡也夷羊在牧「又云○今案见国语陈俞本同俞本牧下又添野字」鬼哭山鸣「帝王世纪云殷紂六月雨雪或雨赤血云云○今未御览十三引云帝紂六月大风雨飘牛马或鬼哭或山鸣陈俞本脱雨字餘与本钞同」黄神啸吟「淮南子云夏桀之时西老折膝○今案陈俞本删西老句考览冥训老作姥膝作胜高诱注云西王母折其头上戴胜餘同」五星错行「本纪云桀时云云伊洛水竭也○今案俞本作世纪时下有摄提移处句餘同」三川皆震「史记周本纪云幽王二年西周云云○今案史记同」桀失玉镜「尚书帝命验云○今案陈俞本误作帝书命云考本钞廿一失政篇亦引玉镜事」秦失金镜「尚书考灵曜云御览今案本钞廿一失政篇又百卅六逆篇皆引」亡金虎「河图云金虎喻秦也○今案陈俞本秦下有君字」亡玉羊「易纬云太山失金鸡西岳亡玉羊○今案聚珍本易是类谋同」汉有三七之阨「汉武故事○今案御览八十八引三作六阨作厄法餘同陈俞本改汉作秦阨作戹餘亦同」汉家运衰「汉书哀帝纪云○今案见汉书卷十一」赤精渐微「汉南纪序云○今案晋江从事张莹撰汉南纪书七无可引校」天夺之监「左传云虢公败戎于桑田士偃曰虢必亡矣○今案僖二年传士作卜陈俞本又误作郭」天降时丧「尚书多方篇云○今案本钞与俞本方误士考多士无多方有据以更正」檿弧箕服实亡周国「史记周本纪幽王嬖褒似○今案周本纪云宣王之时童女谣曰檿弧云云下有弃女子出為褎是為褎似幽王爱之生伯服等句」楚矢箕服是丧国亡「璅语云幽王娶褎似○孙氏校以原钞嬖误聚因改娶非是今案玉函山房辑本古文琐语及陈俞本又亡作王然所据陈本耳」其细己甚是其先亡「左传云吴札家聘请观於周业為之□郑○今案见襄二十九年传甚下原有民弗堪也句俞本删是其句照改陈本尚仍本钞之旧」伐智而专事「周书云曲集之君云○孙氏校典焦改曲集今案见汲冢周书史记解陈俞本增引」愎諫而好胜「韩子云微子篇○伐案近本韩非亡徵篇第十五作狠刚而不愎谅而好胜原钞□即徵之譌子则亡之譌耳」狠而无亲「周书云昔者县示之君狠而不听○今案陈俞本作周书史记解亲下有者亡二字即接昔者二句考见逸周书卷六十一不作无餘同」狠刚而不和「又云○今案与此上第二韩非亡徵篇同传钞者与周书一条前后误置耳近本韩非和误利陈俞本与原钞合」大心无悔国乱自多「韩子云云○今案亦见亡徵篇」<br/><br/>　　期而不当言而不信「世纪云殷有长者王亲往○今案陈俞本注有作紂餘删」喜淫辞不周於法「韩子云喜淫辞不周於法好辩说而不求其用矣○今案亦见亡徵篇近本与陈俞本脱辞字则不辞矣古本足补韩非之闕」听毁誉不待参验「又云用一大為门户可亡也矣○今案亦见亡徵篇毁誉作以爵验下即接注文用一人云云陈俞本改以爵二字不如古本远甚」恃势援而简近邻「又云云可亡也矣○今案亦见亡徵篇作恃交援而简近邻怙强大之救而悔所迫之国者可亡也东钞交作势陈俞本亦改交」简侮大臣无礼父兄「又云○今案亦见亡徵篇陈俞本兄下添引劳苦百姓杀戮不辜者可亡也等司餘同」新臣进而故臣退不肖用而良臣伏「又云无功贵而劳苦贱如是○今案亡徵篇所作亲用下有事字良臣作贤良伏下接注句是下作则下怨可亡也陈俞本故臣作故人餘与近本同」<br/><br/>　　挫辱大臣而狎其身刑戮小民而逆其使「又云怀怒息耻而身专习○孙氏校身下删退不二字补戮字传思改专习今案亡徵篇标目接注息作恩习下作则贼生可亡也陈俞本照改」群臣易虑「又云太子已置而娶于强敌以為后妻○今案亡徵篇妻下作太子危好是则群臣易虑陈俞本改本钞脱已字敌误适脱妻字据订」臣怒生变「周书云有巢氏有乱至而贵任之臣怒生变○今案汲冢周书史记解陈俞本有增引」以智法以私襍公「亡徵云云○今案见韩子陈俞本同」浅薄易见漏泄无藏「又云○孙氏校薄不误删而字又补见字今案亡徵篇泄下亦有而字乃合近本与陈俞本同」恃慑而弱守蚤见而心懦「又云○孙氏校懦改慑移蚤下而弱两字於上句又需懦今案亡徵篇心下有柔字陈俞本亦照增」多怒而好用兵「又云主云云○今案亡徵篇作主多怒而好用兵简本教而轻战攻者可亡也」贪攻而取无厌「又云○今案近本亡徵篇作饕贪而无饜近利而好得可忘也陈俞本照改」<br/><br/>　　后妾淫乱主母畜妖「又篇云○今案近本亡徵篇与陈俞本皆妾作妻妖作秽」后妻贱而妇妾贵「又篇云如上言○今案亡徵篇妇作婢陈俞已改」女子用国刑餘与事「又篇云不為人君久孝而慕匹夫之□○今案亡徵篇君作主之下有孝字即接不顾社稷之利而听主母之令女子云云者可亡也陈俞本亦同」婢妾之言听受之知用「又篇云如上言○今案亡徵篇受之句作爱玩之智用陈俞本已改」轻其嫡正而庶子称衡「又篇云君不肯而侧多大国之交也○今案近本亡徵篇嫡作适注作大子尊显多大云云可亡也陈俞本亦作适」太子卑而庶子尊「韩子云云○今案亦见亡徵篇陈俞本同」<br/><br/>　　大臣两重父兄眾强「亡徵篇云父兄大臣○今案陈俞本强下作内党外援以争事势者可亡也」婴儿為君大臣专制「又云种类不寿而主数易廿云云○今案亡徵篇易作即餘同」权专於臣刑专於民「周书乐专於君云云○今案见周书史记解」减爵禄禁罚不行「又云鄶公徊俭云云○孙氏校鄫改鄫楚改禁今案周书史记解又公作君」贵人相妬大家降盛「亡徵篇云云○今案近本人字家字皆作臣盛下作外籍敌国内困百姓陈俞本亦照改」国小而家大势轻而臣重「韩子亡徵篇云云○今案近本势作权陈俞本亦改」<br/><br/>　　令将大重任守大尊「又篇云军出令将大重边地任守大尊○今案亡徵篇尊下有专制擅命可亡也二句」大臣甚贵朋党眾强「又篇云如此则耕战之士困而末作之民利者可亡国也○今案亡徵篇明作偏强不作壅塞主敬而擅国者可亡也為一条又云公家虚而大臣实正□贫而寄寓富下接此注文為一条今本钞是误合两条為一上脱注下脱目耳陈俞本已改為二」<br/><br/>　　官职可以重求爵禄可以货得「又篇云如此者可亡也○今案亦见亡徵篇」罢露百姓煎靡货财「又篇云好為宫室臺榭陂池车马衣服器用玩好云云可亡也○今案近本亡徵篇及陈俞本皆无為字车上有事字车下无马衣二字器下无用字岂成句郎究以原钞為是」<br/><br/>　　○亡国四十六<br/><br/>　　乱其纪纲国乃灭亡「书五子之歌篇云○今案近本五子歌国乃作乃底陈俞本照改」赫赫宗周灭為亡国「潘岳西征赋云○今案文选及陈俞本同」<br/><br/>　　桀以奢亡紂以淫败「说苑云晋平公為驰逐车龙旂象○今案此注脱误陈本删之考说苑二十反质篇龙旂三字作龙旌眾色挂以犀象田差对曰臣闻桀以云云」头悬赤旗「王孙书云桀紂之為君也○今案玉函山房辑本王孙子一卷据书钞引同本钞百二十旗篇亦引」赴火而死「史记云周伐紂紂兵败赴火而死○今案殷本纪同」成周西倾「汤子法言云从赧以成周而西倾○今案右研斋重刻宋本法言卷十一渊騫篇从作顺餘同陈俞本祇注杨子二字」宗周既灭「诗雨无正云云靡所止矣○今案见诗小雅」<br/><br/>　　奔南巢「世纪云桀之败○今案御览八十二引帝王世纪同」避宣室「汉书王莽传云○今案汉书九十九下王莽避火宣室陈陈俞本有增引」倒戈而战「世纪云武王率诸侯伐紂云云○今案御览八十三引帝王世纪同」瓦解而走「淮南子云武王伐云云○今案泰族训云武王左操黄鉞右执白旄以麾之下接标目句」<br/><br/>　　煞豨饮血「汉书王莽传云○今案汉书九十九下王莽赦囚与誓事」搏心大哭「王莽传云○今案汉九十九下莽知败率群臣南郊告天事」系颈以组奉符璽「史记云高祖降秦王子婴○孙氏校头改颈今案高祖纪秦王子婴素车白马系颈以姐封皇帝符节降軹道旁云云是小注高祖句乃永兴按语耳」舆衬自缚诣军垒门「蜀志后主傅魏大兴兵令征西将军邓艾○今案蜀志卷三后主降魏雪」赐阳人地「史记秦本襄王元年以阳人地赐周君○今案史记同」為归汉王「王肃云刘聪以愍帝為归汉王置监国守卫○今案此条脱去书名疑是注文陈本祇注愍帝二字俞本与本钞同」愿黔首而谁听惟请死而获可「潘岳云兵在颈而顾问○今案文选西征赋首而作黎其餘同」竟横噬於□口输文武之神器「潘岳西征赋云○孙氏校需改虎建章彻改神器徵改征今案建章撤三字从下文第二条窜入此者需当作□」周之亡伊洛无侯掾「陈思王甄城故殿令云○今案俞本标目作周之亡则伊洛芜与下句相对将小注移在下条」汉道衰则建章撤「义见於前」天下无主四十九年「古史考云周赧王卒也○今案平津校刻章辑古史考谓御览皇王部引云王赧卒后天下无主四十九年以岁所纪之陈俞本改引史记王义岂忘其為唐张守节撰书成於隋不及见耶如比类者谬不胜举」<br/><br/>　　三后之姓於今為庶「左传云史墨对赵简子云○今案见昭王十二年传」戎成不退饥成不遂「诗雨无王篇○今案见诗小雅」<br/><br/>　　北堂书钞卷第四十二 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-999-9648.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-999-9650.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-999.html" action-type="chapterComment" class="comment"><i></i>北堂书钞章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

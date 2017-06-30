@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《黄帝内经》正文_第六十三篇 五味论_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="黄帝内经,黄帝内经原文,黄帝内经阅读,第六十三篇 五味论全文,佚名作品" />
+<meta name="description" content="黄帝内经原文阅读,第六十三篇 五味论全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-58-1902.html";
+var nextpage="novel-read-58-1904.html";
+var indexpage = "novel-chapter-58.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-58.html">黄帝内经</a></strong>
+<strong><a href="novel-chapter-58.html">黄帝内经目录</a></strong>
+<span>第六十三篇 五味论</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-58-1902.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第六十三篇 五味论</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-07-29 22:30:30<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【题解】本篇主要论述了五味各有所走，五味偏嗜、太过所出现的病理变化，以及因此引起的各种病证，故篇名&quot;五味&quot;。<br/>　　【原文】黄帝问于少俞日五味入于口也，各有所走，各有所病。酸走筋，多食之，令人癃；咸走血，多食之，令人渴辛走气，多食之，令人洞心；苦走骨，多食之，令人变呕；甘走肉，多食之，令人悦心。余知其然也，不知其何由，愿闻其故。少俞答日酸入于胃，其气涩以收，上之两焦，弗能出入也。不出即留于胃中，胃中和温，则下注膀胱，膀胱之胞[1]薄以懦，得酸则缩绻，约而不通，水道不行，故癃。阴者，积筋之所终也，故酸入而走筋矣。<br/>　　黄帝日咸走血，多食之，令人渴，何也?少俞日咸入于胃，其气上走中焦，注于脉，则血气走之，血与咸相得则凝，凝则胃中汁注之，注之则胃中竭，竭则咽路焦，故舌本千而善渴。血脉者，中焦之道也，故咸入而走血矣。<br/>　　黄帝日辛走气，多食之，令人洞心，何也?少俞日辛入于胃，其气走于上焦，上焦者，受气而营诸阳者也，姜韭之气熏之，营卫之气不时受之，久留心下，故洞心。辛与气俱行，故辛入而与汗俱出。<br/>　　黄帝日苦走骨，多食之，令人变呕，何也?少俞日苦入于胃，五谷之气，皆不能胜苦，苦入下脘，三焦之道皆闭而不通，故变呕。齿者，骨之所终也，故苦入而走骨，故入而复出，知其走骨也。<br/>　　黄帝日甘走肉，多食之，令人悦心，何也?少俞日甘入于胃，其气弱小，不能上至于上焦，而与谷留于胃中者，令人柔润者也，胃柔则缓，缓则虫动，虫动则令人挽心。其气外通于肉，故甘走肉。<br/>　　【提要】本篇主要论述了五味同人体经络、脏腑的关系，以及五味偏嗜、太过所出现的病理变化。<br/>　　【注释】[1]胞俗称&quot;尿脬&quot;，即现代医学的膀胱。<br/>　　【白话解】黄帝问少俞道食物进人人体后，五味分别进入相应的脏腑经络，在其影响下也会发生各自的病变。如酸味进入筋，食酸味偏多，会引起小便不通。咸味进人血液，食咸味过量，能引起口渴。辛味进入气分，食辛昧太过，可引起内心有空虚感。苦味进入骨骼，食苦味太多，使人发生呕吐。甘味进入肌肉，过食甘味，使人感到心胸烦闷。我知其然但不知其所以然，想了解其中的道理。少俞回答说酸味入胃以后，由于酸味涩滞，具有收敛的作用，只能行于上、中二焦，而不能迅速吸收转化，便停滞在胃中。若胃中和调温暖，促使它下注膀胱，膀胱的尿脬薄而柔软，遇到酸味便会收缩卷曲，导致膀胱出口处也紧缩约束，影响水液的排泻，从而形成小便不利的病证。前阴是宗筋汇聚的地方，肝主筋所以说酸走筋。<br/>　　黄帝问道咸味善走血分，食咸味过多会使人口渴是什么道理呢?少俞回答说咸味人胃后，气味行于中焦，输注于血脉，与血相合，使血液浓稠，需要胃中的津液不断地补充调和。这样胃中的津液就不足，影响咽部的津液输布，使得咽部和舌根部均感到干燥，而出现口渴的现象。血脉是中焦化生的精微输布周身的通道，血液也出于中焦，咸味上行于中焦，所以成味入胃后，就走人血分。<br/>　　黄帝问道辛味善走气分，多食辛味，使人觉得心中空虚是什么道理呢?少俞回答说辛味人胃后，它的气味行于上焦。上焦的功能是将来自中焦的水谷精微布散到体表。过食葱、姜、蒜、韭之类的辛味就会熏蒸于上焦，使营卫之气受到影响，如果辛味久留于胃中，就会出现内心空虚的感觉。辛味常与卫阳之气同行，所以辛味入胃以后促使卫阳之气外达而汗出，辛味也随汗而排泄，这就是辛味走气的道理。<br/>　　黄帝问道苦味善走骨分这又是什么道理呢?少俞回答说苦味人胃后，五谷的其他气味都不能胜过它。当苦味进入下脘后，三焦的通路都受其影响而气机阻闭不通利。三焦不通，胃内食物不得通调、输散，胃气因而上逆形成呕吐。牙齿是骨的外露部分，苦味经过牙齿进入体内又随呕吐通过牙齿外出，也说明苦走骨的道理。<br/>　　黄帝问道甘味善走肌肉，过食甘味，使人感到心胸烦闷，是什么原因呢?少俞回答说甘味入胃后，腻碍胃中气机，使胃气小而柔弱，不能达于上焦，而经常与食物一同停留在胃中，所以胃气也柔润。胃柔则气缓，容易化湿生虫，寄生虫因食甘味而在胃中蠕动，所以使人心中烦闷。甘味可以入脾，脾主肌肉，甘味外通于肌肉，所以，甘味善走肌肉。<br/>　　【按语】本文强调五味不能嗜食太过，太过则每易令人发生病变。其所论之病候与病理，虽未必完全符合实际，但其总的原则&quot;五味入于口也，各有所走，各有所病&quot;是正确的，揭示了饮食五味对人体作用的两重性，即有其有利的一面，同时又有其不利的一面。因此提醒我们临证时对患者以此论的精神，制订饮食五味的宜忌的医嘱，以提高疗效。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-58-1902.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-58-1904.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-58.html" action-type="chapterComment" class="comment"><i></i>黄帝内经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《黄帝内经》正文_第六十二篇 动输_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="黄帝内经,黄帝内经原文,黄帝内经阅读,第六十二篇 动输全文,佚名作品" />
+<meta name="description" content="黄帝内经原文阅读,第六十二篇 动输全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-58-1901.html";
+var nextpage="novel-read-58-1903.html";
+var indexpage = "novel-chapter-58.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-58.html">黄帝内经</a></strong>
+<strong><a href="novel-chapter-58.html">黄帝内经目录</a></strong>
+<span>第六十二篇 动输</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-58-1901.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第六十二篇 动输</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-07-29 22:30:17<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【题解】本篇主要论述了手太阴、足阳明和早小阳坯茸血输注的部位，及搏动不休的道理，以及三经与全身气血输注的关系，故篇名&quot;动输&quot;。<br/>　　【原文】黄帝日经脉十二，而手太阴、足少阴、阳明独动不休，何也?岐伯日是明胃脉也。胃为五脏六腑之海，其清气上注于肺，肺气从太阴而行之，其行也，以息往来，故人一呼脉再动，一吸脉亦再动，呼吸不已，故动而不止。<br/>　　黄帝日气之过于寸口也，上十焉息?下八焉伏何道从还?不知其极。岐伯日气之离脏也，卒然如弓弩之发，如水之下岸，上于鱼以反衰，其余气衰散以逆上，故其行微。<br/>　　黄帝日足之阳明何因而动?岐伯日胃气上注于肺，其悍气上冲头者，循咽，上走空窍，循眼系，入络脑，出颇[1]，下客主人，循牙车，合阳明，并下人迎，此胃气别走于阳明者也。故阴阳上下，其动也若一。故阳病而阳脉小者为逆，阴病而阴脉大者为逆。故阴阳俱静俱动若引绳，相倾者病。<br/>　　黄帝日足少阴何因而动?岐伯日冲脉者，十二经之海也，与少阴之大络，起于肾下，出于气街，循阴股内廉，邪入胭中，循胫骨内廉，并少阴之经，下入内踝之后，入足下，其别者，邪入踝，出属、跗上，入大指之间，注诸络，以温足胫，此脉之常动者也。<br/>　　黄帝日营卫之行也，上下相贯，如环之无端，今有其卒然遇邪气，及逢大寒，手足懈惰，其脉阴阳之道，相输之会，行相失也，气何由还?岐伯日夫四末阴阳之会者，此气之大络也，四街嗍者，气之径路也。故络绝则径通，四末解则气从合，相输如环。黄帝日善。此所谓如环无端，莫知其纪，终而复始，此之谓也。<br/>　　【提要】本篇主要论述了十二经脉中手太阴、足阳明和足少阴三经气血输注的部位、搏动不休的道理，以及三经与全身茸向给注的兰玄 ；不{皓明了若云行由漕{禺和与仔辅可自身调节流行的道理。<br/>　　【注释】[1]颇，音砍，俗称腮。<br/>　　[2]四街本文指头、胸、腹、胫四部的气街。<br/>　　【白话解】黄帝问在十二经脉中，为什么手太阴肺经、足少阴肾经、足阳明胃经这三条经脉搏动不止呢?岐伯答道足阳明胃脉与经脉搏动有密切关系，因为胃是五脏六腑的营养来源，胃中食物所化生的精微物质，上输于肺，气从手太阴肺经开始，循行于十二经脉。经脉的搏动，是依靠肺气的推动而发生的，所以，人一呼气脉跳动两次，一吸气脉也是跳动两次，呼吸不停止，脉搏的跳动也不停止。<br/>　　黄帝问脉气通过寸口时，它的上下搏动和具体运行是怎样的呢?岐伯答道脉气离开内脏而外行经脉时，像离弦之箭一样疾急，如冲决堤岸之洪水一样迅猛，开始时脉势是强盛的。当脉气上达鱼际后，就呈现由盛而衰的现象，这是因为脉气至此已经衰散，而且是上行的，所以它运行的气势就减弱了。<br/>　　黄帝问足阳明胃脉为什么搏动不止呢?岐伯答道因为胃气上注于肺，其中迅猛而傈悍之气上冲于头部，循咽而上走于孔窍，循眼系向内络循于脑，从脑出于面部，下行会于足少阳胆经的客主人穴，沿颊车合人足阳明经，再循经下行至结喉两旁的人迎穴。这就是胃气别出阳明而又合于阳明，使阳明脉搏动不休的原因。手太阴肺经上的寸口脉和足阳明胃经上的人迎脉，因阳明之气上下贯通，所以它们的跳动也是一致的。阳亢而阳明脉反小是逆象。阴衰而太阴脉大也是逆象。在正常情况下，脉气的阴阳动静，是内外相应的，因此，寸口脉和人迎脉应当相互协调，搏动的至数、力量等都应当一致。就像用一条绳索牵动两物一样，既联系又平衡，有一方偏盛而失去平衡就是病态。<br/>　　黄帝问足少阴肾经的动脉为何跳动不休呢?岐伯说足少阴脉的搏动，是因为与冲脉并行的原因。冲脉为十二经脉之海，它和足少阴的络脉，共同起于肾下，出于足阳明胃经的气冲穴，沿大腿内侧，向下斜行人于胭中，沿胫骨内侧，与足少阴经并行，下行进入于内踝之后，入于足下。其中又分出一条支脉，斜入内踝，再进入胫骨与跗骨相连的部位，经足背人大趾之间，最后进入络脉，发挥温养胫部和足部的作用，这便是足少阴经脉不停地跳动的原因。<br/>　　黄帝问道营气和卫气的运行，上下贯通，循环往返而不停息。若突然遇到邪气的侵袭，或受到严寒的刺激，外邪留滞四肢，使得手足懈惰无力。在正常情况下，营卫在经脉内外有规律地运行。若邪气滞留，营卫运行的通道和转输会合之处，因外邪阻滞而运行失常。如此营卫之气是如何往返循环的呢?岐伯回答说四肢末端是阴阳会合的地方，也是营卫之气循行的必经之路。邪气阻塞了小的络脉后，像四街这样的一些路径就能开通，营卫之气仍然能够运行。当四肢末端的邪气祛除后，各络脉又沟通如初，营卫之气又从这里转输会合，周而复始，循环不止。黄帝说好!通过上述阐释，对于如环无端，周而复始的道理，我更加明白了。<br/>　　【按语】本文特别指出胃为五脏六腑之海，为经脉搏动的根本来源。指出四末是阴阳经脉相合联络之处，四街是营卫之气循行必经之路，同时指出四街具有&quot;络绝则径通&quot;的代偿功能。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-58-1901.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-58-1903.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-58.html" action-type="chapterComment" class="comment"><i></i>黄帝内经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《二心集》正文_《进化和退化》小引 _鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="二心集,二心集原文,二心集阅读,《进化和退化》小引 全文,鲁迅作品" />
+<meta name="description" content="二心集原文阅读,《进化和退化》小引 全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-534-6717.html";
+var nextpage="novel-read-534-6719.html";
+var indexpage = "novel-chapter-534.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-534.html">二心集</a></strong>
+<strong><a href="novel-chapter-534.html">二心集目录</a></strong>
+<span>《进化和退化》小引 </span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-534-6717.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>《进化和退化》小引 </strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 20:57:43<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>这是译者从十年来所译的将近百篇的文字中，选出不很专门，大家可看之作，集在一处，希望流传较广的本子。一，以见最近的进化学说的情形，二，以见中国人将来的运命。<br/>　　进化学说之于中国，输入是颇早的，远在严复②的译述赫胥黎③《天演论》。但终于也不过留下一个空泛的名词，欧洲大战时代，又大为论客所误解，到了现在，连名目也奄奄一息了。其间学说几经迁流，兑佛黎斯④的突变说兴而又衰，兰麻克⑤的环境说废而复振，我们生息于自然中，而于此等自然大法的研究，大抵未尝加意。此书首尾的各两篇，即由新兰麻克主义⑥立论，可以窥见大概，略弥缺憾的。<br/>　　但最要紧的是末两篇⑦。沙漠之逐渐南徙，营养之已难支持，都是中国人极重要，极切身的问题，倘不解决，所得的将是一个灭亡的结局。可以解中国古史难以探索的原因，可以破中国人最能耐苦的谬说，还不过是副次的收获罢了。林木伐尽，水泽湮枯，将来的一滴水，将和血液等价，倘这事能为现在和将来的青年所记忆，那么，这书所得的酬报，也就非常之大了。<br/>　　然而自然科学的范围，所说就到这里为止，那给与的解答，也只是治水和造林。这是一看好像极简单，容易的事，其实却并不如此的。我可以引史沫得列⑧女士在《中国乡村生活断片》中的两段话作证——<br/><br/>　　　　　　“她（使女）说，明天她要到南苑⑨去运动狱吏释放<br/>　　　　她的亲属。这人，同六十个别的乡人，男女都有，在三月<br/>　　　　以前被捕和收监，因为当别的生活资料都没有了以后，他<br/>　　　　们曾经砍过树枝或剥过树皮。他们这样做，并非出于捣乱，<br/>　　　　只因为他们可以卖掉木头来买粮食。<br/>　　　　<br/>　　　　　　“……南苑的人民，没有收成，没有粮食，没有工做，<br/>　　　　就让有这两亩田又有什么用处？……一遇到些少的扰乱，<br/>　　　　就把整千的人投到灾民的队伍里去。……南苑在那时（军<br/>　　　　阀混战时）除了树木之外什么都没有了，当乡民一对着树<br/>　　　　木动手的时候，警察就把他们捉住并且监禁起来。”（《<br/>　　　　萌芽月刊》五期一七七页。）<br/><br/>　　所以这样的树木保护法，结果是增加剥树皮，掘草根的人民，反而促进沙漠的出现。但这书以自然科学为范围，所以没有顾及了。接着这自然科学所论的事实之后，更进一步地来加以解决的，则有社会科学在。<br/><br/>　　　　　　　　　　　　　　　　　　　　　　　　一九三○年五月五日。<br/>　======================================<br/><br/><br/>　　 《进化和退化》周建人辑译，收关于生物科学的文章八篇，一九三○年七月上海光华书局出版。本篇最初即印入该书。<br/>　　②严复（1853～1921）字又陵，又字几道，福建闽侯（今属福州）人，清末启蒙思想家、翻译家。一八九五年他译述赫胥黎的《进化论与伦理学及其他论文》的前两篇，于一八九八年以《天演论》为题出版。<br/>　　后来还译有英国亚当·斯密的《原富》、法国孟德斯鸠的《法意》等书，对当时中国思想界起过较大的影响。<br/>　　③赫胥黎（T．H．Huxley，1825～1895）英国生物学家，达尔文学说的积极支持者和宣传者。主要著作有《人类在自然界中的位置》、《动物学分类导论》和《进化论与伦理学》等。<br/>　　④兑佛黎斯（H．De Vries，1848～1935）通译德佛里斯，荷兰植物学家、遗传学家。他根据月见草的遗传试验结果，于一九○一年发表突变学说，认为生物的进化起因于突变。<br/>　　⑤兰麻克（J．B．Lamarck，1744～1829）通译拉马克，法国生物学家，生物进化论的先驱者。一八○九年他在《动物学哲学》一书中提出“直接顺应说”（即“环境说”），认为生物进化的主要原因是由于受环境的直接影响，器官用进废退，而后天获得的性状又可以遗传。它有力地反对了宗教的“神造论”和“物种不变论”，在科学上为达尔文学说的创立准备了条件。<br/>　　⑥新兰麻克主义　通译新拉马克主义，十九世纪末兴起的进化学说之一，由英国唯心主义哲学家斯宾塞（1820～1903）等人提出。它认为变异是定向的，生物通过获得性状的遗传而进化，否认自然选择在生物进化过程中的重要作用。<br/>　　⑦末两篇　指匈牙利英吉兰兑尔（A．L．Englaender）作《沙漠的起源，长大，及其侵入华北》；美国亚道尔夫（W．H．Adolph）作《中国营养和代谢作用的情形》。<br/>　　⑧史沫得列（A．Smedley，1890～1950）通译史沫特莱，美国革命女作家、记者。当时她是德国《佛兰克福日报》驻华记者，美国《新群众》杂志的特约撰稿人，旅居上海，和鲁迅有较密切的交往。著有自传体长篇小说《大地的女儿》和介绍朱德革命经历的报告文学《伟大的道路》等。<br/>　　⑨南苑北京南郊的地名。元代以后，曾为历代封建帝王的游猎场所。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-534-6717.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-534-6719.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-534.html" action-type="chapterComment" class="comment"><i></i>二心集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

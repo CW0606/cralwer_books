@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《尚书》正文_夏书·禹贡_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="尚书,尚书原文,尚书阅读,夏书·禹贡全文,佚名作品" />
+<meta name="description" content="尚书原文阅读,夏书·禹贡全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-28-417.html";
+var nextpage="novel-read-28-419.html";
+var indexpage = "novel-chapter-28.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-28.html">尚书</a></strong>
+<strong><a href="novel-chapter-28.html">尚书目录</a></strong>
+<span>夏书·禹贡</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-28-417.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>夏书·禹贡</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-07-19 12:17:20<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　禹别九州，随山浚川，任土作贡。禹敷土，随山刊木，奠高山大川。<br/>　　冀州：既载壶口，治梁及岐。既修太原，至于岳阳；覃怀厎绩，至于衡漳。<br/>　　厥土惟白壤，厥赋惟上上错，厥田惟中中。恒、卫既从，大陆既作。岛夷皮服，夹右碣石入于河。<br/>　　济河惟兖州。九河既道，雷夏既泽，灉、沮会同。桑土既蚕，是降丘宅土。<br/>　　厥土黑坟，厥草惟繇，厥木惟条。厥田惟中下，厥赋贞，作十有三载乃同。厥贡漆丝，厥篚织文。浮于济、漯，达于河。<br/>　　海岱惟青州。嵎夷既略，濰、淄其道。厥土白坟，海滨广斥。厥田惟上下，厥赋中上。厥贡盐絺，海物惟错。岱畎丝、枲、铅、松、怪石。莱夷作牧。厥篚檿丝。浮于汶，达于济。<br/>　　海、岱及淮惟徐州。淮、沂其乂，蒙、羽其艺，大野既猪，东原厎平。厥土赤埴坟，草木渐包。厥田惟上中，厥赋中中。厥贡惟土五色，羽畎夏翟，峄阳孤桐，泗滨浮磬，淮夷蠙珠暨鱼。厥篚玄纤、缟。浮于淮、泗，达于河。<br/>　　淮海惟扬州。彭蠡既猪，阳鸟攸居。三江既入，震泽厎定。筱簜既敷，厥草惟夭，厥木惟乔。厥土惟涂泥。厥田唯下下，厥赋下上，上错。厥贡惟金三品，瑶、琨筱、簜、齿、革、羽、毛惟木。岛夷卉服。厥篚织贝，厥包桔柚，锡贡。<br/>　　沿于江、海，达于淮、泗。<br/>　　荆及衡阳惟荆州。江、汉朝宗于海，九江孔殷，沱、潜既道，云土、梦作乂。<br/>　　厥土惟涂泥，厥田惟下中，厥赋上下。厥贡羽、毛、齿、革惟金三品，杶、榦、栝、柏，砺、砥、砮、丹惟菌簵、楛，三邦厎贡厥名。包匦菁茅，厥篚玄纁玑组，九江纳锡大龟。浮于江、沱、潜、汉，逾于洛，至于南河。<br/>　　荆河惟豫州。伊、洛、瀍、涧既入于河，荥波既猪。导菏泽，被孟猪。厥土惟壤，下土坟垆。厥田惟中上，厥赋错上中。厥贡漆、枲，絺、纻，厥篚纤、纩，锡贡磬错。浮于洛，达于河。<br/>　　华阳、黑水惟梁州。岷、嶓既艺，沱、潜既道。蔡、蒙旅平，和夷厎绩。厥土青黎，厥田惟下上，厥赋下中，三错。厥贡璆、铁、银、镂、砮磬、熊、罴、狐、狸、织皮，西倾因桓是来，浮于潜，逾于沔，入于渭，乱于河。<br/>　　黑水、西河惟雍州。弱水既西，泾属渭汭，漆沮既从，沣水攸同。荆、岐既旅，终南、惇物，至于鸟鼠。原隰厎绩，至于猪野。三危既宅，三苗丕叙。厥土惟黄壤，厥田惟上上，厥赋中下。厥贡惟球、琳、琅玕。浮于积石，至于龙门、西河，会于渭汭。织皮昆仑、析支、渠搜，西戎即叙。<br/>　　导岍及岐，至于荆山，逾于河；壶口、雷首至于太岳；厎柱、析城至于王屋；太行、恒山至于碣石，入于海。<br/>　　西倾、朱圉、鸟鼠至于太华；熊耳、外方、桐柏至于陪尾。<br/>　　导嶓冢，至于荆山；内方，至于大别。<br/>　　岷山之阳，至于衡山，过九江，至于敷浅原。<br/>　　导弱水，至于合黎，馀波入于流沙。<br/>　　导黑水，至于三危，入于南海。<br/>　　导河、积石，至于龙门；南至于华阴，东至于厎柱，又东至于孟津，东过洛汭，至于大伾；北过降水，至于大陆；又北，播为九河，同为逆河，入于海。<br/>　　嶓冢导漾，东流为汉，又东，为沧浪之水，过三澨，至于大别，南入于江。<br/>　　东，汇泽为彭蠡，东，为北江，入于海。<br/>　　岷山导江，东别为沱，又东至于澧；过九江，至于东陵，东迆北，会于汇；东为中江，入于海。<br/>　　导沇水，东流为济，入于河，溢为荥；东出于陶丘北，又东至于菏，又东北，会于汶，又北，东入于海。<br/>　　导淮自桐柏，东会于泗、沂，东入于海。<br/>　　导渭自鸟鼠同穴，东会于沣，又东会于泾，又东过漆沮，入于河。<br/>　　导洛自熊耳，东北，会于涧、瀍；又东，会于伊，又东北，入于河。<br/>　　九州攸同，四隩既宅，九山刊旅，九川涤源，九泽既陂，四海会同。六府孔修，庶土交正，厎慎财赋，咸则三壤成赋。中邦锡土、姓，祗台德先，不距朕行。<br/>　　五百里甸服：百里赋纳緫，二百里纳铚，三百里纳秸服，四百里粟，五百里米。<br/>　　五百里侯服：百里采，二百里男邦，三百里诸侯。<br/>　　五百里绥服：三百里揆文教，二百里奋武卫。<br/>　　五百里要服：三百里夷，二百里蔡。<br/>　　五百里荒服：三百里蛮，二百里流。<br/>　　东渐于海，西被于流沙，朔南暨声教讫于四海。禹锡玄圭，告厥成功。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-28-417.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-28-419.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-28.html" action-type="chapterComment" class="comment"><i></i>尚书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

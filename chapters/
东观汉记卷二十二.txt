@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《东观汉记校注》正文_东观汉记卷二十二_刘珍作品 - 维普阅读网</title>
+<meta name="keywords" content="东观汉记校注,东观汉记校注原文,东观汉记校注阅读,东观汉记卷二十二全文,刘珍作品" />
+<meta name="description" content="东观汉记校注原文阅读,东观汉记卷二十二全文在线阅读,刘珍作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-252-4000.html";
+var nextpage="novel-read-252-4002.html";
+var indexpage = "novel-chapter-252.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-252.html">东观汉记校注</a></strong>
+<strong><a href="novel-chapter-252.html">东观汉记校注目录</a></strong>
+<span>东观汉记卷二十二</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-252-4000.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>东观汉记卷二十二</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘珍&amp;searchsubmit=yes"  target="_blank">刘珍</a><span class="divide">|</span>发布时间：2014-08-26 20:38:34<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>散句〔一〕<br/><br/>　　主不稽古，无以承天。〔二〕书钞卷九<br/><br/>　　喜右学。〔三〕书钞卷一二<br/><br/>　　允恭玄默。书钞卷一五<br/><br/>　　保乐洽寿。书钞卷一五<br/><br/>　　四方乐业。书钞卷一五<br/><br/>　　吏民懽悦。〔四〕书钞卷一六<br/><br/>　　问三老。书钞卷一六<br/><br/>　　鸿胤奉统。书钞卷一七<br/><br/>　　赐及妻子。书钞卷一九<br/><br/>　　特赐御□。书钞卷一九<br/><br/>　　赐食于前。书钞卷一九<br/><br/>　　赐所乘骊马。书钞卷一九<br/><br/>　　感念沾襟。书钞卷一九<br/><br/>　　配乾作合。书钞卷二三<br/><br/>　　龟筮并从。书钞卷二三<br/><br/>　　内摄时政，外怀狄戎。书钞卷二三<br/><br/>　　婉匿慈孝。〔五〕书钞卷二四<br/><br/>　　内无忌克之心，不以旧恶介意。书钞卷二四<br/><br/>　　以匡主上。书钞卷二四<br/><br/>　　弘策授亲。书钞卷二四<br/><br/>　　有母仪之节。〔六〕书钞卷二四<br/><br/>　　婉顺慈孝，体性慈□。〔七〕书钞卷二四<br/><br/>　　躬执馈馔。书钞卷二四<br/><br/>　　亲奉定省，不避暑寒。书钞卷二四<br/><br/>　　不亲毉，〔八〕泣流离。书钞卷二四<br/><br/>　　哭声不绝，饮不入口。书钞卷二四<br/><br/>　　敬养尽于奉，存哀慎刑。〔九〕书钞卷二四<br/><br/>　　疏食骨立。〔一０〕书钞卷二四<br/><br/>　　素食竟期。书钞卷二四<br/><br/>　　□年白首，未尝不怆然泣涕。书钞卷二四<br/><br/>　　由礼。书钞卷二四<br/><br/>　　动与礼合。书钞卷二四<br/><br/>　　少而明达。书钞卷二五<br/><br/>　　聪叡天资。书钞卷二五<br/><br/>　　周密畏慎。书钞卷二五<br/><br/>　　原事得情。书钞卷二五<br/><br/>　　时有所问，对无遗失。书钞卷二五<br/><br/>　　有所不安，明陈其故。书钞卷二五<br/><br/>　　谦让日崇。〔一一〕书钞卷二五<br/><br/>　　膳不求珍。书钞卷二五<br/><br/>　　论寝彻旦。书钞卷二五<br/><br/>　　戟士收尚书。书钞卷二六<br/><br/>　　未曾私语。书钞卷二六<br/><br/>　　无令干乱吏治。〔一二〕书钞卷二六<br/><br/>　　外戚战慄，百寮肃然。书钞卷二六<br/><br/>　　听言视论，摘发其要。书钞卷二六<br/><br/>　　甲夜占书，丁夜尽笔。书钞卷二六<br/><br/>　　赐金盖车。〔一三〕书钞卷二六<br/><br/>　　容仪照曜绝异。〔一四〕书钞卷二六<br/><br/>　　令色卓绝。书钞卷二六<br/><br/>　　倾乱。书钞卷二六<br/><br/>　　徒居云台。〔一五〕书钞卷二六<br/><br/>　　丁明为大司马，〔一六〕颇害董贤宠，及丞相王嘉死，明甚怜之。上重贤，〔一七〕欲极其位，恨明如此，遂册免明，上印绶还第。〔一八〕书钞卷三二<br/><br/>　　止行过肃名赵李时铨不卒，陈义子问以旧事。〔一九〕书钞卷七七<br/><br/>　　少好黄老，常步担求师也。书钞卷九七<br/><br/>　　易于泰山之压鸡卵，轻于驷马之载鸿毛。书钞卷一一七<br/><br/>　　诏曰：「三辅皆好弹，一大老三官从旁举身曰：〔二０〕『噫嘻哉！』」〔二一〕书钞卷一二四<br/><br/>　　后汉有南宫、北宫、胡桃宫。〔二二〕初学记卷二四<br/><br/>　　霍光薨，赐绣被百领。〔二三〕聚珍本<br/><br/>　　大恩。六帖卷四八<br/><br/>　　诏书令功臣家各自记功状，〔二四〕不得自增加，以变时事。或自道先祖形貌表相，无益事实。复曰齿长一寸，龙颜虎口，奇毛异骨，形容极变，亦非诏书之所知也。御览卷三六三<br/><br/>　　杨雄好著书，而口吃不能剧谈。御览卷四六四<br/><br/>　　许皇后父广汉，为宦者丞。上官桀谋反时，广汉部索，其殿中庐有索长数尺可以缚人者数千枚，满一箧缄封。广汉索不得，他吏往得之。广汉坐论为鬼薪，输掖庭，后为暴室啬夫。〔二五〕御览卷七六六<br/><br/>　　蚁封穴户，大雨将至。海录碎事卷一<br/><br/>　　孝明皇帝九子，七王不载母氏。〔二六〕范晔后汉书卷五０孝明八王传李贤注<br/><br/>　　建武，光武年号也。永平，孝明年号也。〔二七〕文选卷一班固东都赋李善注<br/><br/>　　和帝年号永初。文选卷九曹昭东征赋李善注<br/><br/>　　太史官曰：栗骇蓬转，〔二八〕因遇际会。文选卷一０潘岳西征赋李善注<br/><br/>　　西巡，幸长安。司马相如上疏曰：「夫清道而后行，犹时有衔橛之变。」〔二九〕文选卷一０潘岳西征赋李善注<br/><br/>　　耕或为研。文选卷三八任昉为萧扬州荐士表李善注<br/><br/>　　北虏遣使和亲。文选卷四三丘迟与陈伯之书李善注<br/><br/>　　太史官曰：明主劳神，忠臣毕力。〔三０〕文选卷四九干宝晋纪总论李善注<br/><br/>　　诏曰：「吏安其职，民乐其业。」〔三一〕文选卷四九干宝晋纪总论李善注<br/><br/>　　使先登侦之，言虏欲去。〔三二〕文选卷五七潘岳马汧督诔李善注<br/><br/>　　元始元年，拜王舜为太保。〔三三〕姚本<br/><br/>　　铜马贼帅东山荒秃、上淮况等，大肜渠帅樊重，尤来渠帅樊崇，五校贼帅高扈，檀乡贼帅董次仲，五楼贼帅张文，富平贼帅徐少，获索贼帅古师郎等。〔三四〕范晔后汉书卷一光武帝纪李贤注<br/><br/>　　岸宾上议：〔三五〕「二千石皆以选出，刻符典千里。」杜工部草堂诗笺补遗卷二一将赴成都草堂途中有作先寄严郑公五首笺注<br/><br/>　　太尉张酺、郑洪、徐防、赵喜、随延、宠桓，并以日蚀免。〔三六〕书钞卷五一<br/><br/>　　侍御史、东平相格班。〔三七〕通鑑卷一八二胡三省注<br/><br/>　　终利恭。〔三八〕广韵卷一<br/><br/>　　虽夸譀，犹令人热。〔三九〕广韵卷四<br/><br/>　　〔一〕　「散句」，凡本书散文碎句，无篇可归者，皆编入本篇。<br/><br/>　　〔二〕　「无以承天」，此条至「感念沾襟」条，皆载书钞帝王部。<br/><br/>　　〔三〕　「右」，陈禹谟刻本书钞，严可均校明黑格抄本书钞作「古」，唐类函卷二五引亦作「古」。<br/><br/>　　〔四〕　「吏民懽悦」，唐类函卷二六引作「懽悦吏民」。<br/><br/>　　〔五〕　「婉匿慈孝」，此条至「有所不安，明陈其故」条，皆为书钞后妃部引「汉记」或「汉纪」中语。东观汉记，书钞中有时称「汉记」，有时亦称「汉纪」。书钞后妃部所称「汉记」或「汉纪」，当即指东观汉记。<br/><br/>　　〔六〕　「有母仪之节」，范晔后汉书光武郭皇后纪云：「光武郭皇后讳圣通，真定藁人也。为郡著姓。父昌，……娶真定恭王女，号郭主，生后及子况。郭主虽王家女，而好礼节俭，有母仪之德。」疑此句即出东观汉记光武郭皇后传。<br/><br/>　　〔七〕　「体性慈□」，脱文明正德戊寅抄本书钞作「爱」，路子复藏明抄本书钞作「惠」，唐类函卷二八引同。<br/><br/>　　〔八〕　「毉」，与「医」字同。<br/><br/>　　〔九〕　「敬养尽于奉，存哀慎刑」，此二句有讹误，无从引校。<br/><br/>　　〔一０〕「疏食骨立」，范晔后汉书和熹邓皇后纪云：「和熹邓皇后讳绥，太傅禹之孙也。父训，护羌校尉。……永元四年，当以选入，会训卒，后昼夜号泣，终三年不食盐菜，憔悴毁容，亲人不识之。」御览卷三七八引东观汉记云：「和熹邓后自遭大忧，及新野君仍丧，诸兄常悲伤思慕，羸瘦骨立，不能自胜。」此语与和熹邓皇后事相类。<br/><br/>　　〔一一〕「谦让日崇」，此条至「未曾私语」条皆在书钞后妃部。<br/><br/>　　〔一二〕「无令干乱吏治」，此条至「徒居云台」条，书钞后妃部引为「汉记」或「汉纪」中语。此「汉记」或「汉纪」，当即东观汉记。<br/><br/>　　〔一三〕「赐金盖车」，范晔后汉书和熹邓皇后纪载，和帝卒，殇帝立，尊邓皇后为太后。太后于和帝葬后，命赐周贵人、冯贵人王青盖车，不知与此是否为一事。<br/><br/>　　〔一四〕「容仪照曜绝异」，范晔后汉书和熹邓皇后纪云：「后长七尺二寸，姿颜殊丽，绝异于众，左右皆惊。」此句或出东观汉记和熹邓皇后传。<br/><br/>　　〔一五〕「徒居云台」，范晔后汉书桓思窦皇后纪载：桓帝卒，窦皇后为太后。「时太后父大将军武谋诛宦官，而中常侍曹节等矫诏杀武，迁太后于南宫云台，家属徒比景」。此句似为东观汉记桓思窦皇后传中语。<br/><br/>　　〔一六〕「丁明为大司马」，此句姚本、聚珍本作「丁明代傅喜为大司马」，唐类函卷六三引同。<br/><br/>　　〔一七〕「上重贤」，「上」字下姚本、聚珍本有「寖」字，唐类函卷六三引同。「寖」，益也。<br/><br/>　　〔一八〕「上印绶还第」，此条所载事见汉书佞幸董贤传，东观汉记当引及。<br/><br/>　　〔一九〕「陈义子问以旧事」，此条脱讹严重，无从校正。<br/><br/>　　〔二０〕「三官」，姚本、聚珍本皆无此二字，陈禹谟刻本书钞同。<br/><br/>　　〔二一〕「噫嘻哉」，此句姚本、聚珍本作「噫希哉」，陈禹谟刻本书钞同。聚珍本注云：「此见虞世南北堂书钞，未知何帝诏文。」<br/><br/>　　〔二二〕「后汉有南宫、北宫、胡桃宫」，东观汉记作者不得有「后汉」之语。此为后人据东观汉记追记后汉事。<br/><br/>　　〔二三〕「赐绣被百领」，聚珍本注云此条「见北堂书钞」。具体见于何卷，不详。<br/><br/>　　〔二四〕「诏书令功臣家各自记功状」，不知此为何帝诏书，范晔后汉书、袁宏后汉纪皆失载。从内容来看，此诏书可能出自东汉初期。<br/><br/>　　〔二五〕「后为暴室啬夫」，此条文字出汉书外戚孝宣许皇后传，东观汉记作者亦或引及。<br/><br/>　　〔二六〕「孝明皇帝九子，七王不载母氏」，此非东观汉记旧文，而是略述原书内容。范晔后汉书孝明八王传云：「孝明皇帝九子：贾贵人生章帝，阴贵人生梁节王畅，馀七王本书不载母氏。」李贤注云：「本书谓东观记也。」此二句即据李贤注，又参酌范书文句辑录。由于此二句不是东观汉记旧文，不便编于孝明八王传中，故置于散句篇，以供参考。<br/><br/>　　〔二七〕「孝明年号也」，此条与下条「和帝年号永初」，皆非东观汉记旧文，当是后人据东观汉记记事之语。<br/><br/>　　〔二八〕「栗骇」，原误作「票骇」，聚珍本尚不误，今据改正。高士奇天禄识馀云：「东观书曰『栗骇蓬转』，言栗房秋熟，惊跃而出也。」<br/><br/>　　〔二九〕「犹时有衔橛之变」，汉书司马相如传云：「尝从上至长杨猎，是时天子方好自击熊豕，驰逐野兽，相如因上疏谏。其辞曰：『……且夫清道而后行，中路而驰，犹时有衔橛之变。……』」颜师古注云：「橛谓车之钩心也。衔橛之变，言马衔或断，钩心或出，则致倾败以伤人也。」<br/><br/>　　〔三０〕「忠臣毕力」，此条文选卷一０潘岳西征赋李善注引作「太史曰：忠臣毕力」。<br/><br/>　　〔三一〕「民乐其业」，此不知为何帝诏文。<br/><br/>　　〔三二〕「言虏欲去」，此句下原有「然侦，廉视也」二句，当系李善注释之语，不是东观汉记中的文字，今删去。<br/><br/>　　〔三三〕「拜王舜为太保」，此条不知姚本从何书辑录。聚珍本据姚本辑录此条，并注云：「此见班书王莽传。舜，莽从弟。本书载此，当是徵引及之也。」<br/><br/>　　〔三四〕「获索贼帅古师郎等」，此条通鑑卷三九胡三省注亦引，文字全同。<br/><br/>　　〔三五〕「岸宾」，此二字有误。姚本、聚珍本皆不载岸宾之议。<br/><br/>　　〔三六〕「太尉张酺、郑洪、徐防、赵喜、随延、宠桓，并以日蚀免」，「郑洪」乃「郑弘」之讹，「赵喜」当作「赵熹」，「随延」乃「施延」之讹。张酺、郑弘、徐防、赵憙、施延为太尉，以日蚀免事已分别辑入各人传中。「宠桓」二字有误，疑当作「朱宠、桓焉」，据范晔后汉书顺帝纪，朱宠于永建元年为太尉，二年「秋七月甲戌朔，日有食之。壬午，太尉朱宠、司徒朱伥罢」。永和五年，桓焉为太尉，汉安元年「冬十月辛未，太尉桓焉、司徒刘寿免」。<br/><br/>　　〔三七〕「侍御史、东平相格班」，通鑑卷一八二胡三省注云：「姓苑：『格姓，允格之后。东观汉记有侍御史、东平相格班。』」此条即据胡三省注所引姓苑辑录。通鑑卷二０四胡三省注引姓谱，亦载「格姓」云云三句。又广韵卷五陌第二０「格」字下注云：「东观汉记有侍御史、东平相格班。」此条姚本、聚珍本皆未辑录。<br/><br/>　　〔三八〕「终利恭」，广韵卷一东第一「终」字下注云：「东观汉记有终利恭。」此条姚本、聚珍本皆未辑录。<br/><br/>　　〔三九〕「犹令人热」，广韵卷四阚第五四「譀」字下注云：「夸诞。东观汉记曰：『虽夸譀，犹令人热。』」此条姚本、聚珍本皆未辑录。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-252-4000.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-252-4002.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-252.html" action-type="chapterComment" class="comment"><i></i>东观汉记校注章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

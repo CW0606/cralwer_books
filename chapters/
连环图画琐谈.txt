@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《且介亭杂文》正文_连环图画琐谈_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="且介亭杂文,且介亭杂文原文,且介亭杂文阅读,连环图画琐谈全文,鲁迅作品" />
+<meta name="description" content="且介亭杂文原文阅读,连环图画琐谈全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-544-7299.html";
+var nextpage="novel-read-544-7301.html";
+var indexpage = "novel-chapter-544.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-544.html">且介亭杂文</a></strong>
+<strong><a href="novel-chapter-544.html">且介亭杂文目录</a></strong>
+<span>连环图画琐谈</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-544-7299.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>连环图画琐谈</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-02 22:08:31<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>“连环图画”的拥护者，看现在的议论，是“启蒙”之意居多的。 <br/><br/>　　古人“左图右史”，现在只剩下一句话，看不见真相了，宋元小说，有的是每页上图下说，却至今还有存留，就是所谓“出相”；明清以来，有卷头只画书中人物的，称为“绣像”。有画每回故事的，称为“全图”。那目的，大概是在诱引未读者的购读，增加阅读者的兴趣和理解。 <br/><br/>　　但民间另有一种《智灯难字》或《日用杂字》，是一字一像，两相对照，虽可看图，主意却在帮助识字的东西，略加变通，便是现在的《看图识字》。文字较多的是《圣谕像解》（２），《二十四孝图》（３）等，都是借图画以启蒙，又因中国文字太难，只得用图画来济文字之穷的产物。 <br/><br/>　　“连环图画”便是取“出相”的格式，收《智灯难字》的功效的，倘要启蒙，实在也是一种利器。 <br/><br/>　　但要启蒙，即必须能懂。懂的标准，当然不能俯就低能儿或白痴，但应该着眼于一般的大众，譬如罢，中国画是一向没有阴影的，我所遇见的农民，十之九不赞成西洋画及照相，他们说：人脸那有两边颜色不同的呢？西洋人的看画，是观者作为站在一定之处的，但中国的观者，却向不站在定点上，所以他说的话也是真实。那么，作“连环图画”而没有阴影，我以为是可以的；人物旁边写上名字，也可以的，甚至于表示做梦从人头上放出一道毫光来，也无所不可。观者懂得了内容之后，他就会自己删去帮助理解的记号。这也不能谓之失真，因为观者既经会得了内容，便是有了艺术上的真，倘必如实物之真，则人物只有二三寸，就不真了，而没有和地球一样大小的纸张，地球便无法绘画。 <br/><br/>　　艾思奇（４）先生说：“若能够触到大众真正的切身问题，那恐怕愈是新的，才愈能流行。”这话也并不错。不过要商量的是怎样才能够触到，触到之法，“懂”是最要紧的，而且能懂的图画，也可以仍然是艺术。 <br/><br/>　　五月九日。 <br/><br/>　　==========================================================================<br/><br/><br/>　　（１）本篇最初发表于一九三四年五月十一日《中华日报·动向》，署名燕客。 <br/><br/>　　（２）《圣谕像解》清代梁延年编，共二十卷。清康熙九年（１６７０）曾颁布“敦孝弟、笃宗族、和乡党、重农桑……”等“上谕”十六条，“以为化民成俗之本”。《圣谕像解》即根据这些“上谕”配图和解说的书。编者在序文中说：“摹绘古人事迹于上谕之下，并将原文附载其后……且粗为解说，使易通晓。” <br/><br/>　　（３）《二十四孝图》元代郭居敬辑录古代所传孝子二十四人的故事，编为《二十四孝》，后来的印本都配上图画，通称《二十四孝图》。 <br/><br/>　　（４）艾思奇（１９１０—１９６６）云南腾冲人，哲学家。他在发表于一九三四年五月六日《动向》的《连环图画还大有可为》中说：“我以为若有活生生的新内容新题材，则就要大胆地应用新的手法以求其尽可能的完善，大众是决不会不被吸引的，若能够触到大众真正的切身问题，那恐怕愈是新的，才愈能流行。艺术的可贵是在于能提高群众的认识，决不是要迎合他们俗流的错觉。” </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-544-7299.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-544-7301.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-544.html" action-type="chapterComment" class="comment"><i></i>且介亭杂文章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

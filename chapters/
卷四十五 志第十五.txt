@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《辽史》正文_卷四十五 志第十五_脱脱作品 - 维普阅读网</title>
+<meta name="keywords" content="辽史,辽史原文,辽史阅读,卷四十五 志第十五全文,脱脱作品" />
+<meta name="description" content="辽史原文阅读,卷四十五 志第十五全文在线阅读,脱脱作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1434-27531.html";
+var nextpage="novel-read-1434-27533.html";
+var indexpage = "novel-chapter-1434.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1434.html">辽史</a></strong>
+<strong><a href="novel-chapter-1434.html">辽史目录</a></strong>
+<span>卷四十五 志第十五</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1434-27531.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷四十五 志第十五</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=脱脱&amp;searchsubmit=yes"  target="_blank">脱脱</a><span class="divide">|</span>发布时间：2016-08-16 22:39:30<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>◎百官志一<br/><br/>　　官生于职，职沿于事，而名加之。后世沿名，不究其实。吏部，一太宰也，为大司徒，为尚书，为中书，为门下；兵部，一司马也，为大司马，为太尉，为枢密使。沿古官名，分今之职事以配之，于是先王统理天下之法，如治丝而棼，名实淆矣。契丹旧俗，事简职专，官制朴实，不以名乱之，其兴也勃焉。太祖神册六年，诏正班爵。至于太宗，兼制中国，官分南北，以国制治契丹，以汉制待汉人。国制简朴，汉制则沿名之风固存也。辽国官职，分北、南院，北面治宫帐、部族、属国之政，南面治汉人州县、租赋、军马之事。因俗而治，得其宜矣。<br/><br/>　　初，太祖分迭剌夷离堇为北、南二大王，谓之北、南院。宰相、枢密、宣徽、林牙，下至郎君、护卫，皆分北、南，其实所治皆北面之事，语辽官制者，可不辨。凡辽朝官，北枢密视兵部，南枢密视吏部，北、南二王视户部，夷离毕视刑部，宣徽视工部，敌烈麻都视礼部，北、南府宰相总之。惕隐治宗族，林牙修文告，于越坐而论议，以象公卿，朝廷之上。事简职专，此辽所以兴也。<br/><br/>　　北面上<br/><br/>　　北面朝官<br/><br/>　　契丹北枢密院。掌兵机、武铨、群牧之政，凡契丹军马皆属焉。以其牙帐居大内帐殿之北，故名北院。元好问所谓“北衙不理民”是也。<br/><br/>　　北院枢密使<br/><br/>　　知北院枢密使事<br/><br/>　　知枢密院事<br/><br/>　　北院枢密副使<br/><br/>　　知北院枢密副使事<br/><br/>　　同知北院枢密使事<br/><br/>　　签书北枢密院事<br/><br/>　　北院都承旨<br/><br/>　　北院副承旨<br/><br/>　　北院林牙<br/><br/>　　知北院贴黄<br/><br/>　　给事北院知圣旨头子事<br/><br/>　　掌北院头子<br/><br/>　　北枢密院敞史<br/><br/>　　北院郎君<br/><br/>　　北枢密院通事<br/><br/>　　北院掾史<br/><br/>　　北枢密院中丞司<br/><br/>　　北南枢密院点检中丞司事<br/><br/>　　总知中丞司事<br/><br/>　　北院左中丞<br/><br/>　　北院右中丞<br/><br/>　　同知中丞司事<br/><br/>　　北院侍御<br/><br/>　　契丹南枢密院。掌文铨、部族、丁赋之政，凡契丹人民皆属焉。以其牙帐居大内之南，故名南院。元好问所谓“南衙不主兵”是也。<br/><br/>　　南院枢密使<br/><br/>　　知南院枢密使事<br/><br/>　　知南院枢密事<br/><br/>　　南院枢密副使<br/><br/>　　知南院枢密副使事<br/><br/>　　同知南院枢密使事<br/><br/>　　签书南枢密院事<br/><br/>　　南院都承旨<br/><br/>　　南院副承旨<br/><br/>　　南院林牙<br/><br/>　　知南院贴黄<br/><br/>　　给事南院知圣旨头子事<br/><br/>　　掌南院头子<br/><br/>　　南枢密院敞史<br/><br/>　　南院郎君<br/><br/>　　南枢密院通事<br/><br/>　　南院掾史<br/><br/>　　南枢密院中丞司<br/><br/>　　北南枢密院点检中丞司事<br/><br/>　　总知中丞司事<br/><br/>　　南院左中丞<br/><br/>　　南院右中丞<br/><br/>　　同知中丞司事<br/><br/>　　南院侍御<br/><br/>　　北宰相府。掌佐理军国之大政，皇族四帐世预其选。<br/><br/>　　北府左宰相<br/><br/>　　北府右宰相<br/><br/>　　总知军国事<br/><br/>　　知国事<br/><br/>　　南宰相府。掌佐理军国之大政，国舅五帐世预其选。<br/><br/>　　南府左宰相<br/><br/>　　南府右宰相<br/><br/>　　总知军国事<br/><br/>　　知国事<br/><br/>　　北大王院。分掌部族军民之政。<br/><br/>　　北院大王。初名迭剌部夷离堇，太祖分北、南院，太宗会同元年改夷离堇为大王。<br/><br/>　　知北院大王事<br/><br/>　　北院大师<br/><br/>　　北院太保<br/><br/>　　北院司徒<br/><br/>　　北院司空<br/><br/>　　北院郎君<br/><br/>　　北院都统军司。掌北院从军之政令。<br/><br/>　　北院统军使<br/><br/>　　北院副统军使<br/><br/>　　北院统军都监<br/><br/>　　北院详稳司。掌北院部族军马之政令。<br/><br/>　　北院详稳<br/><br/>　　北院都监<br/><br/>　　北院将军<br/><br/>　　北院小将军<br/><br/>　　北院都部署司。掌北院部族军民之事。<br/><br/>　　北院都部署<br/><br/>　　北院副部署<br/><br/>　　南大王院。分掌部族军民之政。<br/><br/>　　南院大王<br/><br/>　　知南院大王事<br/><br/>　　南院太师<br/><br/>　　南院太保。天庆八年，省南院太保。<br/><br/>　　南院司徒<br/><br/>　　南院司空<br/><br/>　　南院郎君<br/><br/>　　南院都统军司。掌南院从军之政令。<br/><br/>　　南院统军使<br/><br/>　　南院副统军使<br/><br/>　　南院统军都监<br/><br/>　　南院详稳司。掌南院部族军马之政令。<br/><br/>　　南院详稳<br/><br/>　　南院都监<br/><br/>　　南院将军<br/><br/>　　南院小将军<br/><br/>　　南院都部署司。掌南院部族军民之事。<br/><br/>　　南院都部署<br/><br/>　　南院副部署<br/><br/>　　宣徽北院。太宗会同元年置，掌北院御前祗应之事。<br/><br/>　　北院宣徽使<br/><br/>　　知北院宣徽事<br/><br/>　　北院宣徽副使<br/><br/>　　同知北院宣徽事<br/><br/>　　宣徽南院。会同元年置，掌南院御前祗应之事。<br/><br/>　　南院宣徽使<br/><br/>　　知南院宣徽事<br/><br/>　　南院宣徽副使<br/><br/>　　同知南院宣徽事<br/><br/>　　大于越府。无职掌，班百僚之上，非有大功德者不授，辽国尊官，犹南面之有三公。太祖以遥辇氏于越受禅。终辽之世，以于越得重名者三人：耶律曷鲁、屋质、仁先，谓之三于越。<br/><br/>　　大于越<br/><br/>　　大惕隐司。太祖置，掌皇族之政教。兴宗重熙二十一年，耶律义先拜惕隐，戒族人曰：“国家三父房最为贵族，凡天下风化之所自出，不孝不义，虽小不可为。”其妻晋国长公主之女，每见中表，必具礼服。义先以身率先，国族化之。辽国设官之实，于此可见。太祖有国，首设此官，其后百官择人，必先宗姓。<br/><br/>　　惕隐。亦曰梯里己。<br/><br/>　　知惕隐司事<br/><br/>　　惕隐都监<br/><br/>　　夷离毕院。掌刑狱。<br/><br/>　　夷离毕<br/><br/>　　左夷离毕<br/><br/>　　右夷离毕<br/><br/>　　知左夷离毕事<br/><br/>　　知右夷离毕事<br/><br/>　　敞史<br/><br/>　　选底。掌狱。<br/><br/>　　大林牙院。掌文翰之事。<br/><br/>　　北面都林牙<br/><br/>　　北面林牙承旨<br/><br/>　　北面林牙<br/><br/>　　左林牙<br/><br/>　　右林牙<br/><br/>　　敌烈麻都司。掌礼仪。<br/><br/>　　敌烈麻都<br/><br/>　　总知朝廷礼仪<br/><br/>　　总礼仪事<br/><br/>　　文班司。所掌未详。<br/><br/>　　文班太保<br/><br/>　　文班林牙<br/><br/>　　文班牙署<br/><br/>　　文班吏<br/><br/>　　阿札割只。所掌未详。遥辇故官，后并枢密院。<br/><br/>　　阿札割只<br/><br/>　　北面御帐官<br/><br/>　　三皇，圣人也，当淳朴之世，重门击柝，犹严于待暴客。辽之先世，未有城郭、沟池、宫室之固，毡车为营，硬寨为宫，御帐之官不得不谨。出于贵戚为侍卫，著帐为近侍，北南部族为护卫，武臣为宿卫，亲军为禁卫，百官番宿为宿直。奉宸以司供御，三班以肃会朝，硬寨以严晨夜。法制可谓严密矣。考其凡如左。<br/><br/>　　侍卫司。掌御帐亲卫之事。<br/><br/>　　侍卫太师<br/><br/>　　侍卫太保<br/><br/>　　侍卫司徒<br/><br/>　　侍卫司空<br/><br/>　　侍卫<br/><br/>　　近侍局<br/><br/>　　近侍直长<br/><br/>　　近侍<br/><br/>　　近侍小底<br/><br/>　　近侍详稳司<br/><br/>　　近侍详稳<br/><br/>　　近侍都监<br/><br/>　　近侍将军<br/><br/>　　近侍小将军<br/><br/>　　北护卫府。掌北院护卫之事。皇太后宫有左右护卫。<br/><br/>　　北护卫太师<br/><br/>　　北护卫太保<br/><br/>　　北护卫司徒<br/><br/>　　总领左右护卫司<br/><br/>　　总领左右护卫<br/><br/>　　左护卫司<br/><br/>　　左护卫太保<br/><br/>　　左护卫<br/><br/>　　右护卫司<br/><br/>　　右护卫太保<br/><br/>　　右护卫<br/><br/>　　南护卫府。掌南院护卫之事。<br/><br/>　　南护卫太师<br/><br/>　　南护卫太保<br/><br/>　　南护卫司徒<br/><br/>　　总领左右护卫司<br/><br/>　　总领左右护卫<br/><br/>　　左护卫司<br/><br/>　　左护卫太保<br/><br/>　　左护卫<br/><br/>　　右护卫司<br/><br/>　　右护卫太保<br/><br/>　　右护卫<br/><br/>　　奉宸司。掌供奉宸御之事。<br/><br/>　　官名未详<br/><br/>　　奉宸<br/><br/>　　三班院。掌左、右、寄班之事。<br/><br/>　　左班都知<br/><br/>　　右班都知<br/><br/>　　寄班都知<br/><br/>　　三班院祗候<br/><br/>　　宿卫司。专掌宿卫之事<br/><br/>　　总宿卫事。亦曰典宿卫事<br/><br/>　　总知宿卫事<br/><br/>　　同掌宿卫事<br/><br/>　　宿卫官<br/><br/>　　禁卫局<br/><br/>　　总禁卫事<br/><br/>　　禁卫长<br/><br/>　　宿直司。掌轮直官员宿直之事。皇太后宫有宿直官。<br/><br/>　　宿直详稳<br/><br/>　　宿直都监<br/><br/>　　宿直将军<br/><br/>　　宿直小将军<br/><br/>　　宿直官<br/><br/>　　宿直护卫。<br/><br/>　　硬寨司。掌禁围枪寨、下铺、传铃之事。<br/><br/>　　硬寨太保<br/><br/>　　皇太子惕隐司。掌皇太子宫帐之事。<br/><br/>　　皇太子惕隐<br/><br/>　　北面著帐官<br/><br/>　　古者刑人不在君侧。叛逆家属没为著帐，执事禁卫，可为寒心。此辽世所以多变起肘掖欤！<br/><br/>　　著帐郎君院。遥辇痕德堇可汗以蒲古只等三族害于越室鲁，家属没入瓦里。应天皇太后知国政，析出之，以为著帐郎君、娘子，每加矜恤。世宗悉免之。其后内族、外戚及世官之家犯罪者，皆没入瓦里。人户益众，因复故名。皇太后、皇太妃帐，皆有著帐诸局。<br/><br/>　　著帐郎君节度使<br/><br/>　　著帐郎君司徒<br/><br/>　　祗候郎君班详稳司<br/><br/>　　祗候郎君班详稳<br/><br/>　　祗候郎君直长<br/><br/>　　祗候郎君闸撒狘<br/><br/>　　祗候郎君<br/><br/>　　祗候郎君拽刺<br/><br/>　　左祗候郎君班详稳司<br/><br/>　　左祗候郎君班详稳<br/><br/>　　左祗候郎君直长<br/><br/>　　左祗候郎君闸撒狘<br/><br/>　　左祗候郎君<br/><br/>　　左祗候郎君拽剌<br/><br/>　　右祗候郎君班详稳司<br/><br/>　　右祗候郎君班详稳<br/><br/>　　右祗候郎君直长<br/><br/>　　右祗候郎君闸撒狘<br/><br/>　　右祗候郎君<br/><br/>　　右祗候郎君拽剌<br/><br/>　　笔砚局<br/><br/>　　笔砚祗候郎君<br/><br/>　　笔砚吏<br/><br/>　　牌印局<br/><br/>　　牌印郎君<br/><br/>　　裀褥局<br/><br/>　　裀褥郎君<br/><br/>　　灯烛局<br/><br/>　　灯烛郎君<br/><br/>　　床幔局<br/><br/>　　床幔郎君<br/><br/>　　殿幄局<br/><br/>　　殿幄郎君<br/><br/>　　车舆局<br/><br/>　　车舆郎君<br/><br/>　　御盏局<br/><br/>　　御盏郎君<br/><br/>　　本班局<br/><br/>　　本班郎君<br/><br/>　　皇太后祗应司<br/><br/>　　领皇太后诸局事<br/><br/>　　知皇太后宫诸司事<br/><br/>　　皇太妃祗应司<br/><br/>　　皇后祗应司<br/><br/>　　近位祗应司<br/><br/>　　皇太子祗应司<br/><br/>　　亲王祗应司<br/><br/>　　著帐户司。本诸斡鲁朵户析出，及诸色人犯罪没入。凡御帐、皇太后、皇太妃、皇后、皇太子、近位、亲王祗从、伶官，皆充其役。<br/><br/>　　著帐节度使<br/><br/>　　著帐殿中<br/><br/>　　承应小底局<br/><br/>　　笔砚小底<br/><br/>　　寝殿小底<br/><br/>　　佛殿小底<br/><br/>　　司藏小底<br/><br/>　　习马小底<br/><br/>　　鹰坊小底<br/><br/>　　汤药小底<br/><br/>　　尚饮小底<br/><br/>　　盥漱小底<br/><br/>　　尚膳小底<br/><br/>　　尚衣小底<br/><br/>　　裁造小底<br/><br/>　　北面皇族帐官<br/><br/>　　肃祖长子洽昚之族在五院司，叔子葛剌、季子洽礼及懿祖仲子帖剌、季子褭古直之族皆在六院司。此五房者，谓之二院皇族。玄祖伯子麻鲁无后，次子岩木之后曰孟父房；叔子释鲁曰仲父房；季子为德祖，德祖之元子是为太祖天皇帝，谓之横帐；次曰剌葛，曰迭剌，曰寅底石，曰安端，曰苏，皆曰季父房。此一帐三房，谓之四帐皇族。二院治之以北、南二王，四帐治之以大内惕隐，皆统于大惕隐司<br/><br/>　　大内惕隐司。掌皇族四帐之政教。<br/><br/>　　大内惕隐<br/><br/>　　知大内惕隐事<br/><br/>　　大内惕隐都监<br/><br/>　　大横帐常衮司。掌太祖皇帝后九帐皇族之事。<br/><br/>　　横帐常衮。亦曰横帐敞稳。<br/><br/>　　横帐太师<br/><br/>　　横帐太保<br/><br/>　　横帐司空<br/><br/>　　横帐郎君<br/><br/>　　横帐知事<br/><br/>　　孟父族帐常衮司。掌蜀国王岩木房族之事。<br/><br/>　　仲父族帐常衮司。掌隋国王释鲁房族之事。<br/><br/>　　季父族帐常衮司。掌德祖皇帝三房族之事。<br/><br/>　　四帐都详稳司。掌四帐军马之事。<br/><br/>　　都详稳<br/><br/>　　都监<br/><br/>　　将军。本名敞史。<br/><br/>　　小将军<br/><br/>　　横帐详稳司<br/><br/>　　孟父帐详稳司<br/><br/>　　仲父帐详稳司<br/><br/>　　季父帐详稳司<br/><br/>　　舍利司。掌皇族之军政。<br/><br/>　　舍利详稳<br/><br/>　　舍利都监<br/><br/>　　舍利将军<br/><br/>　　舍利小将军<br/><br/>　　舍利<br/><br/>　　梅里<br/><br/>　　亲王国。官制未详。<br/><br/>　　王府近侍<br/><br/>　　王府祗候<br/><br/>　　大东丹国中台省。太祖天显元年置，乾亨四年圣宗省。<br/><br/>　　左大相<br/><br/>　　右大相<br/><br/>　　左次相<br/><br/>　　右次相<br/><br/>　　王子院。掌王子各帐之事。<br/><br/>　　王子太师<br/><br/>　　王子太保<br/><br/>　　王子司徒<br/><br/>　　王子司空<br/><br/>　　王子班郎君<br/><br/>　　驸马都尉府。掌公主帐宅之事。<br/><br/>　　驸马都尉<br/><br/>　　北面诸帐官<br/><br/>　　辽太祖有帝王之度者三：代遥辇氏，尊九帐于御营之上，一也；灭渤海国，存其族帐，亚于遥辇，二也；并奚王之众，抚其帐部，拟于国族，三也。有英雄之智者三：任国舅以耦皇族，崇乙室以抗奚王，列二院以制遥辇是已。观北面诸帐官，可以见之矣。遥辇九帐大常衮司。掌遥辇洼可汗、阻午可汗、胡剌可汗、苏可汗、鲜质可汗、昭古可汗、耶澜可汗、巴剌可汗、痕德堇可汗九世宫分之事。太祖受位于遥辇，以九帐居皇族一帐之上，设常衮司以奉之，有司不与焉。凡辽十二宫、五京，皆太祖以来征讨所得，非受之于遥辇也。其待先世之厚，蔑以加矣。辽俗东向而尚左，御帐东向，遥辇九帐南向，皇族三父帐北向。东西为经，南北为纬，故谓御营为横帐云。<br/><br/>　　大常衮。亦曰敞稳。<br/><br/>　　遥辇太师<br/><br/>　　遥辇太保<br/><br/>　　遥辇太尉<br/><br/>　　遥辇司徒<br/><br/>　　遥辇司空<br/><br/>　　遥辇侍中，一作世烛。太宗会同元年置。<br/><br/>　　敞史<br/><br/>　　知事<br/><br/>　　遥辇帐节度使司<br/><br/>　　节度使<br/><br/>　　节度副使<br/><br/>　　遥辇糺详稳司<br/><br/>　　遥辇糺详稳<br/><br/>　　遥辇糺都监<br/><br/>　　遥辇糺将军<br/><br/>　　遥辇糺小将军<br/><br/>　　遥辇克。官名未详。<br/><br/>　　大国舅司。掌国舅乙室已、拔里二帐之事。太宗天显十年，合皇太后二帐为国舅司；圣宗开泰三年，又并乙室已、拔里二司为一帐。<br/><br/>　　乙室已国舅大翁帐常衮。一作敞稳。<br/><br/>　　乙室已国舅小翁帐常衮<br/><br/>　　拔里国舅大父帐常衮<br/><br/>　　拔里国舅少父帐常衮<br/><br/>　　国舅太师<br/><br/>　　国舅太保<br/><br/>　　国舅太尉<br/><br/>　　国舅司徒<br/><br/>　　国舅司空<br/><br/>　　敞史。太宗会同元年，改郎君为敞史。<br/><br/>　　知事<br/><br/>　　国舅乙室已大翁帐详稳司<br/><br/>　　国舅详稳<br/><br/>　　国舅都监<br/><br/>　　国舅本族将军<br/><br/>　　国舅本族小将军。兴宗重熙五年，枢密院奏，国舅乙室已小翁帐敞史，准大横帐及国舅二父帐，改为将军。<br/><br/>　　国舅乙室已小翁帐详稳司<br/><br/>　　国舅拔里大父帐详稳司<br/><br/>　　国舅拔里少父帐详稳司<br/><br/>　　国舅夷离毕司<br/><br/>　　国舅夷离毕<br/><br/>　　国舅左夷离毕<br/><br/>　　国舅右夷离毕<br/><br/>　　敞史<br/><br/>　　国舅帐克<br/><br/>　　国舅别部。世宗置。<br/><br/>　　官制未详。<br/><br/>　　国舅别部敞史。圣宗太平八年，见国舅别部敞史萧塔葛。<br/><br/>　　渤海帐司。官制未详。<br/><br/>　　渤海宰相<br/><br/>　　渤海太保<br/><br/>　　渤海挞马<br/><br/>　　渤海近侍详稳司<br/><br/>　　奚王府<br/><br/>　　乙室王府。并见部族官。<br/><br/>　　北面宫官<br/><br/>　　辽建诸宫斡鲁朵，部族、蕃户，统以北面宫官。具如左。<br/><br/>　　诸行宫都部署院。总契丹汉人诸行宫之事。<br/><br/>　　诸行宫都部署<br/><br/>　　知行宫诸部署司事<br/><br/>　　诸行宫副部署<br/><br/>　　诸行宫判官<br/><br/>　　契丹行宫都部署司。总行在行军诸斡鲁朵之政令。<br/><br/>　　契丹行宫都部署<br/><br/>　　知契丹行宫都部署事<br/><br/>　　契丹行宫副部署<br/><br/>　　契丹行宫判官<br/><br/>　　行宫诸部署司。掌行在诸宫之政令。<br/><br/>　　行宫都部署<br/><br/>　　行宫副部署<br/><br/>　　行宫部署判官<br/><br/>　　十二宫职名总目：<br/><br/>　　某宫<br/><br/>　　某宫使<br/><br/>　　某宫副使<br/><br/>　　某宫太师<br/><br/>　　某宫太保<br/><br/>　　某宫侍中。太宗会同元年置，亦曰世烛。<br/><br/>　　某宫都部署司。掌本宫契丹军民之事。<br/><br/>　　某宫都部署<br/><br/>　　某宫副部署<br/><br/>　　某宫判官<br/><br/>　　某宫提辖司。官制未详。<br/><br/>　　某宫马群司<br/><br/>　　侍中<br/><br/>　　敞史<br/><br/>　　某石烈。石烈，县也。<br/><br/>　　夷离堇。本名弥里马特本，改辛衮，会同元年升。<br/><br/>　　麻普。本名达剌干，会同元年改。<br/><br/>　　牙书。会同元年置。<br/><br/>　　某瓦里。内族、外戚、世官犯罪，没入瓦里。<br/><br/>　　抹鹘<br/><br/>　　某抹里<br/><br/>　　闸撒狘<br/><br/>　　某得里，官名未详。<br/><br/>　　太祖弘义宫<br/><br/>　　太宗永兴宫<br/><br/>　　世宗积庆宫<br/><br/>　　应天皇太后长宁宫<br/><br/>　　穆宗延昌宫<br/><br/>　　景宗彰愍宫<br/><br/>　　承天皇太后崇德宫<br/><br/>　　圣宗兴圣宫<br/><br/>　　兴宗延庆宫<br/><br/>　　道宗太和宫<br/><br/>　　天祚永昌宫<br/><br/>　　孝文皇太弟敦睦宫<br/><br/>　　文忠王府<br/><br/>　　已上十二宫一府，都署、提辖、石烈、瓦里、抹里、得里等，并见《营卫志》。<br/><br/>　　押行宫辎重夷离毕司。掌诸宫巡幸扈从辎重之事。<br/><br/>　　夷离毕<br/><br/>　　敞史</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1434-27531.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1434-27533.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1434.html" action-type="chapterComment" class="comment"><i></i>辽史章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

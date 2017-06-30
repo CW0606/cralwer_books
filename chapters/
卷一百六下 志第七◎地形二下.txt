@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《魏书》正文_卷一百六下 志第七◎地形二下_魏收作品 - 维普阅读网</title>
+<meta name="keywords" content="魏书,魏书原文,魏书阅读,卷一百六下 志第七◎地形二下全文,魏收作品" />
+<meta name="description" content="魏书原文阅读,卷一百六下 志第七◎地形二下全文在线阅读,魏收作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-657-8376.html";
+var nextpage="novel-read-657-8378.html";
+var indexpage = "novel-chapter-657.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-657.html">魏书</a></strong>
+<strong><a href="novel-chapter-657.html">魏书目录</a></strong>
+<span>卷一百六下 志第七◎地形二下</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-657-8376.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷一百六下 志第七◎地形二下</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=魏收&amp;searchsubmit=yes"  target="_blank">魏收</a><span class="divide">|</span>发布时间：2014-10-19 20:21:05<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　雍州(汉改曰凉，治汉阳郡陇县，后治长安。)<br/><br/>　　领郡五 县三十一<br/><br/>　　京兆郡(秦为内史，汉高帝为渭南郡，武帝为京兆尹，后汉因之，属司隶，魏改属。)<br/><br/>　　领县八<br/><br/>　　长安(汉高帝置，二汉、晋属。有昆明池、周灵台、镐池、彪池水。)杜(二汉、晋属。二汉曰杜陵，晋曰杜城，后改。)鄠(二汉属右扶风，晋属始平，真君七年分属。丰水出焉。)山北(有风凉原。有苦谷，浐水出焉。有杜城。)新丰(汉高帝置，二汉、晋属。有骊山、戏亭、首谷水。) 霸城(郡治。二汉曰霸陵，晋改属。有轵道亭、长门亭、灞水、温泉、安昌陂。)阴盘(二汉属安定，晋属。真君七年并新丰，太和十一年复。有鸿门亭、灵谷水、戏水。)蓝田(二汉、晋属，真君七年并霸城，太和十一年复。有白鹿原。)<br/><br/>　　冯翊郡(故秦内史，汉高帝二年更名河上郡，九年复为内史，武帝为左内史，后为左冯翊，后改。)<br/><br/>　　领县六<br/><br/>　　高陆(郡治。二汉曰高陵，属。晋属京兆，魏明帝改属。有薄水。)频阳(秦置，二汉、晋属。有广武城、南卤原、盐池。)万年(汉高帝置，二汉、晋属京兆，后属。有漆沮水。)莲芍(二汉、晋属。有据城、下封城。)广阳(景明元年置。)鄣(太和二十二年置。)<br/><br/>　　扶风郡(故秦内史，汉高帝二年更名为中地郡，九年复为内史，武帝为右内史，太初中更名主爵都尉，为右扶风，后改。世祖真君年中并始平郡属焉。)<br/><br/>　　领县五<br/><br/>　　好畤(郡治。前汉属，后汉、晋罢，后复。有武都城。)始平(魏置，晋属始平。有温泉、新市城。)美阳槐里(二汉、晋属始平，周曰犬丘，秦更名废丘，汉高帝改。有板桥泉。)盩厔(汉武帝置，属。后汉、晋罢，后复，真君七年并武功属焉)咸阳郡<br/><br/>　　领县五<br/><br/>　　石安(石勒置。秦孝公筑渭城，名咸阳宫。有四皓祠、安陵城、杜鄠亭、窦氏泉、周文王祠。)池阳(郡治。二汉属左冯翊，晋属扶风，后属。有郑白渠。)灵武(前汉属北地，后汉罢，晋复，真君七年分属焉。)宁夷(有甘泉、九�山。)泾阳(真君七年并石安，景明二年复属。)<br/><br/>　　北地郡(魏文帝冯翊之礻殳祤置。)<br/><br/>　　领县七<br/><br/>　　富平(真君八年罢泥阳、弋居属焉。有北地城、汉武帝祠。)泥阳(二汉、晋属。真君七年并富平，景明元年复。有慈城山。)弋居(二汉属。晋罢，后复。真君七年并富平，后复。)云阳(二汉属左冯翊，晋罢，后复属。有蒲池水、云阳宫。)铜官(真君七年置。有关山、石盘山。)土门(景明元年置。有土门山。)宜君(真君七年置。有宜君水。)<br/><br/>　　岐州(太和十一年置。治雍城镇。)<br/><br/>　　领郡三 县八<br/><br/>　　平秦郡(太延二年置。)<br/><br/>　　领县三<br/><br/>　　雍(二汉、晋属右扶风，后属。有周城。)周城(真君六年置。)横水(真君十年分周城置。)<br/><br/>　　武都郡(太延年置。)<br/><br/>　　领县三<br/><br/>　　平阳(真君六年置，有新谷、五丈原、郿坞。)南田 高车<br/><br/>　　武功郡(太和十一年分扶风置。)<br/><br/>　　领县二<br/><br/>　　美阳(二汉、晋属扶风，真君七年罢郡属焉。后属。有岐山、太白山、美原庙、骆谷、邵亭。)汉西(太和十一年分好畤置。有梁山、武都城。)<br/><br/>　　秦州(治上封城。)<br/><br/>　　领郡三 县十二<br/><br/>　　天水郡(汉武帝置，后汉明帝改为汉阳郡，晋复。)<br/><br/>　　领县五<br/><br/>　　上封(前汉属陇西，后汉属汉阳，晋属。犯太祖讳改。有席水。)显新(后汉属汉阳，晋属，真君八年并安夷，后属。)<br/><br/>　　平泉 当亭(真君八年置。)<br/><br/>　　略阳郡(晋武帝分天水置。)<br/><br/>　　领县五<br/><br/>　　安戎(前汉曰戎邑，属天水，后汉、晋罢，后改属。有董城。)绵诸(前汉属天水，后汉、晋罢，后复属。有榆亭。)陇城(前汉属天水，后汉属汉阳，晋罢，后复属。有陇城、略阳城。)清水(前汉属天水，后汉罢，晋复属。)阿阳(前汉属天水，后属汉阳，晋罢，太和十一年复属。)<br/><br/>　　汉阳郡(真君七年分天水置。)<br/><br/>　　领县三<br/><br/>　　黄瓜(真君八年置。有始昌城。)阳廉(有邓松山。)阶陵<br/><br/>　　南秦州(真君七年置仇池镇，太和十二年为渠州，正始初置。治洛谷城。)<br/><br/>　　领郡六 县十八<br/><br/>　　天水郡(真君七年置。)<br/><br/>　　领县三<br/><br/>　　水南(郡治。真君二年置。)平泉(真君三年置。)平原<br/><br/>　　汉阳郡(真君五年置。)<br/><br/>　　领县二<br/><br/>　　谷泉 兰仓(郡治。真君三年置。有雷牛山、黄帝洞。)<br/><br/>　　武都郡(汉武帝置。)<br/><br/>　　领县四<br/><br/>　　石门(郡治。真君九年置。有羌道城。)白水(真君九年置郡，后改。)东平(真君姝年置。)孔提<br/><br/>　　武阶郡<br/><br/>　　领县三<br/><br/>　　北部 南五部(太和四年置郡，后改。)赤万(太和四年置郡，后改。)<br/><br/>　　脩城郡<br/><br/>　　领县四<br/><br/>　　平洛(太和四年置。)柏树(太和八年置。)下辨(二汉、晋属武都郡，太和四年分属焉)广长(郡治。太和四年置。)<br/><br/>　　仇池郡<br/><br/>　　领县二<br/><br/>　　阶陵(真君四年置。有牛头山。)苍泉(太和四年置。)<br/><br/>　　南岐州<br/><br/>　　领郡三<br/><br/>　　固道郡(延兴四年置。)<br/><br/>　　广化郡<br/><br/>　　广业郡<br/><br/>　　东益州(治武兴。)<br/><br/>　　领郡七 县十六<br/><br/>　　武兴郡<br/><br/>　　领县四<br/><br/>　　景昌 武兴(州、郡治)石门 武安<br/><br/>　　仇池郡<br/><br/>　　领县二<br/><br/>　　西乡 西石门<br/><br/>　　槃头郡<br/><br/>　　领县二<br/><br/>　　武世 苌举<br/><br/>　　广苌郡<br/><br/>　　领县二<br/><br/>　　苌广 新巴<br/><br/>　　广业郡<br/><br/>　　领县二<br/><br/>　　广业 广化<br/><br/>　　梓潼郡<br/><br/>　　领县二<br/><br/>　　华阳 兴宋<br/><br/>　　洛聚郡<br/><br/>　　领县二<br/><br/>　　武都 明水<br/><br/>　　益州(正始中置。)<br/><br/>　　领郡五 县十<br/><br/>　　东晋寿郡(司马德宗置，魏因之。)<br/><br/>　　领县四<br/><br/>　　黄 石亭 晋安(司马德宗置，魏因之。)晋寿(晋惠帝置，属梓潼，后属。)<br/><br/>　　西晋寿郡<br/><br/>　　领县一<br/><br/>　　阴平<br/><br/>　　新巴郡(司马德宗置，魏因之。)<br/><br/>　　领县一<br/><br/>　　新巴(司马德宗置，魏因之)南白水郡<br/><br/>　　领县二<br/><br/>　　始平 京兆<br/><br/>　　宋熙郡<br/><br/>　　领县二<br/><br/>　　兴乐 元寿<br/><br/>　　巴州(郡县阙)<br/><br/>　　梁州(萧衍梁、秦二州，正始初改置。)<br/><br/>　　领郡五 县十四<br/><br/>　　晋昌郡<br/><br/>　　领县三<br/><br/>　　龙亭(有安国城、镇势山、灙水。)兴势(延昌三年置。)南城<br/><br/>　　褒中郡<br/><br/>　　领县三<br/><br/>　　褒中(二汉、晋属汉中，后罢。永平四年复属。)武乡(延昌元年置。有牛头山。)廉水<br/><br/>　　安康郡(刘准置，魏因之。)<br/><br/>　　领县二<br/><br/>　　安康(二汉曰安阳，属汉中，汉末省，魏复，武帝更名，属魏兴郡，后属。有直水。)宁都<br/><br/>　　汉中郡(秦置。)<br/><br/>　　领县三<br/><br/>　　南郑(二汉、晋属。)汉阴(有胡城。)城固(二汉、晋属。)<br/><br/>　　华阳郡<br/><br/>　　领县三<br/><br/>　　华阳(有黄牛山、廉水、萧何城。)沔阳(二汉、晋属汉中，后属。有白马城、黄沙城、诸葛亮庙。)嶓冢(有嶓冢山、汉水出焉。)<br/><br/>　　南梁州(郡县阙。)<br/><br/>　　东梁州<br/><br/>　　领郡三 县四<br/><br/>　　户一千二百二十二<br/><br/>　　金城郡<br/><br/>　　领县一<br/><br/>　　户二百八十六<br/><br/>　　直城<br/><br/>　　安康郡<br/><br/>　　领县一<br/><br/>　　户六百一十八<br/><br/>　　安康<br/><br/>　　魏明郡<br/><br/>　　领县二<br/><br/>　　户三百一十八<br/><br/>　　汉阳 宁都<br/><br/>　　泾州(治临泾城。)<br/><br/>　　领郡六 县十七<br/><br/>　　安定郡(汉武帝置，太和十一年罢石堂郡，以其县属。)<br/><br/>　　领县五<br/><br/>　　安定(前汉属，后汉、晋罢，后复，有铜城。)临泾(二汉、晋属。有洪城。)朝那(二汉、晋属。有当原城、胡城。)乌氏(二汉、晋属。有岐山、泾乡城、阳邑城、抚夷城。) 石堂(有自度山。)<br/><br/>　　陇东郡<br/><br/>　　领县三<br/><br/>　　泾阳(前汉属安定，后汉、晋罢，属，后复。有薄落山、泾水出焉。白城、方石渊、陇山。)祖居(前汉属，罢，后复，属武威，晋罢，后复属。)抚夷(前汉属安定，后汉、晋罢，后复属。)<br/><br/>　　新平郡(后汉献帝建安中置)领县四<br/><br/>　　白土(二汉属上郡，晋属金城，后属。有歧亭岭。)爰得(前汉属安定，后汉、晋罢，后复属。有邑成、东魏城。)三水(二汉属安定，晋罢，后复属。有随意城。)高平(二汉属安定，晋罢，后复属，有石门山。)<br/><br/>　　隋平郡<br/><br/>　　领县二<br/><br/>　　鹑鵤(前汉属山城，后汉、晋属安定，后有孤原亭，台山。)东槃<br/><br/>　　平凉郡<br/><br/>　　领县二<br/><br/>　　鹑阴(郡治。前汉属安定，后汉属武威，晋罢，后复属。有凡亭、泾阳、平凉城。)阴密(前汉属安定，后汉罢，晋复，后属。)<br/><br/>　　平原郡<br/><br/>　　领县一<br/><br/>　　阴盘(二汉属安定，晋属京兆，后属。有安城、安武城。)<br/><br/>　　河州(有伏乾。(阙二字)。真君六年置镇，后改。治抱至。)<br/><br/>　　领郡四 县十四<br/><br/>　　金城郡(汉昭帝置，后汉建武十三年执陇西，孝明复。)<br/><br/>　　领县二<br/><br/>　　榆中(二汉晋属。)大夏(二汉属陇西，晋属晋兴。皇兴三年改为郡，后复属。有白水、金柳城。)<br/><br/>　　武始郡(晋分陇西置。)<br/><br/>　　领县三<br/><br/>　　勇田(真君八年置郡，后改。)狄道(二汉属陇西，晋属。)阳素<br/><br/>　　洪和郡<br/><br/>　　领县三<br/><br/>　　水池(真君四年置郡，后改。)蓝川(真君八年置郡，后改。)蕈州(延兴四年置。)<br/><br/>　　临洮郡(二汉、晋县，属陇西。真君六年改置。)<br/><br/>　　领县三<br/><br/>　　龙城(太和十年置。)石门(太和九年置。)赤水<br/><br/>　　渭州<br/><br/>　　领郡三 县六<br/><br/>　　陇西郡(秦置。)<br/><br/>　　领县二<br/><br/>　　襄武 首阳<br/><br/>　　南安阳郡<br/><br/>　　领县二<br/><br/>　　桓道 中陶<br/><br/>　　广宁郡<br/><br/>　　领县二<br/><br/>　　彰 新兴(真君八年罢中陶、禄部、襄武属焉。)<br/><br/>　　原州(太延二年置镇，正光五年改置，并置郡县。治高平城。)<br/><br/>　　领县二 县四<br/><br/>　　高平郡<br/><br/>　　领县二<br/><br/>　　高平 里亭<br/><br/>　　长城郡<br/><br/>　　领县二<br/><br/>　　黄石 白池<br/><br/>　　凉州(汉置，治陇。神�中为镇，太和中复。)<br/><br/>　　领郡十 县二十<br/><br/>　　户三千二百七十三<br/><br/>　　武安郡<br/><br/>　　领县一<br/><br/>　　户三百七十三<br/><br/>　　宜盛<br/><br/>　　临杜郡(杜一作社)<br/><br/>　　领县二<br/><br/>　　户三百八十九<br/><br/>　　安平 和平<br/><br/>　　建昌郡<br/><br/>　　领县三<br/><br/>　　户六百五十七<br/><br/>　　榆中 治城 蒙水<br/><br/>　　番和郡<br/><br/>　　领县二<br/><br/>　　户一百三十九<br/><br/>　　彰 燕支<br/><br/>　　泉城郡<br/><br/>　　领县一<br/><br/>　　户七十二<br/><br/>　　新阳<br/><br/>　　武兴郡<br/><br/>　　领县三<br/><br/>　　户三百八十五<br/><br/>　　晏然 以城 休屠<br/><br/>　　武威郡(汉武帝置)<br/><br/>　　领县二<br/><br/>　　户三百四十<br/><br/>　　林中 襄城(有休屠城、武始泽。)<br/><br/>　　昌松郡<br/><br/>　　领县三<br/><br/>　　户三百九十七<br/><br/>　　温泉 揟次(本作撮沙，又作揖次。) 莫口<br/><br/>　　东泾郡<br/><br/>　　领县一<br/><br/>　　户一百九十一<br/><br/>　　台城<br/><br/>　　梁宁郡<br/><br/>　　领县二<br/><br/>　　户三百三十一<br/><br/>　　园池 贡泽<br/><br/>　　鄯州(郡县阙。)<br/><br/>　　瓜州(郡县阙。)<br/><br/>　　华州(太和十一年分秦州之华山、澄城、白水置。)<br/><br/>　　领郡三 县十三<br/><br/>　　华山郡<br/><br/>　　领县五<br/><br/>　　华阴(前汉属京兆，后汉、晋属恒农，后属。有华山、集仙馆、巨灵原、潼关、北乡城、重泉城。)郑(二汉、晋属京兆，后属。有广乡原、郑城、赤城。)夏阳(二汉、晋属冯翊，后属。故少梁，秦惠文王更名。有梁山、龙门山、黑水城。)敷西(太和十一年分夏阳置。有武平城、高平城。)郃阳(二汉、晋属冯翊，后罢。太和二十年复属。)<br/><br/>　　澄城郡(真君七年置。)<br/><br/>　　领县五<br/><br/>　　澄城(真君七年置。有杏城。)五泉(真君七年置。有五泉水、湿水、石谷城。)三门(真郡七年置。有阳苑城、衙城。)<br/><br/>　　宫城(真君七年置。)南五泉(太和十一年置。)<br/><br/>　　白水郡(太和二年分澄城置。)<br/><br/>　　领县三<br/><br/>　　姚谷(太和二年置。有黄崖山。)白水(太和二年置。有五龙山、粟邑城。)南白水(太和十一年分阙白水置。有阙。)<br/><br/>　　北华州(太和十五年置东秦州，后改。治杏城。)<br/><br/>　　领郡二 县七<br/><br/>　　户一万四千五百九十六<br/><br/>　　中部郡<br/><br/>　　领县四<br/><br/>　　户八千九百二十四<br/><br/>　　中部(姚兴置，魏因之。)石保(有回女山。)狄道(有狄兔城、浅石山。)长城(有五郊城。)<br/><br/>　　敷城郡<br/><br/>　　领县三<br/><br/>　　户五千六百七十二<br/><br/>　　敷城(有女阴山。)洛川(真君中置。)定阳<br/><br/>　　豳州(皇兴二年为华州，延兴二年为三县(疑)，太和十一年改为班州，十四年为邠州，二十年改焉。)<br/><br/>　　领郡三 县十<br/><br/>　　西北地郡(秦昭王置。)<br/><br/>　　领县三<br/><br/>　　彭阳(二汉属安定，晋罢，后复属。)富平(二汉、晋属北地，后属。有神泉、灵州城、彰猎山。)安武(前汉属安定，后汉、晋罢，后复属。)<br/><br/>　　赵兴郡(真君二年置。)<br/><br/>　　领县五<br/><br/>　　阳周(前汉属上郡，后汉、晋罢，后复属。有桥山、黄帝冢、泥阳城、高平城、秋水。)独乐(前汉属上郡，后汉、晋罢，后复属。)安定(真君二年置。)赵安(真君二年置。)高望(真君二年置。有高望山。)<br/><br/>　　襄乐郡(太和十一年置。)<br/><br/>　　领县二<br/><br/>　　襄乐(前汉属上郡，后汉、晋罢，后复属。)肤施(二汉属上郡，晋罢，后复属。有五龙山、黄帝祠。)<br/><br/>　　夏州(赫连屈子所都，始光四年平，为统万镇，太和十一年改置。治大夏。)<br/><br/>　　领郡四 县九<br/><br/>　　化政郡(太和十二年置。)<br/><br/>　　领县二<br/><br/>　　革融 严绿(一本作严缘。)<br/><br/>　　阐熙郡(太和十二年置。)<br/><br/>　　领县二<br/><br/>　　山鹿 新冏<br/><br/>　　金明郡(真君十二年置。)<br/><br/>　　领县三<br/><br/>　　永丰(真君十三年置。)启宁 广洛(真君十年置。)<br/><br/>　　代名郡(太安二年置。)<br/><br/>　　领县二<br/><br/>　　呼酋(太安二年置。有横水。)渠搜(太和二年置。)<br/><br/>　　东夏州(延昌二年置。)<br/><br/>　　领郡四 县九<br/><br/>　　偏城郡(太和元年置。)<br/><br/>　　领县二<br/><br/>　　广武(前汉属太原，后汉、晋属雁门，后属。有三城、偏城。)沃野(二汉属朔方，晋罢，后复属。)<br/><br/>　　朔方郡(汉武帝置。)<br/><br/>　　领县三<br/><br/>　　魏平 政和 朔方(二汉属，晋罢，后复。有贵堛泽。)<br/><br/>　　定阳郡(二汉县，属上郡，太安中改置。)<br/><br/>　　领县二<br/><br/>　　临戎(二汉属朔方，晋罢，后复属。)临真(有丹阳山、白泉。)<br/><br/>　　上郡(秦置。)<br/><br/>　　领县三<br/><br/>　　石城 因城<br/><br/>　　泰州(神�元年置雍州，延和元年改，太和中罢，天平妆复，后陷。)<br/><br/>　　领郡三 县七<br/><br/>　　河东郡(秦置。治蒲坂。)<br/><br/>　　领县五<br/><br/>　　安定(太和元年置。)蒲坂(二汉、晋属。有华阳城、雷首山。)南解(二汉、晋曰解，属，后改。有桑泉城。)北解(太和十一年置。有张杨城。)猗氏(二汉、晋属河东，后复属。有介山塘。)<br/><br/>　　北乡郡<br/><br/>　　领县二<br/><br/>　　北猗氏(太和十一年置。有解城。)汾阴(二汉、晋属河东，后属。有北乡城、后土祠。)<br/><br/>　　陕州(太和十一年置。治陕城。八年罢，天增初复。后陷。)<br/><br/>　　领郡五 县十一<br/><br/>　　恒农郡(前汉置，以显祖讳，改曰"恒"。)<br/><br/>　　领县三<br/><br/>　　陕中 北陕(二汉、晋曰陕，属。有曲沃城、邓芝祠。)崤太和十一年置。有三崤山、白杨谷。<br/><br/>　　西恒农郡<br/><br/>　　领县一<br/><br/>　　恒农(二汉、晋属恒农，后属。有桃林。)<br/><br/>　　渑池郡<br/><br/>　　领县二<br/><br/>　　俱利 北渑池(太和十一年置。有马头山、俱利城、生耳山。)<br/><br/>　　石城郡(正始二年置县，后改。)<br/><br/>　　领县一<br/><br/>　　同堤<br/><br/>　　河北郡<br/><br/>　　领县四<br/><br/>　　北安邑(二汉、晋曰安邑，属河东，后改。太和十一年置为郡，十八年复属。)南安邑(太和十一年置。有中条山。)河北(二汉、晋属河东，后属。有芮城、立城、妫水、首阳山、伯夷叔齐墓。)太阳(二汉、晋属河东，后属。有虞城、夏阳城。)<br/><br/>　　洛州(太延五年置荆州，太和十一年改。治上洛城。)<br/><br/>　　领郡五 县七<br/><br/>　　上洛郡(晋武帝置。)<br/><br/>　　领县二<br/><br/>　　上洛(前汉属恒农，后汉属京兆，晋属。有丹水、南秦水、汉高祖祠、四皓祠、高东祠。)拒阳<br/><br/>　　上庸郡(皇兴四年置东上洛，永平四年改。)<br/><br/>　　领县二<br/><br/>　　商(前汉属恒农，后汉属京兆，晋属上洛，后属。有京城。)丰阳(郡治。太安二年置。有圈地。)<br/><br/>　　魏兴郡(太延五年置。)<br/><br/>　　领县一<br/><br/>　　阳亭(太和五年置。)<br/><br/>　　始平郡(景明元年置。)<br/><br/>　　领县一<br/><br/>　　上洛<br/><br/>　　苌和郡(景明元年置。)<br/><br/>　　领县一<br/><br/>　　南商<br/><br/>　　荆州(后汉治汉寿，魏、晋治江陵，太延中治上洛，太和中治穰城。)<br/><br/>　　领郡八 县四十一<br/><br/>　　南阳郡(秦置。)<br/><br/>　　领县十<br/><br/>　　宛(二汉、晋属。有清水、梅溪水。)新城(太和二十二年置。有复釜山、赤石山。)冠军(汉武帝置，二汉、晋属。有湍水、羊角。)舞阴(二汉、晋属。有横山)郦(二汉、晋属。有大鼓谷、悬鼓山。)云阳(二汉、晋曰育阳，属。司马昌明改，魏因之。)西平(有精山、赭山。)涅阳(二汉、晋属。有涅。)上陌 西鄂(二汉、晋属。有棘山、华城、张衡碑。)<br/><br/>　　顺阳郡(魏分南阳置，曰南乡，司以衍更名，魏因之。)<br/><br/>　　领县五<br/><br/>　　南乡(后汉属南阳，晋属南乡。)丹水(前汉属恒农，后汉属南阳，晋属南乡。)临洮(有洮山。)槐里 顺阳(二汉属南阳，晋属南乡。汉哀帝置，即博山也。后汉明帝改。)<br/><br/>　　新野郡(晋惠帝置。)<br/><br/>　　领县三<br/><br/>　　穰(二汉属南阳，晋属义阳，后属。)新野(二汉属南阳，晋属义阳，后属。)池阳<br/><br/>　　东恒农郡(太和中置。)<br/><br/>　　领县六<br/><br/>　　西城(二汉属汉中，晋属魏兴，后属。)北郦(有长山。)南乡 左南乡(有凡亭山。)上忆 东石<br/><br/>　　汉广郡<br/><br/>　　领县二<br/><br/>　　南棘阳(二汉属南阳，晋属义阳，二汉、晋曰棘阳，后改属，有汉广城。)西棘阳<br/><br/>　　襄城郡<br/><br/>　　领县九<br/><br/>　　方城(有赭阳城、七石山。)郏城(有崩石山。)伏城(有广阳山。)舞阴(有唐山。)清水 翼阳(有招泉。)郑北平(有因城。)赭城(有陵中山。)<br/><br/>　　北清郡<br/><br/>　　领县二<br/><br/>　　武川(有滍城、鹿鸣山、农山。)北雉(二汉、晋曰雉，属南阳，后改属。有西鄂城。)<br/><br/>　　恒农郡<br/><br/>　　领县四<br/><br/>　　国 恒农 南郦 邯郸<br/><br/>　　襄州(孝昌中置。)<br/><br/>　　领郡六 县二十<br/><br/>　　襄城郡(萧道成置，魏因之。台赭阳城。)<br/><br/>　　领县六<br/><br/>　　方城 郏城 伏城 舞阴 翼阳 赭城<br/><br/>　　舞阴郡(孝昌中置。)<br/><br/>　　领县二<br/><br/>　　舞阴 安阳<br/><br/>　　南安郡(太和十三年置郢州，十八年改为南中府，天平初罢府置，后陷。)<br/><br/>　　领县四<br/><br/>　　安南 南舞 叶 南定<br/><br/>　　期城郡(孝昌中置。)<br/><br/>　　领县四<br/><br/>　　西舞阳 东舞阳 南阳 新安<br/><br/>　　北南阳郡(孝昌中置，为宣义郡，后改。州治。)<br/><br/>　　领县二<br/><br/>　　北平 白水<br/><br/>　　建城郡(太和十八年置，景明末罢郡置戍，永熙二年复。)<br/><br/>　　领县二<br/><br/>　　赭阳 北方城<br/><br/>　　南襄州<br/><br/>　　领郡三 县五<br/><br/>　　西淮郡<br/><br/>　　领县二<br/><br/>　　钟离 襄城<br/><br/>　　襄城郡<br/><br/>　　领县二<br/><br/>　　陈阳 上马<br/><br/>　　北南阳郡<br/><br/>　　领县一<br/><br/>　　南阳<br/><br/>　　南广州<br/><br/>　　领郡五 县七<br/><br/>　　襄城郡<br/><br/>　　领县一<br/><br/>　　襄城<br/><br/>　　鲁阳郡<br/><br/>　　领县二<br/><br/>　　冠军 繁昌<br/><br/>　　高昌郡<br/><br/>　　领县一<br/><br/>　　高阳<br/><br/>　　南阳郡<br/><br/>　　领县一<br/><br/>　　南阳<br/><br/>　　襄城郡<br/><br/>　　领县二<br/><br/>　　扶城 南阳<br/><br/>　　郢州<br/><br/>　　领郡三 县八<br/><br/>　　安阳郡<br/><br/>　　领县四<br/><br/>　　真阳 安阳 清阴(一本作青丘) 淮阴<br/><br/>　　城阳郡<br/><br/>　　领县三<br/><br/>　　平春 义阳 义兴<br/><br/>　　汝南郡<br/><br/>　　领县一<br/><br/>　　上蔡<br/><br/>　　南郢州<br/><br/>　　领郡十二 县二十九<br/><br/>　　北遂安郡<br/><br/>　　领县一<br/><br/>　　新安<br/><br/>　　冯翊郡<br/><br/>　　领县四<br/><br/>　　山阳 彭城 城 建安<br/><br/>　　江夏郡<br/><br/>　　领县二<br/><br/>　　屈阳 郢阳<br/><br/>　　(阙字)子郡<br/><br/>　　领县四<br/><br/>　　南新阳 西新 北新阳 新兴<br/><br/>　　香山郡<br/><br/>　　领县二<br/><br/>　　北新安 郧阳<br/><br/>　　永安郡<br/><br/>　　领县二<br/><br/>　　永安 南新兴<br/><br/>　　新平郡<br/><br/>　　领县二<br/><br/>　　(阙)城 安城<br/><br/>　　永安郡<br/><br/>　　领县二<br/><br/>　　刘刚 上城<br/><br/>　　宕鄀郡<br/><br/>　　领县三<br/><br/>　　西新化 东平阳 安城<br/><br/>　　宜民郡<br/><br/>　　领县三<br/><br/>　　西新安 新安 平阳<br/><br/>　　南遂安郡<br/><br/>　　领县一<br/><br/>　　安兴<br/><br/>　　(阙二字)郡<br/><br/>　　领县三<br/><br/>　　东新市 西新市 长安<br/><br/>　　析州<br/><br/>　　领郡五 县十一<br/><br/>　　修阳郡<br/><br/>　　领县二<br/><br/>　　盖阳 脩阳<br/><br/>　　固郡<br/><br/>　　领县三<br/><br/>　　怀里 南乡 固<br/><br/>　　朱阳郡<br/><br/>　　领县二<br/><br/>　　黄水 朱阳<br/><br/>　　南上洛郡<br/><br/>　　领县二<br/><br/>　　单水 南上洛<br/><br/>　　析阳郡<br/><br/>　　领县二<br/><br/>　　西析阳 东析阳<br/><br/>　　《魏书》　北齐·魏收 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-657-8376.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-657-8378.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-657.html" action-type="chapterComment" class="comment"><i></i>魏书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

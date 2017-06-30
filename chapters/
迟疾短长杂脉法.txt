@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《脉经》正文_迟疾短长杂脉法_王叔和作品 - 维普阅读网</title>
+<meta name="keywords" content="脉经,脉经原文,脉经阅读,迟疾短长杂脉法全文,王叔和作品" />
+<meta name="description" content="脉经原文阅读,迟疾短长杂脉法全文在线阅读,王叔和作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-517-6166.html";
+var nextpage="novel-read-517-6168.html";
+var indexpage = "novel-chapter-517.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-517.html">脉经</a></strong>
+<strong><a href="novel-chapter-517.html">脉经目录</a></strong>
+<span>迟疾短长杂脉法</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-517-6166.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>迟疾短长杂脉法</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王叔和&amp;searchsubmit=yes"  target="_blank">王叔和</a><span class="divide">|</span>发布时间：2014-09-23 20:24:33<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>黄帝问曰：余闻胃气、手少阳三焦、四时五行脉法。夫人言脉有三阴三阳，知病存亡，脉外以知内，尺寸大小，愿闻之。<br/><br/>　　岐伯曰：寸口之中，外别浮沉、前后、左右、虚实、死生之要，皆见寸口之中。脉从前来者为实邪，从后来者为虚邪，从所不胜来者为贼邪，从所胜来者为微邪，自病（一作得）者为正邪。外结者病痈肿，内结者病疝瘕也。间来而急者，病正在心，气也。脉来疾者，为风也；脉来滑者，为病食也；脉来滑躁者，病有热也；脉来涩者，为病寒湿也。脉逆顺之道，不与众谋。<br/><br/>　　师曰：夫呼者，脉之头也。初持之来疾去迟，此为出疾入迟，为内虚外实；初持脉来迟去疾，此为出迟入疾，为内实外虚也。<br/><br/>　　脉数则在腑，迟则在脏。脉长而弦病在肝（扁鹊云：病出于肝），脉小血少病在心（扁鹊云：脉大而洪，病出于心），脉下坚上虚病在脾胃（扁鹊云：病出于脾胃），脉滑（一作涩）而微浮病在肺（扁鹊云：病出于肺），脉大而坚病在肾。（扁鹊云：小而紧）脉滑者多血少气，脉涩者少血多气，脉大者血气俱多。又云：脉来大而坚者血气俱实，脉小者血气俱少。<br/><br/>　　又云：脉来细而微者血气俱虚。沉细滑疾者热，迟紧为寒（又云：洪数滑疾为热，涩迟沉细为寒）。脉盛滑紧者病在外热，脉小实而紧者病在内冷。脉小弱而涩谓之久病，脉滑浮而疾者谓之新病。脉浮滑，其人外热，风走刺，有饮，难治。脉沉而紧，上焦有热，下寒，得冷即便下。脉沉而细，下焦有寒，小便数，时苦绞痛，下利重。脉浮紧且滑直者，外热内冷，不得大小便。脉洪大紧急，病速进在外，苦头发热、痈肿；脉细小紧急，病速进在中，寒为疝瘕、积聚，腹中刺痛。脉沉重而直前绝者，病血在肠间；脉沉重而中散者，因寒食成。脉直前而中散绝者，病消渴（一云病浸淫痛）。脉沉重，前不至寸口，徘徊绝者，病在肌肉遁尸。脉左转而沉重者，气阳在胸中，脉右转出不至寸口者内有肉。脉累累如贯珠，不前至，有风寒在大肠，伏留不去；脉累累中止不至，寸口软者，结热在小肠膜中，伏留不去。脉直前左右弹者，病在血脉中，血也；脉后而左右弹者，病在筋骨中也。脉前大后小，即头痛目眩；脉前小后大，即胸满短气。上部有脉，下部无脉，其人当吐，不吐者死；上部无脉，下部有脉，虽困无所苦。夫脉者，血之府也。长则气治，短则气病，数则烦心，大则病进，上盛则气高，下盛则气胀，代则气衰，细则气少（《太素》细作滑），涩则心痛。浑浑革革，至如涌泉，病进而危；弊弊绰绰，其去如弦绝者，死。短而急者病在上，长而缓者病在下；沉而弦急者病在内，浮而洪大者病在外；脉实者病在内，脉虚者病在外。在上为表，在下为里；浮为在表，沉为在里。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-517-6166.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-517-6168.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-517.html" action-type="chapterComment" class="comment"><i></i>脉经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

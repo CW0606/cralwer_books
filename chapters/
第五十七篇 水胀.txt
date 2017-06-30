@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《黄帝内经》正文_第五十七篇 水胀_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="黄帝内经,黄帝内经原文,黄帝内经阅读,第五十七篇 水胀全文,佚名作品" />
+<meta name="description" content="黄帝内经原文阅读,第五十七篇 水胀全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-58-1896.html";
+var nextpage="novel-read-58-1898.html";
+var indexpage = "novel-chapter-58.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-58.html">黄帝内经</a></strong>
+<strong><a href="novel-chapter-58.html">黄帝内经目录</a></strong>
+<span>第五十七篇 水胀</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-58-1896.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第五十七篇 水胀</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-07-29 22:29:00<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【本章要点】<br/>　　一、说明了水胀、肤胀、鼓胀、肠覃、石瘕等的病因、症候、病机以及其间的鉴别诊断等。<br/>　　二、对肠覃和石瘕指出了治疗原则；对肤胀和鼓胀说明了针刺的方法。<br/>　　【原文】<br/>　　黄帝问于岐伯曰：水与肤胀、鼓胀、肠覃、石瘕、石水，何以别之？岐伯曰：水始起也，目窠①上微肿，如新卧起之状，其颈脉动②，时咳，阴股间寒，足胫肿，腹乃大，其水已成矣。以手按其腹，随手而起，如裹水之状，此其候也。<br/>　　黄帝曰：肤胀何以候之？岐伯曰：肤胀者，寒气客于皮肤之间，然不坚，腹大，身尽肿，皮厚，按其腹，窅而不起，腹色不变，此其候也。<br/>　　黄帝曰：鼓胀何如？岐伯曰：腹胀身皆大，大与肤胀等也，色苍黄，腹筋起③，此其候也。<br/>　　黄帝曰：肠覃④何如？岐伯曰：寒气客于肠外，与卫气相搏，气不得荣，因有所系，癖而内着，恶气乃起，瘜肉乃生。其始生也，大如鸡卵，稍以益大，至其成，如怀子之状，久者离岁，按之则坚，推之则移，月事以时下，此其候也。<br/>　　石瘕⑤何如？岐伯曰：石瘕生于胞中，寒气客于子门，子门闭塞，气不得通，恶血当泻不泻，血不血留止，日以益大，状如怀子，月事不以时下，皆生于女子，可导而下。<br/>　　黄帝曰：肤胀鼓胀，可刺邪？岐伯曰：先泻其胀之血络，后调其经，刺去其血络也。<br/>　　【注释】<br/>　　①目窠：指眼睑。<br/>　　②颈脉动：颈脉，指喉结旁的人迎脉。颈脉动，是因水温内停，内犯血脉，脉中水气涌动，所以可见颈脉异常明显的搏动。<br/>　　③腹筋起：筋，做脉。指腹壁有脉络显现。<br/>　　④肠覃：生长于肠外，形状类似菌类的肿瘤。<br/>　　⑤石瘕：因寒邪侵袭，使淤血停留于子宫的一种病症。<br/>　　【译文】<br/>　　黄帝问岐伯道：对水胀与肤胀、鼓胀、肠覃、石瘕、石水，应当怎样进行区别呢？岐伯回答说：病人的下眼睑微肿，就像刚刚睡醒的样子，颈部动脉搏动明显，时时咳嗽，两大腿内侧感到寒冷，足胫部肿胀，腹部胀大，若出现上述症状，说明水胀病已经形成了。若以手按压病人的腹部，放手后即随手而起，不留凹陷，就像按压充水的皮袋子一样，就是水胀病的症候。<br/>　　黄帝说：肤胀病应如何诊断呢？岐伯说：所谓肤胀病，是由寒邪侵入皮肤之间形成的。病人腹部胀大，叩击时发出鼓音，按压时感觉空而不坚硬，病人全身浮肿，皮肤较厚，按压病人腹部，放手后不能随手而起，留有凹陷，腹部的皮色无异常变化，这就是肤胀的症候。<br/>　　黄帝问：鼓胀病的表现是怎样的呢？岐伯说：鼓胀病人的腹部与全身都肿胀，这与肤胀病一样，但患鼓胀病的人皮肤青黄，腹部青筋高起暴露，这就是鼓胀病的症候特点。<br/>　　黄帝问：肠覃病的表现是怎样的呢？岐伯说：寒邪侵犯人体后，邪气滞留在肠外，与卫气相搏，卫气被阻而不能正常运行，因此邪气留滞，积久不去附着于肠外，并日渐滋长，使息肉得以形成，刚开始时，就像鸡蛋一样大小，此后逐渐长大，疾病一旦形成，病人就像怀孕一样，病程长的历经数年，用手按压则很坚硬，推动时可移动，但月经仍然按时到潮，这就是肠覃的症候。<br/>　　黄帝说：石瘕病的表现是怎样的呢？岐伯说：石瘕病生在胞宫内，寒邪侵犯，留滞在子宫颈口，使宫颈闭塞，气血凝滞不通。经血不能正常排泄，便凝结成块而留滞于宫内，并日益增大，使腹部涨大，像怀孕一样，月经不能按时来潮。石瘕病都发生在妇女，治疗时应活血化淤，通导攻下，引淤血下行。<br/>　　黄帝说：可用针刺治疗肤胀与鼓胀吗？岐伯说：治疗时先用针刺泄有淤血的脉络，然后根据病情虚实的不同来调理经脉，刺去淤滞的血络。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-58-1896.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-58-1898.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-58.html" action-type="chapterComment" class="comment"><i></i>黄帝内经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

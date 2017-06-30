@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《管子》正文_地数_管仲作品 - 维普阅读网</title>
+<meta name="keywords" content="管子,管子原文,管子阅读,地数全文,管仲作品" />
+<meta name="description" content="管子原文阅读,地数全文在线阅读,管仲作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-43-1191.html";
+var nextpage="novel-read-43-1193.html";
+var indexpage = "novel-chapter-43.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-43.html">管子</a></strong>
+<strong><a href="novel-chapter-43.html">管子目录</a></strong>
+<span>地数</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-43-1191.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>地数</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=管仲&amp;searchsubmit=yes"  target="_blank">管仲</a><span class="divide">|</span>发布时间：2014-07-24 21:06:26<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　桓公曰：“地数可得闻乎？”管子对曰：“地之东西二万八千里，南北二万六千里。其出水者八千里，受水者八千里，出铜之山四百六十七山，出铁之山三千六百九山。此之所以分壤树谷也，戈矛之所发，刀币之所起也。能者有余，拙者不足。封于泰山，禅于梁父，封禅之王七十二家，得失之数，皆在此内。是谓国用。”桓公曰：“何谓得失之数皆在此？”管子对曰：“昔者桀霸有天下而用不足，汤有七十里之薄而用有余。天非独为汤雨菽粟，而地非独为汤出财物也。伊尹善通移、轻重、开阖、决塞，通于高下徐疾之策，坐起之费时也。黄帝问于伯高曰：‘吾欲陶天下而以为一家，为之有道乎？’伯高对曰：‘请刈其莞而树之，吾谨逃其蚤牙，则天下可陶而为一家。’黄帝曰：‘此若言可得闻乎？’伯高对曰：‘上有丹砂者下有黄金，上有慈石者下有铜金，上有陵石者下有铅、锡、赤铜，上有赭者下有铁，此山之见荣者也。苟山之见其荣者，君谨封而祭之。距封十里而为一坛，是则使乘者下行，行者趋。若犯令者，罪死不赦。然则与折取之远矣。’修教十年，而葛卢之山发而出水，金从之。蚩尤受而制之，以为剑、铠、矛、戟，是岁相兼者诸侯九。雍狐之山发而出水，金从之。蚩尤受而制之，以为雍狐之戟、芮戈，是岁相兼者诸侯十二。故天下之君顿戟一怒，伏尸满野。此见戈之本也。”<br/><br/>　　桓公问于管子曰：“请问天财所出？地利所在？”管子对曰：“山上有赭者其下有铁，上有铅者其下有银。一曰：‘上有铅者其下有鉒银，上有丹砂者其下有鉒金，上有慈石者其下有铜金。’此山之见荣者也。苟山之见荣者，谨封而为禁。有动封山者，罪死而不赦。有犯令者，左足入、左足断；右足入，右足断。然则其与犯之远矣。此天财地利之所在也。”桓公问于管子曰：“以天财地利立功成名于天下者谁子也？”管子对曰：“文武是也。”桓公曰：“此若言何谓也？”管子对曰：“夫玉起于牛氏边山，金起于汝汉之右洿，珠起于赤野之末光。此皆距周七千八百里，其涂远而至难。故先王各用于其重，珠玉为上币，黄金为中币，刀布为下币。令疾则黄金重，令徐则黄金轻。先王权度其号令之徐疾，高下其中币而制下上之用，则文武是也。”<br/><br/>　　桓公问于管子曰：“吾欲守国财而毋税于天下，而外因天下，可乎？”管子对曰：“可。夫水激而流渠，令疾而物重。先王理其号令之徐疾，内守国财而外因天下矣。”桓公问于管子曰：“其行事奈何？”管子对曰：“夫昔者武王有巨桥之粟贵籴之数。”桓公曰：“为之奈何？”管子对曰：“武王立重泉之戍，令曰：‘民自有百鼓之粟者不行。’民举所最粟以避重泉之戍，而国谷二什倍，巨桥之粟亦二什倍。武王以巨桥之粟二什倍而市缯帛，军五岁毋籍衣于民。以巨桥之粟二什倍而衡黄金百万，终身无籍于民。准衡之数也。”桓公问于管子曰：“今亦可以行此乎？”管子对曰：“可。夫楚有汝汉之金，齐有渠展之盐，燕有辽东之煮。此三者亦可以当武王之数。十口之家，十人咶盐，百口之家，百人咶盐。凡食盐之数，一月丈夫五升少半，妇人三升少半，婴儿二升少半。盐之重，升加分耗而釜五十，升加一耗而釜百，升加十耗而釜千。君伐菹薪煮泲水为盐，正而积之三万钟，至阳春请籍于时。”桓公曰：“何谓籍于时？”管子曰：“阳春农事方作，令民毋得筑垣墙，毋得缮冢墓；丈夫毋得治宫室，毋得立台榭；北海之众毋得聚庸而煮盐。然盐之贾必四什倍。君以四什之贾，修河、济之流，南输梁、赵、宋、卫、濮阳。恶食无盐则肿，守圉之本，其用盐独重。君伐菹薪煮泲水以籍于天下，然则天下不减矣。”<br/><br/>　　桓公问于管子曰：“吾欲富本而丰五谷，可乎？”管子对曰：“不可。夫本富而财物众，不能守，则税干天下；五谷兴丰，巨钱而天下贵，则税于天下。然则吾民常为天下虏矣。夫善用本者，若以身济于大海，观风之所起。天下高则高，天下下则下。天下高我下，则财利税于天下矣。”<br/><br/>　　桓公问于管子曰，“事尽于此乎？”管子对曰：“未也。夫齐衢处之本，通达所出也，游子胜商之所道。人求本者，食吾本粟，因吾本币，骐骥黄金然后出。令有徐疾，物有轻重，然后天下之宝壹为我用。善者用非有，使非人。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-43-1191.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-43-1193.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-43.html" action-type="chapterComment" class="comment"><i></i>管子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

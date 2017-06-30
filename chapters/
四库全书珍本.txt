@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《准风月谈》正文_四库全书珍本_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="准风月谈,准风月谈原文,准风月谈阅读,四库全书珍本全文,鲁迅作品" />
+<meta name="description" content="准风月谈原文阅读,四库全书珍本全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-551-7615.html";
+var nextpage="novel-read-551-7617.html";
+var indexpage = "novel-chapter-551.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-551.html">准风月谈</a></strong>
+<strong><a href="novel-chapter-551.html">准风月谈目录</a></strong>
+<span>四库全书珍本</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-551-7615.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>四库全书珍本</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-06 20:51:09<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　丰之余 <br/>　　现在除兵争，政争等类之外，还有一种倘非闲人，就不大注意的影印《四库全书》中的“珍本”之争（２）。官商要照原式，及早印成，学界却以为库本有删改，有错误，如果有别本可得，就应该用别的“善本”来替代。 <br/>　　但是，学界的主张，是不会通过的，结果总非依照《钦定四库全书》不可。这理由很分明，就因为要赶快。四省不见，九岛出脱（３），不说也罢，单是黄河的出轨（４）举动，也就令人觉得岌岌乎不可终日，要做生意就得赶快。况且“钦定”二字，至今也还有一点威光，“御医”“贡缎”，就是与众不同的意思。便是早已共和了的法国，拿破仑（５）的藏书在拍卖场上还是比平民的藏书值钱；欧洲的有些著名的“支那学者”，讲中国就会引用《钦定图书集成》（６），这是中国的考据家所不肯玩的玩艺。但是，也可见印了“钦定”过的“珍本”，在外国，生意总可以比“善本”好一些。 <br/>　　即使在中国，恐怕生意也还是“珍本”好。因为这可以做摆饰，而“善本”却不过能合于实用。能买这样的书的，决非穷措大也可想，则买去之后，必将供在客厅上也亦可知。这类的买主，会买一个商周的古鼎，摆起来；不得已时，也许买一个假古鼎，摆起来；但他决不肯买一个沙锅或铁镬，摆在紫檀桌子上。因为他的目的是在“珍”而并不在“善”，更不在是否能合于实用的。 <br/>　　明末人好名，刻古书也是一种风气，然而往往自己看不懂，以为错字，随手乱改。不改尚可，一改，可就反而改错了，所以使后来的考据家为之摇头叹气，说是“明人好刻古书而古书亡”（７）。这回的《四库全书》中的“珍本”是影印的，决无改错的弊病，然而那原本就有无意的错字，有故意的删改，并且因为新本的流布，更能使善本湮没下去，将来的认真的读者如果偶尔得到这样的本子，恐怕总免不了要有摇头叹气第二回。 <br/>　　然而结果总非依照《钦定四库全书》不可。因为“将来”的事，和现在的官商是不相干了。 <br/>　　八月二十四日。 <br/>　　<br/>===============================================================<br/>　　　　　 <br/>　　（１）　本篇最初发表于一九三三年八月三十一日《申报·自由谈》。 <br/>　　（２）　影印《四库全书》中的“珍本”之争　《四库全书》是清乾隆下令编纂的一部丛书，分经、史、子、集四部，收书三千余种。为了维护清政权的封建统治，有些书曾被抽毁或窜改。一九三三年六月，国民党政府教育部令当时中央图书馆筹备处和商务印书馆订立合同，影印北京故宫博物院所藏的文渊阁本《四库全书》未刊本；北京图书馆馆长蔡元培则主张采用旧刻或旧抄本，以代替经四库全书馆馆臣窜改过的库本，藏书家傅增湘、李盛铎和学术界陈垣、刘复等人，也与蔡元培主张相同，但为教育部长王世杰所反对，当时商务印书馆编译所所长张元济，也主张照印库本。结果商务印书馆仍依国民党官方意见，于一九三四年至一九三五年刊行《四库全书珍本初集》，选书二百三十一种。 <br/>　　（３）　四省不见　一九三一年九一八事变后，日本帝国主义先后侵占我国东北辽宁、吉林、黑龙江、热河四省。九岛出脱，九一八事变后，法国殖民主义者趁机提出吞并我国领土西沙群岛和南沙群岛的无理要求，并于一九三三年侵占了中国南沙群岛的九个岛屿。对此，中国人民群起抗议，当时中国政府也通过外交途径向法国当局提出了严正交涉。 <br/>　　（４）　黄河的出轨　指一九三三年七月黄河决口，河北、河南、山东、陕西、安徽以至江苏北部，都泛滥成灾。 <br/>　　（５）　拿破仑（Ｎａｐｏｌéｏｎ　Ｂｏｎａｐａｒｔｅ，１７６９—１８２１）　即拿破仑·波拿巴，法国资产阶级革命时期军事家、政治家，法兰西第一帝国皇帝。拿破仑藏书很多，死后其藏书辗转易主，一九三二年曾有一部分被人运往柏林，准备拍卖，后由法国政府设法运回巴黎。<br/>　　（６）　《钦定图书集成》　即《古今图书集成》，我国大型类书之一。清康熙、雍正时命陈梦雷、蒋廷锡等先后编纂，于雍正三年（１７２５）完成。全书共分历象、方舆、明伦、博物、理学、经济六编，总计凡一万卷。 <br/>　　（７）　“明人好刻古书而古书亡”　清代陆心源《仪顾堂题跋》卷一《六经雅言图辨跋》中，对明人妄改乱刻古书，说过这样的话：“明人书帕本，大抵如是，所谓刻书而书亡者也。” </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-551-7615.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-551-7617.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-551.html" action-type="chapterComment" class="comment"><i></i>准风月谈章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

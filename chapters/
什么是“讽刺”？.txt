@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《且介亭杂文二集》正文_什么是“讽刺”？_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="且介亭杂文二集,且介亭杂文二集原文,且介亭杂文二集阅读,什么是“讽刺”？全文,鲁迅作品" />
+<meta name="description" content="且介亭杂文二集原文阅读,什么是“讽刺”？全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-545-7329.html";
+var nextpage="novel-read-545-7331.html";
+var indexpage = "novel-chapter-545.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-545.html">且介亭杂文二集</a></strong>
+<strong><a href="novel-chapter-545.html">且介亭杂文二集目录</a></strong>
+<span>什么是“讽刺”？</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-545-7329.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>什么是“讽刺”？</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-02 22:24:00<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>——答文学社问 <br/><br/>　　我想：一个作者，用了精炼的，或者简直有些夸张的笔墨——但自然也必须是艺术的地——写出或一群人的或一面的真实来，这被写的一群人，就称这作品为“讽刺”。 <br/><br/>　　“讽刺”的生命是真实；不必是曾有的实事，但必须是会有的实情。所以它不是“I造”，也不是“诬蔑”；既不是“揭发阴私”，又不是专记骇人听闻的所谓“奇闻”或“怪现状”。它所写的事情是公然的，也是常见的，平时是谁都不以为奇的，而且自然是谁都毫不注意的。不过这事情在那时却已经是不合理，可笑，可鄙，甚而至于可恶。但这么行下来了，习惯了，虽在大庭广众之间，谁也不觉得奇怪；现在给它特别一提，就动人。譬如罢，洋服青年拜佛，现在是平常事，道学先生发怒，更是平常事，只消几分钟，这事迹就过去，消灭了。但“讽刺”却是正在这时候照下来的一张相，一个撅着屁股，一个皱着眉心，不但自己和别人看起来有些不很雅观，连自己看见也觉得不很雅观；而且流传开去，对于后日的大讲科学和高谈养性，也不免有些妨害。倘说，所照的并非真实，是不行的，因为这时有目共睹，谁也会觉得确有这等事；但又不好意思承认这是真实，失了自己的尊严。于是挖空心思，给起了一个名目，叫作“讽刺”。其意若曰：它偏要提出这等事，可见也不是好货。 <br/><br/>　　有意的偏要提出这等事，而且加以精炼，甚至于夸张，却确是“讽刺”的本领。同一事件，在拉杂的非艺术的记录中，是不成为讽刺，谁也不大会受感动的。例如新闻记事，就记忆所及，今年就见过两件事。其一，是一个青年，冒充了军官，向各处招摇撞骗，后来破获了，他就写忏悔书，说是不过借此谋生，并无他意。其二，是一个窃贼招引学生，教授偷窃之法，家长知道，把自己的子弟禁在家里了，他还上门来逞凶。较可注意的事件，报上是往往有些特别的批评文字的，但对于这两件，却至今没有说过什么话，可见是看得很平常，以为不足介意的了。然而这材料，假如到了斯惠夫德（ＪＳｗｉｆｔ）（２）或果戈理（ＮＧｏｇｏｌ）的手里，我看是准可以成为出色的讽刺作品的。在或一时代的社会里，事情越平常，就越普遍，也就愈合于作讽刺。 <br/><br/>　　讽刺作者虽然大抵为被讽刺者所憎恨，但他却常常是善意的，他的讽刺，在希望他们改善，并非要捺这一群到水底里。然而待到同群中有讽刺作者出现的时候，这一群却已是不可收拾，更非笔墨所能救了，所以这努力大抵是徒劳的，而且还适得其反，实际上不过表现了这一群的缺点以至恶德，而对于敌对的别一群，倒反成为有益。我想：从别一群看来，感受是和被讽刺的那一群不同的，他们会觉得“暴露”更多于“讽刺”。 <br/><br/>　　如果貌似讽刺的作品，而毫无善意，也毫无热情，只使读者觉得一切世事，一无足取，也一无可为，那就并非讽刺了，这便是所谓“冷嘲”。 <br/><br/>　　五月三日。 <br/><br/>　　==========================================================================<br/><br/><br/>　　（１）本篇写成时未能刊出，后来发表于一九三五年九月《杂文》月刊第三号。参看本书《后记》。 <br/><br/>　　（２）斯惠夫德（１６６７—１７４５）通译斯威夫特，英国作家。著有长篇小说《格列佛游记》等。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-545-7329.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-545-7331.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-545.html" action-type="chapterComment" class="comment"><i></i>且介亭杂文二集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

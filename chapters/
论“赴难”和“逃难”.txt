@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《南腔北调集》正文_论“赴难”和“逃难”_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="南腔北调集,南腔北调集原文,南腔北调集阅读,论“赴难”和“逃难”全文,鲁迅作品" />
+<meta name="description" content="南腔北调集原文阅读,论“赴难”和“逃难”全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-543-7091.html";
+var nextpage="novel-read-543-7093.html";
+var indexpage = "novel-chapter-543.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-543.html">南腔北调集</a></strong>
+<strong><a href="novel-chapter-543.html">南腔北调集目录</a></strong>
+<span>论“赴难”和“逃难”</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-543-7091.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>论“赴难”和“逃难”</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-01 20:27:16<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>——寄《涛声》编辑的一封信编辑先生： <br/><br/>　　我常常看《涛声》，也常常叫“快哉！”但这回见了周木斋先生那篇《骂人与自骂》（２），其中说北平的大学生“即使不能赴难，最低最低的限度也应不逃难”，而致慨于五四运动时代式锋芒之销尽，却使我如骨鲠在喉，不能不说几句话。因为我是和周先生的主张正相反，以为“倘不能赴难，就应该逃难”，属于“逃难党”的。<br/><br/>　　周先生在文章的末尾，“疑心是北京改为北平的应验”，我想，一半是对的。那时的北京，还挂着“共和”的假面，学生嚷嚷还不妨事；那时的执政，是昨天上海市十八团体为他开了“上海各界欢迎段公芝老大会”（３）的段祺瑞先生，他虽然是武人，却还没有看过《莫索理尼传》。然而，你瞧，来了呀。有一回，对着请愿的学生毕毕剥剥的开枪了（４），兵们最受瞄准的是女学生，这用精神分析学来解释，是说得过去的，尤其是剪发的女学生，这用整顿风俗（５）的学说来解说，也是说得过去的。总之是死了一些“莘莘学子”。然而还可以开追悼会；还可以游行过执政府之门，大叫“打倒段祺瑞”。为什么呢？因为这时又还挂着“共和”的假面。然而，你瞧，又来了呀。现为党国大教授的陈源先生，在《现代评论》上哀悼死掉的学生，说可惜他们为几个卢布送了性命；（６）《语丝》反对了几句，现为党国要人的唐有壬先生在《晶报》上发表一封信，说这些言动是受墨斯科的命令的。这实在已经有了北平气味了。 <br/><br/>　　后来，北伐成功了，北京属于党国，学生们就都到了进研究室的时代，五四式是不对了。为什么呢？因为这是很容易为“反动派”所利用的。为了矫正这种坏脾气，我们的政府，军人，学者，文豪，警察，侦探，实在费了不少的苦心。用诰谕，用刀枪，用书报，用煅炼，用逮捕，用拷问，直到去年请愿之徒，死的都是“自行失足落水”，连追悼会也不开的时候为止，这才显出了新教育的效果。 <br/><br/>　　倘使日本人不再攻榆关，我想，天下是太平了的，“必先安内而后可以攘外”（７）。但可恨的是外患来得太快一点，太繁一点，日本人太不为中国诸公设想之故也，而且也因此引起了周先生的责难。 <br/><br/>　　看周先生的主张，似乎最好是“赴难”。不过，这是难的。倘使早先有了组织，经过训练，前线的军人力战之后，人员缺少了，副司令（８）下令召集，那自然应该去的。无奈据去年的事实，则连火车也不能白坐，而况乎日所学的又是债权论，土耳其文学史，最小公倍数之类。去打日本，一定打不过的。大学生们曾经和中国的兵警打过架，但是“自行失足落水”了，现在中国的兵警尚且不抵抗，大学生能抵抗么？我们虽然也看见过许多慷慨激昂的诗，什么用死尸堵住敌人的炮口呀，用热血胶住倭奴的刀枪呀，但是，先生，这是“诗”呵！事实并不这样的，死得比蚂蚁还不如，炮口也堵不住，刀枪也胶不住。孔子曰：“以不教民战，是谓弃之。”（９）我并不全拜服孔老夫子，不过觉得这话是对的，我也正是反对大学生“赴难”的一个。 <br/><br/>　　那么，“不逃难”怎样呢？我也是完全反对。自然，现在是“敌人未到”的，但假使一到，大学生们将赤手空拳，骂贼而死呢，还是躲在屋里，以图幸免呢？我想，还是前一着堂皇些，将来也可以有一本烈士传。不过于大局依然无补，无论是一个或十万个，至多，也只能又向“国联”报告一声罢了。去年十九路军的某某英雄怎样杀敌，大家说得眉飞色舞，因此忘却了全线退出一百里的大事情，可是中国其实还是输了的。而况大学生们连武器也没有。现在中国的新闻上大登“满洲国”（１０）的虐政，说是不准私藏军器，但我们大中华民国人民来藏一件护身的东西试试看，也会家破人亡，——先生，这是很容易“为反动派所利用”的呵。 <br/><br/>　　施以狮虎式的教育，他们就能用爪牙，施以牛羊式的教育，他们到万分危急时还会用一对可怜的角。然而我们所施的是什么式的教育呢，连小小的角也不能有，则大难临头，惟有兔子似的逃跑而已。自然，就是逃也不见得安稳，谁都说不出那里是安稳之处来，因为到处繁殖了猎狗，诗曰：“贠E贠Es赐茫�鋈�裰�薄玻保薄常�酥�揭病Ｈ辉蛉��*计，固仍以“走”为上计耳。 <br/><br/>　　总之，我的意见是：我们不可看得大学生太高，也不可责备他们太重，中国是不能专靠大学生的；大学生逃了之后，却应该想想此后怎样才可以不至于单是逃，脱出诗境，踏上实地去。 <br/><br/>　　但不知先生以为何如？能给在《涛声》上发表，以备一说否？谨听裁择，并请文安。 <br/><br/>　　罗怃顿首。一月二十八夜。 <br/><br/>　　再：顷闻十来天之前，北平有学生五十多人因开会被捕，可见不逃的还有，然而罪名是“借口抗日，意图反动”，又可见虽“敌人未到”，也大以“逃难”为是也。二十九日补记。 <br/><br/>　　==========================================================================<br/><br/><br/>　　（１）本篇最初发表于一九三三年二月十一日上海《涛声》第二卷第五期，署名罗怃。原题为《三十六计走为上计》。（２）周木斋（１９１０—１９４１）江苏武进人，当时在上海从事编辑和写作。他的《骂人与自骂》，载《涛声》第二卷第四期（一九三三年一月二十一日），其中说：“最近日军侵占榆关，北平的大学生竟至要求提前放假，所愿未遂，于是纷纷自动离校。敌人未到，闻风远逸，这是绝顶离奇的了。……论理日军侵榆，……即使不能赴难，最低最低的限度也不应逃难。”又说：“写到这里，陡然的想起五四运动时期北京学生的锋芒，转眼之间，学风民气，两俱不变，我要疑心是‘北京’改为‘北平’的应验了。” <br/><br/>　　（３）“上海各界欢迎段公芝老大会”段祺瑞（字芝泉）于一九三三年一月二十四日去上海时，上海市商会等十八个团体于二月十七日为他举行欢迎会。 <br/><br/>　　（４）指三一八惨案。参看本卷第２４９页注（６）。（５）整顿风俗段祺瑞政府曾多次颁行这类政令，如一九二五年八月二十五日发布的“整顿学风令”；一九二六年三月六日，西北边防督办张之江致电段祺瑞，主张“男女之防”“维风化而奠邦本”，段政府复电表示“嘉许”，并着手“根本整饬”。 <br/><br/>　　（６）陈源于三一八惨案发生后，在《现代评论》发表《闲话》，诬蔑爱国学生是被人利用，自蹈“死地”，还诬蔑所谓“宣传赤化”的人是“直接或间接用苏俄金钱”（见一九二六年五月八日《现代评论》第三卷第七十四期的《闲话》）。 <br/><br/>　　（７）“必先安内而后可以攘外”蒋介石在一九三一年十一月三十日国民党政府外长顾维钧宣誓就职会上的“亲书训词”中提出：“攘外必先安内，统一方能御侮。”（见一九三一年十二月一日《中央日报》）此后，它成为国民党政府一贯奉行的反共卖国政策。（８）副司令指张学良。他在一九三○年六月被任命为国民党政府陆海空军副司令。 <br/><br/>　　（９）“以不教民战，是谓弃之”语见《论语·子路》。（１０）“满洲国”日本帝国主义侵占我东北后于一九三二年三月制造的傀儡政权。 <br/><br/>　　（１１）“贠E贠Es赐茫�鋈�裰�薄∮锛�妒�ば⊙拧で裳浴贰ＺOE贠E，跳跃的样子；s赐茫�*兔。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-543-7091.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-543-7093.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-543.html" action-type="chapterComment" class="comment"><i></i>南腔北调集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《周礼》正文_春官宗伯·大司乐/小师_周公旦作品 - 维普阅读网</title>
+<meta name="keywords" content="周礼,周礼原文,周礼阅读,春官宗伯·大司乐/小师全文,周公旦作品" />
+<meta name="description" content="周礼原文阅读,春官宗伯·大司乐/小师全文在线阅读,周公旦作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-34-835.html";
+var nextpage="novel-read-34-837.html";
+var indexpage = "novel-chapter-34.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-34.html">周礼</a></strong>
+<strong><a href="novel-chapter-34.html">周礼目录</a></strong>
+<span>春官宗伯·大司乐/小师</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-34-835.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>春官宗伯·大司乐/小师</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=周公旦&amp;searchsubmit=yes"  target="_blank">周公旦</a><span class="divide">|</span>发布时间：2014-07-20 16:58:00<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/>　　大司乐掌成均之法，以治建国之学政，而合国之子弟焉。凡有道者，有德者，使教焉。死则以为乐祖，祭於瞽宗。以乐德教国子，中、和、祗庸、孝、友；以乐语教国子，兴、道、讽、诵、言、语；以乐舞教国子，舞云门、大卷、大咸、大磬、大夏、大濩、大武。以六律、六同、五声、八音、六舞、大合乐。以致鬼、神、示，以和邦国，以谐万民，以安宾客，以说远人，以作动物。乃分乐而序之，以祭、以享、以祀。乃奏黄钟，歌大吕，舞云门，以祀天神；乃奏大簇，歌应钟，舞咸池，以祭地示；乃奏姑洗，歌南吕，舞大，以祀四望；乃奏蕤宾，歌函钟，舞大夏，以祭山川；乃奏夷则，歌小吕，舞大濩，以享先妣；乃奏无射，歌夹钟，舞大武，以享先祖。凡六乐者，文之以五声，播之以八音。凡六乐者，一变而致羽物及川泽之示，再变而致赢物及山林之示，三变而致鳞物及丘陵之示，四变而致毛物及坟衍之示，五变而致介物及土示，六变而致象物及天神。凡乐，圜钟为宫，黄钟为角，大蔟为征，姑洗为羽，雷鼓、雷鼗，孤竹之管；云和之琴瑟，云门之舞。冬日至，於地上之圜丘奏之，若乐六变，则天神皆降，可得而礼矣。凡乐，函钟为宫，大蔟为角，姑洗为征，南吕为羽，灵鼓、灵鼗，孙竹之管，空桑之琴瑟，咸池之舞。夏日至，於泽中之方丘奏之，若乐八变，则地示皆出，可得而礼矣。凡乐，黄钟为宫，大吕为角，大蔟为征，应钟为羽，路鼓、路鼗，阴竹之管，龙门之琴瑟，九德之歌，九之舞，於宗庙之中奏之，若乐九变，则人鬼可得而礼矣。凡乐事，大祭祀，宿县，遂従声展之。王出入，则令奏王夏；尸出入，则令奏肆夏；牲出入，则令奏昭夏，帅国子而舞，大飨不入牲。其他，皆如祭祀。大射，王出入，令奏王夏；及射，令奏驺虞，诏诸侯以弓矢舞。王大食，三宥，皆令奏钟鼓。王师大献，则令奏恺乐。凡日月食、四镇五岳崩、大傀异灾、诸侯薨，令去乐。大札、大凶、大灾、大臣死，凡国之大忧，令弛县。凡建国，禁其淫声、过声、凶声、慢声。大丧，莅廞乐器。及葬，藏乐器，亦如之。<br/><br/>　　乐师掌国学之政，以教国子小舞。凡舞，有帗舞，有羽舞，有皇舞，有旄舞，有干舞，有人舞。教乐仪，行以肆夏，趋以采荠，车亦如之。环拜以钟鼓为节。凡射，王以驺虞为节，诸侯以狸首为节，大夫以采苹为节，士以采蘩为节。凡乐，掌其序事，治其乐政。凡国之小事用乐者，令奏钟鼓。凡乐成，则告备，诏来瞽皋舞。及彻，帅学士而歌彻，令相。飨食诸侯，序其乐事，令奏钟鼓，令相，如祭之仪。燕射，帅射夫以弓矢舞，乐出入，令奏钟鼓。凡军大献，教恺歌，遂倡之。凡丧，陈乐器，则帅乐官。及序哭，亦如之。凡乐官，掌其政令，听其治讼。<br/><br/>　　大胥掌学士之版，以待致诸子。春入学舍采，合舞；秋颁学，合声。以六乐之会正舞位，以序出入舞者。比乐官，展乐器。凡祭祀之用乐者，以鼓征学士，序宫中之事。<br/><br/>　　小胥掌学士之征令而比之。觵其不敬者，巡舞列而挞其怠慢者。正乐县之位，王宫县，诸侯轩县，卿大夫判县，士特县。辨其声，凡县钟磬，半为堵，全为肆。<br/><br/>　　大师掌六律、六同以合阴阳之声。阳声：黄钟、大簇、姑洗、蕤宾、夷则、无射。阴声：大吕、应钟、南吕、函钟、小吕、夹钟。皆文之以五声：宫、商、角、徵、羽；皆播之以八音：金、石、土、革、丝、木、匏、竹。教六诗：曰风、曰赋、曰比、曰兴、曰雅、曰颂。以六德为之本，以六律为之音。大祭祀，帅瞽登歌，令奏击拊，下管播乐器，令奏鼓朄。大飨，亦如之。大射，帅瞽而歌射节。大师，执同律以听军声而诏吉凶。大丧，帅瞽而廞作谥。凡国之瞽蒙正焉。<br/><br/>　　小师掌教鼓鼗、柷、敔、埙、箫、管、弦、歌。大祭祀，登歌击拊，下管击应鼓，彻歌。大飨，亦如之。大丧，与廞。凡小祭祀、小乐事，鼓朄，掌六乐声音之节。<br/><br/>译文：<br/>　　大司乐掌管大学的教学法，建立并掌理王国有关学校的政令，聚集国子到学校里学习。凡有道艺、有德行的人，让他们在学校任教，死了就奉之为乐祖，在学校祭祀他们。用乐德教育国子具备忠诚、刚柔得当、恭敬、有原则、孝顺父母、友爱兄弟的德行，用乐语教国子掌握比喻、称引古语、背诵诗文、吟咏诗文、提起话头、回签筮述的语言按巧，用乐舞教国子学会《云门》、《大卷》、《大咸》、《大韶》、《大夏》、《大湮》、《大武》等舞蹈。用六律、六同、五声、八音和六代的舞一起配合演奏，以招致人鬼、天神和地神[而祭祀]，以使各国亲睦，民众和谐，宾客安定，远人悦服，动物繁生。<br/><br/>　　于是分别演奏六代的乐舞而[依尊卑]排列先后，用以祭祀地神、人鬼、天神。用黄钟宫的调式演奏[钟磬]，用大吕宫的调式歌唱，跳《云门》舞，以祭祀天神；用大蔟宫的调式演奏[钟磬]，用应钟宫的调式歌唱，跳《咸池》舞，以祭祀地神；用姑洗宫的调式演奏(钟磬]，用南吕宫的调式歌唱，跳《大韶》舞，以祭祀四方名山大川；用蕤宾宫的调式演奏[钟磬]，用函钟宫的调式歌唱，跳《大夏》舞，以祭祀山川；用夷则宫的调式演奏[钟磬]，用小吕宫的调式歌唱，跳《大灌》舞，以祭祀姜嫖；用无射宫的调式演奏[钟磬]，用夹钟宫的调式歌唱，跳《大武》舞，以祭祀先王、先公。所有六种调式的舞乐，都要用五声、八音相配合。<br/><br/>　　六种舞乐，演奏一遍而招致有羽毛的动物，以及川泽之神；演奏两遍而招致毛短浅的动物，以及山林之神；演奏三遍而招致有鳞甲的动物，以及丘陵之神；演奏四遍而招致毛细密的动物，以及坟衍之神；演奏五遍而招致有甲壳的动物，以及土神；演奏六遍而招致龙凤龟麟，以及天神。<br/><br/>　　凡舞乐，用圜钟律定宫音的音高，用黄钟律定角音的音高，用大蔟律定徵音的音高，用姑洗律定羽音的音高，敲响雷鼓、雷鼗，吹奏孤竹做的管，弹奏云和山的木材做的琴瑟，表演《云门》舞，冬至那天，在地上的圜丘上进行演奏，如果舞乐演奏六遍，天神就都会下降，就可以向神进献玉[继而进行祭祀了]。凡舞乐，用函钟律定宫音的音高，用大蔟律定角音的音高，用姑洗律定徵音的音高，用南宫律定羽音的音高，敲响灵鼓、灵鼗，吹奏孙竹做的管，弹奏空桑山的木材做的琴瑟，表演《咸池》舞，夏至那天，在泽中的方丘上进行演奏，如果舞乐演奏八遍，地神就都会出来，可以向神进献玉，[继而进行祭祀了]。凡舞乐，用黄钟律定宫音的音高，用大吕律定角音的音高，用大蔟律定徵音的音高，用应钟律定羽音的音高，敲响路鼓、路鼗，吹奏阴竹做的管，弹奏龙门山的木材做的琴瑟，唱《九德》歌，表演《大韶》舞，在宗庙中进行演奏，如果舞乐演奏九遍，就可以向祖先的神灵进献玉，[继而进行祭祀了]。<br/><br/>　　凡演奏音乐，如果是大祭祀，就在祭祀前夕悬挂乐器，将乐器依次陈列并试奏检查。[祭祀时]王出入就令演奏《王夏》；尸出入就令演奏《肆夏》；牲出入就令演奏《昭夏》。率领国子表演舞蹈。[招待宾客]举行大飨礼不牵牲入庙，其他都同祭祀时一样。举行大射礼，王出入就令演奏《王夏》，到王射箭的时候，就令演奏《驺虞》；告教诸侯拿着弓矢舞蹈。王大食时，要三次奏乐以劝王饱食，都命令演奏钟鼓。王出征凯旋[向宗庙祖先]大献战功，就令演奏凯乐。<br/><br/>　　凡出现日食、月食，四镇、五岳崩裂，以及大怪异的灾害，或有诸侯死，就命令彻去舞乐。大瘟疫、大饥馑、大水灾或火灾、大臣死，凡遇国家的大忧患，就命令解下悬挂的乐器。遇有大丧，要亲临督察陈放随葬的乐器。<br/><br/>　　乐师掌管有关小学的政令，而教国子小舞。凡小舞，有帗舞，有羽舞，有皇舞，有旄舞，有干舞，有人舞。教[王]依音乐节奏行礼仪：行走的时候依《肆夏》的节奏，小步快走的时候依《采荠》的节奏，乘车的时候也这样。转身行拜礼就依钟鼓的节奏。<br/><br/>　　凡举行射礼，王[射箭的时候]演奏《驺虞》为节奏，诸侯[射箭的时候]演奏《狸首》为节奏，大夫[射箭的时候]演奏《采蒴》为节奏，士[射箭的时候]演奏《采蘩》为节奏。<br/><br/>　　凡演奏音乐掌管有关[乐器陈列和演奏]先后次序的事，治理有关音乐的事务。凡国家举行小祭祀需用乐的，就命令演奏钟鼓。凡音乐演奏终了就[向王]报告演奏完毕。告诉(视瞭]扶瞽者进来[表演歌唱]，告诉[当舞的国子]表演舞蹈。到[祭祀完毕]彻祭器的时候，就率领学士而歌唱并彻去祭器，命令[视瞭]搀扶(瞽者离去]。<br/><br/>　　用飨礼或食礼招待诸侯的时候，安排有关[乐器陈列和演奏]先后次序的事，命令演奏钟鼓，命令[视嘹]搀扶[瞽者]，都如同祭祀的礼仪。举行燕射时，率领射夫手持弓矢而舞。乐人出入的时候，就命令演奏钟鼓。凡征伐而[向祖庙]大献战功，[事前]教(瞽者】唱凯歌，[到时候)就担任领唱。凡[王家的]丧事，陈设随葬的乐器时，就率领乐官[前往陈设]。到[随葬乐器填入墓穴]排列哭位而哭的时候，也率领乐官而哭。掌管所有乐官的事务和戒令，听断他们的请求和争讼。<br/><br/>　　大胥掌管学士的名册，以待[有事时]召集他们。[学士]春季入学，用菜祭先师[教他们舞蹈]，使他们动作整齐而又符合音乐节奏。秋季颁布他们的学习成绩，并使他们的歌声整齐而符合音乐节奏。用六代的音乐与舞蹈相配合并端正舞者的位置，依[年龄长幼]排列舞者出入的次序。考核乐官，检查乐器。凡祭祀需要用乐的，就击鼓召集学士。依次安排学宫中[有关教授舞乐]的事。<br/><br/>　　小胥负责[协助大胥]发布征召学士的命令而考核人数，迟到的就罚他饮酒；巡视舞蹈的队列，而挞罚怠慢的人。端正所悬挂的乐器的位置。王的乐器悬挂四面，诸侯悬挂三面，卿大夫悬挂两面，士悬挂一面。辨别所悬挂乐器的声音[是否符合音律]。凡悬挂钟磬，仅悬挂十六枚钟或十六枚磬叫做堵，钟磬全都悬挂叫做肆。<br/><br/>　　大师掌理六律、六同，以使阴声与阳声相配合。阳声是指：黄钟、大蔟、姑洗、蕤宾、夷则、无射(这六律]；阴声是指：大吕、应钟、南吕、函钟、小吕、夹钟[这六同]。[阳声和阴声]都用宫、商、角、徵、羽五声和金、石、土、革、丝、木、匏、竹八音相配合。<br/><br/>　　教[瞽蒙]六种诗的表现手法：叫做风，叫做赋，叫做比，叫做兴，叫做雅，叫做颂。[学诗的人]要以六德作为根本，用六律来确定歌唱的音调。举行大祭祀，就率瞽噱登堂歌唱，敲击拊作为开始歌唱的命令。[歌毕]堂下演奏管及其他乐器时，敲击悚作为开始演奏的命令。举行大飨礼[招待来朝诸侯]时也这样做。举行大射礼时，率领瞽噱歌唱以作为射箭的节奏。大征伐时，手持铜制的律管以辨别军将发出的呼声，而告诉[王]吉凶。有大丧时，率领瞽蒙陈设[随葬的乐器]；将把棺柩装载到柩车上的时候，[为死者]作谥号。凡王国的瞽蒙都听从大师的政教。<br/><br/>　　小师掌管教授演奏鼓、鼗、枧、敌、埙、箫、管、琴瑟和歌唱。举行大祭祀，[瞽蒙]登堂歌唱的时候，就敲击拊；[歌毕]堂下演奏管笙等乐器时，就敲击应鼓；彻祭器的时候，就歌唱。举行大飨礼[招待来朝诸侯]时也这样做。有大丧的时候，参与陈放[随葬的乐器]。凡举行小祭祀而小规模地演奏音乐，就敲击朄[以为管笙等的演奏发令]。掌管六代舞乐声音的节奏及其相互应和</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-34-835.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-34-837.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-34.html" action-type="chapterComment" class="comment"><i></i>周礼章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

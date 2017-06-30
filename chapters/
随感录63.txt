@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《热风》正文_随感录63_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="热风,热风原文,热风阅读,随感录63全文,鲁迅作品" />
+<meta name="description" content="热风原文阅读,随感录63全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-548-7418.html";
+var nextpage="novel-read-548-7420.html";
+var indexpage = "novel-chapter-548.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-548.html">热风</a></strong>
+<strong><a href="novel-chapter-548.html">热风目录</a></strong>
+<span>随感录63</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-548-7418.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>随感录63</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-04 20:10:26<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　做了《我们现在怎样做父亲》的后两日，在有岛武郎《著作集》里看到《与幼者》（２）这一篇小说，觉得很有许多好的话。“时间不住的移过去。你们的父亲的我，到那时候，怎样映在你们（眼）里，那是不能想像的了。大约像我在现在，嗤笑可怜那过去的时代一般，你们也要嗤笑可怜我的古老的心思，也未可知的。我为你们计，但愿这样子。你们若不是毫不客气的拿我做一个踏脚，超越了我，向着高的远的地方进去，那便是错的。 <br/><br/>　　“人间很寂寞。我单能这样说了就算么？你们和我，像尝过血的兽一样，尝过爱了。去罢，为要将我的周围从寂寞中救出，竭力做事罢。我爱过你们，而且永远爱着。这并不是说，要从你们受父亲的报酬，我对于‘教我学会了爱你们的你们’的要水，只是受取我的感谢罢了……像吃尽了亲的死尸，贮着力量的小狮子一样，刚强勇猛，舍了我，踏到人生上去就是了。 <br/><br/>　　“我的一生就令怎样失败，怎样胜不了诱惑；但无论如何，使你们从我的足迹上寻不出不纯的东西的事，是要做的，是一定做的。你们该从我的倒毙的所在，跨出新的脚步去。但那里走，怎么走的事，你们也可以从我的足迹上探索出来。 <br/><br/>　　“幼者呵！将又不幸又幸福的你们的父母的祝福，浸在胸中，上人生的旅路罢。前途很远，也很暗。然而不要怕。不怕的人的面前才有路。 <br/><br/>　　“走罢！勇猛着！幼者呵！” <br/><br/>　　有岛氏是白桦派（３），是一个觉醒的，所以有这等话；但里面也免不了带些眷恋凄怆的气息。 <br/><br/>　　这也是时代的关系。将来便不特没有解放的话，并且不起解放的心，更没有什么眷恋和凄怆；只有爱依然存在。——但是对于一切幼者的爱。 <br/><br/>　　==========================================================================<br/><br/><br/>　　（１）本篇最初发表于一九一九年十一月一日《新青年》第六卷第六号，署名唐俟。 <br/><br/>　　（２）有岛武郎（１８７８—１９２３）日本小说家。著作有《有岛武郎著作集》。《与幼者》见《著作集》第七辑，鲁迅曾译为中文，题为《与幼小者》，收入《现代日本小说集》中。 <br/><br/>　　（３）白桦派近代日本的一个文学派别，以一九一○年创刊《白桦》杂志而得名。他们标榜新现想主义和人道主义。有岛武郎是其重要成员。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-548-7418.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-548-7420.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-548.html" action-type="chapterComment" class="comment"><i></i>热风章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

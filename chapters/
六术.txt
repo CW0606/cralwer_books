@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《贾谊新书》正文_六术_贾谊作品 - 维普阅读网</title>
+<meta name="keywords" content="贾谊新书,贾谊新书原文,贾谊新书阅读,六术全文,贾谊作品" />
+<meta name="description" content="贾谊新书原文阅读,六术全文在线阅读,贾谊作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-235-3467.html";
+var nextpage="novel-read-235-3469.html";
+var indexpage = "novel-chapter-235.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-235.html">贾谊新书</a></strong>
+<strong><a href="novel-chapter-235.html">贾谊新书目录</a></strong>
+<span>六术</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-235-3467.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>六术</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=贾谊&amp;searchsubmit=yes"  target="_blank">贾谊</a><span class="divide">|</span>发布时间：2014-08-21 21:07:29<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>德有六理，何谓六理？道、德、性、神、明、命，此六者，德之理也。六理无不生也，已生而六理存乎所生之内，是以阴阳天地人，尽以六理为内度，内度成业，故谓之六法。六法藏内，变流而外遂，外遂六术，故谓之六行。是以阴阳各有六月之节，而天地有六合之事，人有仁义礼智信之行。行和则乐兴，乐兴则六，此之谓六行。阴阳天地之动也，不失六行，故能合六法。人谨修六行，则亦可以合六法矣。<br/><br/>　　然而人虽有六行，微细难识，唯先王能审之。凡人弗能自至，是故必待先王之教，乃知所从事。是以先王为天下设教，因人所有以之为训，道人之情，以之为真，是故内本六法，外体六行，以与诗、书、易、春秋、礼、乐六者之术，以为大义，谓之六艺。令人缘之以自修，修成则得六行矣。六行不正，反合六法。艺之所以六者，法六法而体六行故也，故曰六则备矣。<br/><br/>　　六者非独为六艺本也，他事亦皆以六为度。声音之道，以六为首，以阴阳之节为度，是故一岁十二月分而为阴阳，各六月，是以声音之器十二钟，钟当一月，其六钟阴声，六钟阳声，声之术律是而出，故谓之六律。六律和五声之调，以发阴阳天地人之清声，而内合六行六法之道。是故五声宫、商、角、征、羽，唱和相应而调和，调和而成理谓之音。声五也，必六而备，故曰声与音六。夫律之者，象测之也，所测者六，故曰六律。<br/><br/>　　人之戚属，以六为法。人有六亲。六亲始曰父，父有二子，二子为昆弟，昆弟又有子，子从父而昆弟，故为从父昆弟，从父昆弟又有子，子从祖而昆弟，故为从祖昆弟，从祖昆弟又有子，子从曾祖而昆弟，故为从曾祖昆弟，曾祖昆弟又有子，子为族兄弟。备于六，此之谓六亲。亲之始于一人，世世别离，分为六亲。亲戚非六，则失本末之度，是故六为制而止矣。六亲有次，不可相踰，相踰则宗族扰乱，不能相亲。是故先王设为昭穆三庙，以禁其乱。何为三庙？上室为昭，中室为穆，下室为孙嗣令子。各以其次，上下更居，三庙以别，亲疏有制。丧服称亲疏以为重轻，亲者重，疏者轻，故复有麤衰、齐衰、大红、细红、缌麻备六，各服其所当服。夫服则有殊，此先王之所以禁乱也。<br/><br/>　　数度之道，以六为法，数加于少，而度出于居。数度之始，始于微细。有形之物，莫细于毫。是故立一毫以为度始，十毫为发，十发为牦，十牦为分，十分为寸，十寸为尺，备于六。故先王以为天下事用也。<br/><br/>　　事之以六为法者，不可胜数也。此所言六，以效事之尽以六为度者，谓六理，可谓阴阳之六节，可谓天地之六法，可谓人之六行。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-235-3467.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-235-3469.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-235.html" action-type="chapterComment" class="comment"><i></i>贾谊新书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

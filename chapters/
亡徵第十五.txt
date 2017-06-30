@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《韩非子》正文_亡徵第十五_韩非作品 - 维普阅读网</title>
+<meta name="keywords" content="韩非子,韩非子原文,韩非子阅读,亡徵第十五全文,韩非作品" />
+<meta name="description" content="韩非子原文阅读,亡徵第十五全文在线阅读,韩非作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-23-331.html";
+var nextpage="novel-read-23-333.html";
+var indexpage = "novel-chapter-23.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-23.html">韩非子</a></strong>
+<strong><a href="novel-chapter-23.html">韩非子目录</a></strong>
+<span>亡徵第十五</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-23-331.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>亡徵第十五</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=韩非&amp;searchsubmit=yes"  target="_blank">韩非</a><span class="divide">|</span>发布时间：2014-07-18 23:24:12<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>凡人主之国小而家大，权轻而臣重者，可亡也。<br/>　　简法禁而务谋虑，荒封内而恃交援者，可亡也。<br/>　　群臣为学，门子好辩，商贾外积，小民内困者，可亡也。<br/>　　好宫室台榭陂池，事车服器玩好，罢露百姓，煎靡货财者，可亡也。<br/>　　用时日，事鬼神，信卜筮而好祭祀者，可亡也。<br/>　　听以爵不以众言参验，用一人为门户者，可亡也。官职可以重求，爵禄可以货得者，可亡也。<br/>　　缓心而无成，柔茹而寡断，好恶无决，而无所定立者，可亡也。<br/>　　饕贪而无厌，近利而好得者，可亡也。<br/>　　喜淫刑而不周於法，好辩说而不求其用，滥於文丽而不顾其功者，可亡也。<br/>　　浅薄而易见，漏泄而无藏，不能周密，而通群臣之语者，可亡也。<br/>　　很刚而不和，愎谏而好胜，不顾社稷而轻为自信者，可亡也。<br/>　　恃交援而简近邻，怙强大之救而侮所迫之国者，可亡也。<br/>　　羁旅侨士，重帑在外，上间谋计，下与民事者，可亡也。<br/>　　民信其相，下不能其上，主爱信之而弗能废者，可亡也。<br/>　　境内之杰不事，而求封外之士，不以功伐课试，而好以名问举错，羁旅起贵以陵故常者，可亡也。<br/>　　轻其适正，庶子称衡，太子未定而主即世者，可亡也。<br/>　　大心而无悔，国乱而自多，不料境内之资而易其邻敌者，可亡也。<br/>　　国小而不处卑，力少而不畏强，无礼而侮大邻，贪愎而拙交者，可亡也。<br/>　　太子已置，而娶於强敌以为后妻，则太子危，如是则群臣易虑，群臣易虑者，可亡也。<br/>　　怯慑而弱守，蚤见而心柔懦，知有谓可，断而弗敢行者，可亡也。<br/>　　出君在外而国更置，质太子未反而君易子，如是则国摧，国摧者，可亡也。挫辱大臣而狎其身，刑戮小民而逆其使，怀怒思耻而专习则贼生，贼生者，可亡也。<br/>　　大臣两重，父兄众强，内党外援以争事势者，可亡也。<br/>　　婢妾之言听，爱玩之智用，外内悲惋而数行不法者，可亡也。<br/>　　简侮大臣，无礼父兄，劳苦百姓，杀戮不辜者，可亡也。<br/>　　好以智矫法，时以行杂公，法禁变易，号令数下者，可亡也。无地固，城郭恶，无畜积，财物寡，无守战之备而轻攻伐者，可亡也。<br/>　　种类不寿，主数即世，婴儿为君，大臣专制，树羁旅以为党，数割地以待交者，可亡也。太子尊显，徒属众强，多大国之交，而威势蚤具者，可亡也。<br/>　　变褊而心急，轻疾而易动发，心悁忿而不訾前后者，可亡也。<br/>　　主多怒而好用兵，简本教而轻战攻者，可亡也。<br/>　　贵臣相妒，大臣隆盛，外藉敌国，内困百姓，以攻怨雠，而人主弗诛者，可亡也。<br/>　　君不肖而侧室贤，太子轻而庶子伉，官吏弱而人民桀，如此则国躁，国躁者，可亡也。<br/>　　藏怒而弗发，悬罪而弗诛，使群臣阴憎而愈忧惧，而久未可知者，可亡也。<br/>　　出军命将太重，边地任守太尊，专制擅命，径为而无所请者，可亡也。<br/>　　后妻淫乱，主母畜秽，外内混通，男女无别，是谓两主，两主者，可亡也。后妻贱而婢妾贵，太子卑而庶子尊，相室轻而典谒重，如此则内外乖，内外乖者，可亡也。<br/>　　大臣甚贵，偏党众强，壅塞主断而重擅国者，可亡也。<br/>　　私门之官用，马府之世，乡曲之善举，官职之劳废，贵私行而贱公功者，可亡也。<br/>　　公家虚而大臣实，正户贫而寄寓富，耕战之士困，末作之民利者，可亡也。<br/>　　见大利而不趋，闻祸端而不备，浅薄於争守之事，而务以仁义自饰者，可亡也。<br/>　　不为人主之孝，不顾社稷之利，而听主母之令，女子用国，刑馀用事者，可亡也。<br/>　　辞辩而不法，心智而无术，主多能而不以法度从事者，可亡也。<br/>　　亲臣进而故人退，不肖用事而贤良伏，无功贵而劳苦贱，如是则下怨，下怨者，可亡也。<br/>　　父兄大臣禄秩过功，章服侵等，宫室供养大侈，而人主弗禁，则臣心无穷，臣心无穷者，可亡也。<br/>　　公胥公孙与民同门，暴慠其邻者，可亡也。<br/>　　亡征者，非曰必亡，言其可亡也。<br/>　　夫两尧不能相王，两桀不能相亡；亡王之机，必其治乱，其强弱相�奇者也。木之折也必通蠹，墙之坏也必通隙。然木虽蠹，无疾风不折；墙虽隙，无大雨不坏。万乘之主，有能服术行法以为亡征之风雨者，其兼天下不难矣。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-23-331.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-23-333.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-23.html" action-type="chapterComment" class="comment"><i></i>韩非子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

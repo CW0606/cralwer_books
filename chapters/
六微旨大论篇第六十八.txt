@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《素问》正文_六微旨大论篇第六十八_黄帝作品 - 维普阅读网</title>
+<meta name="keywords" content="素问,素问原文,素问阅读,六微旨大论篇第六十八全文,黄帝作品" />
+<meta name="description" content="素问原文阅读,六微旨大论篇第六十八全文在线阅读,黄帝作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-269-4649.html";
+var nextpage="novel-read-269-4651.html";
+var indexpage = "novel-chapter-269.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-269.html">素问</a></strong>
+<strong><a href="novel-chapter-269.html">素问目录</a></strong>
+<span>六微旨大论篇第六十八</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-269-4649.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>六微旨大论篇第六十八</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=黄帝&amp;searchsubmit=yes"  target="_blank">黄帝</a><span class="divide">|</span>发布时间：2014-08-30 14:46:06<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>黄帝问曰：呜呼！远哉，天之道也，如迎浮云，若视深渊，视深渊尚可测，迎浮云莫知其极。夫子数言谨奉天道，余闻而藏之，心私异之，不知其所谓也。愿夫子溢志尽言其事，令终不灭，久而不绝，天之道可得闻乎？岐伯稽首再拜对曰：明乎哉问，天之道也！此因天之序，盛衰之时也。<br/>　　帝曰：愿闻天道六六之节盛衰何也？岐伯曰：上下有位，左右有纪。故少阳之右，阳明治之；阳明之右，太阳治之；太阳之右，厥阴治之；厥阴之右，少阴治之；少阴之右，太阴治之；太阴之右，少阳治之。此所谓气之标，盖南面而待之也。故曰：因天之序，盛衰之时，移光定位，正立而待之，此之谓也。<br/>　　少阳之上，火气治之，中见厥阴；阳明之上，燥气治之，中见太阴；太阳之上，寒气治之，中见少阴；厥阴之上，风气治之，中见少阳；少阴之上，热气治之，中见太阳；太阴之上，湿气治之，中见阳明。所谓本也，本之下，中之见也，见之下，气之标也。本标不同，气应异象。<br/>　　帝曰：其有至而至，有至而不至，有至而太过，何也？岐伯曰：至而至者和；至而不至，来气不及也；未至而至，来气有余也。帝曰：至而不至，未至而至如何？岐伯曰：应则顺，否则逆，逆则变生，变则病。帝曰：善。请言其应。岐伯曰：物，生其应也。气，脉其应也。<br/>　　帝曰：善。愿闻地理之应六节气位何如？岐伯曰：显明之右，君火之位也；君火之右，退行一步，相火治之；复行一步，土气治之；复行一步，金气治之；复行一步，水气治之；复行一步，木气治之；复行一步，君火治之。<br/>　　相火之下，水气承之；水位之下，土气承之；土位之下，风气承之；风位之下，金气承之；金位之下，火气承之；君火之下，阴精承之。帝曰：何也？岐伯曰：亢则害，承乃制，制则生化，外列盛衰，害则败乱，生化大病。<br/>　　帝曰：盛衰何如？岐伯曰：非其位则邪，当其位则正，邪则变甚，正则微。帝曰：何谓当位？岐伯曰：木运临卯，火运临午，土运临四季，金运临酉，水运临子，所谓岁会，气之平也。帝曰：非位何如？岐伯曰：岁不与会也。<br/>　　帝曰：土运之岁，上见太阴；火运之岁，上见少阳少阴；金运之岁，上见阳明；木运之岁，上见厥阴；水运之岁，上见太阳，奈何？岐伯曰：天之与会也。故《天元册》曰天符。<br/>　　天符岁会何如？岐伯曰：太一天符之会也。<br/>　　帝曰：其贵贱何如？岐伯曰：天符为执法，岁位为行令，太一天符为贵人。帝曰：邪之中也奈何？岐伯曰：中执法者，其病速而危；中行令者，其病徐而持；中贵人者，其病暴而死。帝曰：位之易也何如？岐伯曰：君位臣则顺，臣位君则逆，逆则其病近，其害速；顺则其病远，其害微。所谓二火也。<br/>　　帝曰：善。愿闻其步何如？岐伯曰：所谓步者，六十度而有奇，故二十四步积盈百刻而成日也。<br/>　　帝曰：六气应五行之变何如？岐伯曰：位有终始，气有初中，上下不同，求之亦异也。帝曰：求之奈何？岐伯曰：天气始于甲，地气始于子，子甲相合，命曰岁立，谨候其时，气可与期。<br/>　　帝曰：愿闻其岁，六气始终，早晏何如？岐伯曰：明乎哉问也！甲子之岁，初之气，天数始于水下一刻，终于八十七刻半；二之气始于八十七刻六分，终于七十五刻；三之气，始于七十六刻，终于六十二刻半；四之气，始于六十二刻六分，终于五十刻；五之气，始于五十一刻，终于三十七刻半；六之气，始于三十七刻六分，终于二十五刻。所谓初六，天之数也。<br/>　　乙丑岁，初之气，天数始于二十六刻，终于一十二刻半；二之气，始于一十二刻六分，终于水下百刻；三之气，始于一刻，终于八十七刻半；四之气，始于八十七刻六分，终于七十五刻；五之气，始于七十六刻，终于六十二刻半；六之气，始于六十二刻六分，终于五十刻。所谓六二，天之数也。<br/>　　丙寅岁，初之气，天数始于五十一刻，终于三十七刻半；二之气，始于三十七刻六分，终于二十五刻；三之气，始于二十六刻，终于一十二刻半；四之气，始于一十二刻六分，终于水下百刻；五之气，始于一刻，终于八十七刻半；六之气，始于八十七刻六分，终于七十五刻。所谓六三，天之数也。<br/>　　丁卯岁，初之气，天数始于七十六刻，终于六十二刻半；二之气，始于六十二刻六分，终于五十刻；三之气，始于五十一刻，终于三十七刻半；四之气，始于三十七刻六分，终于二十五刻；五之气，始于二十六刻，终于一十二刻半；六之气，始于一十二刻六分，终于水下百刻。所谓六四，天之数也。次戊辰岁，初之气复始于一刻，常如是无已，周而复始。<br/>　　帝曰：愿闻其岁候何如？岐伯曰：悉乎哉问也！日行一周，天气始于一刻，日行再周，天气始于二十六刻，日行三周，天气始于五十一刻，日行四周，天气始于七十六刻，日行五周，天气复始于一刻，所谓一纪也。是故寅午戌岁气会同，卯未亥岁气会同，辰申子岁气会同，巳酉丑岁气会同，终而复始。<br/>　　帝曰：愿闻其用也。岐伯曰：言天者求之本，言地者求之位，言人者求之气交。帝曰：何谓气交？岐伯曰：上下之位，气交之中，人之居也。故曰：天枢之上，天气主之；天枢之下，地气主之；气交之分，人气从之，万物由之，此之谓也。<br/>　　帝曰：何谓初中？岐伯曰：初凡三十度而有奇，中气同法。帝曰：初中何也？岐伯曰：所以分天地也。帝曰：愿卒闻之。岐伯曰：初者地气也，中者天气也。<br/>　　帝曰：其升降何如？岐伯曰：气之升降，天地之更用也。帝曰：愿闻其用何如？岐伯曰：升已而降，降者谓天；降已而升，升者谓地。天气下降，气流于地；地气上升，气腾于天。故高下相召，升降相因，而变作矣。<br/>　　帝曰：善。寒湿相遘，燥热相临，风火相值，其有闻乎？岐伯曰：气有胜复，胜复之作，有德有化，有用有变，变则邪气居之。帝曰：何谓邪乎？岐伯曰：夫物之生从于化，物之极由乎变，变化之相薄，成败之所由也。故气有往复，用有迟速，四者之有，而化而变，风之来也。帝曰：迟速往复，风所由生，而化而变，故因盛衰之变耳。成败倚伏游乎中，何也？岐伯曰：成败倚伏生乎动，动而不已，则变作矣。<br/>　　帝曰：有期乎？岐伯曰：不生不化，静之期也。帝曰：不生化乎？岐伯曰：出入废则神机化灭，升降息则气立孤危。故非出入，则无以生长壮老已；非升降，则无以生长化收藏。是以升降出入，无器不有。故器者生化之宇，器散则分之，生化息矣。故无不出入，无不升降，化有小大，期有近远，四者之有而贵常守，反常则灾害至矣。故曰无形无患，此之谓也。帝曰：善。有不生不化乎？岐伯曰：悉乎哉问也！与道合同，惟真人也。帝曰：善。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-269-4649.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-269-4651.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-269.html" action-type="chapterComment" class="comment"><i></i>素问章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

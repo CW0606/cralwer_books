@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《灵枢》正文_本藏第四十七_黄帝作品 - 维普阅读网</title>
+<meta name="keywords" content="灵枢,灵枢原文,灵枢阅读,本藏第四十七全文,黄帝作品" />
+<meta name="description" content="灵枢原文阅读,本藏第四十七全文在线阅读,黄帝作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-268-4705.html";
+var nextpage="novel-read-268-4707.html";
+var indexpage = "novel-chapter-268.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-268.html">灵枢</a></strong>
+<strong><a href="novel-chapter-268.html">灵枢目录</a></strong>
+<span>本藏第四十七</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-268-4705.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>本藏第四十七</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=黄帝&amp;searchsubmit=yes"  target="_blank">黄帝</a><span class="divide">|</span>发布时间：2014-08-30 22:11:40<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p> 黄帝问于岐伯曰：人之血气精神者，所以奉生而周于性命者也；经脉者，所以行血气而营阴阳，濡筋骨，利关节者也；卫气者，所以温分肉，充皮肤，肥腠理，司关阖者也；志意者，所以御精神，收魂魄，适寒温，和喜怒者也。是故血和则经脉流行，营复阴阳，筋骨劲强，关节清利矣；卫气和则分肉解利，皮肤调柔，腠理致密矣；志意和则精神专直，魂魄不散，悔怒不起，五藏不受邪矣；寒温和则六府化谷，风痹不作，经脉通利，肢节得安矣。此人之常平也。五藏者，所以藏精神、血气、魂魄者也。六府者，所以化水谷而行津液者也。此人之所以具受于天也，无愚智贤不肖，无以相倚也。然有其独尽天寿，而无邪僻之病，百年不衰，虽犯风雨卒寒大暑，犹有弗能害也；有其不离屏蔽室内，无怵惕之恐，然犹不免于病，可也？愿闻其故。<br/>　　　 岐伯对曰：窘乎哉问也！五藏者，所以参天地，副阴阳，而连四时，化五节者也。五藏者，固有小大、高下、坚脆、端正偏倾者，六府亦有小大、长短、厚薄、结直、缓急。凡此二十五者，各不同，或善或恶，或吉或凶，请言其方。心小则安，邪弗能伤，易伤以忧；心大则忧不能伤，易伤于邪。心高则满于肺中，悗而善忘，难开以言；心下则藏外，易伤于寒，易恐以言。心坚则藏安守固，心脆则善病消瘅热中。心端正则和利难伤，心偏倾则操持不一，无守司也。肺小则少饮，不病喘喝；肺大则多饮，善病胸痹、喉痹、逆气。肺高则上气，肩息咳；肺下则居贲迫肺，善胁下痛。肺坚则不病咳上气，肺脆则苦病消瘅易伤。肺端正则和利难伤，肺偏倾则胸偏痛也。肝小则藏安，无胁下之病；肝大则逼胃迫咽，迫咽则苦膈中，且胁下痛。肝高则上支贲切胁悗，为息贲；肝下则逼胃，胁下空，胁下空则易受邪。肝坚则藏安难伤，肝脆则善病消瘅易伤。肝端正则和利难伤，肝偏倾则胁下痛也。脾小则藏安，难伤于邪也；脾大则若凑动而痛，不能疾行。脾高则A2T9引季胁而痛；脾下则下加于大肠，下加于大肠则藏苦受邪。脾坚则藏安难伤，脾脆则善病消瘅易伤。脾端正则和利难伤，脾偏倾则善满善胀也。肾小则藏安难伤；肾大则善病腰痛，不可以俯仰，易伤以邪。肾高则苦背膂痛，不可以俯仰；肾下则腰尻痛，不可以俯仰，为孤疝。肾坚则不病腰背痛，肾脆则善病消瘅易伤。肾端正则和利难伤，肾偏倾则苦腰尻痛也。凡此二十五变者，人之所苦常病。<br/>　　　 黄帝曰：何以知其然也？岐伯曰：赤色小理者心小，粗理者心大。无A2V0骬者心高，A2V0骬小短举者心下。A2V0骬长者心下坚，A2V0骬弱小以薄者心脆。A2V0骬直下不举者心端正，A2V0骬倚一方者心偏倾也。白色小理者肺小，粗理者肺大。巨肩反膺陷喉者肺高，合腋张胁者肺下。好肩背厚者肺坚，肩背薄者肺脆。背膺厚者肺端正，胁偏疏者肺偏倾也。青色小理者肝小，粗理者肝大。广胸反骹者肝高，合胁兔骹者肝下。胸胁好者肝坚，胁骨弱者肝脆。膺腹好相得者肝端正，胁骨偏举者肝偏倾也。黄色小理者脾小，粗理者脾大。揭唇者脾高，唇下纵者脾下。唇坚者脾坚，唇大而不坚者脾脆。唇上下好者牌端正，唇偏举者脾偏倾也。黑色小理者肾小，粗理者肾大。高耳者肾高，耳后陷者肾下。耳坚者肾坚，薄不坚者肾脆。耳好前居牙车者肾端正，耳偏高者肾偏倾也。凡此诸变者，持则安，减则病也。<br/>　　　 帝曰：善。然非余之所问也。愿闻人之有不可病者，至尽天寿，虽有深忧大恐，怵惕之志，犹不能感也，甚寒大热，不能伤也；其有不离屏蔽室内，又无怵惕之恐，然不免于病者，何也？愿闻其故。岐伯曰：五藏六府，邪之舍也，请言其故。五藏皆小者，少病，苦燋心，大愁忧；五藏皆大者，缓于事，难使以忧。五藏皆高者，好高举措；五藏皆下者，好出人下。五藏皆坚者，无病；五藏皆脆者，不离于病。五藏皆端正者，和利得人心；五藏皆偏倾者，邪心而善盗，不可以为人平，反复言语也。<br/>　　　 黄帝曰：愿闻六府之应。岐伯答曰：肺合大肠，大肠者，皮其应；心合小肠，小肠者，脉其应；肝合胆，胆者，筋其应；脾合胃，胃者，肉其应；肾合三焦、膀胱，三焦、膀胱者，腠理、毫毛其应。黄帝曰：应之奈何？岐伯曰：肺应皮。皮厚者，大肠厚；皮薄者，大肠薄。皮缓，腹里大者，大肠大而长；皮急者，大肠急而短。皮滑者，大肠直；皮肉不相离者，大肠结。心应脉。皮厚者脉厚，脉厚者小肠厚；皮薄者脉薄，脉薄者小肠薄。皮缓者脉缓，脉缓者小肠大而长；皮薄而脉冲小者，小肠小而短；诸阳经脉皆多纡屈者，小肠结。脾应肉。肉A2U0坚大者胃厚，肉A2U0么者胃薄。肉A2U0小而么者胃不坚；肉A2U0不称身者胃下，胃下者，下管约不利。肉A2U0不坚者胃缓，肉A2U0无小里累者胃急。肉A2U0多小里累者胃结，胃结者，上管约不利也。肝应爪。爪厚色黄者胆厚，爪薄色红者胆薄。爪坚色青者胆急，爪濡色赤者胆缓。爪直色白无纹者胆直，爪恶色黑多纹者胆结也。肾应骨。密理厚皮者，三焦、膀胱厚；粗理薄皮者，三焦、膀胱薄。疏腠理者，三焦、膀胱缓；皮急而无毫毛者，三焦、膀胱急。毫毛美而粗者，三焦、膀胱直；稀毫毛者，三焦、膀胱结也。<br/>　　　 黄帝曰：厚薄美恶皆有形，愿闻其所病。岐伯答曰：视其外应，以知其内藏，则知所病矣。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-268-4705.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-268-4707.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-268.html" action-type="chapterComment" class="comment"><i></i>灵枢章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

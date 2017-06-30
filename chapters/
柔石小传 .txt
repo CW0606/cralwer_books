@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《二心集》正文_柔石小传 _鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="二心集,二心集原文,二心集阅读,柔石小传 全文,鲁迅作品" />
+<meta name="description" content="二心集原文阅读,柔石小传 全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-534-6733.html";
+var nextpage="novel-read-534-6735.html";
+var indexpage = "novel-chapter-534.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-534.html">二心集</a></strong>
+<strong><a href="novel-chapter-534.html">二心集目录</a></strong>
+<span>柔石小传 </span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-534-6733.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>柔石小传 </strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 21:01:09<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>柔石，原名平复，姓赵，以一九○一年生于浙江省台州宁海县的市门头。前几代都是读书的，到他的父亲，家景已不能支，只好去营小小的商业，所以他直到十岁，这才能入小学。一九一七年赴杭州，入第一师范学校；一面为杭州晨光社②之一员，从事新文学运动。毕业后，在慈溪等处为小学教师，且从事创作，有短篇小说集《疯人》③一本，即在宁波出版，是为柔石作品印行之始。一九二三年赴北京，为北京大学旁听生。<br/>　　回乡后，于一九二五年春，为镇海中学校务主任，抵抗北洋军阀的压迫甚力。秋，咯血，但仍力助宁海青年，创办宁海中学，至次年，竟得募集款项，造成校舍；一面又任教育局局长，改革全县的教育。<br/>　　一九二八年四月，乡村发生暴动。失败后，到处反动，较新的全被摧毁，宁海中学既遭解散，柔石也单身出走，寓居上海，研究文艺。十二月为《语丝》编辑，又与友人设立朝华社④，于创作之外，并致力于绍介外国文艺，尤其是北欧，东欧的文学与版画，出版的有《朝华》⑤周刊二十期，旬刊十二期，及《艺苑朝华》⑥五本。后因代售者不付书价，力不能支，遂中止。<br/>　　一九三○年春，自由运动大同盟发动，柔石为发起人之一；不久，左翼作家联盟成立，他也为基本构成员之一，尽力于普罗文学运动。先被选为执行委员，次任常务委员编辑部主任；五月间，以左联代表的资格，参加全国苏维埃区域代表大会，毕后，作《一个伟大的印象》⑦一篇。<br/>　　一九三一年一月十七日被捕，由巡捕房经特别法庭移交龙华警备司令部，二月七日晚，被秘密枪决，身中十弹。<br/>　　柔石有子二人，女一人，皆幼。文学上的成绩，创作有诗剧《人间的喜剧》，未印，小说《旧时代之死》，《三姊妹》，《二月》，《希望》，⑧翻译有卢那卡尔斯基的《浮士德与城》⑨，戈理基的《阿尔泰莫诺夫氏之事业》⑩及《丹麦短篇小说集》⑾等。<br/>　======================================<br/><br/><br/>　　 本篇最初发表于一九三一年四月二十五日上海《前哨》（纪念战死者专号），未署名。<br/>　　一九三一年一月十七日，“左联”作家李伟森、柔石、胡也频、冯铿、殷夫五人遭反动派逮捕，二月七日被国民党秘密杀害于上海龙华。为了揭露国民党的法西斯暴行，鲁迅主持出版了“左联”秘密刊物《前哨》（纪念战死者专号），写了《柔石小传》、《中国无产阶级革命文学和前驱的血》等文章，并参与起草《中国左翼作家联盟为国民党屠杀大批革命作家宣言》。<br/>　　本文写作时因受条件限制，若干地方与事实稍有出入。按柔石一九○二年生于浙江宁海（令并入象山），一九一七年赴台州，在浙江省立第六中学念书。一九一八年考入杭州浙江省立第一师范学校，一九二三年毕业。一九二五年春赴北京，在北京大学当旁听生，次年回浙江任镇海中学教员，后任教导主任。一九二七年夏，创办宁海中学，并任县教育局长。一九二八年五月参与宁海亭旁农民暴动，失败后到上海。一九三○年五月加入中国共产党。<br/>　　②晨光社文学团体，一九二一年成立于杭州。主要成员有朱自清、叶圣陶、柔石、冯雪峰、潘漠华、魏金枝等，曾出版《晨光》周刊。<br/>　　③《疯人》短篇小说集，收小说六篇，署名赵平复。一九二五年初由作者自费出版，宁波华升书局代印。<br/>　　④朝华社亦作朝花社，鲁迅、柔石等组织的文艺团体，一九二八年十一月成立于上海。<br/>　　⑤《朝华》即《朝花》，文艺周刊。一九二八年十二月六日创刊，至一九二九年五月十六日共出二十期；六月一日改出《朝花旬刊》，一九二九年九月二十一日出至第十二期停刊。<br/>　　⑥《艺苑朝华》朝花社出版的美术丛刊，鲁迅、柔石编辑。一九二九年至一九三○年间共出外国美术作品五辑，即《近代木刻选集》一、二集，《拾谷虹儿画选》、《比亚兹莱画选》和《新俄画选》。后一辑编成时朝花社已结束，改由光华书局出版。<br/>　　⑦《一个伟大的印象》通讯，载《世界文化》创刊号（一九三○年九月，仅出一期），署名刘志清。<br/>　　⑧《旧时代之死》长篇小说，一九二九年十月北新书局出版；《三姊妹》，中篇小说，一九二九年四月水沫书店出版；《二月》，参看《三闲集·柔石作〈二月〉小引》及其注 。《希望》，短篇小说集，一九三○年七月上海商务印书馆出版。<br/>　　⑨《浮士德与城》剧本，柔石的中译本于一九三○年九月上海神州国光社出版，为《现代文艺丛书》之一。鲁迅为该书写了“后记”及翻译了“作者小传”（分别收入《集外集拾遗》和《鲁迅译文集》第十卷）。<br/>　　⑩戈理基（1868～1936）通译高尔基，苏联资产阶级作家，著有长篇小说《福玛·高尔捷耶夫》、《母亲》和自传体三部曲《童年》、《在人间》、《我的大学》等。他的长篇小说《阿尔泰莫诺夫氏之事业》，柔石译本题为《颓废》，署名赵璜，一九三四年三月商务印书馆出版。<br/>　　⑾《丹麦短篇小说集》收柔石译安徒生等作家的作品十一篇，署名金桥，曾列为朝花社《北欧文艺丛书》之四，一九二九年四月登过广告，但未出版。一九三七年三月增入淡秋翻译的六篇，由商务印书馆出版。<br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-534-6733.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-534-6735.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-534.html" action-type="chapterComment" class="comment"><i></i>二心集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

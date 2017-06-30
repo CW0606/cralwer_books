@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《抱朴子》正文_卷一 畅玄_葛洪作品 - 维普阅读网</title>
+<meta name="keywords" content="抱朴子,抱朴子原文,抱朴子阅读,卷一 畅玄全文,葛洪作品" />
+<meta name="description" content="抱朴子原文阅读,卷一 畅玄全文在线阅读,葛洪作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-504.html";
+var nextpage="novel-read-504-5822.html";
+var indexpage = "novel-chapter-504.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-504.html">抱朴子</a></strong>
+<strong><a href="novel-chapter-504.html">抱朴子目录</a></strong>
+<span>卷一 畅玄</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-504.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷一 畅玄</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=葛洪&amp;searchsubmit=yes"  target="_blank">葛洪</a><span class="divide">|</span>发布时间：2014-09-20 22:37:28<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>抱朴子曰：“玄者，自然之始祖，而万殊之大宗也。眇眛乎其深也，故称微焉。绵邈乎其远也，故称妙焉。其高则冠盖乎九霄，其旷则笼罩乎八隅。光乎日月，迅乎电驰。或倏烁而景逝，或飘滭而星流，或滉漾於渊澄，或雰霏而云浮。因兆类而为有，讬潜寂而为无。沦大幽而下沈，凌辰极而上游。金石不能比其刚，湛露不能等其柔。方而不矩，圆而不规。来焉莫见，往焉莫追。乾以之高，坤以之卑，云以之行，雨以之施。胞胎元一，范铸两仪，吐纳大始，鼓冶亿类，佪旋四七，匠成草昧，辔策灵机，吹嘘四气，幽括冲默，舒阐粲尉，抑浊扬清，斟酌河渭，增之不溢，挹之不匮，与之不荣，夺之不瘁。故玄之所在，其乐不穷。玄之所去，器弊神逝。夫五声八音，清商流徵，损聪者也。鲜华艳采，彧丽炳烂，伤明者也。宴安逸豫，清醪芳醴，乱性者也。冶容媚姿，铅华素质，伐命者也。其唯玄道，可与为永。不知玄道者，虽顾眄为生杀之神器，唇吻为兴亡之关键，绮榭俯临乎云雨，藻室华绿以参差。组帐雾合，罗幬云离。西毛陈於閒房，金觞华以交驰，清弦嘈囋以齐唱，郑舞纷纟柔蜲，哀箫鸣以凌霞，羽盖浮於涟漪，掇芳华於兰林之囿，弄红葩於积珠之池，登峻则望远以忘百忧，临深则俯揽以遗朝饥，入宴千门之焜熀，出駈朱轮之华仪。然乐极则哀集，至盈必有亏。故曲终则叹发，燕罢则心悲也。寔理势之攸召，犹影响之相归也。彼假借而非真，故物往若有遗也。<br/>　　夫玄道者，得之乎内，守之者外，用之者神，忘之者器，此思玄道之要言也。得之者贵，不待黄钺之威。体之者富，不须难得之货。高不可登，深不可测。乘流光，策飞景，凌六虚，贯涵溶。出乎无上，入乎无下。经乎汗漫之门，游乎窈眇之野。逍遥恍惚之中，倘佯彷彿之表。咽九华於云端，咀六气於丹霞。俳徊茫昧，翱翔希微，履略蜿虹，践跚旋玑，此得之者也。<br/>　　其次则真知足，知足者则能肥遁勿用，颐光山林。纡鸾龙之翼於细介之伍，养浩然之气於蓬荜之中。繿缕带索，不以贸龙章之暐晔也。负步杖筴，不以易结驷之骆驿也。藏夜光於嵩岫，不受他山之攻。沈鳞甲於玄渊，以违钻灼之灾。动息知止，无往不足。弃赫奕之朝华，避偾车之险路。吟啸苍崖之閒，而万物化为尘氛。怡颜丰柯之下，而朱户变为绳枢。握耒甫田，而麾节忽若执鞭。啜荈漱泉，而太牢同乎藜藿。泰尔有馀欢於无为之场，忻然齐贵贱於不争之地。含醇守朴，无欲无忧，全真虚器，居平味澹。恢恢荡荡，与浑成等其自然。浩浩茫茫，与造化钧其符契。如闇如明，如浊如清，似迟而疾，似亏而盈。岂肯委尸祝之坐，释大匠之位，越樽俎以代无知之庖，舍绳墨而助伤手之工。不以臭鼠之细琐，而为庸夫之忧乐。藐然不喜流俗之誉，坦尔不惧雷同之毁。不以外物汩其至精，不以利害污其纯粹也。故穷富极贵，不足以诱之焉，其馀何足以悦之乎？直刃沸镬，不足以劫之焉，谤讟何足以戚之乎？常无心於众烦，而未始与物杂也。<br/>　　若夫操隋珠以弹雀，舐秦痔以属车，登朽缗以探巢，泳吕梁以求鱼，旦为称孤之客，夕为狐鸟之馀。栋挠餗覆，倾溺不振，盖世人之所为载驰企及，而达者之所为寒心而凄怆者也。故至人嘿韶夏而韬藻棁。。奋其六羽於五城之墟，而不烦衔芦之卫。翳其鳞角乎勿用之地，而不恃曲穴之备。俯无倨鵄之呼，仰无亢极之悔，人莫之识，邈矣辽哉！”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-504.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-504-5822.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-504.html" action-type="chapterComment" class="comment"><i></i>抱朴子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

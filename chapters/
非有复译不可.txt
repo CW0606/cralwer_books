@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《且介亭杂文二集》正文_非有复译不可_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="且介亭杂文二集,且介亭杂文二集原文,且介亭杂文二集阅读,非有复译不可全文,鲁迅作品" />
+<meta name="description" content="且介亭杂文二集原文阅读,非有复译不可全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-545-7334.html";
+var nextpage="novel-read-545-7336.html";
+var indexpage = "novel-chapter-545.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-545.html">且介亭杂文二集</a></strong>
+<strong><a href="novel-chapter-545.html">且介亭杂文二集目录</a></strong>
+<span>非有复译不可</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-545-7334.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>非有复译不可</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-02 22:25:14<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>好像有人说过，去年是“翻译年”（２）；其实何尝有什么了不起的翻译，不过又给翻译暂时洗去了恶名却是真的。 <br/><br/>　　可怜得很，还只译了几个短篇小说到中国来，创作家就出现了，说它是媒婆，而创作是处女。（３）在男女交际自由的时候，谁还喜欢和媒婆周旋呢，当然没落。后来是译了一点文学理论到中国来，但“批评家”幽默家之流又出现了，说是“硬译”，“死译”，“好像看地图”（４），幽默家还从他自己的脑子里，造出可笑的例子来（５），使读者们“开心”，学者和大师们的话是不会错的，“开心”也总比正经省力，于是乎翻译的脸上就被他们画上了一条粉。 <br/><br/>　　但怎么又来了“翻译年”呢，在并无什么了不起的翻译的时候？不是夸大和开心，它本身就太轻飘飘，禁不起风吹雨打的缘故么？ <br/><br/>　　于是有些人又记起了翻译，试来译几篇。但这就又是“批评家”的材料了，其实，正名定分，他是应该叫作“唠叨家”的，是创作家和批评家以外的一种，要说得好听，也可以谓之“第三种”。他像后街的老虔婆一样，并不大声，却在那里唠叨，说是莫非世界上的名著都译完了吗，你们只在译别人已经译过的，有的还译过了七八次。 <br/><br/>　　记得中国先前，有过一种风气，遇见外国——大抵是日本——有一部书出版，想来当为中国人所要看的，便往往有人在报上登出广告来，说“已在开译，请万勿重译为幸”。他看得译书好像订婚，自己首先套上约婚戒指了，别人便莫作非分之想。自然，译本是未必一定出版的，倒是暗中解约的居多；不过别人却也因此不敢译，新妇就在闺中老掉。这种广告，现在是久不看见了，但我们今年的唠叨家，却正继承着这一派的正统。他看得翻译好像结婚，有人译过了，第二个便不该再来碰一下，否则，就仿佛引诱了有夫之妇似的，他要来唠叨，当然罗，是维持风化。但在这唠叨里，他不也活活的画出了自己的猥琐的嘴脸了么？ <br/><br/>　　前几年，翻译的失了一般读者的信用，学者和大师们的曲说固然是原因之一，但在翻译本身也有一个原因，就是常有胡乱动笔的译本。不过要击退这些乱译，诬赖，开心，唠叨，都没有用处，唯一的好方法是又来一回复译，还不行，就再来一回。譬如赛跑，至少总得有两个人，如果不许有第二人入场，则先在的一个永远是第一名，无论他怎样蹩脚。所以讥笑复译的，虽然表面上好像关心翻译界，其实是在毒害翻译界，比诬赖，开心的更有害，因为他更阴柔。 <br/><br/>　　而且复译还不止是击退乱译而已，即使已有好译本，复译也还是必要的。曾有文言译本的，现在当改译白话，不必说了。即使先出的白话译本已很可观，但倘使后来的译者自己觉得可以译得更好，就不妨再来译一遍，无须客气，更不必管那些无聊的唠叨。取旧译的长处，再加上自己的新心得，这才会成功一种近于完全的定本。但因言语跟着时代的变化，将来还可以有新的复译本的，七八次何足为奇，何况中国其实也并没有译过七八次的作品。如果已经有，中国的新文艺倒也许不至于现在似的沉滞了。 <br/><br/>　　三月十六日。 <br/><br/>　　==========================================================================<br/><br/><br/>　　（１）本篇最初发表于一九三五年四月上海《文学》月刊第四卷第四号“文学论坛”栏，署名庚。 <br/><br/>　　（２）“翻译年”当系一九三五年。《文学》第四卷第一号（一九三五年一月）“文学论坛”栏载有《今年该是什么年》一文，其中说：“过去的一年是‘杂志年’，这好像大家都已承认了。今年该是什么年呢？记得也早已有人预测过——不，祝愿过——该是‘翻译年’。”（３）郭沫若在一九二一年二月《民铎》月刊第二卷第五号发表致该刊编者李石岑的信中说：“我觉得国内人士只注重媒婆，而不注重处子；只注重翻译，而不注重产生。”认为“处子应当尊重，媒婆应当稍加遏抑。” <br/><br/>　　（４）指梁实秋。他在《新月》第二卷第六、七号合刊（一九二九年九月）发表的《论鲁迅先生的“硬译”》一文中，指摘鲁迅的翻译是“硬译”、“死译”，并说：“读这样的书，就如同看地图一般，要伸着手指来寻找句法的线索位置。”参看《二心集·“硬译”与“文学的阶级性”》。 <br/><br/>　　（５）指刘半农。他在《中国文法通论》的《四版附言》中，故意将《论语·学而》中的“子曰：‘学而时习之，不亦说乎？’”一句，按欧化句法排列成几种句式，加以嘲笑。参看《花边文学·玩笑只当它玩笑（上）》。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-545-7334.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-545-7336.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-545.html" action-type="chapterComment" class="comment"><i></i>且介亭杂文二集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

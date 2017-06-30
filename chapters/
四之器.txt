@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《茶经》正文_四之器_陆羽作品 - 维普阅读网</title>
+<meta name="keywords" content="茶经,茶经原文,茶经阅读,四之器全文,陆羽作品" />
+<meta name="description" content="茶经原文阅读,四之器全文在线阅读,陆羽作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1023-10352.html";
+var nextpage="novel-read-1023-10354.html";
+var indexpage = "novel-chapter-1023.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1023.html">茶经</a></strong>
+<strong><a href="novel-chapter-1023.html">茶经目录</a></strong>
+<span>四之器</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1023-10352.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>四之器</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=陆羽&amp;searchsubmit=yes"  target="_blank">陆羽</a><span class="divide">|</span>发布时间：2014-11-26 21:00:29<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　风炉：风炉以铜铁铸之，如古鼎形，厚三分，缘阔九分，令六分虚中，致其圬墁，凡三足。古文书二十一字，一足云“坎上巽下离于中”，一足云“体均五行去百疾”，一足云“圣唐灭胡明年铸”。其三足之间设三窗，底一窗，以为通飚漏烬之所，上并古文书六字：一窗之上书“伊公”二字，一窗之上书“羹陆”二字，一窗之上书“氏茶”二字，所谓“伊公羹陆氏茶”也。置墆?臬于其内，设三格：其一格有翟焉，翟者，火禽也，画一卦曰离；其一格有彪焉，彪者，风兽也，画一卦曰巽；其一格有鱼焉，鱼者，水虫也，画一卦曰坎。巽主风，离主火，坎主水。风能兴火，火能熟水，故备其三卦焉。其饰以连葩、垂蔓、曲水、方文之类。其炉或锻铁为之，或运泥为之，其灰承作三足，铁柈台之。　　筥：筥以竹织之，高一尺二寸，径阔七寸，或用藤作，木楦，如筥形，织之六出，固眼其底，盖若利箧口铄之。　　炭挝：炭挝以铁六棱制之，长一尺，锐一丰，中执细头，系一小钅展，以饰挝也。若今之河陇军人木吾也，或作鎚，或作斧，随其便也。<br/><br/>　　火筴：火筴一名箸，若常用者圆直一尺三寸，顶平截，无葱台勾锁之属，以铁或熟铜制之。<br/><br/>　　鍑：鍑以生铁为之，今人有业冶者所谓急铁。其铁以耕刀之趄炼而铸之，内摸土而外摸沙土。滑于内，易其摩涤；沙涩于外，吸其炎焰。方其耳，以正令也；广其缘，以务远也；长其脐，以守中也。脐长则沸中，沸中则末易扬，末易扬则其味淳也。洪州以瓷为之，莱州以石为之，瓷与石皆雅器也，性非坚实，难可持久。用银为之，至洁，但涉于侈丽。雅则雅矣，洁亦洁矣，若用之恒而卒归于银也。　　交床：交床以十字交之，剜中令虚，以支鍑也<br/><br/>　　夹：夹以小青竹为之，长一尺二寸，令一寸有节，节已上剖之，以炙茶也。彼竹之筱津润于火，假其香洁以益茶味，恐非林谷间莫之致。或用精铁熟铜之类，取其久也。　　纸囊：纸囊以剡藤纸白厚者夹缝之，以贮所炙茶，使不泄其香也。<br/><br/>　　碾：碾以橘木为之，次以梨、桑、桐柘为臼，内圆而外方。内圆备于运行也，外方制其倾危也。内容堕而外无余木，堕形如车轮，不辐而轴焉，长九寸，阔一寸七分，堕径三寸八分，中厚一寸，边厚半寸，轴中方而执圆，其拂末以鸟羽制之。<br/><br/>　　罗合：罗末以合盖贮之，以则置合中，用巨竹剖而屈之，以纱绢衣之，其合以竹节为之，或屈杉以漆之。高三寸，盖一寸，底二寸，口径四寸。<br/><br/>　　则：则以海贝蛎蛤之属，或以铜铁竹匕策之类。则者，量也，准也，度也。凡煮水一升，用末方寸匕。若好薄者减之，嗜浓者增之，故云则也。<br/><br/>　　水方：水方以椆木、槐、楸、梓等合之，其里并外缝漆之，受一斗。<br/><br/>　　漉水囊：漉水囊若常用者，其格以生铜铸之，以备水湿，无有苔秽腥涩。意以熟铜苔秽、铁腥涩也。林栖谷隐者或用之竹木，木与竹非持久涉远之具，故用之生铜。其囊织青竹以卷之，裁碧缣以缝之，纽翠钿以缀之，又作绿油囊以贮之，圆径五寸，柄一寸五分。<br/><br/>　　瓢：瓢一曰牺杓，剖瓠为之，或刊木为之。晋舍人杜毓《荈赋》云：“酌之以匏。”匏，瓢也，口阔胫薄柄短。永嘉中，馀姚人虞洪入瀑布山采茗，遇一道士云：“吾丹丘子，祈子他日瓯牺之余乞相遗也。”牺，木杓也，今常用以梨木为之。<br/><br/>　　竹筴：竹筴或以桃、柳、蒲、葵木为之，或以柿心木为之，长一尺，银裹两头。<br/><br/>　　鹾簋：鹾簋以瓷为之，圆径四寸。若合形，或瓶或罍，贮盐花也。其揭竹制，长四寸一分，阔九分。揭，策也。<br/><br/>　　熟盂：熟盂以贮熟水，或瓷或沙，受二升。<br/><br/>　　碗：碗，越州上，鼎州次，婺州次，岳州次，寿州、洪州次。或者以邢州处越州上，殊为不然。若邢瓷类银，越瓷类玉，邢不如越一也；若邢瓷类雪，则越瓷类冰，邢不如越二也；邢瓷白而茶色丹，越瓷青而茶色绿，邢不如越三也。晋·杜毓《荈赋》所谓器择陶拣，出自东瓯。瓯，越也。瓯，越州上口唇不卷，底卷而浅，受半升已下。越州瓷、岳瓷皆青，青则益茶，茶作白红之色。邢州瓷白，茶色红；寿州瓷黄，茶色紫；洪州瓷褐，茶色黑：悉不宜茶。<br/><br/>　　畚：畚以白蒲卷而编之，可贮碗十枚。或用筥，其纸帕，以剡纸夹缝令方，亦十之也。<br/><br/>　　札：札缉栟榈皮以茱萸木夹而缚之。或截竹束而管之，若巨笔形。<br/><br/>　　涤方：涤方以贮涤洗之余，用楸木合之，制如水方，受八升。<br/><br/>　　滓方：滓方以集诸滓，制如涤方，处五升。　　巾：巾以絁为之，长二尺，作二枚，玄用之以洁诸器。<br/><br/>　　具列：具列或作床，或作架，或纯木纯竹而制之，或木法竹黄黑可扃而漆者，长三尺，阔二尺，高六寸，其到者悉敛诸器物，悉以陈列也。<br/><br/>　　都篮：都篮以悉设诸器而名之。以竹篾内作三角方眼，外以双篾阔者经之，以单篾纤者缚之，递压双经作方眼，使玲珑。高一尺五寸，底阔一尺，高二寸，长二尺四寸，阔二尺。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1023-10352.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1023-10354.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1023.html" action-type="chapterComment" class="comment"><i></i>茶经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

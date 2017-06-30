@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《三都赋》正文_蜀都赋_左思作品 - 维普阅读网</title>
+<meta name="keywords" content="三都赋,三都赋原文,三都赋阅读,蜀都赋全文,左思作品" />
+<meta name="description" content="三都赋原文阅读,蜀都赋全文在线阅读,左思作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-573-7724.html";
+var nextpage="novel-chapter-573.html";
+var indexpage = "novel-chapter-573.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-573.html">三都赋</a></strong>
+<strong><a href="novel-chapter-573.html">三都赋目录</a></strong>
+<span>蜀都赋</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-573-7724.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>蜀都赋</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=左思&amp;searchsubmit=yes"  target="_blank">左思</a><span class="divide">|</span>发布时间：2014-10-09 20:31:05<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　有西蜀公子者，言于东吴王孙，曰：盖闻天以日月为纲，地以四海为纪。九土星分，万国错跱。崤函有帝皇之宅，河洛为王者之里。吾子岂亦曾闻蜀都之事欤?请为左右扬搉而陈之。<br/><br/>　　夫蜀都者，盖兆基于上世，开国于中古。廓灵关以为门，包玉垒而为宇。带二江之双流，抗峨眉之重阻。水陆所凑，兼六合而交会焉;丰蔚所盛，茂八区而庵蔼焉。<br/><br/>　　于前则跨蹑犍牂，枕倚交趾。经途所亘，五千余里。山阜相属，含溪怀谷。岗峦纠纷，触石吐云。郁葐蒕以翠微，崛巍巍以峨峨。干青霄而秀出，舒丹气而为霞。龙池瀑濆其隈，漏江伏流溃其阿。汩若汤谷之扬涛，沛若蒙汜之涌波。于是乎邛竹缘岭，菌桂临崖。旁挺龙目，侧生荔枝。布绿叶之萋萋，结朱实之离离。迎隆冬而不凋，常晔晔以猗猗。孔翠群翔，犀象竞驰。白雉朝雊，猩猩夜啼。金马骋光而绝景，碧鸡儵忽而曜仪。火井沈荧于幽泉，高爓飞煽于天垂。其间则有虎珀丹青，江珠瑕英。金沙银砾，符采彪炳，晖丽灼烁。<br/><br/>　　于后则却背华容，北指昆仑。缘以剑阁，阻以石门。流汉汤汤，惊浪雷奔。望之天回，即之云昏。水物殊品，鳞介异族。或藏蛟螭，或隐碧玉。嘉鱼出于丙穴，良木攒于褒谷。其树则有木兰梫桂，杞櫹椅桐，椶枒楔枞。楩柟幽蔼于谷底，松柏蓊郁于山峰。擢修干，竦长条。扇飞云，拂轻霄。羲和假道于峻歧，阳乌回翼乎高标。巢居栖翔，聿兼邓林。穴宅奇兽，窠宿异禽。熊罴咆其阳，雕鹗鴥其阴。猿狖腾希而竞捷，虎豹长啸而永吟。<br/><br/>　　于东则左绵巴中，百濮所充。外负铜梁于宕渠，内函要害于膏腴。其中则有巴菽巴戟，灵寿桃枝。樊以蒩圃，滨以盐池。蟞蛦山栖，鼋龟水处。潜龙蟠于沮泽，应鸣鼓而兴雨。丹沙赩炽出其阪，蜜房郁毓被其阜。山图采而得道，赤斧服而不朽。若乃刚悍生其方，风谣尚其武。奋之则賨旅，玩之则渝舞。锐气剽于中叶，蹻容世于乐府。<br/><br/>　　于西则右挟岷山，涌渎发川。陪以白狼，夷歌成章。坰野草昧，林麓黝儵。交让所植，蹲鸱所伏。百药灌丛，寒卉冬馥。异类众伙，于何不育?其中则有青珠黄环，碧砮芒消。或丰绿荑，或蕃丹椒。麋芜布濩于中阿，风连莚蔓于兰皋。红葩紫饰，柯叶渐苞。敷橤葳蕤，落英飘飖。神农是尝，卢跗是料。芳追气邪，味蠲疠痟。<br/><br/>　　其封域之内，则有原隰坟衍，通望弥博。演以潜沬，浸以绵雒。沟洫脉散，疆里绮错。黍稷油油，稻莫莫。指渠口以为云门，洒滮池而为陆泽。虽星毕之滂遝，尚未齐其膏液。<br/><br/>　　尔乃邑居隐赈，夹江傍山。栋宇相望，桑梓接连。家有盐泉之井，户有橘柚之园。其园则林檎枇杷，橙柿梬楟。榹桃函列，梅李罗生。百果甲宅，异色同荣。朱樱春熟，素柰夏成。若乃大火流，凉风厉。白露凝，微霜结。紫梨津润，樼栗罅发。蒲陶乱溃，若榴竞裂。甘至自零，芬芬酷烈。其园则有蒟蒻茱萸，瓜畴芋区。甘蔗辛姜，阳蓲阴敷。日往菲薇，月来扶疏。任土所丽，众献而储。<br/><br/>　　其沃瀛则有攒蒋丛蒲，绿菱红莲。杂以蕴藻，糅以苹蘩。总茎柅柅，裛叶蓁蓁。蕡实时味，王公羞焉。其中则有鸿俦鹄侣，振鹭鹈鹕。晨凫旦至，候雁衔芦。木落南翔，冰泮北徂。云飞水宿，哢吭清渠。其深则有白鼋命鳖，玄獭上祭。鳣鲔鳟鲂，鮷鳢鲨鲿。差鳞次色，锦质报章。跃涛戏濑，中流相忘。于是乎金城石郭，兼帀中区。既丽且崇，实号成都。辟二九之通门，画方轨之广涂。营新宫于爽垲，拟承明而起庐。结阳城之延阁，飞观榭乎云中。开高轩以临山，列绮窗而瞰江。内则议殿爵堂，武义虎威。宣化之闼，崇礼之闱。华阙双邈，重门洞开。金铺交映，玉题相晖。外则轨躅八达，里闬对出。比屋连甍，千庑万室。亦有甲第，当衢向术。坛宇显敞，高门纳驷。庭扣钟磬，堂抚琴瑟。匪葛匪姜，畴能是恤?<br/><br/>　　亚以少城，接乎其西。市廛所会，万商之渊。列隧百重，罗肆巨千。贿货山积，纤丽星繁。都人士女，袨服靓妆。贾贸墆鬻，舛错纵横。异物崛诡，奇于八方。布有橦华，麫有桄榔。邛杖传节于大夏之邑，蒟酱流味于番禺之乡。舆辇杂沓，冠带混并。累毂叠迹，叛衍相倾。喧哗鼎沸，则哤聒宇宙;嚣尘张天，则埃壒曜灵。阛阓之里，伎巧之家。百室离房，机杼相和。贝锦斐成，濯色江波。黄润比筒，籯金所过。<br/><br/>　　侈侈隆富，卓郑埒名。公擅山川，货殖私庭。藏镪巨万，鈲摫兼呈。亦以财雄，翕习边城。三蜀之豪，时来时往。养交都邑，结俦附党。剧谈戏论，扼腕抵掌。出则连骑，归从百两。若其旧俗，终冬始春。吉日良辰，置酒高堂，以御嘉宾。金罍中坐，肴烟四陈。觞以清醥，鲜以紫鳞。羽爵执竞，丝竹乃发。巴姬弹弦，汉女击节。起西音于促柱，歌江上之飉厉。纡长袖而屡舞，翩跹跹以裔裔。合樽促席，引满相罚。乐饮今夕，一醉累月。<br/><br/>　　若夫王孙之属，郤公之伦。从禽于外，巷无居人。并乘骥子，俱服鱼文。玄黄异校，结驷缤纷。西逾金堤，东越玉津。朔别期晦，匪日匪旬。蹴蹈蒙笼，涉寥廓。鹰犬倏眒，罻罗络幕。毛群陆离，羽族纷泊。翕响挥霍，中网林薄。屠麖麋，翦旄麈。带文蛇，跨雕虎。志未骋，时欲晚。追轻翼，赴绝远。出彭门之阙，驰九折之阪。经三峡之峥嵘，蹑五屼之蹇浐。戟食铁之兽，射噬毒之鹿。皛貙氓于葽草，弹言鸟于森木。拔象齿，戾犀角。鸟铩翮，兽废足。<br/><br/>　　殆而朅来相与，第如滇池，集于江洲。试水客，舣轻舟。娉江婓，与神游。罨翡翠，钓鰋鮋。下高鹄，出潜虬。吹洞箫，发棹讴。感鱘鱼，动阳侯。腾波沸涌，珠贝汜浮。若云汉含星，而光耀洪流。将飨獠者，张帟幕，会平原。酌清酤，割芳鲜。饮御酣，宾旅旋。车马雷骇，轰轰阗阗。若风流雨散，漫乎数百里间。斯盖宅土之所安乐，观听之所踊跃也。焉独三川，为世朝市?<br/><br/>　　若乃卓荦奇谲，倜傥罔已。一经神怪，一纬人理。远则岷山之精，上为井络。天帝运期而会昌，景福肸飨而兴作。碧出苌弘之血，鸟生杜宇之魄。妄变化而非常，羌见伟于畴昔。近则江汉炳灵，世载其英。蔚若相如，皭若君平。王褒韡晔而秀发，杨雄含章而挺生。幽思绚道德，摛藻掞天庭。考四海而为儁，当中叶而擅名。是故游谈者以为誉，造作者以为程也。至乎临谷为塞，因山为障。峻岨塍埒长城，豁险吞若巨防。一人守隘，万夫莫向。公孙跃马而称帝，刘宗下辇而自王。由此言之，天下孰尚?故虽兼诸夏之富有，犹未若兹都之无量也。<br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-573-7724.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-573.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-573.html" action-type="chapterComment" class="comment"><i></i>三都赋章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

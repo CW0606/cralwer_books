@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《难经》正文_第56－61难_扁鹊作品 - 维普阅读网</title>
+<meta name="keywords" content="难经,难经原文,难经阅读,第56－61难全文,扁鹊作品" />
+<meta name="description" content="难经原文阅读,第56－61难全文在线阅读,扁鹊作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-35-865.html";
+var nextpage="novel-read-35-867.html";
+var indexpage = "novel-chapter-35.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-35.html">难经</a></strong>
+<strong><a href="novel-chapter-35.html">难经目录</a></strong>
+<span>第56－61难</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-35-865.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第56－61难</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=扁鹊&amp;searchsubmit=yes"  target="_blank">扁鹊</a><span class="divide">|</span>发布时间：2014-07-21 20:32:38<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　五十六难曰：五脏之积，各有名乎？以何月、何日得之？然：肝之积，名曰肥气，在左胁下，如覆杯，有头足。久不愈，令人发咳逆，疟，连岁不已。以季夏戊己日得之。何以言之？肺病传于肝，肝当传脾，脾季夏适王，王者不受邪，肝复欲还肺，肺不肯受，故留结为积。故知肥气以季夏戊己日得之，心之积，名曰伏梁，起脐上，大如臂，上至心下。久不愈，令人病烦心。以秋庚辛日得之。何以言之？肾病传心，心当传肺，肺以秋适王，王者不受邪，心复欲还肾，肾不肯受，故留结为积。故知伏梁以秋庚辛日得之。脾之积，名曰痞气，在胃脘，覆大如盘。久不愈，令人四肢不收，发黄疸，饮食不为肌肤。以冬壬癸日得之。何以言之？肝病传脾，脾当传肾，肾以冬适王，王者不受邪，脾复欲还肝，肝不肯受，故留结为积。故知痞气以冬壬癸日得之。肺之积，名曰息贲，在右胁下，覆大如杯。久不已，令人洒淅寒热，喘咳，发肺壅。以春甲乙日得之。何以言之？心病传肺，肺当传肝，肝以春适王，王者不受邪，肺复欲还心，心不肯受，故留结为积。故知息贲以春甲乙日得之。肾之积，名曰贲豚，发于少腹，上至心下，若豚状，或上或下无时。久不已，令人喘逆，骨痿少气。以夏丙丁日得之。何以言之？脾病传肾，肾当传心，心以夏适王，王者不受邪，肾复欲还脾，脾不肯受，故留结为积。故知贲豚以夏丙丁日得之。此五积之要法也。<br/><br/>　　五十七难曰：泄凡有几？皆有名不？然：泄凡有五，其名不同。有胃泄，有脾泄，有大肠泄，有小肠泄，有大瘕泄，名曰后重。胃泄者，饮食不化，色黄。脾泄者、腹胀满，泄注，食即呕吐逆。大肠泄者，食已窘迫，大便色白，肠鸣切痛。小肠泄者，溲而便脓血，少腹痛。大瘕泄者，里急后重，数至圊而不能便，茎中痛。此五泄之要法也。<br/><br/>　　五十八难曰：伤寒有几？其脉有变不，然：伤寒有五，有中风，有伤寒，有湿温，有热病，有温病，其所苦各不同。中风之脉，阳浮而滑，阴濡而弱；湿温之脉，阳濡而弱，阴小而急；伤寒之脉，阴阳俱盛而紧涩；热病之脉，阴阳俱浮，浮之而滑，沉之散涩；温病之脉，行在诸经，不知何经之动也，各随其经所在而取之。伤寒有汗出而愈，下之而死者；有汗出而死，下之而愈者，何也？然：阳虚阴盛，汗出而愈，下之即死；阳盛阴虚，汗出而死，下之而愈。寒热之病，候之如何也？然：皮寒热者，皮不可近席，毛发焦，鼻槁，不得汗；肌寒热者，肌痛，唇舌槁，无汗；骨寒热者，病无所安，汗注不休，齿本槁痛。　　五十九难曰：狂癫之病，何以别之？然：狂疾之始发，少卧而不饥，自高贤也，自辨智也，自贵倨也，妄笑好歌乐，妄行不休是也，癫疾始发，意不乐，僵仆直视。其脉三部阴阳俱盛是也。六十难曰：头心之病，有厥痛，有真痛，何谓也？然：手三阳之脉，受风寒，伏留而不去者，则名厥头痛；入连在脑者，名真头痛。其五脏气相干，名厥心痛；其痛甚，但在心，手足青者，即名真心痛。其真心痛者，旦发夕死，夕发旦死。<br/><br/>　　六十一难曰：经言，望而知之谓之神，闻而知之谓之圣，问而知之谓之工，切脉而知之谓之巧。何谓也？然：望而知之者，望见其五色，以知其病。闻而知之者，闻其五音，以别其病。问而知之者，问其所欲五味，以知其病所起所在也。切脉而知之者，诊其寸口，视其虚实，以知其病，病在何脏腑也。经言，以外知之曰圣，以内知之曰神，此之谓也。<br/><br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-35-865.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-35-867.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-35.html" action-type="chapterComment" class="comment"><i></i>难经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《伪自由书》正文_从幽默到正经_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="伪自由书,伪自由书原文,伪自由书阅读,从幽默到正经全文,鲁迅作品" />
+<meta name="description" content="伪自由书原文阅读,从幽默到正经全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-550-7476.html";
+var nextpage="novel-read-550-7478.html";
+var indexpage = "novel-chapter-550.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-550.html">伪自由书</a></strong>
+<strong><a href="novel-chapter-550.html">伪自由书目录</a></strong>
+<span>从幽默到正经</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-550-7476.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>从幽默到正经</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-04 21:08:24<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>“幽默”一倾于讽刺，失了它的本领且不说，最可怕的是有些人又要来“讽刺”，来陷害了，倘若堕于“说笑话”，则寿命是可以较为长远，流年也大致顺利的，但愈堕愈近于国货，终将成为洋式徐文长（２）。当提倡国货声中，广告上已有中国的“自造舶来品”，便是一个证据。 <br/><br/>　　而况我实在恐怕法律上不久也就要有规定国民必须哭丧着脸的明文了。笑笑，原也不能算“非法”的。但不幸东省沦陷，举国骚然，爱国之士竭力搜索失地的原因，结果发见了其一是在青年的爱玩乐，学跳舞。当北海上正在嘻嘻哈哈的溜冰的时候，一个大炸弹抛下来（３），虽然没有伤人，冰却已经炸了一个大窟窿，不能溜之大吉了。 <br/><br/>　　又不幸而榆关失守，热河吃紧了，有名的文人学士，也就更加吃紧起来，做挽歌的也有，做战歌的也有，讲文德（４）的也有，骂人固然可恶，俏皮也不文明，要大家做正经文章，装正经脸孔，以补“不抵抗主义”之不足。 <br/><br/>　　但人类究竟不能这么沉静，当大敌压境之际，手无寸铁，杀不得敌人，而心里却总是愤怒的，于是他就不免寻求敌人的替代。这时候，笑嘻嘻的可就遭殃了，因为他这时便被叫作：“陈叔宝全无心肝”（５）。所以知机的人，必须也和大家一样哭丧着脸，以免于难。“聪明人不吃眼前亏”，亦古贤之遗教也，然而这时也就“幽默”归天，“正经”统一了剩下的全中国。 <br/><br/>　　明白这一节，我们就知道先前为什么无论贞女与淫女，见人时都得不笑不言；现在为什么送葬的女人，无论悲哀与否，在路上定要放声大叫。 <br/><br/>　　这就是“正经”。说出来么，那就是“刻毒”。 <br/><br/>　　三月二日。 <br/>　<br/>===============================================================<br/><br/>　　（１）本篇最初发表于一九三三年三月八日《申报·自由谈》，署名何家干。 <br/><br/>　　（２）徐文长（１５２１—１５９３）名渭，号青藤道士，浙江山阴（今绍兴）人，明末文学家、书画家。著有《徐文长初集》、《徐文长三集》及戏曲《四声猿》等。浙东一带流传许多关于他的故事，有的把他描写成诙谐、尖刻的人物。这些故事大部分是民间的创造，同徐文长本人无关。 <br/><br/>　　（３）一个大炸弹抛下来一九三三年元旦，当北平学生在中南海公园举行化装溜冰大会时，有人当场掷炸弹一枚。在此之前，曾有人以“锄奸救国团”名义，警告男女学生不要只顾玩乐，忘记国难。<br/><br/>　　（４）讲文德国民党政客戴季陶曾在南京《新亚细亚月刊》第五卷第一、二期合刊（一九三三年一月）发表《文德与文品》一文，其中说：“开口骂人说俏皮话……都非文明人之所应有。”<br/><br/>　　（５）“陈叔宝全无心肝”陈叔宝即南朝陈后主。《南史·陈本纪》：“（陈叔宝）既见宥，隋文帝给赐甚厚，数得引见，班同三品；每预宴，恐致伤心，为不奏吴音。后监守者奏言：‘叔宝云，既无秩位，每预朝集，愿得一官号。’隋文帝曰：‘叔宝全无心肝。’”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-550-7476.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-550-7478.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-550.html" action-type="chapterComment" class="comment"><i></i>伪自由书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

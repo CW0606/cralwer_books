@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《二心集》正文_中华民国的新“堂·吉诃德”们 _鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="二心集,二心集原文,二心集阅读,中华民国的新“堂·吉诃德”们 全文,鲁迅作品" />
+<meta name="description" content="二心集原文阅读,中华民国的新“堂·吉诃德”们 全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-534-6747.html";
+var nextpage="novel-read-534-6749.html";
+var indexpage = "novel-chapter-534.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-534.html">二心集</a></strong>
+<strong><a href="novel-chapter-534.html">二心集目录</a></strong>
+<span>中华民国的新“堂·吉诃德”们 </span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-534-6747.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>中华民国的新“堂·吉诃德”们 </strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 21:03:58<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>十六世纪末尾的时候，西班牙的文人西万提斯做了一大部小说叫作《堂·吉诃德》②，说这位吉先生，看武侠小说看呆了，硬要去学古代的游侠，穿一身破甲，骑一匹瘦马，带一个跟丁，游来游去，想斩妖服怪，除暴安良。谁知当时已不是那么古气盎然的时候了，因此只落得闹了许多笑话，吃了许多苦头，终于上个大当，受了重伤，狼狈回来，死在家里，临死才知道自己不过一个平常人，并不是什么大侠客。<br/>　　这一个古典，去年在中国曾经很被引用了一回，受到这个谥法的名人，似乎还有点很不高兴的样子。其实是，这种书呆子，乃是西班牙书呆子，向来爱讲“中庸”的中国，是不会有的。西班牙人讲恋爱，就天天到女人窗下去唱歌，信旧教，就烧杀异端，一革命，就捣烂教堂，踢出皇帝。然而我们中国的文人学子，不是总说女人先来引诱他，诸教同源，保存庙产，宣统在革命之后，还许他许多年在宫里做皇帝吗？<br/>　　记得先前的报章上，发表过几个店家的小伙计，看剑侠小说入了迷，忽然要到武当山③去学道的事，这倒很和“堂·吉诃德”相像的。但此后便看不见一点后文，不知道是也做出了许多奇迹，还是不久就又回到家里去了？以“中庸”的老例推测起来，大约以回了家为合式。<br/>　　这以后的中国式的“堂·吉诃德”的出现，是“青年援马团④”。不是兵，他们偏要上战场；政府要诉诸国联⑤，他们偏要自己动手；政府不准去，他们偏要去；中国现在总算有一点铁路了，他们偏要一步一步的走过去；北方是冷的，他们偏只穿件夹袄；打仗的时候，兵器是顶要紧的，他们偏只着重精神。这一切等等，确是十分“堂·吉诃德”的了。然而究竟是中国的“堂·吉诃德”，所以他只一个，他们是一团；送他的是嘲笑，送他们的是欢呼；迎他的是诧异，而迎他们的也是欢呼；他驻扎在深山中，他们驻扎在真茹镇；他在磨坊里打风磨，他们在常州玩梳篦，又见美女，何幸如之（见十二月《申报》《自由谈》）。其苦乐之不同，有如此者，呜呼！<br/>　　不错，中外古今的小说太多了，里面有“舆榇”，有“截指”⑥，有“哭秦庭”⑦，有“对天立誓”。耳濡目染，诚然也不免来抬棺材，砍指头，哭孙陵⑧，宣誓出发的。然而五四运动时胡适之博士讲文学革命的时候，就已经要“不用古典”⑨，现在在行为上，似乎更可以不用了。<br/>　　讲二十世纪战事的小说，旧一点的有雷马克的《西线无战事》⑩，棱的《战争》⑾，新一点的有绥拉菲摩维支的《铁流》，法捷耶夫的《毁灭》，里面都没有这样的“青年团”，所以他们都实在打了仗。 ======================================<br/><br/><br/>　　 本篇最初发表于一九三二年一月二十日《北斗》第二卷第一期，署名不堂。<br/>　　②西万提斯（M．deCervantes，1547～1616）通译塞万提斯，欧洲文艺复兴时期的西班牙作家。他的代表作长篇小说《堂吉诃德》共两部，第一部发表于一六○五年；第二部发表于一六一五年。③武当山在湖北均县北，我国著名的道教胜地。旧小说中常把它描写成剑侠修炼的地方。<br/>　　④“青年援马团”九一八事变后，由于蒋介石采取不抵抗主义，日军在很短时间内几乎侵占了我国东北的全部领土。十一月间日军进攻龙江等地时，黑龙江省代理主席马占山进行过抵抗，曾得到各阶层爱国人民的支持。当时上海的一些青年组织了一个“青年援马团”，要求参加东北的抗日军队，对日作战，但由于缺少坚决的斗争精神和切实的办法，特别是由于国民党反动派的阻挠破坏，这个团体不久就涣散了。<br/>　　⑤国联“国际联盟”的简称。第一次世界大战后于一九二○年成立的国际政府间组织。它标榜以“促进国际合作、维持国际和平与安全”为目的，实际上是英、法等帝国主义国家控制并为其侵略政策服务的工具。第二次世界大战爆发后无形瓦解，一九四六年四月正式宣告解散。九一八事变后，它袒护日本帝国主义对中国的侵略，九月二十二日，蒋介石在南京市国民党党员大会上宣称：“此刻必须上下一致，先以公理对强权，以和平对野蛮，忍辱含愤，暂取逆来顺受态度，以待国际公理之判决。”<br/>　　⑥“舆榇”在车子上载着空棺材，表示敢死的决心。“截指”，把手指砍下，也是表示坚决的意思。据一九三一年十一月二十一日、二十二日《申报》报导，“青年援马团”曾抬棺游行，并有人断指书写血书。<br/>　　⑦“哭秦庭”春秋时楚国臣子申包胥的故事，见《史记·伍子胥列传》：当伍子胥率领昊国军队攻破楚国都城的时候，申包胥“走秦告急，求救于秦。秦不许，包胥立于秦庭，昼夜哭，七日七夜不绝其声。秦哀公怜之，……乃遣车五百乘救楚击吴”。<br/>　　⑧孙陵孙中山陵墓，位于南京紫金山。<br/>　　⑨“不用古典”胡适在《新青年》第二卷第五期（一九一七年一月）发表《文学改良刍议》一文，提出文学改良八事，其中第六事为“不用典”。<br/>　　⑩雷马克（E．M．Remarque，1898～1970）德国小说家。《西线无战事》是他描写第一次世界大战的小说，一九二九年出版。<br/>　　⑾棱通译雷恩（L．Renn），德国小说家。《战争》是他描写第一次世界大战的小说，一九二二年出版。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-534-6747.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-534-6749.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-534.html" action-type="chapterComment" class="comment"><i></i>二心集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

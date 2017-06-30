@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孔丛子》正文_独治_孔鲋作品 - 维普阅读网</title>
+<meta name="keywords" content="孔丛子,孔丛子原文,孔丛子阅读,独治全文,孔鲋作品" />
+<meta name="description" content="孔丛子原文阅读,独治全文在线阅读,孔鲋作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-217-2408.html";
+var nextpage="novel-read-217-2410.html";
+var indexpage = "novel-chapter-217.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-217.html">孔丛子</a></strong>
+<strong><a href="novel-chapter-217.html">孔丛子目录</a></strong>
+<span>独治</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-217-2408.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>独治</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=孔鲋&amp;searchsubmit=yes"  target="_blank">孔鲋</a><span class="divide">|</span>发布时间：2014-08-12 20:27:34<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>子鱼生于战国之世、长于兵戎之间、然独乐先王之道讲习不倦、季则谓子鱼曰、丈夫不生则巳生则有云为于世者也．今先生淡泊世务脩无用之业．当身不蒙其荣．百姓不获其利．窃为先生不取也．子鱼曰不如子之言也．武者可以进取．文者可以守成．今天下将扰扰焉．终必有所定．子脩武以助之取．吾脩文以助之守．不亦可乎．且吾不才．无军旅之任．徒能保其祖业．优游以卒岁者也．<br/>秦始皇东并、子鱼谓其徒叔孙通曰、子之学可矣、盍仕乎、对曰臣所学于先生者、不用于今、不可仕也、子鱼曰子之材能见时变、今为不用之学、殆非子情也、叔孙通遂辞去、以法仕秦．<br/><br/>尹曾谓子鱼曰、子之读先王之书．将奚以为．答曰为治也．世治则助之行道．世乱则独治其身．治之至也．<br/><br/>陈余谓子鱼曰、秦将灭先王之籍、而子为书籍之主、其危矣、子鱼曰顾有可惧者．必或求天下之书焚之．书不出则有祸．吾将先藏之以待其求．求至无患矣．<br/><br/>子鱼居卫、与张耳陈余相善．耳余、魏之名士也、秦灭魏求耳余惧、走会陈胜吴广起兵于陈、欲以诛秦、余谓陈王曰、今必欲定天下取王侯者．其道莫若师贤而友智．孔子之孙今在魏．居乱世能正其行脩其祖业．不为时变．其父相魏．以圣道辅战国．见利不易．操名诸侯．世有家法．其人通材足以干天下．博知足以虑未形．必宗此人．天下无敌矣．陈王大悦、遗使者齎千金加束帛以车三乘聘焉尔．又使谓子鱼曰、天下之事巳可见矣．今陈王兴义兵讨不义．子宜速来以集其事．王又闻子贤．欲谘良谋．虚意相望也．子鱼遂往．陈王郊迎而执其手．议世务．子鱼以霸王之业劝之．王悦其言．遂尊以博士．为太师谘度焉．子鱼、名鲋甲、陈人或谓之子鲋或称孔甲．陈胜既立为王、其妻之父兄往焉、胜以众兵待之、长揖不拜无加其礼、其妻之父怒、曰估乱僭号而傲长者．不能久矣．不辞而去．陈王跪谢．遂不为顾．王心惭焉．遂适博士太师之馆而言曰予虽丈夫哉．然塞于礼义以启于姻娅．唯先生幸训诲之．使免于戾可乎．子鱼曰王所问者善也．敢固无辞以对乎．今以礼言耶．则礼无不拜．且宗族婚媾．又与众宾异敬者也．敬而加亲．自古以然也．王曰虽巳失之于前．庶欲收之于后也．愿先生脩明其事．必遵奉焉．对曰昔唐尧、内亲九族．外协万邦．礼以婚为昆弟．妻之父母为外舅姑．由是明之．则拜之可知．夫婚亲之义．非宗贤之类也．虽自巳臣莫敢不敬．昔魏信陵君、尝以此质臣之父．臣之父曰．于诸母之昆弟．妻之诸父．则以亲配德．年以上．虽拜之可也．幼于巳者．揖之可也．此出于人情而可常者也．王曰善哉．请问同姓而服不及者．其制何耶．对曰先王制礼．虽国君有合族之道．宗人掌其列．继之以姓而无别．醊之以食而无殊．各随本属之隆杀．属近则死为之免．属远则吊之而巳．礼之正也．是故臣之家．哭孔氏之别姓于弗父之庙．哭孔氏则于夫子之庙．此有据而然也．周之道．虽百世婚姻不通．重先君之同体也．王跪曰先生之言．厥义博哉．寡人虽固．敢不尽心．<br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-217-2408.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-217-2410.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-217.html" action-type="chapterComment" class="comment"><i></i>孔丛子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

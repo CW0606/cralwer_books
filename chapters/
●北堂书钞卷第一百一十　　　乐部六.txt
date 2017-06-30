@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《北堂书钞》正文_●北堂书钞卷第一百一十　　　乐部六_虞世南作品 - 维普阅读网</title>
+<meta name="keywords" content="北堂书钞,北堂书钞原文,北堂书钞阅读,●北堂书钞卷第一百一十　　　乐部六全文,虞世南作品" />
+<meta name="description" content="北堂书钞原文阅读,●北堂书钞卷第一百一十　　　乐部六全文在线阅读,虞世南作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-999-9716.html";
+var nextpage="novel-read-999-9718.html";
+var indexpage = "novel-chapter-999.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-999.html">北堂书钞</a></strong>
+<strong><a href="novel-chapter-999.html">北堂书钞目录</a></strong>
+<span>●北堂书钞卷第一百一十　　　乐部六</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-999-9716.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>●北堂书钞卷第一百一十　　　乐部六</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=虞世南&amp;searchsubmit=yes"  target="_blank">虞世南</a><span class="divide">|</span>发布时间：2014-11-20 21:06:44<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　隋祕书郎虞世南撰南海孔广陶校註箏十一　　　　　　　　筑十二箜篌十三　　　　　琵琶十四笙十五　　　　　　　　簧十六竽十七<br/><br/>　　○箏十一<br/><br/>　　上隆似天下平似地「傅玄箏赋序云箏秦声也上隆似天下平似地中空准六合柱拟十二月设之则四象存鼓之则五音发○今案百三家本傅玄集无秦声也三字隆作圆餘同陈本改注傅子」<br/><br/>　　絃有十二四时度也柱三寸三才具也「阮瑀箏赋云絃有十二四时度也柱高三寸三才具位也○今案初学记箏类引及陈本删高字位字餘同百三家本严辑本阮?皆未收此四句」理絃歌秋风「俗说云谢仁祖為豫州主簿在桓玄温阁下桓闻其善使呼之既至取箏与弹谢即理絃抚箏因而歌秋风意气殊异桓以此知之○今案类聚四十四御览五百七十六引俗说无玄字陈本无温字异作遒本钞七十三主簿篇引仁祖作景仁温阁作玄门异作远桓以作玄重」<br/><br/>　　抚箏歌诗「语林云晋孝武祖宴西堂詔桓子野弹箏桓乃抚箏而歌怨诗悲厉之响一堂流涕○王石华校宛改怨今案类聚四十四引语林子野作野王无桓乃以下陈俞本改注今晋书」弹箏快耳「史记李斯传云上书曰弹箏搏髀而歌呜呜快耳者真秦之声也○王石华校莫箏改真秦今案近本史记及陈本歌下有呼字耳下有目字王氏读书志据此旧钞及类聚乐部四御览乐部十四以正今本史记之讹」<br/><br/>　　弹箏合歌「续晋阳春秋云右将军桓伊善音律因宴饮帝命伊吹笛伊為一弄乃放笛曰臣於箏乃不如笛自足以韵合歌管○今案惜阴轩世说下之上注引续晋阳秋右作左餘同陈本改注今晋书」<br/><br/>　　秦箏奏西音「魏文帝诗云齐瑟发东舞秦箏奏西音○今案陈俞本瑟作琴百三家本魏文集及本钞舞篇瑟作唱」秦箏何慷慨「曹植箜篌引云秦箏何慷慨齐瑟且和柔○今案陈本文选百三家本集且和作和且」激新声「魏文帝诗云悲箏激新声长笛吐清气○今案陈俞本激作发悲作秦百三家本魏文集箏误絃吐作吹本钞笛篇引与此旧钞合」奋逸响「曹植诗云弹箏奋逸响新声好入神○今案陈俞本好作妙」扬大雅之哀吟「曹植思人赋云□秦箏之慷慨扬□雅之哀吟○今案陈本百三家本陈思王集思人作幽思秦箏之作素笔而餘同」唱葛天之高韵「曹霖箏赋云钟子授箏伯牙同节唱葛天之高韵讚幽兰与白雪○今案初学记十六引此赋及陈本曹霖作贾彬同作击又初学记天误文」岂蒙恬所能关思「傅玄箏赋序云箏秦声也以為蒙恬所造斯乃仁智之器岂蒙恬亡国之臣所能关其思哉○王石华校去改玄今案陈本百三家本傅玄集脱秦声也三字关作开又陈本臣误成」<br/><br/>　　虽吴姬何以加哉「傅子云张奏鼓琴郝素弹箏虽伯牙之妙手吴姬之奇声何以加哉○今案陈本及聚珍辑本附录引御览无张奏句弹上有善字餘同类聚四十四引傅子亦然严辑本亦伙张奏四字」<br/><br/>　　○筑十二<br/><br/>　　还沛击筑「史记高祖帝纪云高祖还沛上击筑自歌○今案本钞巡行篇饗燕篇歌篇皆引此文」大会击筑「东观记光武大会真定王制杨自击筑○今案聚珍本姚辑本陈俞本皆无制杨二字又聚珍本王作帝」击筑饮燕市「史记刺客传云荆軻击筑与高渐离饮於燕市○王石华校制改荆今案陈俞本无刺客传三字餘同攷史记刺客列传两言高渐离击筑并无言荆軻击筑者此注疑有脱误」击筑為壮声「燕丹子云高渐离击筑宋意和之為壮声髮皆衝冠○今案陈俞本宋意作荆軻问经堂本燕丹子卷下衝冠句作皆泪流餘同」<br/><br/>　　○箜篌十三<br/><br/>　　师延所作空国所存「释名云箜篌师延所作靡靡之乐也后出桑间濮上之地盖空国之侯所存也师捐与晋平公鼓焉郑卫分其地而有之遂為淫乐也○今案毕本释乐器篇及陈本与晋作為晋餘同类聚四十四引亦作為但无盖空句」<br/><br/>　　武祠太一而作坎篌「风俗通云箜篌案汉武帝祠太一后土令乐人侯调依琴而作坎篌言其坎坎志节○今案陈本同近本风俗通声音篇依琴句作依琴作坎坎之乐坎坎二字因下句而误考初学记十六引坎篌作坎侯餘与原钞同」<br/><br/>　　灵帝好胡服乃作箜篌「续汉书五行志云灵帝好胡服乃作胡箜篌○今案续汉志同」东土君子雅善箜篌「曹毗箜篌诗云东土君子雅善箜篌○今案陈本同」<br/><br/>　　集会堂上常弹箜篌「乐府歌诗云集会高堂上张弹箜篌○今案俞本脱陈本无高字」匪借和於簫管岂假韵於筑箏「钮滔母孙氏箜篌赋云匪借和於簫管岂假韵於筑箏○今案初学记类聚引此赋及严辑钮滔母箜篌赋皆脱此二句陈本钮误钧」箜篌引「朝鲜津卒霍里子高所作也子高晨起刺舡而濯有一狂夫披髮提壶堕河而死其妻援箜篌而歌曲终亦投河而死子高援琴作其歌声○今案此条旧钞偶脱书名陈俞本注见琴操晨下无起字盖据类聚四十四引订也考此文亦见崔豹古今注太原郭氏辑乐府府诗集廿六载箜篌引霍里子高下有妻丽玉三字」<br/><br/>　　○琵琶十四<br/><br/>　　兴自秦末「傅玄琵琶赋序云杜挚以琵琶兴於秦末年盖苦长城之役百姓鼗而鼓之○今案初学记卷十六引此序无年字鼗作絃鞉餘同陈本秦末误羸秦鼗改乃作二字非也又旧钞赋上有兴於秦末四字系因下文而衍」<br/><br/>　　兴自末世「成公绥琵琶赋云惟此琵琶兴自末世○今案百三家本此赋同初学记十六引末世作夫裔」乐家所作「风俗通云谨案琵琶近世乐家所作不知谁作也○今案陈本谁作二字作所起近本风俗通声音篇谁下脱作字类聚四十四引世作出餘与原钞同」马上所鼓「释名曰琵琶本出於朝中马上所鼓也○今案见毕本释乐器」工人裁琴之形「傅玄琵琶赋序云闻之故老汉遣乌孙公主念其行道思慕使工人裁琴箏笙筑之形作马上之乐○王石华校马改乌生改主今案百三家本傅玄集及御览五百八十三引裁作载形作属陈本笙筑作筑箜篌餘同百三家本」<br/><br/>　　合文梓规灵象「傅玄又云合荆山之文梓规灵象而定婆○今案陈俞本脱傅节子辑傅鶉觚集婆作娑」分柱设位岁数成也「成公绥琵琶赋云分柱设位岁数成也○今案百三家本类聚四十四引此赋及陈本皆设作列」盘圆柄直阴阳序也「傅玄赋云圆柄直阴阳序也○今案陈本同初学记十六引及百三家本玄集圆作员」絃法四时「孙该琵琶赋云絃法四时修柄短直洪然适宜○今案陈本将四时句改注傅玄琵琶删严辑孙该集脱此条」挺柄布柱「玄赋挺修柄以布柱转四时而发机○今案陈本同百三家本严辑本傅玄赋挺作控」闻促声高形躁志越「嵇康声无哀乐论平和之人听箏笛琵琶则形躁而志越闻琴瑟则体静而心闲夫琵琶箏笛闻促而声高故使人形躁而志越○今案初学记十六引此论及陈本声无误无声又初学记闲作开餘同百三家本嵇康集体静作听静闻促作閒促」<br/><br/>　　惠文琵琶「高惠文与妇书曰今置琵琶一枚音甚清亮也○今案陈俞本同严辑本脱」仁祖弹琵琶「世说有北方谢仁祖不及重者桓大司马曰诸君莫轻仁祖企脚在北牖下弹琵琶故自有天际真人意○今案世说容止篇及陈本及作乃北上无在字意作想又陈本牖作窗近本世说作牖」<br/><br/>　　阮咸善琵琶「竹林七贤赋云咸善弹琵琶○今案类聚四十四引赋作论餘同」叩少宫骋明光「孙该琵琶赋云尔乃叩少宫聘明光○王石华校谚改该今案类聚四十四引此赋同」操畅骆驛「孙该又云操畅骆驛游乎风扬抑案擫摄拰搦摧藏○今案类聚四十四引及陈本严辑本孙该琵琶赋扬作颺案作扬擫摄作按捻又陈本拰作推餘同」发越哀伤「傅玄云飞纤指以促柱养发越以哀伤○今案陈本百三家本傅玄集琵琶养作创初学记十六引亦然」能娱我心「傅玄歌诗云所乐亦非琴唯言琵琶箏能娱我心○今案陈本同初学记十六引歌诗箏上有与字餘同」以慰其思「石崇明君辞者公主嫁乌孙令琵琶马上作乐以慰其道路之思也○今案文选及冯辑晋诗纪卷十载石崇明君辞序同陈本作石崇琵琶引非是」<br/><br/>　　○笙十五<br/><br/>　　女媧笙「礼记云女媧之笙簧郑玄注曰女媧三皇承宓戏者○今案陈本删郑注以下近本明堂位注作宓羲释文戏音羲是陆德明所见本作戏也阮校勘记云岳本羲作戏」<br/><br/>　　随作笙「世本云随作笙○今案陈本及类聚四十四引作隋二酉丛书张辑世本作篇引风俗通及通志正作随宋衷注随女媧氏之臣」太簇之气象物之生「白虎通云笙之道施太簇之气也象万物之生也○今案白虎通礼乐篇道作言初学记十六引亦然」汶阳孤蓧「潘岳笙赋云河汾之石有曲沃之县匏邹鲁之珍有汶阳之孤蓧斩以為笙○今案文选及陈本石作宝蓧作篠无斩以句」不周之竹「王廙笙赋云其制器则审不周之竹鲁城之瓠○今案陈本照初学记十六引订审作取鲁作曾　　　钦定歷代赋汇卷九十三引作取作层瓠作匏类聚四十四引作曾餘与赋汇同」<br/><br/>　　瓠生簳裁熟簧「潘岳笙赋云徒观其制器则审洪纤面短长瓠生簳裁熟簧○今案陈本及文选初学记引瓠作■〈戾刂〉又陈本标目生误笙」大者谓之巢小者谓之和「尔雅云大笙谓之巢其小者谓之和○今案见尔雅释乐」雅簧「三礼图云雅簧生簧十三上六下七○今案俞本删陈本雅簧四字作笙有雅簧餘同马竹吾辑阮氏三礼图从陈本引」名器「王兴之与谢安书云知君尝得小笙笙是名器往闻者若令诸君闻之乃当可不言而去今见者皆不以為佳恐是不能好也○今案俞本脱陈本无往闻至而去十六字好作识」<br/><br/>　　协和陈宋混一齐楚「潘岳笙赋云协和陈宋混一齐楚邇不逼而远无携声成文而节有序○王石华校协改携今案文选同」吹云和「汉武帝内传云西王母命侍女董成吹云和之笙○今案守山阁本武帝内传和作龢古和字也餘同」作凤鸣「列仙传云王子乔者周灵王太子晋也好吹笙作凤鸣游伊雒间○王石华校者改晋今案类聚四十四引列仙传同」赤松吹笙「王廙雒都赋云赤松吹笙天子吹笙也○今案陈本无天子句」王乔吐音「张衡逍遥赋云由子奏灵鞉王子乔吐凤音也○今案由字有误陈俞本删由子五字严辑张衡集脱」<br/><br/>　　凤凰吹笙「曹植乐府云□鸟起舞凤凰吹笙○今案陈本鸟上补乌字」丹蛟吹笙「傅玄正都赋云列仙逸唱麃虎听音丹蛟吹笙文豹鼓琴○今案百三家本傅玄集同陈本正改西」西王吹笙「穆天子传云西王母吟曰吹笙鼓簧中心无伤○今案陈本平津馆辑本穆天子传及类聚四十四御览五百八十一引无伤作翔翔又御览中作衷」桓帝善笙「东观记云桓帝好音乐善琴笙○今案范书桓帝纪论引前史同注云前史?记考聚珍本姚辑本东观记桓帝纪亦同」商容观舞墨子吹生「尸子云商容观舞墨子吹笙○今案平津馆辑本尸子据类聚引同」衣锦吹笙「淮南子云孟夏之月居南宫御女赤色衣赤采吹竽笙」吹笙鼓簧「毛诗云吹笙鼓簧承筐是将○今案见小雅鹿鸣」吹笙鼓琴「魏志云文帝令杜夔於宾客中吹笙鼓琴夔有难色遂黜免之○今案见魏志方伎传」笙鏞以间鸟兽蹌蹌「尚书云笙鏞以间鸟兽蹌蹌孔传云鏞大钟也间迭也吹笙击钟鸟兽化德相率而舞蹌蹌然○王石华校闻改间今案见尚书益稷篇孔传」<br/><br/>　　○簧十六<br/><br/>　　女媧作簧「风俗通云案世本女媧作簧簧笙中簧○今案见声音篇」飞琼鼓簧「汉武帝内传云西王母命侍女许飞琼鼓震灵之簧○王石华校补簧字今案守山阁本武内传同本钞震灵四字误大写并连下条陈本竟删去此句失考甚矣」君子执簧「毛诗云君子阳阳左执簧右招我由房○今案见王风」乐师调簧「礼记月令云仲夏之月命乐师调笙簧○今案近本礼记同」瑶池鼓簧「穆天子传云天子觴西王母於瑶池之上而王母吟曰吹笙鼓簧○今案平津馆本穆天子传卷三同亦见本钞笙篇」石室鼓簧「神仙传云王遥入石室发篋有五舌簧三枚遥自鼓一枚以二枚与室内人鼓也○今案陈本龙威秘书本神仙传内作中本钞作内者因隋讳忠兼避也」巧言「毛诗云巧言如簧顏之厚矣○今案见小雅巧言篇」在口「蔡邕检逸赋思在口而為簧鸣哀声独而不敢聆○今案陈本脱检逸二字及鸣哀八字严辑蔡邕集独下无而字」<br/><br/>　　假簧以舒忧「楚辞云愿假簧以舒忧○今案陈本同考见刘向九叹」鸣簧发丹唇「陆诗云鸣簧发丹唇朱絃绕素腕○今案陈本陆下有云字考文选陆云為顾彦先诗同」簧為约梦得贤「梦书云簧為结约梦得簧者為贤友也○今案陈本為贤作得贤」<br/><br/>　　○竽十七<br/><br/>　　笙师掌教「周礼春官笙师职云笙师掌教歙竽○王石华校注内诗改师今案近本周礼同」音家工吹「桓子新论云音家成少伯工吹竽和音乐也○今案俞本同陈本和音四字问经堂本严辑本新论但据御览五百八十一引无音家二字和音四字」雅竽「三礼图云雅竽簧上下各六○今案陈俞本玉函山房辑本同」象笙「博雅云竽象笙三十六管○今案见广雅释乐本钞作博者永兴避隋煬帝讳也」吹以知法度「乐叶云吹竽者以知法度竽音调则度数得○王石华校者改音今案陈俞本者作有得下有见字玉函山房辑本亦作得见」听之思蓄聚「礼记云君子听竽之声则思蓄聚之臣○王石华校补君字乞案礼记乐记蓄作畜」补音「春秋感精符云冬至之日人主使八能之士吹和黄钟之律间补音以竽○王石华校生改主今案陈俞本吹下删和字餘同玉函山房辑本脱聚珍本通卦验亦有此文ｕ狂会ｙ楚辞招魂于竽瑟狂会搷鸣鼓些○今案陈俞本同」<br/><br/>　　南郭请吹「韩子云齐宣使人吹竽必三百人南郭处士為王吹竽王悦之宣王闻之一一听之处士逸焉○今案陈俞本及韩子内储说上篇闻之句作宣王死湣王立逸作逃」<br/><br/>　　商丘好吹「列仙传云商丘子者商邑人常好吹竽邑人法之无不受就要道○今案陈本廿一种秘书本列仙传及御览五百八十一引商邑作高邑法作奇受就四字作从受道问其要」<br/><br/>　　梁丘据之右挈「晏子云景公饮酒又移于梁丘据左操琴右挈竽○今案陈俞本及吴山尊仿宋本晏子内五第十二章琴作瑟」临菑民无不吹「史记云临菑富而寔其民无不吹竽鼓瑟○王石华校无下补不字今案陈本同今史记苏秦传富上有甚字」為作陌上桑乃言凤鶵「鹰璩新诗云汉末桓帝时郎有马子侯自谓识音律请客鸣笙竽為作陌上桑乃言凤将鶵○今案陈俞本脱郎字餘同百三家本应璩百一诗乃作反又附注云一作新诗」<br/><br/>　　北堂书钞卷第一百一十 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-999-9716.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-999-9718.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-999.html" action-type="chapterComment" class="comment"><i></i>北堂书钞章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

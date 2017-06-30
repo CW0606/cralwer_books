@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《瑶池》正文_瑶池_李商隐作品 - 维普阅读网</title>
+<meta name="keywords" content="瑶池,瑶池原文,瑶池阅读,瑶池全文,李商隐作品" />
+<meta name="description" content="瑶池原文阅读,瑶池全文在线阅读,李商隐作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-1128.html";
+var nextpage="novel-chapter-1128.html";
+var indexpage = "novel-chapter-1128.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1128.html">瑶池</a></strong>
+<strong><a href="novel-chapter-1128.html">瑶池目录</a></strong>
+<span>瑶池</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-1128.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>瑶池</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=李商隐&amp;searchsubmit=yes"  target="_blank">李商隐</a><span class="divide">|</span>发布时间：2015-01-28 20:57:58<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　瑶池阿母绮窗开，黄竹歌声动地哀。<br/><br/>　　八骏日行三万里，穆王何事不重来。<br/><br/>【注释】<br/>⑴瑶池阿母：《穆天子传》卷三：“天子宾于西王母，天子觞西王母于瑶池之上。西王母为天子谣曰：‘白云在天，山陵自出。道里悠远，山川间之。将子无死，尚能复来。’天子答之曰：‘予归东土，和治诸夏。万民平均，吾顾见汝。比及三年，将复而野。’”《武帝内传》称王母为“玄都阿母”。绮窗：绘饰如绮之窗户。吕向注：“绮窗，雕画若绮也。”<br/>⑵黄竹歌：逸诗，也作《黄竹诗》。《穆天子传》卷五：“丙辰，天子游黄台之丘，猎于苹泽，有阴雨，天子乃休。日中大寒，北风雨雪，有冻人。天子作诗三章以哀民。词曰‘我祖黄竹，囗员閟寒’云云。”按此借《黄竹》哀歌以寓穆王之崩。<br/>⑶八骏：传说周穆王有八匹骏马，可日行三万里。《列子》、《穆天子传》等记载不一。<br/><br/>【译文】<br/>西王母在瑶池上把绮窗打开；只听得黄竹歌声音动地悲哀。<br/>八骏神马的车子日行三万里；周穆王为了何事违约不再来？<br/><br/>【赏析】<br/>　　晚唐好几个皇帝迷信神仙之道，服食丹药，妄求长生，以至服金丹中毒死去。这首诗便是讽刺求仙之虚妄。<br/>　　这首诗就是根据西王母与周穆王相约见面的传说来构思的。作者抓住西王母希望穆王“复来”、穆王也许诺复来这一点，虚构了一个西王母盼望穆王归来的情节：西王母推开雕镂彩饰的窗户，眺望东方，却不见穆王的踪迹，只听见《黄竹歌》声哀动大地。首句是仙境的绮丽风光，次句是人间的凄楚情景，形成强烈的对比。这个对比兼含着两层意思：一是隐喻作歌之人已死，唯其歌声徒留人间，仙境虽美，怎奈无缘得去，暗含着对求仙的讽刺；一是用《黄竹歌》诗意，暗示人民在挨饿受冻，而统治者却在追求长生不死，希图永远享受，寄寓着对统治者求仙的斥责。<br/>　　诗的末两句是写西王母不见穆王而产生的心理活动：穆王所乘的八骏飞驰神速，一天能行三万里，如果要来，易如反掌，可是他为什么还没有如约前来呢？西王母盛情邀请穆王重来，穆王曾许诺重来，而且来也方便，乘上八骏瞬息就到，可是穆王却终究没有来，不言穆王已死而其死自明。然而，西王母却仍在开窗眺望殷切守候。这就表明西王母希望周穆王不死，可是这个希望终于落空了。即令仙人如西王母，也不能挽救周穆王于一死，则人间那些所谓长生不老之术，自然更是靠不住的了，不信求仙之虚妄而其虚妄自见。<br/>　　讽刺求仙，本来是颇费议论的主题，但此诗却不着一字议论。作者的用意，完全融化在西王母的动作和心理活动中，以具体生动的形象来表达，构思极为巧妙。末句是西王母心中的问号，而不是由诗人直接提出的反诘之辞。因此，诗的讽刺虽然犀利尖刻，但表现方式却是委婉曲折的，不是直截了当的挖苦嘲笑。<br/>　　纪昀评此诗说：“尽言尽意矣，而以诘问之词吞吐出之，故尽而未尽”（《李义山诗集辑评》）。正是由于末两句不作正面指斥，所以此诗于明白酣畅中又具含蓄蕴藉之致，读之觉余味无穷。叶燮称“李商隐七绝，寄托深而措辞婉，可空百代”（《原诗》）。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-1128.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-1128.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1128.html" action-type="chapterComment" class="comment"><i></i>瑶池章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《墨子》正文_尚同(上)_墨子作品 - 维普阅读网</title>
+<meta name="keywords" content="墨子,墨子原文,墨子阅读,尚同(上)全文,墨子作品" />
+<meta name="description" content="墨子原文阅读,尚同(上)全文在线阅读,墨子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-32-745.html";
+var nextpage="novel-read-32-747.html";
+var indexpage = "novel-chapter-32.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-32.html">墨子</a></strong>
+<strong><a href="novel-chapter-32.html">墨子目录</a></strong>
+<span>尚同(上)</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-32-745.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>尚同(上)</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=墨子&amp;searchsubmit=yes"  target="_blank">墨子</a><span class="divide">|</span>发布时间：2014-07-20 14:19:27<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/>　　子墨子言曰：古者民始生，未有刑政之时，盖其语，人异义。是以一人则一义，二人则二义，十人则十义。其人兹众，其所谓义者亦兹众。是以人是其义，以非人之义，故交相非也。是以内者父子兄弟作，离散不能相和合；天下之百姓，皆以水火毒药相亏害。至有余力，不能以相劳；腐朽余财，不以相分；隐匿良道，不以相教。天下之乱，若禽兽然。<br/><br/>　　夫明乎天下之所以乱者，生于无政长。是故选天下之贤可者，立以为天子。天子立，以其力为未足，又选天下之贤可者，置立之以为三公。天子、三公既以立，以天下为博大，远国异土之民，是非利害之辩，不可一二而明知，故画分万国，立诸侯国君。诸侯国君既已立，以其力为未足，又选择其国之贤可者，置立之以为正长。<br/><br/>　　正长既已具，天子发政于天下之百姓，言曰：“闻善而不善，皆以告其上。上之所是，必皆是之，所非，必皆非之。上有过则规谏之，下有善则傍荐之。上同而不下比者，此上之所赏而下之所誉也。意若闻善而不善，不以告其上；上之所是弗能是，上之所非弗能非；上有过弗规谏，下有善弗傍荐；下比不能上同者，此上之所罚而百姓所毁也。”上以此为赏罚，甚明察以审信。<br/><br/>　　是故里长者，里之仁人也。里长发政里之百姓，言曰：“闻善而不善，必以告其乡长。乡长之所是，必皆是之；乡长之所非，必皆非之。去若不善言，学乡长之善言；去若不善行，学乡长之善行。”则乡何说以乱哉。察乡之所治者何也？乡长唯能壹同乡之义，是以乡治也。<br/><br/>　　乡长者，乡之仁人也。乡长发政乡之百姓，言曰：“闻善而不善者，必以告国君。国君之所是，必皆是之；国君之所非，必皆非之。去若不善言，学国君之善言；去若不善行，学国君之善行。”则国何说以乱哉？察国之所以治者何也？国君唯能壹同国之义，是以国治也。<br/><br/>　　国君者，国之仁人也。国君发政国之百姓，言曰:“闻善而不善，必以告天子。天子之所是，皆是之；天子之所非，皆非之。去若不善言，学天子之善言；去若不善行，学天子之善行。”则天下何说以乱哉？察天下之所以治者何也？天子唯能壹同天下之义，是以天下治也。<br/><br/>　　天下之百姓皆上同于天子，而不上同于天，则灾犹未去也。今若天飘风苦雨，溱溱而至者，此天之所以罚百姓之不上同于天者也。是故子墨子言曰：“古者圣王为五刑，请以治其民。譬若丝缕之有纪，罔罟之有纲，所以连收天下之百姓，不尚同其上者也。”<br/><br/>译文：<br/>　　墨子说：古时人类刚刚诞生，还没有刑法政治的时候，人们用言语表达的意见，也因人而异。所以一人就有一种意见，两人就有两种意见，十人就有十种意见。人越多，他们不同的意见也就越多。每个人都以为自己的意见对而别人的意见错，因而相互攻击。所以在家庭内父子兄弟常因意见不同而<br/><br/>　　相互怨恨，使得家人离散而不能和睦相处。天下的百姓，都用水火毒药相互残害，以致有余力的人不能帮助别人；有余财者宁愿让它腐烂，也不分给别人；有好的道理也自己隐藏起来，不肯教给别人，以致天下混乱，有如禽兽一般。<br/><br/>　　明白了天下所以大乱的原因，是由于没有行政长官，所以（人们）就选择贤能的人，立之为天子。立了天子之后，认为他的力量还不够，因而又选择天下贤能的人，把他们立为三公。天子、三公已立，又认为天下地域广大，他们对于远方异邦的人民以及是非利害的辨别，还不能一一了解，所以又把天下划为万国，然后设立诸侯国君。诸侯国君已立，又认为他们的力量还不够，又在他们国内选择一些贤能的人，把他们立为行政长官。<br/><br/>　　行政长官已经设立之后，天子就向天下的百姓发布政令，说道：“你们听到善和不善，都要报告给上面。上面认为是对的，大家都必须认为对；上面认为是错的，大家都必须认为错。上面有过失，就应该规谏，下面有好人好事，就应当广泛地推荐给国君。是非与上面一致，而不与下面勾结，这是上面所赞赏，下面所称誉的。假如听到善与不善，却不向上面报告；上面认为对的，也不认为对，上面认为错的，也不认为错；上面有过失不能规谏，下面有好人好事不能广泛地向上面推荐；与下面勾结而不与上面一致，这是上面所要惩罚，也是百姓所要非议的。”上面根据这些方面来行使赏罚，就必然十分审慎、可靠。<br/><br/>　　所以里长就是这一里内的仁人。里长发布政令于里中的百姓，说道：“听到善和不善，必须报告给乡长。乡长认为对的，大家都必须认为对；乡长认为错的，大家都必须认为错。去掉你们不好的话，学习乡长的好话；去掉你们不好的行为，学习乡长的好行为。”那么，乡里怎么会说混乱呢？我们考察这一乡得到治理的原因是什么呢？是由于乡长能够统一全乡的意见，所以乡内就治理好了。”<br/><br/>　　乡长是这一乡的仁人。乡长发布政令于乡中百姓，说道：“听到善和不善，必须把它报告给国君。国君认为是对的，大家都必须认为对；国君认为是错的，大家都必须认为错。去掉你们不好的话，学习国君的好话；去掉你们不好的行为，学习国君的好行为。”那么，还怎么能说国内会混乱呢？我们考察一国得到治理的原因是什么呢？是因为国君能统一国中的意见。所以国内就治理好了。<br/><br/>　　国君是这一国的仁人。国君发布政令于国中百姓，说道：“听到善和不善，必须报告给天子。天子认为是对的，大家都必须认为对；天子认为是错的，大家都必须认为错。去掉你们不好的话，学习天子的好话，去掉你们不好的行为，学习天子的好行为。”那么，还怎么能说天下会乱呢？我们考察天下治理得好的原因是什么呢？是因为天子能够统一天下的意见，所以天下就治理好了。<br/><br/>　　天下的老百姓都知道与天子一致，而不知道与天一致，那么灾祸还不能彻底除去。现在假如天刮大风下久雨，频频而至，这就是上天对那些不与上天一致的百姓的惩罚。所以墨子说：“古时圣王制定五种刑法，确实用它来治理人民，就好比丝线有纪（丝头的总束）、网罟有纲一样，是用来收紧那些不与上面意见一致的老百姓的。”<br/><br/>注释<br/>（1）尚同即上同，也即人们的意见应当统一于上级，并最终统一于天。这是墨子针对当时国家混乱而提出的政治纲领。墨子认为，天下混乱是由于没有符合天意的好的首领，因此主张选择“仁人”、“贤者”担任各级领导。这种思想与尚贤说在本质上基本一致，都是对当时贵族统治的批判。本篇分上、中、下三篇。<br/>（2）兹：通“滋”。<br/>（3）虖：通“乎”。<br/>（4）正长：即“政长”。<br/>（5）请：诚。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-32-745.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-32-747.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-32.html" action-type="chapterComment" class="comment"><i></i>墨子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

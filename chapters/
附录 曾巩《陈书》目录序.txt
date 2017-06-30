@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《陈书》正文_附录 曾巩《陈书》目录序_姚思廉作品 - 维普阅读网</title>
+<meta name="keywords" content="陈书,陈书原文,陈书阅读,附录 曾巩《陈书》目录序全文,姚思廉作品" />
+<meta name="description" content="陈书原文阅读,附录 曾巩《陈书》目录序全文在线阅读,姚思廉作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1045-11371.html";
+var nextpage="novel-chapter-1045.html";
+var indexpage = "novel-chapter-1045.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1045.html">陈书</a></strong>
+<strong><a href="novel-chapter-1045.html">陈书目录</a></strong>
+<span>附录 曾巩《陈书》目录序</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1045-11371.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>附录 曾巩《陈书》目录序</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=姚思廉&amp;searchsubmit=yes"  target="_blank">姚思廉</a><span class="divide">|</span>发布时间：2014-12-03 21:18:23<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　《陈书》六本纪，三十列传，凡三十六篇，唐散骑常侍姚思廉撰。始思廉父察，梁、陈之史官也。录二代之事，未就而陈亡。隋文帝见察甚重之，每就察访梁陈故事，察因以所论载每一篇成辄奏之，而文帝亦遣虞世基就察求其书，又未就而察死。察之将死，属思廉以继其业。唐兴，武德五年，高祖以自魏以来，二百馀岁，世统数更，史事放逸，乃诏撰次。而思廉遂受诏为《陈书》。久之，犹不就。贞观三年，遂诏论撰于秘书内省。十年正月壬子，始上之。<br/><br/>　　观察等之为此书，历三世，传父子，更数十岁而后乃成，盖其难如此。然及其既成，与宋、魏、梁、齐等书，世亦传之者少，故学者于其行事之迹，亦罕得而详也。而其书亦以罕传，则自秘府所藏，往往脱误。嘉祐六年八月，始诏校雠，使可镂板行之天下。而臣等言："梁、陈等书缺，独馆阁所藏，恐不足以定箸。愿诏京师及州县藏书之家，使悉上之。"先皇帝为下其事。至七年冬，稍稍始集，臣等以相校。至八年七月，《陈书》三十六篇者始校定，可传之学者。其疑者亦不敢损益，特各书疏于篇末。其书旧无目，列传名氏多阙谬，因别为目录一篇，使览者得详焉。<br/><br/>　　夫陈之为陈，盖偷为一切之计，非有先王经纪礼义风化之美，制治之法，可章示后世。然而兼权尚计，明于任使，恭俭爱人，则其始之所以兴；惑于邪臣，溺于嬖妾，忘患纵欲，则其终之所以亡。兴亡之端，莫非自己致者。至于有所因造，以为号令威刑职官州郡之制，虽其事已浅，然亦各施于一时，皆学者之所不可不考也。而当时之士，自争夺诈伪，苟得偷合之徒，尚不得不列以为世戒；而况于坏乱之中，苍皇之际，士之安贫乐义，取舍去就不为患祸势利动其心者，亦不绝于其间。若此人者，可谓笃于善焉。盖古人之所思见而不可得，《风雨》之诗所为作者也，安可使之泯泯不少概见于天下哉！则陈之史，其可废乎？<br/><br/>　　盖此书成之既难，其后又久不显。及宋兴已百年，古文遗事，靡不毕讲，而始得盛行于天下，列于学者，其传之之难又如此，岂非遭遇固自有时也哉！<br/><br/>　　臣恂、臣穆、臣藻、臣觉、臣彦若、臣洙、臣巩谨叙目录昧死上</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1045-11371.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-1045.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1045.html" action-type="chapterComment" class="comment"><i></i>陈书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

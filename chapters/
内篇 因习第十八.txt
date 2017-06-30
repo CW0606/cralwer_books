@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《史通》正文_内篇 因习第十八_刘知几作品 - 维普阅读网</title>
+<meta name="keywords" content="史通,史通原文,史通阅读,内篇 因习第十八全文,刘知几作品" />
+<meta name="description" content="史通原文阅读,内篇 因习第十八全文在线阅读,刘知几作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1030-10604.html";
+var nextpage="novel-read-1030-10606.html";
+var indexpage = "novel-chapter-1030.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1030.html">史通</a></strong>
+<strong><a href="novel-chapter-1030.html">史通目录</a></strong>
+<span>内篇 因习第十八</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1030-10604.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>内篇 因习第十八</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘知几&amp;searchsubmit=yes"  target="_blank">刘知几</a><span class="divide">|</span>发布时间：2014-11-28 23:06:52<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　盖闻三王各异礼，五帝不同乐，故《传》称因俗，《易》贵随时。况史书者，记事之言耳。夫事有贸迁，而言无变革，此所谓胶柱而调瑟，刻船而求剑也。<br/><br/>　　古者诸侯曰薨，卿大夫曰卒。故《左氏传》称楚邓曼曰："王薨于行，国之福也。"又郑子产曰："文、襄之伯，君薨，大夫吊。"即其证也。案夫子修《春秋》，实用斯义。而诸国皆卒，鲁独称薨者，此略外别内之旨也。马迁《史记》西伯以下，与诸列国王侯，凡有薨者，同加卒称，此岂略外别内邪？何贬薨而书卒也？<br/><br/>　　盖著鲁史者，不谓其邦为鲁国；撰周书者，不呼其王曰周王。如《史记》者，事总古今，势无主客，故言及汉祖，多为汉王，斯亦未为累也。班氏既分裂《史记》，定名《汉书》，至于述高祖为公、王之时，皆不除沛、汉之字。凡有异方降款者，以归汉为文。肇自班《书》，首为此失；迄于仲豫，仍踵厥非。积习相传，曾无先觉者矣。<br/><br/>　　又《史记·陈涉世家》，称其子孙至今血食。《汉书》复有《涉传》，乃具载迁文。案迁之言今，实孝武之世也；固之言今，当孝明之世也。事出百年，语同一理。即如是，岂陈氏苗裔祚流东京者乎？斯必不然。《汉书》又云："严君平既卒，蜀人至今称之。"皇甫谧全录斯语，载于《高士传》。夫孟坚、士安，年代悬隔，至今之说，岂可同云？夫班之习焉，其非既如彼；谧之承固，其失又如此。迷而不悟，奚其甚乎！<br/><br/>　　何法盛《中兴书·刘隗录》称其议狱事具《刑法说》，依检志内，了无其说。既而臧氏《晋书》、梁朝《通史》，于大连之传，并有斯言，志亦无文，传仍虚述。此又不精之咎，同于玄晏也。<br/><br/>　　寻班、马之为列传，皆具编其人姓名如行状。尤相似者，则共归一称，若《刺客》、《日者》、《儒林》、《循吏》是也。范晔既移题目于传首，列姓名于传中，而犹于列传之下，注为《列女》、《高隐》等目。苟姓名既书，题目又显，是则邓禹、寇恂之首，当署为《公辅》者矣；岑彭、吴汉之前，当标为《将帅》者矣。触类而长，实繁其徒，何止《列女》、《孝子》、《高隐》、《独行》而已。<br/><br/>　　魏书著书，标榜南国，桓、刘诸族，咸曰《岛夷》。是则自江而东，尽为卉服之地。至于《刘昶》、《沈文秀》等传，叙其爵里，则不异诸华。岂有君臣共国，父子同姓，阖闾、季札，便致土风之殊；孙策、虞翻，乃成夷夏之隔。求诸往例，所未闻也。<br/><br/>　　当晋宅江、淮，实膺正朔，嫉彼群雄，称为僣盗。故阮氏《七录》，以田、范、裴、段诸记，刘、石、符、姚等书，别创一名，题为《伪史》。及隋氏受命，海内为家，国靡爱憎，人无彼我，而世有撰《隋书·经籍志》者，其流别群书，还依阮《录》。案国之有伪，其来尚矣。如杜宇作帝，勾践称王，孙权建鼎峙之业，萧詧为附庸之主，而扬雄撰《蜀纪》，子贡著《越绝》，虞裁《江表传》，蔡述《后梁史》。考斯众作，咸是伪书，自可类聚相从，合成一部，何止取东晋一世十有六家而已乎？<br/><br/>　　夫王室将崩，霸图云构，必有忠臣义士，捐生殉节。若乃韦、耿谋诛曹武，钦、诞问罪马文，而魏、晋史臣书之曰贼，此乃迫于当世，难以直言。至如荀济、元瑾，兰摧于孝、靖之末，王谦、尉迥，玉折于宇文之季，而李刊齐史，颜述隋篇，时无逼畏，事须矫枉，而皆仍旧不改，谓数君为叛逆。书事如此，褒贬何施？<br/><br/>　　昔汉代有修奏记于其府者，遂盗葛龚所作而进之，既具录他文，不知改易名姓，时人谓之曰："作奏虽工，宜去葛龚。"及邯郸氏撰《笑林》，载之以为口实。嗟乎！历观自古，此类尤多，其有宜去而不去者，岂直葛龚而已！何事于斯，独致解颐之诮也。凡为史者，苟能识事详审，措辞精密，举一隅以三隅反，告诸往而知诸来，斯庶几可以无大过矣。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1030-10604.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1030-10606.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1030.html" action-type="chapterComment" class="comment"><i></i>史通章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

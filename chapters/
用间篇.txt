@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孙子兵法》正文_用间篇_孙武作品 - 维普阅读网</title>
+<meta name="keywords" content="孙子兵法,孙子兵法原文,孙子兵法阅读,用间篇全文,孙武作品" />
+<meta name="description" content="孙子兵法原文阅读,用间篇全文在线阅读,孙武作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-56-1656.html";
+var nextpage="novel-chapter-56.html";
+var indexpage = "novel-chapter-56.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-56.html">孙子兵法</a></strong>
+<strong><a href="novel-chapter-56.html">孙子兵法目录</a></strong>
+<span>用间篇</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-56-1656.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>用间篇</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=孙武&amp;searchsubmit=yes"  target="_blank">孙武</a><span class="divide">|</span>发布时间：2014-07-28 21:03:55<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/>　　孙子曰：凡兴师十万，出征千里，百姓之费，公家之奉，日费千金；内外骚动，怠于道路，不得操事者七十万家。相守数年，以争一日之胜，而爱爵禄百金，不知敌之情者，不仁之至也，非民之将也，非主之佐也，非胜之主也。故明君贤将，所以动而胜人，成功出于众者，先知也。先知者，不可取于鬼神，不可象于事，不可验于度，必取于人，知敌之情者也。<br/>　　故用间有五：有乡间，有内间，有反间，有死间，有生间。五间俱起，莫知其道，是谓神纪，人君之宝也。乡间者，因其乡人而用之；内间者，因其官人而用之；反间者，因其敌间而用之；死间者，为诳事于外，令吾间知之，而传于敌间也；生间者，反报也。<br/>　　故三军之事，莫亲于间，赏莫厚于间，事莫密于间。非圣智不能用间，非仁义不能使间，非微妙不能得间之实。微哉微哉，无所不用间也！<br/>　　间事未发而先闻者，间与所告者皆死。凡军之所欲击，城之所欲攻，人之所欲杀，必先知其守将、左右、谒者、门者、舍人之姓名，令吾间必索知之。必索敌人之间来间我者，因而利之，导而舍之，故反间可得而用也。因是而知之，故乡间、内间可得而使也；因是而知之，故死间为诳事，可使告敌；因是而知之，故生间可使如期。五间之事，主必知之，知之必在于反间，故反间不可不厚也。<br/>　　昔殷之兴也，伊挚在夏；周之兴也，吕牙在殷。故明君贤将，能以上智为间者，必成大功。此兵之要，三军之所恃而动也。<br/><br/>译文：<br/>　　孙子说：凡兴兵十万，征战千里，百姓的耗费， 国家的开支，每天都要花费千金，前后方动乱不安，戌卒疲备地在路上奔波，不能从事正常生产的有七十万家。这样相持数年，就是为了决胜于一旦，如果吝惜爵禄和金钱，不肯用来重用间谍，以致因为不能掌握敌情而导致失败，那就是不仁到极点了。这种人不配作军队的统帅，算不上国家的辅佐，也不是胜利的主宰。所以，明君和贤将之所以一出兵就能战胜敌人，功业超越众人，就在于能预先掌握敌情。要事先了解敌情，不可求神问鬼，也不可用相似的现象作类比推测，不可用日月星辰运行的位置去验证，一定要取之于人，从那些熟悉敌情的人的口中去获取。<br/>　　间谍的运用有五种，即乡间、内间、反间、死间、生间。五种间谍同时用起来，使敌人无从捉摸我用间的规律，这是使用间谍神妙莫测的方法，也正是国君克敌制胜的法宝。所谓乡间，是指利用敌人的同乡做间谍；所谓内间，就是利用敌方官吏做间谍；所谓反间，就是使敌方间谍为我所用；所谓死间，是指制造散布假情报，通过我方间谍将假情报传给敌间，诱使敌人上当，一旦真情败露，我间难免一死；所谓生间，就是侦察后能活着回来报告敌情的人。所以在军队中，没有比间谍更亲近的人，没有比间谍更为优厚奖赏的，没有比间谍更为秘密的事情了。不是睿智超群的人不能使用间谍，不是仁慈慷慨的人不能指使间谍，不是谋虑精细的人不能得到间谍提供的真实情报。微妙啊，微妙！无时无处不可以使用间谍。间谍的工作还未开展，而已泄露出去的，那么间谍和了解内情的人都要处死。凡是要攻打的敌方军队，要攻占的敌方城市，要刺杀的敌方人员，都须预先了解其主管将领、左右亲信、负责传达的官员、守门官吏和门客幕僚的姓名，指令我方间谍一定要将这些情况侦察清楚。<br/>　　一定要搜查出敌方派来侦察我方军情的间谍，从而用重金收买他，引诱开导他，然后再放他回去，这样，反间就可以为我所用了。通过反间了解敌情，乡间、内间也就可以利用起来了。通过反间了解敌倩，就能使死间传播假情报给敌人了。通过反间了解敌情，就能使生间按预定时间报告敌情了。五种间谍的使用，国君都必须了解掌握。了解情况的关键在于使用反间，所以对反间不可不给予优厚的待遇。<br/>　　从前殷商的兴起，在于重用了在夏朝为臣的伊挚，他熟悉并了解夏朝的情况；周朝的兴起，是由于周武王重用了了解商朝情况的吕牙。所以，明智的国君，贤能的将帅，能用智慧高超的人充当间谍，就一定能建树大功。这是用兵的关键，整个军队都要依靠间谍提供的敌情来决定军事行动。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-56-1656.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-56.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-56.html" action-type="chapterComment" class="comment"><i></i>孙子兵法章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

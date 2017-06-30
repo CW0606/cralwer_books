@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《文序跋集》正文_《一个青年的梦》_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="文序跋集,文序跋集原文,文序跋集阅读,《一个青年的梦》全文,鲁迅作品" />
+<meta name="description" content="文序跋集原文阅读,《一个青年的梦》全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-619-7775.html";
+var nextpage="novel-read-619-7777.html";
+var indexpage = "novel-chapter-619.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-619.html">文序跋集</a></strong>
+<strong><a href="novel-chapter-619.html">文序跋集目录</a></strong>
+<span>《一个青年的梦》</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-619-7775.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>《一个青年的梦》</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-13 21:40:53<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>后记（2）<br/><br/>　　我看这剧本，是由于《新青年》（3）上的介绍，我译这剧本的开手，是在一九一九年八月二日这一天，从此逐日登在北京《国民公报》（4）上。到十月二十五日，《国民公报》忽被禁止出版了，我也便歇手不译，这正在第三幕第二场两个军使谈话的中途。<br/>　　同年十一月间，因为《新青年》记者的希望，我又将旧译校订一过，并译完第四幕，按月登在《新青年》上。从七卷二号起，一共分四期。但那第四号是人口问题号，多被不知谁何没收了，所以大约也有许多人没有见。<br/>　　周作人先生和武者小路（5）先生通信的时候，曾经提到这已经译出的事，并问他对于住在中国的人类有什么意见，可以说说。作者因此写了一篇，寄到北京，而我适值到别处去了，便由周先生译出，就是本书开头的一篇《与支那未知的友人》。原译者的按语中说：“《一个青年的梦》的书名，武者小路先生曾说想改作《A与战争》，他这篇文章里也就用这个新名字，但因为我们译的还是旧称，所以我于译文中也一律仍写作《一个青年的梦》。”<br/>　　现在，是在合成单本，第三次印行的时候之前了。我便又乘这机会，据作者先前寄来的勘误表再加修正，又校改了若干的误字，而且再记出旧事来，给大家知道这本书两年以来在中国怎样枝枝节节的，好容易才成为一册书的小历史。<br/>　　一九二一年十二月十九日，鲁迅记于北京。<br/><br/>==========================================================================<br/><br/>　　 　《一个青年的梦》　日本武者小路实笃所作的四幕反战剧本。中译文在翻译时即陆续发表于北京《国民公报》副刊，至该报被禁停刊时止（一九一九年八月三日至十月二十五日），后来全剧又移刊于《新青年》月刊第七卷第二号至第五号（一九二○年一月至四月）。<br/>　　单行本于一九二二年七月由上海商务印书馆出版，列为《文学研究会丛书》之一；至一九二七年九月，又由上海北新书局再版发行：列为《未名丛刊》之一。<br/>　　（2）　本篇最初印入一九二二年七月上海商务印书馆出版的《一个青年的梦》单行本，未另在报刊上发表过。<br/>　　（3）　《新青年》　综合性月刊，“五四”时期倡导新文化运动、传播马克思主义的重要刊物。一九一五年九月创刊于上海，由陈独秀主编。第一卷名《青年杂志》，第二卷起改名《新青年》。一九一六年底迁至北京。从一九一八年一月起，李大钊等参加编辑工作。一九二二年七月休刊，共出九卷，每卷六期。鲁迅在“五四”时期同该刊有密切联系，是它的重要撰稿人，曾参加该刊编辑会议。<br/>　　（4）　《国民公报》　一九○九年中国改良派为鼓吹立宪运动而创办于北京的日报，徐佛苏主编，一九一九年十月二十五日，因刊登揭露段祺瑞政府的文字，被禁停刊。<br/>　　（5）　武者小路实笃（1885—1976）　日本作家。《白桦》杂志创办人之一，著有小说《好好先生》、剧本《他的妹妹》等。在日本侵华期间，他附和日本帝国主义的侵略政策。<br/><br/><br/>译者序<br/><br/>　　《新青年》四卷五号里面，周起明（2）曾说起《一个青年的梦》，我因此便也搜求了一本，将他看完，很受些感动：觉得思想很透彻，信心很强固，声音也很真。<br/>　　我对于“人人都是人类的相待，不是国家的相待，才得永久和平，但非从民众觉醒不可”这意思，极以为然，而且也相信将来总要做到。现在国家这个东西，虽然依旧存在；但人的真性，却一天比一天的流露：欧战未完时候，在外国报纸上，时时可以看到两军在停战中往来的美谭，战后相爱的至情。他们虽然还蒙在国的鼓子里，然而已经像竞走一般，走时是竞争者，走了是朋友了。<br/>　　中国开一个运动会，却每每因为决赛而至于打架；日子早过去了，两面还仇恨着。在社会上，也大抵无端的互相仇视，什么南北，什么省道府县，弄得无可开交，个个满脸苦相。我因此对于中国人爱和平这句话，很有些怀疑，很觉得恐怖。我想如果中国有战前的德意志一半强，不知国民性是怎么一种颜色。现在是世界上出名的弱国，南北却还没有议和，（3）打仗比欧战更长久。<br/>　　现在还没有多人大叫，半夜里上了高楼撞一通警钟。日本却早有人叫了。他们总之幸福。<br/>　　但中国也仿佛很有许多人觉悟了。我却依然恐怖，生怕是旧式的觉悟，将来仍然免不了落后。<br/>　　昨天下午，孙伏园（4）对我说，“可以做点东西。”我说，“文章是做不出了。《一个青年的梦》却很可以翻译。但当这时候，不很相宜，两面正在交恶（5），怕未必有人高兴看。”晚上点了灯，看见书脊上的金字，想起日间的话，忽然对于自己的根性有点怀疑，觉得恐怖，觉得羞耻。人不该这样做，——我便动手翻译了。<br/>　　武者小路氏《新村杂感》（6）说，“家里有火的人呵，不要将火在隐僻处搁着，放在我们能见的地方，并且通知说，这里也有你们的兄弟。”他们在大风雨中，擎出了火把，我却想用黑幔去遮盖他，在睡着的人的面前讨好么？<br/>　　但书里的话，我自然也有意见不同的地方，现在都不细说了，让各人各用自己的意思去想罢。<br/>　　一九一九年八月二日，鲁迅。<br/><br/>==========================================================================<br/><br/>　　 　本篇及下篇《译者序二》连同剧本第一幕的译文，最初同时发表于一九二○年一月《新青年》月刊第七卷第二号，未收入单行本。<br/>　　（2）　周起明　即周作人（1885—1967），又作启明、起孟，鲁迅的二弟。抗日战争时期堕落为汉奸。他在《新青年》第四卷第五号（一九一八年五月）曾发表《读武者小路君作〈一个青年的梦〉》一文，下面的“人人都是人类的相待，不是国家的相待……”几句，即引自该文。<br/>　　（3）　南北却还没有议和　南北，指南方军政府与北洋政府。一九一七年皖系军阀段祺瑞解散国会，驱走总统黎元洪。孙中山在广州召开国会非常会议，组织护法军军政府，由此出现南北两个对立的政权。<br/>　　一九一九年一月双方各派代表在上海议和，因段祺瑞的阻挠，和谈破裂。<br/>　　（4）　孙伏园（1894—1966）　原名福源，浙江绍兴人，鲁迅任绍兴师范学校校长时的学生。后在北京大学毕业，曾参加新潮社和语丝社，先后任《晨报副刊》和《京报副刊》编辑。著有《伏园游记》、《鲁迅先生二三事》等。<br/>　　（5）　两面正在交恶　两面，指中日双方。一九一九年一月在巴黎和会上，中国要求取消日本强加于中国的不平等条约及各种特权，遭到否决，致引起中国人民的愤怒。<br/>　　（6）　《新村杂感》　一九一八年冬，武者小路实笃在日本宫崎县日向地区创建新村，实行“耕读主义”时所写的文章。<br/><br/><br/>译者序二<br/><br/>　　我译这剧本，从八月初开手，逐日的登在《国民公报》上面；到十月念五日，《国民公报》忽然被禁止出版了，这剧本正当第三幕第二场两个军使谈话的中途。现在因为《新青年》记者的希望，再将译本校正一遍，载在这杂志上。<br/>　　全本共有四幕，第三幕又分三场，全用一个青年作为线索。但四幕之内，无论那一幕那一场又各各自有首尾，能独立了也成一个完全的作品：所以分看合看，都无所不可的。<br/>　　全剧的宗旨，自序已经表明，是在反对战争，不必译者再说了。但我虑到几位读者，或以为日本是好战的国度，那国民才该熟读这书，中国又何须有此呢？我的私见，却很不然：中国人自己诚然不善于战争，却并没有诅咒战争；自己诚然不愿出战，却并未同情于不愿出战的他人；虽然想到自己，却并没有想到他人的自己。譬如现在论及日本并吞朝鲜的事 ，每每有“朝鲜本我藩属”这一类话，只要听这口气，也足够教人害怕了。<br/>　　所以我以为这剧本也很可以医许多中国旧思想上的痼疾，因此也很有翻成中文的意义。<br/>　　　　　　　　　　　　　　　　　　　　　　　　　 十一月二十四日　　　　　<br/>　　　　　　　　　　　　　　　　　　 迅。<br/><br/>==========================================================================<br/><br/>　　 　日本并吞朝鲜的事　指一九一○年八月日本帝国主义强迫朝鲜政府签订《日韩合并条约》，使朝鲜沦为它的殖民地。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-619-7775.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-619-7777.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-619.html" action-type="chapterComment" class="comment"><i></i>文序跋集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

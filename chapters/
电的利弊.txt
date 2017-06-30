@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《伪自由书》正文_电的利弊_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="伪自由书,伪自由书原文,伪自由书阅读,电的利弊全文,鲁迅作品" />
+<meta name="description" content="伪自由书原文阅读,电的利弊全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-550-7473.html";
+var nextpage="novel-read-550-7475.html";
+var indexpage = "novel-chapter-550.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-550.html">伪自由书</a></strong>
+<strong><a href="novel-chapter-550.html">伪自由书目录</a></strong>
+<span>电的利弊</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-550-7473.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>电的利弊</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-04 21:07:11<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>日本幕府时代，曾大杀基督教徒，刑罚很凶，但不准发表，世无知者。到近几年，乃出版当时的文献不少。曾见《切利支丹殉教记》（２），其中记有拷问教徒的情形，或牵到温泉旁边，用热汤浇身；或周围生火，慢慢的烤炙，这本是“火刑”，但主管者却将火移远，改死刑为虐杀了。 <br/><br/>　　中国还有更残酷的。唐人说部中曾有记载，一县官拷问犯人，四周用火遥焙，口渴，就给他喝酱醋，（３）这是比日本更进一步的办法。现在官厅拷问嫌疑犯，有用辣椒煎汁灌入鼻孔去的，似乎就是唐朝遗下的方法，或则是古今英雄，所见略同。曾见一个囚在反省院里的青年的信，说先前身受此刑，苦痛不堪，辣汁流入肺脏及心，已成不治之症，即释放亦不免于死云云。此人是陆军学生，不明内脏构造，其实倒挂灌鼻，可以由气管流入肺中，引起致死之病，却不能进入心中；大约当时因在苦楚中，知觉瞀乱，遂疑为已到心脏了。 <br/><br/>　　但现在之所谓文明人所造的刑具，残酷又超出于此种方法万万。上海有电刑，一上，即遍身痛楚欲裂，遂昏去，少顷又醒，则又受刑。闻曾有连受七八次者，即幸而免死，亦从此牙齿皆摇动，神经亦变钝，不能复原。前年纪念爱迪生（４），许多人赞颂电报电话之有利于人，却没有想到同是一电，而有人得到这样的大害，福人用电气疗病，美容，而被压迫者却以此受苦，丧命也。 <br/><br/>　　外国用火药制造子弹御敌，中国却用它做爆竹敬神；外国用罗盘针航海，中国却用它看风水；外国用鸦片医病，中国却拿来当饭吃。同是一种东西，而中外用法之不同有如此，盖不但电气而已。 <br/><br/>　　一月三十一日。 <br/>　<br/>===============================================================<br/><br/>　　（１）本篇最初发表于一九三三年二月十六日《申报·自由谈》，署名何家干。 <br/><br/>　　（２）《切利支丹殉教记》原名《切支丹E殉教者》，日本松剖底鳎�痪哦��*出版。一九二五年修订再版时改名为《切支丹殉教记》。书中记述十六世纪以来天主教在日本的流传，以及日本江户幕府时代封建统治阶级对天主教徒的残酷迫害和屠杀的情况。“切支丹”（也称“切利支丹”），是基督教（及基督教徒）的日本译名。<br/><br/>　　（３）《太平广记》卷二六八引《神异经》佚文中有类似记载：唐代武则天时酷吏来俊臣逼供，“每鞫囚，无轻重，先以醋灌鼻，禁地牢中，以火围绕。” <br/><br/>　　（４）爱迪生（Ｔ．Ａ．Ｅｄｉｓｏｎ，１８４７—１９３１）美国发明家。精研电学，有很多发明创制，如电灯、电报、电话、电影机、留声机等。 <br/><br/>　　一九三一年十月十八日逝世后，世界各地曾悼念他。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-550-7473.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-550-7475.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-550.html" action-type="chapterComment" class="comment"><i></i>伪自由书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《尔雅》正文_六、释器_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="尔雅,尔雅原文,尔雅阅读,六、释器全文,佚名作品" />
+<meta name="description" content="尔雅原文阅读,六、释器全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-267-4563.html";
+var nextpage="novel-read-267-4565.html";
+var indexpage = "novel-chapter-267.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-267.html">尔雅</a></strong>
+<strong><a href="novel-chapter-267.html">尔雅目录</a></strong>
+<span>六、释器</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-267-4563.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>六、释器</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-08-29 22:36:05<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>木豆谓之豆，竹豆谓之笾，瓦豆谓之登。<br/>　　盎谓之缶，瓯瓿谓之瓵，康瓠谓之甈。<br/>　　斪劚谓之定，斫谓之鐯，&lt;庣斗&gt;谓之疀。<br/>　　緵罟谓之九罭，九罭，鱼网也。<br/>　　嫠妇之笱谓之罶。<br/>　　罺谓之汕。<br/>　　篧谓之罩，椮谓之涔。<br/>　　鸟罟谓之罗，兔罟谓之罝，麋罟谓之罞，彘罟谓之羉，鱼罟谓之罛。<br/>　　繴谓之罿，罿，罬也。罬谓之罦，罦，覆车也。<br/>　　絇谓之救。<br/>　　律谓之分。<br/>　　大版谓之业。<br/>　　绳之谓之缩之。<br/>　　彝、卣、罍，器也。<br/>　　小罍谓之坎。<br/>　　衣裗谓之衤兒，黼领谓之襮，缘谓之纯，袕谓之褮。<br/>　　衣眥谓之襟，衱谓之裾，衿谓之袸。<br/>　　佩衿谓之褑。<br/>　　执衽谓之袺，扱衽谓之襭，衣蔽前谓之襜。<br/>　　妇人之祎谓之缡。缡，緌也。<br/>　　裳削幅谓之纀。<br/>　　舆革，前谓之鞎，后谓之笰；竹，前谓之御，后谓之蔽。<br/>　　环谓之捐，镳谓之钀，载辔谓之轙，辔首谓之革。<br/>　　餀谓之饣彖，食噎谓之餲。<br/>　　抟者谓之糷，米者谓之糪，肉谓之败，鱼谓之馁。<br/>　　肉曰脱之，鱼曰斫之。<br/>　　冰，脂也。<br/>　　肉谓之羹，鱼谓之鮨，肉谓之醢，有骨者谓之臡。<br/>　　康谓之蛊，淀谓之垽。<br/>　　鼎绝大谓之鼐，圆圜上谓之鼒，附耳外谓之釴，款足者谓之鬲，&lt;鬲曾&gt;谓之鬵，鬵鉹也。<br/>　　璲，瑞也。<br/>　　玉十谓之区。<br/>　　羽本谓之翮，一羽谓之箴，十羽谓之縳，百羽谓之緷。<br/>　　木谓之虡。<br/>　　旄谓之{艹罢}。<br/>　　菜谓之簌。<br/>　　白盖谓之苫。<br/>　　黄金谓之璗，其美者谓之镠。<br/>　　白金谓之银，其美者谓之镣。<br/>　　鉼金谓之钣，锡谓之鈏。<br/>　　象谓之鹄，角谓之觷，犀谓之剒，木谓之剫，玉谓之雕，金谓之镂，木谓之刻，骨谓之切，象谓之磋，玉谓之琢，石谓之磨。<br/>　　璆、琳，玉也。<br/>　　简谓之毕，不律谓之笔，灭谓之点。<br/>　　绝泽谓之铣。<br/>　　金镞剪羽谓之鍭，骨镞不剪羽谓之志。<br/>　　弓有缘者谓之弓，无缘者谓之弭。<br/>　　以金者谓之铣，以蜃者谓之珧，以玉者谓之珪。<br/>　　珪大尺二寸谓之玠，璋大八寸谓之琡，璧大六寸谓之宣。<br/>　　肉倍好谓之璧，好倍肉之瑗，肉好若一谓之环。<br/>　　繸，绶也。<br/>　　一染谓之縓，再染谓之赪，三染谓之纁。<br/>　　青谓之葱，黑谓之黝。<br/>　　斧谓之黼，邸谓之柢，雕谓之琢，蓐谓之兹，竿谓之箷。<br/>　　箦谓之笫。<br/>　　革中绝谓之辨，革中辨谓之韏。<br/>　　镂，锼也。<br/>　　卣，中尊也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-267-4563.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-267-4565.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-267.html" action-type="chapterComment" class="comment"><i></i>尔雅章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

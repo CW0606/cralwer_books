@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《墨子》正文_兼爱(上)_墨子作品 - 维普阅读网</title>
+<meta name="keywords" content="墨子,墨子原文,墨子阅读,兼爱(上)全文,墨子作品" />
+<meta name="description" content="墨子原文阅读,兼爱(上)全文在线阅读,墨子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-32-748.html";
+var nextpage="novel-read-32-750.html";
+var indexpage = "novel-chapter-32.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-32.html">墨子</a></strong>
+<strong><a href="novel-chapter-32.html">墨子目录</a></strong>
+<span>兼爱(上)</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-32-748.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>兼爱(上)</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=墨子&amp;searchsubmit=yes"  target="_blank">墨子</a><span class="divide">|</span>发布时间：2014-07-20 14:22:22<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/>　　圣人以治天下为事者也，必知乱之所自起，焉能治之；不知乱之所自起，则不能治。譬之如医之攻人之疾者然：必知疾之所自起，焉能攻之；不知疾之所自起，则弗能攻。治乱者何独不然？必知乱之所自起，焉能治之；不知乱之斯自起，则弗能治。圣人以治天下为事者也，不可不察乱之所自起。<br/><br/>　　当察乱何自起？起不相爱。臣子之不孝君父，所谓乱也。子自爱，不爱父，故亏父而自利；弟自爱，不爱兄，故亏兄而自利；臣自爱，不爱君，故亏君而自利，此所谓乱也。虽父之不慈子，兄之不慈弟，君之不慈臣，此亦天下之所谓乱也。父自爱也，不爱子，故亏子而自利；兄自爱也，不爱弟，故亏弟而自利；君自爱也，不爱臣，故亏臣而自利。是何也？皆起不相爱。<br/><br/>　　虽至天下之为盗贼者亦然：盗爱其室，不爱其异室，故窃异室以利其室。贼爱其身，不爱人，故贼人以利其身。此何也？皆起不相爱。虽至大夫之相乱家，诸侯之相攻国者亦然：大夫各爱其家，不爱异家，故乱异家以利其家。诸侯各爱其国，不爱异国，故攻异国以利其国，天下之乱物，具此而巳矣。察此何自起？皆起不相爱。<br/><br/>　　若使天下兼相爱，爱人若爱其身，犹有不孝者乎？视父兄与君若其身，恶施不孝？犹有不慈者乎？视弟子与臣若其身，恶施不慈？故不孝不慈亡有。犹有盗贼乎？故视人之室若其室，谁窃？视人身若其身，谁贼？故盗贼亡有。犹有大夫之相乱家、诸侯之相攻国者乎？视人家若其家，谁乱？视人国若其国，谁攻？故大夫之相乱家、诸侯之相攻国者亡有。若使天下兼相爱，国与国不相攻，家与家不相乱，盗贼无有，君臣父子皆能孝慈，若此，则天下治。<br/><br/>　　故圣人以治天下为事者，恶得不禁恶而劝爱？故天下兼相爱则治，交相恶则乱。故子墨子曰：“不可以不劝爱人者，此也。”<br/><br/>译文：<br/>　　圣人是以治理天下为职业的人，必须知道混乱从哪里产生，才能对它进行治理。如果不知道混乱从哪里产生，就不能进行治理。这就好像医生给人治病一样，必须知道疾病产生的根源，才能进行医治。如果不知道疾病产生的根源，就不能医治。治理混乱又何尝不是这样，必须知道混乱产生的根源，才能进行治理。如果不知道混乱产生的根源，就不能治理。圣人是以治理天下为职业的人，不可不考察混乱产生的根源。<br/><br/>　　试考察混乱从哪里产生呢？起于人与人不相爱。臣与子不孝敬君和父，就是所谓乱。儿子爱自己而不爱父亲，因而损害父亲以自利；弟弟爱自己而不爱兄长，因而损害兄长以自利；臣下爱自己而不爱君上，因而损害君上以自利，这就是所谓混乱。反过来，即使父亲不慈爱儿子，兄长不慈爱弟弟，君上不慈爱臣下，这也是天下的所谓混乱。父亲爱自己而不爱儿子，所以损害儿子以自利；兄长爱自己而不爱弟弟，所以损害弟弟以自利；君上爱自己<br/><br/>　　而不爱臣下，所以损害臣下以自利。这是为什么呢？都是起于不相爱。<br/><br/>　　即使在天底下做盗贼的人，也是这样。盗贼只爱自己的家，不爱别人的家，所以盗窃别人的家以利自己的家；盗贼只爱自身，不爱别人，所以残害别人以利自己。这是什么原因呢？都起于不相爱。<br/><br/>　　即使大夫相互侵扰家族，诸侯相互攻伐封国，也是这样。大夫各自爱他自己的家族，不爱别人的家族，所以侵扰别人的家族以利他自己的家族；诸侯各自爱他自己的国家，不爱别人的国家，所以攻伐别人的国家以利他自己的国家。天下的乱事，全部都具备在这里了。细察它从哪里产生呢？都起于不相爱。<br/><br/>　　假若天下都能相亲相爱，爱别人就象爱自己，还能有不孝的吗？看待父亲、兄弟和君上象自己一样，怎么会做出不孝的事呢？还会有不慈爱的吗？看待弟弟、儿子与臣下象自己一样，怎么会做出不慈的事呢？所以不孝不慈都没有了。还有盗贼吗？看待别人的家象自己的家一样，谁会盗窃？看待别人就象自己一样，谁会害人？所以盗贼没有了。还有大夫相互侵扰家族，诸侯相互攻伐封国吗？看待别人的家族就象自己的家族，谁会侵犯？看待别人的封国就象自己的封国，谁会攻伐？所以大夫相互侵扰家族，诸侯相互攻伐封国，都没有了。假若天下的人都相亲相爱，国家与国家不相互攻伐，家族与家族不相互侵扰，盗贼没有了，君臣父子间都能孝敬慈爱，象这样，天下也就治理了。<br/><br/>　　所以圣人既然是以治理天下为职业的人，怎么能不禁止相互仇恨而鼓励相爱呢？因此天下的人相亲相爱就会治理好，相互憎恶则会混乱。所以墨子说：“不能不鼓励爱别人”，道理就在此。<br/><br/>注释<br/>（1）兼爱是墨家学派最有代表性的理论之一。所谓兼爱，其本质是要求人们爱人如己，彼此之间不要存在血缘与等级差别的观念。墨子认为，不相爱是当时社会混乱最大的原因，只有通过“兼相爱，交相利”才能达到社会安定的状态。这种理论具有反抗贵族等级观念的进步意义，但同时也带有强烈的理想色彩。<br/>（2）当：读为“尝”。<br/>（3）恶（wū）：何。<br/>（4）亡：通“无”。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-32-748.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-32-750.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-32.html" action-type="chapterComment" class="comment"><i></i>墨子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《二心集》正文_几条“顺”的翻译_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="二心集,二心集原文,二心集阅读,几条“顺”的翻译全文,鲁迅作品" />
+<meta name="description" content="二心集原文阅读,几条“顺”的翻译全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-534-6732.html";
+var nextpage="novel-read-534-6734.html";
+var indexpage = "novel-chapter-534.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-534.html">二心集</a></strong>
+<strong><a href="novel-chapter-534.html">二心集目录</a></strong>
+<span>几条“顺”的翻译</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-534-6732.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>几条“顺”的翻译</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 21:00:58<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>在这一个多年之中，拚死命攻击“硬译”的名人，已经有了三代：首先是祖师梁实秋教授，其次是徒弟赵景深②教授，最近就来了徒孙杨晋豪③大学生。但这三代之中，却要算赵教授的主张最为明白而且彻底了，那精义是——“与其信而不顺，不如顺而不信。”<br/>　　这一条格言虽然有些希奇古怪，但对于读者是有效力的。<br/>　　因为“信而不顺”的译文，一看便觉得费力，要借书来休养精神的读者，自然就会佩服赵景深教授的格言。至于“顺而不信”的译文，却是倘不对照原文，就连那“不信”在什么地方都不知道。然而用原文来对照的读者，中国有几个呢。这时候，必须读者比译者知道得更多一点，才可以看出其中的错误，明白那“不信”的所在。否则，就只好胡里胡涂的装进脑子里去了。<br/>　　我对于科学是知道得很少的，也没有什么外国书，只好看看译本，但近来往往遇见疑难的地方。随便举几个例子罢。《万有文库》④里的周太玄先生的《生物学浅说》里，有这样的一句——<br/>　　“最近如尼尔及厄尔两氏之对于麦……”<br/>　　据我所知道，在瑞典有一个生物学名家Nilsson Ehle是考验小麦的遗传的，但他是一个人而兼两姓，应该译作“尼尔生厄尔”才对。现在称为“两氏”，又加了“及”，顺是顺的，却很使我疑心是别的两位了。不过这是小问题，虽然，要讲生物学，连这些小节也不应该忽略，但我们姑且模模胡胡罢。<br/>　　今年的三月号《小说月报》上冯厚生先生译的《老人》里，又有这样的一句——<br/>　　“他由伤寒病变为流行性的感冒（Influenza）的重病……”<br/>　　这也是很“顺”的，但据我所知道，流行性感冒并不比伤寒重，而且一个是呼吸系病，一个是消化系病，无论你怎样“变”，也“变”不过去的。须是“伤风”或“中寒”，这才变得过去。但小说不比《生物学浅说》，我们也姑且模模胡胡罢。这回另外来看一个奇特的实验。<br/>　　这一种实验，是出在何定杰及张志耀两位合译的美国Conklin所作的《遗传与环境》里面的。那译文是——“……他们先取出兔眼睛内髓质之晶体，注射于家禽，等到家禽眼中生成一种‘代晶质’，足以透视这种外来的蛋白质精以后，再取出家禽之血清，而注射于受孕之雌兔。雌兔经此番注射，每不能堪，多遭死亡，但是他们的眼睛或晶体并不见有若何之伤害，并且他们卵巢内所蓄之卵，亦不见有什么特别之伤害，因为就他们以后所生的小兔看来，并没有生而具残缺不全之眼者。”<br/>　　这一段文章，也好像是颇“顺”，可以懂得的。但仔细一想，却不免不懂起来了。一，“髓质之晶体”是什么？因为水晶体是没有髓质皮质之分的。二，“代晶质”又是什么？三，“透视外来的蛋白质”又是怎么一回事？我没有原文能对，实在苦恼得很，想来想去，才以为恐怕是应该改译为这样的——“他们先取兔眼内的制成浆状（以便注射）的水晶体，注射于家禽，等到家禽感应了这外来的蛋白质（即浆状的水晶体）而生‘抗晶质’（即抵抗这浆状水晶体的物质）。然后再取其血清，而注射于怀孕之雌兔。……”<br/>　　以上不过随手引来的几个例，此外情随事迁，忘却了的还不少，有许多为我所不知道的，那自然就都溜过去，或者照样错误地装在我的脑里了。但即此几个例子，我们就已经可以决定，译得“信而不顺”的至多不过看不懂，想一想也许能懂，译得“顺而不信”的却令人迷误，怎样想也不会懂，如果好像已经懂得，那么你正是入了迷途了。<br/>　======================================<br/><br/><br/><br/>　　 本篇最初发表于一九三一年十二月二十日《北斗》第一卷第四期，署名长庚。<br/>　　②赵景深四川宜宾人，当时复旦大学教授，北新书局编辑。他在《读书月刊》第一卷第六期（一九三一年三月）《论翻译》一文中为误译辩解说：“我以为译书应为读者打算；换一句话说，首先我们应该注重于读者方面。译得错不错是第二个问题，最要紧的是译得顺不顺。倘若译得一点也不错，而文字格里格达，吉里吉八，拖拖拉拉一长串，要折断人家的嗓子，其害处当甚于误译。……所以严复的‘信’‘达’‘雅’三个条件，我以为其次序应该是‘达’‘信’‘雅’。”<br/>　　③杨晋豪上海奉贤人，当时南京中央大学学生。他在《社会与教育》第二卷第二十二期（一九三一年九月）发表《从“翻译论战”说开去》一文，攻击当时马列主义著作和“普罗”文学理论的译文“生硬”，“为许多人所不满，看了喊头痛，嘲之为天书”。又说“翻译要‘信’是不成问题的，而第一要件是要‘达’！”<br/>　　④《万有文库》商务印书馆一九二九年至一九三四年间出版的大型丛书，收入中外著作两千余种，共四千册。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-534-6732.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-534-6734.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-534.html" action-type="chapterComment" class="comment"><i></i>二心集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

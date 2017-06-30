@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《人物志》正文_材能_刘劭作品 - 维普阅读网</title>
+<meta name="keywords" content="人物志,人物志原文,人物志阅读,材能全文,刘劭作品" />
+<meta name="description" content="人物志原文阅读,材能全文在线阅读,刘劭作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-351-5265.html";
+var nextpage="novel-read-351-5267.html";
+var indexpage = "novel-chapter-351.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-351.html">人物志</a></strong>
+<strong><a href="novel-chapter-351.html">人物志目录</a></strong>
+<span>材能</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-351-5265.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>材能</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘劭&amp;searchsubmit=yes"  target="_blank">刘劭</a><span class="divide">|</span>发布时间：2014-09-05 22:14:19<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>或曰：人材有能大而不能小，犹函牛之鼎不可以烹鸡；愚以为此非名也。夫能之为言，已定之称；岂有能大而不能小乎？凡所谓能大而不能小，其语出于性有宽急；性有宽急，故宜有大小。宽弘之人，宜为郡国，使下得施其功，而总成其事；急小之人，宜理百里，使事办于己。然则郡之与县，异体之大小者也；以实理宽急论辨之，则当言大小异宜，不当言能大不能小也。若夫鸡之与牛，亦异体之小大也，故鼎亦宜有大小；若以烹犊，则岂不能烹鸡乎？故能治大郡，则亦能治小郡矣。推此论之，人材各有所宜，非独大小之谓也。　　夫人材不同，能各有异：有自任之能，有立法使人之能，有消息辨护之能，以德教师人之能，有行事使人谴让之能，有司察紏摘之能，有权奇之能，有威猛之能。　　夫能出于材，材不同量；材能既殊，任政亦异。是故：<br/>　　自任之能，清节之材也，故在朝也，则冢宰之任；为国，则矫直之政。　　立法之能，治家之材也，故在朝也，则司寇之任；为国，则公正之政。　　计策之能，术家之材也，故在朝也，则三孤之任；为国，则变化之政。<br/>　　人事之能，智意之材也，故在朝也，则冢宰之佐；为国，则谐合之政。　　行事之能，谴让之材也，故在朝也，则司寇之佐；为国，则督责之政。<br/>　　权奇之能，伎俩之材也，故在朝也，则司空之任；为国，则艺事之政。<br/>　　司察之能，臧否之材也，故在朝也，则师氏之佐；为国，则刻削之政。<br/>　　威猛之能，豪杰之材也，故在朝也，则将帅之任；为国，则严厉之政。<br/>　　凡偏材之人，皆一味之美；故长于办一官，而短于为一国。何者？夫一官之任，以一味协五味；一国之政，以无味和五味。又国有俗化，民有剧易；而人材不同，故政有得失。是以：<br/>　　王化之政，宜于统大，以之治小则迂。<br/>　　辨护之政，宜于治烦，以之治易则无易。<br/>　　策术之政，宜于治难，以之治平则无奇。<br/>　　矫抗之政，宜于治侈，以之治弊则残。<br/>　　谐和之政，宜于治新，以之治旧则虚。<br/>　　公刻之政，宜于紏奸，以之治边则失众。<br/>　　威猛之政，宜于讨乱，以之治善则暴。<br/>　　伎俩之政，宜于治富，以之治贫则劳而下困。<br/>　　故量能授官，不可不审也。　　凡此之能，皆偏材之人也。故或能言而不能行，或能行而不能言；至于国体之人，能言能行，故为众材之隽也。人君之能异于此：故臣以自任为能，君以用人为能；臣以能言为能，君以能听为能；臣以能行为能，君以能赏罚为能；所能不同，故能君众材也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-351-5265.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-351-5267.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-351.html" action-type="chapterComment" class="comment"><i></i>人物志章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

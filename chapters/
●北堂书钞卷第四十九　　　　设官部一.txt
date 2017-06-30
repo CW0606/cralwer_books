@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《北堂书钞》正文_●北堂书钞卷第四十九　　　　设官部一_虞世南作品 - 维普阅读网</title>
+<meta name="keywords" content="北堂书钞,北堂书钞原文,北堂书钞阅读,●北堂书钞卷第四十九　　　　设官部一全文,虞世南作品" />
+<meta name="description" content="北堂书钞原文阅读,●北堂书钞卷第四十九　　　　设官部一全文在线阅读,虞世南作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-999-9655.html";
+var nextpage="novel-read-999-9657.html";
+var indexpage = "novel-chapter-999.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-999.html">北堂书钞</a></strong>
+<strong><a href="novel-chapter-999.html">北堂书钞目录</a></strong>
+<span>●北堂书钞卷第四十九　　　　设官部一</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-999-9655.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>●北堂书钞卷第四十九　　　　设官部一</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=虞世南&amp;searchsubmit=yes"  target="_blank">虞世南</a><span class="divide">|</span>发布时间：2014-11-20 20:39:53<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　隋祕书郎虞世南撰南海孔广陶校註惣载篇一　　　　　宰相篇二<br/><br/>　　○惣载篇一<br/><br/>　　设官分职以為民极「周礼天官职云惟王建国辨方正位体国经野设官分职以為民极○今案周礼天官及陈俞本同」立官以德治「曲礼云天子立六官三公九卿二十七大夫八十一元士以听天下之外治者也○今案陈本曲礼作昏义餘同」建官以经治「李重杂契议云古圣王建官垂制所以体国经治而功在简要者也○今案陈本脱杂字考类聚四十五引李重杂奏议要作易餘同」建官惟贤「书武成篇云建官惟贤孔安国传官以贤才也○今案俞本同陈本删注」立官必方「吕氏春秋云先王之立官也必使之无方则不相隐高注云方正也○今案吕氏春秋季春纪立下有高字使之下无无字同陈俞本依近本吕氏春秋惟删高注以下」授事以尊贤「礼记文王世子篇云宗人授事以官尊贤也○今案陈本删去小注俞本宗人作以人」贤才以级进「仲长子云公卿大夫莫不先歷三七之官虽有贤才皆级次进官之有级犹阶之有等也○严氏校云按御览二百三引仲长子昌言作皆以级次进焉又引官之有级犹阶之有等今案严辑仲长子昌言一卷据书钞引同陈俞本脱先歷句官之五子陈本讹作官犹知级非也」<br/><br/>　　治乱在官「杨泉物理论云人主务在审官择人者也○今案平津馆辑本据类聚御览引物理论同俞本择误释」唐虞稽古建官惟百夏商官倍亦克用乂「尚书周官篇云唐虞稽古建官惟百夏商官倍亦克用乂孔安国云稽考也尧舜考古以建百官也乂治克能也禹汤建官二百亦能用治也○今案俞本同陈本但注能用治也四字考今孔传脱稽考也及乂治克能也二句」<br/><br/>　　舜命九官周分六职「李重杂奏议云舜命九官周分六职秦承古制汉仍秦旧倚丞相任九卿○今案类聚四十五引杂奏议承作采餘同陈本承作乘」太昊龙师龙名「左传云郯子曰太昊氏以龙纪官故為龙名杜预注曰太昊有龙瑞故以龙纪官伏羲氏一号太昊五经要义曰太昊之世授龙图之瑞春官曰青龙夏官曰赤龙秋官曰白龙冬官曰黑龙中官曰黄龙也○今案左传昭十七年杜注脱一号句陈本删一号以下九句考青龙赤龙各句又见杜氏通典职官」<br/><br/>　　少昊鸟师鸟名「左传郯子云我高祖少昊之立也凤鸟适至故纪為鸟师而鸟名鸟氏厤正□也玄□□分者也少昊有□鸟之瑞故鸟纪官○今案左传昭十七年无末二句陈本删司分以下改引杜注亦非原钞之旧」<br/><br/>　　帝嚳氏以人纪官「左传云郯子曰自顓頊氏以来不能纪远乃纪於近為民师而命以民事则不能纪远故也帝王世纪云帝嚳以人事纪官以勾芒為木正以祝融為火正以蓐收為金正以玄冥為水正以后土為土正是五行之宫分职為而治也搜神记又云帝顓頊平九黎之乱始亡五行之官者也○今案陈本及王传昭十七年故上无纪远二字陈本又删帝王世纪以下考御览八十引帝王世纪职下无為字榦同顓頊平九黎之乱亦见御览七十九引帝王世纪」<br/><br/>　　典治六材「曲礼下篇云天子之六工口土工金工木工石工草工典治六材○今案礼记曲礼治作制草上有兽工二字陈禹謨从近本改」典司五眾「曲礼下篇云天子之五官曰司徒司马司空司七司寇典司五眾郑注云眾谓群臣也○今案陈本刚郑注以下」典司六职「曲礼下篇云天子之六府曰司土司木司水司草司器司货典司六职○今案陈本同」<br/><br/>　　○宰相篇二<br/><br/>　　屋在乎柱国在乎相「列女传云齐孤逐女者齐即墨之女也状甚丑三逐於乡五逐於里齐相妇亡造襄王之门而求见王輟食而起与之语对曰夫屋之坚在柱国家安不安在相王曰吾国相若何对曰王之国相比目之鱼也外比内比然后能成其事王曰何谓对曰朋其左右贤其妻子是谓内比外比王曰善□□□相以逐女妻之居三日四方之士多归於齐而国以治也○今案俞本同阮刻宋本列女传卷六及陈本妻之下但有齐国以治四字餘同陈本鱼又误色」<br/><br/>　　有三有五有倍贰「左传云赵简子问於史墨曰季氏出其君而民服何也对曰物生有两有三有□有倍贰故天有二□地有五行王有公诸侯有卿货其贰也天生季氏以鲁侯民之服焉不亦宜乎按两谓天地也○今案陈俞本无两谓句且有增改左氏昭三十二年传佑作路亦无两谓可盖是虞永兴自加引申语」<br/><br/>　　天子之相三一相处乎内「左传云天子三公者何天子之相也天子之相则何以三曰自陕以东周公在之自陕以西召公主之一相处於内也○今案见公羊隐五年薄陈俞本皆删左字陈本补曰虎通一段尤与本钞能涉」<br/><br/>　　黄帝得六相「管子云皆考黄帝得蚩尤而明乎天道得太常而察子地利得奋龙而辨乎东方得□□而□平南方得大封□辨乎西方有后土而辨乎北方黄帝□六相而天下治神明之至也○王石华校六相改蚩尤今案陈本大封误本封御览七十九及本钞十一用贤篇引奋作苍十子全书本管子五行篇奋作奢」<br/><br/>　　舜得友五人「尸子云舜之得友五人曰雄陶续耳柏杨束不识秦不空一国之贤者也○今案平津馆辑本尸子束作东者作人又附注云汉书古今人表作东者不警秦不虚御览又引得六人雄陶下有方回又陈本亦作东作人」<br/><br/>　　闻风便委国「孔业云魏王遣使者聘子顺曰寡君久闻下风愿委国先生如肯降节岂惟魏国是赖其亦社稷神祗实受庆於是乃之魏君臣郊迎之○今案孔业于陈士义篇实下有永字餘同本钞三十四礼贤篇引委国先生以上亦同陈本多删改」<br/><br/>　　跪行授以相「说苑云杨因见赵简子曰臣居乡三逐事君五去闻君好士改走来见简子闻之輟食而叹跪行左右諫简子曰夫美女丑妇之仇也遂出见之因受以為相而国大治也○今案王謨本尊贤篇作简主右諫下有脱文陈俞本已照补」<br/><br/>　　若金作礪「尚书说命上篇云说傅之筑爰立作相王置诸其左右命之曰朝夕以辕台德若金用汝作礪苦济巨川用汝作舟楫若岁大旱用汝作霖雨啟乃心沃朕心○今案傅筑句俞本依今本改作说筑傅巖之野陈本全删小注」<br/><br/>　　犹鸿有翼「管子云桓公在位管子适侍二有二鸿飞过公曰寡人有仲父犹鸿之有羽翼也○今案见管子霸形篇适侍立作立有间犹下有飞字本钞用贤篇引亦作犹飞鸿」<br/><br/>　　一则仲父易為君「吕氏春秋云有司请事於齐桓公以告仲父若是者三赞者曰一则仲父二则仲父易哉為君桓公曰吾得仲父之教喝為其不易也○今案吕氏春秋审分览篇赞作习教作后餘同陈俞本据近本於吾得上妄补未得一句非是惟愈作赞者钞脗合」<br/><br/>　　百揆时叙「书舜兴云虞舜纳于有揆百揆时敛宾于四门四门穆穆○今案陈本注俞本妄增明扬句」四方享德「书洛誥篇云公勿替删四方其世享孔安国传云勿去以废法则四方世世享公之德也谨按公谓周公也○今案陈本无注俞本刑误则」正事之臣「书酒誥篇云王苦曰尔尚克羞馈祀尔乃自介用摠鼓乃允推王正事之臣孔安国传云汝能以进□成□□□饱考中德為用逸则此乃信任王者正事大臣矣○今案陈本无注俞本删孔传以下又同作乃」<br/><br/>　　羽翼之佐「谢承后汉书云非腹背之毛羽翼之佐也○今案姚辑谢承书此条附卷末陈俞本同」社稷之器「蜀志蒋琬传云诸葛称社稷之器非百里之才○今案见蜀志卷十四本传」以尹天下「左传云卫子鱼曰昔武王克商成王选建明德以藩屏周周公相室以尹天下之望○今案左传定四年蕃作藩之望作於周為陆阮校勘记云石径宋本蕃作蕃陈俞本删之望二字」<br/><br/>　　以治天下「鬻子云禹治天下得皋陶杜子业尸子黔尹子机季子宁然子湛卿子玉得七大夫以佐其身天下大治汤得庆诵伊尹湟里且东门□南门□西门疵北门测得七大夫佐天下大理○今案陈俞本及守山关本鬻一卷尸作□黔作黯尹子机作既子唯作轻测作侧餘同陈疽又作疵」<br/><br/>　　夹辅王室「帝王世纪周平王元年郑武公与晋文俟股肱周室夹辅平王王率诸侯戮力一心东迁洛邑○今案陈俞本同御览八十五引世纪车上脱一王字」毗辅王室「王昶荐刘銓大云明公允谋阿衡毗辅王室亮采侧微日夕不暇招罗隐逸英彦盈庭○今案王昶上本钞有帝王世纪周平六字系沿上条误入已删之陈俞本仍之非也又陈俞招误相」<br/><br/>　　為王者佐「吕氏春秋云武王克殷郊系堕五人御於前莫言為之曰吾所以事君非系也武王自為系孔子闻之日此五人者為王者佐也○今案经训堂本吕氏春秋不苟论□作至為之作之為毕校注云疑是為之系三字陈俞本克亦作至肯為作為系餘同」<br/><br/>　　保乂王家「尚书□语篇云○今案俞本同陈本无注」保兹天子「毛诗蒸民篇云○今案俞本同陈本无注」天子□毗「毛诗南山篇云○今案见小雅节南山篇陈本注俞本及本钞南上脱节字」王躬是保「毛诗篇民篇云○今案俞本同陈本无注」左右商王「毛诗长发箭云○今案俞本同陈本无注并误连下条」股肱周室「左传云王使刘定公赐齐侯命曰昔伯舅太公佐我先三股肱周室师保万民王室之不□翳伯舅是赖裴喜对齐侯曰辅成王者也○今案左传襄十四年佐作右无裴喜以下餘同陈俞本裴喜以下改增命汝环国可」<br/><br/>　　弼亮四世「尚书毕命篇云○今案俞本同陈本无注」光辅五君「左德云楚子木问范武子对曰夫子之家事治言於晋国无隐情其祝史陈信於鬼神无愧辞子木归以告王王曰尚矣哉能歆神人宜其光辅五君以為盟主○今案见左传襄二十七年陈俞本有增改」<br/><br/>　　相三君而无私积「左传云季文云之忠於公室也相三君矣而无私积○今案见左传襄五年陈俞本三作二」三相楚而踰卑「孙卿子云繒丘之封人见楚相孙叔敖曰今相国不得罗楚之士民何也孙叔敖曰吾三相楚而心踰卑每益禄而南踰博位滋尊而踰谨是以不得罪楚之士民也○今案荀子尧问篇及陈俞本谨皆作恭諭皆作愈餘同」<br/><br/>　　格於皇天「尚书君奭篇云○今案俞本同陈本无性」格於上帝「尚书君奭篇云○今案陈本无注俞注同上」德光上下「尚书洛誥篇云○今案今本洛话作德能光于上下」威服诸侯「淮南子云景阳淫酒坡髮而御於妇人威明诸侯注曰景阳楚相也○今案淮南子犯论训彼作披相作将陈俞本亦作□坡披古今字」治国制义「国语云桓松使鲍叔為宰辞曰臣之不若夷吾宽惠和民不吉也治国家不失其伯不若也制可治於四方不若也执抱鼓立於军门使百姓皆加勇不若也○今案国语齐语及陈俞本和皆作柔」<br/><br/>　　安国家全社稷「说苑云梁相死惠予欲之梁渡河而堕水中船人戒之曰子欲何之而遽也曰梁无相吾欲相之船人曰子居船楫之闻而祸无我则死矣何能相梁乎惠子曰再川长楫之间关吾不如子至於安国家全社稷子之比我蒙蒙如未视之狗耳○今案陈俞本王謨本说苑杂言篇吾欲下有往字巨川长楫作子□□楫餘同亦作子居搜檝」<br/><br/>　　填国家抚百姓「史记高帝纪云与国家抚百姓馈饟不绝吾不如萧何○今案史记高祖纪及陈俞本填作镇镇镇古今字」富国安主「太公金柜云宰相不富国安主调阴阳和群臣乐万民非吾宰相也○今案陈俞本同亦见群书治要三十一引六韜文韜篇」匡主济民「蜀志云下邳陈登谓先主曰今欲為使君合步骑十万上可以匡主济民成五霸之业○王石华校萧改霸今案蜀志卷一先在传同陈俞本霸作伯业下又妄增二句非也」寍东夏平秦乱「左传云祁午□□文子曰子相晋国寍东夏平秦乱师徒不损国家不疲诸侯无怨天无大灾有分名矣○今案左传昭元年损作顿疲作罢餘同□□本亦作罢又祁作祈塤作烦旦有妄增」<br/><br/>　　国无盗贼道不拾遗「韩子云子產相郑為政五年国无盗贼道不拾遗史记子產為相一年竖子不戏狎班白不提挈耕子不掣畔二年市不二价三年门不夜闭四年田器不归不令而治○王石华校家改无夫改拾今案韩子外储说主上同本钞三十五德化篇引韩子亦同史记循吏传耕作童不二作不豫价下有道不捨遗匀餘同陈俞本多妄增俞又删史记以下皆非也」<br/><br/>　　桃李莫援「吕氏春秋云子產相郑十八年刑三人煞三人桃李之垂於行者莫之敢援锥刀之遗於道者莫之敢举也○今案吕氏春秋慎大览篇及陈俞本煞三作段二又陈本脱两敢字俞本删锥刀二句」<br/><br/>　　渊池不税「说苑云公僕相鲁鲁公死左右请闭门公仪休曰渊池吾不税蒙山吾不默苛令吾不布吾巳闭心矣何闭於门也○王石华校奇改苛今案说苑政理篇及陈俞本鲁公作鲁君渊池作池渊」<br/><br/>　　酒肉不輟鐘鼓不解「尸子云周公之化酒肉不輟於前鐘鼓不解於悬听乐而治国无劳事焉饮酒任贤举智无事焉○王石华校据陈本删饮酒二句又涂去之化二字皆非今案陈俞本又輟作彻治国作国治无劳作劳无任作而餘同」<br/><br/>　　劳不坐乘暑不张盖「史记赵良说商君曰五段大夫○今案见史记商君列传」衣帛之妾无食粟之马「国语鲁语曰季文子相宣成然也○今案俞本同陈本删相宣五字又案然也二字是虞永兴引申语」茹羹拔葵布好逐妇「史记公仪休為鲁相食茹而美拔其葵垚？木之见而而逐其妇○今案陈俞本中注中作园葵餘同考史记循吏传见市作见其家织布好此本钞标目好字之出典也陈俞未见及」<br/><br/>　　一夫不得所為巳罪「尚书说命篇曰○王石华校据陈本改所作引非也今案比见说命下篇孔传陈俞本未注出俞本所下衍引字」天下不得其所若己推之「盐铁论云禹稷布衣思天下不得其所苦已推之○今案陈俞本衣下有之士二字考盐铁论刺权篇布上有自字推之作推而□之□中餘同」武丁时有甘盘「尚书君奭篇云○今案陈本无注俞本君误召」太戊时有尹陟「尚书君奭篇云○今案陈本无注俞注同上」管仲相桓公九合诸侯一匡天下「论语宪问篇云○今案俞本同陈本无注」五羖相秦谬三置晋国之君一救荆国之祸「史记商君传云赵良说酉君曰○今案史记商君列传及陈俞本同」<br/><br/>　　田氏相齐君盈则已降「列子曰田氏相齐君盈则已降改则已施民皆扫焉○今案陈本微误饮考列子杨未篇敛上有君字餘同俞本删」仲尼相鲁敌国忧「晏子去仲尼相鲁景公患之谓晏子曰邻国有圣人敌国之忧也今孔子相鲁為之苦何○今案全椒吴氏做宋本晏子外又第六章无為之二字餘司陈俞本亦然又於若何下增数行非是」<br/><br/>　　子產相郑无诸侯患「遻苑云子產相郑务简公之身内无国中之乱外无诸侯之患○今案说苑政理简篇同」顓頊十五佐黄帝「鬻子云昔顓頊年十五而佐黄帝○今案守山阎本鬻子同本钞十一手贤篇引亦同陈俞本有增□」帝嚳十五佐顓頊「鬻子云昔帝嚳年十五而许顓頊為政○今案守山阁本及本钞用贤篇引皆无為政二字」荆公子十五相荆「说苑云删公子年十五而相荆仲尼闰之使人往视之选曰廊下有二十五俊士堂上有二十五老人仲尼曰合二十五之智勇以治天下其国免乎○今案陈俞本国作固陈本删公子作介子推考王謨本尊贤篇年上作介子推行四字勇作力国作固」<br/><br/>　　甘罗年十二相秦「史记甘茂传云甘罗年十二事秦相文信侯吕不韦后秦爵為上卿复以安田宅赐之○今案史记甘茂传及陈俞本同」伊尹放太甲「孟子曰太太甲颠覆汤之典刑伊尹放之於桐三年太甲悔过以听伊尹之训复归於亳也○今案见孟子心俞本同陈本无注」周公抱少主「吕氏春秋云文王造之未遂武王遂之未成周公且抱少主以成之故曰成王也○今案吕氏春秋慎大览篇及陈俞本同」复子明辟「尚书洛誥篇云○今案俞本同陈本无注」<br/><br/>　　致政成王「礼记明堂位篇云周公七年致政成王以周公有勤劳於天下封周公於曲阜地方七百里○今案明堂位勤作勋俞本无七年二字陈本无注」<br/><br/>　　北堂书钞卷第四十九 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-999-9655.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-999-9657.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-999.html" action-type="chapterComment" class="comment"><i></i>北堂书钞章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

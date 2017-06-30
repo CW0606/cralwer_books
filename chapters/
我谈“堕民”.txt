@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《准风月谈》正文_我谈“堕民”_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="准风月谈,准风月谈原文,准风月谈阅读,我谈“堕民”全文,鲁迅作品" />
+<meta name="description" content="准风月谈原文阅读,我谈“堕民”全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-551-7600.html";
+var nextpage="novel-read-551-7602.html";
+var indexpage = "novel-chapter-551.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-551.html">准风月谈</a></strong>
+<strong><a href="novel-chapter-551.html">准风月谈目录</a></strong>
+<span>我谈“堕民”</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-551-7600.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>我谈“堕民”</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-06 20:42:27<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　越客 <br/>　　六月二十九日的《自由谈》里，唐皘（２）先生曾经讲到浙东的堕民，并且据《堕民猥谈》（３）之说，以为是宋将焦光瓒的部属，因为降金，为时人所不齿，至明太祖（４），乃榜其门曰“丐户”，此后他们遂在悲苦和被人轻蔑的环境下过着日子。 <br/>　　我生于绍兴，堕民是幼小时候所常见的人，也从父老的口头，听到过同样的他们所以成为堕民的缘起。但后来我怀疑了。因为我想，明太祖对于元朝，尚且不肯放肆（５），他是决不会来管隔一朝代的降金的宋将的；况且看他们的职业，分明还有“教坊”或“乐户”（６）的余痕，所以他们的祖先，倒是明初的反抗洪武和永乐皇帝的忠臣义士（７）也说不定。还有一层，是好人的子孙会吃苦，卖国者的子孙却未必变成堕民的，举出最近便的例子来，则岳飞（８）的后裔还在杭州看守岳王坟，可是过着很穷苦悲惨的生活，然而秦桧，严嵩（９）……的后人呢？…… <br/>　　不过我现在并不想翻这样的陈年账。我只要说，在绍兴的堕民，是一种已经解放了的奴才，这解放就在雍正年间罢（１０），也说不定。所以他们是已经都有别的职业的了，自然是贱业。男人们是收旧货，卖鸡毛，捉青蛙，做戏；女的则每逢过年过节，到她所认为主人的家里去道喜，有庆吊事情就帮忙，在这里还留着奴才的皮毛，但事毕便走，而且有颇多的犒赏，就可见是曾经解放过的了。 <br/>　　每一家堕民所走的主人家是有一定的，不能随便走；婆婆死了，就使儿媳妇去，传给后代，恰如遗产的一般；必须非常贫穷，将走动的权利卖给了别人，这才和旧主人断绝了关系。假使你无端叫她不要来了，那就是等于给与她重大的侮辱。我还记得民国革命之后，我的母亲曾对一个堕民的女人说，“以后我们都一样了，你们可以不要来了。”不料她却勃然变色，愤愤的回答道：“你说的是什么话？……我们是千年万代，要走下去的！” <br/>　　就是为了一点点犒赏，不但安于做奴才，而且还要做更广泛的奴才，还得出钱去买做奴才的权利，这是堕民以外的自由人所万想不到的罢。 <br/>　　七月三日。 <br/>　　<br/>===============================================================<br/>　　　　　 <br/>　　（１）　本篇最初发表于一九三三年七月六日《申报·自由谈》。<br/>　　（２）　唐皘　浙江镇海人，作家。著有杂文集《推背集》、《短长书》等。他曾在一九三三年六月二十九日《申报·自由谈》发表《堕民》一文，其中有“辱国者的子孙作堕民，卖国的汉奸如果有子孙的话，至少也将是一种堕民”的话。 <br/>　　（３）　《堕民猥谈》　应作《堕民猥编》，作者不详。清代钱大昕编纂的《鄞县志》中，曾引录该书关于堕民的记载：“堕民，谓之丐户，……相传为宋罪俘之遗，故摈之。丐自言则云宋将焦光赞部落，以叛宋投金故被斥。……元人名为怯怜户，明太祖定户籍，扁其门曰丐。……男子则捕蛙，卖饧……立冬打鬼，胡花帽鬼脸，钟鼓戏剧，种种沿门需索。其妇人则为人家拗发髻，剃妇面毛，习媒妁，伴良家新娶妇，梳发为髟也。”（卷一《风俗》） <br/>　　（４）　明太祖　即朱元璋（１３２８—１３９８），濠州钟离（今安徽凤阳）人，元末农民起义领袖之一。一三六八年推翻元朝统治，建立明王朝，改元洪武，庙号太祖。 <br/>　　（５）　明太祖对于元朝，尚且不肯放肆　明初对待元代残余努力实行剿抚兼施政策，据《明史·太祖本纪》载：洪武三年（１３７０）五月，武将李文忠攻克应昌（今内蒙自治区克什克腾旗），生擒元帝之子买的里八剌。六月，买的里八剌至京师，群臣请“献俘”，明太祖不许，并封买的里八剌为崇礼侯。同时又因为李文忠的捷报过于夸耀，对宰相说：“元主中国百年，朕与卿等父母，皆赖其生养，奈何为此浮薄之言，亟改之。”洪武七年九月，又把买的里八剌放回；十一年四月，元主爱猷识理达腊死，明太祖于六月遣使致祭。鲁迅所说明太祖对元朝“不肯放肆”，大概指的这类事情。 <br/>　　（６）　“教坊”　唐代开始设立的掌管教练女乐的机构。“乐户”，封建时代罪人妻女被编入乐籍者，其名称最早见于《魏书·刑罚志》。 <br/>　　两者实际都是官妓，相沿到清代雍正年间才废止。<br/>　　（７）　反抗永乐皇帝的忠臣义士，有景清、铁弦、方孝孺等人。朱元璋死后，由皇太孙朱允吧继位，即建文帝；不久，他的叔父燕王朱棣起兵夺取帝位，即永乐帝。当时景清等人效忠建文反抗永乐，他们的妻子儿女及族人多同遭杀戮或被贬为奴（但未见到贬为堕民的明确记载）。反抗洪武（明太祖）的忠臣义士，未知何指。<br/>　　（８）　岳飞（１１０３—１１４２）　字鹏举，相州汤阴（今属河南）人，南宋名将。因坚持抗击金兵而被投降派宋高宗、秦桧杀害。岳飞被害后，初被偷偷草葬于杭州钱塘门外荒塜中，宋孝宗时改葬于杭州西湖西北岸。 <br/>　　（９）　秦桧（１０９０—１１５５）　字会之，江宁（今南京）人，宋高宗时曾任宰相，是主张降金的内奸，杀害岳飞的主谋。严嵩（１４８０—１５６７），字惟中，江西分宜人。明世宗时官至太子太师，是祸国殃民的权奸。 <br/>　　（１０）　据清代蒋良骐《东华录》载：雍正元年（１７２３）九月“除浙江绍兴府堕民丐籍”。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-551-7600.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-551-7602.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-551.html" action-type="chapterComment" class="comment"><i></i>准风月谈章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

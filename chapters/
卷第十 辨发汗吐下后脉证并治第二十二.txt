@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《伤寒论》正文_卷第十 辨发汗吐下后脉证并治第二十二_张仲景作品 - 维普阅读网</title>
+<meta name="keywords" content="伤寒论,伤寒论原文,伤寒论阅读,卷第十 辨发汗吐下后脉证并治第二十二全文,张仲景作品" />
+<meta name="description" content="伤寒论原文阅读,卷第十 辨发汗吐下后脉证并治第二十二全文在线阅读,张仲景作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-261-4295.html";
+var nextpage="novel-chapter-261.html";
+var indexpage = "novel-chapter-261.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-261.html">伤寒论</a></strong>
+<strong><a href="novel-chapter-261.html">伤寒论目录</a></strong>
+<span>卷第十 辨发汗吐下后脉证并治第二十二</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-261-4295.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷第十 辨发汗吐下后脉证并治第二十二</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=张仲景&amp;searchsubmit=yes"  target="_blank">张仲景</a><span class="divide">|</span>发布时间：2014-08-27 21:34:24<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>此第十卷，第二十二篇，凡四十八证，前三阴三阳篇中，悉具载之。此以下诸方，于随卷本证下虽已有，缘止以加减言之，未甚明白，似于览者检阅未便，今复校勘，备列于后：<br/><br/>　　桂枝加葛根汤方<br/><br/>　　葛根四两 芍药二两 甘草二两 生姜三两（切） 大枣十二枚（掰） 桂枝二两（去皮） 麻黄*三两（去节）<br/><br/>　　右七味，以水一斗，先煮麻黄、葛根，减二升，去上沫，内诸药，煮取三升，去滓，温服一升，复取微似汗，不须啜粥，余如桂枝法。<br/><br/>　　桂枝加厚朴杏子汤方<br/><br/>　　于桂枝汤方内，加厚朴二两，杏仁五十个，去皮尖，余依前法。<br/><br/>　　桂枝加附子汤方<br/><br/>　　于桂枝汤方内，加附子一枚，炮，去皮，破八片，余依前法。术附汤方，附于此方内，去桂枝，加白术四两，依前法。<br/><br/>　　桂枝去芍药汤方<br/><br/>　　于桂枝汤方内，去芍药，余依前法。<br/><br/>　　桂枝去芍药加附子汤方：<br/><br/>　　于桂枝汤方内，去芍药，加附子一枚，炮，去皮，破八片，余依前法。<br/><br/>　　桂枝麻黄各半汤方<br/><br/>　　桂枝一两十六铢（去皮） 芍药 生姜（切） 甘草（炙） 麻黄各一两（去节） 大枣四枚（掰） 杏仁二十四个（汤浸，去皮尖及两仁者）<br/><br/>　　右七味，以水五升，先煮麻黄一二沸，去上沫，内诸药，煮取一升八合，去滓，温服六合。<br/><br/>　　桂枝二麻黄一汤方<br/><br/>　　桂枝一两十七铢（去皮） 芍药一两六铢 麻黄十六铢（去节） 生姜一两六铢（切） 杏仁十六个（去皮尖） 甘草一两二铢（炙） 大枣五枚（掰）<br/><br/>　　右七味，以水五升，先煮麻黄一二沸，去上沫，内诸药，煮取二升，去滓，温服一升，日再。<br/><br/>　　白虎加人参汤方<br/><br/>　　于白虎汤方内，加人参三两，余依白虎汤法。<br/><br/>　　桂枝去桂加茯苓白术汤方：<br/><br/>　　于桂枝汤方内，去桂枝，加茯苓、白术各三两，余依前法，煎服。小便利，则愈。<br/><br/>　　以上九方，病证并在第二卷内。<br/><br/>　　葛根加半夏汤方<br/><br/>　　于葛根汤方内，加入半夏半升，余依葛根汤法。<br/><br/>　　桂枝加芍药生姜人参新加汤方：<br/><br/>　　于第二卷桂枝汤方内，更加芍药、生姜各一两，人参三两，余依桂枝汤法服<br/><br/>　　栀子甘草豉汤方<br/><br/>　　于栀子豉汤方内，加入甘草二两，余依前法。得吐，止后服。<br/><br/>　　栀子生姜豉汤方<br/><br/>　　于栀子豉汤方内，加生姜五两，余依前法。得吐，止后服。<br/><br/>　　柴胡加芒硝汤方<br/><br/>　　于小柴胡汤方内，加芒硝六两，余依前法。服不解，更服。<br/><br/>　　桂枝加桂汤方<br/><br/>　　于第二卷桂枝汤方内，更加桂二两，共五两，余依前法。<br/><br/>　　以上六方，病证并在第三卷内。<br/><br/>　　柴胡桂枝汤方<br/><br/>　　桂枝（去皮） 黄芩 人参各一两半 甘草一两（炙） 半夏二合半 芍药一两半 大枣六枚（掰） 生姜一两半（切） 柴胡四两<br/><br/>　　右九味，以水七升，煮取三升，去滓，温服。<br/><br/>　　附子泻心汤方<br/><br/>　　大黄二两 黄连 黄芩各一两 附子一枚（炮，去皮，破，别煮取计）<br/><br/>　　右四味，切三味，以麻沸汤二升渍之，须臾，绞去滓，内附子汁，分温再服。<br/><br/>　　生姜泻心汤方<br/><br/>　　生姜四两（切） 甘草三两（炙） 人参三两干姜一两 黄芩三两 半夏半升（洗） 黄连一两大枣十二枚<br/><br/>　　右八味，以水一斗，煮取六升，去滓，再煎取三升，温服一升，日三服。<br/><br/>　　甘草泻心汤方<br/><br/>　　甘草四两 黄芩三两 干姜三两 半夏半升（洗） 黄连一两 大枣十二枚（掰）<br/><br/>　　右六味，以水一斗，煮取六升，去滓，再煎取三升，温服一升，日三服。<br/><br/>　　黄芩加半夏生姜汤方<br/><br/>　　于黄芩汤方内，加半夏半升，生姜一两半，余依黄芩汤法服。<br/><br/>　　以上五方，病证并在第四卷内。<br/><br/>　　桂枝加大黄汤方<br/><br/>　　桂枝三两（去皮） 大黄一两 芍药六两 生姜三两（切） 甘草二两（炙） 大枣十二枚（掰）<br/><br/>　　右六味，以水七升，煮取三升，去滓，温服一升，日三服。<br/><br/>　　桂枝加芍药汤方<br/><br/>　　于第二卷桂枝汤方内，更加芍药三两，随前共六两，余依桂枝汤法。<br/><br/>　　四逆加吴茱萸生姜汤方<br/><br/>　　当归二两 芍药三两 甘草二两（炙） 通草二两 桂枝三两（去皮） 细辛三两 生姜半斤（切） 大枣二十五枚（掰） 吴茱萸二升<br/><br/>　　右九味，以水六升，清酒六升，和煮取五升，去滓，温分五服。一方水酒各四升。<br/><br/>　　以上三方，病证并在第六卷内。<br/><br/>　　四逆加人参汤方<br/><br/>　　于四逆汤方内，加人参一两，余依四逆汤法服。<br/><br/>　　四逆加猪胆汁汤方<br/><br/>　　于四逆汤方内，加入猪胆汁半合，余依前法服；如无猪胆，以羊胆代之。<br/><br/>　　以上二方，病证并在第七卷内。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-261-4295.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-261.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-261.html" action-type="chapterComment" class="comment"><i></i>伤寒论章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

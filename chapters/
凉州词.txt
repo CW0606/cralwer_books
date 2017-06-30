@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《凉州词》正文_凉州词_王翰作品 - 维普阅读网</title>
+<meta name="keywords" content="凉州词,凉州词原文,凉州词阅读,凉州词全文,王翰作品" />
+<meta name="description" content="凉州词原文阅读,凉州词全文在线阅读,王翰作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-1154.html";
+var nextpage="novel-chapter-1154.html";
+var indexpage = "novel-chapter-1154.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1154.html">凉州词</a></strong>
+<strong><a href="novel-chapter-1154.html">凉州词目录</a></strong>
+<span>凉州词</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-1154.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>凉州词</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王翰&amp;searchsubmit=yes"  target="_blank">王翰</a><span class="divide">|</span>发布时间：2015-02-03 21:19:24<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　蒲萄美酒夜光杯，欲饮琵琶马上催。<br/>　　醉卧沙场君莫笑，古来征战几人回。<br/><br/>【注释】<br/>①凉州词：唐乐府名，属《近代曲辞》，又作凉州曲，即凉州地区流行歌曲的歌词。郭茂倩《乐府诗集》卷七十九《近代曲辞》载有《凉州歌》，并引《乐苑》云：“《凉州》，宫调曲，开元中西凉府都督郭知运进”。凉州，唐陇右道凉州治所在姑臧县（今甘肃省武威县）。<br/>②夜光杯：据《海内十洲记》记载，夜光杯为周穆王时西胡所献之宝。相传用白玉精制成，因“光明夜照”得名。这里用作酒杯的美称。夜光杯：用白玉制成的酒杯，光可照明。它和葡萄酒都是西北地区的特产。这里指精美的酒杯。<br/>③欲：将要。<br/>④琵琶：弹拨乐器，这里指作战时用来发出号角的声音时用的。<br/>⑤催：催饮。即杨炯《送临津房少府》诗"弦奏促飞觞"之意。<br/>⑥沙场：平坦空旷的沙地，古时多指战场。<br/>⑦君：你。<br/><br/>【译文】<br/>精美的酒杯盛着甘醇的葡萄美酒，将要喝的时候琵琶声响了起来，韵律使人心潮澎湃。<br/>开怀畅饮吧，就算是醉倒沙场，诸位也请不要见笑，自古征战沙场的人有几个能活着回去的？<br/><br/>【赏析】<br/>　　这首诗通过描写大军饮酒出征的场景，反映出战士乐观豪迈、视死如归的英雄气概。<br/>　　前两句“葡萄美酒夜光杯，欲饮琵琶马上催。”主要是言事。葡萄酒，夜光杯，琵琶声，都有着浓郁的边塞色彩和鲜明的军旅生活特征，诗人借以渲染出塞外军营的特有的情调，一开始就把读者引人了塞外古战场紧张而热烈的气氛中。 “葡萄美酒夜光杯”，为全诗的抒情创造了气氛，定下了基调。写将军战罢归营，设酒庆功。“欲饮”二字，渲染出这美酒佳肴盛宴的不凡的诱人魅力，表现出将士们那种豪爽开朗的性格。正在大家“欲饮”未得之时，乐队奏起了琵琶，酒宴开始了，那急促欢快的旋律，象是在催促将士们举杯痛饮，使已经热烈的气氛顿时沸腾起来。这句诗改变了七字句习用的音节，采取上二下五的句法，更增强了它的感染力。“马上”二字，往往又使人联想到“出发”，其实在西域胡人中，琵琶本来就是骑在马上弹奏的。“琵琶马上催”，是着意渲染一种欢快宴饮的场面。<br/>　　后两句“醉卧沙场君莫笑，古来征战几人回？”转入言情。这两句诗不是对生命不保的哀鸣悲叹，而是报国轻生的铮铮豪言；它所传达出的不是凄凉黯淡的无奈，而是忠勇报国、置生死于度外的气概，抒发了将士们献身沙场的豪情。“醉卧沙场君莫笑”，征人互相斟酌劝饮，尽情尽致，但千万莫笑战士醉卧沙场，在未战死以前要尽情痛饮，一醉方休。“醉卧沙场”，表现出来的不仅是豪放、开朗、兴奋的感情，而且还有着视死如归的勇气，这和豪华的筵席所显示的热烈气氛是一致的。也是一种把生死置之度外的豪迈壮烈的体现。“古来征战几人回？”自古以来，远赴边庭征战的能有几人生还？这个诘问句，不是着意渲染战争的残酷可怕，而是说，将士们把为国战死沙场与痛饮醉卧沙场等同看待。“古来”句虽然用了夸张手法写出边睡战争的激烈残酷，但诗的基调仍然是雄壮高昂的。<br/>　　这首诗虽然反映了战争的残酷，但是并不伤感。相反，全诗充满了乐观豪迈的情调。醇浓的“葡萄美酒”，精致的“夜光杯”，悦耳的“马上琵琶声”，“醉卧沙场”的酣态，“君莫笑”的戏谑，这些优美的词句冲淡了残酷的战争阴云，奠定了这首诗健康、乐观、悲壮的基调，表现了昂扬向上的精神，加之它的语言明快流畅，铿锵激越，无论在思想上和艺术上都不失为唐代边塞诗中的压卷之作。<br/><br/>【点评】<br/>《唐诗绝句类选》：语意远，乃得隽永。<br/>《唐诗直解》：悲慨在“醉卧”二字。<br/>《艺苑卮言》：“可怜无定河边骨，犹是深闺梦里人”，用意工妙至此，可谓绝唱矣。惜为前二句所累，筋骨毕露，令人厌憎。“葡萄美酒”一绝，便是无瑕之璧。盛唐地位不凡乃尔。<br/>《增订唐诗摘钞》：诗意在末句，而以饮酒引之，沉痛语也。若以豪饮解之，则人人所知，非古人之意。<br/>《而庵说唐诗》：此诗妙绝，无人不知，若非细细寻其金针，其妙亦不可得而见。……若论顿挫，“葡萄美酒”一顿，“夜光杯”一顿，“欲饮”一顿，“琵琶马上催”一顿，“醉卧沙场”一顿，“君莫笑”一顿，凡六顿，“古来征战几人回”则方挫去。夫顿处皆截，挫处皆连，顿多挫少，唐人得意乃在此。<br/>《唐诗别裁》：故作豪饮旷达之词，而悲感已极。杨仲弘论绝句，以第三句为主，而第四句发之，盛唐多与此合。<br/>《诗法易简录》：“君莫笑”三字喝末句有力。<br/>《岘佣说诗》：作悲伤语读便浅，作谐谑语读便妙，在学人领悟。<br/>《唐人万首绝句选评》：气格俱胜，盛唐绝作。<br/>蘅塘退士评曰：“作旷达语，倍觉悲痛。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-1154.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-1154.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1154.html" action-type="chapterComment" class="comment"><i></i>凉州词章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

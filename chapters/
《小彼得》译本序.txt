@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《三闲集》正文_《小彼得》译本序_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="三闲集,三闲集原文,三闲集阅读,《小彼得》译本序全文,鲁迅作品" />
+<meta name="description" content="三闲集原文阅读,《小彼得》译本序全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-549-7431.html";
+var nextpage="novel-read-549-7433.html";
+var indexpage = "novel-chapter-549.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-549.html">三闲集</a></strong>
+<strong><a href="novel-chapter-549.html">三闲集目录</a></strong>
+<span>《小彼得》译本序</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-549-7431.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>《小彼得》译本序</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-04 20:33:13<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　这连贯的童话六篇，原是日本林房雄〔２〕的译本（一九二七年东京晓星阁出版），我选给译者，作为学习日文之用的。逐次学过，就顺手译出，结果是成了这一部中文的书。但是，凡学习外国文字的，开手不久便选读童话，我以为不能算不对，然而开手就翻译童话，却很有些不相宜的地方，因为每容易拘泥原文，不敢意译，令读者看得费力。这译本原先就很有这弊病，所以我当校改之际，就大加改译了一通，比较地近于流畅了。——这也就是说，倘因此而生出不妥之处来，也已经是校改者的责任。 <br/><br/>　　作者海尔密尼亚·至尔·妙伦（ＨｅｒｍｙｎｉａＺｕｒＭｕｅｈ－ｌｅｎ）〔３〕，看姓氏好像德国或奥国人，但我不知道她的事迹。据同一原译者所译的同作者的别一本童话《真理之城》（一九二八年南宋书院出版）的序文上说，则是匈牙利的女作家，但现在似乎专在德国做事，一切战斗的科学底社会主义的期刊——尤其是专为青年和少年而设的页子上，总能够看见她的姓名。作品很不少，致密的观察，坚实的文章，足够成为真正的社会主义作家之一人，而使她有世界底的名声者，则大概由于那独创底的童话云。 <br/><br/>　　不消说，作者的本意，是写给劳动者的孩子们看的，但输入中国，结果却又不如此。首先的缘故，是劳动者的孩子们轮不到受教育，不能认识这四方形的字和格子布模样的文章，所以在他们，和这是毫无关系，且不说他们的无钱可买书和无暇去读书。但是，即使在受过教育的孩子们的眼中，那结果也还是和在别国不一样。为什么呢？第一，还是因为文章，故事第五篇中所讽刺的话法的缺点，在我们的文章中可以说是几乎全篇都是。第二，这故事前四篇所用的背景，是：煤矿，森林，玻璃厂，染色厂；读者恐怕大多数都未曾亲历，那么，印象也当然不能怎样地分明。第三，作者所被认为“真正的社会主义作家”者，我想，在这里，有主张大家的生存权（第二篇），主张一切应该由战斗得到（第六篇之末）等处，可以看出，但披上童话的花衣，而就遮掉些斑斓的血汗了。尤其是在中国仅有几本这种的童话孤行，而并无基本底，坚实底的文籍相帮的时候。并且，我觉得，第五篇中银茶壶的话，太富于纤细的，琐屑的，女性底的色彩，在中国现在，或者更易得到共鸣罢，然而却应当忽略的。第四，则故事中的物件，在欧美虽然很普通，中国却纵是中产人家，也往往未曾见过。火炉即是其一；水瓶和杯子，则是细颈大肚的玻璃瓶和长圆的玻璃杯，在我们这里，只在西洋菜馆的桌上和汽船的二等舱中，可以见到。破雪草也并非我们常见的植物，有是有的，药书上称为“獐耳细辛”（多么烦难的名目呵！），是一种毛茛科的小草，叶上有毛，冬末就开白色或淡红色的小花，来“报告冬天就要收场的好消息”。日本称为“雪割草”，就为此。破雪草又是日本名的意译，我曾用在《桃色的云》〔４〕上，现在也袭用了，似乎较胜于“獐耳细辛”之古板罢。 <br/><br/>　　总而言之，这作品一经搬家，效果已大不如作者的意料。倘使硬要加上一种意义，那么，至多，也许可以供成人而不失赤子之心的，或并未劳动而不忘勤劳大众的人们的一览，或者给留心世界文学的人们，报告现代劳动者文学界中，有这样的一位作家，这样的一种作品罢了。 <br/><br/>　　原译本有六幅乔治·格罗斯〔５〕（ＧｅｏｒｇｅＧｒｏｓｚ）的插图，现在也加上了，但因为几经翻印，和中国制版术的拙劣，制版者的不负责任，已经几乎全失了原作的好处，——尤其是如第二图，——只能算作一个空名的绍介。格罗斯是德国人，原属踏踏主义（Ｄａｄａｉｓｍｕｓ）者之一人，后来却转了左翼。据匈牙利的批评家玛察〔６〕（ⅠAＭａｔｚａ）说，这是因为他的艺室�心谌荨��枷耄�巡荒鼙惶ぬぶ饕*所牢笼的缘故。欧洲大战时候，大家用毒瓦斯来打仗，他曾画了一幅讽刺画〔７〕，给钉在十字架上的耶稣的嘴上，也蒙上一个避毒的嘴套，于是很受了一场罚，也是有名的事，至今还颇有些人记得的。一九二九年九月十五日，校讫记。 <br/><br/>　　<br/><br/><br/>　　〔１〕本篇最初印入一九二九年十一月上海春潮书局出版的《小彼得》中译本。 <br/><br/>　　《小彼得》，原名《小彼得的朋友们讲的故事》，由许霞（许广平）翻译，鲁迅校改。 <br/><br/>　　〔２〕林房雄（１９０３—１９７５）日本小说家，军国主义分子。〔３〕海尔密尼亚·至尔·妙伦（１８８３—１９５１）德国女作家。生于维也纳，童年随父到过欧亚不少国家。她熟悉工人生活，曾参加德国无产阶级文学活动。一九三三年在德国纳粹党压迫下，长期流亡国外。她的作品除《小彼得》和文中所说的《真理之城》外，还有《玫瑰》、《织毯工阿里》等。 <br/><br/>　　〔４〕《桃色的云》俄国爱罗先珂作的童话剧，鲁迅的中文译本于一九二三年七月北京新潮社出版。 <br/><br/>　　〔５〕乔治·格罗斯（１８９３—１９５９）德国讽刺画家，装帧设计家，一九三三年移居美国。 <br/><br/>　　〔６〕玛察匈牙利文艺批评家，生于捷克；一九二三年移居苏联，从事艺术理论教学和研究工作。他对格罗斯的评论，见他所著《现代欧洲的艺术》（有冯雪峰中译本，一九三○年六月上海大江书铺出版）。 <br/><br/>　　〔７〕指格罗斯于一九二三年画的《耶稣受难像》。一九二五年他因画《资产阶级的镜子》，曾受到德国当局的审讯。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-549-7431.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-549-7433.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-549.html" action-type="chapterComment" class="comment"><i></i>三闲集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

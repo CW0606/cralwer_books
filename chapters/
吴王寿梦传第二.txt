@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《吴越春秋》正文_吴王寿梦传第二_赵晔作品 - 维普阅读网</title>
+<meta name="keywords" content="吴越春秋,吴越春秋原文,吴越春秋阅读,吴王寿梦传第二全文,赵晔作品" />
+<meta name="description" content="吴越春秋原文阅读,吴王寿梦传第二全文在线阅读,赵晔作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-259-4246.html";
+var nextpage="novel-read-259-4248.html";
+var indexpage = "novel-chapter-259.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-259.html">吴越春秋</a></strong>
+<strong><a href="novel-chapter-259.html">吴越春秋目录</a></strong>
+<span>吴王寿梦传第二</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-259-4246.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>吴王寿梦传第二</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=赵晔&amp;searchsubmit=yes"  target="_blank">赵晔</a><span class="divide">|</span>发布时间：2014-08-27 21:11:54<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>寿梦元年，朝周，适楚，观诸侯礼乐。鲁成公会于钟离，深问周公礼乐，成公悉为陈前王之礼乐，因为咏歌三代之风。寿梦曰："孤在夷蛮，徒以椎髻为俗，岂有斯之服哉！"因叹而去，曰："於乎哉，礼也！"<br/><br/>　　二年，楚之亡大夫申公巫臣适吴，以为行人。教吴射御，导之伐楚。楚庄王怒，使子反将，败吴师。二国从斯结仇。于是吴始通中国而与诸侯为敌。<br/><br/>　　五年，伐楚，败子反。<br/><br/>　　十六年，楚恭王怨吴为巫臣伐之也，乃举兵伐吴，至衡山而还。<br/><br/>　　十七年，寿梦以巫臣子狐庸为相，任以国政。<br/><br/>　　二十五年，寿梦病将卒。有子四人：长曰诸樊，次曰余祭，次曰余昧，次曰季札。季札贤，寿梦欲立之，季札让，曰："礼有旧制，奈何废前王之礼，而行父子之私乎？"<br/><br/>　　寿梦乃命诸樊曰："我欲传国及札，尔无忘寡人之言。"诸樊曰："周之太王知西伯之圣，废长立少，王之道兴。今欲授国于札，臣诚耕于野。"王曰："昔周行之德，加于四海，今汝于区区之国，荆蛮之乡，奚能成天子之业乎？且今子不忘前人之言，必授国以次及于季札。"诸樊曰："敢不如命？"<br/><br/>　　寿梦卒，诸樊以适长摄行事，当国政。<br/><br/>　　吴王诸樊元年，已除丧，让季札，曰："昔前王未薨之时，尝晨昧不安，吾望其色也，意在于季札。又复三朝悲吟而命我曰："吾知公子札之贤，欲废长立少。"重发言于口。虽然我心已许之，然前王不忍行其私计，以国付我，我敢不从命乎？今国者，子之国也，吾愿达前王之义。"<br/><br/>　　季札谢曰："夫适长当国，非前王之私，乃宗庙社稷之制，岂可变乎？"<br/><br/>　　诸樊曰："苟可施于国，何先王之命有！太王改为季历，二伯来入荆蛮，遂城为国，周道就成，前人诵之不绝于口，而子之所习也。"<br/><br/>　　札复谢曰："昔曹公卒，废存适亡，诸侯与曹人不义而立于国。子臧闻之，行吟而归。曹君惧，将立子臧，子臧去之，以成曹之道。札虽不才，愿附子臧之义。吾诚避之。"<br/><br/>　　吴人固立季札，季札不受而耕于野，吴人舍之。诸樊骄恣，轻慢鬼神，仰天求死。将死，命弟余祭曰："必以国及季札。"乃封季札于延陵，号曰延陵季子。<br/><br/>　　余祭十二年，楚灵王会诸侯伐吴，围朱方，诛庆封。庆封数为吴伺祭，故晋楚伐之也。吴王余祭怒曰："庆封穷来奔吴，封之朱方，以效不恨士也。"即举兵伐楚，取二邑而去。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-259-4246.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-259-4248.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-259.html" action-type="chapterComment" class="comment"><i></i>吴越春秋章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

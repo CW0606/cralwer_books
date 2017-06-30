@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《三闲集》正文_流氓的变迁_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="三闲集,三闲集原文,三闲集阅读,流氓的变迁全文,鲁迅作品" />
+<meta name="description" content="三闲集原文阅读,流氓的变迁全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-549-7428.html";
+var nextpage="novel-read-549-7430.html";
+var indexpage = "novel-chapter-549.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-549.html">三闲集</a></strong>
+<strong><a href="novel-chapter-549.html">三闲集目录</a></strong>
+<span>流氓的变迁</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-549-7428.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>流氓的变迁</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-04 20:21:07<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>孔墨都不满于现状，要加以改革，但那第一步，是在说动人主，而那用以压服人主的家伙，则都是“天”〔２〕。孔子之徒为儒，墨子之徒为侠〔３〕。“儒者，柔也”〔４〕，当然不会危险的。惟侠老实，所以墨者的末流，至于以“死”〔５〕为终极的目的。到后来，真老实的逐渐死完，止留下取巧的侠，汉的大侠，就已和公侯权贵相馈赠，〔６〕以备危急时来作护符之用了。 <br/><br/>　　司马迁说：“儒以文乱法，而侠以武犯禁”〔７〕，“乱”之和“犯”，决不是“叛”，不过闹点小乱子而已，而况有权贵如“五侯”〔８〕者在。 <br/><br/>　　“侠”字渐消，强盗起了，但也是侠之流，他们的旗帜是“替天行道”。他们所反对的是奸臣，不是天子，他们所打劫的是平民，不是将相。李逵劫法场〔９〕时，抡起板斧来排头砍去，而所砍的是看客。一部《水浒》，说得很分明：因为不反对天子，所以大军一到，便受招安，替国家打别的强盗——不“替天行道”〔１０〕的强盗去了。终于是奴才。 <br/><br/>　　满洲入关，中国渐被压服了，连有“侠气”的人，也不敢再起盗心，不敢指斥奸臣，不敢直接为天子效力，于是跟一个好官员或钦差大臣，给他保镳，替他捕盗，一部《施公案》〔１１〕，也说得很分明，还有《彭公案》〔１２〕，《七侠五义》〔１３〕之流，至今没有穷尽。他们出身清白，连先前也并无坏处，虽在钦差之下，究居平民之上，对一方面固然必须听命，对别方面还是大可逞雄，安全之度增多了，奴性也跟着加足。 <br/><br/>　　然而为盗要被官兵所打，捕盗也要被强盗所打，要十分安全的侠客，是觉得都不妥当的，于是有流氓。和尚喝酒他来打，男女通奸他来捉，私娼私贩他来凌辱，为的是维持风化；乡下人不懂租界章程他来欺侮，为的是看不起无知；剪发女人他来嘲骂，社会改革者他来憎恶，为的是宝爱秩序。但后面是传统的靠山，对手又都非浩荡的强敌，他就在其间横行过去。现在的小说，还没有写出这一种典型的书，惟《九尾龟》〔１４〕中的章秋谷，以为他给妓女吃苦，是因为她要敲人们竹杠，所以给以惩罚之类的叙述，约略近之。 <br/><br/>　　由现状再降下去，大概这一流人将成为文艺书中的主角了，我在等候“革命文学家”张资平〔１５〕“氏”的近作。<br/><br/><br/>　　〔１〕本篇最初发表于一九三○年一月一日上海《萌芽月刊》第一卷第一期。 <br/><br/>　　〔２〕“天”指儒、墨两家著作中的所谓“天命”、“天意”。如《论语·季氏》：“君子有三畏：畏天命，畏大人，畏圣人之言。”《墨子·天志》：“顺天意者兼相爱，交相利，必得赏。反天意者别相恶，交相贼，必得罚。” <br/><br/>　　〔３〕墨子（约前４６８—前３７６）名翟，春秋战国之际鲁国人，墨家学派的创始者。他的言行，经他的弟子及后学辑入《墨子》一书。墨子之徒多尚武。他死后，他的学派起分化，以宋钘，许行等为代表的正统派，到秦汉时演化成为游侠。 <br/><br/>　　〔４〕“儒者，柔也”见许慎《说文解字》：“儒者，柔也，术士之称。” <br/><br/>　　〔５〕“死”指游侠中流行的所谓“其言必信，其行必果，已诺必诚，不爱其躯”（见《史记·游侠列传》）的一种侠义精神。这些游侠往往为某些权贵所豢养。“士为知己者死”，就是他们的道德观念。<br/><br/>　　〔６〕汉代的大侠多和权贵交往勾结，如《汉书·游侠传》载，陈遵“居长安中，列侯近臣贵戚皆贵重之。牧守当之官，及郡国豪杰至京师者，莫不相因到遵门。” <br/><br/>　　〔７〕“儒以文乱法，而侠以武犯禁”语见《韩非子·五蠹》。司马迁在《史记·游侠列传》中也曾引用此语。 <br/><br/>　　〔８〕“五侯”汉成帝（刘骜）河平二年（前２７），外戚王谭、王逢时、王根、王立、王商兄弟五人同日封侯，当时称为“五侯”。据《汉书·游侠传》载，“五侯”豢养许多儒侠之士，其中大侠楼护（君卿）最受信用，是“五侯上客”。 <br/><br/>　　〔９〕李逵劫法场见一百二十回本《水浒传》第四十回。<br/><br/>　　〔１０〕《水浒》即《水浒传》，元末明初施耐庵作，是一部以北宋宋江领导的农民起义为题材的长篇小说。书中有宋江受朝廷招安后又去镇压方腊等农民起义军的情节。“替天行道”是宋江一贯打着的旗号。 <br/><br/>　　〔１１〕《施公案》清代公案小说，作者不详，共九十七回。写康熙年间施仕纶官江都知县至灌运总督时，黄天霸为他办案的故事，一八三八年印行。 <br/><br/>　　〔１２〕《彭公案》清代公案小说，署贪梦道人作，共一百回。写康熙年间一帮江湖侠客为三河知县彭鹏办案的故事，一八九一年印行。 <br/><br/>　　〔１３〕《七侠五义》原名《三侠五义》，清代侠义小说，署石玉昆述，入迷道人编订，共一百二十回。一八七九年印行，后经俞樾修订，一八八九年重印，改名《七侠五义》。前半部主要写包拯审案的故事，后半部主要写江湖侠客的活动。 <br/><br/>　　〔１４〕《九尾龟》张春帆作，描写妓女生活的小说，一九一○年出版。 <br/><br/>　　〔１５〕张资平参看《二心集·张资平氏的“小说学”》及其有关注。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-549-7428.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-549-7430.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-549.html" action-type="chapterComment" class="comment"><i></i>三闲集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

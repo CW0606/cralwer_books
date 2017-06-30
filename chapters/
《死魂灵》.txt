@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《文序跋集》正文_《死魂灵》_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="文序跋集,文序跋集原文,文序跋集阅读,《死魂灵》全文,鲁迅作品" />
+<meta name="description" content="文序跋集原文阅读,《死魂灵》全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-619-7797.html";
+var nextpage="novel-read-619-7799.html";
+var indexpage = "novel-chapter-619.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-619.html">文序跋集</a></strong>
+<strong><a href="novel-chapter-619.html">文序跋集目录</a></strong>
+<span>《死魂灵》</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-619-7797.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>《死魂灵》</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-13 21:47:31<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>第二部第一章译者附记（2）<br/><br/>　　果戈理（N．Gogol）的《死魂灵》第一部，中国已有译本，这里无需多说了。其实，只要第一部也就足够，以后的两部——《炼狱》和《天堂》（3）已不是作者的力量所能达到了。<br/>　　果然，第二部完成后，他竟连自己也不相信了自己，在临终前烧掉，世上就只剩了残存的五章，描写出来的人物，积极者偏远逊于没落者：在讽刺作家果戈理，真是无可奈何的事。<br/>　　现在所用的底本，仍是德人Otto　Buek　译编的全部；第一章开首之处，借田退德尼科夫（4）的童年景况叙述着作者所理想的教育法，那反对教师无端使劲，像填鸭似的来硬塞学生，固然并不错，但对于环境，不想改革，只求适应，却和十多年前，中国有一些教育家，主张学校应该教授看假洋（5），写呈文，做挽对春联之类的意见，不相上下的。<br/><br/>==========================================================================<br/><br/>　　 　《死魂灵》　长篇小说，俄国作家果戈理著，一八四二年出版。鲁迅参考日译本自德译本转译。第一部在翻译时即陆续分期刊登于上海生活书店发行的《世界文库》第一至第六册（一九三五年五月至十月）。一九三五年十一月由上海文化生活出版社出版单行本，列为《译文丛书》之一。第二部原稿为作者自行焚毁，仅存前五章残稿。<br/>　　鲁迅于一九三六年二月起开始翻译，第一、二两章发表于《译文》月刊新一卷第一期至第三期（一九三六年三月至五月）；第三章发表于新二卷第二期（一九三六年十月），未完。一九三八年文化生活出版社又将第二部残稿三章合入第一部，出版增订本。<br/>　　果戈理（H．B．MTbTUE，1809—1952），生于乌克兰地主家庭，曾任小公务员。作品多暴露沙皇制度的腐朽，尚著有喜剧《钦差大臣》等。<br/>　　（2）　本篇连同《死魂灵》第二部第一章的译文，最初发表于一九三六年三月《译文》月刊新一卷第一期，后印入一九三八年版《死魂灵》增订本。<br/>　　（3）　《炼狱》和《天堂》　意大利诗人但丁所作长诗《神曲》的第二、三部。《神曲》全诗分三部分，以梦幻故事形式和隐喻象征手法描写作者游历地狱、炼狱（又译“净界”）、天堂的情景。<br/>　　（4）　田退德尼科夫　《死魂灵》第二部中的人物，是个地主。<br/>　　（5）　看假洋　辨别银圆的真伪。<br/><br/><br/>第二部第二章译者附记<br/><br/>　　《死魂灵》第二部的写作，开始于一八四○年，然而并没有完成，初稿只有一章，就是现在的末一章。后二年，果戈理又在草稿上从新改定，誊成清本。这本子后来似残存了四章，就是现在的第一至第四章；而其间又有残缺和未完之处。<br/>　　其实，这一部书，单是第一部就已经足够的，果戈理的运命所限，就在讽刺他本身所属的一流人物。所以他描写没落人物，依然栩栩如生，一到创造他之所谓好人，就没有生气。例如这第二章，将军贝德理锡且夫（2）是丑角，所以和乞乞科夫相遇，还是活跃纸上，笔力不让第一部；而乌理尼加是作者理想上的好女子，他使尽力气，要写得她动人，却反而并不活动，也不像真实，甚至过于矫揉造作，比起先前所写的两位漂亮太太（3）来，真是差得太远了。<br/><br/>==========================================================================<br/><br/>　　 　本篇连同《死魂灵》第二部第二章的译文，最初发表于一九三六年五月《译文》月刊新一卷第三期，后印入一九三八年版《死魂灵》增订本。<br/>　　（2）　贝德理锡且夫　《死魂灵》第二部中的人物，沙皇军队的退休的将军，贵族。下文的乌理尼加，是他的独生女。<br/>　　（3）　两位漂亮太太　《死魂灵》第一部中的两位太太：一名“通体漂亮太太”；又一名“也还漂亮太太”。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-619-7797.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-619-7799.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-619.html" action-type="chapterComment" class="comment"><i></i>文序跋集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

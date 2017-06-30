@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《新星》正文_引言_柯云路作品 - 维普阅读网</title>
+<meta name="keywords" content="新星,新星原文,新星阅读,引言全文,柯云路作品" />
+<meta name="description" content="新星原文阅读,引言全文在线阅读,柯云路作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-1315.html";
+var nextpage="novel-read-1315-24034.html";
+var indexpage = "novel-chapter-1315.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1315.html">新星</a></strong>
+<strong><a href="novel-chapter-1315.html">新星目录</a></strong>
+<span>引言</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-1315.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>引言</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-23.html" target="blank">文学小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=柯云路&amp;searchsubmit=yes"  target="_blank">柯云路</a><span class="divide">|</span>发布时间：2015-04-21 23:01:33<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>积而郡，郡积而天下。郡县治，天下无不治……<br/><br/>　　摘自《古陵县志》序<br/><br/>　　光绪六年（庚辰）<br/><br/>　　苍茫的群山川野都在黑暗中沉睡着。一座千年木塔黑森森地矗立着。寒凉的风从山那边刮过来，塔上一层层檐角下的小铜钟丁丁当当地响着。那钟声融入初夏凌晨广大而清凉的黑暗中，单调寥寞，幽远苍凉。在四面的远山引起梦幻般的、似有似无的微弱回音。一千年来就这样丁丁当当地响着。<br/><br/>　　突然，塔里塔外的一层层电灯亮了。<br/><br/>　　古木塔立刻在黑苍苍的天地间明亮而庄严地呈现出雄奇宏伟的形象。这是一座九层木塔。最高一层挂着一块大金匾，上书三个大字：释迦塔。<br/><br/>　　我们年轻的主人公李向南在一个瘦削驼背的看塔老头陪同下，踏进了红漆大门，迎面扑来潮湿陈旧的木头气息。这座塔里陈设着古陵县出土和流传的历史文物，是古陵县的小小博物馆。这是第一层。一个个玻璃柜内的红绒布上陈放着几千万年前的动物化石：有犀牛角，有猛兽的牙齿、骨骼。何其遥远。<br/><br/>　　李向南俯身看着玻璃柜内的说明卡片，微微笑了笑。那时还没有人类。<br/><br/>　　沿着沉闷粗重的木楼梯盘旋而上，第二层，陈列着旧石器时代的造物。有人骨化石、石器、骨器。石器都是些尖状物，说斧不很像斧，说矛头不完全像矛头。外形粗糙混沌，几乎很难看出这些被人类打击加工过的石器与天然的石头有何差别。骨器则是几十枚骨针，这是人类所制，无须考古学家考证也一目了然的。大自然的任何磨损，野兽的任何咀嚼，都不可能加工出这样尾部有孔、规格一样的细针来。那时的人类就懂得缝纫了，想到这一点觉得颇难思议。还有穿孔的兽骨、兽齿在玻璃柜内的红绒布上摆着，那是人类当时的装饰品。稍有温饱，就知道爱美。这些可爱的原始人类。一张张说明卡片标出：这些石器、骨器是几十万年前至一百万年前的人类留下的。<br/><br/>　　第三层是新石器时代的考古发现。这里陈列的石器形状清楚、表面光滑、锋刃锐利。石斧、石刀、石镞、石杵、石制纺轮，样样如此。磨石的使用，用它来打磨石器，结束了人类几十万年用敲击方法加工石器的历史。仅此一步，何其简单又何其艰难的一步，使人类跨入了一个新的文明时期：新石器时代。<br/><br/>　　想到这一点，李向南颇为感慨。<br/><br/>　　他俯身细看着玻璃柜内的物品，里面还有骨针、骨锥，有几个粗陶的钵、罐、鼎，其中一个表面红色、里外磨光的彩绘陶盆吸引了他的注意，构图典雅，形制优美，是我国中原地区仰韶文化的器物，约五千年前的原始工艺品。仰韶文化也流入了千里外的古陵，这令人惊叹。再一想古代种种文明都能在当时遍布地球，更难以思议。但稍一计算又很简单：一种人类文明只要一年时间扩散百里，一百年就可扩散万里，几百年便可遍及世界。百年，在人类史上又算什么呢？在这样漫长的时间面前，地球这个空间是显得很狭小的。<br/><br/>　　这是第四层了。从四面敞开的窗户能感到劲吹的高空凉风。这里陈列的是商周时期的青铜器。有矛，有刀，有锛，有觚，有爵，有造型浑厚、纹饰精湛的商代乳钉纹铜瓿，有铭文简短、形制古朴的西周饕餮纹分裆鼎。那阴冷的绿色铜锈及其冰凉沁人的气味，显示着那个历史的古老年龄，同时让人想起奴隶主政权的阴森野蛮、庞大和沉重。铜器中最多的还是矢镞、弓箭。这个旧石器时代后期就有的伟大发明，与火的使用在一起，使人类战胜了野兽和大自然。而制造第一支弓和箭的人，是人类史上最伟大的无名英雄。他是谁，大概永远无从考证的了。再过一万年，现代的一切变成了古老的历史，人们会进行怎样的研究考证呢？<br/><br/>　　盘旋着沉闷发响的木楼梯一级级而上，一种沧桑之感涌上心胸。<br/><br/>　　这是第五层了，也是最高一层。这座塔外面看有九层，是明五暗四。这内里的五层是塔的顶端了。透过四面黑洞洞的窗户，穿堂风颇有凛冽之感。这一层陈列的东西是两千年来的。汉代的一个石雕老虎，古朴憨拙，北齐的几个小释迦石雕，唐朝的一个缺胳膊的石观音，还有就是大量的瓷器，瓶罐盆壶。有宋代的白釉画花、白釉红绿彩，有元代的青花瓷器，有明代的五彩瓷器，还有就是清代的珐琅瓶盆等，琳琅满目。显示出人类社会越来越繁华喧闹的生活。<br/><br/>　　古陵不愧为古陵。自己上任来这里当县委书记刚刚两周，今天是第一次登上这座古塔。一层层看了几千万年来古陵的自然史，几十万年来的人类史，几千年来的有文字史。他关了电灯，来到塔外转圈的扶栏前远眺。<br/><br/>　　刚才在雪亮的灯光中，天空一片漆黑。现在关了灯，看出黑暗的天幕正露出若有若无的微明。一颗硕大的星孤寂地亮着。远处是黑魆魆的起伏群山。风疾劲地吹着他的脸和胸膛，带来湿凉透人的露气和夏天田野的麦香。的确良衬衫哗啦啦抖动着。塔檐下的小铜钟丁丁当当地响着。黑暗的天空苍茫混沌，令人冥想。<br/><br/>　　东方渐渐透亮，黎明正在慢慢露出清凉的额头。<br/><br/>　　在它的目光投射下，一层层夜幕被掀掉了，古陵的山川田野、沟沟壑壑，都一点点在黑暗中浮现出来。北面、西面都是大山，群峰交叠，层峦起伏，渐渐近来，变为一些黄土丘陵，再近来，变成一些黄土崖直落而下，化为一片川地。县城及离城不远的这座木塔是在这片川地中一块隆起的高地上。四面环绕着铺满鹅卵石的河滩。河滩流着弯弯细水，河滩垒堰填起的地里，已有点点人影在弯腰锄玉米。平川地沿河滩走向继续朝东朝南展去，直至在天边被山脉挡住。<br/><br/>　　这是黄河流域一个古老的县。<br/><br/>　　古陵，此县名早在春秋时期已然有了，与孔子的名字一样古老。秦齐燕韩赵魏的战车兵戈都在这里奔突交战过。攻者毁城，占者筑城，反复多次。直至近代又被东洋西洋的枪炮洗劫过。现在城墙还留有一些残垣断壁。对面丘陵和山脚下的一个个村庄，至今还保留着转圈围护的堡墙，记载着自古以来的兵燹匪劫。<br/><br/>　　古老的县又是一个贫苦的县。《古陵县志》中曾这样记叙：<br/><br/>　　……古陵农民用力多而奏功少，冬春苦寒，夏苦水，秋苦霜。山角河浚有隙地，则毕力争垦，老弱妇女无荒以嬉者。三月播菽，四月播黍秫，六月而耘，八月而获风雨时矣。有年庆矣，所收亩不过数斗……<br/><br/>　　远远地，传来一声火车的长鸣，在群山回响着，在黎明中显得苍凉。一条铁路穿过山岭越过平川在县城南面擦过，给古陵绘上现代色彩的一笔。随着火车的奔驰声，黎明震惊了，更高地抬起额头，大海般淡淡地抖动着光波，天开始真正亮了。苍莽浑朴的山川田野越来越清晰地展现出来。横刮过群山的晨风苍凉而豪迈。塔上的钟声丁丁当当响成一片。远处传来下坡的马车拉杆刹闸的尖厉的吱咯吱咯声。对面山上有个高亢苍老的嗓音，唱起一支古老的民歌：“这山唱着那山听，不知谁是知心人……”歌声在黎明中悠扬地回响着，远近几十里山上山下，一个个村堡在槐树顶上升起淡淡的炊烟。<br/><br/>　　古老而贫穷的古陵。<br/><br/>　　如今，他决心要来揭开它新的一页。<br/><br/>　　一千年后，这一页或许也将陈列在这古木塔中……</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-1315.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1315-24034.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1315.html" action-type="chapterComment" class="comment"><i></i>新星章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

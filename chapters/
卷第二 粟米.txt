@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《九章算术》正文_卷第二 粟米_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="九章算术,九章算术原文,九章算术阅读,卷第二 粟米全文,佚名作品" />
+<meta name="description" content="九章算术原文阅读,卷第二 粟米全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-250-3950.html";
+var nextpage="novel-read-250-3952.html";
+var indexpage = "novel-chapter-250.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-250.html">九章算术</a></strong>
+<strong><a href="novel-chapter-250.html">九章算术目录</a></strong>
+<span>卷第二 粟米</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-250-3950.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷第二 粟米</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-08-25 21:19:23<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>粟米之法：　　粟率五十粝米三十　　粺米二十七凿米二十四<br/><br/>　　御米二十一小●十三半　　大●五十四粝饭七十五　　粺饭五十四凿饭四十八<br/><br/>　　御饭四十二菽、答、麻、麦各四十五　　稻六十豉六十三<br/><br/>　　飧九十熟菽一百三半<br/><br/>　　櫱一百七十五<br/><br/>　　今有术曰：以所有数乘所求率为实，以所有率为法，实如法而一。<br/><br/>　　〔一〕今有粟一斗，欲为粝米。问得几何？<br/><br/>　　答曰：为粝米六升。<br/><br/>　　术曰：以粟求粝米，三之，五而一。<br/><br/>　　〔二〕今有粟二斗一升，欲为粺米。问得几何？<br/><br/>　　答曰：为粺米一斗一升、五十分升之十七。<br/><br/>　　术曰：以粟求粺米，二十七之，五十而一。<br/><br/>　　〔三〕今有粟四斗五升，欲为凿米。问得几何？<br/><br/>　　答曰：为凿米二斗一升、五分升之三。<br/><br/>　　术曰：以粟求凿米，十二之，二十五而一。<br/><br/>　　〔四〕今有粟七斗九升，欲为御米。问得几何？<br/><br/>　　答曰：为御米三斗三升、五十分升之九。<br/><br/>　　术曰：以粟求御米，二十一之，五十而一。<br/><br/>　　〔五〕今有粟一斗，欲为小●。问得几何？<br/><br/>　　答曰：为小●二升、一十分升之七。　　术曰：以粟求小●，二十七之，百而一。　　〔六〕今有粟九斗八升，欲为大●。问得几何？<br/><br/>　　答曰：为大●一十斗五升、二十五分升之二十一。<br/><br/>　　术曰：以粟求大●，二十七之，二十五而一。<br/><br/>　　〔七〕今有粟二斗三升，欲为粝饭。问得几何？<br/><br/>　　答曰：为粝饭三斗四升半。<br/><br/>　　术曰：以粟求粝饭，三之，二而一。<br/><br/>　　〔八〕今有粟三斗六升，欲为粺饭。问得几何？<br/><br/>　　答曰：为粺饭三斗八升、二十五分升之二十二。　　术曰：以粟求粺饭，二十七之，二十五而一。<br/><br/>　　〔九〕今有粟八斗六升，欲为凿饭。问得几何？<br/><br/>　　答曰：为凿饭八斗二升、二十五分升之一十四。<br/><br/>　　术曰：以粟求凿饭，二十四之，二十五而一。<br/><br/>　　〔一０〕今有粟九斗八升，欲为御饭。问得几何？<br/><br/>　　答曰：为御饭八斗二升、二十五分升之八。<br/><br/>　　术曰：以粟求御饭，二十一之，二十五而一。<br/><br/>　　〔一一〕今有粟三斗少半升，欲为菽。问得几何？<br/><br/>　　答曰：为菽二斗七升、一十分升之三。<br/><br/>　　〔一二〕今有粟四斗一升、太半升，欲为答。问得几何？<br/><br/>　　答曰：为答三斗七升半。<br/><br/>　　〔一三〕今有粟五斗、太半升，欲为麻。问得几何？<br/><br/>　　答曰：为麻四斗五升、五分升之三。　　〔一四〕今有粟一十斗八升、五分升之二，欲为麦。问得几何？<br/><br/>　　答曰：为麦九斗七升、二十五分升之一十四。<br/><br/>　　术曰：以粟求菽、答、麻、麦，皆九之，十而一。　　〔一五〕今有粟七斗五升、七分升之四，欲为稻。问得几何？<br/><br/>　　答曰：为稻九斗、三十五分升之二十四。<br/><br/>　　术曰：以粟求稻，六之，五而一。<br/><br/>　　〔一六〕今有粟七斗八升，欲为豉。问得几何？<br/><br/>　　答曰：为豉九斗八升、二十五分升之七。<br/><br/>　　术曰：以粟求豉，六十三之，五十而一。<br/><br/>　　〔一七〕今有粟五斗五升，欲为飧。问得几何？<br/><br/>　　答曰：为飧九斗九升。　　术曰：以粟求飧，九之，五而一。　　〔一八〕今有粟四斗，欲为熟菽。问得几何？<br/><br/>　　答曰：为熟菽八斗二升、五分升之四。　　术曰：以粟求熟菽，二百七之，百而一。<br/><br/>　　〔一九〕今有粟二斗，欲为櫱。问得几何？<br/><br/>　　答曰：为櫱七斗。<br/><br/>　　术曰：以粟求櫱，七之，二而一。<br/><br/>　　〔二０〕今有粝米十五斗五升、五分升之二，欲为粟。问得几何？　　答曰：为粟二十五斗九升。　　术曰：以粝米求粟，五之，三而一。<br/><br/>　　〔二一〕今有粺米二斗，欲为粟。问得几何？　　答曰：为粟三斗七升、二十七分升之一。　　术曰：以粺米求粟，五十之，二十七而一。<br/><br/>　　〔二二〕今有凿米三斗、少半升，欲为粟。问得几何？<br/><br/>　　答曰：为粟六斗三升、三十六分升之七。　　术曰：以凿米求粟，二十五之，十三而一。<br/><br/>　　〔二三〕今有御米十四斗，欲为粟。问得几何？　　答曰：为粟三十三斗三升、少半升。<br/><br/>　　术曰：以御米求粟，五十之，二十一而一。<br/><br/>　　〔二四〕今有稻一十二斗六升、一十五分升之一十四，欲为粟。问得几何？<br/><br/>　　答曰：为粟一十斗五升、九分升之七。<br/><br/>　　术曰：以稻求粟，五之，六而一。<br/><br/>　　〔二五〕今有粝米一十九斗二升、七分升之一，欲为粺米。问得几何？<br/><br/>　　答曰：为粺米一十七斗二升、一十四分升之一十三。<br/><br/>　　术曰：以粝米求粺米，九之，十而一。<br/><br/>　　〔二六〕今有粝米六斗四升、五分升之三，欲为粝饭。问得几何？　　答曰：为粝饭一十六斗一升半。<br/><br/>　　术曰：以粝米求粝饭，五之，二而一。　　〔二七〕今有粝饭七斗六升、七分升之四，欲为飧。问得几何？<br/><br/>　　答曰：为飧九斗一升、三十五分升之三十一。　　术曰：以粝饭求飧，六之，五而一。<br/><br/>　　〔二八〕今有菽一斗，欲为熟菽。问得几何？<br/><br/>　　答曰：为熟菽二斗三升。<br/><br/>　　术曰：以菽求熟菽，二十三之，十而一。<br/><br/>　　〔二九〕今有菽二斗，欲为豉。问得几何？<br/><br/>　　答曰：为豉二斗八升。<br/><br/>　　术曰：以菽求豉，七之，五而一。<br/><br/>　　〔三０〕今有麦八斗六升、七分升之三，欲为小●，问得几何？<br/><br/>　　答曰：为小●二斗五升、一十四分升之一十三。　　术曰：以麦求小●，三之，十而一。<br/><br/>　　〔三一〕今有麦一斗，欲为大●。问得几何？<br/><br/>　　答曰：为大●一斗二升。<br/><br/>　　术曰：以麦求大●，六之，五而一。<br/><br/>　　〔三二〕今有出钱一百六十，买瓴甓十八枚。问枚几何？　　答曰：一枚，八钱、九分钱之八。　　〔三三〕今有出钱一万三千五百，买竹二千三百五十箇。问箇几何？<br/><br/>　　答曰：一箇，五钱、四十七分钱之三十五。<br/><br/>　　经率术曰：以所买率为法，所出钱数为实，实如法得一钱。<br/><br/>　　〔三四〕今有出钱五千七百八十五，买漆一斛六斗七升、太半升。欲斗率之，问斗几何。<br/><br/>　　答曰：一斗，三百四十五钱、五百三分钱之一十五。<br/><br/>　　〔三五〕今有出钱七百二十，买缣一匹二丈一尺。欲丈率之，问丈几何？<br/><br/>　　答曰：一丈，一百一十八钱、六十一分钱之二。<br/><br/>　　〔三六〕今有出钱二千三百七十，买布九匹二丈七尺。欲匹率之，问匹几何？<br/><br/>　　答曰：一匹，二百四十四钱、一百二十九分钱之一百二十四。<br/><br/>　　〔三七〕今有出钱一万三千六百七十，买丝一石二钧一十七斤。欲石率之，问石几何？<br/><br/>　　答曰：一石，八千三百二十六钱、一百九十七分钱之一百七十八。<br/><br/>　　经术术曰：以所求率乘钱数为实，以所买率为法，实如法得一。<br/><br/>　　〔三八〕今有出钱五百七十六，买竹七十八箇。欲其大小率之，问各几何？　　答曰：　　其四十八箇，箇七钱。<br/><br/>　　其三十箇，箇八钱。〔三九〕今有出钱一千一百二十，买丝一石二钧十八斤。欲其贵贱斤率之，问各几何？<br/><br/>　　答曰：　　其二钧八斤，斤五钱。　　其一石一十斤，斤六钱。<br/><br/>　　〔四０〕今有出钱一万三千九百七十，买丝一石二钧二十八斤三两五铢。欲其贵贱石率之，问各几何？<br/><br/>　　答曰：<br/><br/>　　其一钧九两一十二铢，石八千五十一钱。<br/><br/>　　其一石一钧二十七斤九两一十七铢，石八千五十二钱。<br/><br/>　　〔四一〕今有出钱一万三千九百七十，买丝一石二钧二十八斤三两五铢。欲其贵贱钧率之，问各几何？　　答曰：　　其七斤一十两九铢，钧二千一十二钱。<br/><br/>　　其一石二钧二十斤八两二十铢，钧二千一十三钱。<br/><br/>　　〔四二〕今有出钱一万三千九百七十，买丝一石二钧二十八斤三两五铢。欲其贵贱斤率之，问各几何？<br/><br/>　　答曰：<br/><br/>　　其一石二钧七斤十两四铢，斤六十七钱。<br/><br/>　　其二十斤九两一铢，斤六十八钱。<br/><br/>　　〔四三〕今有出钱一万三千九百七十，买丝一石二钧二十八斤三两五铢。欲其贵贱两率之，问各几何？<br/><br/>　　答曰：<br/><br/>　　其一石一钧一十七斤一十四两一铢，两四钱。<br/><br/>　　其一钧一十斤五两四铢，两五钱。<br/><br/>　　其率　　术曰：各置所买石、钧、斤、两以为法，以所率乘钱数为实，实如法而一。不满法者反以实减法，法贱实贵。　　〔四四〕今有出钱一万三千九百七十，买丝一石二钧二十八斤三两五铢。欲其贵贱铢率之，问各几何？<br/><br/>　　答曰：<br/><br/>　　其一钧二十斤六两十一铢，五铢一钱。　　其一石一钧七斤一十二两一十八铢，六铢一钱。<br/><br/>　　〔四五〕今有出钱六百一十，买羽二千一百翭。欲其贵贱率之，问各几何？<br/><br/>　　答曰：<br/><br/>　　其一千一百四十翭，三翭一钱。<br/><br/>　　其九百六十翭，四翭一钱。<br/><br/>　　〔四六〕今有出钱九百八十，买矢簳五千八百二十枚。欲其贵贱率之，问各几何？<br/><br/>　　答曰：<br/><br/>　　其三百枚，五枚一钱。<br/><br/>　　其五千五百二十枚，六枚一钱。<br/><br/>　　反其率术曰：以钱数为法，所率为实，实如法而一。不满法者反以实减法，法少，实多。二物各以所得多少之数乘法实，即物数。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-250-3950.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-250-3952.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-250.html" action-type="chapterComment" class="comment"><i></i>九章算术章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

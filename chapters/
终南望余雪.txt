@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《终南望余雪》正文_终南望余雪_祖咏作品 - 维普阅读网</title>
+<meta name="keywords" content="终南望余雪,终南望余雪原文,终南望余雪阅读,终南望余雪全文,祖咏作品" />
+<meta name="description" content="终南望余雪原文阅读,终南望余雪全文在线阅读,祖咏作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-1186.html";
+var nextpage="novel-chapter-1186.html";
+var indexpage = "novel-chapter-1186.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1186.html">终南望余雪</a></strong>
+<strong><a href="novel-chapter-1186.html">终南望余雪目录</a></strong>
+<span>终南望余雪</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-1186.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>终南望余雪</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=祖咏&amp;searchsubmit=yes"  target="_blank">祖咏</a><span class="divide">|</span>发布时间：2015-02-10 15:08:50<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　终南阴岭秀，积雪浮云端。<br/>　　林表明霁色，城中增暮寒。<br/><br/>【注释】<br/>①终南望余雪：《全唐诗》此诗题下有小字注：“有司试此题，咏赋四句即纳，或诘之，曰‘意尽’。”终南，山名，在唐京城长安（今陕西西安）南面六十里处。余雪，指未融化之雪。<br/>②阴岭：北面的山岭，背向太阳，故曰阴。<br/>③林表：林外，林梢。表，外表。<br/>④霁色：雨雪后的阳光。霁，指雨雪后初晴。<br/><br/>【译文】<br/>终南山的北面山色秀美；山上的积雪好像与天上的白云相连；<br/>雨雪后初晴的阳光照耀着树林表面；城中也增加了一丝寒意。<br/><br/>【赏析】<br/>　　此诗载于《全唐诗》卷一百三十一。下面是中国古典文学专家、陕西师范大学文学研究所所长霍松林先生对此诗的赏析。<br/>　　据《唐诗纪事》卷二十记载，这首诗是祖咏在长安应试时作的。按照规定，应该作成一首六韵十二句的五言排律，但他只写了这四句就交卷。有人问他为什么，他说：“意思已经完满了。”这真是无话即短，不必画蛇添足。<br/>　　题意是望终南余雪。从长安城中遥望终南山，所见的自然是它的“阴岭”（山北叫做“阴”）；而且，惟其“阴”，才有“馀雪”。“阴”字下得很确切。“秀”是望中所得的印象，既赞颂了终南山，又引出下句。“积雪浮云端”，就是“终南阴岭秀”的具体内容。这个“浮”字下得十分生动。自然，积雪不可能浮在云端。这是说：终南山的阴岭高出云端，积雪未化。云，总是流动的；而高出云端的积雪又在阳光照耀下寒光闪闪，正给人以“浮”的感觉。或许有的读者要说：“这里并没有提到阳光呀！”这里是没有提，但下句却作了补充。“林表明霁色”中的“霁色”，指的就是雨雪初晴时的阳光给“林表”涂上的色彩。同时，“积雪浮云端”一句写出了终南山高耸入云，表达了作者的凌云壮志。<br/>　　“明”字当然下得好，但“霁”字更重要。作者写的是从长安遥望终南余雪的情景。终南山距长安城南约六十华里，从长安城中遥望终南山，阴天固然看不清，就是在大晴天，一般看到的也是笼罩终南山的蒙蒙雾霭；只有在雨雪初晴之时，才能看清它的真面目。贾岛的《望山》诗里是这样写终南山的：“日日雨不断，愁杀望山人。天事不可长，劲风来如奔。阴霾一似扫，浩翠泻国门。长安百万家，家家张屏新。”久雨新晴，终南山翠色欲流，长安百万家，家家门前张开一面新崭崭的屏风，非常好看。唐时如此，现在仍如此，久住西安的人，都有这样的经验。所以，如果写从长安城中望终南馀雪而不用一个“霁”字，却说望见终南阴岭的馀雪如何如何，那就不是客观真实了。<br/>　　祖咏不仅用了“霁”，而且选择的是夕阳西下之时的“霁”。他说“林表明霁色”，而不说山脚、山腰或林下“明霁色”，这是很费推敲的。“林表”承“终南阴岭”而来，自然在终南高处。只有终南高处的林表才明霁色，表明西山已衔半边日，落日的余光平射过来，染红了林表，不用说也照亮了浮在云端的积雪。而结句的“暮”字，也已经呼之欲出了。<br/>　　前三句，写“望”中所见；末一句，写“望”中所感。俗谚有云：“下雪不冷消雪冷。”又云：“日暮天寒。”一场雪后，只有终南阴岭尚余积雪，其他地方的雪正在消融，吸收了大量的热，自然要寒一些；日暮之时，又比白天寒；望终南余雪，寒光闪耀，就令人更增寒意。做望终南余雪的题目，写到因望余雪而增加了寒冷的感觉，意思的确完满了，就不必死守清规戎律，再凑几句了。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-1186.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-1186.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1186.html" action-type="chapterComment" class="comment"><i></i>终南望余雪章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

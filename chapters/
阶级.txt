@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《贾谊新书》正文_阶级_贾谊作品 - 维普阅读网</title>
+<meta name="keywords" content="贾谊新书,贾谊新书原文,贾谊新书阅读,阶级全文,贾谊作品" />
+<meta name="description" content="贾谊新书原文阅读,阶级全文在线阅读,贾谊作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-235-3435.html";
+var nextpage="novel-read-235-3437.html";
+var indexpage = "novel-chapter-235.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-235.html">贾谊新书</a></strong>
+<strong><a href="novel-chapter-235.html">贾谊新书目录</a></strong>
+<span>阶级</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-235-3435.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>阶级</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=贾谊&amp;searchsubmit=yes"  target="_blank">贾谊</a><span class="divide">|</span>发布时间：2014-08-21 20:59:45<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>人主之尊，辟无异堂陛。陛九级者，堂高大几六尺矣。若堂无陛级者，堂高殆不过尺矣。天子如堂，群臣如陛，众庶如地，此其辟也。故堂之上，廉远地则堂高，近地则堂卑。高者难攀，卑者易陵，理势然也。故古者圣王制为列等，内有公卿大夫士，外有公侯伯子男，然后有官师小吏，施及庶人，等级分明，而天子加焉，故其尊不可及也。<br/><br/>　　鄙谚曰：“欲投鼠而忌器”，此善喻也。鼠近于器，尚惮而弗投，恐伤器也，况乎贵大臣之近于主上乎。廉丑礼节，以治君子，故有赐死而无戮辱，是以系、缚、榜、笞、髡、刖、黥、劓之罪，不及士大夫，以其离主上不远也。礼：不敢齿君之路马，蹴其刍者有罪，见君之几杖则起，遭君之乘舆则下，入正门则趋。君之宠臣，虽或有过，刑戮不加其身，尊君之势也，此则所以为主上豫远不敬也，所以体貌群臣而厉其节也。今自王侯三公之贵，皆天子之改容而礼也，古天子之所谓伯父伯舅也，今与众庶徒隶同黥劓髡刖笞傌弃市之法，然则堂下不亡陛乎？被戮辱者不太迫乎？廉耻不行也，大臣无乃握重权大官，而有徒隶无耻之心乎？夫望夷之事，二世见当以重法者，投鼠而不忌器之习也。<br/><br/>　　臣闻之曰：“履虽鲜，弗以加枕；冠虽弊，弗以苴履。”夫尝以在贵宠之位，天子改容而尝体貌之矣，吏民尝俯伏以敬畏之矣，今而有过，令废之可也，退之可也，赐之死可也。若夫束缚之，系绁之，输之司空，编之徒官。司寇牢正徒长小吏骂詈而榜笞之，殆非所以令众庶见也。夫卑贱者习知尊贵者之事，一旦吾亦乃可以加也，非所以习天下也，非尊尊贵贵之化也。夫天子之所尝敬，众庶之所尝宠，死而死尔，贱人安宜得此而顿辱之哉。<br/><br/>　　豫让事中行之君，智伯伐中行，灭之，豫让移事智伯。及赵灭智伯，豫让舋面变容，吸炭变声，必报襄子，五起而弗中，襄子一夕而五易卧。人问豫让，让曰：“中行众人畜我，我故众人事之；智伯国士遇我，故为之国士用。”故此一豫让也，反君事雠，行若狗彘，已而折节致忠，行出乎烈士，人主使然也。故人主遇其大臣，如遇犬马，彼将犬马自为也；如遇官徒，彼将官徒自为也。顽顿无耻，奊苟无节，廉耻不立，则且不自好，则苟若而可，见利则趋，见便则夺。主上有败，困而揽之矣；主上有患，则吾苟免而已，立而观之耳。有便吾身者，则欺卖而利之耳，人主将何便于此！群下至众，而主至少也，所托财器职业者，率于群下也，但无耻，但苟安，则主最病。<br/><br/>　　故古者礼不及庶人，刑不至君子，所以厉宠臣之节也。古者大臣，有坐不廉而废者，不谓曰不廉，曰簠簋不饰；坐污秽男女无别者，不谓污秽，曰帷簿不修；坐罢软不胜任者，不谓罢软，曰下官不职。故贵大臣定有其罪矣，犹未斥然正以呼之也，尚迁就而为之讳也。故其在大谴大诃之域者，闻谴诃则白冠牦缨，盘水加剑，造清室而请其罪尔。上弗使执缚系引而行也。其中罪者，闻命而自弛，上不使人颈盭而加也。其有大罪者，闻命则北面再拜，跪而自裁，上不使人捽抑而刑也。曰子大夫自有过耳，吾遇子有礼矣。遇之有礼，故群臣自喜。厉以廉耻，故人务节行。上设廉耻礼义以遇其臣，而群臣不以节行而报其上者，即非人类也。<br/><br/>　　故化成俗定，则为人臣者，主尔忘身，国尔忘家，公尔忘私。利不苟就，害不苟去，唯义所在，主上之化也。故父兄之臣，诚死宗庙；法度之臣，诚死社稷；辅翼之臣，诚死君上；守卫捍敌之臣，诚死城廓封境。故曰圣人有金城者，比物此志也。彼且为我死，故吾得与之俱生；彼且为我亡，故吾得与之俱存。夫将为我危，故吾得与之皆安。顾行而忘利，守节而服义，故可以托不御之权，可以托五尺之孤，此厉廉耻行礼义之所致也。主上何丧焉？此之不为，而顾彼之行，故曰可为长大息者也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-235-3435.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-235-3437.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-235.html" action-type="chapterComment" class="comment"><i></i>贾谊新书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《中国小说史略》正文_第三篇　《汉书》《艺文志》所载小说_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="中国小说史略,中国小说史略原文,中国小说史略阅读,第三篇　《汉书》《艺文志》所载小说全文,鲁迅作品" />
+<meta name="description" content="中国小说史略原文阅读,第三篇　《汉书》《艺文志》所载小说全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-552-7538.html";
+var nextpage="novel-read-552-7540.html";
+var indexpage = "novel-chapter-552.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-552.html">中国小说史略</a></strong>
+<strong><a href="novel-chapter-552.html">中国小说史略目录</a></strong>
+<span>第三篇　《汉书》《艺文志》所载小说</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-552-7538.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第三篇　《汉书》《艺文志》所载小说</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-05 21:50:13<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　《汉志》之叙小说家，以为“出于稗官”，如淳曰，“细米为稗。街谈巷说，甚细碎之言也。王者欲知里巷风俗，故立稗官，使称说之。”（本注）其所录小说，今皆不存，故莫得而深考，然审察名目，乃殊不似有采自民间，如《诗》之《国风》（1）者。其中依托古人者七，曰：《伊尹说》，《鬻子说》，《师旷》，《务成子》，《宋子》，《天乙》，《黄帝》。记古事者二，曰：《周考》，《青史子》，皆不言何时作。明著汉代者四家：曰《封禅方说》，《待诏臣饶心术》，《臣寿周纪》，《虞初周说》。 <br/>　　《待诏臣安成未央术》与《百家》，虽亦不云何时作，而依其次第，自亦汉人。 <br/>　　《汉志》道家有《伊尹说》（2）五十一篇，今佚；在小说家之二十七篇办不可考，《史记》《司马相如传》注引《伊尹书》曰，“箕山之东，青鸟之所，有卢橘夏熟。”当是遗文之仅存者。 <br/>　　《吕氏春秋》《本味篇》（3）述伊尹以至味说汤，亦云“青鸟之所有甘护”，说极详尽，然文丰赡而意浅薄，盖亦本《伊尹书》。 <br/>　　伊尹以割烹要汤（4），孟子尝所详辩，则此殆战国之士之所为矣。 <br/>　　《汉志》道家有《鬻子》二十二篇，今仅存一卷，或以其语浅蒲，疑非道家言。然唐宋人所引逸文，又有与今本《鬻子》颇不类者，则殆真非道家言也。 <br/>　　武王率兵车以伐纣。纣虎旅百万，阵于商郊，起自黄鸟，至于赤斧，走如疾风，声如振霆。三军之士，靡不失色。武王乃命太公把白旄以摩之，纣军反走。（《文选李善注》及《太平御览》三百一） <br/>　　青史子为古之史官，然不知在何时。其书隋世已佚，刘知几《史通》（5）云“《青史》由缀于街谈”者，盖据《汉志》言之，非逮唐而复出也。遗文今存三事，皆言礼，亦不知当时何以入小说。 <br/>　　古者胎教，王后腹之七月而就宴室，太史持铜而御户左，太宰持斗而御户右，太卜持蓍龟而御堂下，诸官皆以其职御于门内。比及三月者，王后所求声音非礼乐，则太史缊瑟而称不习，所求滋味者非正味，则太宰倚斗而不敢煎调，而言曰，“不敢以待王太子。”太子生而泣，太史吹铜曰，“声中某律。”太宰曰，“滋味上某。”太卜曰，“命云某。”然后为王太子悬弧之礼义。……（《大戴礼记》《保傅篇》，《贾谊新书》《胎教十事》） <br/>　　古者年八岁而出就外舍，学小艺焉，履小节焉；束发而就大学，学大艺焉，履大节焉。居则习礼文，行则鸣珮玉，升车则闻和鸾之声，是以非僻之心无自入也。 <br/>　　……古之为路车也，盖圆以象天，二十八橑以象列星，轸方以象地，三十幅以象月。故仰则观天文，俯则察地理，前视则睹和鸾之声，侧听则观四时之运：此巾车教之道也。（《大戴礼记》《保傅篇》） <br/>　　鸡者，东方之畜也。岁终更始，辨秩东作，万物触户而出，故以鸡祀祭也。（《风俗通义》八） <br/>　　《汉志》兵阴阳家（6）有《师旷》八篇，是杂占之书，在小说家者不可考，惟据本志注，知其多本《春秋》而已。《逸周书》《太子晋》篇记师旷见太子，聆声而知其不寿，太子亦自知“后三年当宾于帝所”，其说颇似小说家。 <br/>　　虞初事详本志注，又尝与丁夫人（7）等以方祠诅匈奴大宛，见《郊祀志》，所著《周说》几及千篇，而今皆不传。晋唐人引《周书》者，有三事如《山海经》及《穆天子传》，与《逸周书》不类，朱右曾（8）（《逸周书集训校释》十一）疑是《虞初说》。 <br/>　　芥山，神蓐收居之。是山也，西望日之所入，其气圆，神经光之所司也。（《太平御览》三） <br/>　　天狗所止地尽倾，余光烛天为流星，长十数丈，其疾如风，其声如雷，其光如电。（《山海经》注十六） <br/>　　穆王田，有黑鸟若鸠，翩飞而跱于衡，御者毙之以策，马佚，不克止之，踬于乘，伤帝左股。（《文选李善注》十四） <br/>　　《百家》者，刘向《说苑》（9）叙录云，“《说苑杂事》，…… <br/>　　其事类众多，……除去与《新序》复重者，其余者浅薄不中义理，别集以为《百家》。”《说苑》今存，所记皆古人行事之迹，足为法戒者，执是以推《百家》，则殆为故事之无当于治道者矣。 <br/>　　其余诸家，皆不可考。今审其书名，依人则伊尹鬻熊师旷黄帝，说事则封禅养生，盖多属方士假托。惟青史子非是。 <br/>　　又务成子名昭，见《荀子》，《尸子》尝记其“避逆从顺”之教（10）；宋子名钘，见《庄子》，《孟子》作宋径，《韩非子》作宋荣子，《荀子》引子宋子曰，“明见侮之不辱，使人不斗”（11），则“黄老意”，然俱非方士之说也。 <br/><br/>==========================================================================<br/><br/>　　（1）　国风　《诗经》组成部分，大多是周初至春秋中期民歌。 <br/>　　《汉书·艺文志》载：“古有采诗之官，王者所以观风俗、知得失，自考正也。” <br/>　　（2）　《伊尹说》，《汉书·艺文志》道家类作《伊尹》。 <br/>　　（3）　《吕氏春秋》　战国末秦相吕不韦集门客共同编撰，《汉书·艺文志》著录二十六卷，共一六○篇。《本味篇》，见《吕氏春秋·孝行览》，记伊尹历举各地山珍海味，谓仅天子之国始能享受，劝说汤改革政治，以取天下。 <br/>　　（4）　割烹要汤　《孟子·万章》：“万章问曰：‘人有言，伊尹以割烹要汤，有诸？’孟子曰：‘否，不然！伊尹耕于有莘之野，而乐尧舜之道焉。……吾闻其以尧舜之道要汤，未闻以割烹也’。” <br/>　　（5）　刘知几（661—721）　字子玄，唐彭城（今江苏徐州）人。 <br/>　　曾任著作郎、左史等官，多次参加官修史书。所撰《史通》，系我国第一部史籍评著。二十卷，分内外篇，内篇论史家体例，外篇论史籍源流得失。又，“《青史》由缀于街谈”，见刘勰《文心雕龙·诸子篇》，“由”原作“曲”。 <br/>　　（6）　兵阴阳家　即兵书中的阴阳家。《汉书·艺文志》：“阴阳者，顺时而发，推刑德，随斗击，因五胜，假鬼神而为助者也。”唐颜师古注：“五胜，五行相胜也。” <br/>　　（7）　丁夫人　《汉书·郊祀志》载：武帝太初元年（104），西伐大宛，“丁夫人与雒阳虞初等以方祀诅匈奴、大宛焉。”唐韦昭注：“丁，姓；夫人，名也。”<br/>　　（8）　朱右曾　字尊鲁，清嘉定（今属上海）人。曾官贵州遵义知府。撰有《逸周书集训校释》、《左氏传解谊》等。 <br/>　　（9）　《说苑》　西汉刘向撰，《隋书·经籍志》著录二十卷。分类纂述春秋战国至秦汉间历史故事，杂以议论。《说苑杂事》，即《说苑》。《新序》，刘向撰，《隋书·经籍志》著录三十卷，内容体例与《说苑》相似。 <br/>　　（10）　务成子　见《荀子·大略篇》：“不学不成。尧学于君畴，舜学于务成昭，禹学于西王国。”《尸子》卷下引务成子教舜曰：“避天下之逆，从天下之顺，天下不足取也。”《尸子》，战国鲁国尸佼撰，《汉书·艺文志》著录二十篇，已散佚。今本《尸子》疑为魏晋时人依托补撰。 <br/>　　（11）　“明见侮之不辱，使人不斗”　语见《荀子·正论》。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-552-7538.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-552-7540.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-552.html" action-type="chapterComment" class="comment"><i></i>中国小说史略章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

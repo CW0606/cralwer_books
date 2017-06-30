@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《花边文学》正文_点句的难_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="花边文学,花边文学原文,花边文学阅读,点句的难全文,鲁迅作品" />
+<meta name="description" content="花边文学原文阅读,点句的难全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-536-6786.html";
+var nextpage="novel-read-536-6788.html";
+var indexpage = "novel-chapter-536.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-536.html">花边文学</a></strong>
+<strong><a href="novel-chapter-536.html">花边文学目录</a></strong>
+<span>点句的难</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-536-6786.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>点句的难</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 21:17:18<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　 张沛<br/><br/>　　看了《袁中郎全集校勘记》（２），想到了几句不关重要的话，是：断句的难。<br/><br/>　　前清时代，一个塾师能够不查他的秘本，空手点完了“四书”，在乡下就要算一位大学者，这似乎有些可笑，但是很有道理的。常买旧书的人，有时会遇到一部书，开首加过句读，夹些破句，中途却停了笔：他点不下去了。这样的书，价钱可以比干净的本子便宜，但看起来也真教人不舒服。标点古书，印了出来，是起于“文学革命”时候的；用标点古文来试验学生，我记得好像是同时开始于北京大学，这真是恶作剧，使“莘莘学子”（３）闹出许多笑话来。这时候，只好一任那些反对白话，或并不反对白话而兼长古文的学者们讲风凉话。然而，学者们也要“技痒”的，有时就自己出手。一出手，可就有些糟了，有几句点不断，还有可原，但竟连极平常的句子也点了破句。<br/><br/>　　古文本来也常常不容易标点，譬如《孟子》里有一段，我们大概是这样读法的：“有冯妇者，善搏虎，卒为善士。则之野，有众逐虎。虎负胺，莫之敢撄。望见冯妇，趋而迎之。冯妇攘臂下车，众皆悦之，其为士者笑之。”但也有人说应该断为“卒为善，士则之，野有众逐虎……”的。（４）这“笑”他的“士”，就是先前“则”他的“士”，要不然，“其为士，就太鹘突了。但也很难决定究竟是那一面对。<br/><br/>　　不过倘使是调子有定的词曲，句子相对的骈文，或并不艰深的明人小品，标点者又是名人学士，还要闹出一些破句，可未免令人不遭蚊子叮，也要起疙瘩了。嘴里是白话怎么坏，古文怎么好，一动手，对古文就点了破句，而这古文又是他正在竭力表扬的古文。破句，不就是看不懂的分明的标记么？说好说坏，又从那里来的？<br/><br/>　　标点古文真是一种试金石，只消几点几圈，就把真颜色显出来了。<br/><br/>　　但这事还是不要多谈好，再谈下去，我怕不久会有更高的议论，说标点是“随波逐流”的玩意，有损“性灵”，（５）应该排斥的。<br/><br/>　　十月二日。<br/><br/>　<br/>===============================================================<br/><br/><br/>　　（１）本篇最初发表于一九三四年十月五日《中华日报·动向》。（２）《袁中郎全集校勘记》载于一九三四年十月二日《中华日报·动向》，署“袁大郎再校”，内容是指摘刘大杰标点、林语堂校阅、时代图书公司印行的《袁中郎全集》中的断句错误。（３）“莘莘学子”语出晋代潘尼《释奠颂》：“莘莘胄子，祁祁学生”。<br/><br/>　　（４）冯妇搏虎，见《孟子·尽心》。关于这段文字的断句，宋代刘昌诗《芦浦笔记·冯妇》中曾有这样的意见：“《孟子》‘晋人有冯妇者善搏虎卒为善士则之野有众逐虎’云云……至今读者，以‘卒为善士’为一句，‘则之野’为一句。以余味其言，则恐合以‘卒为善’为一句，‘士则之’为一句，‘野有众逐虎’为一句。盖其有搏虎之勇，而卒能为善，故士以为则；及其不知止，则士以为笑。‘野有众逐虎’句意亦健，何必谓之野外，而后云攘臂也。”<br/><br/>　　（５）这是对林语堂的讽刺。林在《人间世》第十二期（一九三四年九月）《辜鸿铭特辑·辑者弁言》中，说过：“今日随波逐流之人太多，这班人才不值得研究”的话。“性灵”，是当时林语堂提倡的一种文学主张。他在《论语》第十五期（一九三三年四月十六日）发表的《论文》一文中说：“文章者，个人性灵之表现。性灵之为物，惟我知之，生我之父母不知，同床之吾妻亦不知。然文学之生命实寄托于此。” </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-536-6786.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-536-6788.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-536.html" action-type="chapterComment" class="comment"><i></i>花边文学章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

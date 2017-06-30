@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孔子家语》正文_刑政_王肃作品 - 维普阅读网</title>
+<meta name="keywords" content="孔子家语,孔子家语原文,孔子家语阅读,刑政全文,王肃作品" />
+<meta name="description" content="孔子家语原文阅读,刑政全文在线阅读,王肃作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-349-5196.html";
+var nextpage="novel-read-349-5198.html";
+var indexpage = "novel-chapter-349.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-349.html">孔子家语</a></strong>
+<strong><a href="novel-chapter-349.html">孔子家语目录</a></strong>
+<span>刑政</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-349-5196.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>刑政</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王肃&amp;searchsubmit=yes"  target="_blank">王肃</a><span class="divide">|</span>发布时间：2014-09-05 21:47:05<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>仲弓问于孔子曰：“雍闻至刑无所用政，至政无所用刑。至刑无所用政，桀纣之世是也；至政无所用刑，成康之世是也。信乎？”孔子曰：“圣人之治化也，必刑政相参焉，太上以德教民，而以礼齐之。其次以政焉导民，以刑禁之，刑不刑也。化之弗变，导之弗从，伤义以败俗，于是乎用刑矣。颛五刑必即天伦。即就也就天伦谓合天意行刑罚则轻无赦，行刑罚之官虽轻犹不得作威作福刑侀也，侀成也，壹成而不可更，故君子尽心焉。”更古行反仲弓曰：“古之听讼尤罚丽于事，不以其心，可得闻乎？”尤过也丽附也怪遇人罚之必以事相当而不与其心也孔子曰：“凡听五刑之讼，必原父子之情，立君臣之义以权之，意论轻重之序，慎测浅深之量以别之，别彼列反悉其聪明，正其忠爱以尽之。大司寇正刑明辟以察狱，狱必三讯焉，一曰讯群臣二曰讯群吏三曰讯万民也有指无简，则不听也，简诚也有意无其诚者不论以为罪也附从轻，赦从重，附人之罪以轻为比赦人之罪以重为比疑狱则泛与众共之，疑则赦之，皆以小大之比成也。比毗志反是故爵人必于朝，与众共之也，刑人必于市，与众弃之也。古者公家不畜刑人，大夫弗养也，士遇之涂，以弗与之言，屏诸四方，唯其所之，不及与政，弗欲生之也。”仲弓曰：“听狱，狱之成成何官？”孔子曰：“成狱成于吏，吏以狱成告于正，吏狱官吏正狱官长正既听之，乃告大司寇听之，乃奉于王，王命三公卿士参听棘木之下，外朝法左九棘孤卿大夫位焉右九棘公侯伯子男位焉面三槐三公位然后乃以狱之成疑于王，王三宥之以听命，君王尚宽宥罪虽以定犹三宥之不可得轻然后刑之者也而制刑焉，所以重之也。”仲弓曰：“其禁何禁？”孔子曰：“巧言破律，巧卖法令者也遁名改作，变言与物名也执左道与乱政者杀；左道乱也作淫声，淫逆也惑乱人之声造异服，非所常见设伎奇器，以荡上心者杀；怪异之伎可以眩曜人心之器荡动行伪而坚，行诈伪而守之坚也。行下孟反言诈而辩，学非而博，顺非而泽，顺其非而滑泽以惑众者杀；假于鬼神，时日卜筮，以疑众者杀。此四诛者不以听。”不听棘木之下仲弓曰：“其禁尽于此而已？”孔子曰：“此其急者，其余禁者十有四焉。命服命车，不粥于市；粥卖。粥余六反圭璋璧琮，不粥于市；宗庙之器，不粥于市；兵车旍旗，不粥于市；牺牲秬鬯，不粥于市；戎器兵甲，不粥于市；用器不中度，中陟仲反不粥于市；布帛精麤，不中数，广狭不中量，不粥于市；奸色乱正色，不粥于市；文锦珠玉之器，雕饰靡丽，不粥于市；衣服饮食，不粥于市；卖成衣服非侈必伪故禁之禁卖熟食所以厉取也？实不时，不粥于市；五木不中伐，不粥于市；鸟兽鱼鳖不中杀，不粥于市。凡执此禁以齐众者，不赦过也。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-349-5196.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-349-5198.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-349.html" action-type="chapterComment" class="comment"><i></i>孔子家语章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

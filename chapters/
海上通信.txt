@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《华盖集续编的续编》正文_海上通信_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="华盖集续编的续编,华盖集续编的续编原文,华盖集续编的续编阅读,海上通信全文,鲁迅作品" />
+<meta name="description" content="华盖集续编的续编原文阅读,海上通信全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-539-6902.html";
+var nextpage="novel-chapter-539.html";
+var indexpage = "novel-chapter-539.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-539.html">华盖集续编的续编</a></strong>
+<strong><a href="novel-chapter-539.html">华盖集续编的续编目录</a></strong>
+<span>海上通信</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-539-6902.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>海上通信</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-29 23:12:06<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>小峰兄： <br/>　　前几天得到来信，因为忙于结束我所担任的事，所以不能即刻奉答。现在总算离开厦门坐在船上了。船正在走，也不知道是在什么海上。总之一面是一望汪洋，一面却看见岛屿。但毫无风涛，就如坐在长江的船上一般。小小的颠簸自然是有的，不过这在海上就算不得颠簸；陆上的风涛要比这险恶得多。 <br/>　　同舱的一个是台湾人，他能说厦门话，我不懂；我说的蓝青官话（2），他不懂。他也能说几句日本话，但是，我也不大懂得他。于是乎只好笔谈，才知道他是丝绸商。我于丝绸一无所知，他于丝绸之外似乎也毫无意见。于是乎他只得睡觉，我就独霸了电灯写信了。 <br/>　　从上月起，我本在搜集材料，想趁寒假的闲空，给《唐宋传奇集》（3）做一篇后记，准备付印，不料现在又只得搁起来。 <br/>　　至于《野草》，此后做不做很难说，大约是不见得再做了，省得人来谬托知己，舐皮论骨，什么是“入于心”的。 <br/>　　（4）但要付印，也还须细看一遍，改正错字，颇费一点工夫。因此一时也不能寄上。 <br/>　　我直到十五日才上船，因为先是等上月份的薪水，后来是等船。在最后的一星期中，住着实在很为难，但也更懂了一些新的世故，就是，我先前只以为要饭碗不容易，现在才知道不要饭碗也是不容易的。我辞职时，是说自己生病，因为我觉得无论怎样的暴主，还不至于禁止生病；倘使所生的并非气厥病，也不至于牵连了别人。不料一部分的青年不相信，给我开了几次送别会，演说，照相，大抵是逾量的优礼，我知道有些不妥了，连连说明：我是戴着“纸糊的假冠”的，请他们不要惜别，请他们不要忆念。但是，不知怎地终于发生了改良学校运动，首先提出的是要求校长罢免大学秘书刘树杞（5）博士。 <br/>　　听说三年前，这里也有一回相类的风潮，结果是学生完全失败，在上海分立了一个大夏大学。（6）那时校长如何自卫，我不得而知；这回是说我的辞职，和刘博士无干，乃是胡适之派和鲁迅派相排挤，所以走掉的。这话就登在鼓浪屿的日报《民钟》上，并且已经加以驳斥。但有几位同事还大大地紧张起来，开会提出质问；而校长却答复得很干脆：没有说这话。有的还不放心，更给我放散别种的谣言（7），要减轻“排挤说”的势力。真是“天下纷纷，何时定乎？”（8）如果我安心在厦门大学吃饭，或者没有这些事的罢，然而这是我所意料不到的。 <br/>　　校长林文庆（9）博士是英国籍的中国人，开口闭口，不离孔子，曾经做过一本讲孔教的书，可惜名目我忘记了。听说还有一本英文的自传，将在商务印书馆出版；现在正做着《人种问题》。他待我实在是很隆重，请我吃过几回饭；单是饯行，就有两回。不过现在“排挤说”倒衰退了；前天所听到的是他在宣传，我到厦门，原是来捣乱，并非豫备在厦门教书的，所以北京的位置都没有辞掉。 <br/>　　现在我没有到北京，“位置说”大概又要衰退了罢，新说如何，可惜我已在船上，不得而知。据我的意料，罪孽一定是日见其深重的，因为中国向来就是“当面输心背面笑”（10），正不必“新的时代”的青年（11）才这样。对面是“吾师”和“先生”，背后是毒药和暗箭，领教了已经不只两三次了。 <br/>　　新近还听到我的一件罪案，是关于集美学校（12）的。厦门大学和集美学校，都是秘密世界，外人大抵不大知道。现在因为反对校长，闹了风潮了。先前，那校长叶渊（13）定要请国学院里的人们去演说，于是分为六组，每星期一组，凡两人。 <br/>　　第一次是我和语堂。那招待法也很隆重，前一夜就有秘书来迎接。此公和我谈起，校长的意思是以为学生应该专门埋头读书的。我就说，那么我却以为也应该留心世事，和校长的尊意正相反，不如不去的好罢。他却道不妨，也可以说说。于是第二天去了，校长实在沉鸷得很，殷勤劝我吃饭。我却一面吃，一面愁。心里想，先给我演说就好了，听得讨厌，就可以不请我吃饭；现在饭已下肚，倘使说话有背谬之处，适足以加重罪孽，如何是好呢。午后讲演，我说的是照例的聪明人不能做事，因为他想来想去，终于什么也做不成等类的话。那时校长坐在我背后，我看不见。直到前几天，才听说这位叶渊校长也说集美学校的闹风潮，都是我不好，对青年人说话，那里可以说人是不必想来想去的呢。当我说到这里的时候，他还在后面摇摇头。 <br/>　　我的处世，自以为退让得尽够了，人家在办报，我决不自行去投稿；人家在开会，我决不自己去演说。硬要我去，自然也可以的，但须任凭我说一点我所要说的话，否则，我宁可一声不响，算是死尸。但这里却必须我开口说话，而话又须合于校长之意。我不是别人，那知道别人的意思呢？“先意承志”（14）的妙法，又未曾学过。其被摇头，实活该也。 <br/>　　但从去年以来，我居然大大地变坏，或者是进步了。虽或受着各方面的斫刺，似乎已经没有创伤，或者不再觉得痛楚；即使加我罪案，也并不觉着一点沉重了。这是我经历了许多旧的和新的世故之后，才获得的。我已经管不得许多，只好从退让到无可退避之地，进而和他们冲突，蔑视他们，并且蔑视他们的蔑视了。 <br/>　　我的信要就此收场。海上的月色是这样皎洁；波面映出一大片银鳞，闪烁摇动；此外是碧玉一般的海水，看去仿佛很温柔。我不信这样的东西是会淹死人的。但是，请你放心，这是笑话，不要疑心我要跳海了，我还毫没有跳海的意思。 <br/>　　鲁迅。一月十六夜，海上。 <br/><br/>　　　　　<br/>===============================================================<br/><br/>　　（1）本篇最初发表于一九二七年二月十二日《语丝》周刊第一一八期。 <br/>　　（2）蓝青官话　指夹杂地区性方言的普通话。蓝青，比喻不纯粹。 <br/>　　（3）《唐宋传奇集》　鲁迅校录的唐宋传奇小说，一九二七年十二月上海北新书局出版。 <br/>　　（4）这里指高长虹。他在《狂飙》第五期（一九二六年十一月）发表的《1925北京出版界形势指掌图》内曾说：“当我在《语丝》第三期看见《野草》第一篇《秋夜》的时候，我既惊异而又幻想。惊异者，以鲁迅向来没有过这样文字也。幻想者，此入于心的历史，无人证实，置之不谈。” <br/>　　（5）刘树杞　字楚青，湖北新埔人，美国哥伦比亚大学化学博士，时任厦门大学秘书兼理科主任。当时，厦大国学研究院暂借生物学院三楼作为国学院图书或古物的陈列所，刘树杞曾授意别人讨还房子。以后，鲁迅辞职，有人以为是被刘树杞排挤走的，因而发生了“驱逐刘树杞”，“重建新厦大”的风潮。其实，鲁迅主要是因为对厦门大学当局不满而辞职的。 <br/>　　（6）一九二四年四月，厦门大学学生对校长林文庆不满，开会拟作出要求校长辞职的决议，因部分学生反对而作罢。林文庆为此开除为首学生，解聘教育科主任等九人，从而引起学潮。林又拒绝学生的任何合理要求，并于六月一日指使、诱骗部分建筑工人凶殴学生，继又下令提前放暑假，限令学生五日离校，届时即停膳、停电、停水。当时，厦门市的保守反动势力也都支持林文庆，学生被迫宣布集体离校，在被解聘教职员帮助下，他们到上海共同筹建了大夏大学。 <br/>　　（7）“别种的谣言”　指黄坚（白果）等人散布的谣言。如说鲁迅“不肯留居厦门，乃为月亮（按指许广平）不在之故”（见《两地书·一一二》）等。黄坚，字振玉，江西清江县人，曾任北京女子师范大学职员。当时，经顾颉刚推荐任厦门大学国学研究院陈列部干事，兼文科主任办公室襄理。 <br/>　　（8）“天下纷纷，何时定乎？”　语见《史记·陈丞相世家》。 <br/>　　（9）林文庆（1869—1957）　字梦琴，福建海澄人，英国爱丁堡大学医学硕士，香港大学荣誉医学博士。当时任厦门大学校长兼国学研究院院长。 <br/>　　（10）“当面输心背面笑”　语见唐代诗人杜甫的《莫相疑行》一诗：“晚将末契托年少，当面输心背面笑。” <br/>　　（11）“新的时代”的青年　指高长虹。他在《狂飙》周刊第二期（一九二六年十月）给鲁迅的公开信中说到《狂飙》周刊时，曾吹嘘说：“这次发刊，我们决意想群策群力开创一新的时代。” <br/>　　（12）集美学校　爱国华侨陈嘉庚一九一三年在他家乡厦门市集美镇创办。初为小学，以后陆续增办中学、师范部等。 <br/>　　（13）叶渊　字采真，福建安溪人，北京大学经济系毕业。 <br/>　　（14）“先意承志”　语见《礼记·祭义》，是孔丘弟子曾参论孝的话。意思是揣测别人的意志而于事先便去逢迎。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-539-6902.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-539.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-539.html" action-type="chapterComment" class="comment"><i></i>华盖集续编的续编章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《情诗》正文_情诗_曹植作品 - 维普阅读网</title>
+<meta name="keywords" content="情诗,情诗原文,情诗阅读,情诗全文,曹植作品" />
+<meta name="description" content="情诗原文阅读,情诗全文在线阅读,曹植作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-500.html";
+var nextpage="novel-chapter-500.html";
+var indexpage = "novel-chapter-500.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-500.html">情诗</a></strong>
+<strong><a href="novel-chapter-500.html">情诗目录</a></strong>
+<span>情诗</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-500.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>情诗</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=曹植&amp;searchsubmit=yes"  target="_blank">曹植</a><span class="divide">|</span>发布时间：2014-09-18 21:05:13<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/><br/>　　微阴翳阳景，清风飘我衣。<br/><br/>　　游鱼潜绿水，翔鸟薄天飞。<br/><br/>　　眇眇客行士，遥役不得归。<br/><br/>　　始出严霜结，今来白露晞。<br/><br/>　　游子叹《黍离》，处者歌《式微》。<br/><br/>　　慷慨对嘉宾，凄怆内伤悲。<br/><br/>【赏析】<br/><br/>　　《情诗》在《玉台新咏》中题为《杂诗》，今从《文选》。诗人因景感怀，发为浩叹。在微阴蔽日，一年容易又秋风的季节转换中，自然界万物各得其所，鱼鸟安然游翔之景，引发出役夫久戍他乡，有家难归的联想。曹植生活在战乱频繁的时代，对民生疾苦有一定的了解和体察。诗中“游者”、“处者”两句，运用典故，映照出时代的动荡，男女之怨旷。游者，指役夫。《黍离》，指《诗经. 王风.黍离》篇，是一首哀伤宗周覆灭诗。这里取其感伤乱离、行役不已的意思。处者，指役夫家中的亲人。《式微》，指《诗经.邶风.式微》篇。旧说是黎国诸侯被狄人所逐，寄居卫国，臣子劝归之作。这里取其劝归之意。通过典故的运用，将历史与现实交织在一起，深化了人民在封建徭役制度重压下痛苦不安的悲剧间蕴，正如唐人王昌岭《从军行》叹当时边关征戍不断时所咏：“秦时明月汉时关，万里长征人未还。”由秦汉联想到唐代征戍之事，一处深沉的历史感油然而生。诗人悲天悯人式的同情心，不言而喻。<br/>　　这首诗造语自然精妙，音节流美铿锵，意象生动传神，触目所感，情与景会。诗中“游鱼潜渌水，翔鸟薄天飞”两句，色彩鲜明，境界开阔，用词精警，意象飞动，是历代读者激赏的名句。鱼、鸟形象的捕捉，渌水蓝天的空间幅度，鱼“潜”鸟“薄”静动映衬，在诗意的提炼上都达到了自然凑泊、了无痕迹的境界。鱼儿安然地潜游于渌水之中，鸟儿自由地翱翔于九霄之外，安然无惊、自由畅朗的图景，不但反衬出身不由己的役夫的可悲命运，同时也是作者处在动辄得咎的政治逆境身心备受压抑中对自由、解放的热切憧憬。“潜”、“薄”二字，最见作者炼字、炼意的用心。“潜”字属平声闭口韵，声音轻细，切合表现游鱼安然不惊的神态；“薄”字属入声，声音短促而有力，状翔鸟高飞蓝天的快意，神采顿见，其“飞飞摩苍天”的气势，如在眼前。这两个动词的妙用，充分显示出诗人敏锐的观察力及其精湛准确的艺术表现力，堪称“诗眼”。尤为值得注意的是，这两句与尔后“始出严霜结，今来白露晞”两句，平仄声律和谐妥贴，文字对仗工整自然，暗合了律诗粘对、对仗的规则，不但见出这位才思敏锐，才华富赡的诗人在斟音酌句上的努力，和他对提高诗歌艺术表现力的贡献，同时也透露出中国古典诗歌由古体向新体、近体诗演进的讯息。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-500.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-500.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-500.html" action-type="chapterComment" class="comment"><i></i>情诗章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

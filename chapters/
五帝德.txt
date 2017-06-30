@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孔子家语》正文_五帝德_王肃作品 - 维普阅读网</title>
+<meta name="keywords" content="孔子家语,孔子家语原文,孔子家语阅读,五帝德全文,王肃作品" />
+<meta name="description" content="孔子家语原文阅读,五帝德全文在线阅读,王肃作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-349-5188.html";
+var nextpage="novel-read-349-5190.html";
+var indexpage = "novel-chapter-349.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-349.html">孔子家语</a></strong>
+<strong><a href="novel-chapter-349.html">孔子家语目录</a></strong>
+<span>五帝德</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-349-5188.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>五帝德</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王肃&amp;searchsubmit=yes"  target="_blank">王肃</a><span class="divide">|</span>发布时间：2014-09-05 21:44:32<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>宰我问于孔子曰：“昔者吾闻诸荣伊曰：‘黄帝三百年。’请问黄帝者，人也，抑非人也，何以能至三百年乎？”孔子曰：“禹汤文武周公，不可胜以观也，而上世黄帝之问，将谓先生难言之故乎。”言禹汤已下不可胜观乃问上世黄帝将为先生长老难言之故问宰我曰：“上世之传，隐微之说，卒采之辩，采事也辩说也卒终也其事之说也闇忽之意，闇忽友远不明非君子之道者，则予之问也固矣。”固陋不得其问孔子曰：“可也，吾略闻其说。黄帝者，少昊之子，曰轩辕，生而神灵，弱而能言，幼齐叡，庄敦敏诚信，长聪明，治五气，五行之气设五量，五量权衡升斛尺丈里步十百抚万民，度四方，商度四方而无安定服牛乘马，扰驯猛兽，以与炎帝战于阪泉之野，炎帝神农氏之后也三战而后克之。始垂衣裳，作为黼黻，白与黑谓之黼若斧文黑与青谓之黻若两已相戾治民以顺天地之纪，知幽明之故，达生死存亡之说，播时百谷，时是尝味草木，仁厚及于鸟兽昆虫，考日月星辰，劳耳目，勤心力，用水火财物以生民。民赖其利，百年而死；民畏其神，百年而亡；民用其教，百年而移，故曰黄帝三百年。”<br/>　　宰我曰：“请问帝颛顼。”孔子曰：“五帝用说，三王有度，五帝久远故用说也三王迩则有成法度汝欲一日遍闻远古之说，躁哉予也。”宰我曰：“昔予也闻诸夫子曰：‘小子毋或宿。’故敢问。”有所问当问勿令更宿也<br/>　　孔子曰：“颛顼，黄帝之孙，昌意之子，曰高阳，渊而有谋，疏通以知远，养财以任地，履时以象天，依鬼神而制义，治气性以教众，洁诚以祭祀，巡四海以宁民，北至幽陵，南暨交趾，西抵流沙，东极蟠木，动静之神，小大之物，日月所照，莫不底属。”底平四远皆平而来服属之也宰我曰：“请问帝喾。”孔子曰：“玄枵之孙，乔极之子，曰高辛，生而神异，自言其名，博施厚利，不于其身，聪以知远，明以察微，仁以威，惠而信，以顺天地之义，知民所急，修身而天下服，取地之财而节用焉，抚教万民而诲利之，历日月之生朔而迎送之，明鬼神而敬事之，其色也和，其德也重，其动也时，其服也哀，春夏秋冬育护天下，日月所照，风雨所至，莫不从化。”<br/>　　宰我曰：“请问帝尧。”孔子曰：“高辛氏之子，曰陶唐，其仁如天，其智如神，就之如日，望之如云，富而不骄，贵而能降，伯夷典礼，夔龙典乐，舜时夔典乐龙作纳言然则尧时龙亦典乐者也舜时而仕，趋视四时，务元民始之，务先民事以为始也流四凶而天下服，其言不忒，其德不回，四海之内，舟舆所及，莫不夷说。”夷平心说古通以为悦字<br/>　　宰我曰：“请问帝舜。”孔子曰：“乔牛之孙，瞽瞍之子也，曰有虞，舜孝友闻于四方，陶渔事亲，为陶器躬捕鱼以养父母宽裕而温良，敦敏而知时，畏天而爱民，恤远而亲近，承受大命，依于二女，尧妻舜以二女舜动静谋之于二女叡明智通，为天下帝，命二十二臣率尧旧职，躬己而已，天平地成，巡狩四海，五载一始，三十年在位，嗣帝五十载，陟方岳，死于苍梧之野而葬焉。”宰我曰：“请问禹。”孔子曰：“高阳之孙，鲧之子也，曰夏后，敏给克齐，其德不爽，爽忒其仁可亲，其吾可信，声为律，身为度，以身为法度也亹亹穆穆，为纪为纲，其功为百神之主，禹治水天下既平然后百神得其所其惠为民父母，左准绳，右规矩，左右言常用也履四时，所行不违四时之宜据四海，任皋繇伯益，以赞其治，兴六师以征不序，四极之民，莫敢不服。”孔子曰：“予大者如天，小者如言，民悦至矣，予也，非其人也。”言不足以明五帝之德也宰我曰：“予也不足以戒，敬承矣。”他日，宰我以语子贡，子贡以复孔子，子曰：“吾欲以颜状取人也，则于灭明改矣；吾欲以言辞取人也，则于宰我改之矣；吾欲以容貌取人也，则于子张改之矣。”宰我闻之，惧，弗敢见焉。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-349-5188.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-349-5190.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-349.html" action-type="chapterComment" class="comment"><i></i>孔子家语章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

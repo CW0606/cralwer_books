@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《黄帝内经》正文_第六十八篇 上膈_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="黄帝内经,黄帝内经原文,黄帝内经阅读,第六十八篇 上膈全文,佚名作品" />
+<meta name="description" content="黄帝内经原文阅读,第六十八篇 上膈全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-58-1907.html";
+var nextpage="novel-read-58-1909.html";
+var indexpage = "novel-chapter-58.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-58.html">黄帝内经</a></strong>
+<strong><a href="novel-chapter-58.html">黄帝内经目录</a></strong>
+<span>第六十八篇 上膈</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-58-1907.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第六十八篇 上膈</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-07-29 22:31:41<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【题解】上，是逆而上行，膈，为饮食不下。主要论述了膈食证的病因、病理、证候表现和治疗方法，因文章以&quot;气为上膈&quot;名篇，所以名为&quot;上膈&quot;。<br/>　　【原文】董帝日气为上膈[1]者．食饮入而还出余已知之矣；虫为下膈，下膈者，食啐时乃出[2]，余未得其意，愿卒闻之。岐伯日喜怒不适，食饮不节，寒温不时，则寒汁流于肠中，流于肠中则虫寒，虫寒则积聚，守于下管，则肠胃充廓，卫气不营，邪气居之。人食则虫上食，虫上食则下管虚，下管虚则邪气胜之，积聚以留，留则痈成，痈成则下管约。其痈在管内者，即而痛深；其痈在外者，则痈外而痛浮，痈上皮热。<br/>　　黄帝日刺之奈何?岐伯日微按其痈，视气所行[3]，先浅刺其傍，稍内益深，还而刺之，毋过三行，察其浮沉，以为浅深，已刺必熨，令热入中，日使热内，邪气益衰，大痈乃溃。伍以参禁，以除其内；恬儋无为，乃能行气。后以咸苦，化谷乃下矣。<br/>　　【提要】本段主要从上膈证引申到下膈证，论述了膈食的病因、病理、证候表现和治疗方法。<br/>　　【注释】[1]上膈古代病证名称，是指因气机郁结在上脘所形成的食后即吐的病证。<br/>　　[2]食啐时乃出啐，音醉，一周时。即饮食一昼夜后仍复吐出。<br/>　　[3]视气所行即通过按诊观察病气发展的动向。<br/>　　【白话解】黄帝问因为气机郁结在上，形成食后即吐的上膈证，我已经知道了。至于因虫积在下所形成的下膈证，食后经过一天左右才吐出，我还不甚了解其中的道理，希望你详尽地给我讲讲。岐伯答道因为不能很好地调节情志活动，饮食没有节制，不能适应气候的寒温变化，使脾胃运化失常，寒湿流注肠道之中，肠道中的寄生虫因寒冷而集结在一起，虫聚积在下脘，肠胃扩张，卫气不能正常营运，邪气也稽留在这里。进餐时，寄生虫闻到气味，便上行觅食，使下脘空虚，邪气就乘虚侵入，稽留日久而形成痈肿。内部痈肿使得肠管狭窄而传化不利，所以食后经过一天的时间，仍会吐出。如果痈肿发生在下脘里边，疼痛的部位较深，痈肿发生在下脘外面，疼痛的部位较浅，同时，在发生痈的部位皮肤发热。<br/>　　黄帝问怎样用针刺治疗呢?岐伯答道针刺的方法是，应当用手轻轻地按摩痈肿的部位，以观察痈肿部位的大小和病气发展的动向。先浅刺痈肿周边，再逐渐深刺。如此反复行针但不要超过三次。进针的深浅，要根据病位的深度来决定。针刺后须加用熨法，使热气直达体内。只要使阳气日渐温通，邪气日趋衰退，内痈也就逐渐消溃了。在治疗的同时，还要配合适当的护理，清心寡欲，使元气得以恢复。然后可服用咸苦的药物，以软坚化积，使食物得以消化而向下传输。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-58-1907.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-58-1909.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-58.html" action-type="chapterComment" class="comment"><i></i>黄帝内经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

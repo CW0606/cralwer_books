@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《宣室志》正文_唐休璟门僧_张读作品 - 维普阅读网</title>
+<meta name="keywords" content="宣室志,宣室志原文,宣室志阅读,唐休璟门僧全文,张读作品" />
+<meta name="description" content="宣室志原文阅读,唐休璟门僧全文在线阅读,张读作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1029-10504.html";
+var nextpage="novel-read-1029-10506.html";
+var indexpage = "novel-chapter-1029.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1029.html">宣室志</a></strong>
+<strong><a href="novel-chapter-1029.html">宣室志目录</a></strong>
+<span>唐休璟门僧</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1029-10504.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>唐休璟门僧</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-18.html" target="blank">古典小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=张读&amp;searchsubmit=yes"  target="_blank">张读</a><span class="divide">|</span>发布时间：2014-11-27 20:40:42<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　唐中宗时，唐公休璟为相。尝有一僧，发言多中，好为厌胜之术。休璟甚敬之。一日僧来，谓休璟曰：“相国将有大祸，且不远数月，然可以禳去。”休璟惧甚，即拜之。僧曰；“某无他术，但奉一计耳，愿听之。”休璟曰：“幸吾师教焉。”僧曰：“且天下郡守，非相国命之乎？”曰：“然。”僧曰：“相国当于卑冗官中访一孤寒家贫有才干者，使为曹州刺史，其深感相国恩，而可以指踪也。既得之，原以报某。”休璟且喜且谢，遂访于亲友。张君者，家甚贫，为京卑官，即日拜替善大夫。又旬日，用为曹州刺史。既而召僧谓曰：“已从师之计，得张某矣。然则可教乎？”僧曰：“张君赴郡之时，当令求二犬，高数尺而神俊者。”休璟唯之。已而张君荷唐公特达之恩，然莫喻其旨，及将赴郡，告辞于休璟。既而谢之曰：“某名迹幽昧，才识疏浅。相国拔此沈滞，牧守大郡，由担石之储，获二千石之禄，自涸辍而泛东溟，出穷谷而陟层霄，德固厚矣。然而感恩之外，窃所忧惕者，未知相国之旨何哉？”休璟曰：“用君之才耳，非他也。然常闻贵郡多善犬，愿得神俊非常者二焉。”张君曰：“谨奉教。”既至郡数日，乃悉召郡吏，告之曰：“吾受丞相唐公深恩，拔于不次，得守大郡。今唐公求二良犬，可致之乎”。有一吏前曰：“某家育一犬，质状异常，愿献之。”张大喜，即献焉。既至，其犬高数尺而肥，其臆广尺余，神俊异常，而又驯扰。张君曰：“相国所求者二也，如何？”吏白曰：“郡内唯有此，他皆常也。然郡南十里某村某民家，其亦有一焉。民极惜之，非君侯亲往，不可取之。”张君即命驾。赍厚直而访之，果得焉。其状与吏所献者无异，而神彩过之。张君甚喜，即召亲吏以二犬献休璟。休璟大悦，且奇其状，以为未常见。遂召僧视之。僧曰：“善育之。脱相君之祸者，二犬耳。”<br/><br/>　　后旬日，其僧又至，谓休?曰：“事在今夕，愿相君严为之备。”休璟即留僧宿。是夜，休璟坐于堂之前轩，命左右十余人执弧矢立于榻之隅，其僧与休?共处一榻。至夜分，僧笑曰：“相君之祸免矣。可以就寝。”休璟大喜，且谢之。遂彻左右，与僧寝焉。迨晓，僧呼休璟：“可起矣。”休璟即起，谓僧曰：“祸诚免矣，然二犬安所用乎？”僧曰：“俱往观焉。”乃与休璟偕寻其迹，至后园中，见一人仆地而卒矣，视其颈有血，盖为物所噬者。又见二犬在大木下，仰视之，见一人袒而匿其上。休璟惊，且诘曰：“汝为谁？”其人泣而指死者曰：“某与彼俱贼也，昨夕偕来，且将致害相国。盖遇此二犬，环而且吠，彼遂为噬而死。某惧，因匿身于此，伺其他去，将逃焉。迨晓终不去。今即甘死于是矣。”休璟即召左右，令缚之。曰：“此罪固当死，然非其心也，盖受制于人耳。愿释之。”休璟命解缚，其贼拜泣而去。休璟谢其僧曰：“赖吾师，不然，死于二人之手。”僧曰：“此盖相国之福也，岂所能为哉。”<br/><br/>　　休璟有表弟卢轸，在荆门，有术士告之：“君将有灾戾，当求一善禳厌者为，庶可矣。”轸素知其僧，因致书于休璟，请求之。僧即以书付休璟曰：“事在其中耳。”及书达荆州，而轸已卒。其家开视其书，徒见一幅之纸，并无有文字焉。休璟益奇之。后数年，其僧遁去，竟不知其所适。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1029-10504.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1029-10506.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1029.html" action-type="chapterComment" class="comment"><i></i>宣室志章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

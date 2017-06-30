@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《花边文学》正文_读几本书_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="花边文学,花边文学原文,花边文学阅读,读几本书全文,鲁迅作品" />
+<meta name="description" content="花边文学原文阅读,读几本书全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-536-6787.html";
+var nextpage="novel-read-536-6789.html";
+var indexpage = "novel-chapter-536.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-536.html">花边文学</a></strong>
+<strong><a href="novel-chapter-536.html">花边文学目录</a></strong>
+<span>读几本书</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-536-6787.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>读几本书</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 21:17:29<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　邓当世<br/><br/>　　读死书会变成书呆子，甚至于成为书厨，早有人反对过了，时光不绝的进行，反读书的思潮也愈加彻底，于是有人来反对读任何一种书。他的根据是叔本华的老话，说是倘读别人的著作，不过是在自己的脑里给作者跑马。（２）这对于读死书的人们，确是一下当头棒，但为了与其探究，不如跳舞，或者空暴躁，瞎牢骚的天才起见，却也是一句值得绍介的金言。不过要明白：死抱住这句金言的天才，他的脑里却正被叔本华跑了一趟马，踏得一塌胡涂了。<br/><br/>　　现在是批评家在发牢骚，因为没有较好的作品；创作家也在发牢骚，因为没有正确的批评。张二说李四的作品是象征主义（３），于是李四也自以为是象征主义，读者当然更以为是象征主义。然而怎样是象征主义呢？向来就没有弄分明，只好就用李四的作品为证。所以中国之所谓象征主义，和别国之所谓Ｓｙｍｂｏｌｉｓｍ是不一样的，虽然前者其实是后者的译语，然而听说梅特林（４）是象征派的作家，于是李四就成为中国的梅特林了。此外中国的法朗士（５），中国的白璧德（６），中国的吉尔波丁（７），中国的高尔基（８）……还多得很。然而真的法朗士他们的作品的译本，在中国却少得很。莫非因为都有了“国货”的缘故吗？<br/><br/>　　在中国的文坛上，有几个国货文人的寿命也真太长；而洋货文人的可也真太短，姓名刚刚记熟，据说是已经过去了。易卜生（９）大有出全集之意，但至今不见第三本；柴霍甫（１０）和莫泊桑（１１）的选集，也似乎走了虎头蛇尾运。但在我们所深恶痛疾的日本，《吉诃德先生》和《一千一夜》是有全译的；沙士比亚，歌德，……都有全集；托尔斯泰的有三种，陀思妥也夫斯基的有两种。<br/><br/>　　读死书是害己，一开口就害人；但不读书也并不见得好。至少，譬如要批评托尔斯泰，则他的作品是必得看几本的。自然，现在是国难时期，那有工夫译这些书，看这些书呢，但我所提议的是向着只在暴躁和牢骚的大人物，并非对于正在赴难或“卧薪尝胆”的英雄。因为有些人物，是即使不读书，也不过玩着，并不去赴难的。<br/><br/>　　五月十四日。<br/><br/>　<br/>===============================================================<br/><br/><br/><br/>　　（１）本篇最初发表于一九三四年五月十八日《申报·自由谈》。（２）上海《人言》周刊第一卷第十期（一九三四年四月二十一日）载有胡雁的《谈读书》一文，先引叔本华“脑子里给别人跑马”的话，然后说“看过一本书，是让人跑过一次马，看的书越多，脑子便变成跑马场，处处是别人的马的跑道，……我想，书大可不必读。”按叔本华在《读书和书籍》等文中，反对读书，认为“读书时，我们的脑已非自己的活动地。这是别人的思想的战场了”，主张“由自己思想得来真理”。<br/><br/>　　（３）象征主义十九世纪末叶在法国兴起的颓废主义文艺思潮中的一个流派。它认为现实世界是虚幻的、痛苦的，而“另一世界”是真的、美的。要求用晦涩难解的语言和形象刺激感官，产生恍惚迷离的神秘联想，形成某种“意象”，即所谓“象征”，借以暗示这种虚幻的“另一世界”。<br/><br/>　　（４）梅特林（Ｍ．Ｍａｅｔｅｒｌｉｎｃｋ，１８６２—１９４９）通译梅特林克，比利时剧作家，象征主义戏剧的代表。主要作品有剧本《青鸟》等。（５）法朗士（Ａ．Ｆｒａｎｃｅ，１８４４—１９２４）法国作家。主要作品有长篇小说《波纳尔之罪》、《黛依丝》及《企鹅岛》等。（６）白璧德（Ｉ．Ｂａｂｂｉｔｔ，１８６５—１９３３）美国近代新人文主义运动的领导者之一。著有《新拉奥孔》、《卢梭与浪漫主义》、《民主和领导》等。<br/><br/>　　（７）吉尔波丁（Ｂ．Z．cJHdGRJ）苏联文艺批评家。著有《俄国马克思列宁主义的思想先驱》等。<br/><br/>　　（８）高尔基（Ｍ．eGHY\JS，１８６８—１９３６）苏联无产阶级作家≈饕�髌酚谐*篇小说《福玛·高尔捷耶夫》、《母亲》和自传体三部曲《童年》、《在人间》、《我的大学》等。<br/><br/>　　（９）易卜生（Ｈ．Ｉｂｓｅｎ，１８２８—１９０６）挪威剧作家。主要作品有《玩偶之家》、《国民公敌》、《群鬼》等。当时上海商务印书馆曾出版潘家洵译的《易卜生集》，只出两册。<br/><br/>　　（１０）柴霍甫（Ａ．f．gXhGY，１８６０—１９０４）通译契诃夫，俄国作家。主要作品有《三姊妹》、《樱桃园》等剧本和《变色龙》、《套中人》等大量的短篇小说。当时开明书店曾出版赵景深译的《柴霍甫短篇杰作集》八册。<br/><br/>　　（１１）莫泊桑（Ｇ．ｄｅ．Ｍａｕｐａｓｓａｎｔ，１８５０—１８９３）法国作家。主要作品有长篇小说《一生》、《漂亮的朋友》以及短篇小说《羊脂球》等。当时商务印书馆曾出版李青崖译的《莫泊桑短篇小说集》三册。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-536-6787.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-536-6789.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-536.html" action-type="chapterComment" class="comment"><i></i>花边文学章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

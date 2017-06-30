@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《论衡》正文_卷六·福虚篇_王充作品 - 维普阅读网</title>
+<meta name="keywords" content="论衡,论衡原文,论衡阅读,卷六·福虚篇全文,王充作品" />
+<meta name="description" content="论衡原文阅读,卷六·福虚篇全文在线阅读,王充作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-247-3818.html";
+var nextpage="novel-read-247-3820.html";
+var indexpage = "novel-chapter-247.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-247.html">论衡</a></strong>
+<strong><a href="novel-chapter-247.html">论衡目录</a></strong>
+<span>卷六·福虚篇</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-247-3818.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷六·福虚篇</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王充&amp;searchsubmit=yes"  target="_blank">王充</a><span class="divide">|</span>发布时间：2014-08-24 22:09:56<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>世论行善者福至，为恶者祸来。福祸之应，皆天也，人为之，天应之。阳恩，人君赏其行；阴惠，天地报其德。无贵贱贤愚，莫谓不然。徒见行事有其文传，又见善人时遇福，故遂信之，谓之实然。斯言或时贤圣欲劝人为善，著必然之语，以明德报；或福时适遇者以为然。如实论之，安得福佑乎？<br/><br/>　　禁惠王食寒菹而得蛭，因遂吞之，腹有疾而不能食。令尹问：“王安得此疾也？”王曰：“我食寒菹而得蛭，念谴之而不行其罪乎？是废法而威不立也，非所以使国人闻之也；谴而行诛乎？则庖厨监食者法皆当死，心又不忍也。吾恐左右见之也，因遂吞之。”令尹避席再拜而贺曰：“臣闻天道无亲，唯德是辅。王有仁德，天之所奉也，病不为伤。”是夕也，惠王之後而蛭出，及久患心腹之积皆愈。故天之亲德也，可谓不察乎！曰：此虚言也。案惠王之吞蛭，不肖之主也。有不肖之行，天不佑也。何则？惠王不忍谴蛭，恐庖厨监食法皆诛也。一国之君，专擅赏罚；而赦，人君所为也。惠王通谴菹中何故有蛭，庖厨监食皆当伏法。然能终不以饮食行诛於人，赦而不罪，惠莫大焉。庖厨罪觉而不诛，自新而改後。惠王赦细而活微，身安不病。今则不然，强食害己之物，使监食之臣不闻其过，失御下之威，无御非之心，不肖一也。使庖厨监食失甘苦之和，若尘土落於菹中，大如虮虱，非意所能览，非目所能见，原心定罪，不明其过，可谓惠矣。今蛭广有分数，长有寸度，在寒菹中，眇目之人犹将见之，臣不畏敬，择濯不谨，罪过至重。惠王不谴，不肖二也。菹中不当有蛭，不食投地；如恐左右之见，怀屏隐匿之处，足以使蛭不见，何必食之？如不可食之物，误在菹中，可复隐匿而强食之，不肖三也。有不肖之行，而天佑之，是天报佑不肖人也。不忍谴蛭，世谓之贤。贤者操行，多若吞蛭之类。吞蛭天除其病，是则贤者常无病也。贤者德薄，未足以言。圣人纯道，操行少非，为推不忍之行，以容人之过。必众多矣。然而武王不豫，孔子疾病，天之佑人，何不实也？或时惠王吞蛭，蛭偶自出。食生物者无有不死，腹中热也。初吞时蛭〕未死，而腹中热，蛭动作，故腹中痛。须臾，蛭死腹中，痛亦止。蛭之性食血，惠王心腹之积，殆积血也。故食血之虫死，而积血之病愈。犹狸之性食鼠，人有鼠病，吞狸自愈。物类相胜，方药相使也。食蛭虫而病愈，安得怪乎？食生物无不死，死无不出，之後蛭出，安得佑乎？令尹见惠王有不忍之德，知蛭入腹中必当死出，因再拜，病贺不为伤。著已知来之德，以喜惠王之心，是与子韦之言星徙、太卜之言地动无以异也。<br/><br/>　　宋人有好善行者，三世不改，家无故黑牛生白犊。以问孔子，孔子曰：“此吉祥也，以享鬼神。”即以犊祭。一年，其父无故而盲。牛又生白犊。其父又使其子问孔子，孔子曰：“吉祥也，以享鬼神。”复以犊祭。一年，其子无故而盲。其後楚攻宋，围其城。当此之时，易子而食之，析骸而炊之。此独以父子俱盲之故，得毋乘城。军罢围解，父子俱视。此修善积行神报之效也。曰：此虚言也。夫宋人父子修善如此，神报之，何必使之先盲後视哉？不盲常视，不能护乎？此神不能护不盲之人，则亦不能以盲护人矣。使宋、楚之君合战顿兵，流血僵尸，战夫禽获，死亡不还。以盲之故，得脱不行，可谓神报之矣。今宋、楚相攻，两军未合，华元、子反结言而退，二军之众，并全而归，兵矢之刃无顿用者。虽有乘城之役，无死亡之患。为善人报者，为乘城之间乎？使时不盲，亦犹不死。盲与不盲，俱得脱免，神使之盲，何益於善！当宋国乏粮之时也，盲人之家，岂独富哉？俱与乘城之家易子　骸，反以穷厄独盲无见，则神报佑人，失善恶之实也。宋人父子前偶自以风寒发盲，围解之後，盲偶自愈。世见父子修善，又用二白犊祭，宋、楚相攻独不乘城，围解之後父子皆视，则谓修善之报、获鬼神之佑矣。<br/><br/>　　楚相孙叔敖为兒之时，见两头蛇，杀而埋之，归，对其母泣。母问其故，对曰：“我闻见两头蛇死。向者，出见两头蛇，恐去母死，是以泣也。”其母日： “今蛇何在？”对日：“我恐後人见之，即杀而埋之。”其母日：“吾闻有阴德者，天必报之。汝必不死，天必报汝。”叔敖竟不死，遂为楚相。埋一蛇，获二佑，天报善明矣。曰：此虚言矣。夫见两头蛇辄死者，俗言也；有阴德天报之福者，俗议也。叔敖信俗言而埋蛇，其母信俗议而必报，是谓死生无命，在一蛇之死。齐孟尝君田文以五月五日生，其父田婴让其母曰：“何故举之？”曰：“君所以不举五月子，何也？”婴曰：“五月子长与户同，杀其父母。”曰：“人命在天乎？在户乎？如在天，君何忧也；如在户，则宜高其户耳，谁而及之者！” 後文长与一户同，而婴不死。是则五月举子之忌，无效验也。夫恶见两头蛇，犹五月举子也。五月举子，其父不死，则知见两头蛇者，无殃祸也。由此言之，见两头蛇自不死，非埋之故也。埋一蛇，获二福，如埋十蛇，得几佑乎？埋蛇恶人复见，叔敖贤也。贤者之行，岂徒埋蛇一事哉？前埋蛇之时，多所行矣。禀天善性，动有贤行。贤行之人，宜见吉物，无为乃见杀人之蛇。岂叔敖未见蛇之时有恶，天欲杀之，见其埋蛇，除其过，天活之哉？石生而坚，兰生而香。如谓叔敖之贤在埋蛇之时，非生而禀之也。<br/><br/>　　儒家之徒董无心，墨家之役缠子，相见讲道。缠子称墨家佑鬼神，是引秦穆公有明德，上帝赐之十九年，缠子难以尧、舜不赐年，桀、纣不夭死。尧、舜、桀、纣犹为尚远，且近难以秦穆公、晋文公。夫谥者，行之迹也，迹生时行，以为死谥。穆者误乱之名，文者德惠之表。有误乱之行，天赐之年；有德惠之操，天夺其命乎？案穆公之霸，不过晋文；晋文之谥，美於穆公。天不加晋文以命，独赐穆公以年，是天报误乱，与“穆公”同也。天下善人寡，恶人众。善人顺道，恶人违天。然夫恶人之命不短，善人之年不长。天不命善人常享一百载之寿，恶人为殇子恶死，何哉？</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-247-3818.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-247-3820.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-247.html" action-type="chapterComment" class="comment"><i></i>论衡章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

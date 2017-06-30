@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《贾谊新书》正文_大政上_贾谊作品 - 维普阅读网</title>
+<meta name="keywords" content="贾谊新书,贾谊新书原文,贾谊新书阅读,大政上全文,贾谊作品" />
+<meta name="description" content="贾谊新书原文阅读,大政上全文在线阅读,贾谊作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-235-3469.html";
+var nextpage="novel-read-235-3471.html";
+var indexpage = "novel-chapter-235.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-235.html">贾谊新书</a></strong>
+<strong><a href="novel-chapter-235.html">贾谊新书目录</a></strong>
+<span>大政上</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-235-3469.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>大政上</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=贾谊&amp;searchsubmit=yes"  target="_blank">贾谊</a><span class="divide">|</span>发布时间：2014-08-21 21:07:51<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>闻之于政也，民无不为本也。国以为本，君以为本，吏以为本。故国以民为安危，君以民为威侮，吏以民为贵贱，此之谓民无不为本也。闻之于政也，民无不为命也。国以为命，君以为命，吏以为命。故国以民为存亡，君以民为盲明，吏以民为贤不肖，此之谓民无不为命也。闻之于政也，民无不为功也。故国以为功，君以为功，吏以为功。国以民为兴坏，君以民为强弱，吏以民为能不能，此之谓民无不为功也。闻之于政也，民无不为力也，故国以为力，君以为力，吏以为力。故夫战之胜也，民欲胜也；攻之得也，民欲得也；守之存也，民欲存也。故率民而守，而民不欲存，则莫能以存矣。故率民而攻，民不欲得，则莫能以得矣。故率民而战，民不欲胜，则莫能以胜矣。故其民之为其上也，接敌而喜，进而不能止，敌人必骇，战由此胜也。夫民之于其上也，接而惧，必走去，战由此败也。故夫菑与福也，非粹在天也，必在士民也。呜呼，戒之戒之！夫士民之志，不可不要也。呜呼，戒之戒之！<br/><br/>　　行之善也，粹以为福己矣。行之恶也，粹以为菑己矣。故受天之福者，天不功焉。被天之菑，则亦无怨天矣 ，行自为取之也。知善而弗行，谓之不明；知恶而弗改，必受天殃。天有常福，必与有德；天有常菑，必与夺民时。故夫民者，至贱而不可简也，至愚而不可欺也。故自古至于今，与民为雠者，有迟有速，而民必胜之。知善而弗行谓之狂，知恶而不改谓之惑，故夫狂与惑者，圣王之戒也，而君子之愧也。呜呼，戒之戒之！岂其以狂与惑自为之，明君而君子乎，闻善而行之如争，闻恶而改之如雠，然后祸菑可离，然后保福也。戒之戒之！<br/><br/>　　诛赏之慎焉。故与其杀不辜也，宁失于有罪也。故夫罪也者，疑则附之去已。夫功也者，疑则附之与已。则此毋有无罪而见诛，毋有有功而无赏者矣。戒之哉，戒之哉！诛赏之慎焉。故古之立刑也，以禁不肖，以起怠惰之民也。是以一罪疑，则弗遂诛也，故不肖得改也。故一功疑，则必弗倍也，故愚民可劝也。是以上有仁誉，而下有治名。疑罪从去，仁也；疑功从予，信也。戒之哉，戒之哉！慎其下，故诛而不忌，赏而不曲。不反民之罪而重之，不灭民之功而弃之。故上为非则谏而止之，以道弼之；下为非则矜而恕之，道而赦之，柔而假之。故虽有不肖民，化而则之。故虽昔者之帝王，其所贵其臣者，如此而已矣。<br/><br/>　　人臣之道，思善则献之于上，闻善则献之于上，知善则献之于上。夫民者，唯君者有之；为人臣者，助君理之。故夫为人臣者，以富乐民为功，以贫苦民为罪。故君以知贤为明，吏以爱民为忠。故臣忠则君明，此之谓圣王。故官有假，而德无假，位有卑，而义无卑，故位下而义高者，虽卑贵也，位高而义下者，虽贵必穷。呜呼，戒之哉，戒之哉！行道不能，穷困及之。<br/><br/>　　夫一出而不可反者，言也；一见而不可得揜者，行也。故夫言与行者，知愚之表也，贤不肖之别也。是以智者慎言慎行 ，以为身福；愚者易言易行，以为身菑。故君子言必可行也，然后言之，行必可言也，然后行之。呜呼，戒之哉，戒之哉！行之者在身，命之者在人，此福菑之本也。道者福之本，祥者福之荣也。无道者必失福之本，不祥者必失福之荣。故行而不缘道者，其言必不顾义矣。故纣自谓天王也，桀自谓天子也，已灭之后，民以相骂也。以此观之，则位不足以为尊，而号不足以为荣矣。故君子之贵也，士民贵之，故谓之贵也。故君子之富也，士民乐之，故谓之富也。故君子之贵也，与民以福，故士民贵之。故君子之富也，与民以财，故士民乐之。故君子富贵也，至于子孙而衰，则士民皆曰何君子之道衰也，数也。不肖暴者祸及其身，则士民皆曰，何天诛之迟也。<br/><br/>　　夫民者，万世之本也，不可欺。凡居于上位者，简士苦民者是谓愚，敬士爱民者是谓智。夫愚智者，士民命之也。故夫民者，大族也，民不可不畏也。故夫民者，多力而不可适也。呜呼，戒之哉，戒之哉！与民为敌者，民必胜之。君能为善，则吏必能为善矣；吏能为善，则民必能为善矣。故民之不善也，吏之罪也；吏之不善也，君之过也。呜呼，戒之，戒之！故夫士民者，率之以道，然后士民道也；率之以义，然后士民义也；率之以忠，然后士民忠也；率之以信，然后士民信也。故为人君者，其出令也，其如声，士民学之，其如响，曲折而从君，其如景矣。呜呼，戒之哉，戒之哉！君乡善于此，则佚佚然协民皆乡善于彼矣，犹景之象形也。君为恶于此，则啍啍然协民皆为恶于彼矣，犹响之应声也。是以圣王而君子乎，执事而临民者日戒慎一日，则士民亦日戒慎一日矣，以道先民也。<br/><br/>　　道者，圣王之行也，文者圣王之辞也，恭敬者圣王之容也，忠信者圣王之教也。夫圣人也者，贤智之师也。仁义者，明君之性也。故尧舜禹汤之治天下也，所谓明君也，士民乐之，皆即位百年然后崩，士民犹以为大数也。桀纣，所谓暴乱之君也，士民苦之，皆即位数十年而灭，士民犹以为大久也。故夫诸侯者，士民皆爱之，则其国必兴矣；士民皆苦之，则国必亡矣。故夫士民者，国家之所树，而诸侯之本也，不可轻也。呜呼！轻本不祥，实为身殃，戒之哉，戒之哉！</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-235-3469.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-235-3471.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-235.html" action-type="chapterComment" class="comment"><i></i>贾谊新书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《管子》正文_禁藏_管仲作品 - 维普阅读网</title>
+<meta name="keywords" content="管子,管子原文,管子阅读,禁藏全文,管仲作品" />
+<meta name="description" content="管子原文阅读,禁藏全文在线阅读,管仲作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-43-1167.html";
+var nextpage="novel-read-43-1169.html";
+var indexpage = "novel-chapter-43.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-43.html">管子</a></strong>
+<strong><a href="novel-chapter-43.html">管子目录</a></strong>
+<span>禁藏</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-43-1167.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>禁藏</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=管仲&amp;searchsubmit=yes"  target="_blank">管仲</a><span class="divide">|</span>发布时间：2014-07-24 20:59:35<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　禁藏于胸胁之内，而祸避于万里之外。能以此制彼者，唯能以己知人者也。夫冬日之不滥，非爱冰也；夏日之不炀，非爱火也，为不适于身便于体也。夫明王不美宫室，非喜小也；不听钟鼓，非恶乐也，为其伤于本事，而妨于教也。故先慎于己而后彼，官亦慎内而后外，民亦务本而去末。<br/><br/>　　居民于其所乐，事之于其所利，赏之于其所善，罚之于其所恶，信之于其所余财，功之于其所无诛。于下无诛者，必诛者也；有诛者，不必诛者也。以有刑至无刑者，其法易而民全；以无刑至有刑者，其刑烦而奸多。夫先易者后难，先难而后易，万物尽然。明王知其然，故必诛而不赦，必赏而不迁者，非喜予而乐其杀也，所以为人致利除害也。于以养老长弱，完活万民，莫明焉。<br/><br/>　　夫不法法则治。法者天下之仪也，所以决疑而明是非也，百姓所县命也。故明王慎之，不为亲戚故贵易其法，吏不敢以长官威严危其命，民不以珠玉重宝犯其禁。故主上视法严于亲戚，吏之举令敬于师长，民之承教重于神宝。故法立而不用，刑设而不行也。夫施功而不钧，位虽高为用者少；赦罪而不一，德虽厚不誉者多；举事而不时，力虽尽其功不成；刑赏不当，断斩虽多，其暴不禁。夫公之所加，罪虽重下无怨气；私之所加，赏虽多士不为欢。行法不道，众民不能顺；举错不当，众民不能成；不攻不备，当今为愚人。<br/><br/>　　故圣人之制事也，能节宫室、通车舆以实藏，则国必富、位必尊；能適衣服、去玩好以奉本，而用必赡、身必安矣；能移无益之事、无补之费，通币行礼，而党必多、交必亲矣。夫众人者，多营于物，而苦其力、劳其心，故困而不赡，大者以失其国，小者以危其身。凡人之情：得所欲则乐，逢所恶则忧，此贵贱之所同有也。近之不能勿欲，远之不能勿忘，人情皆然，而好恶不同，各行所欲，而安危异焉，然后贤不肖之形见也。夫物有多寡，而情不能等；事有成败，而意不能同；行有进退，而力不能两也。故立身于中，养有节；宫室足以避燥湿，食饮足以和血气，衣服足以适寒温，礼仪足以别贵贱，游虞足以发欢欣，棺椁足以朽骨，衣衾足以朽肉，坟墓足以道记。不作无补之功，不为无益之事，故意定而不营气情。气情不营则耳目穀、衣食足；耳目穀、衣食足，则侵争不生，怨怒无有，上下相亲，兵刃不用矣。故適身行义，俭约恭敬，其唯无福，祸亦不来矣；骄傲侈泰，离度绝理，其唯无祸，福亦不至矣。是故君于上观绝理者以自恐也，下观不及者以自隐也。故曰：誉不虚出，而患不独生，福不择家，祸不索人，此之谓也。能以所闻瞻察，则事必明矣。<br/><br/>　　故凡治乱之情，皆道上始。故善者圉之以害，牵之以利。能利害者，财多而过寡矣。夫凡人之情，见利莫能勿就，见害莫能勿避。其商人通贾，倍道兼行，夜以续日，千里而不远者，利在前也。渔人之入海，海深万仞，就波逆流乘危百里，宿夜不出者，利在水也。故利之所在，虽千仞之山无所不上，深源之下，无所不入焉。故善者势利之在，而民自美安，不推而往，不引而来，不烦不扰，而民自富。如鸟之覆卵，无形无声，而唯见其成。<br/><br/>　　夫为国之本，得天之时而为经，得人之心而为纪，法令为维纲，吏为网罟，什伍以为行列，赏诛为文武。缮农具当器械，耕农当攻战，推引铫耨以当剑戟，被蓑以当铠鑐，菹笠以当盾橹。故耕器具则战器备，衣事习则功战巧矣。当春三月，萩室熯造，钻隧易火，杼井易水，所以去兹毒也。举春祭，塞久祷，以鱼为牲，以糵为酒，相召，所以属亲戚也。毋杀畜生，毋拊卵，毋伐木，毋夭英，毋拊竿，所以息百长也。赐鳏寡，振孤独，贷无种，与无赋，所以劝弱民。发五正，赦薄罪，出拘民，解仇雠，所以建时功施生谷也。夏赏五德，满爵禄，迁官位，礼孝弟，复贤力，所以劝功也。秋行五刑，诛大罪，所以禁淫邪，止盗贼。冬收五藏，最万物，所以内作民也。四时事备，而民功百倍矣。故春仁、夏忠、秋急、冬闭，顺天之时，约地之宜，忠人之和，故风雨时，五谷实，草木美多，六畜蕃息，国富兵强，民材而令行，内无烦扰之政，外无强敌之患也。<br/><br/>　　夫动静顺然后和也，不夫其时然后富，不失其法然后治。故国不虚富，民不虚治。不治而昌，不乱而亡者，自古至今未尝有也。故国多私勇者其兵弱，吏多私智者其法乱，民多私利者其国贫。故德莫若博厚，使民死之；赏罚莫若必成，使民信之。<br/><br/>　　夫菩牧民者，非以城郭也，辅之以什，司之以伍。伍无非其人，人无非其里，里无非其家。故奔亡者无所匿，迁徙者无所容，不求而约，不召而来。故民无流亡之意，吏无备追之忧。故主政可往于民，民心可系于主。夫法之制民也，犹陶之于埴，冶之于金也。故审利害之所在，民之去就，如火之于燥湿，水之于高下。夫民之所生，衣与食也；食之所生，水与土也。所以富民有要，食民有率，率三十亩而足于卒岁。岁兼美恶，亩取一石，则人有三十石，果蓏素食当十石，糠秕六畜当十石，则人有五十石，布帛麻丝，旁入奇利，未在其中也。故国有余藏，民有余食。夫叙钧者，所以多寡也；权衡者，所以视重轻也；户籍田结者，所以知贫富之不訾也；故善者必先知其田，乃知其人，田备然后民可足也。<br/><br/>　　凡有天下者，以情伐者帝，以事伐者王，以政伐者霸。而谋有功者五，一曰视其所爱，以分其威，一人两心，其内必衰也。臣不用，其国可危。二曰视其阴所憎，厚其货赂，得情可深，身内情外，其国可知。三曰听其淫乐，以广其心，遗以竽瑟美人，以塞其内；遗以谄臣文马，以蔽其外。外内蔽塞，可以成败。四曰必深亲之，如典之同生。阴内辩士，使图其计；内勇士，使高其气。内人他国，使倍其约，绝其使，拂其意，是必士斗。两国相敌，必承其弊。五曰深察其谋，谨其忠臣，揆其所使，令内不信，使有离意。离气不能令，必内自贼。忠臣已死，故政可夺。此五者，谋功之道也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-43-1167.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-43-1169.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-43.html" action-type="chapterComment" class="comment"><i></i>管子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

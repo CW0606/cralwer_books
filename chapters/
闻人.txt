@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《百家姓》正文_闻人_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="百家姓,百家姓原文,百家姓阅读,闻人全文,佚名作品" />
+<meta name="description" content="百家姓原文阅读,闻人全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-230-3367.html";
+var nextpage="novel-read-230-3369.html";
+var indexpage = "novel-chapter-230.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-230.html">百家姓</a></strong>
+<strong><a href="novel-chapter-230.html">百家姓目录</a></strong>
+<span>闻人</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-230-3367.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>闻人</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-08-20 22:28:23<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>历史来源<br/>　　起源于春秋时期少正氏。春秋时期，是奴隶社会过渡到封建社会的大变革时期。五霸争雄，大国兼并小国，奴隶起义反抗奴隶主的压迫和剥削等激烈的阶级斗争，反映在意识形态领域，出现了百家争鸣的局面，也揭开了我国历史上儒法斗争的序幕。春秋末期，鲁国的孔子和少正卯两个人都在开班讲学：以孔子为首的儒家学说，主张“克己复礼”，维护奴隶主阶级“礼治”的奴隶社会；以少正卯为代表的法家学说，主张变法革新，建立新兴地主阶级法治的封建社会。后来听少正卯讲学的人越来越多，其中包括孔子的学生也来了大部分，孔门出现了“三盈三虚”，气得孔子大骂少正卯是“小人之桀雄”。少正卯在讲学中很快成为了文人学士公认的“闻人”（意思是出名的人）。后来，孔子当上了鲁国的司寇，代行宰相职务，给少正卯加上“聚众结社；鼓吹邪说；淆乱是非”等罪名，把他捕杀了，并把他的尸体示众三天。但他变法革新的进步思想已经传播开了，奴隶制必定灭亡，封建制必定兴起。新兴地主阶级杰出代表秦始皇推行法制，于公元前221年统一了六国，建立了我国第一个地主阶级中央集权制的统一国家。少正卯的后代子孙就以“闻人”命姓，称闻人氏。得姓始祖：少正卯。据《风俗通》上考证，少正卯，鲁之闻人，是闻人氏的祖宗。闻人得姓至今已有2400多年的历史。其老家鲁国，即今山东剩传说古代春秋时期，鲁国有一位学都叫少正卯，他讲学进，孔子的学生中都有不少人去听讲，他的名声闻名远近，于是文人学士们就给了他一个雅号，叫闻人。闻人的后代将此引以为荣，就以闻人为姓，世代相传，因为只有这个姓，才能令人联想起少正卯当年指点江山，议论古今，意气风发，从学者如流的那种荣耀。而且少正卯与孔子后来矛盾极大，以闻人为姓，大约也是少正卯后代以少正卯的学术思想独树一帜为荣，望族居河内郡（今河南省武陟县西南一带），故闻人氏后人奉少正卯为闻人姓的得姓始祖。<br/><br/>家族名人<br/>　　闻人宏：字君度，浙江省嘉兴人，二十岁人太学读书，大观年间进士，历官通州司法、天台兵曹、宣城知县、常州通判。有才名，善政，人高其德谊。著有《中兴要览》、《周官通解》、《经史旁阐》等。闻人诠：浙江省余姚人，明朝著名哲学家王阳明的学生。闻人诠和王阳明有亲族关系，是同辈，岁数小于王阳明，然在学业上是师生。闻人诠举为进士后，嘉靖年间做了御史官，巡视边疆，在山海关那一带修了近千里的长城。校补有《五经》、《三礼》、《旧唐书》行世。闻人通汉：字子方，浙江省嘉兴人，汉代学者，官太子舍人、中山中尉，习礼于孟卿，孟卿受礼于后苍。见汉书儒林孟卿传，类稿作“闻人通”，脱“汉”字。闻人梦吉：元朝人，浙江省金华人，潜心研学的著名学者。其父誢曾在王柏门下学习。梦吉受学家庭，手抄《其七经传疏》，闭户10年，洞究奥旨。泰定时在乡里中贡生，被荐为校官，累迁泉州教授。至正中授福建等处儒学提举，辞不赴。此外，闻人姓的名人还有：宋代有学者闻人宏、名人闻人祥正，明代有画家闻人益、闻人绍宗……等。<br/><br/>迁徙分布<br/>　　传说春秋时，鲁国有大夫少正卯聚徒讲学，几次将孔子的学生都吸引过去，被众人称为“闻人”，意为赞许其知识渊博、才华出众、闻名于世，后因与孔子政见不一，被当上鲁国司寇的孔子以“危言乱政”的罪名处死，其子孙为继承祖先的达名即以“闻人”为姓。也有一说鲁国大夫左丘明是古之闻人，其后人有以闻人为姓的。<br/>　　堂号中山堂：汉代时有中山中尉闻人通汉。后仓曾说《礼记》数万言，写成著作《后氏曲台记》，后教授给闻人通汉。通汉以太子舍人身份，在石渠阁（阁名，汉入关时所得秦国图籍皆藏于此，汉代是名儒讲经的地方）讲学。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-230-3367.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-230-3369.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-230.html" action-type="chapterComment" class="comment"><i></i>百家姓章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

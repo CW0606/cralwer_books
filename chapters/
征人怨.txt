@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《征人怨》正文_征人怨_柳中庸作品 - 维普阅读网</title>
+<meta name="keywords" content="征人怨,征人怨原文,征人怨阅读,征人怨全文,柳中庸作品" />
+<meta name="description" content="征人怨原文阅读,征人怨全文在线阅读,柳中庸作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-1172.html";
+var nextpage="novel-chapter-1172.html";
+var indexpage = "novel-chapter-1172.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1172.html">征人怨</a></strong>
+<strong><a href="novel-chapter-1172.html">征人怨目录</a></strong>
+<span>征人怨</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-1172.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>征人怨</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=柳中庸&amp;searchsubmit=yes"  target="_blank">柳中庸</a><span class="divide">|</span>发布时间：2015-02-08 21:31:47<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>岁岁金河复玉关，朝朝马策与刀环。<br/>三春白雪归青冢，万里黄河绕黑山。<br/> <br/>【注释】<br/>金河：即黑河，在今呼和浩特市城南。<br/>玉关：玉门关的简称。<br/>岁岁：指年年月月，下文的“朝朝”同义。 　　<br/>马策：马鞭。<br/>刀环：刀柄上的铜环，喻征战事。<br/>三春：春季的三个月或暮春，此处为暮春。<br/>青冢：汉王昭君墓，在今内蒙古呼和浩特之南。<br/>黑山：一名杀虎山，在今内蒙古呼和浩特市东南。<br/> <br/>【译文】<br/>去年去驻金河今年来守玉门关，天天只有马鞭和大刀与我作伴。<br/>阳春三月下白雪回到昭君墓地，我走过万里黄河又绕过了黑山。<br/> <br/>【题解】<br/>　　这首诗意在写征夫长期守边，东西辗转不能还乡的怨情。诗的首句写守边时间延续，地点转换；二句写天天战争不息，生活单调凄苦；三句写边塞气候恶劣，暗隐生还无望（归青冢）；四句写边塞形胜，点明生涯之不定。以怨为题，却无一“怨” 字，用叠字和名词，浑成对偶反复，回肠荡气，虽无“怨”字，怨情自生。<br/> <br/>【赏析】<br/>　　边塞诗盛于唐代，题材多样，内容丰富，有的表现戎马征戍，有的描绘异域风光。有的为征夫写恨，也有的代思妇拟言。边塞的好题材，在盛唐差不多已经写完。盛唐以后，写边塞诗是不能不费一点心思了。<br/>　　柳中庸这首《征人怨》，乍看题目。觉得有些熟烂。然而。诗人却不落窠臼。此诗虽亦写怨，却非关征人回首、佳人断肠之类。首句并列两个地名“金河”、“玉关”，二者用“复”字关联，次句出以“马策”、“刀环”，中间用“与”字连接，各有一个时间副词，一说“岁岁”，一日“朝朝”。“金河”、“玉关”都是征战之地，在此意念上，二者绝无分别。“马策”、“刀环”虽为两个事物，却是共同说明马不歇鞍，人不解甲的内涵。“金河”和“玉关”、“马策”与“刀环”相比并。以其重复表现生活的单调，“复”字和“与”字流露一种无可奈何的厌倦之感，换成今天的说法，即：不是金河就是玉关，整天价手不离马策与刀环。而“岁岁”则把这种厌倦之感以时间的无限延伸极大地加重了，就是说，这种生涯无休无止。“朝朝”又把令人烦厌的重复行为的频率推到极致。教人难以忍受。诗人巧妙地利用诗句的蝉联偶对的特点，使此种情绪得到最充分的表达。“马策与刀环”对应“金河复玉关”，“朝朝”对应“岁岁”，音节增加一倍，意蕴上则产生相生互补的效果。从而诗的构思更显得细密周匝。<br/>　　三、四两句是诗意的加深和扩展。“三春白雪”对塞外的环境特点稍作烘托，颇含悲凉之意；全句着重点则是落脚的三个字：“归青冢”。“青冢”所在，其时虽属唐辖境，但毕竟为胡域，诗人说“归青冢”(大约唐军无事时在这一带休整)，由这个“归”字，即可知征人无还乡之期。“青冢”在这里似也有一种象征意味；难道说我们这些征人也如王昭君一样，将长留塞外么?结句说行军、转战。如果说前二句从时间写征人的感受、情绪，那么，后两句则从空间张大视角，青冢——黄河——黑山，给人以山高水长的距离感。诗人既以“万里黄河”展示地域之广阔，复以“绕黑山”状征途之回转曲折。“绕”是绕来绕去，不同于单线征程，走过不再回头。这个字，同前面的“金河”、“玉关”、“马策”、“刀环”的重复，单调感一脉相承。诗的前半写征戍无止期，后半则写征途无尽头，结构上也恰好对称，而于字句间透着“欲归无计”的渺茫。更多唐诗欣赏敬请关注“习古堂国学网”的唐诗三百首栏目。<br/>　　此诗似乎从总体上暗示给读者这样一个问题：难道这是人的生活么?远在一千年前的西周时期，就有过这一类哀怨：“匪兕匪虎，率彼旷野”，“哀我征夫，独为匪民!”(《诗经·小雅·何草不黄》)汉末古诗中所谓“十五从军征，八十始得归”。其怨甚深。前者是对戕害人性的统治者的反抗的呼声，后者则是血泪的控诉。<br/>　　这首诗妙在：写怨而不著一字怨语，毫无迹象可求。诗人布局之巧妙，手法之高明，气象之开阔，格调之雄浑。足以同王昌龄的作品相匹敌。<br/> <br/>【评析】<br/>　　此诗写征人久戍不归的怨恨。远离家乡的征人，年年转战于西北苦寒之地，天天与兵器打交道。暮春三月本来是征人家乡春暖花开的时候，但边塞之地仍然白雪纷飞；黄河九曲，环绕着沉沉黑山。一切都那样零落荒凉。诗中没有一字是怨，但字字是怨，把征战之人厌倦戎马生涯的怨情寓于其中。全诗每句皆对，语言精工自然。 更多唐诗欣赏敬请关注“习古堂国学网”的唐诗三百首栏目。<br/>　　这是一首传诵极广的边塞诗。诗中写到的金河、青冢、黑山，都在今内蒙古自治区境内，唐时属单于都护府。由此可以推断，这首诗写的是一个隶属于单于都护府的征人的怨情。全诗四句，一句一景，表面上似乎不相连属，实际上却统一于“征人”的形象，都紧紧围绕着一个“怨”字铺开。<br/>　　前两句就时记事，说的是：年复一年，东西奔波，往来边城；日复一日，跃马横刀，征战不休。这两句“岁岁”“朝朝”相对，“金河”“玉关”“马策”“刀环”并举，又加以“复”字、“与”字，给人以单调困苦、无尽无穷之感，怨情自然透出。<br/> <br/>　　前两句从“岁岁”说到“朝朝”，似乎已经把话说尽。然而，对于满怀怨情的征人来说，这只是说着了一面。他不仅从那无休止的时间中感到怨苦之无时不在，而且从即目所见的景象中感到怨苦之无处不有，于是又有三、四句之作。<br/> <br/>　　三句写时届暮春，在苦寒的塞外却“春色未曾看”，所见者惟有白雪落向青冢而已。肃杀如此，怎不令人凄绝？末句写边塞的山川形势：滔滔黄河，绕过沉沉黑山，复又奔腾向前。这两句写景，似乎与诗题无关，其实都是征人常见之景，常履之地，因而从白雪青冢与黄河黑山这两幅图画里，我们不仅看到征戍之地的苦寒与荒凉，也可以感受到征人转战跋涉的辛苦。诗虽然不直接发出怨语，而蕴蓄于其中的怨恨之情足以使人回肠荡气。<br/>　　通篇不着一个“怨”字，却又处处弥漫着怨情。诗人抓住产生怨情的缘由，从时间和空间两方面落笔，让“岁岁”“朝朝”的戎马生涯以及“三春雪”与“黄河”“黑山”的自然景象去现身说法，收到了“不着一字，尽得风流”的艺术效果，可谓妙绝。全诗对仗精工，巧于炼字，读来别具情韵。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-1172.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-1172.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1172.html" action-type="chapterComment" class="comment"><i></i>征人怨章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

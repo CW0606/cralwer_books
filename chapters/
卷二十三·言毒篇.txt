@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《论衡》正文_卷二十三·言毒篇_王充作品 - 维普阅读网</title>
+<meta name="keywords" content="论衡,论衡原文,论衡阅读,卷二十三·言毒篇全文,王充作品" />
+<meta name="description" content="论衡原文阅读,卷二十三·言毒篇全文在线阅读,王充作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-247-3864.html";
+var nextpage="novel-read-247-3866.html";
+var indexpage = "novel-chapter-247.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-247.html">论衡</a></strong>
+<strong><a href="novel-chapter-247.html">论衡目录</a></strong>
+<span>卷二十三·言毒篇</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-247-3864.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷二十三·言毒篇</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王充&amp;searchsubmit=yes"  target="_blank">王充</a><span class="divide">|</span>发布时间：2014-08-24 22:21:45<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>或问曰：“天地之间，万物之性，含血之虫，有蝮、蛇、蜂、虿，咸怀毒螫，犯中人身，〔谓〕获疾痛，当时不救，流遍一身；草木之中，有巴豆、野葛，食之凑懑，颇多杀人。不知此物，禀何气於天？万物之生，皆禀元气，元气之中，有毒螫乎？”<br/><br/>　　曰：夫毒，太阳之热气也，中人人毒。人食凑懑者，其不堪任也。不堪任，则谓之毒矣。太阳火气，常为毒螫，气热也。太阳之地，人民促急，促急之人，口舌为毒。故楚、越之人，促急捷疾，与人谈言，口唾射人，则人脣胎肿而为创。南郡极热之地，其人祝树树枯，唾鸟鸟坠。巫咸能以祝延人之疾、愈人之祸者，生於江南，含烈气也。夫毒，阳气也，故其中人，若火灼人。或为蝮所中，割肉置地焦沸，火气之验也。四方极皆为维边，唯东南隅有温烈气。温烈气发，常以春夏。春夏阳起。东南隅，阳位也。他物之气，入人鼻目，不能疾痛。火烟入鼻鼻疾，入目目痛，火气有烈也。物为靡屑者多，唯一火最烈，火气所燥也。食甘旨之食，无伤於人。食蜜少多，则令人毒。蜜为蜂液，蜂则阳物也。人行无所触犯，体无故痛，痛处若杖之迹。人腓，腓谓鬼殴之。鬼者，太阳之妖也。微者，疾谓之边，其治用蜜与丹。蜜丹阳物，以类治之也。夫治风用风，治热用热，治边用蜜丹。则知边者阳气所为，流毒所加也。天地之间，毒气流行，人当其冲，则面肿疾，世人谓之火流所刺也。<br/><br/>　　人见鬼者，言其色赤，太阳妖气，自如其色也。鬼为烈毒，犯人辄死，故杜伯射周宣立崩。鬼所赍物，阳火之类，杜伯弓矢，其色皆亦。南道名毒曰短狐。杜伯之象，执弓而射，阳气因而激，激而射，故其中人象弓矢之形。火困而气热，血毒盛，故食走马之肝杀人，气困为热也；盛夏暴行，暑暍而死，热极为毒也。人疾行汗出，对炉汗出，向日亦汗出，疾温病者亦汗出。四者异事而皆汗出，困同热等，火日之变也。天下万物，含太阳气而生者，皆有毒螫。毒螫渥者，在虫则为蝮蛇蜂虿，在草则为巴豆治葛，在鱼则为鲑与�多、�叔，故人食鲑肝而死，为�多、�叔螫有毒。鱼与鸟同类，故鸟蜚鱼亦蜚，鸟卵鱼亦卵，蝮蛇蜂虿皆卵，同性类也。<br/><br/>　　其在人也为小人，故小人之口，为祸天下。小人皆怀毒气，阳地小人，毒尤酷烈，故南越之人，祝誓辄效。谚曰：“众口烁金。”口者，火也。五行二曰火，五事二曰言。言与火直，故云烁金。道口舌之烁，不言拔木焰火，必云烁金，金制於火，火口同类也。<br/><br/>　　药生非一地，太伯〔采〕之吴。铸多非一工，世称楚棠溪。温气天下有，路畏入南海。鸩鸟生於南，人饮鸩死。辰为龙，巳为蛇，辰巳之位在东南。龙有毒，蛇有螫，故蝮有利牙，龙有逆鳞。木生火，火为毒，故苍龙之兽含火星。冶葛巴豆，皆有毒螫，故冶在东南，巴在西南。土地有燥湿，故毒物有多少。生出有处地，故毒有烈不烈。蝮蛇与鱼比，故生於草泽。蜂虿与鸟同，故产於屋树。江北地燥，故多蜂虿。江南地湿，故多蝮蛇。生高燥比阳，阳物悬垂，故蜂虿以尾刺。生下湿比阴，阴物柔伸，故蝮蛇以口齰。毒或藏於首尾，故螫有毒；或藏于体肤，故食之辄懑；或附於脣吻，故舌鼓为祸。<br/><br/>　　毒螫之生，皆同一气，发动虽异，内为一类。故人梦见火，占为口舌；梦见蝮蛇，亦口舌。火为口舌之象，口舌见於蝮蛇，同类共本，所禀一气也。故火为言，言为小人。小人为妖，由口舌。口舌之徵，由人感天，故五事二曰言。言之咎徵，“僭恆旸若”。僭者奢丽，故蝮蛇多文。文起於阳，故若致文。旸若则言从，故时有诗妖。<br/><br/>　　妖气生美好，故美好之人多邪恶。叔虎之母美，叔向之母知之，不使视寝。叔向谏其〔之〕，其母曰：“深山大泽，实生龙蛇。彼美，吾惧其生龙蛇以祸汝。汝弊族也，国多大宠，不仁之人间之，不亦难乎！余何爱焉！”使往视寝，生叔虎，美有勇力，嬖於栾怀子。及范宣子〔逐〕怀子，杀叔虎，祸及叔向。夫深山大泽，龙蛇所生也，比之叔虎之母者，美色之人怀毒螫也。生子叔虎，美有勇力，勇力所生，生於美色；祸难所发，由於勇力。火有光耀，木有容貌。龙蛇东方木，含火精，故美色貌丽。胆附於肝，故生勇力。火气猛，故多勇；木刚强，故多力也。生妖怪者，常由好色，为祸难者，常发勇力；为毒害者，皆在好色。<br/><br/>　　美酒为毒，酒难多饮；蜂液为蜜，蜜难益食。勇夫强国，勇夫难近。好女说心，好女难畜。辩士快意，辩士难信。故美味腐腹，好色惑心，勇夫招祸，辩口致殃。四者，世之毒也。辩口之毒，为害尤酷。何以明之？孔子见阳虎，却行，白汗交流。阳虎辩，有口舌。口舌之毒，中人病也。人中诸毒，一身死之；中于口舌，一国之贵乱。《诗》曰：“谗言罔极，交乱四国。”四国犹乱，况一人乎！故君子不畏虎，独畏谗夫之口。谗夫之口，为毒大矣。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-247-3864.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-247-3866.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-247.html" action-type="chapterComment" class="comment"><i></i>论衡章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

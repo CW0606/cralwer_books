@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孟子》正文_孟子序说_孟子作品 - 维普阅读网</title>
+<meta name="keywords" content="孟子,孟子原文,孟子阅读,孟子序说全文,孟子作品" />
+<meta name="description" content="孟子原文阅读,孟子序说全文在线阅读,孟子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-27.html";
+var nextpage="novel-read-27-400.html";
+var indexpage = "novel-chapter-27.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-27.html">孟子</a></strong>
+<strong><a href="novel-chapter-27.html">孟子目录</a></strong>
+<span>孟子序说</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-27.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>孟子序说</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=孟子&amp;searchsubmit=yes"  target="_blank">孟子</a><span class="divide">|</span>发布时间：2014-07-19 11:53:19<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　史记列传曰：“孟轲，驺人也，受业子思之门人。道既通，游事齐宣王，宣王不能用。适梁，梁惠王不果所言，则见以为迂远而阔于事情。当是之时，秦用商鞅，楚魏用吴起，齐用孙子、田忌。天下方务于合从连衡，以攻伐为贤。而孟轲乃述唐、虞、三代之德，是以所如者不合。退而与万章之徒序诗书，述仲尼之意，作孟子七篇。”<br/>　　韩子曰：“尧以是传之舜，舜以是传之禹，禹以是传之汤，汤以是传之文、武、周公，文、武、周公传之孔子，孔子传之孟轲，轲之死不得其传焉。荀与扬也，择焉而不精，语焉而不详。”<br/>　　又曰：“孟氏醇乎醇者也。荀与扬，大醇而小疵。”<br/>　　又曰：“孔子之道大而能博，门弟子不能遍观而尽识也，故学焉而皆得其性之所近。其后离散，分处诸侯之国，又各以其所能授弟子，源远而末益分。惟孟轲师子思，而子思之学出于曾子。自孔子没，独孟轲氏之传得其宗。故求观圣人之道者，必自孟子始。”<br/>　　又曰：“扬子云曰：‘古者杨墨塞路，孟子辞而辟之，廓如也。’夫杨墨行，正道废。孟子虽贤圣，不得位。空言无施，虽切何补。然赖其言，而今之学者尚知宗孔氏，崇仁义，贵王贱霸而已。其大经大法，皆亡灭而不救，坏烂而不收。所谓存十一于千百，安在其能廓如也？然向无孟氏，则皆服左衽而言侏离矣。故愈尝推尊孟氏，以为功不在禹下者，为此也。”或问于程子曰：“孟子还可谓圣人否？”程子曰：“未敢便道他是圣人，然学已到至(或圣)处。”<br/>　　程子又曰：“孟子有功于圣门，不可胜言。仲尼只说一个仁字，孟子开口便说仁义。仲尼只说一个志，孟子便说许多养气出来。只此二字，其功甚多。”<br/>　　又曰：“孟子有大功于世，以其言性善也。”<br/>　　又曰：“孟子性善、养气之论，皆前圣所未发。”<br/>　　又曰：“学者全要识时。若不识时，不足以言学。颜子陋巷自乐，以有孔子在焉。若孟子之时，世既无人，安可不以道自任。”<br/>　　又曰：“孟子有些英气。纔有英气，便有圭角，英气甚害事。如颜子便浑厚不同，颜子去圣人只豪发闲。孟子大贤，亚圣之次也。”或曰：“英气见于甚处？”曰：“但以孔子之言比之，便可见。且如冰与水精非不光。比之玉，自是有温润含蓄气象，无许多光耀也。”<br/>　　杨氏曰：“孟子一书，只是要正人心，教人存心养性，收其放心。至论仁、义、礼、智，则以恻隐、善恶、辞让、是非之心为之端。论邪说之害，则曰：‘生于其心，害于其政。’论事君，则曰：‘格君心之非’，‘一正君而国定’。千变万化，只说从心上来。人能正心，则事无足为者矣。大学之修身、齐家、治国、平天下，其本只是正心、诚意而已。心得其正，然后知性之善。故孟子遇人便道性善。欧阳永叔却言‘圣人之教人，性非所先’，可谓误矣。人性上不可添一物，尧舜所以为万世法，亦是率性而已。所谓率性，循天理是也。外边用计用数，假饶立得功业，只是人欲之私。与圣贤作处，天地悬隔。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-27.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-27-400.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-27.html" action-type="chapterComment" class="comment"><i></i>孟子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

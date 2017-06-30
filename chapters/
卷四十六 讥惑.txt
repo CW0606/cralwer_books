@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《抱朴子》正文_卷四十六 讥惑_葛洪作品 - 维普阅读网</title>
+<meta name="keywords" content="抱朴子,抱朴子原文,抱朴子阅读,卷四十六 讥惑全文,葛洪作品" />
+<meta name="description" content="抱朴子原文阅读,卷四十六 讥惑全文在线阅读,葛洪作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-504-5865.html";
+var nextpage="novel-read-504-5868.html";
+var indexpage = "novel-chapter-504.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-504.html">抱朴子</a></strong>
+<strong><a href="novel-chapter-504.html">抱朴子目录</a></strong>
+<span>卷四十六 讥惑</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-504-5865.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷四十六 讥惑</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=葛洪&amp;searchsubmit=yes"  target="_blank">葛洪</a><span class="divide">|</span>发布时间：2014-09-20 22:58:53<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>抱朴子曰：澄浊剖判，庶物化生，习族或能应对焉，毛宗或有知言焉。于玃识往，归终知来，玄禽解阴阳，虫也虫岂远泉流，蓍龟无以过焉，甘石不能胜焉。夫唯无礼，不厕贵性，厥初邃古，民无阶级，上帝悼混然之甚陋，悯巢穴之可鄙，故构栋宇以去鸟兽之群，制礼数以异等威之品。教以盘旋，训以揖让，立则磬折，拱则抱鼓，趋步升降之节，瞻视接对之容，至於三千。盖检溢之堤防，人理之所急也。故俨若冠於曲礼，望貌首於五事，出门有见宾之肃，闲居有敬独之戒，颜生整仪於宵浴，仲由临命而结缨，恭容暂废，惰慢已及，安上治民，非此莫以。<br/>　　盖人之有礼，犹鱼之有水矣。鱼之失水，虽暂假息，然枯糜可必待也。人之弃礼，虽犹面见然，而祸败之阶也。鲁秉周礼，暴兵不加，魏式干木，锐冠旋旆。大楚带甲百万，而有振槁之月色；强秦肴函袭崄，而无折柳之固。岂非弃三本而丧根柢之攸召哉！矧乎安逸触情，丧乱日久，风秃页教沮，抑断之仪废，简脱之俗成，近人值政化之蚩役，庸民遭道网之绝紊，犹网鱼之去水罟，围兽之出陆罗也。<br/>　　丧乱以来，事物屡变，冠履衣服，袖袂财制，日月改易，无复一定。乍长乍短，一广一狭，忽高忽卑，或粗或细，所饰无常，以同为快。其好事者，朝夕放效，所谓“京辇贵大眉，远方皆半额”也。<br/>　　余实凡夫，拙於随俗，其服物变不胜，故不变，无所损者，余未曾易也。虽见指笑，余亦不理也。岂苟欲违众哉，诚以为不急耳。上国众事，所以胜江表者多，然亦有可否者，君子行礼，不求变俗，谓违本邦之他国，不改其桑梓之法也。况其在於父母之乡，亦何为当事弃旧而强更学乎！吴之善书，则有皇象刘纂岑伯然朱季平，皆一代之绝手，如中州有锺元常胡孔明张芝索靖，各一邦之妙，并用古体，俱足周事。<br/>　　余谓废已习之法，更勤苦以学中国之书，尚可不须也，况於乃有转易其声音，以效北语，既不能便良，似可耻可笑，所谓不得邯郸之步，而有匍匐之嗤者。此犹其小者耳，乃有遭丧者，而学中国哭者，令忽然无复念之情。昔锺仪庄舃，不忘本声，古人韪之。<br/>　　孔子云：丧亲者，若婴儿之失母。其号岂常声之有！宁令哀有余而礼不足，哭以泄哀，妍拙何在？而乃治饰其音，非痛切之谓也。又闻贵人在大哀，或有疾病，服石散以数食宣药势，以饮酒为性命，疾患危笃，不堪风冷，帏帐茵褥，任其所安，於是凡琐小人之有财力者，了不复居於丧位，常在别房，高床重褥，美食大饮，或与密客，引满投空，至於沈醉。曰：‘此京洛之法也。”不亦惜哉！<br/>　　余之乡里，先德君子，其居重难，或并在衰老，於礼唯应衰麻在身，不成丧致毁者，皆过哀啜粥，口不经甘。时人虽不肖者，莫不企及自勉，而今人乃自取如此，何其相去之辽缅乎！又凡人不解，呼谓中国之人居丧者多皆奢溢，殊不然也。吾闻晋之宣景文武四帝，居亲丧皆毁瘠逾制，又不用王氏二十五月之礼，皆行七月服，於时天下之在重哀者，咸以四帝为法，世人何独不闻此，而虚诬高人，不亦惑乎！</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-504-5865.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-504-5868.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-504.html" action-type="chapterComment" class="comment"><i></i>抱朴子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

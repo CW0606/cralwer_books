@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《尚书》正文_周书·洛诰_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="尚书,尚书原文,尚书阅读,周书·洛诰全文,佚名作品" />
+<meta name="description" content="尚书原文阅读,周书·洛诰全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-28-451.html";
+var nextpage="novel-read-28-453.html";
+var indexpage = "novel-chapter-28.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-28.html">尚书</a></strong>
+<strong><a href="novel-chapter-28.html">尚书目录</a></strong>
+<span>周书·洛诰</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-28-451.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>周书·洛诰</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-07-19 12:27:19<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　召公既相宅，周公往营成周，使来告卜，作《洛诰》。<br/>　　周公拜手稽首曰：“朕复子明辟。王如弗敢及天基命定命，予乃胤保大相东土，其基作民明辟。予惟乙卯，朝至于洛师。我卜河朔黎水，我乃卜涧水东，瀍水西，惟洛食；我又卜瀍水东，亦惟洛食。伻来以图及献卜。”<br/>　　王拜手稽首曰：“公不敢不敬天之休，来相宅，其作周匹，休！公既定宅，伻来，来，视予卜，休恒吉。我二人共贞。公其以予万亿年敬天之休。拜手稽首诲言。”<br/>　　周公曰：“王，肇称殷礼，祀于新邑，咸秩无文。予齐百工，伻从王于周，予惟曰：‘庶有事。’今王即命曰：‘记功，宗以功作元祀。’惟命曰：‘汝受命笃弼，丕视功载，乃汝其悉自教工。’孺子其朋，孺子其朋，其往！无若火始焰焰；厥攸灼叙，弗其绝。厥若彝及抚事如予，惟以在周工往新邑。伻向即有僚，明作有功，惇大成裕，汝永有辞。”<br/>　　公曰：“已！汝惟冲子，惟终。汝其敬识百辟享，亦识其有不享。享多仪，仪不及物，惟曰不享。惟不役志于享，凡民惟曰不享，惟事其爽侮。乃惟孺子颁，朕不暇听。<br/>　　朕教汝于棐民，彝汝乃是不，乃时惟不永哉！笃叙乃正父罔不若予，不敢废乃命。汝往敬哉！兹予其明农哉！彼裕我民，无远用戾。”<br/>　　王若曰：“公！明保予冲子。公称丕显德，以予小子扬文武烈，奉答天命，和恒四方民，居师；惇宗将礼，称秩元祀，咸秩无文。惟公德明光于上下，勤施于四方，旁作穆穆，迓衡不迷。文武勤教，予冲子夙夜毖祀。”王曰：“公功棐迪，笃罔不若时。”<br/>　　王曰：“公！予小子其退，即辟于周，命公后。四方迪乱未定，于宗礼亦未克敉，公功迪将，其后监我士师工，诞保文武受民，乱为四辅。”王曰：“公定，予往已。公功肃将祗欢，公无困哉！我惟无斁其康事，公勿替刑，四方其世享。”<br/>　　周公拜手稽首曰：“王命予来承保乃文祖受命民，越乃光烈考武王弘朕恭。<br/>　　孺子来相宅，其大惇典殷献民，乱为四方新辟，作周恭先。曰其自时中乂，万邦咸休，惟王有成绩。予旦以多子越御事笃前人成烈，答其师，作周孚先。’考朕昭子刑，乃单文祖德。<br/>　　伻来毖殷，乃命宁予以秬鬯二卣。曰明禋，拜手稽首休享。予不敢宿，则禋于文王、武王。惠笃叙，无有遘自疾，万年厌于乃德，殷乃引考。王伻殷乃承叙万年，其永观朕子怀德。”<br/>　　戊辰，王在新邑烝，祭岁，文王骍牛一，武王骍牛一。王命作册逸祝册，惟告周公其后。<br/>　　王宾杀禋咸格，王入太室，祼。王命周公后，作册逸诰，在十有二月。惟周公诞保文武受命，惟七年。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-28-451.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-28-453.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-28.html" action-type="chapterComment" class="comment"><i></i>尚书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《礼记正义》正文_卷六十一 冠义第四十三_郑玄作品 - 维普阅读网</title>
+<meta name="keywords" content="礼记正义,礼记正义原文,礼记正义阅读,卷六十一 冠义第四十三全文,郑玄作品" />
+<meta name="description" content="礼记正义原文阅读,卷六十一 冠义第四十三全文在线阅读,郑玄作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1017-10303.html";
+var nextpage="novel-read-1017-10305.html";
+var indexpage = "novel-chapter-1017.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1017.html">礼记正义</a></strong>
+<strong><a href="novel-chapter-1017.html">礼记正义目录</a></strong>
+<span>卷六十一 冠义第四十三</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1017-10303.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷六十一 冠义第四十三</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=郑玄&amp;searchsubmit=yes"  target="_blank">郑玄</a><span class="divide">|</span>发布时间：2014-11-26 20:19:17<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　陆曰：“冠音古乱反。郑云：‘名《冠义》者，以其记冠礼成人之义。’”<br/><br/>　　[疏]冠义曰：案郑《目录》云：“名曰《冠义》者，以其记冠礼成人之义。此於《别录》属《吉事》。”但冠义起早晚，书传既无正文。案《略说》称“周公对成王云‘古人冒而句领’”，注云：“古人，谓三皇时，以冒覆头，句领绕颈。”至黄帝时，则有冕也。故《世本》云“黄帝造火食旒冕”，是冕起於黄帝也。但黄帝以前，则以羽皮为之冠；黄帝以后，乃用布帛。其冠之年，即天子、诸侯十二而冠，故襄九年《左传》云：“国君十五而生子，冠而生子，礼也。”又云“一星终也”。是十二年岁星一终。案文王十五而生武王，尚有兄伯邑考。《金縢》云：“王与大夫尽弁。”时成王十五而著弁，则成王已冠矣。是天子十二而冠，与诸侯同。又《祭法》云：“王下祭殇五。”若不早冠，何因下祭五等之殇？大夫冠之年几无文。案《丧服》“大夫为昆弟之长殇”，大夫既为昆弟长殇，则不二十始冠也。其士则二十而冠也，《曲礼》云“二十曰弱冠”是也。其天子之子亦早冠，所以祭殇有五。其诸侯之子皆二十冠也，故下《檀弓》云“君之適长殇，及大夫之適长殇”是也。<br/><br/>　<br/><br/>　　凡人之所以为人者，礼义也。礼义之始，在於正容体，齐颜色，顺辞令。言人为礼，以此三者为始。容体正，颜色齐，辞令顺，而后礼义备。以正君臣，亲父子，和长幼。言三始既备乃，可求以三行也。○长，丁丈反，下同。行，下孟反。君臣正，父子亲，长幼和，而后礼义立。立，犹成也。故冠而后服备，服备而后容体正，颜色齐，辞令顺。言服未备者，未可求以三始也。童子之服，采衣紒。○冠，古乱反，除下文“玄冠”及注“缁布冠”、“玄冠”以外并同。紒音计。故曰“冠者，礼之始也”。是故古者圣王重冠。古者冠礼，筮日、筮宾，所以敬冠事。敬冠事所以重礼，重礼所以为国本也。国以礼为本。○筮，布至反，蓍曰筮。重，直用反，后同。故冠於阼，以著代也。醮於客位，三加弥尊，加有成也。阼，谓主人之北也。適子冠於阼。若不醴，则醮用酒於客位，敬而成之也。户西为客位。庶子冠於房户外，又因醮焉，不代父也。冠者，初加缁布冠，次加皮弁，次加爵弁。每加益尊，所以益成也。○阼，才故反。著，张虑反。醮，子笑反。弥音迷。適音嫡。醴音礼。已冠而字之，成人之道也。字，所以相尊也。见於母，母拜之，见於兄弟，兄弟拜之，成人而与为礼也。玄冠、玄端，奠挚於君，遂以挚见於乡大夫、乡先生，以成人见也。乡先生，同乡老而致仕者。服玄冠、玄端，异於朝也。○见，贤遍反，下皆同。挚，本亦作贽，同音至。“乡大夫乡先生”，并音香，注同。朝，直遥反。成人之者，将责成人礼焉也。责成人礼焉者，将责为人子、为人弟、为人臣、为人少者之礼行焉。将责四者之行於人，其礼可不重与？言责人以大礼者，己接之不可以苟。○少，诗照反。之行，下孟反，下同。与音馀。故孝弟忠顺之行立，而后可以为人，可以为人，而后可以治人也。故圣王重礼。故曰“冠者，礼之始也，嘉事之重者也”。是故古者重冠。重冠，故行之於庙。行之於庙者，所以尊重事。尊重事而不敢擅重事，不敢擅重事，所以自卑而尊先祖也。嘉事，嘉礼也。宗伯掌五礼：有吉礼，有凶礼，有宾礼，有军礼，有嘉礼。而冠属嘉礼，《周礼》曰“以玄冠之礼，亲成男女也”。○弟音悌。治，直吏反。擅，市战反。<br/><br/>　　[疏]“凡人”至“祖也”。○正义曰：此一节明人之所以相叙加冠之事，从始至终，各随文解之。○“凡人之所以为人者，礼义也”者，言人之所以得异於禽兽者，以其行礼义也。礼义之事，终身行之。○“礼义之始，在於正容体，齐颜色，顺辞令”者，言欲一世行礼之始，先须正容体，齐颜色，顺辞令为先也。然后可以正君臣，亲父子，和长幼。○“古者冠礼”者，此明将冠之时。“筮日、筮宾”，重冠礼之事，又明冠礼三加其冠，以渐成人之礼。○“故冠於阼，以著代也”者，言適子必加冠於阼。阼是主人接宾之处。今適子冠於阼阶，所以著明代父之义也。○“醮於客位，三加弥尊，加有成也”者，若依《周礼》適子“醴於客位”，今云“醮”者，或因先代夏、殷之礼，醮之用酒於客位，室户外之西。必在宾客位者，尊以成人，若宾客待之。三加，初加缁布冠，次加皮弁冠，三加爵弁冠，弥渐而尊。故云“三加弥尊，加有成也”，谓加益有成人之事矣。○注“阼位”至“成也”。○正义曰：“阼，谓主人之北也”，知者，案《士冠礼》文也。云“若不醴，则醮用酒”者，亦《士冠礼》文。以《周礼》之法，適子则以醴礼之，庶子则以酒醮之。若先代之礼，虽適子皆以酒醮之。其於周时，或有旧俗行先代之礼，虽適子亦用酒醮，则因而行，不必改也。故郑注《士冠礼》云“若不醴，谓国有旧俗可行，圣人用焉不改”是也。醮者，醮尽之义，故郑注《士冠礼》云“酌而无酬酢曰醮”是也。云“庶子冠於房户外，又因醮焉”者，皆《士冠礼》文也。但此《记》之作，是记《仪礼·士冠礼》之事，士礼，故三加也。若大夫亦同。《士冠礼》云：“无大夫冠礼。”古者五十而后爵，何大夫冠礼之有？是大夫虽冠，用士礼。若诸侯则有冠礼，故《左传》云：“公冠，用祼享之礼行之，金石之乐节之。”其加则四加，而有玄冕也，故《大戴礼》公冠四加也。诸侯尚四加，则天子亦当五加衮冕也。○“已冠而字之”者，此明冠毕加字、见母父兄弟，及见君之节，以其成人而见人也。未冠之前，以其名别之。既冠之后，又改以字。且人二十有为父之道，不可复言其名，故冠而加字之，成人之道也。○“见於母，母拜之”，故不拜也。今唐礼，母见子，但起立不拜也。案《仪礼》，庙中冠子，以酒脯奠庙讫，子持所奠酒脯以见於母，母拜其酒脯，重从尊者处来，故拜之，非拜子也。○“玄冠玄端，奠挚於君”者，此“玄冠玄端”，则异於朝服之衣。但玄端，上士则玄裳，中士则黄裳，下士则杂裳。以其初成人，故著玄端，异於朝服也。若朝服则素裳奠挚，奠之於君也。○“遂以挚见於乡大夫、乡先生”者，以挚，谓以雉也。故《士相见礼》冬用雉，夏用腒。“见於乡大夫”，谓在朝之乡大夫也。“乡先生”，谓乡老而致仕也。○“成人之者”，此明加冠成人之义。必“成人”者，“将责成人礼焉”。冠责以成人之事，若成人事立，可以治人也。是冠者为治之本，故先王重之，行之於庙，士行之於祢庙，故《士冠礼》注“庙谓祢庙”。既在“祢庙”，此云“尊先祖”者，尊祢即尊先祖之义。且下士祖祢共庙，其诸侯则冠於太祖之庙，故《左传》云“先君之祧以处之”，《聘礼》“不腆先君之祧”，郑注以为始祖之庙，则天子当冠於始祖庙也。服虔注《左传》“先君之祧处之”，以为曾祖庙者，以《左传》鲁襄公冠於卫成公之庙。卫成公则当今卫君献公曾祖，服虔望时解之，故以“祧”为“曾祖”，非郑义也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1017-10303.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1017-10305.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1017.html" action-type="chapterComment" class="comment"><i></i>礼记正义章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

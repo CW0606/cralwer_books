@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《九章》正文_九章·哀郢_屈原作品 - 维普阅读网</title>
+<meta name="keywords" content="九章,九章原文,九章阅读,九章·哀郢全文,屈原作品" />
+<meta name="description" content="九章原文阅读,九章·哀郢全文在线阅读,屈原作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-87-1952.html";
+var nextpage="novel-read-87-1954.html";
+var indexpage = "novel-chapter-87.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-87.html">九章</a></strong>
+<strong><a href="novel-chapter-87.html">九章目录</a></strong>
+<span>九章·哀郢</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-87-1952.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>九章·哀郢</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=屈原&amp;searchsubmit=yes"  target="_blank">屈原</a><span class="divide">|</span>发布时间：2014-08-02 20:33:56<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/>皇天之不纯命兮，何百姓之震愆。<br/>民离散而相失兮，方仲春而东迁。<br/>去故乡而就远兮，遵江夏以流亡。<br/>出国门而轸怀兮，甲之朝吾以行。<br/>发郢都而去闾兮，怊荒忽之焉极。<br/>楫齐杨以容与兮，哀见君而不再得。<br/>望长楸而太息兮，涕淫淫其若霰。<br/>过夏首而西浮兮，顾龙门而不见。<br/>心婵媛而伤怀兮，眇不知其所蹠。<br/>顺风波以从流兮，焉洋洋而为客。<br/>凌阳侯之泛滥兮，忽翱翔之焉薄。<br/>心絓结而不解兮，思蹇产而不释。<br/>将运舟而下浮兮，上洞庭而下江。<br/>去终古之所居兮，今逍遥而来东。<br/>羌灵魂之欲归兮，何须臾而忘反。<br/>背夏浦而西思兮，哀故都之日远。<br/>登大坟以远望兮，聊以舒吾忧心。<br/>哀州土之平乐兮，悲江介之遗风。<br/>当陵阳之焉至兮，淼南渡之焉知。<br/>曾不知夏之为丘兮，孰两东门之可芜。<br/>心不怡之长久兮，忧与愁其相接。<br/>惟郢路之辽远兮，江与夏之不可涉。<br/>忽若去不信兮，至今九年而不复。<br/>惨郁郁而不通兮，蹇侘傺而含戚。<br/>外承欢之汋约兮，谌荏弱而难持。<br/>忠湛湛而愿进兮，妒被离而障之。<br/>尧舜之抗行兮，瞭杳杳而薄天。<br/>众谗人之嫉妒兮，被以不慈之伪名。<br/>憎愠惀之修美兮，好夫人之慷慨。<br/>众踥蹀而日进兮，美超远而逾迈。<br/>乱曰：曼余目以流观兮，冀一反之何时。<br/>鸟飞反故乡兮，狐死必首丘。<br/>信非吾罪而弃逐兮，何日夜而忘之。<br/><br/>赏析<br/>《哀郢》结构上最为独特者，是用了倒叙法，先从九年前秦军进攻楚国之时自己被放逐，随流亡百姓一起东行的情况写起，到后面才抒写作诗当时的心情。这就使诗人被放以来铭心难忘的那一幅幅悲惨画面，一幕幕夺人心魄、摧人肝肺的情景，得到突出的表现。<br/><br/>　　《史记·屈原列传》载，楚顷襄王立，令尹子兰谗害屈原，屈原被放江南之野(郢都附近长江以南之地)。《楚世家》又载顷襄王元年“秦大破楚军，斩首五万，取析十五城而去”。秦军沿汉水而下，则郢都震动。屈原的被放，也就在此时。<br/><br/>　　此诗不计乱辞，可分为五层，每层三节。前三层为回忆，第四层抒发作诗当时的心情，第五层为对造成国家、个人悲剧之原因的思考。乱辞在情志、结构两方面总括全诗，为第六层。<br/><br/>　　诗的开头诗人仰天而问，可谓石破天惊。此下即绘出一幅巨大的哀鸿图。“仲春”点出正当春荒时节，“东迁”说明流徙方向，“江夏”指明地域所在。人流、汉水，兼道而涌，涛声哭声，上干云霄。所以诗中说诗人走出郢都城门之时腹内如绞。他上船之后仍不忍离去，举起了船桨任船飘荡着：他要多看一眼郢都!他伤心再没有机会见到国君了。“甲之鼌(朝)”是诗人起行的具体日期和时辰，九年来从未忘记过这一天，故特意标出。第一层总写九年前当郢都危亡之时自己被放时情景。<br/><br/>　　第二层为“望长楸而太息兮”以下三节，写船开后仍一直心系故都，不知所从。“长楸”意味着郢为故都。想起郢都这个楚人几百年的都城将毁于一旦，忍不住老泪横流。李贺说：“焉洋洋而为客，一语倍觉黯然!”因为它比一般的“断肠人在天涯”更多一层思君、爱国、忧民的哀痛。诗中从“西浮”以下写进入洞庭湖后情形，故说“顺风波”(而非顺江流)，说“阳侯之氾滥”，说“翱翔”，等等。<br/><br/>　　“将运舟而下浮兮”以下三节为第三层，写继续东行时心情。“运舟”指驾船、调转船头。“上洞庭”言由洞庭湖北行，“下江”言顺流而下。去之愈远，而思之愈切。诗人之去，可谓一桨九回头，读之真堪摧人泪下。<br/><br/>　　“当陵阳之焉至兮”以下三节为第四层，写诗人作此诗当时的思想情绪。在这一层中才指出以上三层所写，皆是回忆；这些事在诗人头脑中九年以来，魂牵梦萦，从未忘却。“当陵阳之焉至兮”二句为转折部分，承上而启下。此陵阳在江西省西部庐水上游，宜春以南。《汉书·地理志》说：“庐江出陵阳东南”，即此。其地与湖湘之地只隔着罗霄山脉。大约诗人以为待事态平息，可以由陆路直达湖湘一带(俱为楚人所谓“江南之野”)，故暂居于此。<br/><br/>　　第五层即“外承欢之汋约兮”以下三节，承接第四层的正面抒情，进而揭出造成国家危难之根源。朝廷那些奸佞之徒善于逢迎奉承，不仅因为他们无能，还因为他们无忧国忧民之心，只知为了一己的利益而诬陷正直之士，所以在治国安民方面实在难以倚靠。但关键还在于当政者喜好怎么样的人。“憎愠惀之脩美兮，好夫人之忼慨”，便是屈原对顷襄王的评价。批判的矛头直接指向最高统治者。作品表现的思想是极其深刻的。<br/><br/>　　诗的前三层为回忆，其抒情主要通过记叙来表现；第四、五层是直接抒情。乱辞总承此两部分，写诗人虽日夜思念郢都，却因被放逐而不能回朝效力祖国的痛苦和悲伤。“鸟飞反故乡兮，狐死必首丘”，语重意深，极为感人。全诗章法谨严，浑然一体。<br/><br/>　　本诗在结构上表现了很大的独创性：一，开头并未交待是回忆，给读者以身临其境之感，留下深刻的印象。二，四句为一节，三节为一层意思，很整齐。语言上的特点是骈句多，如“去故乡而就远，遵江夏以流亡”、“过夏首而西浮，顾龙门而不见”、“背夏浦而西思，哀故都之日远”等，既富有对偶美，也有助于加强感情力度。在风格上，徐焕龙《楚辞洗髓》谓之“于《九章》中最为凄惋，读之实一字一泪也”，诚然。　(赵逵夫)</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-87-1952.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-87-1954.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-87.html" action-type="chapterComment" class="comment"><i></i>九章章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

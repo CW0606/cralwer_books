@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孔丛子》正文_公孙龙_孔鲋作品 - 维普阅读网</title>
+<meta name="keywords" content="孔丛子,孔丛子原文,孔丛子阅读,公孙龙全文,孔鲋作品" />
+<meta name="description" content="孔丛子原文阅读,公孙龙全文在线阅读,孔鲋作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-217-2402.html";
+var nextpage="novel-read-217-2404.html";
+var indexpage = "novel-chapter-217.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-217.html">孔丛子</a></strong>
+<strong><a href="novel-chapter-217.html">孔丛子目录</a></strong>
+<span>公孙龙</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-217-2402.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>公孙龙</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=孔鲋&amp;searchsubmit=yes"  target="_blank">孔鲋</a><span class="divide">|</span>发布时间：2014-08-12 20:26:06<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>孔丛卷下<br/><br/>公孙龙者、平原君之客也、好刑名、以白马为非白马、或谓子高曰、子高孔穿之字孔箕之子伋之元孙此人小辨而毁大道、子盍往正诸、子高曰大道之悖．天下之校枉也．吾何病焉．或曰虽然、子为天下故往也、子高适赵、与龙会平原君家、谓之曰仆居鲁、遂闻下风、而高先生之行也、愿受业之日久矣、然所不取于先生者、独不取先生以白马为非白马尔、诚去非白马之学、则穿请为弟子、公孙龙曰、先生之言悖也、龙之学、正以白马非白马者也、今使龙去之、则龙无以教矣、今龙为无以教、而乃学于龙、不亦悖乎、且夫学于龙者、以智与学不逮也、今教龙去白马非白马、是先教也、而后师之、不可也、先生之所教龙者、似齐王之问尹文也、齐王曰、寡人甚好士而齐国无士、尹文曰今有人于此、事君则忠．事亲则孝．交友则信．处乡则顺．有此四行者．可谓士乎．王曰善．是真吾所谓士者也．尹文曰王得此人．肯以为臣乎．王曰所愿不可得也．尹文曰使此人于广庭大众之中．见侮而不敢斗．王将以为臣乎．王曰夫士也见侮而不斗．是辱则寡人不以为臣矣．尹文曰虽见侮而不斗是未失所以为士也．然而王不以为臣．则乡所谓士者乃非士乎．夫王之令．杀人者死．伤人者刑．民有畏王令故见侮终不敢斗．是全王之法也．而王不以为臣．是罚之也．且王以不敢斗为辱．必以敢斗为荣．是王之所赏．吏之所罚也．上之所是．法之所非也．赏罚是非相与曲谬．虽十黄帝固所不能治也．齐王无以应．且白马非白马者．乃子先君仲尼之所取也．龙闻楚王张繁弱之弓．载忘归之矢．以射蛟兕于云梦之囿．反而丧其弓．左右请求之．王曰止也．楚人遗弓．楚人得之．又何求乎．仲尼闻之．曰楚王仁义而未遂．亦曰人得之而巳矣．何必楚乎．若是者．仲尼异楚人于所谓人也．夫是仲尼之异楚人于所谓人．而非龙之异白马于谓马．悖也．先生好儒术而非仲尼之所取也．欲学而使龙去所以教．虽百龙之智固不能当前也．子高莫之应．退而告人曰言非而转．巧而不理此固无所不答也．异日平原君会众宾而延子高．平原君曰先生圣人之后也、不远千里来顾临之欲去夫公孙子白马之学、今是非未分而先生□然欲高逝、可乎、子高曰理之至精者则自明之．岂任穿之退哉．平原君曰至精之说、可得闻乎、答曰其说皆取之经传．不敢以意．春秋记六鹢退飞．睹之则六．察之则鹢．鹢犹马也．六犹白也．睹之得见其白．察之则知其马．色以名别内由外显．谓之白马．名实当矣．若以丝麻加之女工为缁素青黄．色名虽殊．其质则一．是以诗有素丝．不曰丝素．礼有缁布．不曰布缁．●牛元武．此类甚众．先举其色．后名其质．万物之所同．圣贤之所常也．君子之谓贵当物理不贵繁辞．若尹文之折齐王之所言．与其法错故也．穿之所说于公孙子．高其智悦其行也．去白马之说．智行固存．是则穿未失其所师者也．称此云云．没其理矣．是楚王之言楚人忘弓楚人得之．先君夫子探其本意欲以示广．其实狭之．故曰．不如亦曰人得之而巳也．是则异楚王之所谓楚非异楚王之所谓人也．以此为喻．乃相击切矣．凡言人者．总谓人也亦犹言马者．总谓马也．楚自国也白自色也欲广其人．宜在去楚．欲正名色．不宜去白．忱察此理．则公孙之辨破矣．平原君曰先生言于理善矣因顾谓众宾曰、公孙子能答此乎．燕客史由对曰辞则有焉．理则否矣．公孙龙又与子高记论于平原君所、辨理至于臧三耳、公孙龙言臧之三耳甚辨析子高弗应、俄而辞出、明日复见平原君、曰畴昔公孙之言．信辨也．先生实以为何如．答曰然．几能臧三耳矣．虽然．实难．仆愿得又问于君．今为臧三耳甚难而实非也．谓臧两耳甚易而实是也．不知君将从易而是者乎．亦从难而非者乎．平原君弗能应．明日谓公孙龙曰、公无复与孔子高辨事也．其人理胜于辞．公辞胜于理．辞胜于理．终必受诎．<br/>李寅言曹良于平原君欲仕之平原君以问子高子高曰不识也．平原君曰良常得见于先生矣．故敢问．子高曰世人多自称上用我．则国无患．夫用智莫若观其身．其身且犹不免于患．国用之亦乌得无患乎．平原君曰良之有患时不明也．居家理．治可移于官．良能殖货．故欲仕之．子高曰未可知也．今有人于此．身脩计明而贫者志不存也．身不脩会计闇而富者．非盗无所得之也． </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-217-2402.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-217-2404.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-217.html" action-type="chapterComment" class="comment"><i></i>孔丛子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《韩非子》正文_扬榷第八_韩非作品 - 维普阅读网</title>
+<meta name="keywords" content="韩非子,韩非子原文,韩非子阅读,扬榷第八全文,韩非作品" />
+<meta name="description" content="韩非子原文阅读,扬榷第八全文在线阅读,韩非作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-23-324.html";
+var nextpage="novel-read-23-326.html";
+var indexpage = "novel-chapter-23.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-23.html">韩非子</a></strong>
+<strong><a href="novel-chapter-23.html">韩非子目录</a></strong>
+<span>扬榷第八</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-23-324.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>扬榷第八</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=韩非&amp;searchsubmit=yes"  target="_blank">韩非</a><span class="divide">|</span>发布时间：2014-07-18 23:20:43<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　天有大命，人有大命。夫香美脆味，厚酒肥肉，甘口而病形；曼理皓齿，说情而捐精。故去甚去泰，身乃无害。权不欲见，素无为也。事在四方，要在中央。圣人执要，四方来效。虚而待之，彼自以之。四海既藏，道阴见阳。左右既立，开门而当。勿变勿易，与二俱行，行之不已，是谓履理也。<br/>　　夫物者有所宜，材者有所施，各处其宜，故上下无为。使鸡司夜，令狸执鼠，皆用其能，上乃无事。上有所长，事乃不方。矜而好能，下之所欺。辩惠好生，下因其材。上下易用，国故不治。<br/>　　用一之道，以名为首，名正物定，名倚物徙。故圣人执一以静，使名自命，令事自定。不见其采，下故素正。因而任之，使自事之；因而予之，彼将自举之；正与处之，使皆自定之。上以名举之，不知其名，复修其形；形名参同，用其所生。二者诚信，下乃贡情。<br/>　　谨修所事，待命于天。毋失其要，乃为圣人。圣人之道，去智与巧，智巧不去，难以为常。民人用之，其身多殃；主上用之，其国危亡。因天之道，反形之理，督参鞠之，终则有始。虚以静后，未尝用己。凡上之患，必同其端；信而勿同，万民一从。<br/>　　夫道者，弘大而无形；德者，覈理而普至。至于群生斟酌用之，万物皆盛而不与其宁。道者，下周于事，因稽而命，与时生死。参名异事，通一同情。故曰：道不同于万物，德不同于阴阳，衡不同于轻重，绳不同于出入，和不同于燥湿，君不同于群臣。凡此六者，道之出也。道无双，故曰一。是故明君贵独道之容。君臣不同道，下以名祷。君操其名，臣效其形，形名参同，上下和调也。<br/>　　凡听之道：以其所出，反以为之入；故审名以定位，明分以辩类。听言之道，溶若甚醉。唇乎齿乎，吾不为始乎；齿乎唇乎，愈惛惛乎。彼自离之，吾因以知之；是非辐凑，上不与构。虚静无为，道之情也；参伍比物，事之形也。参之以比物，伍之以合虚。根干不革，则动泄不失矣。动之溶之，无为而改之。喜之则多事，恶之则生怨。故去喜去恶，虚心以为道舍。上不与共之，民乃宠之；上不与义之，使独为之。上固闭内扃，从室视庭，参咫尺已具，皆之其处。以赏者赏，以刑者刑，因其所为，各以自成。善恶必及，孰敢不信！规矩既设，三隅乃列。<br/>　　主上不神，下将有因；其事不当，下考其常。若天若地，是谓累解。若地若天，孰疏孰亲？能象天地，是谓圣人。欲治其内，置而勿亲；欲治其外，官置一人，不使自恣，安得移并！大臣之门，唯恐多人。凡治之极，下不能得。周合刑名，民乃守职；去此更求，是谓大惑。猾民愈众，奸邪满侧。故曰：毋富人而贷焉，毋贵人而逼焉，毋专信一人而失其都国焉。腓大于股，难以趣走。主失其神，虎随其后。主上不知，虎将为狗。主不蚤止，狗益无已。虎成其群，以弑其母。为主而无臣，奚国之有！主施其法，大虎将怯；主施其刑，大虎自宁。法刑苟信，虎化为人，复反其真。<br/>　　欲为其国，必伐其聚；不伐其聚，彼将聚众。欲为其地，必适其赐；不适其赐，乱人求益。彼求我予，假仇人斧；假之不可，彼将用之以伐我。黄帝有言曰：“上下一日百战。”下匿其私，用试其上；上操度量，以割其下。故度量之立，主之宝也；党与之具，臣之宝也。臣之所不弑其君者，党与不具也。故上失扶寸，下得寻常。有国之君，不大其都；有道之臣，不贵其家；有道之君，不贵其臣。贵之富之，彼将代之。备恐恐殆，急置太子，祸乃无从起。内索出圉，必身自执其度量。厚者亏之，薄者靡之。亏、靡有量，毋使民比周同欺其上。亏之若月，靡之若热。简令谨诛，必尽其罚。<br/>　　毋弛而弓，一栖两雄；一栖两雄，其斗颜颜。豺狼在牢，其羊不繁。一家二贵，事乃无功。夫妻持政，子无适从。<br/>　　为人君者，数披其木，毋使木技扶疏；木枝扶疏，将塞公闾，私门将实，公庭将虚，主将壅围。数披其木，无使木枝外拒；木枝外拒，将逼主处。数披其木，毋使枝大本小；枝大本小，将不胜春风；不胜春风，枝将害心。公子既众，宗室忧吟。止之之道，数披其木，毋使枝茂。木数披，党与乃离。掘其根本，木乃不神。填其渊，毋使水清。探其怀，夺之威。主上用之若电若雷。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-23-324.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-23-326.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-23.html" action-type="chapterComment" class="comment"><i></i>韩非子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《文心雕龙》正文_卷二十二 章表_刘勰作品 - 维普阅读网</title>
+<meta name="keywords" content="文心雕龙,文心雕龙原文,文心雕龙阅读,卷二十二 章表全文,刘勰作品" />
+<meta name="description" content="文心雕龙原文阅读,卷二十二 章表全文在线阅读,刘勰作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-665-8503.html";
+var nextpage="novel-read-665-8505.html";
+var indexpage = "novel-chapter-665.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-665.html">文心雕龙</a></strong>
+<strong><a href="novel-chapter-665.html">文心雕龙目录</a></strong>
+<span>卷二十二 章表</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-665-8503.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷二十二 章表</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘勰&amp;searchsubmit=yes"  target="_blank">刘勰</a><span class="divide">|</span>发布时间：2014-10-20 20:52:58<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　夫设官分职，高卑联事。天子垂珠以听，诸侯鸣玉以朝。敷奏以言，明试以功。故尧咨四岳，舜命八元，固辞再让之请，俞往钦哉之授，并陈辞帝庭，匪假书翰。然则敷奏以言，则章表之义也；明试以功，即授爵之典也。至太甲既立，伊尹书诫，思庸归亳，又作书以赞。文翰献替，事斯见矣。周监二代，文理弥盛。再拜稽首，对扬休命，承文受册，敢当丕显。虽言笔未分，而陈谢可见。降及七国，未变古式，言事于王，皆称上书。<br/><br/>　　秦初定制，改书曰奏。汉定礼仪，则有四品∶一曰章，二曰奏，三曰表，四曰议。章以谢恩，奏以按劾，表以陈请，议以执异。章者，明也。《诗》云“为章于天”，谓文明也。其在文物，赤白曰章。表者，标也。《礼》有《表记》，谓德见于仪。其在器式，揆景曰表。章表之目，盖取诸此也。按《七略》、《艺文》，谣咏必录；章表奏议，经国之枢机，然阙而不纂者，乃各有故事，布在职司也。<br/><br/>　　前汉表谢，遗篇寡存。及后汉察举，必试章奏。左雄表议，台阁为式；胡广章奏，天下第一：并当时之杰笔也。观伯始谒陵之章，足见其典文之美焉。昔晋文受册，三辞从命，是以汉末让表，以三为断。曹公称“为表不必三让”，又“勿得浮华”。所以魏初表章，指事造实，求其靡丽，则未足美矣。至如文举之《荐祢衡》，气扬采飞；孔明之辞后主，志尽文畅；虽华实异旨，并表之英也。琳?禹章表，有誉当时；孔璋称健，则其标也。陈思之表，独冠群才。观其体赡而律调，辞清而志显，应物制巧，随变生趣，执辔有馀，故能缓急应节矣。逮晋初笔札，则张华为俊。其三让公封，理周辞要，引义比事，必得其偶，世珍《鹪鹩》，莫顾章表。及羊公之辞开府，有誉于前谈；庾公之《让中书》，信美于往载。序志联类，有文雅焉。刘琨《劝进》，张骏《自序》，文致耿介，并陈事之美表也。<br/><br/>　　原夫章表之为用也，所以对扬王庭，昭明心曲。既其身文，且亦国华。章以造阙，风矩应明，表以致策，骨采宜耀：循名课实，以文为本者也。是以章式炳贲，志在典谟；使要而非略，明而不浅。表体多包，情伪屡迁。必雅义以扇其风，清文以驰其丽。然恳恻者辞为心使，浮侈者情为文屈，必使繁约得正，华实相胜，唇吻不滞，则中律矣。子贡云“心以制之，言以结之”，盖一辞意也。荀卿以为“观人美辞，丽于黼黻文章”，亦可以喻于斯乎？<br/><br/>　　赞曰∶<br/><br/>　　敷表降阙，献替黼扆。言必贞明，义则弘伟。<br/><br/>　　肃恭节文，条理首尾。君子秉文，辞令有斐。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-665-8503.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-665-8505.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-665.html" action-type="chapterComment" class="comment"><i></i>文心雕龙章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

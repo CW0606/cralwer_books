@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《从军行》正文_从军行 其五_王昌龄作品 - 维普阅读网</title>
+<meta name="keywords" content="从军行,从军行原文,从军行阅读,从军行 其五全文,王昌龄作品" />
+<meta name="description" content="从军行原文阅读,从军行 其五全文在线阅读,王昌龄作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-876-9374.html";
+var nextpage="novel-read-876-9376.html";
+var indexpage = "novel-chapter-876.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-876.html">从军行</a></strong>
+<strong><a href="novel-chapter-876.html">从军行目录</a></strong>
+<span>从军行 其五</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-876-9374.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>从军行 其五</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王昌龄&amp;searchsubmit=yes"  target="_blank">王昌龄</a><span class="divide">|</span>发布时间：2014-11-09 19:33:14<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>大漠风尘日色昏，红旗半卷出辕门。<br/>前军夜战洮河北，已报生擒吐谷浑。<br/><br/>【注释】<br/>1.大漠：指广阔无边的沙漠<br/>2.辕门：军营正门<br/>3.洮河：黄河支流。原于青海省、东北流经甘肃省临洮县，入黄河。<br/>4.吐谷浑：古代中国西部少数民族名。此处借以指进犯少数民族的首领。<br/><br/>【译文】<br/>大漠之中，狂风呼啸，尘土飞扬，天色昏暗。一队将士半卷着红旗出了军营，向敌军挺进。这时前方部队传来捷报：他们已在洮河的夜战中生擒敌军，大获全胜。<br/><br/>【鉴赏】<br/>　　读过《三国演义》的人，可能对第五回“关云长温酒斩华雄”有深刻印象。这对塑造关羽英雄形象是很精彩的一节。但书中并没有正面描写单刀匹马的关羽与领兵五万的华雄如何正面交手，而是用了这样一段文字：　(关羽)出帐提刀，飞身上马。众诸侯听得关外鼓声大振，喊声大举，如天摧地塌，岳撼山崩，众皆失惊。正欲探听，鸾铃响处，马到中军，云长提华雄之头，掷于地上，其酒尚温。<br/><br/>　　这段文学，笔墨非常简炼，从当时的气氛和诸侯的反应中，写出了关羽的神威。论其客观艺术效果，比写挥刀大战数十回合，更加引人入胜。罗贯中的这段文字，当然有他匠心独运之处，但如果就避开正面铺叙，通过气氛渲染和侧面描写，去让人想象战争场面这一点来看，却不是他的首创,王昌龄的这首《从军行》，应该说已早著先鞭，并且是以诗歌形式取得成功的。<br/><br/>　　“大漠风尘日色昏”，由于我国西北部的阿尔泰山、天山、昆仑山均呈自西向东或向东南走向，在河西走廊和青海东部形成一个大喇叭口，风力极大，狂风起时，飞沙走石。因此，“日色昏”接在“大漠风尘”后面，并不是指天色已晚，而是指风沙遮天蔽日。但这不光表现气候的暴烈，它作为一种背景出现，还自然对军事形势起着烘托、暗示的作用。在这种情势下，唐军采取什么行动呢?不是辕门紧闭，被动防守，而是主动出征。为了减少风的强大阻力，加快行军速度，战士们半卷着红旗，向前挺进。这两句于“大漠风尘”之中，渲染红旗指引的一支劲旅，好像不是自然界在逞威，而是这支军队卷尘挟风，如一柄利剑，直指敌营。这就把读者的心弦扣得紧紧的，让人感到一场恶战已迫在眉睫。这支横行大漠的健儿，将要演出怎样一种惊心动魄的场面呢?在这种悬想之下，再读后两句：“前军夜战洮河北，已报生擒吐谷浑。”这可以说是一落一起。读者的悬想是紧跟着刚才那支军队展开的，可是在沙场上大显身手的机会却并没有轮到他们。就在中途，捷报传来，前锋部队已在夜战中大获全胜，连敌酋也被生擒。情节发展得既快又不免有点出人意料，但却完全合乎情理，因为前两句所写的那种大军出征时迅猛、凌厉的声势，已经充分暗示了唐军的士气和威力。这支强大剽悍的增援部队，既衬托出前锋的胜利并非偶然，又能见出唐军兵力绰绰有余，胜券在握。<br/><br/>　　从描写看，诗人所选取的对象是未和敌军直接交手的后续部队，而对战果辉煌的“前军夜战”只从侧面带出。这是打破常套的构思。如果改成从正面对夜战进行铺叙，就不免会显得平板，并且在短小的绝句中无法完成。避开对战争过程的正面描写，从侧面进行烘托，就把绝句的短处变成了长处。它让读者从“大漠风尘日色昏”和“夜战洮河北”去想象前锋的仗打得多么艰苦，多么出色。从“已报生擒吐谷浑”去体味这次出征多么富有戏剧性。一场激战，不是写得声嘶力竭，而是出以轻快跳脱之笔，通过侧面的烘托、点染，让读者去体味、遐想。这一切，在短短的四句诗里表现出来，在构思和驱遣语言上的难度，应该说是超过“温酒斩华雄”那样一类小说故事的。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-876-9374.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-876-9376.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-876.html" action-type="chapterComment" class="comment"><i></i>从军行章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孔丛子》正文_论书_孔鲋作品 - 维普阅读网</title>
+<meta name="keywords" content="孔丛子,孔丛子原文,孔丛子阅读,论书全文,孔鲋作品" />
+<meta name="description" content="孔丛子原文阅读,论书全文在线阅读,孔鲋作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-217-2393.html";
+var nextpage="novel-read-217-2395.html";
+var indexpage = "novel-chapter-217.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-217.html">孔丛子</a></strong>
+<strong><a href="novel-chapter-217.html">孔丛子目录</a></strong>
+<span>论书</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-217-2393.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>论书</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=孔鲋&amp;searchsubmit=yes"  target="_blank">孔鲋</a><span class="divide">|</span>发布时间：2014-08-12 20:23:53<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>子张问曰、圣人受命必受诸天而书云受终于文祖．何也．孔子曰、受命于天者．汤武是也．受命于人者．舜禹是也．夫不读诗书易春秋则不知圣人之心．又无以别尧舜之禅汤武之伐也．<br/>子张问曰、礼丈夫三十而室．昔者舜三十征庸．而书云有鳏在下曰虞舜何谓也．曩师闻诸夫子曰、圣人在上．君子在位．则内无怨女．外无旷夫．尧为天子而有鳏在下．何也．孔子曰夫男子二十而冠．冠而后娶．古今通义也．舜父顽母嚚．莫克图室家之端焉．故逮三十而谓之鳏也．诗云娶妻如之何、必告父母、父母在则宜图婚．若巳殁则巳之娶必告其庙．会舜之鳏．乃父母之顽嚚也．虽尧为天子．其如舜何．<br/><br/>子夏问书大义．子曰吾于帝典、见尧舜之圣焉于大禹、皋陶谟、益稷、见禹稷皋陶之忠勤功勋焉．于洛诰、见周公之德焉．故帝典可以观美．大禹谟禹贡可以观事．皋陶谟益稷可以观政．洪范可以观度．谓皇极彝伦之度秦誓可以观义．五诰可以观仁．甫刑可以观诫．通斯七者．则书之大义举矣．孔子曰、书之于事也．远而不阔．近而不迫．志尽而不怨．辞顺而不 □．吾于高宗肜日、见德有报之疾也．茍由其道致其仁．则远方归志而致其敬焉．吾于洪范、见君子之不忍言人之恶而质人之美也．发乎中而见乎外以成文者．其唯洪范乎．<br/><br/>子张问曰、尧舜之世．一人不刑而天下治．何则．以教诚而爱深也．龙子以为一夫而被以五刑敢问何谓．子曰不然五刑所以佐教也．龙子未可谓能为书也．<br/><br/>子夏读书既毕而见于夫子．夫子谓曰子何为于书．子夏对曰书之论事也．昭昭然若日月之代明．离离然若星辰之错行．上有尧舜之道．下有三王之义．凡商之所受书于夫子者．志之于心弗敢忘．虽退而穷居河济之间．深山之中．作壤室．编蓬户．常于此弹琴以歌先王之道．则可以发愤慷喟忘巳贫贱．故有人亦乐之．无人亦乐之．上见尧舜之德．下见三王之义．忽不知忧患与死也．夫子愀然变容．曰嘻．子殆可与言书矣．虽然．其亦表之而巳未睹其里也．夫窥其门而不入其室．恶睹其宗庙之奥百官之美乎．<br/><br/>宰我问书云纳于大麓烈风雷雨弗迷．何谓也．孔子曰、此言人事之应乎天也．尧既得舜．历试诸难．巳而纳之于尊显之宫．使大录万机之政．是故阴阳清和．五星不悖．烈风雨各以其应．不有迷错愆伏．明舜之行合于天也．<br/><br/>宰我曰、敢问禋于六宗何谓也．孔子曰、所宗者六．皆洁祀之也．埋少牢于九昭．所以祭时也．祖迎于坎坛．所以祭寒暑也．主于郊宫．所以祭时也．夜明所以祭月也．幽荥所以祭星也．雩荥．所以祭水旱也．禋于六宗．此之谓也．<br/><br/>书曰、兹予大享于先王尔祖其从与享之．季桓子问曰、此何谓也．孔子曰、古之王者．臣有大功．死则必祀之于庙．所以殊有绩劝忠勤也．盘庚举其事以厉其世臣故称焉．桓子曰、天子之臣有大功者．则既然矣．诸侯之臣有大功者．可以如之乎．孔子曰劳能定国．功加于民．大臣死难．虽食之公庙可也．桓子曰、其位次如何．孔子曰、天子诸侯之臣．生则有列于朝．死则有位于庙其序一也．<br/><br/>书曰、维高宗报上甲微．上甲微契后八世汤之先也定公问曰、此何谓也．孔子对曰、此谓亲尽庙毁有功而不及祖．有德而不及宗．故于每岁之大尝而报祭焉．所以昭其功德也．公曰先君僖公功德前行．或作前列可以与于报乎．孔子曰丘闻昔虞夏商周、以帝王行此礼者则有矣．自此以下．未之知也．<br/><br/>定公问曰、周书所谓庸庸祗祗威威显民．何谓也．孔子对曰、不失其道．明之于民之谓也．大能用可用则正治矣．敬可敬则尚贤矣．畏可畏则服刑恤矣．君审此三者以示民．而国不兴．未之有也．<br/><br/>子张问书云奠高山．何谓也．孔子曰、高山五岳．定其差秩．祀所视焉．子张曰其礼如何．孔子曰、牲币之物．五岳视三公．小名山视子男．子张曰、仁者何乐于山．孔子曰夫山者岿然高．子张曰、高则何乐尔．孔子曰、夫山、草木植焉．鸟兽蕃焉．财用出焉．直而无私焉．四方皆伐焉．直而无私．兴吐风云．以通乎天地之间．阴阳和合．雨露之泽．万物以成．百姓咸飨．此仁者之所以乐乎山也．<br/><br/>孟懿子问书曰、钦四邻．何谓也．孔子曰、王者前有疑、后有丞、左有辅、右有弼、谓之四近．言前后左右近臣当畏敬之．不可以非其人也．周文王胥附奔辏先后御侮谓之四邻．以免乎羑里之害．懿子曰、夫子亦有四邻矣．孔子曰、吾有四友焉．自吾得回也．门人加亲是非胥附乎．自吾得赐也．远方之士日至是非奔辏乎．自吾得师也．前有光后有辉是非先后乎．自吾得仲由也．恶言不至于门是非御侮乎．孔子见齐景公．梁丘据自外而至．公曰何迟．对曰陈氏戮其小臣．臣有辞．为是故迟．公笑而目孔子．曰周书所谓明德慎罚．陈子明德也．罚人而有辞．非不慎矣．孔子答曰、昔康叔封卫．统三监之地．命为孟侯．周公以成王之命作康诰焉．称述文王之德．以成敕诫之文．其书曰惟乃丕显考文王．克明德慎罚．克明德者．能显用有德举而任之也．慎罚者并心而虑之．众平然后行之．致刑错也．此言其所任不失德．所罚不失罪不谓巳德之明也．公曰寡人不有过言．则安得闻吾子之教也．<br/><br/>书曰其在祖甲不义惟王．公西赤曰闻诸晏子、汤及太甲、武丁、祖乙、天下之大君．夫太甲为王．居丧行不义．同称君．何也．孔子曰、君子之于人．计功而除过．太甲即位．不明居丧之礼．而于冢宰之政．伊尹放之于桐．忧思三年．追悔前愆．起而复位．谓之明王．以此观之．虽四于三王．不亦可乎．<br/><br/>鲁哀公问书□夔曰于予击石拊石百兽率舞庶尹允谐．何谓也．孔子对曰此言善政之化乎物也．古之帝王功成作乐．其功善者其乐和．乐和则天地犹且应之．况百兽乎．夔为帝舜乐正．实能以乐尽治理之情．公曰然则政之大本莫尚夔乎．孔子曰、夫乐所以歌其成功．非政之本也．众官之长．既咸熙熙．然后乐乃和焉．公曰吾闻夔一足有异于人．信乎．孔子曰昔重黎举夔而进．又欲求人而佐焉．舜曰夫乐天地之精也．唯圣人为能和六律．均五音．知乐之本．以通八风夔能若此．一而足矣．故曰一足．非一足也．公曰善． </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-217-2393.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-217-2395.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-217.html" action-type="chapterComment" class="comment"><i></i>孔丛子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

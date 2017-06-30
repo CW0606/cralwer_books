@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孔子家语》正文_问玉_王肃作品 - 维普阅读网</title>
+<meta name="keywords" content="孔子家语,孔子家语原文,孔子家语阅读,问玉全文,王肃作品" />
+<meta name="description" content="孔子家语原文阅读,问玉全文在线阅读,王肃作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-349-5201.html";
+var nextpage="novel-read-349-5203.html";
+var indexpage = "novel-chapter-349.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-349.html">孔子家语</a></strong>
+<strong><a href="novel-chapter-349.html">孔子家语目录</a></strong>
+<span>问玉</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-349-5201.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>问玉</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王肃&amp;searchsubmit=yes"  target="_blank">王肃</a><span class="divide">|</span>发布时间：2014-09-05 21:48:25<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>子贡问于孔子曰：“敢问君子贵玉而贱？何也？为玉之寡而？多欤？”？石似玉？眉巾反孔子曰：“非为玉之寡故贵之，？之多故贱之。夫昔者君子比德于玉，温润而泽，仁也；缜密以栗，智也；缜密致塞貌栗坚也缜之忍反致直利反廉而不刿，义也；割而有廉隅而不割伤也刿呼外反垂之如坠，礼也。礼尚谦卑叩之，其声清越而长，其终则诎然乐矣。诎断绝貌似乐之息。诎曲勿反瑕不掩瑜，瑜不掩瑕，忠也；瑜其忠美者也孚尹旁达，信也；孚尹玉貌旁达言似者无不通气如白虹，天也；精神见于山川，地也；精神本出山川是故地也圭璋特达，德也；天下莫不贵者，道也。诗云：‘言念君子，温其如玉。’故君子贵之也。”<br/>　　孔子曰：“入其国，其教可知也。其为人也，温柔敦厚，诗教也；疏通知远，书教也；广博易良，乐教也；洁静精微，易教也；恭俭庄敬，礼教也；属辞比事，春秋教也。故诗之失愚，敦厚书之失诬，知远之失乐之失奢，易之失贼，精微之失礼之失烦，春秋之失乱。属辞比事之失其为人也，温柔敦厚而不愚，则深于诗者矣；疏通知远而不诬，则深于书者矣；广博易良而不奢，则深于乐者矣；洁静精微而不贼，则深于易者矣；恭俭庄敬而不烦，则深于礼者；属辞比事而不乱，则深于春秋者矣。天有四时者，春夏秋冬，风雨霜露，无非教也；地载神气，吐纳雷霆，流形庶物，无非教也。清明在躬，气志如神，清明之德在身也则其气志如神也有物将至，其兆必先。物事也言有事将至必先有兆应之者也是故天地之教，与圣人相参。其在诗曰：‘嵩高惟岳，峻极于天，惟岳降神，生甫及申，岳降神灵和气生申甫之大功也惟申及甫，惟周之翰。’翰干美其宗族世有大功于周甫侯相穆王制祥刑申伯佐宣王成德教四国于蕃，四方于宣，言能藩屏四国宣王德化于天下也此文武之德；言文武圣德笃佐周家正为先王良佐成中兴之功矢其文德，协此四国，毛诗矢其文德矢陈协和此文王之德也。凡三代之王，必先其令问。诗云：‘明明天子，令问不已，三代之德也。’”令力正反下同<br/>　　子张问圣人之所以教。孔子曰：“师乎，吾语汝，圣人明于礼乐，举而措之而已。”子张又问，孔子曰：“师，尔以为必布几筵，揖让升降，酌献酬酢，然后谓之礼乎？尔以必行缀兆，执羽钥，作钟鼓，然后谓之乐乎？言而可履，礼也；行而可乐，乐也。缀知劣反乐上音洛下音岳圣人力此二者，以躬己南面，是故天下太平，万民顺伏，百官承事，上下有礼也。夫礼之所以兴，众之所以治也；礼之所以废，众之所以乱也。目巧之室，则有隩阼，言目巧作室必有隩阼之位室西南隅谓之隩阼阼阶也隩于到反席则有上下，车则有左右，行则并随，立则有列序，古之义也。室而无隩阼，则乱于堂室矣；席而无上下，则乱于席次矣；乱于上席之次第车而无左右，则乱于车上矣；行而无并随，则乱于阶涂矣；升阶涂无并随则阶涂乱列而无次序，则乱于着矣。着所立之位也门屏之间谓之着也昔者明王圣人，辩贵贱长幼，正男女内外，序亲疏远近，而莫敢相踰越者，皆由此涂出也。”　</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-349-5201.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-349-5203.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-349.html" action-type="chapterComment" class="comment"><i></i>孔子家语章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

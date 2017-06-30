@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《集外集拾遗补编》正文_《肱墓志》考_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="集外集拾遗补编,集外集拾遗补编原文,集外集拾遗补编阅读,《肱墓志》考全文,鲁迅作品" />
+<meta name="description" content="集外集拾遗补编原文阅读,《肱墓志》考全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-542-7061.html";
+var nextpage="novel-read-542-7063.html";
+var indexpage = "novel-chapter-542.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-542.html">集外集拾遗补编</a></strong>
+<strong><a href="novel-chapter-542.html">集外集拾遗补编目录</a></strong>
+<span>《肱墓志》考</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-542-7061.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>《肱墓志》考</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-01 20:09:50<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　右盖云“齐故仪同公孙墓志”。志云：君讳肱，勃海条人。祖，仪同三司，青州使君。父，骠骑大将军，开府仪同三司，中领军。君以皇建二年终于晋阳第里，时年九岁。天统二年葬于邺北紫陌之阳。众家跋文，多以“公孙”为氏，因疑肱是略孙。（２）然略，人（３），与志言“勃海条人”者不合。志盖“公”字上有空格，似失刻其姓。原文当云“齐故仪同某公孙墓志”也。按北齐天统以前，勃海条人为领军者，天保间有平秦王归彦（４），天统初有东平王俨（５）。《魏书·高湖传》云：归彦，武定末，骠骑大将军，开府仪同三司，徐州刺史，安喜县开国男。又云：父徽，永熙中赠冀州刺史，则与志之“青州使君”不合。又《北齐书·归彦传》云：以讨侯景功，封长乐郡公，除领军大将军，领军加大，自归彦始。而志云“中领军”。《北齐书·武成帝纪》云：河清元年秋七月，冀州刺史，平秦王归彦据土反，诏大司马段韶，司空娄�计擒之。乙未，斩归彦并其三子。而志云“威名方盛”，皆不合。俨，亦领军大将军，又武成帝子，更非其人。《魏书·高湖传》又有仁�（６），皆赠仪同三司，青州刺史。仁子贯（７），不可考，入齐以后不可知。�子永乐，弼，《北齐书》有传，皆不云为中领军。（８）然志云“勃海条人”，又云“龙子驰声”，又云“终于晋阳”，“葬于邺”，皆似北齐帝室。其时领军归彦以河清二年二月解，（９）俨于天统二年始见于史，（１０）其间四年朔不知何人。故终疑肱为高氏，而史阙有间，不能得其祖父之名，姑识所见于后，以俟深于史者更考焉。 <br/><br/>　　==============================================================================<br/><br/><br/>　　（１）本篇据手稿编入，原无标题、标点。写作时间未详。《肱墓志》，出土于河南安阳。志石已佚，盖则犹存。志铭共十八行，行十八字，正书。全文如下：君讳肱字如肱�海�人也门资磐石之固世保维城之业祖仪同三司青州使君秉德含弘来蘓在物父骠骑大将军开府仪同三司中领军专总禁闱威名方盛观夫珠潜溟海璧润荆山不有高深孰蕴灵异君神情桀立崖岸恢举龙子驰声凤雏飞誉曹童测舃之妙未为通识王孺鉴虎之奇谁云智勇思叶风云调谐金石进退有度容止可观雅俗靶其风规家国俟其梁栋而垂天未效奄从不秀以皇建二年十一月廿六日终于晋阳之第里时年九岁天统二年二月廿五日葬於邺北紫陌之阳嗟乎居诸互始屡移岸谷寒暑交谢每易荣枯是用勒石泉扃庶遗芳不朽乃为铭曰璧出荆山玉自蓝田虽云重宝不雕不妍岂如令质其锋迥出问望堂堂德音��是称孺子实�通理辩日未俦论月非拟鹏翰渐就豹变垂成南山砍下北海将征忽为异世奄閟泉扃千秋万古空挹余声 <br/><br/>　　（２）关于肱为公孙氏的说法，如清代端方《匋斋藏石记》卷十二：“按《魏书·前废帝本纪》：普泰二年‘三月丁丑，加骠骑大将军、北华州刺史公孙略仪同三司。’略由骠骑大将军加仪同三司，与肱父之官肳合。疑肱父即略。”杨守敬《壬癸丁戊金石跋》：“‘祖仪同三司青州使君父骠骑大将军开府仪同三司中领军’，而不书祖、父之名，亦金石变例。按《魏书·公孙邃传》：‘出为使持节、安东将军、青州刺史’，肱祖似即其人。” <br/><br/>　　（３）按鲁迅手稿中“人”字前空二格，当是待补的地名。（４）归彦高归彦，字仁英，勃海条（今河北景县）人。北朝魏宁西将军、凉州镇都大将高湖的曾孙，北齐武帝高欢的族弟，于北齐宣帝天保元年（５５０）六月封平秦王。 <br/><br/>　　（５）俨高俨，字仁威，北齐武成帝第三子，《北齐书·高俨传》：“初封东平王，拜开府、侍中、中书监、京畿大都督、领军大将军、领御史中丞，迁司徒、尚书令、大将军、录尚书事、大司马。……武成崩，改封琅邪。” <br/><br/>　　（６）仁高仁，高湖的曾孙，父名拔。《魏书·高湖传》：“仁，正光中，卒于河州别驾。太昌初，赠使持节、侍中、都督青齐济三州诸军事、仪同三司、青州刺史，谥曰明穆。”�，高�，字明珍，亦为高湖曾孙，父名睹儿。《魏书·高湖传》：�，“太昌初，赠使持节、都督冀沧二州诸军事、征东将军、冀州刺史。永熙中，重赠侍中、都督青徐光三州诸军事、骠骑大将军、仪同三司、青州刺史，谥曰文景。”按今人赵万里在《汉魏南北朝墓志集释》卷七中以为肱系高�之孙。（７）贯高贯，《魏书·高湖传》：贯，“字小胡。永兴末，通直散骑常侍、金紫光禄大夫、尚食典御。” <br/><br/>　　（８）永乐高永乐，《北齐书·阳州公永乐传》：“太昌初，封阳州县伯，进爵为公。累迁北豫州刺史。”卒后“赠太师、太尉、录尚书事，谥曰武昭。”弼，据《北齐书·阳州公永乐传》，当为长弼，永乐之弟，以宗室封广武王，后贬南营州刺史。 <br/><br/>　　（９）高归彦解领军职，当在河清元年（５６２），《北齐书·武成纪》：河清元年“二月丁未，……以领军大将军、宗师、平秦王归彦为太宰、冀州刺史。” <br/><br/>　　（１０）有关高俨的记载，最初见于《北齐书·后主传》：天统二年（５６７）“五月乙酉，……封太上皇帝子俨为东平王”。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-542-7061.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-542-7063.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-542.html" action-type="chapterComment" class="comment"><i></i>集外集拾遗补编章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

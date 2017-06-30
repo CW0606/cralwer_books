@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《抱朴子》正文_卷二十七 良规_葛洪作品 - 维普阅读网</title>
+<meta name="keywords" content="抱朴子,抱朴子原文,抱朴子阅读,卷二十七 良规全文,葛洪作品" />
+<meta name="description" content="抱朴子原文阅读,卷二十七 良规全文在线阅读,葛洪作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-504-5846.html";
+var nextpage="novel-read-504-5848.html";
+var indexpage = "novel-chapter-504.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-504.html">抱朴子</a></strong>
+<strong><a href="novel-chapter-504.html">抱朴子目录</a></strong>
+<span>卷二十七 良规</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-504-5846.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷二十七 良规</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=葛洪&amp;searchsubmit=yes"  target="_blank">葛洪</a><span class="divide">|</span>发布时间：2014-09-20 22:54:31<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>抱朴子曰：翔集而不择木者，必有离罻之禽矣。出身而不料时者，必有危辱之士矣。时之得也，则飘乎犹应龙之览景云；时之失也，则荡然若巨鱼之枯崇陆。是以智者藏其器以有待也，隐其身而有为也。若乃高岩将霣，非细缕所缀；龙门沸腾，非掬壤所遏。则不苟且於乾没，不投险於侥幸矣。<br/>　　抱朴子曰：周公之摄王位，伊尹之黜太甲，霍光之废昌邑，孙綝之退少帝，谓之舍道用权，以安社稷。然周公之放逐狼跋，流言载路；伊尹终於受戮，大雾三日；霍光几於及身，家亦寻灭，孙綝桑荫未移，首足异所。皆笑音未绝，而号咷已及矣。<br/>　　夫危而不持，安用彼相？争臣七人，无道可救。致令王莽之徒，生其奸变，外引旧事以饰非，内包豺狼之祸心，由於伊霍，基斯乱也。将来君子，宜深兹矣。夫废立之事，小顺大逆，不可长也。召王之谲，已见贬抑。况乃退主，恶其可乎！此等皆计行事成，徐乃受殃者耳。若夫阴谋始权，而贪人卖之，赤族殄祀；而他家封者，亦不少矣。<br/>　　若有奸佞翼成骄乱，若桀之干辛推哆，纣之崇恶来，厉之党也，改置忠良，不亦易乎？除君侧之众恶，流凶族於四裔，拥兵持疆，直道守法，严操柯斧，正色拱绳，明赏必罚，有犯无赦，官贤任能，唯忠是与，事无专擅，请而後行；君有违谬，据理正谏。战战竞竞，不忘恭敬，使社稷永安於上，己身无患於下。功成不处，乞骸告退，高选忠能，进以自代，不亦绰有余裕乎？何必夺至尊之玺绂，危所奉之见主哉！<br/>　　夫君，天也，父也。君而可废，则天亦可改，父亦可易也。功盖世者不赏，威震主身危。此徒战胜攻取，勋劳无二者，且犹鸟尽而弓弃，兔讫而犬烹。况乎废退其君，而欲後主之爱己，是奚异夫为人子而举其所生捐之山谷，而取他人养之，而云我能为伯瑜曾叁之孝，但吾亲不中奉事，故弃去之。虽日享三牲，昏定晨省，岂能见怜信邪？<br/>　　霍光之徒，虽当时增班进爵，赏赐无量，皆以计见崇，岂斯人之诚心哉？夫纳弃妻而论前婿之恶，买仆虏而毁故主之暴，凡人庸夫，犹不平之。何者？重伤其类，自然情也。故乐羊以安忍见疏，而秦西以过厚见亲。而世人诚谓汤武为是，而伊霍为贤，此乃相劝为逆者也。<br/>　　又见废之君，未必悉非也。或辅翼少主，作威作福，罪大恶积，虑於为後患；及尚持势，因而易之，以延近局之祸。规定策之功，计在自利，未必为国也。取威既重，杀生决口。见废之主，神器去矣，下流之罪，莫不归焉。虽知其然，孰敢形言？无东牟朱虚以致其计，无南史董狐以证其罪，将来今日，谁又理之？独见者乃能追觉桀纣之恶不若是其恶，汤武之事不若是其美也。<br/>　　方策所载，莫不尊君卑臣，强干弱枝。《春秋》之义，天不可雠。大圣著经，资父事君。民生在三，奉之如一。而许废立之事，开不道之端，下陵上替，难以训矣。俗儒沈沦鲍肆，困於诡辩，方论汤武为食马肝，以弹斯事者，为不知权之为变，贵於起善而不犯顺，不谓反理而叛义正也。<br/>　　而前代立言者，不析之以大道，使有此情者加夫立剡锋之端，登方崩之山，非所以延年长世，远危之术。虽策命暂隆，弘赏暴集，无异乎牺牛之被纹绣，渊鱼之爱莽麦，渴者之资口於云日之酒，饥者之取饱於郁肉漏脯也。而属笔者皆共褒之，以为美谈，以不容诛之罪为知变，使人悒而永慨者也。<br/>　　或谏余以此言为伤圣人，必见讥贬。余答曰：“舜禹历试内外，然後受终文祖。虽有好伤，圣人者岂能伤哉！昔人严延年廷奏霍光为不道，於时上下肃然，无以折也。况吾为世之诫，无所指斥，何虑乎常言哉！”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-504-5846.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-504-5848.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-504.html" action-type="chapterComment" class="comment"><i></i>抱朴子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

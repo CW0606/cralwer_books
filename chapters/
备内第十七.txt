@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《韩非子》正文_备内第十七_韩非作品 - 维普阅读网</title>
+<meta name="keywords" content="韩非子,韩非子原文,韩非子阅读,备内第十七全文,韩非作品" />
+<meta name="description" content="韩非子原文阅读,备内第十七全文在线阅读,韩非作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-23-333.html";
+var nextpage="novel-read-23-335.html";
+var indexpage = "novel-chapter-23.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-23.html">韩非子</a></strong>
+<strong><a href="novel-chapter-23.html">韩非子目录</a></strong>
+<span>备内第十七</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-23-333.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>备内第十七</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=韩非&amp;searchsubmit=yes"  target="_blank">韩非</a><span class="divide">|</span>发布时间：2014-07-18 23:24:54<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　人主之患在於信人。信人，则制於人。人臣之於其君，非有骨肉之亲也，缚於势而不得不事也。故为人臣者，窥觇其君心也，无须臾之休，而人主怠傲处其上，此世所以有劫君弑主也。为人主而大信其子，则奸臣得乘於子以成其私，故李兑传赵王而饿主父。为人主而大信其妻，则奸臣得乘於妻以成其私，故优施传丽姬杀申生而立奚齐。夫以妻之近与子之亲而犹不可信，则其余无可信者矣。且万乘之主，千乘之君，后妃、夫人、适子为太子者，或有欲其君之蚤死者。<br/>　　何以知其然？夫妻者，非有骨肉之恩也，爱则亲，不爱则疏。语曰：“其母好者其子抱。”然则其为之反也，其母恶者其子释。丈夫年五十而好色未解也，妇人年三十而美色衰矣。以衰美之妇人事好色之丈夫，则身死见疏贱，而子疑不为后，此后妃、夫人之所以冀其君之死者也。唯母为后而子为主，则令无不行，禁无不止，男女之乐不减於先君，而擅万乘不疑，此鸩毒扼昧之所以用也。故《桃左春秋》曰：“人主之疾死者不能处半。”人主弗知，则乱多资。故曰：利君死者众则人主危。故王良爱马，越王勾践爱人，为战与驰。医善吮人之伤，含人之血，非骨肉之亲也，利所加也。故舆人成舆，则欲人之富贵；匠人成棺，则欲人之夭死也。非舆人仁而匠人贼也，人不贵则舆不售，人不死则棺不买。情非憎人也，利在人之死也。故后妃、夫人、太子之党成而欲君之死也，君之死则势不重。情非憎君也，利在君之死也。故人主不可以不加心於利己死者。故日月晕围於外，其贼在内，备其所憎，祸在所爱。是故明王不举不参之事，不食非常之食；远听而近视，以审内外之失；省同异之言，以知朋党之分；偶参伍之验，以责陈言之实；势后以应前，按法以治众，众端以参观。士无幸赏，无逾行；杀必当，罪不赦；则奸邪无所容其私矣。<br/>　　徭役多则民苦，民苦则权势起，权势起则复除重，复除重则贵人富。苦民以富贵人，起势以藉人臣，非天下长利也。故曰：徭役少则民安，民安则下无重权，下无重权则权势灭，权势灭则德在上矣。今夫水之胜火亦明矣，然而釜鬵间之，水煎沸竭尽其上，而火得炽盛焚其下，水失其所以胜者矣。今夫治之禁奸又明於此，然法守之臣为釜鬵之行，则法独明於胸中，而已失其所以禁奸者矣。上古之传言，《春秋》所记，犯法为逆以成大奸者，未尝不从尊贵之臣也。而法令之所以备，刑罚之所以诛，常於卑贱，是以其民绝望，无所告愬。大臣比周，蔽上为一，阴相善而阳相恶，以示无私，相为耳目，以候主隙。人主掩蔽，无道得闻，有主名而无实，臣专法而行之，周天子是也。偏借其权势，则上下易位矣，此言人臣之不可借权势。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-23-333.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-23-335.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-23.html" action-type="chapterComment" class="comment"><i></i>韩非子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

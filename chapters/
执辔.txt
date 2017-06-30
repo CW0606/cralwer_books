@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孔子家语》正文_执辔_王肃作品 - 维普阅读网</title>
+<meta name="keywords" content="孔子家语,孔子家语原文,孔子家语阅读,执辔全文,王肃作品" />
+<meta name="description" content="孔子家语原文阅读,执辔全文在线阅读,王肃作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-349-5190.html";
+var nextpage="novel-read-349-5192.html";
+var indexpage = "novel-chapter-349.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-349.html">孔子家语</a></strong>
+<strong><a href="novel-chapter-349.html">孔子家语目录</a></strong>
+<span>执辔</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-349-5190.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>执辔</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王肃&amp;searchsubmit=yes"  target="_blank">王肃</a><span class="divide">|</span>发布时间：2014-09-05 21:45:38<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>闵子骞为费宰，问政于孔子。子曰：“以德以法。夫德法者，御民之具，犹御马之有衔勒也。君者，人也，吏者，辔也，刑者，策也，夫人君之政，执其辔策而已。”子骞曰：“敢问古之为政。”孔子曰：“古者天子以内史为左右手，内史掌王八柄及？事之法纳以诏王听治命孤卿大夫则策命以四方之事书则读之王制禄则费为之赏则亦如之故王以为左右手费芳未反以德法为衔勒，以百官为辔，以刑罚为策，以万民为马，故御天下数百年而不失。善御马正衔勒，齐辔策，均马力，和马心，故口无声而马应辔，策不举而极千里；善御民，壹其德法，正其百官，以均齐民力，和安民心，故令不再而民顺从，刑不用而天下治。是以天地德之，天地以有为德而兆民怀之，怀归夫天地之所德，兆民之所怀，其政美，其民而众称之。其民为众所称举也今人言五帝三王者，其盛无偶，威察若存，其盛以明察帝若存其故何也？其法盛，其德厚，故思其德，必称其人，朝夕祝之，升闻于天，上帝俱歆用永厥世而丰其年。不能御民者，弃其德法，专用刑辟，譬犹御马，弃其衔勒而专用棰策，其不制也，可必矣。夫无衔勒而用棰策，马必伤，车必败；无德法而用刑，民必流，国必亡。治国而无德法，则民无修，民无修则迷惑失道，如此上帝必以其为乱天道也。苟乱天道，则刑罚暴，上下相谀，谄谀莫知念忠，俱无道故也。今人言恶者，必比之于桀纣，其故何也？其法不听，其德不厚，故民恶其残虐，莫不吁嗟，朝夕祝之，升闻于天，上帝不蠲，降之以祸罚，灾害并生，用殄厥世。故曰德法者御民之本。古之御天下者，以六官总治焉，冢宰之官以成道，治官所以成道司徒之官以成德，教官所以成德宗伯之官以成仁，祀官所以成仁司马之官以成圣，治官所以成圣圣通征伐所以通天下也司寇之官以成义，刑官所以成义司空之官以成礼。事官所以成礼礼非事不立也六官在手以为辔，司会均仁以为纳，纳骖马辔辔系轼前者司会掌邦之六典八法之戒以周知四方之治冢宰之副故不在其六辔至当纳位故曰御四马者执六辔，御天下者正六官。是故善御马者正身以总辔，均马力，齐马心，回旋曲折，唯其所之，故可以取长道，可赴急疾，此圣人所以御天地与人事之法则也。天子以内史为左右手，以六官为辔，已而与三公为执六官，均五教，齐五法。仁义礼智信之法也故亦唯其所引，无不如志，以之道则国治，冢宰治官以之德则国安，德教成以之仁则国和礼之用和为贵则国安以之仁则国和，以之圣则国平，通治远近则国平也以之礼则国安，事物以礼则国定也以之义则国义，义平也刑罚当罪则国平此御政之术。过失人之情，莫不有焉，过而改之，是为不过。故官属不理，分职不明，法政不一，百事失纪曰乱，乱则饬冢宰；饬谓整摄人也地而不殖，财物不蕃，万民饥寒，教训不行，风俗淫僻，人民流散曰危，危则饬司徒；父子不亲，长幼失序，君臣上下，乖离异志曰不和，不和则饬宗伯；贤能而失官爵，功劳而失赏禄，司勋之职属之司马士卒疾怨，兵弱不用曰不平，不平则饬司马；刑罚暴乱，奸邪不胜曰不义，不义则饬司寇；度量不审，举事失理，都鄙不修，财物失所曰贫，贫则饬司空。故御者同是车马，或以取千里，或不及数百里，其所谓进退缓急，异也。夫治者同是官法，或以致平，或以致乱者，亦其所以为进退缓急异也。古者天子常以季冬考德正法，以观治乱，德盛者治也，德薄者乱也。故天子考德，则天下之治乱，可坐庙堂之上而知之，夫德盛则法修，德不盛则饬，法与政咸德而不衰。法与政皆合于德则不杀故曰王者又以孟春论之德及功能。能德法者为有德，能行德法者为有行，行下孟反能成德法者为有功，能治德法者为有智。故天子论吏而德法行，事治而功成，夫季冬正法，孟春论吏，治国之要。”<br/>　　子夏问于孔子曰：“商闻易之生人及万物，鸟兽昆虫，各有奇耦，气分不同，易主天地以生万物言受气各有分数不齐同分扶问反而凡人莫知其情，唯达德者能原其本焉。天一，地二，人三，三如九，九九八十一，一主日，日数十，故人十月而生；一主日从一而生日者阳从奇数日数十从甲至癸也八九七十二，偶以从奇，奇主辰，辰为月，月主马，故马十二月而生；偶以承奇阴以承阳辰数十二从子至亥也奇居宜反七九六十三，三主斗，斗主狗，故狗三月而生；斗次日月故以主斗六九五十四，四主时，时主豕，故豕四月而生；音不过五故五为音四九三十六，六为律，律主鹿，故鹿六月而生；三九二十七，七主星，星主虎，故虎七月而生；星二十八宿为四方方有七度七主星也二九一十八，八主风，风为虫，故虫八月而生；风之数尽于八凡虫为风风为虫也其余各从其类矣。鸟鱼生阴而属于阳，故皆卵生。鱼游于水，鸟游于云，故立冬则燕雀入海化为蛤。蚕食而不饮，蝉饮而不食，蜉蝣不饮不食，万物之所以不同。介鳞夏食而冬蛰，介甲虫也龁吞者八窍而卵生，八窍鸟属龁下没反龃●者九窍而胎生，九窍人及兽属龃壮所反●疾雀反四足者无羽翼，戴角者无上齿，无角无前齿者膏，无角无后齿者脂，淮南取此义曰无角者膏而无前有角者脂而无后膏豚属而脂羊属无前后皆谓其锐小者也昼生者类父，夜生者似母，是以至阴主牝，至阳主牡。敢问其然乎？”孔子曰：“然，吾昔闻老聃亦如汝之言。”子夏曰：“商闻山书曰：‘地东西为纬，南北为经，山为积德，川为积刑，高者为生，下者为死，丘陵为牡，溪谷为牝，蚌蛤龟珠，与日月而盛虚。月盛则蚌蛤之属满月亏则虚是故坚土之人刚，弱土之人柔，墟土之人大，沙土之人细，息土之人美，●土之人丑。●耗字也息土细致●土麤疏者也食水者善游而耐寒，食土者无心而不息，螟属不气息也食木者多力而不治，血气不治淮南子曰多力而弗戾亦不治之貌者也食草者善走而愚，食桑者有绪而蛾，食肉者勇毅而捍，食气者神明而寿，食谷者智惠而巧，不食者不死而神。故曰羽虫三百有六十，而凤为之长；毛虫三百有六十，而麟为之长；甲虫三百有六十，而龟为之长；鳞虫三百有六十而龙为之长；？虫三百有六十而人为之长。此干？之美也。干天？地’殊形异类之数，王者动必以道动，静必以道静，必顺理以奉天地之性，而不害其所主，谓之仁圣焉？”子夏言终而出，子贡进曰：“商之论也何如？”孔子曰：“汝谓何也？”对曰：“微则微矣，然则非治世之待也。”孔子曰：“然，各其所能。”孔子曰然子贡治世不待世事世事之急然亦各其所知能也</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-349-5190.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-349-5192.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-349.html" action-type="chapterComment" class="comment"><i></i>孔子家语章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

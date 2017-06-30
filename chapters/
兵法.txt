@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《管子》正文_兵法_管仲作品 - 维普阅读网</title>
+<meta name="keywords" content="管子,管子原文,管子阅读,兵法全文,管仲作品" />
+<meta name="description" content="管子原文阅读,兵法全文在线阅读,管仲作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-43-1131.html";
+var nextpage="novel-read-43-1133.html";
+var indexpage = "novel-chapter-43.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-43.html">管子</a></strong>
+<strong><a href="novel-chapter-43.html">管子目录</a></strong>
+<span>兵法</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-43-1131.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>兵法</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=管仲&amp;searchsubmit=yes"  target="_blank">管仲</a><span class="divide">|</span>发布时间：2014-07-24 20:50:28<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　明一者皇，察道者帝，通德者王，谋得兵胜者霸。故夫兵，虽非备道至德也，然而所以辅王成霸。今代之用兵者不然，不知兵权者也。故举兵之日而境内贫，战不必胜，胜则多死，得地而国败。此四者，用兵之祸者也。四祸其国而无不危矣。<br/><br/>　　大度之书曰：举兵之日而境内不贫，战而必胜，胜而不死，得地而国不败。为此四者若何？举兵之日而境内不贫者，计数得也。战而必胜者，法度审也。胜而不死者，教器备利，而敌不敢校也。得地而国不败者，因其民也。因其民，则号制有发也。教器备利，则有制也。法度审，则有守也。计数得，则有明也。治众有数，胜敌有理。察数而知理，审器而识胜，明理而胜敌。定宗庙，遂男女，官四分，则可以定威德；制法仪，出号令，然后可以一众治民。<br/><br/>　　兵无主，则不蚤知敌。野无吏，则无蓄积。官无常，则下怨上，器械不巧。则朝无定，赏罚不明，则民轻其产。故曰：蚤知敌，则独行；有蓄积，则久而不匮；器械巧，则伐而不费：赏罚明，则勇士劝也。<br/><br/>　　三官不缪，五教不乱，九章著明，则危危而无害，穷穷而无难。故能致远以数，纵强以制。三官：一曰鼓棗鼓所以任也，所以起也，所以进也；二曰金棗金所以坐也，所以退也，所以免也；三曰旗棗旗所以立兵也，所以利兵也，所以偃兵也。此之谓三官。有三令，而兵法治也。五教：一曰教其目以形色之旗，二曰教其身以号令之数，三曰教其足以进退之度，四曰教其手以长短之利，五曰教其心以赏罚之诚。五教各习，而士负以勇矣。九章：一曰举日章，则昼行；二曰举月章，则夜行；三曰举龙章，则行水；四曰举虎章，则行林；五曰举鸟章，则行陂；六曰举蛇章，则行泽；七曰举鹊章，则行陆；八曰举狼章，则行山；九曰举韟章，则载食而驾。九章既定，而动静不过。<br/><br/>　　三官、五教、九章，始乎无端，卒乎无穷。始乎无端者，道也；卒乎无穷者，德也。道不可量，德不可数也。故不可量，则众强不能图；不可数，则伪诈不敢向。两者备施，则动静有功。径乎不知，发乎不意。径乎不知，故莫之能御也；发乎不意，故莫之能应也。故全胜而无害。因便而教，准利而行。教无常，行无常。两者备施，动乃有功。<br/><br/>　　器成教施，追亡逐遁若飘风，击刺若雷电。绝地不守，恃固不拔，中处而无敌，令行而不留。器成教施，散之无方，聚之不可计。教器备利，进退若雷电，而无所疑匮。一气专定，则傍通而不疑；厉士利械，则涉难而不匮。进无所疑，退无所匮，敌乃为用。凌山坑，不待钩梯；历水谷，不须舟辑。径于绝地，攻于恃固，独出独入而莫之能止。宝不独入，故莫之能止；宝不独见，故莫之能敛。无名之至，尽尽而不意。故不能疑神。<br/><br/>　　畜之以道，则民和；养之以德，则民合。和合故能谐，谐故能辑，谐辑以悉，莫之能伤。定一至，行二要，纵三权，施四教，发五机，设六行，论七数，守八应，审九器，章十号。故能全胜大胜。<br/><br/>　　无守也，故能守胜。数战则士罢，数胜则君骄，夫以骄君使罢民，则国安得无危？故至善不战，其次一之。破大胜强，一之至也。乱之不以变，乘之不以诡，胜之不以诈，一之实也。近则用实，远则施号；力不可量，强不可度，气不可极，德不可测，一之原也。众若时雨，寡若飘风，一之终也。<br/><br/>　　利適，器之至也；用敌，教之尽也。不能致器者，不能利適；不能尽教者，不能用敌。不能用敌者穷，不能致器者困。远用兵，则可以必胜。出入异涂，则伤其敌。深入危之，则士自修；士自修，则同心同力。善者之为兵也，使敌若据虚，若搏景。无设无形焉，无不可以成也；无形无为焉，无不可以化也，此之谓道矣。若亡而存，若后而先，威不足以命之。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-43-1131.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-43-1133.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-43.html" action-type="chapterComment" class="comment"><i></i>管子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

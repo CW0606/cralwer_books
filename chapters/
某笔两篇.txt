@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《三闲集》正文_某笔两篇_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="三闲集,三闲集原文,三闲集阅读,某笔两篇全文,鲁迅作品" />
+<meta name="description" content="三闲集原文阅读,某笔两篇全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-549-7434.html";
+var nextpage="novel-read-549-7436.html";
+var indexpage = "novel-chapter-549.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-549.html">三闲集</a></strong>
+<strong><a href="novel-chapter-549.html">三闲集目录</a></strong>
+<span>某笔两篇</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-549-7434.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>某笔两篇</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-04 20:33:55<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　昨天又得幸逢了两种奇特的广告，仍敢执绍介之劳。标点是我所加的，以醒眉目。该称什么笔呢，想了两天两夜，没有好结果。姑且称为“某笔”，以俟博雅君子教正。这回的“动机”比较地近于纯正，除希望“有目共赏”外，似乎并不含有其他的副作用了。但又发生了一种妄想。记得前清时，曾有一种专选各种报上较好的论说的，叫作《选报》〔２〕。现在如有好事之徒，也还可以办这一类的刊物。每省须有访员数人，专收该地报上奇特的社论，记事，文艺，广告等等，汇刊成册，公之于世。则其显示各种“社会相”也，一定比游记之类要深切得多。不知ＣＦ男士〔３〕以为何如？一九二七年九月二十二日午饭之前。 <br/><br/>　　其一 <br/><br/>　　熊仲卿榜名文蔚。历任民国县长，所长，处长，局长，厅长。通儒，显宦，兼作良医，尤擅女科。住本港跑马地黄泥涌道门牌五十五号一楼中医熊寓，每日下午应诊及出诊。电话总局五二七零。 <br/><br/>　　（右一则见九月二十一日香港《循环日报》。） <br/><br/>　　谨案：以吾所闻，向来或称世医，以其数代为医也；或称儒医，以其曾做八股也；或称官医，以其亦为官家所雇也；或称御医，以其曾经走进（？）太医院〔４〕也。若夫“县长，所长，处长，局长，厅长。通儒，显宦”，而又“兼作良医”，则诚旷古未有者矣。而五“长”做全，尤为难得云。 <br/><br/>　　其二 <br/><br/>　　征求父母广告余现已授中等教育有年，品行端正，纯无嗜好。因不幸父母相继逝世，余独取家资，来学广州。自思自觉单身儿子，有非常之寂寞。于是自愿甘心为人儿子。并自愿倾家产而从四方人事而无儿子者。有相当之家庭，且欲儿子者，请来函报告（家庭状况经济地位若何），并写明通讯地址。俟我回复，方接洽面商。阅报诸君而能介绍我好事成功者，应以百金敬酬。不成功者，当有谢谢。申一○六通讯处广东省立第一中学校余希成具。 <br/><br/>　　（右一则见同日广州《民国日报》。） <br/><br/>　　谨案：我辈生当浇漓之世，于“征求伴侣”等类广告，早经司空见惯，不以为奇。昔读茅泮林所辑《古孝子传》〔５〕，见有三男皆无母，乃共迎养一不相干之老妪，当作母亲一事，颇以为奇。然那时孝廉方正〔６〕，可以做官，故尚能疑为别有作用也。而此广告则挟家资以求亲，悬百金而待荐，雒诵之余，乌能不欣人心之复返于淳古，表而出之，以为留心世道者告，而为打爹骂娘者劝哉？特未知阅报诸君，可知广州有欲儿子者否？要知道倘为介绍，即使好事不成，亦有“谢谢”者也。 <br/><br/>　　<br/><br/><br/>　　〔１〕本篇最初发表于一九二七年十一月二十六日《语丝》第一五六期。 <br/><br/>　　〔２〕《选报》一九○二年（清光绪二十八年）在上海出版的一种杂志。 <br/><br/>　　〔３〕ＣＦ男士指李小峰（１８９７—１９７１），江苏江阴人，当时北新书局主持人。该书局出版的非洲须莱纳尔（ＯｌｉｖｅＳｃｈｒｅｉｎｅｒ）所著《梦》的中译本，译者张近芬署名为ＣＦ女士。这里是对李小峰的戏称。<br/><br/>　　〔４〕太医院宫廷医疗机构。 <br/><br/>　　〔５〕《古孝子传》清代茅泮林从类书中辑录刘向、萧广济、王歆、王韶之、周景式、师觉授、宋躬、虞盘佑、郑缉等已散佚的《孝子传》成书。这里引述的事，见该书《五郡孝子》篇。“三男”应是“五男”。 <br/><br/>　　〔６〕孝廉方正汉代选拔官吏，有孝廉和贤良方正的科目，由地方向朝廷荐举“孝子”、“直言极谏者”，中选的授予官职。清代合孝廉和贤良方正为孝廉方正科。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-549-7434.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-549-7436.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-549.html" action-type="chapterComment" class="comment"><i></i>三闲集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

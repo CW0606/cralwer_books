@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《论衡》正文_卷二·命义篇_王充作品 - 维普阅读网</title>
+<meta name="keywords" content="论衡,论衡原文,论衡阅读,卷二·命义篇全文,王充作品" />
+<meta name="description" content="论衡原文阅读,卷二·命义篇全文在线阅读,王充作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-247-3804.html";
+var nextpage="novel-read-247-3806.html";
+var indexpage = "novel-chapter-247.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-247.html">论衡</a></strong>
+<strong><a href="novel-chapter-247.html">论衡目录</a></strong>
+<span>卷二·命义篇</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-247-3804.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷二·命义篇</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王充&amp;searchsubmit=yes"  target="_blank">王充</a><span class="divide">|</span>发布时间：2014-08-24 22:06:55<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>墨家之论，以为人死无命；儒家之议，以为人死有命。言有命者，见子夏言“死生有命，富贵在天。”言无命者，闻历阳之都，一宿沉而为湖；秦将白起坑赵降卒於长平之下，四十万众，同时皆死；春秋之时，败绩之军，死者蔽草，尸且万数；饥馑之岁，饿者满道；温气疫疬，千户灭门，如必有命，何其秦、齐同也？言有命者曰：夫天下之大，人民之众，一历阳之都，一长平之坑，同命俱死，未可怪也。命当溺死，故相聚於历阳；命当压死，故相积於长平。犹高祖初起，相工入丰、沛之邦，多封侯之人矣，未必老少男女俱贵而有相也，卓砾时见，往往皆然。而历阳之都，男女俱没，长平之坑，老少并陷，万数之中，必有长命未当死之人。遭时衰微，兵革并起，不得终其寿。人命有长短，时有盛衰，衰则疾病，被灾蒙祸之验也。”<br/><br/>　　宋、卫、陈、郑同日并灾，四国之民，必有禄盛未当衰之人，然而俱灭，国祸陵之也。故国命胜人命，寿命胜禄命。人有寿夭之相，亦有贫富贵贱之法，俱见於体。故寿命修短，皆禀於天；骨法善恶，皆见於体。命当夭折，虽禀异行，终不得长；禄当贫贱，虽有善性，终不得遂。项羽且死，顾谓其徒曰：“吾败乃命，非用兵之过。”此言实也。实者项羽用兵过於高祖，高祖之起，有天命焉。国命系於众星，列宿吉凶，国有祸福；众星推移，人有盛衰。人之有吉凶，犹岁之有丰耗，命有衰盛，物有贵贱。一岁之中，一贵一贱；一寿之间，一衰一盛。物之贵贱，不在丰耗；人之衰盛，不在贤愚。子夏曰“死生有命，富贵在天”，而不曰“死生在天，富贵有命”者，何则？死生者，无象在天，以性为主。禀得坚强之性，则气渥厚而体坚强，坚强则寿命长，寿命长则不夭死。禀性软弱者，气少泊而性羸窳，羸窳则寿命短，短则蚤死。故言“有命”，命则性也。至於富贵所禀，犹性所禀之气，得众星之精。众星在天，天有其象。得富贵象则富贵，得贫贱象则贫贱，故曰“在天”。在天如何？天有百官，有众星。天施气而众星布精，天所施气，众星之气在其中矣。人禀气而生，含气而长，得贵则贵，得贱则贱；贵或秩有高下，富或资有多少，皆星位尊卑小大之所授也。故天有百官，天有众星，地有万民，五帝、三王之精。天有王梁、造父，人亦有之，禀受其气，故巧於御。<br/><br/>　　传曰：“说命有三，一曰正命，二曰随命，三曰遭命。”正命，谓本禀之自得吉也。性然骨善，故不假操行以求福而吉自至，故曰正命。随命者，戳力操行而吉福至，纵情施欲而凶祸到，故曰随命。遭命者，行善得恶，非所冀望，逢遭於外而得凶祸，故曰遭命。凡人受命，在父母施气之时，已得吉凶矣。夫性与命异，或性善而命凶，或性恶而命吉。操行善恶者，性也；祸福吉凶者，命也。或行善而得祸，是性善而命凶；或行恶而得福，是性恶而命吉也。性自有善恶，命自有吉凶。使命吉之人，虽不行善，未必无福；凶命之人，虽勉操行，未必无祸。孟子曰：“求之有道，得之有命。”性善乃能求之，命善乃能得之。性善命凶，求之不能得也。行恶者祸随而至。而盗跖、庄蹻横行天下，聚党数千，攻夺人物，断斩人身，无道甚矣，宜遇其祸，乃以寿终。夫如是，随命之说，安所验乎？遭命者，行善於内，遭凶於外也。若颜渊、伯牛之徒，如何遭凶？颜渊、伯牛，行善者也，当得随命，福佑随至，何故遭凶？颜渊困於学，以才自杀；伯牛空居而遭恶疾。及屈平、伍员之徒，尽忠辅上，竭王臣之节，而楚放其身，吴烹其尸。行善当得随命之福，乃触遭命之祸，何哉？言随命则无遭命，言遭命则无随命，儒者三命之说，竟何所定？且命在初生，骨表著见。今言随操行而至，此命在末，不在本也。则富贵贫贱皆在初禀之时，不在长大之後，随操行而至也。正命者，至百而死；随命者，五十而死。遭命者，初禀气时遭凶恶也，谓妊娠之时遭得恶也，或遭雷雨之变，长大夭死。此谓三命。<br/><br/>　　亦有三性：有正，有随，有遭。正者，禀五常之性也；随者，随父母之性；遭者，遭得恶物象之故也。故妊妇食兔，子生缺脣。《月令》曰：“是月也，雷将发声。”有不戒其容者，生子不备，必有大凶，喑聋跛盲。气遭胎伤，故受性狂悖。羊舌似我初生之时，声似豺狼，长大性恶，被祸而死。在母身时，遭受此性，丹硃、商均之类是也。性命在本，故《礼》有胎教之法：子在身时，席不正不坐，割不正不食，非正色目不视，非正声耳不听。及长，置以贤师良傅，教君臣父子之道，贤不肖在此时矣。受气时，母不谨慎，心妄虑邪，则子长大，狂悖不善，形体丑恶。素女对黄帝陈五女之法，非徒伤父母之身，乃又贼男女之性。<br/><br/>　　人有命，有禄，有遭遇，有幸偶。命者，贫富贵贱也；禄者，盛衰兴废也。以命当富贵，遭当盛之禄，常安不危；以命当贫贱，遇当衰之禄，则祸殃乃至，常苦不乐。遭者，遭逢非常之变，若成汤囚夏台，文王厄牖里矣。以圣明之德，而有囚厄之变，可谓遭矣。变虽甚大，命善禄盛，变不为害，故称遭逢之祸。晏子所遭，可谓大矣。直兵指胸，白刃如颈，蹈死亡之地，当剑戟之锋，执死得生还。命善禄盛，遭逢之祸，不能害也。历阳之都，长平之坑，其中必有命善禄盛之人，一宿同填而死。遭逢之祸大，命善禄盛不能却也。譬犹水火相更也，水盛胜火，火盛胜水。遇者，遇其主而用也。虽有善命盛禄，不遇知己之主，不得效验。幸者，谓所遭触得善恶也。获罪得脱，幸也。无罪见拘，不幸也。执拘未久，蒙令得出，命善禄盛，夭灾之祸不能伤也。偶者，谓事君也。以道事君，君善其言，遂用其身，偶也。行与主乖，退而远，不偶也。退远未久，上官录召，命善禄盛，不偶之害不能留也。<br/><br/>　　故夫遭遇幸偶，或与命禄并，或与命离。遭遇幸偶，遂以成完；遭遇不幸偶，遂以败伤，是与命并者也。中不遂成，善转为恶，是与命禄离者也。故人之在世，有吉凶之命，有盛衰之，重以遭遇幸偶之逢，获从生死而卒其善恶之行，得其胸中之志，希矣。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-247-3804.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-247-3806.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-247.html" action-type="chapterComment" class="comment"><i></i>论衡章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

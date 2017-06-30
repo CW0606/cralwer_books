@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《素问》正文_痹论篇第四十三_黄帝作品 - 维普阅读网</title>
+<meta name="keywords" content="素问,素问原文,素问阅读,痹论篇第四十三全文,黄帝作品" />
+<meta name="description" content="素问原文阅读,痹论篇第四十三全文在线阅读,黄帝作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-269-4624.html";
+var nextpage="novel-read-269-4626.html";
+var indexpage = "novel-chapter-269.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-269.html">素问</a></strong>
+<strong><a href="novel-chapter-269.html">素问目录</a></strong>
+<span>痹论篇第四十三</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-269-4624.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>痹论篇第四十三</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=黄帝&amp;searchsubmit=yes"  target="_blank">黄帝</a><span class="divide">|</span>发布时间：2014-08-30 14:36:44<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>黄帝问曰：痹之安生？<br/>岐伯对曰：风寒湿三气杂至，合而为痹也。<br/>其风气胜者为行痹，寒气胜者为痛痹，湿气胜者为着痹也。<br/>帝曰：其有五者何也？<br/>岐伯曰：以冬遇此者为骨痹，以春遇此者为筋痹；以夏遇此者为脉痹；以至阴遇此着为肌痹；以秋遇此者为皮痹。<br/>帝曰：内舍五脏六腑，何气使然？<br/>岐伯曰：五脏皆有合，病久而不去者，内舍于其合也。故骨痹不已，复感于邪，内会于肾；筋痹不已，复感于邪，内会于肝；脉痹不已，复感于邪，内会于心；肌痹不已，复感于邪，内舍于脾；皮痹不已，复感于邪，内舍于肺；所谓痹者，各以其时重感于风寒湿之气也。<br/>凡痹之客五脏者，肺痹者，烦满喘而呕。<br/>心痹者，脉不通，烦则心下鼓，暴上气而喘，噎干善噫，厥气上则恐。<br/>肝痹者，夜卧则惊，多饮，数小便，上为引如怀。<br/>肾痹者，善胀，尻以代踵，脊以代头。<br/>脾痹者，四支解堕，发咳呕汁，上为大塞。<br/>肠痹者，数饮而出不得，中气喘争，时发飧泄。<br/>胞痹者，少腹膀胱按之内痛，若沃以汤，涩于小便，上为清涕。<br/>阴气者，静则神藏，躁则消亡。<br/>饮食自倍，肠胃乃伤。<br/>淫气喘息，痹聚在肺；淫气忧思，痹聚在心；淫气遗溺，痹聚在肾；淫气乏竭，痹聚在肝；淫气肌绝，痹聚在脾。诸痹不已，亦益内也。其风气胜者，其人易已也。<br/>帝曰：痹，其时有死者，或疼久者，或易已者，其何故也？<br/>岐伯曰：其入脏者死，其留连筋骨问者疼久，其留皮肤间者易已。<br/>帝曰：其客于六腑者何也？<br/>岐伯曰：此亦其食饮居处，为其病本也。六腑亦各有俞，风寒湿气中其俞，而食饮应之，循俞而入，各舍其腑也。<br/>帝曰：以针治之奈何？<br/>岐伯曰：五脏有俞，六腑有合，循脉之分，各有所发，各随其过，则病瘳也。<br/>帝曰：荣卫之气，亦令人痹乎？<br/>岐伯曰：荣者水谷之精气也，和调于五脏，洒陈于六腑，乃能入于脉也。故循脉上下贯五脏，络六腑也。卫者水谷之悍气也。其气慓疾滑利，不能入于脉也。故循皮肤之中，分肉之间，熏于肓膜，散于胸腹，逆其气则病，从其气则愈，不与风寒湿气合，故不为痹。<br/>帝曰：善。痹或痛、或不仁、或寒、或热、或燥、或湿，其故何也？<br/>岐伯曰：痛者寒气多也，有寒故痛也。<br/>其不痛不仁者，病久入深，荣卫之行涩，经络时疏，故不通，皮肤不营，故为不仁。<br/>其寒者，阳气少，阴气多，与病相益，故寒也。<br/>其热者，阳气多，阴气少，病气胜，阳遭阴，故为痹热。<br/>其多汗而濡者，此其逢湿甚也。阳气少，阴气盛，两气相盛，故汗出而濡也。<br/>帝曰：夫痹之为病，不痛何也？<br/>岐伯曰：痹在于骨则重；在于脉则血凝而不流；在于筋则屈不伸；在于肉则不仁；在于皮则寒。故具此五者，则不痛也。<br/>凡痹之类，逢寒则虫，逢热则纵。<br/>帝曰：善。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-269-4624.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-269-4626.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-269.html" action-type="chapterComment" class="comment"><i></i>素问章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《黄帝内经》正文_第三十一篇 肠胃_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="黄帝内经,黄帝内经原文,黄帝内经阅读,第三十一篇 肠胃全文,佚名作品" />
+<meta name="description" content="黄帝内经原文阅读,第三十一篇 肠胃全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-58-1870.html";
+var nextpage="novel-read-58-1872.html";
+var indexpage = "novel-chapter-58.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-58.html">黄帝内经</a></strong>
+<strong><a href="novel-chapter-58.html">黄帝内经目录</a></strong>
+<span>第三十一篇 肠胃</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-58-1870.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第三十一篇 肠胃</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-07-29 22:22:54<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【题解】本篇主要内容从解剖角度介绍了古代对消化道的认识，其中以肠胃为主体，故以&quot;肠胃&quot;名篇。<br/>　　【原文】黄帝问于伯高日余愿闻六腑传谷者，肠胃之小大长短，受谷之多少奈何?伯高日请尽言之，谷所从出入浅深远近长短之度唇至齿长九分，口广二寸半；齿以后至会厌[1]，深三寸半，大容五合[2]舌重十两，长七寸，广二寸半重十两，广一寸半，至胃长一尺六寸，胃纡曲屈，伸之，长二尺六寸，大一尺五寸，径五寸，大容三斗五升。．小肠后附脊，左环回周迭积，其注于回肠者，外附于脐上。回运环十六曲，大二寸半，径八分分之少半，长三丈二尺。回肠当脐，左环回周叶积[3]而下，回运环反十六曲，大四寸，径一寸寸之少半，长二丈一尺。广肠傅脊[4]，以受回肠，左环叶脊，上下辟，大八寸，径二寸寸之大半，长二尺八寸。肠胃所入至所出，长六丈四寸四分，回曲环反，三十二曲也。<br/>　　【提要】本段记述了从口唇至直肠的整个消化道的大体解剖。<br/>　　【注释】[1]会厌在气管和食管的交汇处，是覆盖气管的一个器官。<br/>　　[2]合古代容量单位，每十合为一升。[3]叶积就是迭积的意思。<br/>　　[4]傅脊在脊椎附近的意思。<br/>　　【白话解】翮黄帝向伯高问道我想了解一下六腑之中消化器官的状况，关于肠胃等脏器的大小、长短及容纳饮食物的数量的多少是怎样的情况?伯高说请让我详细地给你讲一下，饮食物的出入及深浅、远近、长短的度数是这样的口唇到牙齿间的距离是九分，两口角的宽度是二寸半，从牙齿向后到会厌的距离是三寸半，整个口腔可容纳五合食物。舌的重量是十两，长七寸，宽二寸半，咽门的重量也是十两，宽一寸半。从咽门至胃的长度是一尺六寸，胃的形态是迂屈曲折的，伸直了长二尺六寸，外周长一尺五寸，直径五寸，能容纳饮食物三斗五升。小肠在腹腔依附于脊柱之前，向左环绕重叠，下口注于回肠，在外依附在脐的上方，小肠共计环绕重叠十六个弯曲，外周长二寸半，直径八分又三分之一分，长三丈二尺。回肠在脐部向左迥环，环绕重叠向下延伸，也有十六个弯曲，外周长四寸，直径一寸又三分之一寸，共长二丈一尺。广肠附于脊前与回肠相接，向左环绕重叠于脊椎之前由上到下逐渐宽大，最宽处周长八寸，直径二寸又三分之二寸，长二尺八寸。整个消化道从食物入口至代谢物排出，总长度是六丈又四寸四分，共计有三十二个弯曲。<br/>　　【按语】本篇记述了从口唇到直肠的整个消化道的大体解剖，包括了唇、齿、口、舌、会厌、咽门、胃、小肠、大肠、直肠等，分别对长度、宽度、周长、直径、重量、容量等方面作了说明。据近代许多学者研究认为，古代的度量衡与现代不同，仅从长度而论，消化道各部分之间的比例，基本上与现代解剖学记载相符合，可见古人是很重视人体解剖的。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-58-1870.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-58-1872.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-58.html" action-type="chapterComment" class="comment"><i></i>黄帝内经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

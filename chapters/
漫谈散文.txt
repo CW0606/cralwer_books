@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《季羡林散文精选》正文_漫谈散文_季羡林作品 - 维普阅读网</title>
+<meta name="keywords" content="季羡林散文精选,季羡林散文精选原文,季羡林散文精选阅读,漫谈散文全文,季羡林作品" />
+<meta name="description" content="季羡林散文精选原文阅读,漫谈散文全文在线阅读,季羡林作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1433-27298.html";
+var nextpage="novel-read-1433-27300.html";
+var indexpage = "novel-chapter-1433.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1433.html">季羡林散文精选</a></strong>
+<strong><a href="novel-chapter-1433.html">季羡林散文精选目录</a></strong>
+<span>漫谈散文</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1433-27298.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>漫谈散文</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-52.html" target="blank">散文</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=季羡林&amp;searchsubmit=yes"  target="_blank">季羡林</a><span class="divide">|</span>发布时间：2016-08-13 14:37:28<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>对于散文，我有偏爱，又有偏见。为什么有偏爱呢？我觉得在各种文学体裁中，散文最能得心应手，灵活圆通。而偏见又何来呢？我对散文的看法和写法不同于绝大多数的人而已。<br/>　　<br/>　　我没有读过《文学概论》一类的书籍，我不知道，专家们怎样界定散文的内涵和外延。我个人觉得，“散文”这个词儿是颇为模糊的。最广义的散文，指与诗歌对立的一种不用韵又没有节奏的文体。再窄狭一点，就是指与骈文相对的，不用四六体的文体。更窄狭一点，就是指与随笔、小品文、杂文等名称混用的一种出现比较晚的文体。英文称这为essay，familiaressay，法文叫essai，德文是Essay，显然是一个字。但是这些洋字也消除不了我的困惑。查一查字典，译法有多种。法国蒙田的Essai，中国译为“随笔”，英国的familiaressay译为“散文”或“随笔”，或“小品文”。中国明末的公安派或竟陵派的散文，过去则多称之为“小品”。我堕入了五里雾中。<br/>　　<br/>　　子曰:“必也正名乎！”这个名，我正不了。我只好“王顾左右而言他”。中国是世界上散文第一大国，这决不是“王婆卖瓜”，是必须承认的事实，在西欧和亚洲国家中，情况也有分歧。英国散文名家辈出，灿若列星。德国则相形见绌，散文家寥若晨星。印度古代，说理的散文是有的，抒情的则如凤毛麟角。世上万事万物有果必有因。这种情况的原因何在呢？我一时还说不清楚，只能说，这与民族性颇有关联。再进一步，我就穷辞了。<br/>　　<br/>　　这且不去管它，我只谈我们这个散文大国的情况，而且重点放在眼前的情况上。“五四”运动是中国近代史上的一件大事。<br/>　　<br/>　　在文学范围内，改文言为白话，也是中国文学史上的一件大事。七十多年以来，中国文学创作取得了长足的进步。但是，据我个人的看法，各种体裁间的发展是极不平衡的。小说，包括长篇、中篇和短篇，以及戏剧，在形式上完全西化了。这是福？是祸？我还没见到有专家讨论过。我个人的看法是，现在的长篇小说的形式，很难说较之中国古典长篇小说有什么优越之处。戏剧亦然，不必具论。至于新诗，我则认为是一个失败。至今人们对诗也没能找到一个形式。既然叫诗，则必有诗的形式，否则可另立专名，何必叫诗？在专家们眼中，我这种对诗的见解只能算是幼儿园的水平，太平淡低下了。然而我却认为，真理往往就存在于平淡低下中。你们那些恍兮惚兮高深玄妙的理论“只堪自怡悦”，对于我却是“只等秋风过耳边”了。<br/>　　<br/>　　这些先不去讲它，只谈散文。简短截说，我认为“五四”运动以来中国文坛上最成功的是白话散文。个中原因并不难揣摩。中国有悠久雄厚的散文写作传统，所谓经、史、子、集四库中都有极为优秀的散文，为世界上任何国家所无法攀比。散文又没有固定的形式。于是作者如林，佳作如云，有如八仙过海，各显神通。旧日士子能背诵几十篇上百篇散文者，并非罕事，实如家常便饭。“五四”以后，只需将文言改为白话，或抒情，或叙事，稍有文采，便成佳作。窃以为，散文之所以能独步文坛，良有以也。<br/>　　<br/>　　但是，白话散文的创作有没有问题呢？有的。或者甚至可以说，还不少。常读到一些散文家的论调，说什么：“散文的窍诀就在一个‘散’字。”“散”字，松松散散之谓也。又有人说：“随笔的关键就在一个‘随’字。”“随”者，随随便便之谓也。他们的意思非常清楚：写散文随笔，可以随便写来，愿意怎样写，就怎样写。愿意下笔就下笔；愿意收住就收住。不用构思，不用推敲。有些作者自己有时也感到单调与贫乏，想弄点新鲜花样，但由于腹笥贫瘠，读书不多，于是就生造词汇，生造句法，企图以标新立异来济自己的贫乏。结果往往是，虽然自我感觉良好，可是读者偏不买你的账，奈之何哉！读这样的散文，就好像吃搀上沙子的米饭，吐又吐不出，咽又咽不下，进退两难，啼笑皆非。你千万不要以为这样的文章没有市场，正相反，很多这样的文章堂而皇之地刊登在全国性的报刊上。我回天无力，只有徒唤奈何了。<br/>　　<br/>　　要想追究产生这种现象的原因，也并不困难。世界上就有那么一些人，总想走捷径，总想少劳多获，甚至不劳而获。中国古代的散文，他们读得不多，甚至可能并不读；外国的优秀散文，同他们更是风马牛不相及。而自己又偏想出点风头，露一两手。于是就出现了上面提到的那样非驴非马的文章。<br/>　　<br/>　　我在上面提到我对散文有偏见，又几次说到“优秀的散文”，我的用意何在呢？偏见就在“优秀”二字上。原来我心目中的优秀散文，不是最广义的散文，也不是“再窄狭一点”的散文，而是“更窄狭一点”的那一种。即使在这个更窄狭的范围内，我还有更更窄狭的偏见。我认为，散文的精髓在于“真情”二字，这二字也可以分开来讲：真，就是真实，不能像小说那样生编硬造；情，就是要有抒情的成分。即使是叙事文，也必有点抒情的意味，平铺直叙者为我所不取。《史记》中许多《列传》，本来都是叙事的，但是，在字里行间，洋溢着一片悲愤之情，我称之为散文中的上品。贾谊的《过秦论》，苏东坡的《范增论》、《留侯论》等等，虽似无情可抒，然而却文采斐然，情即蕴涵其中，我也认为是散文上品。<br/>　　<br/>　　这样的散文精品，我已经读了七十多年了。其中有很多篇我能够从头到尾地背诵。每一背诵，甚至仅背诵其中的片段，都能给我以绝大的美感享受。如饮佳茗，香留舌本；如对良友，意寄胸中，如果真有“三月不知肉味”的话，我即是也。从高中直到大学，我读了不少英国的散文佳品，文字不同，心态各异。但是，仔细玩味，中英又确有相通之处；写重大事件而不觉其重，状身边琐事而不觉其轻；娓娓动听，逸趣横生；读罢掩卷，韵味无穷。有很多很多值得我们学习借鉴之处。<br/>　　<br/>　　至于六七十年来中国并世的散文作家，我也读了不少它们的作品。虽然笼统称之为“百花齐放”，其实有成就者何止百家。他们各有自己的特色，各有自己的风格，合在一起看，直如一个姹紫嫣红的大花园，给“五四”以后的中国文坛增添了无量光彩。留给我印象最深刻最鲜明的有鲁迅的沉郁雄浑，冰心的灵秀玲珑，朱自清的淳朴淡泊，沈从文的轻灵美妙，杨朔的镂金错彩，丰子恺的厚重平实，如此等等，不一而足。至于其余诸家，各有千秋，我不敢赞一词矣。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1433-27298.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1433-27300.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1433.html" action-type="chapterComment" class="comment"><i></i>季羡林散文精选章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

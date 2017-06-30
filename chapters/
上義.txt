@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《文子》正文_上義_文子作品 - 维普阅读网</title>
+<meta name="keywords" content="文子,文子原文,文子阅读,上義全文,文子作品" />
+<meta name="description" content="文子原文阅读,上義全文在线阅读,文子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-38-980.html";
+var nextpage="novel-read-38-982.html";
+var indexpage = "novel-chapter-38.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-38.html">文子</a></strong>
+<strong><a href="novel-chapter-38.html">文子目录</a></strong>
+<span>上義</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-38-980.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>上義</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=文子&amp;searchsubmit=yes"  target="_blank">文子</a><span class="divide">|</span>发布时间：2014-07-22 20:50:08<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　老子〔文子〕曰：凡學者，能明于天人之分，通于治亂之本，澄心清意以存之，見其終始，反于虛無，可謂達矣。治之本，仁義也；其末，法度也。人之所生者，本也；其所不生者，末也。本末一體也，其兩愛之，性也。先本後末，謂之君子；先末後本，謂之小人。法之生也，以輔義。重法棄義，是貴其冠履而忘其首足也。仁義者，廣崇也。不益其厚而張其廣者毀，不廣其基而增其高者覆，故不大其棟，不能任重，任重莫若棟，任國莫若德。人主之有民，猶城中之有基、木之有根；根深即本固，基厚即上安。故事不本于道德者，不可以為經；言不合于先王者，不可以為道。便說掇取一行一功之術，非天下通道也。<br/><br/>　　老子〔文子〕曰：治人之道，其猶造父之御駟馬也。齊輯之乎轡銜，正度之乎胸膺，內得于中心，外合乎馬志，故能取道致遠，氣力有餘，進退還曲，莫不如意，誠得其術也。今夫權勢者，人主之車輿也；大臣者，人主之駟馬也。身不可離車輿之安，手不可失駟馬之心。故駟馬不調，造父不能以取道；君臣不和，聖人不能以為治。執道以御之，中才可盡；明分以示之，奸邪可止。物至而觀其變，事來而應其化，近者不亂即遠者治矣，不用適然之教，而得自然之道，萬舉而不失矣。<br/><br/>　　老子〔文子〕曰：凡為道者，塞邪隧，防未然，不貴其自是也，貴其不得為非也。故曰：勿使可欲，無日不求；勿使可奪，無日不爭。如此則人欲釋，而公道行矣。有餘者止于度，不足者逮于用，故天下可一人也。夫釋職事而聽非譽，棄功勞而用朋黨，即奇伎天長，守職不進，民俗亂于國，功臣爭于朝，故有道以御人，無道則制于人矣。<br/><br/>　　老子〔文子〕曰：治國有常，而利民為本；政教有道，而令行為古。苟利于民，不必法古；苟周于事，不必循俗。故聖人法與時變，禮與俗變。衣服器械，各便其用；法度制令，各因其宜。故變古未可非，而循俗未足多也。誦先王之書，不若聞其言；聞其言，不若得其所以言；得其所以言者，言不能言也。故「道可道，非常道也；名可名，非常名也。」故聖人所由曰道，所為曰事，道猶金石也，一調不可更；事猶琴瑟也，曲終改調。法制禮樂者，治之具也，非所以為治也。故曲士不可與論至道，訊寤于俗而束于教也。<br/><br/>　　老子〔文子〕曰：天下幾有常法哉！當于世事，得于人理，順于天地，祥于鬼神，即可以正治矣。昔者，三皇無制令而民從，五帝有制令而無刑罰，夏后氏不負言，殷人誓，周人盟。末世之衰也，忍垢而輕辱，貪得而寡羞，故法度制令者，論民俗而節緩急；器械者，因時變而制宜適。夫制于法者，不可與達舉；拘禮之人，不可使應變。必有獨見之明，獨聞之聰，然後能擅道而行。夫知法之所由生者，即應時而變；不知治道之源者，雖循終亂。今為學者，循先襲業，握篇籍，守文法，欲以為治，非此不治，猶持方枘而內圓鑿也，欲得宜適亦難矣。夫存危治亂，非智不能，道先稱古，雖愚有餘，故不用之法，聖人不行也，不驗之言，明主不聽也。<br/><br/>　　文子〔平王〕問曰：法安所主？老子〔文子〕曰：法生于義，義生于眾適，眾適合乎人心，此治之要也。法非從天下也，非從地出也，發乎人間，反己自正。誠達其本，不亂于末；知其要，不惑于疑；有諸己，不非于人；無諸己，不責于所立。立于下者，不廢于上；禁于民者，不行于身。故人主之制法也，先以自為檢式，故禁勝于身，即令行于民。夫法者，天下之準繩也，人主之度量也。懸法者，法不法也。法定之後，中繩者賞，缺繩者誅，雖尊貴者不輕其賞，卑賤者不重其刑。犯法者，雖賢必誅；中度者，雖不肖無罪。是故，公道而行，私欲塞也。古之置有司也，所以禁民不得恣也，其立君也，所以制有司使不得專行也。法度道術，所以禁君使無得橫斷也。人莫得恣即道勝而理得矣，故反樸無為。無為者，非謂其不動也，言其從己出也。<br/><br/>　　老子〔文子〕曰：善賞者，費少而勸多；善罰者，刑省而奸禁；善與者，用約而為德；善取者，人多而無怨。故聖人因民之所喜以勸善，因民之所憎以禁奸；賞一人而天下趨之，罰一人而天下畏之，是以至賞不費，至刑不濫。聖人守約而治廣，此之謂也。<br/><br/>　　老子〔文子〕曰：臣道者，論是處當，為事先唱，守職明分，以立成功，故君臣異道即治，同道即亂，各德其宜，處有其當，即上下有以相使也。故枝不得大于幹，末不得強于本，言輕重大小有以相制也。夫得威勢者，所持甚小，所在甚大，所守甚約，所制甚廣。十圍之木，持千鈞之屋，得所勢也；五寸之關，能制開闔，所居要也。下必行之令，順之者利，逆之者凶，天下莫不聽從者，順也。發號令行禁止者，以眾為勢也。義者，非能盡利于天下之民也，利一人而天下從之；暴者，非能盡害于海內也，害一人而天下叛之。故舉措廢置，不可不審也。<br/><br/>　　老子〔文子〕曰：屈寸而申尺，小枉而大直，聖人為之。今人君之論臣也，不計其大功，總其略行，而求其小善，即失賢之道也。故人有厚德，無間其小節；人有大譽，無疵其小故。夫人情莫不有所短，成其大略是也，雖有小過，不以為累也。成其大略，非也；閭里之行，未足多也。故小謹者無成功，訾行者不容眾，體大者節疏，度巨者譽遠，論臣之道也。<br/><br/>　　老子〔文子〕曰：自古及今，未有能全其行者也；故君子不責備于一人。方而不割，廉而不劌，直而不肆，博達而不訾，道德文武，不責備于人以力；自修以道，而不責于人，易賞也。自修以道，則無病矣。夫夏后氏之璜，不能無瑕；明月之珠，不能無穢。然天下寶之者，不以小惡妨大美。今志人之所短，忘人之所長，而欲求賢于天下，即難矣。夫眾人之見位之卑、身之賤、事之污辱，而不知其大略。故論人之道：貴即觀其所舉，富即觀其所施，窮即觀其所受，賤即觀其所為；視其所患難，以知其所勇；動以喜樂，以觀其守；委以財貨，以觀其仁；振以恐懼，以觀其節。如此，則人情可得矣。<br/><br/>　　老子〔文子〕曰：屈者所以求申也，枉者所以求直也；屈寸申尺，小枉大直，君子為之。百川并流，不注海者不為谷；趨行殊方，不歸善者不為君子。善言貴乎可行，善行貴乎仁義。夫君子之過，獨日月之觸；不害于明，故智者不妄為，勇者不妄殺，擇是而為之，計禮而行之。故事成而功足恃也，身死而名足稱也；雖有智能，必以仁義為本而後立。智能并行，聖人一以仁義為準繩，中繩者謂之君子，不中繩者謂之小人。君子雖死亡，其名不滅；小人雖得勢，其罪不除。左手據天下之圖，而右手刎其喉，雖愚者不為，身貴于天下也。死君親之難者，視死如歸，義重于身也。故天下大利也，比之身即小；身之所重也，比之仁義即輕。此以仁義為準繩者也。<br/><br/>　　老子〔文子〕曰：道德之備猶日月，夷狄蠻貊不能易其指，趣舍同即非譽在俗，意行均即窮達在時，事周于世即功成，務合于時即名立。是故，立功名之人，簡于世而謹于時，時之至也，即間不容息。古之用兵者，非利土地而貪寶賂也，將以存亡平亂、為民除害也。貪叨多欲之人，殘賊天下，萬民騷動，莫寧其所。有聖人勃然而起，討強暴，平亂世，為天下除害，以濁為清，以危為寧，故不得不中絕。赤帝為火災，故黃帝擒之；共工為水害，故顓頊誅之。教人以道，導之以德而不聽，即臨之以威武；臨之不從，即制之以兵革。殺無罪之民，養不義之主，害莫大也；聚天下之財，贍之人之欲，禍莫深焉；肆一人之欲，而長海內之患，此天倫所不取也。所為立君者，以禁暴亂也。今乘萬民之力，反為殘賊，是以虎傅翼，何謂不除！夫畜魚者，必去其蝙獺；養禽獸者，必除其豺狼，又況牧民乎！是故，兵革之所為起也。<br/><br/>　　老子〔文子〕曰：為國之道，上無苛令，官無煩治，士無偽行，工無淫巧，其事任而不擾，其器完而不飾。亂世即不然，為行者相揭以高，為禮者相矜以偽，車輿極于雕琢，器用遂于刻鏤，求貨者爭難得以為寶，詆文者逐煩撓以為急，事為詭辯，久稽而不決，無益于治，有益于亂，工為奇器，歷歲而後成，不周于用。故神農之法曰：丈夫丁壯不耕，天下有受其飢者；婦人當年不織，天下有受其寒者。故身親耕，妻親織，以為天下先。其導民也，不貴難得之貨，不重無用之物。是故，耕者不強，無以養生，織者不力，無以衣形，有餘不足，各歸其身，衣實饒裕，奸邪不生，安樂無事，天下和平，智者無所施其策，勇者無所錯其威。<br/><br/>　　老子〔文子〕曰：霸王之道，以謀慮之，以策圖之，挾義而動，非以圖存也，將以存亡也。故聞敵國之君，有暴虐其民者，即舉兵而臨其境，責以不義，刺以過行。兵至其郊，令軍帥曰：「無伐樹木，無掘墳墓，無敗五穀，無焚積聚，無捕民虜，無聚六畜。」乃發號施令曰：「其國之君，逆天地，侮鬼神，決獄不平，殺戮無罪，天之所誅，民之所仇也。兵之來也，以廢不義而授有德也。有敢逆天道，亂民之賊者，身死族滅。以家聽者侯其縣，以里聽者賞以里，以鄉聽者封以鄉，以縣聽者侯其縣。」剋其國不及其民，廢其君易其政，尊其秀士，顯其賢良，振其孤寡，恤其貧窮，出其囹圄，賞其有功，百姓開戶而內之，漬米而儲之，唯恐其不來也。義兵至于境，不戰而止；不義之兵，至于伏尸流血，相交以前。故為地戰者，不能成其王；為身求者，不能立其功。舉事以為人者，眾助之；以自為者，眾去之。眾之所動，雖弱必強；眾之所去，雖大必亡。<br/><br/>　　老子〔文子〕曰：上義者，治國家，理境內，行仁義，布德施惠，立正法，塞邪道；群臣親附，百姓和輯，上下一心，群臣同力；諸侯服其威，四方懷其德，修正廟堂之上；折衝千里之外，發號行令而天下響應，此其上也。地廣民眾，主賢將良，國富兵強，約束信，號令明，兩敵相當，未交兵接刃，而敵人奔亡，此其次也。知土地之宜，習險隘之利，明苛政之變，察行陣之事，白刃合，流矢接，輿死扶傷，流血千里，暴骸滿野，義之下也。兵之勝敗皆在于政，政勝其民，下附其上，即兵強；民勝其政，下叛其上，即兵弱。義足以懷天下之民，事業足以當天下之急，選舉足以得賢士之心，謀慮足以決輕重之權，此上義之道也。<br/><br/>　　老子〔文子〕曰：國之所以強者必死，所以必死者，義之所以行者威也。是故，「令之以文，齊之以武，是謂必取。」威義并行，是謂必強。白刃交接，矢石若雨，而士爭先者，賞信而罰明也。上視下如子，下事上如父；上視下如弟，下事上如兄。上視下如子，必王四海；下事上如父，必政天下。上視下如弟，即必難為之死；下事上如兄，即必難為之亡；故父子兄弟之寇，不可與之鬥。是故，義君內修其政，以積其德，外塞于邪，以明其勢，察其勞佚，以知飢飽，戰期有日，視死若歸，恩之加也。<br/><br/></p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-38-980.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-38-982.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-38.html" action-type="chapterComment" class="comment"><i></i>文子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《停云》正文_停云_陶渊明作品 - 维普阅读网</title>
+<meta name="keywords" content="停云,停云原文,停云阅读,停云全文,陶渊明作品" />
+<meta name="description" content="停云原文阅读,停云全文在线阅读,陶渊明作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-637.html";
+var nextpage="novel-chapter-637.html";
+var indexpage = "novel-chapter-637.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-637.html">停云</a></strong>
+<strong><a href="novel-chapter-637.html">停云目录</a></strong>
+<span>停云</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-637.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>停云</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=陶渊明&amp;searchsubmit=yes"  target="_blank">陶渊明</a><span class="divide">|</span>发布时间：2014-10-14 20:52:21<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/><br/>序<br/>停云，思亲友也。罇湛新醪（1），园列初荣（2），愿言不从（3），叹息弥襟（4）。<br/>其一<br/>霭霭停云，濛濛时雨（5）。 八表同昏，平路伊阻（6）。<br/>静寄东轩，春醪独抚（7）。 良朋悠邈，搔首延伫（8）。<br/>其二<br/>停云霭霭，时雨濛濛。 八表同昏，平陆成江（9）。<br/>有酒有酒，闲饮东窗。 愿言怀人，舟车靡从（10）。<br/>其三<br/>东园之树，枝条载荣（11）。 竞用新好，以怡余情（12）。<br/>人亦有言：日月于征（13）。 安得促席，说彼平生（14）。<br/>其四<br/>翩翩飞鸟，息我庭柯（15）。 敛翮间止，好声相和（16）。<br/>岂无他人，念子实多（17）。愿言不获，抱恨如何（18）！<br/><br/>【注释】<br/>（1）罇（zūn尊）：同“樽”，酒杯。湛（chén沉）：没，有盈满之意。醪（láo劳）：汁滓混合的酒，即浊酒，今称甜酒或醒糟。 这一句说酒罇之中斟满新酿之醪。<br/>（2）列：排列。初荣：新开的花。<br/>（3）愿：思念。言：语助词，无意义。从：顺。不从：不顺心，不如愿。<br/>（4）弥（mí迷）：满。襟：指胸怀。<br/>（5）霭霭（ǎi矮）：云密集貌。漾檬：微雨绵绵的样子。时雨：季节雨。这里指春雨。<br/>（6）八表：八方以外极远的地方。泛指天地之间。伊：语助词。阻：阻塞不通。<br/>（7）寄：居处（chū），托身。轩：有窗槛的长廊或小室。抚：持。<br/>（8）悠邈：遥远。搔首：用手搔头，形容等待良朋的焦急情状。延伫（zhù注）：长时间地站立等待。<br/>（9）平陆：平地。<br/>（10）靡（mǐ米）：无，不能。<br/>（11）载：始。荣：茂盛。<br/>（12）新好：新的美好景色，指春树。这两句说，东园的春树竞相以新的美好景色，来招引我的爱怜之情。<br/>（13）于：语助词。征：行，这里指时光流逝。<br/>（14）促席：彼此坐得很近。促：迫近。席：坐席。平生：平时，这里指平生的志趣、素志。<br/>（15）翩翩：形容飞鸟轻快飞舞的样子。柯：树枝。<br/>（16）翮（hé核）：鸟的翅膀。敛翩：收敛翅膀。止：停留。相和：互相唱和。<br/>（17）子：您，古代男子的尊称，这里指朋友。<br/>（18）如何：意为无可奈何。<br/><br/>【译文】<br/>　　《停云》这首诗，是为思念亲友而作。酒樽里盛满了澄清的新酒，家园内排列着初绽的鲜花，思念亲友而不得相会、叹息无奈，忧愁充满我的胸怀。<br/>阴云密密布空中，春雨绵绵意迷蒙。<br/>举目四顾昏沉色，路途阻断水纵横。<br/>东轩寂寞独自坐，春酒一杯还自奉。<br/>良朋好友在远方，翘首久候心落空。<br/>空中阴云聚不散，春雨迷蒙似云烟。<br/>举目四顾昏沉色，水阻途断客不前。<br/>幸赖家中有新酒，自饮东窗聊慰闲。<br/>思念好友在远方，舟车不通难相见。<br/>东园之内树成行，枝繁叶茂花纷芳。<br/>春树春花展新姿，使我神情顿清朗。<br/>平时常听人们言，日月如梭走时光。<br/>安得好友促膝谈，共诉平生情意长。<br/>鸟儿轻轻展翅飞，落我庭前树梢头。<br/>收敛翅膀悠闲态，呜声婉转相唱酬。<br/>世上岂无他人伴，与君情意实难丢。<br/>思念良朋不得见，无可奈何恨悠悠。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-637.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-637.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-637.html" action-type="chapterComment" class="comment"><i></i>停云章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

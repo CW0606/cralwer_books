@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《南风歌》正文_南风歌_帝舜作品 - 维普阅读网</title>
+<meta name="keywords" content="南风歌,南风歌原文,南风歌阅读,南风歌全文,帝舜作品" />
+<meta name="description" content="南风歌原文阅读,南风歌全文在线阅读,帝舜作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-179.html";
+var nextpage="novel-chapter-179.html";
+var indexpage = "novel-chapter-179.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-179.html">南风歌</a></strong>
+<strong><a href="novel-chapter-179.html">南风歌目录</a></strong>
+<span>南风歌</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-179.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>南风歌</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=帝舜&amp;searchsubmit=yes"  target="_blank">帝舜</a><span class="divide">|</span>发布时间：2014-08-07 20:38:17<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>南风之薰兮⑴，可以解吾民之愠兮⑵。<br/>南风之时兮⑶，可以阜吾民之财兮⑷。<br/><br/>【注释】<br/>⑴南风：东南风，又称薰风(薰是清凉温和的意思)。<br/>⑵愠：含怒，怨恨，忧愁。<br/>⑶时：适时，及时，合时宜的。<br/>⑷阜：丰富。<br/><br/>【翻译】<br/>南风清凉阵阵吹啊，可以解除万民的愁苦。<br/>南风适时缓缓吹啊，可以丰富万民的财物。<br/><br/>【鉴赏】<br/>《南风歌》相传为舜帝所作。《礼记·乐记》曰：“昔者舜作五弦之琴以歌《南风》。”《古今乐录》曰：“舜弹五弦之琴，歌《南风》之诗。”《史记·乐书》曰：“舜歌《南风》而天下治，《南风》者，生长之音也。舜乐好之，乐与天地同，意得万国之欢心，故天下治也。”明初，晋王朱（木冈）展扩太原城，新增修大南门，取《南风歌》之意，原南门命名为承恩门，即辛亥革命后的首义门，新南门命名为迎泽门。<br/>此诗前两句始见战国尸佼的《尸子·绰子篇》，全诗始出三国魏王肃收集编撰的《孔子家语·辩乐解》。《孔子家语》是王肃伪托之作，今人因而怀疑《南风歌》也是后人伪作。舜为传说人物，其“作五弦之琴以歌南风”，很可能是小说家笔法。不过据考证，《南风歌》自战国后已广为人知。今人逯钦立指出:“《史记》已言歌《南风》之诗。冯衍《显志赋》又云咏《南风》之高声。步骘《上疏》亦言弹五弦之琴，咏《南风》之诗。俱证《尸子》以后，此诗传行已久。谓为王肃伪作，非是。”（《先秦汉魏晋南北朝诗》）王力则从音韵学的角度指出：此诗“以‘时’‘财’为韵，这种古韵也决不是汉以后的人所能伪造的”（《汉语诗律学》）。当然，这首句式整齐、诗语明朗、抒情优美的《南风歌》，也不可能是舜帝时代的原作，而是在口耳相传的过程中，经过了后人的加工和润色的。<br/>全诗四句，但情思复杂。它借舜帝口吻抒发了先民对“南风”既赞美又祈盼的双重感情。因为，清凉而适时的南风，对万民百姓的生活是那样重要，那样不可缺少。<br/>“南风之薰兮，可以解吾民之愠兮”，这是就苦夏的日常生活而言。赤日炎炎，暑气如蒸，百姓怎能无怨？而南风一起，天气转凉，万民必有喜色。所谓薰风兼细雨，喜至怨忧除。白居易《首夏南池独酌》“熏风自南至，吹我池上林”，就是表达了这种情怀。“南风之时兮，可以阜吾民之财兮”，清凉的南风可以解民之愠，适时的南风则可以阜民之财，由日常生活转而到收成财物，诗意更进一层。《礼记·乐记》曰:“天地之道，寒暑不时则疾，风雨不节则饥。”可见，“南风”的“阜民之财”比之“解民之愠”更为重要，也更为令人祈盼。因此，前人大都从这方面来阐释诗旨。司马迁说:“《南风》之诗者，生长之音也。”（《史记·乐书》）王肃也说:“《南风》，育养民之诗也。”概言之，《南风》之歌，即赞颂“南风”煦育万物、播福万民的恩泽之歌。<br/>善读诗者，当悟诗外之旨。其实，先民们对“南风”的赞颂和祈盼，也正反映了他们在自然力面前的无可奈何和无能为力。热烈虔诚的赞颂里，潜藏着忧郁无奈的心情。不过，由于对“南风”的赞颂和祈盼，是通过拟想中的舜帝口吻表达的。因此，经后世儒家诗评家的阐释，“南风”逐渐具有比兴之意，并成为帝王体恤百姓的象征意象；历代诗人也常以“南风”来称颂帝王对百姓的体恤之情和煦育之功。在古代诗歌语词中，“南风”是最具美颂色彩的意象之一。<br/>在艺术形式上，诗句错落，诗节对称；押韵讲究，重章复唱；辞达而意显，声曼而情婉，这是《南风歌》的主要特点。这种类似楚辞格调的艺术特色，同它在流传过程中得到加工润色的“第二重创作”，有着密切关系。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-179.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-179.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-179.html" action-type="chapterComment" class="comment"><i></i>南风歌章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

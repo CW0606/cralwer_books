@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《金陵秋》正文_第二章 叙系_林纾作品 - 维普阅读网</title>
+<meta name="keywords" content="金陵秋,金陵秋原文,金陵秋阅读,第二章 叙系全文,林纾作品" />
+<meta name="description" content="金陵秋原文阅读,第二章 叙系全文在线阅读,林纾作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1095-17102.html";
+var nextpage="novel-read-1095-17104.html";
+var indexpage = "novel-chapter-1095.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1095.html">金陵秋</a></strong>
+<strong><a href="novel-chapter-1095.html">金陵秋目录</a></strong>
+<span>第二章 叙系</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1095-17102.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第二章 叙系</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-18.html" target="blank">古典小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=林纾&amp;searchsubmit=yes"  target="_blank">林纾</a><span class="divide">|</span>发布时间：2015-01-14 20:34:27<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　王子履，名礼，江西萍乡人也。祖士震，仕至礼科给事中。<br/>　　父元廷，以翰林仕终国子监司业。子履以诸生不仕，居京寓读其父书，弗求闻达。然公卿间无不审其品学者。子二：长曰隽，字伯凯；次曰雄，字仲英，咸秀挺，喜陆军之学。伯凯已毕业，充镇江军官。仲英则留京侍父，然已阴合革命党人，时与洞明会通书。<br/>　　广州一役，党人大挫。南产之英，如方、林诸君，皆殁于行阵间。伯凯自镇江贻书仲英曰：“广州之变，精锐尽丧。粤帅张某尚解事，不复广加罗织。或知朝政日非，非改革莫可。<br/>　　首事者已幸脱罗网，再图后举。然兄意颇不属其人。会中薰莸杂收，好恶非一，为国者鲜，为利者多。今虽徒党布满东南，或有奋不顾身者，正恐破坏以后，建设为难。坐无英雄为之镇摄耳。此间林标统述卿，为闽产，僄锐忠挚，临难有断，全军属心，阿兄与之朝夕从事。将来以镇兵进规江南，或易得手。<br/>　　林君之意，颇望弟一临。能否禀诸老亲，一莅镇江相见？”仲英得书，踌躇竟日。适起旋，留书案上，为子履所见，即问仲英曰：“若兄书来，胡不告我？”仲英曰：“据书辞，东南军队，似已摇动。儿意彼嚣嚣均喜乱之人，非实心为国者。林君，儿固闻其忠挚。今阿兄有书，拟自往镇江，一与把晤。”子履叹曰：“吾衰矣，虽未沾禄糈，而祖、父皆仕清朝。革命一语，吾万不出诸口吻。实则亲藩大臣，人人自种此亡国之孽。儿子各有志向，宁老人所能力挽？汝善为之，并告党人，幸勿仇视少帝。老人终身为清室遗民，党人或悯吾衰，不疑为宗社之党。<br/>　　汝今尽行。须知革命者，救世之军，非闯、献比也。”仲英见允于父，则大悦。遂治任，挟快利手枪，媵以弹子百余枚，慨然直出津沽。<br/>　　时已初秋，余热尚炽。天津中已渐渐有党人出没，欲以潜煽军队。逻者亦颇缜密。道遇吴子穆自武昌来，遂同饮于第一楼。吴曰：“别仲英久，不知迩来何作？吾曾一至镇江，与伯凯相见。伯凯意怏怏不自聊。尝语予天下大势已涣，但不知引绳而断，其受断果在何处。段扈桥已以鄂军入川，思欲用兵力遏抑蜀中子弟。雷慎如，昏瞀人也，矫袭能名，以欺蒙此权纲弛迁之朝廷，坐拥重兵，扼守江汉。同人谓不起事则已，一着手先袭武昌，绝江可以进规中原，下驶便足收取吴会。吾闻尊兄言，深以为然。而林标统尤跃跃欲试。仲英此行，果否往面尊兄于江上？”仲英曰：“然。”子程曰：“新铭以明日至沪，仲英可附之行。吾亦有事将入都也。”既别，仲英归乐利旅馆。<br/>　　明日为七月二十五日。海上风静，波平如镜。海行二月有半，已至上海。遂居长发栈。盥漱既已，饭后至泥城桥，访苏寅谷、倪伯元。二君方同居，楼外垂杨数株，摇曳有秋意。入门时，见有女士两人，一为旌德卢眉峰，一为无锡顾月城。月城纤弱妩媚，眉峰则秀挺健谈。倪方小病，犹御夹衣。苏则未归。倪为介绍见两女士，皆洞明会中人也。仲英一一进与握手。<br/>　　眉峰曰：“闻尊兄伯凯方在镇江经营，有席卷江南之意，真属人杰。今女界同人，方组织女子经武练习队，为革命军之后劲。”仲英曰：“宗旨安属？”眉峰曰：“本队以练习武学，扶助民国。”仲英曰：“职务如何？”眉峰曰：“本队为女子洞明会，调查执行两部之豫备。俟练习已成，即服调查执行之职务。”仲英曰：“科目如何？”眉峰曰：“甲讲演，乙补习，丙操法。”仲英曰：“经费安出？”眉峰曰：“本队一切用款，由洞明会担任。”仲英曰：“敢问俸给？”眉峰曰：“队长月十二圆，队员十圆。”仲英曰：“有志哉！惟鄙人一生愚直，不敢曲徇同胞，亦非过事胆慑。适自北来，观北军皆属精锐，一人能发数十枪，气息无动。且发枪时，皆伏身泥土之中，引锹掘土自蔽。须知枪膛力支须左腕，屈其三指仰张如架；右腕扼枪机；枪趺之力，抵于右膊。极文人之力，演习不过三枪，腕力已荆若在女界，纤弱过于文人，而两股劲力或因裹脚而荏，安能支拄？且一军弹尽，则须肉搏。或用力猛斫，或用枪趺倒击，前方扑敌，而后已为人所乘。谓此纤纤者能与北方食麦之人竞力耶？顾神州发难伊始，女界不能不具此思力。吴宫教战之事，特作外观，不必用以作战。鄙意尚以红十字会上着。<br/>　　”<br/>　　眉峰大怒曰：“妄男子勿肆口诬人！今日幸未携得手枪，不尔，汝胸间洞矣。”月城亦微愠，两颊皆赪，不作语。倪伯元长揖眉峰曰：“仲英戆而不检，幸眉峰少宽假之。”仲英微笑兴辞。伯元送至楼次。问寓居所在，仲英以长发栈告之。？</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1095-17102.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1095-17104.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1095.html" action-type="chapterComment" class="comment"><i></i>金陵秋章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

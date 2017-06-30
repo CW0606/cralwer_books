@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《荡寇志》正文_校点说明_俞万春作品 - 维普阅读网</title>
+<meta name="keywords" content="荡寇志,荡寇志原文,荡寇志阅读,校点说明全文,俞万春作品" />
+<meta name="description" content="荡寇志原文阅读,校点说明全文在线阅读,俞万春作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1170-19440.html";
+var nextpage="novel-chapter-1170.html";
+var indexpage = "novel-chapter-1170.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1170.html">荡寇志</a></strong>
+<strong><a href="novel-chapter-1170.html">荡寇志目录</a></strong>
+<span>校点说明</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1170-19440.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>校点说明</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-18.html" target="blank">古典小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=俞万春&amp;searchsubmit=yes"  target="_blank">俞万春</a><span class="divide">|</span>发布时间：2015-02-09 19:55:22<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　《荡寇志》七十回，末附“结子”一回。 <br/>　　作者仇视以宋江为首的梁山泊农民起义的思想与金圣叹相一致，所以他紧接金圣叹腰斩过的七十回本《水浒传》，从七十一回写起，杜撰出一大篇宋江等如何“被张叔夜擒拿正法”的故事，自名其书为《荡寇志》。作者死后，此书的初刻本却改署书名为《结水浒传》，这大概是刻书者为了要利用《水浒传》原来的社会影响，以广招徕，诱人购读的缘故。 <br/>　　《荡寇志》的作者名俞万春（一七九四——一八四九年），字仲华，号忽来道人。清浙江山阴（今绍兴）人。出身于一个地方官吏的家庭，一生并没有正式任官，科举功名也不过是个“诸生”（秀才）。他在青壮年时代，却曾经长期追随其父在广东的任所，亲身参与了对人民武装反抗的镇压行动。《荡寇志》的写作，是作者自觉地站在维护封建统治的反动立场上，蓄意对人民群众进行思想上的镇压，来与暴力镇压相配合的。作者为此苦心孤诣，惨淡经营，不遗余力。据他的家属宣称，此书草创于道光六年（一八二六），写成于道光二十七年（一八四七），中间凡“三易其稿”，首尾历二十二年。 <br/>　　作者死之次年，爆发了洪秀全领导的太平军农民大起义。与此同时，南京的清政府官员们就开始酝酿刻印《荡寇志》，以维系摇摇欲坠的“世道人心”。咸丰三年（一八五三），太平军攻下南京，清政府官员们逃至苏州，竟把《荡寇志》版片也带去，就在苏州大量印行。接着，广州的“当道诸公”，也“急以袖珍板刻播是书于乡邑间，以资功惩”。稍后，咸丰七年又另有一个重刻本。咸丰十年（一八六○），太平军忠王李秀成攻下苏州，把《荡寇志》当作反革命的宣传品，予以毁版。太平天国起义失败后，同治十年（一八七一），《荡寇志》又有了大字覆刻本。 <br/>　　封建统治阶级历来鄙视稗官小说，甚至曰为“惑世诬民”的“异端”，千方百计地加以禁遏，而《荡寇志》这部纯属杜撰的稗官小说，却博得许多“当道诸公”的青睐，交口赞誉，视为维系“世道人心”的宝物，用来进行反动宣传，以抵制革命思想在群众中的传播，却又并不奇怪。《荡寇志》全书围绕着一个中心主题，即所谓“但明国纪写天麻”。书中连篇累赘地肉麻地歌颂封建朝廷，恶毒地污蔑诅咒起义阵营。封建统治者以为既可以欺骗群众，又可以恐吓群众。 <br/>　　封建社会的现实生活中，到处是“为富不仁”“官逼民反”的阶级压迫的事实，到了《荡寇志》里阶级压迫的事一概没有了，仿佛世界上根本就不存在鱼肉小民的土豪恶霸，他们全都成了施赈放粮救难拯灾的“救世主”和保护群众生命财产不受“强盗”侵犯的“大英雄”了。贪官污吏，作者不能尽讳，却异想天开地编造出蔡京、童贯等“奸贼”与宋江等起义者相互勾结串通的故事情节，其险恶的用意是要把社会舆论对贪官污吏、权奸国贼的痛恨，也转嫁到被“逼上梁山”的起义者身上去。 <br/>　　《荡寇志》赤裸裸地宣扬了封建专制主义的“国纪”：凡在一个王朝的统治下“食毛践土”的小百姓，就绝对不得反对朝廷、违抗官府、触犯地主豪绅，只准逆来顺受，苟且偷生。它又为统治阵营内部受到排挤侵害的中下级成员，树立了陈希真、刘广、苟桓那样一些“榜样”：无论受到当道“权奸”的何等欺凌迫害，蒙冤受屈，都不该改变“初衷”，投靠起义阵营；相反，而是要去积极屠杀起义者，用他们的头颅来换取皇上的信用，用他们的鲜血来洗刷不得君命而冒犯了“奸臣”“贪官”的“犯上”污垢。这样，就终究会得到朝廷的谅解和皇上的天恩，功成名进，富贵荣华，传子传孙，甚至成仙得道，超升天界。 <br/>　　在我国的小说史上，《荡寇志》可算是反动文学的代表作之一。对后世的读者，它也不失为一种颇为难得的反面材料。通过《荡寇志》里的人物形象、故事情节，人们将具体地了解到顽固地坚持封建专制主义立场的地主豪绅们，在面对人民的武装斗争风暴时的心理状态，他们的幻想和主观愿望。在艺术作品的思想性与真实性的关系上，它对我们也有反面的借鉴作用，无视广大被压迫人民求解放的愿望，怀着与社会前进方向相背离的陈腐的政治观、伦理观，是不可能不歪曲社会的本质真实的。艺术的生命力在于高度概括地反映社会真实，正是在这个意义上，《荡寇志》虽然舞文弄墨，在表现技巧和细节真实上很下了些功夫，总的艺术效果却既不真又不美，乖张暴戾，矫揉造作，与广大群众的审美感格格不入。 <br/>　　《荡寇志》对我们还有一点相当有意义的启发。《水浒》的故事已流传了好几百年，到了封建社会奄奄一息行将就木之时，竟还能迫使封建专制主义的卫道者移尊就教，用模仿《水浒》的笔法来撰写反对《水浒》精神的稗官小说，把《水浒》故事在人民群众中的流传，看作洪水猛兽，皇皇然不可终日。这一事实本身，岂非就是对《水浒》具有鼓舞群众起来反抗封建专制主义的社会效果的有力证明吗？《水浒》的伟大的历史进步意义，是被长期的社会实践所确定了的。 <br/>　　《荡寇志》的政治思想极端反动，可时代不同了，我们今天不但无须效法太平军用毁版的办法来对待它，还可以客观地有分别地承认它的某些可取之处，某些长处。例如：书中写陈希真父女受高太尉迫害，弃家出亡，路过风云庄等片断，反动的政治说教没有压倒患难相恤的真情实感，便觉文情交至，颇能动人。书中塑造了陈丽卿、刘慧娘这两个女性形象，一武一文，也颇有个性特征。作者知道一点我国古代的科技知识，又在广东耳闻目接过一些西方的工艺成果，小说在传统的斗武艺、斗法术之外，又穿插进斗器械、斗技术，也算得别开生面。从行文布局、造语设景的写作技巧方面看，许多地方可以看出作者的精心匠意，确实有如鲁迅先生说的“在纠缠旧作之同类小说中，盖差为佼佼者矣”。 <br/>　　现在排印的这个校点本，是以咸丰三年的初刻本为底本，参校了同治十年的重刻本和民国三年上海天宝书局的石印本，各本差异甚微。初刻本中存在的一些错字误刻，我们参照另外两种版本改正，间亦有各本皆误而径加改正的，因其灼然可知，又无甚关系，就不作校记了。有三点须要特地说明一下： <br/>　　一、书中进清朝皇帝之讳甚严，如：康熙帝名玄烨，凡“玄武”、“玄黄”、“玄妙”之“玄”，皆作“元”；道光帝名是宁，不仅“宁可”改作“凝可”，且将梁山英雄金枪手徐宁改名为“徐凝”。关羽被清廷敕封为“忠义神武关圣大帝”，作者竟认为“强盗”就不配姓“关”，将梁山英雄大刀关胜改姓为“冠”。这些，我们不想一味泥旧，都改正过来了。 <br/>　　二、原书有范辛来、邵祖恩二人的大量夹批、夹注和回评。二人原是作者生前同好，评语批注等其实是彼此商量著作的，作为一种资料，有助于察见作者的命意。然而为其文字太繁，无聊吹嘘者亦多，排版既已困难，纸张也须珍惜，只得全部割弃。 <br/>　　三、所有序跋均移置书末，咸丰三年初刻本序跋为附录一，同治十年重刻本所增之序跋为附录二。本书开端紧接金圣叹伪作的“惊恶梦”而起，而金圣叹批改本《水浒》今颇希见，因将“惊恶梦”一节文宇摘出，排作附录三。 <br/>　　　　　　　　　　　　　　　　　　戴鸿森 <br/>　　　　　　　　　　　　　　　　　　一九八○年十月八日 <br/><br/>【荡寇志】全书完</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1170-19440.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-1170.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1170.html" action-type="chapterComment" class="comment"><i></i>荡寇志章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

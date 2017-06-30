@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《白云谣》正文_白云谣_先秦诗人作品 - 维普阅读网</title>
+<meta name="keywords" content="白云谣,白云谣原文,白云谣阅读,白云谣全文,先秦诗人作品" />
+<meta name="description" content="白云谣原文阅读,白云谣全文在线阅读,先秦诗人作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-145.html";
+var nextpage="novel-chapter-145.html";
+var indexpage = "novel-chapter-145.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-145.html">白云谣</a></strong>
+<strong><a href="novel-chapter-145.html">白云谣目录</a></strong>
+<span>白云谣</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-145.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>白云谣</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=先秦诗人&amp;searchsubmit=yes"  target="_blank">先秦诗人</a><span class="divide">|</span>发布时间：2014-08-05 21:32:08<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/>　　白云在天，丘陵自出。<br/><br/>　　道里悠远，山川间之。<br/><br/>　　将子无死，尚复能来。<br/><br/>【注释】<br/>《穆天子传》载：周穆王西游至昆仑山见“西王母”，西王母在“瑶池”宴请了他。临别时，西王母做此歌，为之祝福。<br/>《穆天子传》是晋代从战国时魏襄王墓中发现的先秦古书之一，共六卷，原本是竹简，后因竹简文字剥落，从竹简古文改写楷书，因多难辩之处，故抄本并不完整，作者也不明。<br/><br/>【翻译】<br/>远去的人，已不可见。只有白云悠悠，尚在山间缭绕。道路悠远，山重水复，何时能回？何时能见？<br/>　　但愿你还能活着，还能回来，你我还能再相见。<br/><br/>【赏析】<br/>这是最美的一首离别诗。<br/>它出自《穆天子传》——“天子觞西王母于瑶池之上，西王母为天子谣，天子答之。”那时，西王母唱给周穆王听的，便是这支《白云谣》。<br/>有时觉得，一些文字真的是越古越好。比如这支先秦时代的歌谣，就满满流淌着旺盛的元气，虽然面对的是悲欢离合，却格外清亮豁达。<br/>尤其是最后两句，将子无死，尚复能来？<br/>如果你未曾死去，是否能够再次重来？<br/>对于生死这样的大事，那时的人也不过是一语轻轻道出，平然的让人心惊，完全不像后来，对死亡有诸多忌讳，不愿轻易提及，以一种虚弱的态度对待。<br/>所以看见百度词条里，关于这句话的译文，我就忍不住笑起来——“祝愿大王您长寿，下次有机会再来做我的客人吧！”<br/>失尽原诗的神韵，将好好的境界弄得狭窄不堪。<br/>我一直喜欢简洁而又情深意长的句子，所以读着《白云谣》，只觉口齿含香，眼底生云。现代人总爱用十句话重复一个意思，而古时人往往用一句话，就涵盖了多重意义。并且这些来自上古的笔墨，总是与天地风光相连，个人的喜悦与悲伤在这片自然风光里，也随之无限广阔起来，似重又轻，似有还无，宛如春天的花事，应承因缘，来去都能够烂漫无邪。<br/>不知它的作者是谁，名姓早已湮没在历史深处，唯有字句代代流传，光亮不灭。比之物质构成的肉身，来自精神层面的文字显然更具备神意。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-145.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-145.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-145.html" action-type="chapterComment" class="comment"><i></i>白云谣章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

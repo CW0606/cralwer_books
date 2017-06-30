@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孟子》正文_卷四 公孙丑章句下_孟子作品 - 维普阅读网</title>
+<meta name="keywords" content="孟子,孟子原文,孟子阅读,卷四 公孙丑章句下全文,孟子作品" />
+<meta name="description" content="孟子原文阅读,卷四 公孙丑章句下全文在线阅读,孟子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-27-402.html";
+var nextpage="novel-read-27-404.html";
+var indexpage = "novel-chapter-27.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-27.html">孟子</a></strong>
+<strong><a href="novel-chapter-27.html">孟子目录</a></strong>
+<span>卷四 公孙丑章句下</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-27-402.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷四 公孙丑章句下</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=孟子&amp;searchsubmit=yes"  target="_blank">孟子</a><span class="divide">|</span>发布时间：2014-07-19 11:57:27<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　一<br/>　　孟子曰：“天时不如地利，地利不如人和。三里之城，七里之郭，环而攻之而不胜。夫环而攻之，必有得天时者矣；然而不胜者，是天时不如地利也。城非不高也，池非不深也，兵革非不坚利也，米粟非不多也；委而去之，是地利不如人和也。<br/>　　故曰：域民不以封疆之界，固国不以山溪之险，威天下不以兵革之利。得道者多助，失道者寡助。寡助之至，亲戚畔之；多助之至，天下顺之。以天下之所顺，攻亲戚之所畔；故君子有不战，战必胜矣。”<br/>　　----------<br/>　　二<br/>　　孟子将朝王，王使人来曰：“寡人如就见者也，有寒疾，不可以风。朝，将视朝......不识可使寡人得见乎？”对曰：“不幸而有疾，不能造朝。”<br/>　　明“昔者辞以病，今日吊，或者不可乎？”曰：“昔者疾，今日愈，如之何不吊？”王使人问疾，医来。孟仲子对曰：“昔者有王命，有采薪之忧，不能造朝。今病小愈，趋造于朝，我不识能至否乎？”使数人要于路，曰：“请必无归，而造于朝！”不得已而之景丑氏宿焉。<br/>　　景子曰：“内则父子，外则君臣，人之大伦也。父子主恩，君臣主敬。丑见王之敬子也，未见所以敬王也。”<br/>　　曰：“恶！是何言也！齐人无以仁义与王言者，岂以仁义为不美也？其心曰‘是何足与言仁义也’云尔，则不敬莫大乎是。我非尧舜之道，不敢以陈于王前，故齐人莫如我敬王也。”<br/>　　景子曰：“否，非此之谓也。礼曰：‘父召，无诺；君命召，不俟驾。’固将朝也，闻王命而遂不果，宜与夫礼若不相似然。”<br/>　　曰：“岂谓是与？曾子曰：‘晋楚之富，不可及也。彼以其富，我以吾仁；彼以其爵，我以吾义，吾何慊乎哉？’夫岂不义而曾子言之？是或一道也。天下有达尊三：爵一，齿一，德一。朝廷莫如爵，乡党莫如齿，辅世长民莫如德。恶得有其一，以慢其二哉？故将大有为之君，必有所不召之臣。欲有谋焉，则就之。其尊德乐道，不如是不足与有为也。故汤之于伊尹，学焉而后臣之，故不劳而王；桓公之于管仲，学焉而后臣之，故不劳而霸。今天下地丑德齐，莫能相尚。无他，好臣其所教，而不好臣其所受教。汤之于伊尹，桓公之于管仲，则不敢召。管仲且犹不可召，而况不为管仲者乎？”<br/>　　----------<br/>　　三<br/>　　陈臻问曰：“前日于齐，王馈兼金一百而不受；于宋，馈七十镒而受；于薛，馈五十镒而受。前日之不受是，则今日之受非也；今日之受是，则前日之不受非也。夫子必居一于此矣。”<br/>　　孟子曰：“皆是也。皆适于义也。当在宋也，予将有远行。行者必以赆，辞曰：‘馈赆。’予何为不受？当在薛也，予有戒心。辞曰：‘<br/>　　闻戒。’故为兵馈之，予何为不受？若于齐，则未有处也。无处而馈之，是货之也。焉有君子而可以货取乎？”<br/>　　----------<br/>　　四<br/>　　孟子之平陆。谓其大夫曰：“子之持戟之士，一日而三失伍，则去之否乎？”曰：“不待三。”<br/>　　“然则子之失伍也亦多矣。凶年饥岁，子之民，老羸转于沟壑，壮者散而之四方者，几千人矣。”曰：“此非距心之所得为也。”<br/>　　曰：“今有受人之牛羊而为之牧之者，则必为之求牧与刍矣。求牧与刍而不得，则反诸其人乎？抑亦立而视其死与？”曰：“此则距心之罪也。”<br/>　　他日，见于王曰：“王之为都者，臣知五人焉。知其罪者，惟孔距心。为王诵之。”王曰：“此则寡人之罪也。”<br/>　　----------<br/>　　五<br/>　　孟子谓蚔鼁(去改圭)曰：“子之辞灵丘而请士师，似也，为其可以言也。今既数月矣，未可以言与？”蚔鼁谏于王而不用，致为臣而去。齐人曰：“所以为蚔鼁，则善矣；所以自为，则吾不知也。”公都子以告。<br/>　　曰：“吾闻之也：有官守者，不得其职则去；有言责者，不得其言则去。我无官守，我无言责也，则吾进退，岂不绰绰然有余裕哉？”<br/>　　----------<br/>　　六<br/>　　孟子为卿于齐，出吊于滕，王使盖大夫王驩为辅行。王驩朝暮见，反齐滕之路，未尝与之言行事也。<br/>　　公孙丑曰：“齐卿之位，不为小矣；齐滕之路，不为近矣。反之而未尝与言行事，何也？”<br/>　　曰：“夫既或治之，予何言哉？”<br/>　　----------<br/>　　七<br/>　　孟子自齐葬于鲁，反于齐，止于嬴。充虞请曰：“前日不知虞之不肖，使虞敦匠事。严，虞不敢请。今愿窃有请也，木若以美然。”<br/>　　曰：“古者棺椁无度，中古棺七寸，椁称之。自天子达于庶人。非直为观美也，然后尽于人心。不得，不可以为悦；无财，不可以为悦。得之为有财，古之人皆用之，吾何为独不然？且比化者，无使土亲肤，于人心独无恔乎？吾闻之君子：不以天下俭其亲。”<br/>　　----------<br/>　　八<br/>　　沈同以其私问曰：“燕可伐与？”<br/>　　孟子曰：“可。子哙不得与人燕，子之不得受燕于子哙。有仕于此，而子悦之，不告于王而私与之吾子之禄爵；夫士也，亦无王命而私受之于子，则可乎？何以异于是？”齐人伐燕。或问曰：“劝齐伐燕，有诸？”<br/>　　曰：“未也。沈同问‘燕可伐与’？吾应之曰‘可’，彼然而伐之也。彼如曰‘孰可以伐之’？则将应之曰：‘为天吏，则可以伐之。’今有杀人者，或问之曰‘人可杀与’？则将应之曰‘可’。彼如曰‘<br/>　　孰可以杀之’？则将应之曰：‘为士师，则可以杀之。’今以燕伐燕，何为劝之哉？”<br/>　　----------<br/>　　九<br/>　　燕人畔。王曰：“吾甚惭于孟子。”<br/>　　陈贾曰：“王无患焉。王自以为与周公，孰仁且智？”王曰：“恶！是何言也？”<br/>　　曰：“周公使管叔监殷，管叔以殷畔。知而使之，是不仁也；不知而使之，是不智也。仁智，周公未之尽也，而况于王乎？贾请见而解之。”见孟子问曰：“周公何人也？”<br/>　　曰：“古圣人也。”曰：“使管叔监殷，管叔以殷畔也，有诸？”曰：“然。”<br/>　　曰：“周公知其将畔而使之与？”曰：“不知也。”<br/>　　“然则圣人且有过与？”<br/>　　曰：“周公，弟也；管叔，兄也。周公之过，不亦宜乎？且古之君子，过则改之；今之君子，过则顺之。古之君子，其过也，如日月之食，民皆见之；及其更也，民皆仰之。今之君子，岂徒顺之，又从为之辞。”<br/>　　----------<br/>　　十<br/>　　孟子致为臣而归。王就见孟子，曰：“前日愿见而不可得，得侍，同朝甚喜。今又弃寡人而归，不识可以继此而得见乎？”对曰：“不敢请耳，固所愿也。”<br/>　　他日，王谓时子曰：“我欲中国而授孟子室，养弟子以万钟，使诸大夫国人皆有所矜式。子盍为我言之？”时子因陈子而以告孟子，陈子以时子之言告孟子。<br/>　　孟子曰：“然。夫时子恶知其不可也？如使予欲富，辞十万而受万，是为欲富乎？季孙曰：‘异哉子叔疑！使己为政，不用，则亦已矣，又使其子弟为卿。人亦孰不欲富贵？而独于富贵之中，有私龙断焉。’古之为市也，以其所有易其所无者，有司者治之耳。有贱丈夫焉，必求龙断而登之，以左右望而罔市利。人皆以为贱，故从而征之。征商，自此贱丈夫始矣。”<br/>　　----------<br/>　　十一<br/>　　孟子去齐，宿于昼。有欲为王留行者，坐而言。不应，隐几而卧。客不悦曰：“弟子齐宿而后敢言，夫子卧而不听，请勿复敢见矣。”<br/>　　曰：“坐！我明语子。昔者鲁缪公无人乎子思之侧，则不能安子思；泄柳、申详，无人乎缪公之侧，则不能安其身。子为长者虑，而不及子思，子绝长者乎？长者绝子乎？”<br/>　　----------<br/>　　十二<br/>　　孟子去齐。君士语人曰：“不识王之不可以为汤武，则是不明也；识其不可，然且至，则是干泽也。千里而见王，不遇故去。三宿而后出昼，是何濡滞也？士则兹不悦。”高子以告。<br/>　　曰：“夫尹士恶知予哉？千里而见王，是予所欲也；不遇故去，岂予所欲哉？予不得已也。予三宿而出昼，于予心犹以为速。王庶几改之。王如改诸，则必反予。夫出昼而王不予追也，予然后浩然有归志。予虽然，岂舍王哉？王由足用为善。王如用予，则岂徒齐民安，天下之民举安。王庶几改之，予日望之。予岂若是小丈夫然哉？谏于其君而不受，则怒，悻悻然见于其面。去则穷日之力而后宿哉？”<br/>　　尹士闻之曰：“士诚小人也。”<br/>　　----------<br/>　　十三<br/>　　孟子去齐。充虞路问曰：“夫子若有不豫色然。前日虞闻诸夫子曰：‘君子不怨天，不尤人。’”<br/>　　曰：“彼一时，此一时也。五百年必有王者兴，其间必有名世者。由周而来，七百有余岁矣。以其数则过矣，以其时考之则可矣。夫天，未欲平治天下也；如欲平治天下，当今之世，舍我其谁也？吾何为不豫哉？”<br/>　　----------<br/>　　十四<br/>　　孟子去齐，居休。公孙丑问曰：“仕而不受禄，古之道乎？”<br/>　　曰：“非也。于崇，吾得见王。退而有去志，不欲变，故不受也。继而有师命，不可以请。久于齐，非我志也。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-27-402.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-27-404.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-27.html" action-type="chapterComment" class="comment"><i></i>孟子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

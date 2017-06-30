@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《热风》正文_随感录61_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="热风,热风原文,热风阅读,随感录61全文,鲁迅作品" />
+<meta name="description" content="热风原文阅读,随感录61全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-548-7415.html";
+var nextpage="novel-read-548-7417.html";
+var indexpage = "novel-chapter-548.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-548.html">热风</a></strong>
+<strong><a href="novel-chapter-548.html">热风目录</a></strong>
+<span>随感录61</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-548-7415.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>随感录61</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-04 20:09:33<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>欧战才了的时候，中国很抱着许多希望，因此现在也发出许多悲观绝望的声音，说“世界上没有人道”，“人道这句话是骗人的”。有几位评论家，还引用了他们外国论者自己责备自己的文字，来证明所谓文明人者，比野蛮尤其野蛮。这诚然是痛快淋漓的话，但要问：照我们的意见，怎样才算有人道呢？那答话，想来大约是“收回治外法权（２），收回租界，退还庚子赔款（３）……”现在都很渺茫，实在不合人道。 <br/><br/>　　但又要问：我们中国的人道怎么样？那答话，想来只能“……”。对于人道只能“……”的人的头上，决不会掉下人道来。因为人道是要各人竭力挣来，培植，保养的，不是别人布施，捐助的。 <br/><br/>　　其实近于真正的人道，说的人还不很多，并且说了还要犯罪。若论皮毛，却总算略有进步了。这回虽然是一场恶战，也居然没有“食肉寝皮”，没有“夷其社稷”（４），而且新兴了十八个小国（５）。就是德国对待比国，都说残暴绝伦，但看比国的公布，也只是囚徒不给饮食，村长挨了打骂，平民送上战线之类。这些事情，在我们中国自己对自己也常有，算得什么希奇？ <br/><br/>　　人类尚未长成，人道自然也尚未长成，但总在那里发荣滋长。我们如果问问良心，觉得一样滋长，便什么都不必忧愁；将来总要走同一的路。看罢，他们是战胜军国主义的，他们的评论家还是自己责备自己，有许多不满。不满是向上的车轮，能够载着不自满的人类，向人道前进。 <br/><br/>　　多有不自满的人的种族，永远前进，永远有希望。 <br/><br/>　　多有只知责人不知反省的人的种族，祸哉祸哉！ <br/><br/>　　==========================================================================<br/><br/><br/>　　（１）本篇最初发表于一九一九年十一月一日《新青年》第六卷第六号，署名唐俟。 <br/><br/>　　（２）治外法权这里是指过去帝国主义国家通过不平等条约在中国享有的“领事裁判权”。根据这种特权，居留中国的外国侨民不受中国法律的管辖，他们在中国犯了罪或成为民事诉讼的被告时，只受本国的领事或由其本国所设立的法庭依照他们的法律审判。它保护帝国主义分子和外国不法侨民在中国进行罪恶活动。<br/><br/>　　（３）庚子赔款一九○○年（庚子），德、法、俄等八个帝国主义国家联合发动侵略中国的战争，一九○一年（辛丑），强迫清政府签订丧权辱国的《辛丑条约》，其中规定：中国向八国赔款银四亿五千万两，年息四厘，分三十九年还清，本息共计九亿八千多万两。这笔赔款通称“庚子赔款”。 <br/><br/>　　（４）社稷古代我国帝王或诸侯在都城设立的祭祀社神（土神）和稷神（谷神）的庙，旧时用作国家政权的代称。<br/><br/>　　（５）新兴了十八个小国第一次世界大战期间及战后重建或新建的国家，有：塞尔维亚—克罗地亚—斯洛文尼亚王国（一九二九年改名南斯拉夫）、爱沙尼亚、拉脱维亚、立陶宛、波兰、捷克斯拉夫、芬兰、冰岛、奥地利、匈牙利、白俄罗斯、乌克兰、摩尔达维亚、格鲁吉亚、阿塞拜疆、亚美尼亚、汉志、远东共和国等。它们有的后来又并入其他国家。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-548-7415.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-548-7417.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-548.html" action-type="chapterComment" class="comment"><i></i>热风章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

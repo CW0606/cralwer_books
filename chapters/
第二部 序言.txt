@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《蛙》正文_第二部 序言_莫言作品 - 维普阅读网</title>
+<meta name="keywords" content="蛙,蛙原文,蛙阅读,第二部 序言全文,莫言作品" />
+<meta name="description" content="蛙原文阅读,第二部 序言全文在线阅读,莫言作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1248-22856.html";
+var nextpage="novel-read-1248-22858.html";
+var indexpage = "novel-chapter-1248.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1248.html">蛙</a></strong>
+<strong><a href="novel-chapter-1248.html">蛙目录</a></strong>
+<span>第二部 序言</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1248-22856.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第二部 序言</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-23.html" target="blank">文学小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=莫言&amp;searchsubmit=yes"  target="_blank">莫言</a><span class="divide">|</span>发布时间：2015-03-26 22:17:07<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>敬爱的杉谷义人先生：<br/><br/>　　您能花费那么多宝贵的时间，耐着性子读完我那封断断续续写了二个月、为了省钱作为包裹寄出的长信，并且给了我那么多的鼓励和肯定，使我感动而歉疚。<br/><br/>　　让我感慨万端的是，我在信中提到的那位日本侵华战争期间在平度城驻守的日军指挥官杉谷，竟是您的父亲。为此您代表已经过世的父亲向我的姑姑、我的家族以及我故乡人民谢罪，您正视历史的态度、敢于承担的精神，使我们深深地受到了感动。按说，您也是战争的受害者。您信中提到，战争期间您与母亲所过的提心吊胆的生活以及在战争之后所过的饥寒交迫的生活。其实，您的父亲也是战争的受害者，如果没有战争，如您所说，他将是一位前途远大的外科医生，战争改变了他的命运，改变了他的性格，使他由一个救人的人变为一个杀人的人。<br/><br/>　　我将您的信读给我的姑姑、我的父亲和我们这里许多经历过那场战争的人听了。听罢信后他们都眼含泪水感叹不已。您父亲驻守平度城时，您才是一个四、五岁的少年，您父亲在平度城犯下的罪行，没有理由让您承担，但是您承担了，您勇敢地把父辈的罪恶扛在自己的肩上，并愿意以自己的努力来赎父辈的罪，您的这种担当精神虽然让我们感到心疼，但我们知道这种精神非常可贵，当今这个世界最欠缺的就是这种精神，如果人人都能清醒地反省历史、反省自我，人类就可以避免许许多多的愚蠢行为。<br/><br/>　　我姑姑、我父亲和我的乡亲们，都热烈地欢迎您再到高密东北乡做客。我姑姑说她要陪您去平度城参观访问。我姑姑还悄悄地对我说，她对令尊没有什么坏印象。侵华日军军官中，确有许多如中国电影中所表现的那种穷凶极恶、粗暴野蛮者，但也有如令尊那种文质彬彬、礼貌待人的。我姑姑对令尊的评价是：一个坏人群里的不太坏的人。<br/><br/>　　我六月初回到高密，已经住了一个多月，期间，做了一些社会调查，为写作那部以姑姑为素材的话剧做准备。同时，我应您的要求，继续以写信的方式，将姑姑的故事告诉您，遵您之嘱，我也尽量多地把我本人所经历过的一些事情，顺便写到了信里。<br/><br/>　　我姑姑、我父亲让我代他们向您及您的家人问好！<br/><br/>　　高密东北乡人欢迎您！<br/><br/>　　蝌蚪<br/><br/>　　二OO三年七月于高密</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1248-22856.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1248-22858.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1248.html" action-type="chapterComment" class="comment"><i></i>蛙章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

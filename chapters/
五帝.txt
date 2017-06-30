@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孔子家语》正文_五帝_王肃作品 - 维普阅读网</title>
+<meta name="keywords" content="孔子家语,孔子家语原文,孔子家语阅读,五帝全文,王肃作品" />
+<meta name="description" content="孔子家语原文阅读,五帝全文在线阅读,王肃作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-349-5189.html";
+var nextpage="novel-read-349-5191.html";
+var indexpage = "novel-chapter-349.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-349.html">孔子家语</a></strong>
+<strong><a href="novel-chapter-349.html">孔子家语目录</a></strong>
+<span>五帝</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-349-5189.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>五帝</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王肃&amp;searchsubmit=yes"  target="_blank">王肃</a><span class="divide">|</span>发布时间：2014-09-05 21:44:59<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>季康子问于孔子曰：“旧闻五帝之名，而不知其实，请问何谓五帝？”孔子曰：“昔丘也闻诸老聃曰：‘天有五行，水火金木土，分时化育，以成万物。一岁三百六十日五行各主七十二日也化生长育一岁之功万物莫敢不成’其神谓之五帝。五帝五行之神佐生物者而谶纬皆为之名字亦为妖怪妄言古之王者，易代而改号，取法五行，五行更王，终始相生，亦象其义。法五行更王终始相生始以木德王天下其次以生之行转相承而诸说乃谓五精之帝下生王者其为帝或无可言也更古衡反王音旺故其为明王者而死配五行，是以太皞配木，炎帝配火，黄帝配土，少皞配金，颛顼配水。”康子曰：“太皞氏其始之木何如？”孔子曰：“五行用事，先起于木，木东方万物之初皆出焉，是故王者则之，而首以木德王天下，其次则以所生之行，转相承也。”木生火火生土之属王天音旺康子曰：“吾闻勾芒为木正，祝融为火正，蓐收为金正，玄冥为水正，后土为土正，此五行之主而不乱称曰帝者，何也？”孔子曰：“凡五正者，五行之官名，五行佐成上帝而称五帝，太皞之属配焉，亦云帝，从其号。天至尊物不可以同其号亦兼称上帝上天以其五行佐成天事谓之五帝以地有五行而其精神在上故亦为帝五帝黄帝之属故亦称帝亦从天五帝之号故王者虽号称帝而不或曰天帝而曰天子者而天子与父其尊卑相去远矣曰天王者言乃天下之王也昔少皞氏之子有四叔，曰重、曰该、曰修、曰熙，实能金木及水，使重为勾芒，该为蓐收，修及熙为玄冥，颛顼氏之子曰黎为祝融，共工氏之子曰勾龙为后土，此五者，各以其所能业为官职。各以一行之官为职业之事生为上公，死为贵神，别称五祀，不得同帝。”五祀上公之神故不得称帝也正史者五正不及五帝五帝不及天地而不设者以祭社为祭地不亦失之远矣且土与火水俱为五行是地之子也以子为母不亦颠倒失尊卑之序也康子曰：“如此之言，帝王改号于五行之德，各有所统，则其所以相变者，皆主何事？”在木家而尚赤所以问也孔子曰：“所尚则各从其所王之德次焉。木次火而木家尚赤者以木德义之着修其母兼其子夏后氏以金德王，色尚黑，大事歛用昏，大事丧昏时亦黑也戎事乘骊，黑马也牲用玄；殷人用水德王，色尚白，水家尚青而尚白者避土家之尚青大事歛用日中，日中白也戎事乘翰，翰白色马牲用白；周人以木德王，色尚赤，大事歛用日出，日出时亦赤也戎事乘騵，騵马白腹牲用骍。骍赤色也此三代之所以不同。”康子曰：“唐虞二帝，其所尚者何色？”孔子曰：“尧以火德王，色尚黄，舜以土德王，色尚青。”土家宜尚白土者四行之主王于四季五行用事先起于水色青是以水家避土土家尚白康子曰：“陶唐有虞夏后，殷周独不配五帝，意者德不及上古耶，将有限乎？”孔子曰：“古之平治水土，及播殖百谷者众矣，唯勾龙氏兼食于社，兼犹配也而弃为稷神，易代奉之，无敢益者，明不可与等。故自太皞以降，逮于颛顼，其应五行，而王数非徒五而配五帝，是其德不可以多也。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-349-5189.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-349-5191.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-349.html" action-type="chapterComment" class="comment"><i></i>孔子家语章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《准风月谈》正文_智识过剩_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="准风月谈,准风月谈原文,准风月谈阅读,智识过剩全文,鲁迅作品" />
+<meta name="description" content="准风月谈原文阅读,智识过剩全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-551-7608.html";
+var nextpage="novel-read-551-7610.html";
+var indexpage = "novel-chapter-551.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-551.html">准风月谈</a></strong>
+<strong><a href="novel-chapter-551.html">准风月谈目录</a></strong>
+<span>智识过剩</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-551-7608.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>智识过剩</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-06 20:47:01<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　虞明 <br/>　　世界因为生产过剩，所以闹经济恐慌。虽然同时有三千万以上的工人挨饿，但是粮食过剩仍旧是“客观现实”，否则美国不会赊借麦粉（２）给我们，我们也不会“丰收成灾”（３）。 <br/>　　然而智识也会过剩的，智识过剩，恐慌就更大了。据说中国现行教育在乡间提倡愈甚，则农村之破产愈速（４）。这大概是智识的丰收成灾了。美国因为棉花贱，所以在铲棉田了。中国却应当铲智识。这是西洋传来的妙法。 <br/>　　西洋人是能干的。五六年前，德国就嚷着大学生太多了，一些政治家和教育家，大声疾呼的劝告青年不要进大学。现在德国是不但劝告，而且实行铲除智识了：例如放火烧毁一些书籍，叫作家把自己的文稿吞进肚子去，还有，就是把一群群的大学生关在营房里做苦工，这叫做“解决失业问题”。中国不是也嚷着文法科的大学生过剩（５）吗？其实何止文法科。就是中学生也太多了。要用“严厉的”会考制度（６），像铁扫帚似的——刷，刷，刷，把大多数的智识青年刷回“民间”去。智识过剩何以会闹恐慌？中国不是百分之八九十的人还不识字吗？然而智识过剩始终是“客观现实”，而由此而来的恐慌，也是“客观现实”。智识太多了，不是心活，就是心软。心活就会胡思乱想，心软就不肯下辣手。结果，不是自己不镇静，就是妨害别人的镇静。于是灾祸就来了。所以智识非铲除不可。 <br/>　　然而单是铲除还是不够的。必须予以适合实用之教育，第一，是命理学——要乐天知命，命虽然苦，但还是应当乐。第二，是识相学——要“识相点”，知道点近代武器的利害。至少，这两种适合实用的学问是要赶快提倡的。提倡的方法很简单：——古代一个哲学家反驳唯心论，他说，你要是怀疑这碗麦饭的物质是否存在，那最好请你吃下去，看饱不饱。现在譬如说罢，要叫人懂得电学，最好是使他触电，看痛不痛；要叫人知道飞机等类的效用，最好是在他头上驾起飞机，掷下炸弹，看死不死……有了这样的实用教育，智识就不过剩了。亚门（７）！七月十二日。 <br/>　　<br/>===============================================================<br/><br/>　　（１）　本篇最初发表于一九三三年七月十六日《申报·自由谈》。<br/>　　（２）　赊借麦粉　一九三三年五月，国民党政府财政部长宋子文在华盛顿与美国复兴金融公司签定“棉麦借款”合同，借款五千万美元，规定以五分之四购买美棉，五分之一购买美麦。<br/>　　（３）　“丰收成灾”　一九三二年长江流域各省丰收，但由于帝国主义和国民党政府以及地主和商人的操纵，谷价大跌，造成了丰收地区农民的灾难。 <br/>　　（４）　见一九三三年七月十一日《申报》载上海市市长吴铁城的谈话，他把当时农村破产的主要原因荒谬地归之于“现行教育制度不适合农村环境之需要”，说“现行教育制度在乡间提倡愈甚，则农村之破产愈速。故欲求农村之发达，必须予以适合实用之教育。”<br/>　　（５）　文法科的大学生过剩　一九三三年五月国民党政府教育部命令各大学限制招收文法科学生，令文中说：“吾国数千年来尚文积习，相沿既深，求学者因以是为趋向，而文法等科又设备较简，办学者亦往往避难就易，遂致侧重人文，忽视生产，形成人才过剩与缺乏之矛盾现象。”（据一九三三年五月二十二日《申报》）<br/>　　（６）　会考制度　国民党政府自一九三三年度开始，规定全国各中小学学生届毕业时，除校内毕业考试以外，还须会同他校毕业生参加当地教育行政机关所主持的一次考试，称为会考，及格者才得毕业。<br/>　　（７）　亚门　希伯来文ａLｍｅLｎ的音译，一译“阿们”。犹太教徒和基督教徒祈祷结束时的用语，表示“诚心所愿”。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-551-7608.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-551-7610.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-551.html" action-type="chapterComment" class="comment"><i></i>准风月谈章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《脉经》正文_诊损至脉_王叔和作品 - 维普阅读网</title>
+<meta name="keywords" content="脉经,脉经原文,脉经阅读,诊损至脉全文,王叔和作品" />
+<meta name="description" content="脉经原文阅读,诊损至脉全文在线阅读,王叔和作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-517-6182.html";
+var nextpage="novel-read-517-6184.html";
+var indexpage = "novel-chapter-517.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-517.html">脉经</a></strong>
+<strong><a href="novel-chapter-517.html">脉经目录</a></strong>
+<span>诊损至脉</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-517-6182.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>诊损至脉</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王叔和&amp;searchsubmit=yes"  target="_blank">王叔和</a><span class="divide">|</span>发布时间：2014-09-23 20:28:46<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>脉有损至，何谓也？然：至之脉，一呼再至曰平，三至曰离经，四至曰夺精，五至曰死，六至曰命绝，此至之脉也。<br/><br/>　　何谓损？一呼一至曰离经，二呼一至曰夺精，三呼一至曰死，四呼一至曰命绝，此损之脉也。至脉从下上，损脉从上下也。<br/><br/>　　损脉之为病奈何？然：一损损于皮毛，皮聚而毛落；二损损于血脉，血脉虚少，不能荣于五脏六腑也；三损损于肌肉，肌肉消瘦，食饮不为肌肤；四损损于筋，筋缓不能自收持；五损损于骨，骨痿不能起于床。反此者，至于收病也。从上下者，骨痿不能起于床者，死；从下上者，皮聚而毛落者，死。<br/><br/>　　治损之法奈何？<br/><br/>　　然；损其肺者，益其气；损其心者，调其荣卫；损其脾者，调其饮食，适其寒温；损其肝者，缓其中；损其肾者，益其精气。此治损之法也。<br/><br/>　　脉有一呼再至，一吸再至；一呼三至，一吸三至；一呼四至，一吸四至；一呼五至，一吸五至；一呼六至，一吸六至；一呼一至，一吸一至；再呼一至，再吸一至；呼吸再至。脉来如此，何以别知其病也？<br/><br/>　　然：脉来一呼再至，一吸再至，不大不小，曰平。一呼三至，一吸三至，为适得病。前大后小，即头痛目眩；前小后大，即胸满短气。一呼四至，一吸四至病适欲甚。脉洪大者，苦烦满；沉细者，腹中痛；滑者，伤热；涩者，中雾露。一呼五至，一吸五至，其人当困。沉细即夜加，浮大即昼加，不大小虽困可治，其有大小者为难治。一呼六至，一吸六至，为十死脉也。沉细夜死，浮大昼死。一呼一至，一吸一至，名曰损。人虽能行，犹当（一作犹未）着床，所以然者，血气皆不足故也。再呼一至，再吸一至，名曰无魂。无魂者，当死也，人虽能行，名曰行尸。扁鹊曰：脉一出一入曰平，再出一入少阴，三出一入太阴，四出一入厥阴。再入一出少阳，三入一出阳明，四入一出太阳。脉出者为阳，入者为阴。故人一呼而脉再动，气行三寸；一吸而脉再动，气行三寸。呼吸定息，脉五动。一呼一吸为一息，气行六寸。人十息，脉五十动，气行六尺。二十息，脉百动，为一备之气，以应四时。天有三百六十五日，人有三百六十五节。昼夜漏下水百刻。一备之气，脉行丈二尺。一日一夜行于十二辰，气行尽则周遍于身，与天道相合，故曰平，平者，无病也，一阴一阳是也。脉再动为一至，再至而紧即夺气。一刻百三十五息，十刻千三百五十息，百刻万三千五百息，二刻为一度，一度气行一周身，昼夜五十度。脉三至者离经。一呼而脉三动，气行四寸半。人一息脉七动，气行九寸。十息脉七十动，气行九尺。一备之气。脉百四十动，气行一丈八尺。一周于身，气过百八十度，故曰离经。离经者病，一阴二阳是也。三至而紧则夺血。脉四至则夺精。一呼而脉四动，气行六寸。人一息脉九动，气行尺二寸。人十息脉九十动，气行一丈二尺。一备之气，脉百八十动，气行二丈四尺。一周于身，气过三百六十度，再遍于身，不及五节，一时之气而重至。诸脉浮涩者，五脏无精，难治。一阴三阳是也（四至而紧则夺形）。脉五至者，死。一呼而脉五动，气行六寸半（当行七寸半）。人一息脉十一动，气行尺三寸（当行尺五寸）。人十息脉百一十动，气行丈三尺（当行丈五尺）。一备之气，脉二百二十动，气行二丈六尺（当行三丈）。一周于身三百六十五节，气行过五百四十度。再周于身，过百七十度。一节之气而至此。气浮涩，经行血气竭尽，不守于中，五脏痿，精神散亡。脉五至而紧则死，三阴（一作二）三阳是也，虽五犹末，如之何也。脉一损一乘者，人一呼而脉一动，人一息而脉再动，气行三寸。十息脉二十动，气行三尺。一备之气，脉四十动，气行六尺，不及周身百八十节。气短不能周遍于身，苦少气，身体懈堕矣。脉再损者，人一息而脉一动，气行一寸五分。人十息脉十动，气行尺五寸。一备之气，脉二十动，气行三尺，不及周身二百节。疑气血尽，经中不能及，故曰离经。血去不在其处，小大便皆血也。脉三损者，人一息复一呼而脉一动。十息脉七动，气行尺五寸（当行尺五分）。一备之气，脉十四动，气行三尺一寸（当行二尺一寸）。不及周身二百九十七节，故曰争，气行血留，不能相与俱微。气闭实则胸满脏枯，而争于中，其气不朝，血凝于中，死矣。脉四损者，再息而脉一动。人十息脉五动，气行七寸半。一备之气，脉十动。气行尺五寸。不及周身三百一十五节，故曰亡血，亡血者，忘失其度，身羸疲，皮裹骨。故气血俱尽，五脏失神，其死明矣。脉五损者，人再息复一呼而脉一动。人十息脉四动，气行六寸。一备之气，脉八动，气行尺二寸。不及周身三百二十四节，故曰绝。绝者，气急，不下床，口气寒，脉俱绝，死矣。<br/><br/>　　岐伯曰：脉失四时者为至启，至启者，为损至之脉也。损之为言，少阴主骨为重，此志损也；饮食衰减，肌肉消者，是意损也；身安卧，卧不便利，耳目不明，是魂损也；呼吸不相通，五色不华，是魄损也；四肢皆见脉为乱，是神损也。大损三十岁，中损二十岁，下损十岁。损，各以春、夏、秋、冬。平人，人长脉短者，是大损，三十岁；人短脉长者，是中损，二十岁；手足皆细，是下损，十岁；失精气者，一岁而损；男子，左脉短，右脉长，是为阳损，半岁；女子，右脉短，左脉长，是为阴损，半岁。春，脉当得肝脉，反得脾、肺之脉，损；夏，脉当得心脉，反得肾、肺之脉，损；秋，脉当得肺脉，反得肝、心之脉，损；冬，脉当得肾脉，反得心、脾之脉，损。当审切寸口之脉，知绝不绝。前后去为绝。掌上相击，坚如弹石，为上脉虚尽，下脉尚有，是为有胃气（上脉尽，下脉坚如弹石，为有胃气）。上下脉皆尽者，死；不绝不消者，皆生，是损脉也。至之为言，言语音深远，视愦愦，是志之至也；身体粗大饮食暴多，是意之至也；语言妄见，手足相引，是魂之至也；茏葱华色，是魄之至也；脉微小不相应，呼吸自大，是神之至也。是至脉之法也。死生相应，病各得其气者生，十得其半也。黄帝曰：善。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-517-6182.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-517-6184.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-517.html" action-type="chapterComment" class="comment"><i></i>脉经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

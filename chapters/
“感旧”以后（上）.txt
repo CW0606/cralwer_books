@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《准风月谈》正文_“感旧”以后（上）_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="准风月谈,准风月谈原文,准风月谈阅读,“感旧”以后（上）全文,鲁迅作品" />
+<meta name="description" content="准风月谈原文阅读,“感旧”以后（上）全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-551-7517.html";
+var nextpage="novel-read-551-7519.html";
+var indexpage = "novel-chapter-551.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-551.html">准风月谈</a></strong>
+<strong><a href="novel-chapter-551.html">准风月谈目录</a></strong>
+<span>“感旧”以后（上）</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-551-7517.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>“感旧”以后（上）</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-05 21:38:24<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>丰之余 <br/>　　又不小心，感了一下子旧，就引出了一篇施蛰存（２）先生的《〈庄子〉与〈文选〉》来，以为我那些话，是为他而发的，但又希望并不是为他而发的。 <br/>　　我愿意有几句声明：那篇《感旧》，是并非为施先生而作的，然而可以有施先生在里面。 <br/>　　倘使专对个人而发的话，照现在的摩登文例，应该调查了对手的籍贯，出身，相貌，甚而至于他家乡有什么出产，他老子开过什么铺子，影射他几句才算合式。我的那一篇里可是毫没有这些的。内中所指，是一大队遗少群的风气，并不指定着谁和谁；但也因为所指的是一群，所以被触着的当然也不会少，即使不是整个，也是那里的一肢一节，即使并不永远属于那一队，但有时是属于那一队的。现在施先生自说了劝过青年去读《庄子》与《文选》，“为文学修养之助”，就自然和我所指摘的有点相关，但以为这文为他而作，却诚然是“神经过敏”，我实在并没有这意思。 <br/>　　不过这是在施先生没有说明他的意见之前的话，现在却连这“相关”也有些疏远了，因为我所指摘的，倒是比较顽固的遗少群，标准还要高一点。 <br/>　　现在看了施先生自己的解释，（一）才知道他当时的情形，是因为稿纸太小了，“倘再宽阔一点的话”，他“是想多写几部书进去的”；（二）才知道他先前的履历，是“从国文教员转到编杂志”，觉得“青年人的文章太拙直，字汇太少”了，所以推举了这两部古书，使他们去学文法，寻字汇，“虽然其中有许多字是已死了的”，然而也只好去寻觅。我想，假如庄子生在今日，则被劈棺之后（３），恐怕要劝一切有志于结婚的女子，都去看《烈女传》（４）的罢。 <br/>　　还有一点另外的话——（一）施先生说我用瓶和酒来比“文学修养”是不对的，但我并未这么比方过，我是说有些新青年可以有旧思想，有些旧形式也可以藏新内容。我也以为“新文学”和“旧文学”这中间不能有截然的分界，然而有蜕变，有比较的偏向，而且正因为不能以“何者为分界”，所以也没有了“第三种人”（５）的立场。 <br/>　　（二）施先生说写篆字等类，都是个人的事情，只要不去勉强别人也做一样的事情就好，这似乎是很对的。然而中学生和投稿者，是他们自己个人的文章太拙直，字汇太少，却并没有勉强别人都去做字汇少而文法拙直的文章，施先生为什么竟大有所感，因此来劝“有志于文学的青年”该看《庄子》与《文选》了呢？做了考官，以词取士，施先生是不以为然的，但一做教员和编辑，却以《庄子》与《文选》劝青年，我真不懂这中间有怎样的分界。 <br/>　　（三）施先生还举出一个“鲁迅先生”来，好像他承接了庄子的新道统，一切文章，都是读《庄子》与《文选》读出来的一般。“我以为这也有点武断”的。他的文章中，诚然有许多字为《庄子》与《文选》中所有，例如“之乎者也”之类，但这些字眼，想来别的书上也不见得没有罢。再说得露骨一点，则从这样的书里去找活字汇，简直是胡涂虫，恐怕施先生自己也未必。 <br/>　　十月十二日。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-551-7517.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-551-7519.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-551.html" action-type="chapterComment" class="comment"><i></i>准风月谈章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《花边文学》正文_略论梅兰芳及其他（上）_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="花边文学,花边文学原文,花边文学阅读,略论梅兰芳及其他（上）全文,鲁迅作品" />
+<meta name="description" content="花边文学原文阅读,略论梅兰芳及其他（上）全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-536-6799.html";
+var nextpage="novel-read-536-6801.html";
+var indexpage = "novel-chapter-536.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-536.html">花边文学</a></strong>
+<strong><a href="novel-chapter-536.html">花边文学目录</a></strong>
+<span>略论梅兰芳及其他（上）</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-536-6799.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>略论梅兰芳及其他（上）</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 21:20:00<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　 张沛<br/><br/>　　崇拜名伶原是北京的传统。辛亥革命后，伶人的品格提高了，这崇拜也干净起来。先只有谭叫天（２）在剧坛上称雄，都说他技艺好，但恐怕也还夹着一点势利，因为他是“老佛爷”——慈禧太后（３）赏识过的。虽然没有人给他宣传，替他出主意，得不到世界的名声，却也没有人来为他编剧本。我想，这不来，是带着几分“不敢”的。<br/><br/>　　后来有名的梅兰芳可就和他不同了。梅兰芳不是生，是旦，不是皇家的供奉（４），是俗人的宠儿，这就使士大夫敢于下手了。士大夫是常要夺取民间的东西的，将竹枝词（５）改成文言，将“小家碧玉”（６）作为姨太太，但一沾着他们的手，这东西也就跟着他们灭亡。他们将他从俗众中提出，罩上玻璃罩，做起紫檀架子来。教他用多数人听不懂的话，缓缓的《天女散花》，扭扭的《黛玉葬花》，先前是他做戏的，这时却成了戏为他而做，凡有新编的剧本，都只为了梅兰芳，而且是士大夫心目中的梅兰芳。雅是雅了，但多数人看不懂，不要看，还觉得自己不配看了。<br/><br/>　　士大夫们也在日见其消沉，梅兰芳近来颇有些冷落。<br/><br/>　　因为他是旦角，年纪一大，势必至于冷落的吗？不是的，老十三旦（７）七十岁了，一登台，满座还是喝采。为什么呢？就因为他没有被士大夫据为己有，罩进玻璃罩。<br/><br/>　　名声的起灭，也如光的起灭一样，起的时候，从近到远，灭的时候，远处倒还留着余光。梅兰芳的游日，游美，（８）其实已不是光的发扬，而是光在中国的收敛。他竟没有想到从玻璃罩里跳出，所以这样的搬出去，还是这样的搬回来。<br/><br/>　　他未经士大夫帮忙时候所做的戏，自然是俗的，甚至于猥下，肮脏，但是泼剌，有生气。待到化为“天女”，高贵了，然而从此死板板，矜持得可怜。看一位不死不活的天女或林妹妹，我想，大多数人是倒不如看一个漂亮活动的村女的，她和我们相近。<br/><br/>　　然而梅兰芳对记者说，还要将别的剧本改得雅一些。十一月一日。<br/><br/>　<br/>===============================================================<br/><br/><br/><br/>　　（１）本篇最初发表于一九三四年十一月五日《中华日报·动向》。<br/><br/>　　（２）谭叫天谭鑫培（１８４７—１９１７），艺名小叫天，湖北江夏（今武昌）人，京剧演员，擅长老生戏。一八九○年（光绪十六年）曾被召入清宫升平署承值，为慈禧太后演戏。<br/><br/>　　（３）慈禧太后（１８３５—１９０８）清代咸丰帝妃，同治即位，被尊为太后，是同治、光绪两朝的实际统治者。“老佛爷”，清宫中太监对太上皇或皇太后的称呼。<br/><br/>　　（４）供奉旧时对在皇帝左右供职者的称呼。清代也用以称进入宫廷的演员。<br/><br/>　　（５）竹枝词古代民歌，多为七言，历代文人常有仿作。宋代郭茂倩《乐府诗集》卷八十一：“竹枝本出于巴渝。唐贞元中，刘禹锡在沅湘，以俚歌鄙陋，乃依骚人《九歌》作《竹枝新词》九章，教里中儿歌之。由是盛于贞元、元和之间。”<br/><br/>　　（６）“小家碧玉”语出《乐府诗集·碧玉歌》：“碧玉小家女，不敢攀贵德”。<br/><br/>　　（７）老十三旦即侯俊山（１８５４—１９３５），艺名喜麟，山西洪洞人，山西梆子演员。因十三岁演戏成名，故称十三旦。清代申左梦畹生《粉墨丛谈》说：“癸酉（１８７３）、甲戌（１８７４）间，十三旦以艳名噪燕台。”当时梆子腔深受劳动群众所喜爱，士大夫则多抱歧视的态度，如李慈铭在《越缦堂日记》（清同治十二年二月一日）中说：“都中向有梆子腔，多市井鄙秽之剧，惟舆隶贾竖听之。”（８）梅兰芳曾于一九一九年、一九二四年访日演出，一九二九年至一九三○年访美演出。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-536-6799.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-536-6801.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-536.html" action-type="chapterComment" class="comment"><i></i>花边文学章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《黄帝内经》正文_第七十四篇 论疾诊尺_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="黄帝内经,黄帝内经原文,黄帝内经阅读,第七十四篇 论疾诊尺全文,佚名作品" />
+<meta name="description" content="黄帝内经原文阅读,第七十四篇 论疾诊尺全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-58-1913.html";
+var nextpage="novel-read-58-1915.html";
+var indexpage = "novel-chapter-58.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-58.html">黄帝内经</a></strong>
+<strong><a href="novel-chapter-58.html">黄帝内经目录</a></strong>
+<span>第七十四篇 论疾诊尺</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-58-1913.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第七十四篇 论疾诊尺</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-07-29 22:33:04<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【本章要点】<br/>　　一、论述了诊尺肤的范围及其诊断价值。说明从尺肤的滑涩、大小、寒热等不同变化，以“从外知内”的原理，可以了解疾病虚实，寒热的属性，表里、上下的部位等。<br/>　　二、观察眼睛所现的五色，可以了解病属何脏；从目中赤脉延伸的方向，以了解目痛病属何经；从赤脉出现在瞳子上的多少，以预测寒热病死期的长短。<br/>　　三、简述龋齿、黄疸、妊娠等的诊断方法，以及血脉变化在诊断上的价值。<br/>　　四、运用阴阳消长、转化的规律，说明四时寒暑往复的变化，由于四季各有不同的气候，所以受邪后至下一季节，可以产生不同的病变。<br/>　　【原文】<br/>　　黄帝问岐伯曰：余欲无视色持脉，独调其尺，以言其病，从外知内，为之奈何？岐伯曰：审其尺之缓急、小大、滑涩，肉之坚脆，而病形定矣。<br/>　　视人之目窠上微痈，如新卧起状，其颈脉动，时咳，按其手足上，窅而不起者，风水肤胀也。<br/>　　尺肤滑，其淖泽者，风也。尺肉弱者，解亻亦，安卧脱肉者，寒热，不治。尺肤滑而泽脂者，风也。尺肤涩者，风痹也。尺肤粗如枯鱼之鳞者，水泆饮也。尺肤热甚，脉盛躁者，病温也，其脉盛而滑者，病且出也。尺肤寒，其脉小者，泄、少气。尺肤炬然①，先热后寒者，寒热也；尺肤先寒，久大之而热者，亦寒热也。<br/>　　肘所独热者，腰以上热；手所独热者，腰以下热。肘前独热者，膺前热；肘后独热者，肩背热。臂中独热者，腰腹热；肘后粗以下三四寸热者，肠中有虫。掌中热者，腹中热；掌中寒者，腹中寒。鱼上白肉有青血脉者，胃中有寒。<br/>　　尺炬然热，人迎大者，当夺血；尺坚大，脉小甚，少气，悗有加，立死。<br/>　　目赤色者病在心，白在肺，青在肝，黄在脾，黑在肾。黄色不可名者，病在胸中。<br/>　　诊目痛，赤脉从上下者，太阳病；从下上者，阳明病；从外走内者，少阳病。<br/>　　诊寒热，赤脉上下至瞳子，见一脉②，一岁死；见一脉半，一岁半死；见二脉，二岁死；见二脉半，二岁半死；见三脉，三岁死。<br/>　　诊龋齿痛，按其阳之来，有过者独热，在左左热，在右右热，在上上热，在下下热。<br/>　　诊血脉者，多赤多热，多青多痛，多黑为久痹，多赤、多黑、多青皆见者，寒热。<br/>　　身痛而色微黄，齿垢黄，爪甲上黄，黄疸也。安卧小便黄赤，脉小而涩者不嗜食。<br/>　　人病，其寸口之脉，与人迎之脉小大等，及其浮沉等者，病难已也。女子手少阴脉动甚者妊子。婴儿病，其头毛皆逆上者必死。耳间青脉起者掣痛。大便赤瓣飧泄③，脉小者，手足寒，难已；飧泄，脉小，手足温，泄易已。<br/>　　四时之变，寒暑之胜，重阴必阳，重阳必阴；故阴主寒，阳主热，故寒甚则热，热甚则寒，故曰寒生热，热生寒，此阴阳之变也。<br/>　　故曰：冬伤于寒，春生瘅热；春伤于风，夏生飧泄肠澼，夏伤于暑，秋生痎疟；秋伤于湿，冬生咳嗽。是谓四时之序也。<br/>　　【注释】<br/>　　①炬然：高热灼手的意思。<br/>　　②脉：这里指赤脉。<br/>　　③赤瓣飧泄：赤，做“青”讲。指大便如瓣状，色青，为消化不良的表现。<br/>　　【译文】<br/>　　黄帝问岐伯说：我想不用望色、切脉的方法，而单独依靠诊查尺肤，就能说出所患之病，从外在的表现推测内在的变化，诊尺肤的方法怎样呢？岐伯说：诊察尺肤的紧急或弛缓、高起或瘦削、滑润或涩滞表现，以及肌肉的坚实或脆弱，即可确定属于哪种疾病了。<br/>　　看到病人眼眶下凹陷处，有轻微浮肿，好像刚刚睡醒起床的样子，颈部人迎脉搏动，时时作咳，若用手按压患者手足，被按之处深陷不起的，这是风水肤胀的症候。<br/>　　尺之皮肤滑而不涩目光泽的，是风病；尺部肌肉松软柔弱的，是身体困倦、四肢懈怠的“解亻亦”病，喜好睡眠，肌肉瘦削的，是寒热时发，不易治愈；尺之肌肤滑润如膏脂的，是风病；尺之肌肤涩滞不滑的，为血少营虚的风痹病；尺之肌肤粗糙不润像干枯鱼鳞的，是脾土虚衰、水饮不化的“痰饮”病；尺之肌肤灼热，脉盛大而躁动的，是温病，若脉显盛大但不躁动而现滑利的，是病邪将被驱出，正气渐复，为病将痊愈之象；尺之肌肤寒冷而脉小的，是泄泻与气虚的病；尺之肌肤高热灼手，先发热后发冷的，属寒热往来一类的疾病；尺之肌肤先觉寒冷，久按之后感觉发热的，也是寒热往来一类的疾病。<br/>　　肘部皮肤单独发热的，候腰以上部位发热；手腕部皮肤单独发热的，候腰以下部位发热；肘前部单独发热的，候肩背部发热；肘后部单独发热的，候肩背发热；臂之中部单独发热的，候腰腹部发热；肘后缘以下三四寸的部位发热的，肠中有虫；手掌发热的，候腹中发热；手掌发凉的，候腹中发凉；手鱼际白肉有青色血脉的，是胃中有寒。<br/>　　尺之肌肤高热炙手，项部人迎脉大的，属热盛，当主失血；尺肤坚大，而脉小甚的，则见于气虚，若加有烦闷现象，会立即死亡。<br/>　　目见赤色的病在心，见白色的病在肺，见青色的病在肝，见黄色的病在脾，见黑色的病在肾，黄色而兼见其他色而不能辨明的，主病在胸中。<br/>　　诊察目痛，有赤色的络脉从上向下的，属于太阳经的病；从下向上行的，属于阳明经的病；从目外向内行走的，属于少阳经的病。<br/>　　诊察有寒热往来的病时，如果目中有赤脉从上向下贯瞳子，见一条赤脉的，一年死；见一条半赤脉的，一年半死；见两条赤脉的，两年死；见两条半赤脉的，两年半死；见三条赤脉的，三年死。<br/>　　诊察龋齿痛时，按压阳明之脉，有病变的部位必单独发热，病在左侧的左侧热，在右侧的右侧热，在上的上热，在下的下热。<br/>　　诊察络脉时，若皮肤多赤色络脉的多属热症，多青色的多属痛症，多黑色的是久痹，若赤、黑、青皆多而兼见的，为寒热病，身体疼痛。<br/>　　面色微黄，牙齿垢黄，指甲上也现黄色的，是黄疸病。若嗜卧，小便黄赤，脉小而有涩象的，不嗜饮食。<br/>　　患病之人，在手桡骨部位的寸口脉和颈部的人迎脉小大以及浮沉相等的，为难治之病。女子手少阴心脉动甚的，为怀孕的征象。婴儿有病时，其头发都向上竖起的，必定死亡。若耳部络脉色青而隆起的，主抽搐腹痛。大便青绿色有乳瓣，泄下完谷不化，再加之脉小弱，手足寒冷的，其病难治；若泄泻脉大，手足温暖的，易治。<br/>　　一年四季的气候变化，寒暑往复，其规律是阴盛至极则转变为阳。阳盛至极则转变为阴。阴性主寒，阳性主热。<br/>　　所以寒到一定程度就会变热，热到一定程度就会变寒。因此说寒能生热，热能生寒。这是阴阳变化的道理。所以，冬天感受了寒邪不立即发病，到了春天就会发生温热病；春天感受了风邪不即发病，到了夏天就发生泄泻、痢疾病；夏天感受暑邪不即发病，到了秋天就容易发生疟疾；秋天感受了湿邪不即发病，到了冬天就发生咳嗽病。这是由于四季气候不同，依春、夏、秋、冬的顺序而发生的各种疾病。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-58-1913.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-58-1915.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-58.html" action-type="chapterComment" class="comment"><i></i>黄帝内经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

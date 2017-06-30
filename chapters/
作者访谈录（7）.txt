@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《少年张冲六章》正文_作者访谈录（7）_杨争光作品 - 维普阅读网</title>
+<meta name="keywords" content="少年张冲六章,少年张冲六章原文,少年张冲六章阅读,作者访谈录（7）全文,杨争光作品" />
+<meta name="description" content="少年张冲六章原文阅读,作者访谈录（7）全文在线阅读,杨争光作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1354-24951.html";
+var nextpage="novel-read-1354-24953.html";
+var indexpage = "novel-chapter-1354.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1354.html">少年张冲六章</a></strong>
+<strong><a href="novel-chapter-1354.html">少年张冲六章目录</a></strong>
+<span>作者访谈录（7）</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1354-24951.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>作者访谈录（7）</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-23.html" target="blank">文学小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=杨争光&amp;searchsubmit=yes"  target="_blank">杨争光</a><span class="divide">|</span>发布时间：2015-05-07 22:43:31<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>钟：“课文”这一章，我是非常喜欢的，我觉得提供了一种新鲜的阅读体验。一篇课文加一篇后面的现实性叙写，从小学一年级写到初中，怎样想到用这个方式来写的？<br/>　　杨：课文和父母，和老师一样，也是我们的孩子成长的土壤和空气，甚至比父母，老师更具作用力，尤其是语文。还有所谓的思想品德，老师和学生简称为“思品”。都是直接参与学生的精神塑造的食粮。而且，它们是国家选定的各路专家集体智慧的结晶，是国家意志和精英的教育理念以及价值判断的集合体。这就是我把课文专列一章进入小说结构的原因。我选择了语文，没有选择“思品”，语文的“教化”因素少一些，更具说服力。<br/>　　我认真阅读了现在通行的小学和初高中的语文课本，无一遗漏。我还去过乾县逸夫小学，邀请一年级到六年级的语文老师座谈过，清一色都是女老师。我选出了一些课文，让她们给我讲是怎么教的，学生有什么样的反应。这些，都对我写作这一章产生了我事先无法预料的作用。<br/>　　现在的语文课本比过去的好多了。我选择了30多篇课文，把它们挪移在了小说里。我想让读者和我们的孩子们一起读一读它们。我以为不多余。但仅仅挪移课文是不够的，我还想写出这些课文在教与学的过程中，发生延伸和扩张的可能性。这种延伸和扩张，也许是编课本的专家和教课文的老师始料不及的。<br/>　　钟：在看到你的小说之前，我只是觉得其实语文课本虽然不断在新的教改原则下修改，但仍然存在许多的问题，那些对经典文本的擅自改写，让孩子背诵的那些摞了许多华丽形容词的课文，还有一些不知道谁写的歌颂性的诗歌，都很没有意思。但我只是把语文看作孩子学习中国语言文字的一种课本。认识生词，分析课文和技巧的途径。读了你的小说，我才意识到，原来语文课本，是一种人生的读本，是文化的读本。是社会甚至是哲学的读本。语文课本居然这样富有实践性，非常让我感慨。<br/>　　杨：你是在表扬我吗？我很担心我写不好这一章。你的阅读感受给我增加了自信。如果真是表扬，那就谢谢谢谢。<br/>　　钟：你从张冲一年级的语文课本写起，当老师借助某篇课文阐述的道理，让孩子去问父母或者在家里实践一下的时候，得出的结论却往往和课本大相径庭。这样同时表现了教育、成长和父母等构成的社会等几个方面，不同价值观，非常有意思。又比如三年级的课文“妈妈的账单”，那张母亲开给小彼得的账单所列各项都是“0芬尼”，老师布置的作业张冲和同学却无法完成，他含着泪，听父母算那算不清的账，只能到考上大学才能一笔勾销的账。父母的爱，成了无法还清的债务……你自己有所得的是哪个部分？课文选择的原则是什么？<br/>　　杨：阅读中小学的课本，对我有诸多触动，是一次非常特别的阅读体验。在写作的过程中，有克服困境的煎熬，也有克服之后的小得意。比如李勤勤要回答什么是“嶙峋”和张冲提出的“灿烂的牛粪”那一段，是很煎熬我的。我说不清楚，李勤勤就说不清楚，煎熬了好几天，我觉得我还是说清楚了。写完那一段后，我就有些小得意了。写作确实是一件愉悦的事情，首先是愉悦自己。<br/>　　选择哪些课文呢？选那些能把学生，老师和家长勾连在一起的，和流行的观念和意识有可能发生碰撞的，具有延伸和扩张的可能性的吧。这算不算选择的原则呢？我没想过。如果有原则的话，那就是，从一年级到初中三年级，每个年级都要有。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1354-24951.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1354-24953.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1354.html" action-type="chapterComment" class="comment"><i></i>少年张冲六章章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

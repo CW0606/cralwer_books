@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《三十六计》正文_第二十三计 远交近攻_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="三十六计,三十六计原文,三十六计阅读,第二十三计 远交近攻全文,佚名作品" />
+<meta name="description" content="三十六计原文阅读,第二十三计 远交近攻全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-232-3057.html";
+var nextpage="novel-read-232-3059.html";
+var indexpage = "novel-chapter-232.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-232.html">三十六计</a></strong>
+<strong><a href="novel-chapter-232.html">三十六计目录</a></strong>
+<span>第二十三计 远交近攻</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-232-3057.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第二十三计 远交近攻</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-08-19 22:46:50<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>结交离得远的国家而进攻邻近的国家。这是秦国用以并吞六国，统一全国的外交策略。<br/>【原典】<br/>形禁势格①，利从近取，害以远隔②。上火下泽③。<br/>【注释】<br/>①形禁势格：禁，禁止。格，阻碍。句意为受到地势的限制和阻碍。<br/>②利从近取，害以远隔：句意为，先攻取就近的敌人有利，越过近敌先去攻取远隔之敌是有害的。<br/>③上火下泽：语出《易经·睽》卦。睽，卦名。本卦为异卦相叠（兑下离上）。上卦为离为火，下卦为兑为泽。上离下泽，是水火相克，水火相克则又可相生，循环无穷。又“睽”，乘违，即矛盾。本卦《象》辞：“上火下泽，睽。”意为上火下泽，两相离违、矛盾。<br/>此计运用“上火下泽”相互离违的道理，说明采取“远交近攻”的不同做法，使敌相互矛盾、离违，而我正好各个击破。<br/>【按语】<br/>混战之局，纵横捭阖之中，各自取利。远不可攻，而可以利相结；近者交之，反使变生肘腑。范雎之谋，为地理之定则，其理甚明。<br/>【故事】<br/>袁绍计夺冀州<br/>　　袁绍计夺冀州之时，采用的是远交近攻之术，这是一种合的韬略。袁绍联合公孙瓒，让他攻打冀州，对韩馥造成正面压力，然后率军压向冀州，使韩馥走投无路，同时派出说客进行游说，终于迫使韩馥拱手让出冀州，但袁绍并不因此感谢公孙瓒，而将下一步的进攻目标对准了公孙瓒。与公孙瓒合的目的是为了自己，一旦达到目的，便兵戎相向。<br/><br/>伪装<br/>　　第二次世界大战时，希特勒企图吞并欧洲、称霸世界，建立一个“大德意志帝国”，但又担心欧洲诸国联合起来群起而攻之，于是，在他的一系列政治外交伪装中，充分利用了西方盟国的绥靖主义政策，实行“远交近攻”。<br/>　　1939年8月31日，意大利首相墨索里尼提出关于召开德、意、法、英四国代表会议的建议。9月2日，意大利外长齐亚诺作为特使，就召开四国代表会议的条件问题，专程来到了巴黎。<br/><br/>欧洲地图<br/>　　当时英国首相张伯伦、法国总达拉第，积极推行远交近攻政策，拼命把德国这股祸水推向苏联，因而热衷于对德国搞“绥靖”政策。于是与意大利的墨索里尼、德国的希特勒签订了“慕尼黑协定”。<br/>　　苏联曾想联合英法共同对付德国，但被英法拒绝了。苏联为了自身的利益，与德国签订了《互不侵犯条约》。<br/>　　希特勒了解西方盟国和苏联再也不会援助波兰，便在远交政策的庇护下，首先向东灭亡了邻国捷克、波兰，后向西北攻陷了丹麦、挪威，再向西南灭亡了荷兰、比利时、卢森堡，并绕道阿登山脉攻入法国，直趋英吉利海峡…… 1941年，希特勒所采取的“远交近攻，各个击破”的战略方针，收到了预期效果，对苏形成了半月形包围。现在灾难落到苏联为头上了。<br/>　　为了麻痹和欺骗苏联，希特勒在外交上通过多种形式反复向苏联表示“友好”，积极同苏联签订贸易协定，甚至请苏联的军事代表团参观先进的航空技术，并同意卖给苏联新式战斗机。<br/>　　1941年6月22晶拂晓，德军从波罗的海至喀尔巴阡山脉之间，以三个集团军群（战争第一天共搞入117个师），在大量航空兵配合支援下，分为三路突然向苏联发动了全面进攻。<br/>　　苏军仓促应战，措手不及。有的部队没有带地图，有的兵团忘记了带电台呼号，有些工事没有军队据守，甚至有的方面军司令部不知他们的司令员在什么地方。德军则很快突破苏军防线，长驱直入。<br/>　　至7月9日，德国军“北方”集团军群深入苏联国土约500公里；“中央”集团军群深入苏联国土约600公里；“南方”集团军群深入苏联国土400公里。苏联大片国土沦入敌手，大量苏军被德军围歼，许多城镇、农庄、工厂和学校遭到法西斯匪徒的血洗。苏联在战争初期陷入了非常困难和被动的境地，遭受了巨大的损失。<br/>　　尽管苏联红军和苏联人民经过艰苦卓越的战斗，打败了德国法西斯，但是战争时期体制改革蒙受的重大损失却成为遗憾千古的历史教训。希特勒所采取的“远交近攻”的政策给世界人民造成的灾难是永远难以忘记的。<br/><br/>演变<br/>　　新中国成立初期，建立了同前苏联集团的战略同盟关系，这个战略同盟关系的重心在社会主义阵营，核心是反对帝国主义战争，维护世界和平。<br/>　　六十年代初中苏关系破裂，出于国内经济建设的需要，考虑到西方阵营的某些变动，我们调整了自己的外交战略，将中国对外经贸关系的重点逐渐移向西方世界，并在外交战略上逐步形成以三个世界划分为基本判断的新型外交战略模式。这个外交战略的重心在“第三世界”国家。战略的核心是建立全球反霸统一战线，维护世界和平。<br/>　　七十年代，中美关系急剧变化，国同西方大多数国家的经贸关系有了一定程度的发展，中国的国际地位有所提高。我们提出了独立自主的外交口号。它是一种不稳定的外交战略模型。带有明显的过渡色彩，主旨是反对霸权主义，维护世界和平，为中国赢得更大的国际回旋空间。<br/>　　八十年代中期的债务危机和九十年代后期的亚洲金融危机后，许多发展中国家借鉴了欧洲的成功经验，地区集团化的步伐加快。中国政府善意地理解了广大发展中国家积极发展民族经济的愿望，在将中国经济全面融入国际社会的同时，积极参与地区一体化建设。这种前所未有的国际政治经济新时代，为中国调整自己的外交方略提供了良好的机遇。中国政府顺应时代的变化，提出了国际外交战略的全新命题“与邻为善”“以邻为伴”“睦邻富邻”“实现共同发展”，“建立协商对话，维护地区安全和世界和平的机制”。这种新的和平外交战略模式已经基本形成，并正在中国的国家外交实践中全面推开，我们姑且将其命名为“和平发展”的外交战略。<br/>　　“和平发展”的外交战略模式的提出，是新中国几代领导人呕心沥血、殚精竭虑的产物，它的核心思想是追求国家关系上的和平共处，而不是基于消灭敌人的战争考虑；是基于对各国人民谋求经济发展，实现生活水平提高的愿望的认同和理解；是基于对当今社会潮流的准确判断。它和以往的外交战略模式的根本区别在于：第一，它是致力于和平，而不是致力于战争的，充满了对人类的善意，承认世界的多样性，承认各民族、各国家、各种文化、各种发展道路和发展模式的合理性和合法性，创造性地提出了国际关系史上不同于森林法则的人性法则。第二，它致力于各国人民的经济发展，因而不同于以往侧重于战争的外交战略模式。第三，它是中国传统文化的产物，中国在国内推行改革开放，提出建立“和谐社会”。在国际社会提出“和平发展”的外交战略模式，积极推动国际关系民主化。<br/>　　传统文化正日益成为推动中国与世界各国平等交往的强大动力。“和平发展”的外交战略，打破了中国被包围被封锁的国际关系格局。目前我们需要格外警惕战争逻辑的外交战略的恶劣影响。我们看到有人竭力将中国定格在美国的潜在战略竞争对手的位置上，拼命鼓吹“中国威胁论”。可见战争逻辑仍然深深地根植于许多外交政策制定者的头脑中。在这种情况下，中国更要坚定不移地执行“和平发展”的外交战略，树立负责任的和平大国形象。<br/><br/>崛起<br/>　　公元前1792年，汉谟拉比继承王位，成为古巴比伦王朝的第六任国王。当时的巴比伦疆域狭小，国势很弱，而周边却是强国如林：西北有玛里，东北有埃什努那，南边有伊新、乌鲁克，东南有拉尔萨，北面是亚述，东面是善战的伊兰人。<br/>　　为使巴比伦强盛起来，汉谟拉比致力于发展经济，几年后巴比伦便财茂物丰。雄才大略的汉谟拉比不满足于此，他的奋斗目标是吞并诸国，统一两河流域。为此他采用了远交近攻的战略。汉谟拉比把南方的近邻伊新确定为第一个吞并目标。为达到这一目的，他向强大的亚述帝国俯首称臣，极尽讨好之能事，同时又和拉尔萨密切友好关系。其后，汉谟拉比联合拉尔萨一举灭亡了伊新，并顺势吞并了乌鲁克。<br/>　　后来，汉谟拉比又联合饱受亚述欺凌的玛里，共同对付亚述。公元前1783年，亚述国王沙玛什亚达德一世去世，汉谟拉比乘机帮助原玛里国王吉摩里利姆复位，接着两国军队开向亚述，占据了亚述的南部地区，亚述帝国从此一蹶不振。为进一步拉拢玛里，汉谟拉比出兵帮助玛里击退了西边游牧部落和东邻埃什努那的进攻，使玛里国王吉摩里利姆同他结为刎颈之交。<br/>　　看到巴比伦北部再无强敌，汉谟拉比又把吞并的矛头指向昔日的盟友拉尔萨。公元前1763年，汉谟拉比联合玛里军队打败了拉尔萨。当玛里国王吉摩里利姆深感自己处境不妙时，汉谟拉比已将大军摆在玛里城下，原为“兄弟”的吉摩里利姆被迫向汉谟拉比称臣。两年后，吉摩里利姆发动叛乱，被汉谟拉比诛杀。<br/>　　公元前1755年，汉谟拉比又征服了最后一个邻国埃什努那。这样，经过30年的征战，汉谟拉比终于统一了两河流域。<br/>　　在这里，汉谟拉比采用远交近攻的谋略，先后吞并了诸国。他总是集中力量攻打一个目标，在时机不成熟时决不轻易放弃任何盟友，这是他成功的奥秘所在。<br/><br/>远交<br/>　　拿破仑帝国崩溃后，欧洲的封建君主国结成神圣同盟，企图长期稳定下来，最早发生资产阶级革命的英国因政治倾向不同受到欧洲各国的孤立和排挤。<br/>　　1822年，坎宁担任了英国外交大臣，他顺应资产阶级和劳动群众的要求，决心打破神圣同盟一统欧洲的局面，恢复英国在欧洲事务中的领导作用。<br/>　　自18世纪末以来，拉丁美洲掀起了反对宗主国殖民统治的独立运动。坎宁认为远交这些新独立的拉美国家，对于对抗近敌——欧洲神圣同盟大有裨益。1823年，神圣同盟决定派兵去镇压拉美新独立国家，坎宁立即站出来反对。坎宁声明承认这些国家，反对任何武装干涉的行为。坎宁还向美国发出呼吁，希望两国联合起来反对神圣同盟干涉别国事务。与此同时，坎宁让英国船艇巡弋于大西洋，阻止欧洲的船只开往美洲。<br/>　　在世界舆论的压力之下，神圣同盟核心人物梅特涅建议就拉丁美洲问题召开全欧洲会议。坎宁立即表示，英国决不参加这样的会议，也不承认会上通过的任何决议。<br/>　　1825年，在坎宁的努力之下，英国承认了阿根廷、哥伦比亚、墨西哥等拉美新国家，并与它们建立了友好合作关系。坎宁的一系列举动，打击了欧洲神圣同盟，赢得了拉美新国家的好感，恢复了英国昔日在欧洲的威望。<br/><br/>郑庄公称霸<br/>　　春秋初期，周天子的地位实际上已经架空，群雄并起，逐鹿中原。郑庄公在此混乱局势下，巧妙地运用“远交近攻”的策略，取得了当时称霸的地位。当时，郑国近邻的宋国、卫国与郑国积怨很深，矛盾十分尖锐，郑国时刻都有被两国夹击的危险。郑国在外交上采取主动，接连与邾、鲁等国结盟，不久又与实力强大的齐国在石门签订盟约。<br/>　　公元前719年，宋、卫联合陈、蔡两国共同攻打郑国，鲁国也派兵助战，将郑国东门围困了五天五夜。虽未攻下，郑国已感到本国与鲁国的关系还存在问题，便千方百计想与鲁国重新修好，共同对付宋、卫。<br/>　　公元前717年，郑国以帮邾国雪耻为名，攻打宋国。同时，向鲁国积极发动外交攻势，主动派使臣到鲁国，商议把郑国在鲁国境内的访枋交归鲁国。果然，鲁国与郑重修旧谊。齐国当时出面调停郑国和宋国的关系，郑庄公表示尊重齐国的意见，暂时与宋国修好。齐国因此也对郑国加深了感情。<br/>　　公元前714年，郑庄公以宋国不朝拜周天子为由，代周天子发令攻打宋国。郑、齐、鲁三国大军很快地攻占了宋国大片土地，宋、卫军队避开联军锋芒，乘虚攻入郑国。郑庄公把占领宋国的土地全部送与齐、鲁两国，迅速回兵，大败宋、卫大军，郑国乘胜追击，击败宋国，卫国被迫求和。郑庄公势力扩张，霸主地位形成。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-232-3057.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-232-3059.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-232.html" action-type="chapterComment" class="comment"><i></i>三十六计章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

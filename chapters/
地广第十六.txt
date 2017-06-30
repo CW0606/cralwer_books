@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《盐铁论》正文_地广第十六_桓宽作品 - 维普阅读网</title>
+<meta name="keywords" content="盐铁论,盐铁论原文,盐铁论阅读,地广第十六全文,桓宽作品" />
+<meta name="description" content="盐铁论原文阅读,地广第十六全文在线阅读,桓宽作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-255-4062.html";
+var nextpage="novel-read-255-4064.html";
+var indexpage = "novel-chapter-255.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-255.html">盐铁论</a></strong>
+<strong><a href="novel-chapter-255.html">盐铁论目录</a></strong>
+<span>地广第十六</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-255-4062.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>地广第十六</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=桓宽&amp;searchsubmit=yes"  target="_blank">桓宽</a><span class="divide">|</span>发布时间：2014-08-26 21:15:36<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>大夫曰：“王者包含幷覆，普爱无私，不为近重施，不为远遗恩。今俱是民也，俱是臣也，安危劳佚不齐，独不当调邪？不念彼而独计此，斯亦好议矣？缘边之民，处寒苦之地，距强胡之难，烽燧一动，有没身之累。故边民百战，而中国恬卧者，以边郡为蔽扞也。诗云：‘莫非王事，而我独劳。’刺不均也。是以圣王怀四方独苦，兴师推却胡、越，远寇安灾，散中国肥饶之余，以调边境，边境强，则中国安，中国安则晏然无事。何求而不默也？”<br/><br/>　　文学曰：“古者，天子之立于天下之中，县内方不过千里，诸侯列国，不及不食之地，禹贡至于五千里；民各供其君，诸侯各保其国，是以百姓均调，而繇役不劳也。今推胡、越数千里，道路回避，士卒劳罢。故边民有刎颈之祸，而中国有死亡之患，此百姓所以嚣嚣而不默也。夫治国之道，由中及外，自近者始。近者亲附，然后来远；百姓内足，然后恤外。故群臣论或欲田轮台，明主不许，以为先救近务及时本业也。故下诏曰：‘当今之务，在于禁苛暴，止擅赋，力本农。’公卿宜承意，请减除不任，以佐百姓之急。今中国弊落不忧，务在边境。意者地广而不耕，多种而不耨，费力而无功，诗云：‘无田甫田，维莠骄骄。’其斯之谓欤。”<br/><br/>　　大夫曰：“汤、武之伐，非好用兵也；周宣王辟国千里，非贪侵也；所以除寇贼而安百姓也。故无功之师，君子不行；无用之地，圣王不贪。先帝举汤、武之师，定三垂之难，一面而制敌，匈奴遁逃，因河、山以为防，故去砂石咸卤不食之地，故割斗辟之县，弃造阳之地以与胡，省曲塞，据河险，守要害，以宽徭役，保士民。由此观之：圣主用心，非务广地以劳众而已矣。”<br/><br/>　　文学曰：“秦之用兵，可谓极矣，蒙恬斥境，可谓远矣。今踰蒙恬之塞，立郡县寇虏之地，地弥远而民滋劳。朔方以西，长安以北，新郡之功，外城之费，不可胜计。非徒是也，司马、唐蒙凿西南夷之涂，巴、蜀弊于邛、筰；横海征南夷，楼船戍东越，荆、楚罢于瓯、骆；左将伐朝鲜，开临屯，燕、齐困于秽貉，张骞通殊远，纳无用，府库之藏，流于外国；非特斗辟之费，造阳之役也。由此观之：非人主用心，好事之臣为县官计过也。”<br/><br/>　　大夫曰：“挟管仲之智者，非为厮役之使也。怀陶朱之虑者，不居贫困之处。文学能言而不能行，居下而讪上，处贫而非富，大言而不从，高厉而行卑，诽誉訾议，以要名采善于当世。夫禄不过秉握者，不足以言治，家不满檐石者，不足以计事。儒皆贫羸，衣冠不完，安知国家之政，县官之事乎？何斗辟造阳也！”<br/><br/>　　文学曰：“夫贱不害智，贫不妨行。颜渊屡空，不为不贤。孔子不容，不为不圣。必将以貌举人，以才进士，则太公终身鼓刀，宁戚不离饭牛矣。古之君子，守道以立名，修身以俟时，不为穷变节，不为贱易志，惟仁之处，惟义之行。临财苟得，见利反义，不义而富，无名而贵，仁者不为也。故曾参、闵子，不以其仁易晋、楚之富。伯夷不以其行易诸侯之位，是以齐景公有马千驷，而不能与之争名。孔子曰：‘贤哉回也！一箪食，一瓢饮，在于陋巷，人不堪其忧，回也不改其乐。’故惟仁者能处约、乐，小人富斯暴，贫斯滥矣。杨子曰：‘为仁不富，为富不仁。’苟先利而后义，取夺不厌。公卿积亿万，大夫积千金，士积百金，利己幷财以聚；百姓寒苦，流离于路，儒独何以完其衣冠也？”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-255-4062.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-255-4064.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-255.html" action-type="chapterComment" class="comment"><i></i>盐铁论章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

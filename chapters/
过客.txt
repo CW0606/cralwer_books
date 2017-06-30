@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《野草》正文_过客_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="野草,野草原文,野草阅读,过客全文,鲁迅作品" />
+<meta name="description" content="野草原文阅读,过客全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-531-6611.html";
+var nextpage="novel-read-531-6613.html";
+var indexpage = "novel-chapter-531.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-531.html">野草</a></strong>
+<strong><a href="novel-chapter-531.html">野草目录</a></strong>
+<span>过客</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-531-6611.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>过客</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-52.html" target="blank">散文</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-27 19:30:39<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>时：或一日的黄昏<br/><br/>　　地：或一处<br/><br/>　　人：<br/><br/>　　老翁——约七十岁，白头发，黑长袍。<br/><br/>　　女孩——约十岁，紫发，乌眼珠，白地黑方格长衫。<br/><br/>　　过客——约三四十岁，状态困顿倔强，眼光阴沉，黑须，乱发，<br/><br/>　　黑色短衣裤皆破碎，赤足著破鞋，胁下挂一个口袋，支<br/><br/>　　着等身的竹杖。<br/><br/>　　东，是几株杂树和瓦砾；西，是荒凉破败的丛葬；其间有一条似<br/><br/>　　路非路的痕迹。一间小土屋向这痕迹开着一扇门；门侧有一段枯<br/><br/>　　树根。<br/><br/>　　〔女孩正要将坐在树根上的老翁搀起。〕<br/><br/>　　翁——孩子。喂，孩子！怎么不动了呢？<br/><br/>　　孩——〔向东望着，〕有谁走来了，看一看罢。<br/><br/>　　翁——不用看他。扶我进去罢。太阳要下去了。<br/><br/>　　孩——我，——看一看。<br/><br/>　　翁——唉，你这孩子！天天看见天，看见土，看见风，还不够好看么？什么也不比这些好看。你偏是要看谁。太阳下去时候出现的东西，不会给你什么好处的。……还是进去罢。<br/><br/>　　孩——可是，已经近来了。阿阿，是一个乞丐。<br/><br/>　　翁——乞丐？不见得罢。<br/><br/>　　〔过客从东面的杂树间跄踉走出，暂时踌躇之后，慢慢地走近老翁去。〕<br/><br/>　　客——老丈，你晚上好？<br/><br/>　　翁——阿，好！托福。你好？<br/><br/>　　客——老丈，我实在冒昧，我想在你那里讨一杯水喝。我走得渴极了。这地方又没有一个池塘，一个水洼。<br/><br/>　　翁——唔，可以可以。你请坐罢。〔向女孩，〕孩子，你拿水来，杯子要洗干净。<br/><br/>　　〔女孩默默地走进土屋去。〕<br/><br/>　　翁——客官，你请坐。你是怎么称呼的。<br/><br/>　　客——称呼？——我不知道。从我还能记得的时候起，我就只一个人，我不知道我本来叫什么。我一路走，有时人们也随便称呼我，各式各样，我也记不清楚了，况且相同的称呼也没有听到过第二回。<br/><br/>　　翁——阿阿。那么，你是从哪里来的呢？<br/><br/>　　客——〔略略迟疑，〕我不知道。从我还能记得的时候起，我就在这么走。<br/><br/>　　翁——对了。那么，我可以问你到哪里去么？<br/><br/>　　客——自然可以。——但是，我不知道。从我还能记得的时候起，我就在这么走，要走到一个地方去，这地方就在前面。我单记得走了许多路，现在来到这里了。我接着就要走向那边去，〔西指，〕前面！<br/><br/>　　〔女孩小心地捧出一个木杯来，递去。〕<br/><br/>　　客——〔接杯，〕多谢，姑娘。〔将水两口喝尽，还杯，〕多谢，姑娘。这真是少有的好意。我真不知道应该怎样感谢！<br/><br/>　　翁——不要这么感激。这于你是没有好处的。<br/><br/>　　客——是的，这于我没有好处。可是我现在很恢复了些力气了。我就要前去。老丈，你大约是久住在这里的，你可知道前面是怎么一个所在么？<br/><br/>　　翁——前面？前面，是坟。<br/><br/>　　客——〔诧异地，〕坟？<br/><br/>　　孩——不，不，不。那里有许多许多野百合，野蔷薇，我常常去玩，去看他们的。<br/><br/>　　客——〔西顾，仿佛微笑，〕不错。那些地方有许多许多野百合，野蔷薇，我也常常去玩过，去看过的。但是，那是坟。〔向老翁，〕老丈，走完了那坟地之后呢？<br/><br/>　　翁——走完之后？那我可不知道。我没有走过。<br/><br/>　　客——不知道？！<br/><br/>　　孩——我也不知道。<br/><br/>　　翁——我单知道南边；北边；东边，你的来路。那是我最熟悉的地方，也许倒是于你们最好的地方。你莫怪我多嘴，据我看来，你已经这么劳顿了，还不如回转去，因为你前去也料不定可能走完。<br/><br/>　　客——料不定可能走完？……〔沉思，忽然惊起〕那不行！我只得走。回到那里去，就没一处没有名目，没一处没有地主，没一处没有驱逐和牢笼，没一处没有皮面的笑容，没一处没有眶外的眼泪。我憎恶他们，我不回转去。<br/><br/>　　翁——那也不然。你也会遇见心底的眼泪，为你的悲哀。<br/><br/>　　客——不。我不愿看见他们心底的眼泪，不要他们为我的悲哀。<br/><br/>　　翁——那么，你，〔摇头，〕你只得走了。<br/><br/>　　客——是的，我只得走了。况且还有声音常在前面催促我，叫唤我，使我息不下。可恨的是我的脚早经走破了，有许多伤，流了许多血。〔举起一足给老人看，〕因此，我的血不够了；我要喝些血。但血在哪里呢？可是我也不愿意喝无论谁的血。我只得喝些水，来补充我的血。一路上总有水，我倒也并不感到什么不足。只是我的力气太稀薄了，血里面太多了水的缘故罢。今天连一个小水洼也遇不到，也就是少走了路的缘故罢。<br/><br/>　　翁——那也未必。太阳下去了，我想，还不如休息一会的好罢，象我似的。<br/><br/>　　客——但是，那前面的声音叫我走。<br/><br/>　　翁——我知道。<br/><br/>　　客——你知道？你知道那声音么？<br/><br/>　　翁——是的。他似乎曾经也叫过我。<br/><br/>　　客——那也就是现在叫我的声音么？<br/><br/>　　翁——那我可不知道。他也就是叫过几声，我不理他，他也就不叫了，我也就记不清楚了。<br/><br/>　　客——唉唉，不理他……。〔沉思，忽然吃惊，倾听着，〕不行！我还是走的好。我息不下。可恨我的脚早经走破了。〔准备走路。〕<br/><br/>　　孩——给你！〔递给一片布，〕裹上你的伤去。<br/><br/>　　客——多谢，〔接取，〕姑娘。这真是……。这真是极少有的好意。这能使我可以走更多的路。〔就断砖坐下，要将布缠在踝上，〕但是，不行！〔竭力站起，〕姑娘，还了你罢，还是裹不下。况且这太多的好意，我没法感激。<br/><br/>　　翁——你不要这么感激，这于你没有好处。<br/><br/>　　客——是的，这于我没有什么好处。但在我，这布施是最上的东西了。你看，我全身上可有这样的。<br/><br/>　　翁——你不要当真就是。<br/><br/>　　客——是的。但是我不能。我怕我会这样：倘使我得到了谁的布施，我就要象兀鹰看见死尸一样，在四近徘徊，祝愿她的灭亡，给我亲自看见；或者咒诅她以外的一切全都灭亡，连我自己，因为我就应该得到咒诅。但是我还没有这样的力量；即使有这力量，我也不愿意她有这样的境遇，因为她们大概总不愿意有这样的境遇。我想，这最稳当。〔向女孩，〕姑娘，你这布片太好，可是太小一点了，还了你罢。<br/><br/>　　孩——〔惊惧，退后，〕我不要了！你带走！<br/><br/>　　客——〔似笑，〕哦哦，……因为我拿过了？<br/><br/>　　孩——〔点头，指口袋，〕你装在那里，去玩玩。<br/><br/>　　客——〔颓唐地退后，〕但这背在身上，怎么走呢？……<br/><br/>　　翁——你息不下，也就背不动。——休息一会，就没有什么了。<br/><br/>　　客——对咧，休息……。〔但忽然惊醒，倾听。〕不，我不能！我还是走好。<br/><br/>　　翁——你总不愿意休息么？<br/><br/>　　客——我愿意休息。<br/><br/>　　翁——那么，你就休息一会罢。<br/><br/>　　客——但是，我不能……。<br/><br/>　　翁——你总还是觉得走好么？<br/><br/>　　客——是的。还是走好。<br/><br/>　　翁——那么，你还是走好罢。<br/><br/>　　客——〔将腰一伸，〕好，我告别了。我很感激你们。〔向着女孩，〕姑娘，这还你，请你收回去。<br/><br/>　　〔女孩惊惧，敛手，要躲进土屋里去。〕<br/><br/>　　翁——你带去罢。要是太重了，可以随时抛在坟地里面的。<br/><br/>　　孩——〔走向前，〕阿阿，那不行！<br/><br/>　　客——阿阿，那不行的。<br/><br/>　　翁——那么，你挂在野百合野蔷薇上就是了。<br/><br/>　　孩——〔拍手，〕哈哈！好！<br/><br/>　　翁——哦哦……<br/><br/>　　〔极暂时中，沉默。〕<br/><br/>　　翁——那么，再见了。祝你平安。〔站起，向女孩，〕孩子，扶我进去罢。你看，太阳早已下去了。〔转身向门。〕<br/><br/>　　客——多谢你们。祝你们平安。〔徘徊，沉思，忽然吃惊，〕然而我不能！我只得走。我还是走好罢……。〔即刻昂了头，奋然向西走去。〕<br/><br/>　　〔女孩扶老人走进土屋，随即关了门。过客向野地里跄踉地闯进去，夜色跟在他后面。〕<br/><br/>　　一九二五年三月二日</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-531-6611.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-531-6613.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-531.html" action-type="chapterComment" class="comment"><i></i>野草章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

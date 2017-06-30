@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《墨子》正文_所染_墨子作品 - 维普阅读网</title>
+<meta name="keywords" content="墨子,墨子原文,墨子阅读,所染全文,墨子作品" />
+<meta name="description" content="墨子原文阅读,所染全文在线阅读,墨子作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-32-737.html";
+var nextpage="novel-read-32-739.html";
+var indexpage = "novel-chapter-32.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-32.html">墨子</a></strong>
+<strong><a href="novel-chapter-32.html">墨子目录</a></strong>
+<span>所染</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-32-737.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>所染</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=墨子&amp;searchsubmit=yes"  target="_blank">墨子</a><span class="divide">|</span>发布时间：2014-07-20 13:56:09<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/>　　子墨子言见染丝者而叹，曰：染于苍则苍，染于黄则黄，所入者变，其色亦变。五入必而已则为五色矣。故染不可不慎也！<br/><br/>　　非独染丝然也，国亦有染。舜染于许由、伯阳，禹染于皋陶、伯益，汤染于伊尹、仲虺，武王染于太公、周公。此四王者，所染当，故王天下，立为天子，功名蔽天地。举天下之仁义显人，必称此四王者。<br/><br/>　　夏桀染于干辛、推哆，殷纣染于崇侯、恶来，厉王染于厉公长父、荣夷终，幽王染于傅公夷、蔡公谷。此四王者，所染不当，故国残身死，为天下僇，举天下不义辱人，必称此四王者。<br/><br/>　　齐桓染于管仲、鲍叔，晋文染于舅犯、高偃，楚庄染于孙叔、沈尹，吴阖闾染于伍员、文义，越勾践染于范蠡、大夫种。此五君者，所染当，故霸诸侯，功名传于后世。<br/><br/>　　范吉射染于长柳朔、王胜，中行寅染于藉秦、高强，吴夫差染于王孙雒、太宰嚭，知伯摇染于智国、张武，中山尚染于魏义、偃长，宋康染于唐鞅、佃不礼。此六君者，所染不当，故国家残亡，身为刑戮，宗庙破灭，绝无后类，君臣离散，民人流亡。举天下之贪暴苛扰者，必称此六君也。<br/><br/>　　凡君之所以安者何也？以其行理也。行理性于染当。故善为君者，劳于论人而佚于治官。不能为君者，伤形费神，愁心劳意；然国逾危，身逾辱。此六君者，非不重其国、爱其身也，以不知要故也。不知要者，所染不当也。<br/><br/>　　非独国有染也，士亦有染。其友皆好仁义，淳谨畏令，则家日益，身日安，名日荣，处官得其理矣，则段干木、禽子、傅说之徒是也。其友皆好矜奋，创作比周，则家日损，身日危，名日辱，处官失其理矣，则子西、易牙、竖刀之徒是也。诗曰“比择所堪，必谨所堪”者，此之谓也。<br/><br/>译文：<br/>　　墨子说，他曾见人染丝而感叹说：“（丝）染了青颜料就变成青色，染了黄颜料就变成黄色。染料不同，丝的颜色也跟着变化。经过五次之后，就变为五种颜色了。所以染这件事是不可不谨慎的。”<br/><br/>　　不仅染丝如此，国家也有“染”。舜被许由、伯阳所染，禹被皋陶、伯益所染，汤被伊尹、仲虺所染，武王被太公、周公所染。这四位君王因为所染得当，所以能称王于天下，立为天子，功盖四方，名扬天下，凡是提起天下著名的仁义之人，必定要称这四王。<br/><br/>　　夏桀被干辛、推哆所染，殷纣被崇侯、恶来所染，周厉王被厉公长父、荣夷终所染，周幽王被傅公夷、蔡公穀所染。这四位君王因为所染不当，结果身死国亡，遗羞于天下。凡是提起天下不义可耻之人，必定要称这四王。<br/><br/>　　齐桓公被管仲、鲍叔牙所染，晋文公被舅犯、高偃所染，楚庄王被孙叔敖、沈尹茎所染，吴王阖闾被伍员、文义所染，越王句践被范蠡、文种所染。这五位君主因为所染得当，所以能称霸诸侯，功名传于后世。<br/><br/>　　范吉射被长柳朔、王胜所染，中行寅被籍秦、高强所染，吴王夫差被王<br/><br/>　　孙雒、太宰嚭所染，知伯摇被知国、张武所染，中山尚被魏义、偃长所染，宋康王被唐鞅、佃不礼所染。这六位君主因为所染不当，所以国破家亡，身受刑戮，宗庙毁灭，子孙灭绝，君臣离散，百姓逃亡。凡是提起天下贪暴苛刻的人，必定称这六君。<br/><br/>　　大凡人君之所以能够安定，是什么原因呢？是因为他们行事合理。而行事合理源于所染得当。所以善于做国君的，用心致力于选拔人才。不善于做国君的，劳神伤身，用尽心思，然而国家更危险，自己更受屈辱。上述这六位国君，并非不重视他们的国家、爱惜他们的身体，而是因为他们不知道治国要领的缘故。所谓不知道治国要领，即是所染不得当。<br/><br/>　　不仅国家有染，士也有“染”。一个人所交的朋友都爱好仁义，都淳朴谨慎，慑于法纪，那么他的家道就日益兴盛，身体日益平安，名声日益光耀，居官治政也合于正道了，如段干木、禽子、傅说等人即属此类（朋友）。一个人所交的朋友若都不安分守己，结党营私，那么他的家道就日益衰落，身体日益危险，名声日益降低，居官治政也不得其道，如子西、易牙、竖刀等人即属此类（朋友）。《诗》上说：“选好染料。”所谓选好染料，正是这个意思。<br/><br/>注释<br/>（1）本篇以染丝为喻，说明天子、诸侯、大夫、士必须正确选择自己的亲信和朋友，以取得良好的熏陶和积极的影响。影响的好坏不同关系着事业的成败、国家的兴亡，国君对此必须谨慎。<br/>（2）推哆（chǐ）：桀臣。<br/>（3）佚：同“逸”。<br/>（4）堪：当读为“湛”，浸染之意。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-32-737.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-32-739.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-32.html" action-type="chapterComment" class="comment"><i></i>墨子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

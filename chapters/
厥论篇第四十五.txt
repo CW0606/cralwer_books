@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《素问》正文_厥论篇第四十五_黄帝作品 - 维普阅读网</title>
+<meta name="keywords" content="素问,素问原文,素问阅读,厥论篇第四十五全文,黄帝作品" />
+<meta name="description" content="素问原文阅读,厥论篇第四十五全文在线阅读,黄帝作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-269-4626.html";
+var nextpage="novel-read-269-4628.html";
+var indexpage = "novel-chapter-269.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-269.html">素问</a></strong>
+<strong><a href="novel-chapter-269.html">素问目录</a></strong>
+<span>厥论篇第四十五</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-269-4626.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>厥论篇第四十五</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=黄帝&amp;searchsubmit=yes"  target="_blank">黄帝</a><span class="divide">|</span>发布时间：2014-08-30 14:37:14<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>黄帝问曰：厥之寒热者，何也？<br/>岐伯对曰：阳气衰于下，则为寒厥，阴气衰于下，则为热厥。<br/>帝曰：热厥之为热也，必起于足下者何也？<br/>岐伯曰：阳气起于足五指之表。阴脉者，集于足下而聚于足心，故阳气胜则足下热也。<br/>帝曰：寒厥之为寒也，必从五指而上于膝者，何也？<br/>岐伯曰：岐伯曰：阴气起于足五指之里，集于膝下而聚于膝上，故阴气胜，则从五趾至膝上寒。其寒也，不从外，皆从内。故阴气胜，则从五趾至膝上寒，其寒也不从外，皆从内。<br/>帝曰：寒厥何失而然也？<br/>岐伯曰：前阴者，宗筋之所聚，太阴阳明之所合也。春夏则阳气多而阴气少，秋冬则阴气盛而阳气衰；此人者质壮，以秋冬夺于所用，下气上争，不能复，精气溢下，邪气因从之而上也。气因于中，阳气衰，不能渗营其经络，阳气日损，阴气独在，故手足为之寒也。<br/>帝曰：热厥何如而然也？<br/>岐伯曰：酒入于胃，则络脉满而经脉虚，脾主为胃行其津液者也。阴气虚则阳气入，阳气入则胃不和，胃不和，则精气竭，精气竭，则不营其四肢也。此人必数醉若饱，以入房，气聚于脾中不得散，酒气与谷气相薄，热盛于中，故热遍于身，内热而溺赤也。夫酒气盛而慓悍，肾气有衰，阳气独胜，故手足为之热也。<br/>帝曰：厥或令人腹满，或令人暴不和人，或至半日远至一日，乃知人者何也？<br/>岐伯曰：阴气盛于上则下虚，下虚则腹胀满，阳气盛于上，则下气重上，而邪气逆，逆则阳气乱，阳气乱，则不知人也。<br/>帝曰：善。愿闻六经脉之厥状病能也。<br/>岐伯曰：巨阳之厥，则肿首头重，足不能行，发为眴仆。<br/>阳明之厥，则癫疾欲走呼，腹满不得卧，面赤而热，妄见而妄言。<br/>少阳之厥，则暴聋颊肿而热，胁痛，（骨行）不可以运。<br/>太阴之厥，则腹满（月真）胀，后不利，不欲食，食则呕，不得卧。<br/>少阴之厥，则口干溺赤，腹满心痛。<br/>厥阴之厥，则少腹肿痛，腹痛，泾溲不利，好卧，屈膝、阴缩肿，（骨行）内热。<br/>盛则泻之；虚则补之；不盛不虚，以经取之。<br/>太阴厥逆，（骨行）急挛，心痛引腹，治主病者。<br/>少阴厥逆，虚满呕变，下泄清，治主病者。<br/>厥阴厥逆，挛腰痛虚满，前闭谵言，治主病者。<br/>三阴俱逆，不得前后，使人手足寒，三日死。<br/>太阳厥逆，僵仆、呕血、善衄、治主病者。<br/>少阳厥逆，机关不利，机关不利者，腰不可以行，项不可以顾，发肠痈不可治，惊者死。<br/>阳明厥逆，喘咳身热，善惊、衄、呕血。<br/>手太阴厥逆，虚满而咳，善呕沫，治主病者。<br/>手心主少阴厥逆，心痛引喉，身热死，不可治。<br/>手太阳厥逆，耳聋泣出，项不可以顾，腰不可以俛仰。治主病者。<br/>手阳明少阳厥逆，发喉痹、噎肿、痉、治主病者。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-269-4626.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-269-4628.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-269.html" action-type="chapterComment" class="comment"><i></i>素问章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

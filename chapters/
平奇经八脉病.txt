@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《脉经》正文_平奇经八脉病_王叔和作品 - 维普阅读网</title>
+<meta name="keywords" content="脉经,脉经原文,脉经阅读,平奇经八脉病全文,王叔和作品" />
+<meta name="description" content="脉经原文阅读,平奇经八脉病全文在线阅读,王叔和作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-517-6172.html";
+var nextpage="novel-read-517-6174.html";
+var indexpage = "novel-chapter-517.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-517.html">脉经</a></strong>
+<strong><a href="novel-chapter-517.html">脉经目录</a></strong>
+<span>平奇经八脉病</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-517-6172.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>平奇经八脉病</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王叔和&amp;searchsubmit=yes"  target="_blank">王叔和</a><span class="divide">|</span>发布时间：2014-09-23 20:26:00<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>脉有奇经八脉者，何谓也？<br/><br/>　　然：有阳维、阴维，有阳跷、阴跷，有冲、有督、有任、有带之脉，凡此八脉者，皆不拘于经，故曰奇经八脉也。<br/><br/>　　经有十二，络有十五，凡二十七气，相随上下，何独不拘于经也？<br/><br/>　　然：圣人图设沟渠，通利水道，以备不虞。天雨降下，沟渠溢满，霈妄行，当此之时，圣人不能复图也。此络脉流溢，诸经不能复拘也。<br/><br/>　　奇经八脉者，既不拘于十二经，皆何起何系也？<br/><br/>　　然：阳维者，起于诸阳之会；阴维者，起于诸阴之交。阳维、阴维者，维络于身，溢畜不能环流溉灌诸经者也。阳跷者，起于跟中，循外踝而上行，入风池。阴跷者，亦起于跟中，循内踝而上行，至咽喉，交贯冲脉。冲脉者，起于关元，循腹里直上，至咽喉中（一云：冲脉者，起于气冲，并阳明之经，夹脐上行，至胸中而散也）。督脉者，起于下极之输，并于脊里，循背上，至风府。冲脉者，阴脉之海也；督脉者，阳脉之海也。任脉者，起于胞门、子户、夹脐上行，至胸中（一云：任脉者，起于中极之下，以上毛际，循腹里，上关元，至喉咽）。带脉者，起于季肋，（《难经》作季胁）回身一周。此八者，皆不系于十二经，故曰奇经八脉者也。<br/><br/>　　奇经之为病何如？<br/><br/>　　然：阳维维于阳，阴维维于阴。阴阳不能相维，怅然失志，容容（《难经》作溶溶）不能自收持（怅然者，其人惊，即维脉缓，缓即令身不能自收持，即失志善忘恍惚也）。阳维为病，苦寒热；阴维为病，苦心痛（阳维为卫，卫为寒热。阴维为荣，荣为血，血者主心，故心痛也）。阴跷为病，阳缓而阴急（阴跷在内踝，病即其脉急，当从内踝以上急，外踝以上缓）；阳跷为病，阴缓而阳急（阳跷在外踝，病即其脉急，其人当从外踝以上急，内踝以上缓）。冲之为病，逆气而里急（冲脉从关元至喉咽，故其为病逆气而里急）。督之为病，脊强而厥（督脉在背，病即其脉急，故令脊强也）。任之为病，其内苦结，男子为七疝，女子为瘕聚（任脉起于胞门、子户、故其病结为七疝、瘕聚）。带之为病，苦腹满，腰容容（《难经》作溶溶）若坐水中状（带脉者，回带人之身体，病即其脉缓，故令腰容容也）。此奇经八脉之为病也。<br/><br/>　　诊得阳维脉浮者，暂起目眩，阳盛实，苦肩息，洒洒如寒。<br/><br/>　　诊得阴维脉沉大而实者，苦胸中痛，胁下支满，心痛。<br/><br/>　　诊得阴维如贯珠者，男子两胁实，腰中痛；女子阴中痛，如有疮状。<br/><br/>　　诊得带脉，左右绕脐腹腰脊痛，冲阴股也。两手脉浮之俱有阳，沉之俱有阴，阴阳皆实盛者，此为冲、督之脉也。<br/><br/>　　冲、督之脉者，十二经之道路也。冲、督用事则十二经不复朝于寸口，其人皆苦恍惚狂痴，不者，必当犹豫，有两心也。<br/><br/>　　两手阳脉浮而细微，绵绵不可知，俱有阴脉，亦复细绵绵，此为阴跷，阳跷之脉也。此家曾有病鬼魅风死，苦恍惚，亡人为祸也。<br/><br/>　　诊得阳跷，病拘急；阴跷病缓。<br/><br/>　　尺寸俱浮，直上直下，此为督脉。腰背强痛，不得俯仰，大人癫病，小人风痫疾。<br/><br/>　　脉来中央浮，直上下痛者，督脉也。动苦腰背膝寒，大人癫，小儿痫也，灸顶上三丸。正当顶上。<br/><br/>　　尺寸脉俱牢（一作芤），直上直下，此为冲脉。胸中有寒疝也。<br/><br/>　　脉来中央坚实，径至关者，冲脉也。动苦少腹痛，上抢心，有瘕疝，绝孕，遗矢、溺，胁支满烦也。<br/><br/>　　横寸口边丸丸，此为任脉。苦腹中有气如指，上抢心，不得俯仰，拘急。<br/><br/>　　脉来紧细实长至关者，任脉也。动苦少腹绕脐，下引横骨、阴中切痛。取脐下三寸。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-517-6172.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-517-6174.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-517.html" action-type="chapterComment" class="comment"><i></i>脉经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

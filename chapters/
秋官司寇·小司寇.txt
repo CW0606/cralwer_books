@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《周礼》正文_秋官司寇·小司寇_周公旦作品 - 维普阅读网</title>
+<meta name="keywords" content="周礼,周礼原文,周礼阅读,秋官司寇·小司寇全文,周公旦作品" />
+<meta name="description" content="周礼原文阅读,秋官司寇·小司寇全文在线阅读,周公旦作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-34-848.html";
+var nextpage="novel-read-34-850.html";
+var indexpage = "novel-chapter-34.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-34.html">周礼</a></strong>
+<strong><a href="novel-chapter-34.html">周礼目录</a></strong>
+<span>秋官司寇·小司寇</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-34-848.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>秋官司寇·小司寇</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=周公旦&amp;searchsubmit=yes"  target="_blank">周公旦</a><span class="divide">|</span>发布时间：2014-07-20 17:06:15<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>原文：<br/>　　小司寇之职，掌外朝之政，以致万民而询焉。一曰询国危，二曰询国迁，三曰询立君。其位，王南乡，三公及州长、百姓北面，群臣西面，群吏东面，小司寇摈以叙进而问焉，以众辅声明而弊谋。以五刑听万民之狱讼，附于刑，用情讯之。至于旬，乃弊之，读书，则用法。凡命夫命妇不躬坐狱讼，凡王之同族有罪不即市。以五声听狱讼，求民情：一曰辞听，二曰色听，三曰气听，四曰耳听，五曰目听。以八辟丽邦法，附刑罚：一曰议亲之辟，二曰议故之辟，三曰议贤之辟，四曰议能之辟，五曰议功之辟，六曰议贵之辟，七曰议勤之辟，八曰议宾之辟。以三刺断庶民狱讼之中：一曰讯群臣，二曰讯群吏，三曰讯万民，听民之所刺宥，以施上服下服之刑。及大比，登民数，自生齿以上，登于天府，内史、司会、冢宰贰之，以制国用。小祭祀，奉犬牲。凡禋祀五帝，实镬水，纳亨，亦如之。大宾客，前王而辟。后、世子之丧，亦如之。小师，莅戮。凡国之大事，使其属跸。孟冬，祀司民，献民数于王，戋拜受之，以图国用而进退之。岁终，则令群士计狱弊讼，登中于天府。正岁，帅其属而观刑象，令以木铎曰：「不用法者，国用常刑。」令群士，乃宣布于四方，宪刑禁，乃命其属入会，乃致事。<br/><br/>译文：<br/>　　小司寇的职责，掌管有关外朝的事务，召集民众而征询他们的意见：一是当国家有危难的时候征询他们的意见，二是当国家要迁都的时候征询他们的意见，三是当国家需选立嗣君的时候征询他们的意见。外朝的朝位：王面朝南而立，三公和州长、百姓面朝北而立，群臣面朝西而立，群吏面朝东而立。小司寇揖请他们依次进前而[接受王的]征询，用众人的智慧辅助王的思虑而进行谋断。 <br/><br/>　　用五刑审断民众的诉讼，对于那些触犯刑律的案件，又用情理加以审断，到十天后才判决，[行刑时]宣读罪状之后就施用刑罚。　　凡命夫、命妇，审判时不亲自到场对坐受审。凡是王的同族人有罪，不到市朝行刑。<br/><br/>　　依据五个方面来听断诉讼，求得诉讼人的实情：一是依据言辞听断，二是依据神色听断，三是依据气息听断，四是依据听觉听断，五是依据眼神听断。<br/><br/>　　用八种议罪法附以王国的八法[来议论减罪]，[而后再]附诸刑罚：一是对王的亲族的议罪法，二是对王的故旧的议罪法，三是对廉吏的议罪法，四是对有道艺者的议罪法，五是对有大功勋者的议罪法，六是对地位尊贵者的议罪法，七是对勤劳国事者的议罪法，八是对宾客的议罪法。<br/><br/>　　通过三次讯问来使对平民诉讼的审断正确无误：一是讯问群臣，二是讯问群吏，三是讯问民众。听从他们的意见来决定诛杀或从宽，决定施用重刑或轻刑。到进行大校比的时候，登记人民[及财产]数，自生齿的婴儿以上[都登记]，上报给天府。内史、司会、冢宰收取副本，据以制定国家的财政计划。<br/><br/>　　举行小祭祀，负责奉进犬牲。凡用裎祀祭祀五帝，负责给镬中添水。到[祭祀那天黎明王牵牲]行纳亨礼的时候，也负责给镬中添水。接待来朝的诸侯，为王做前导并清除行人。为王后或太子举办丧事时也这样做。举行小规模军事行动，就亲临监视[在军社前对犯令的将士]行刑。凡王国有大事，就派属吏禁止闲人通行。冬十月祭祀司民的时候，把人民数呈献给王，王行拜礼而后接受，据以计划国家开支的增减。[夏历]年终，就命令司法官们统计已审结的案件数，把统计的簿书报送天府。<br/><br/>　　[夏历]正月初一，率领下属观看刑法，摇响木铎命令说：“不遵守刑法的，国家有常设的刑罚在!”[又把这话来]命令遂士、县士、方士、讶士等。接着又向四方宣布刑法，并将五禁的条文悬挂公布。命令下属呈报[记录所审理案件的]簿书，上报给王。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-34-848.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-34-850.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-34.html" action-type="chapterComment" class="comment"><i></i>周礼章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

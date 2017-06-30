@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《抱朴子外篇》正文_擢才卷第十八_葛洪作品 - 维普阅读网</title>
+<meta name="keywords" content="抱朴子外篇,抱朴子外篇原文,抱朴子外篇阅读,擢才卷第十八全文,葛洪作品" />
+<meta name="description" content="抱朴子外篇原文阅读,擢才卷第十八全文在线阅读,葛洪作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-510-6015.html";
+var nextpage="novel-read-510-6017.html";
+var indexpage = "novel-chapter-510.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-510.html">抱朴子外篇</a></strong>
+<strong><a href="novel-chapter-510.html">抱朴子外篇目录</a></strong>
+<span>擢才卷第十八</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-510-6015.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>擢才卷第十八</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=葛洪&amp;searchsubmit=yes"  target="_blank">葛洪</a><span class="divide">|</span>发布时间：2014-09-21 20:57:24<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>18.1 抱朴子曰:华章藻蔚, 非矇瞍所玩;英逸之才, 非浅短所识. 夫瞻视不能接物, 则兖龙与素褐同价矣;聪鉴不足相涉, 则俊民与庸夫一概矣. 眼不见, 则美不入神焉;莫之与, 则伤之者至焉. 且夫爱憎好恶, 古今不均, 时移俗易, 物同价异. 譬之夏後之璜, 曩直连城, 鬻之於今, 贱於铜铁. 故昔以隐居求志为高士, 今以山林之儒为不肖. 故圣世之良榦, 乃暗俗之罪人也;往者之介洁, 乃末叶之羸劣也.<br/>　　18.2 弘伟之士, 履道之生, 其崇信匪徒重仞之墙, 其渊泽不唯吕梁之深也, 故短近不能赏, 而浅促不能测焉. 因以异乎己而薄之矣, 以不求我而疾之矣, 不贵不用, 何足言乎? 乃有播埃尘於白珪, 生疮疒有於玉肌, 讪疵雷同, 攻伐独立, 曾叁蒙劫剽之垢, 巢许获穿窬之谤. 自匪明并悬象, 玄鉴表微者, 焉能披泥抽沦玉, 澄川掇沈珠哉! 夫珪璋居肆而不售, 矧乃翳於槃璞乎? 奇士扣角而见遏, 况乃潜於四羊薮乎?<br/>　　18.3 孙膑思骋其秘略, 而司马刖之;韩非愿建治绩, 而李斯杀之;贾谊慷慨, 怀经国之术, 而武夫排之;子政忠良, 有匡危之具, 而恭显陷之. 和氏所以抱璞而泣血, 禽息所以发愤而碎首也. 夫玉石易别於贤愚, 爱宝情笃於好士, 以易别之宝, 合笃好之物, 犹获罪截趾, 历世受诬. 况乎难知之贤, 非意所急, 谗人画蛇足於无形, 奸臣畏忠贞之害己, 体曲者忌绳墨之容, 夜裸者憎明烛之来. 是以高誉美行, 抑而不扬, 虚构之谤, 先形生影. 又无楚人号哭之荐, 万无一遇, 固其宜矣.<br/>　　18.4 夫以玉为石者, 亦将以石为玉矣;以贤为愚者, 亦将以愚为贤者矣. 以石为玉, 未有伤也;以愚为贤者, 亡之诊也. 盖诊亡者虽存而必亡, 犹脉死者虽生而必死也. 可勿慎乎! 於戏, 悲夫! 莫之思者也. 昔仲尼上圣也, 东受累於齐人, 南见塞於子西. 文种大贤也, 初不齿於荆俗, 末雍游於钧如. 竞年立功, 不亦难乎? 夫结绿玄黎, 非陶猗不能市也;千钧之重, 非贲获不能抱也. 《白雪》之弦, 非灵素不能徽也;迈伦之才, 非明主不能用也.<br/>　　18.5 然耀灵光夜之珍, 不为莫求而亏其质, 以苟且於贱贾;洪锺周鼎(或有脱文), 不为委沦而轻其体, 取见举於侏儒;峄阳云和, 不为不御而息唱, 以竞显於淫哇;冠群之德, 不以沈抑而履径, 而剸节於流俗. 是以和璧变为滞货, 柔木废於勿用, 赤刀之矿, 不得经欧冶之炉;元凯之畴, 终不值四门之辟也.</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-510-6015.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-510-6017.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-510.html" action-type="chapterComment" class="comment"><i></i>抱朴子外篇章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

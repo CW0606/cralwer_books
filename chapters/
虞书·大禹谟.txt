@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《尚书》正文_虞书·大禹谟_佚名作品 - 维普阅读网</title>
+<meta name="keywords" content="尚书,尚书原文,尚书阅读,虞书·大禹谟全文,佚名作品" />
+<meta name="description" content="尚书原文阅读,虞书·大禹谟全文在线阅读,佚名作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-28-415.html";
+var nextpage="novel-read-28-417.html";
+var indexpage = "novel-chapter-28.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-28.html">尚书</a></strong>
+<strong><a href="novel-chapter-28.html">尚书目录</a></strong>
+<span>虞书·大禹谟</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-28-415.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>虞书·大禹谟</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=佚名&amp;searchsubmit=yes"  target="_blank">佚名</a><span class="divide">|</span>发布时间：2014-07-19 12:16:40<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　皋陶矢厥谟，禹成厥功，帝舜申之。作《大禹》、《皋陶谟》、《益稷》。<br/>　　曰若稽古大禹，曰文命敷于四海，祗承于帝。曰：“后克艰厥后，臣克艰厥臣，政乃乂，黎民敏德。”<br/>　　帝曰：“俞！允若兹，嘉言罔攸伏，野无遗贤，万邦咸宁。稽于众，舍己从人，不虐无告，不废困穷，惟帝时克。”<br/>　　益曰：“都，帝德广运，乃圣乃神，乃武乃文。皇天眷命，奄有四海为天下君。”<br/>　　禹曰：“惠迪吉，从逆凶，惟影响。”<br/>　　益曰：“吁！戒哉！儆戒无虞，罔失法度。罔游于逸，罔淫于乐。任贤勿贰，去邪勿疑。疑谋勿成，百志惟熙。罔违道以干百姓之誉，罔咈百姓以从己之欲。<br/>　　无怠无荒，四夷来王。”<br/>　　禹曰：“於！帝念哉！德惟善政，政在养民。水、火、金、木、土、谷，惟修；正德、利用、厚生、惟和。九功惟叙，九叙惟歌。戒之用休，董之用威，劝之以九歌俾勿坏。”<br/>　　帝曰：“俞！地平天成，六府三事允治，万世永赖，时乃功。”<br/>　　帝曰：“格，汝禹！朕宅帝位三十有三载，耄期倦于勤。汝惟不怠，总朕师。”<br/>　　禹曰：“朕德罔克，民不依。皋陶迈种德，德乃降，黎民怀之。帝念哉！念兹在兹，释兹在兹，名言兹在兹，允出兹在兹，惟帝念功。”<br/>　　帝曰：“皋陶，惟兹臣庶，罔或干予正。汝作士，明于五刑，以弼五教。期于予治，刑期于无刑，民协于中，时乃功，懋哉。”<br/>　　皋陶曰：“帝德罔愆，临下以简，御众以宽；罚弗及嗣，赏延于世。宥过无大，刑故无小；罪疑惟轻，功疑惟重；与其杀不辜，宁失不经；好生之德，洽于民心，兹用不犯于有司。”<br/>　　帝曰：“俾予从欲以治，四方风动，惟乃之休。”<br/>　　帝曰：“来，禹！降水儆予，成允成功，惟汝贤。克勤于邦，克俭于家，不自满假，惟汝贤。汝惟不矜，天下莫与汝争能。汝惟不伐，天下莫与汝争功。予懋乃德，嘉乃丕绩，天之历数在汝躬，汝终陟元后。人心惟危，道心惟微，惟精惟一，允执厥中。无稽之言勿听，弗询之谋勿庸。可爱非君？可畏非民？众非元后，何戴？后非众，罔与守邦？钦哉！慎乃有位，敬修其可愿，四海困穷，天禄永终。惟口出好兴戎，朕言不再。”<br/>　　禹曰：“枚卜功臣，惟吉之从。”<br/>　　帝曰：“禹！官占惟先蔽志，昆命于元龟。朕志先定，询谋佥同，鬼神其依，龟筮协从，卜不习吉。”禹拜稽首，固辞。<br/>　　帝曰：“毋！惟汝谐。”<br/>　　正月朔旦，受命于神宗，率百官若帝之初。<br/>　　帝曰：“咨，禹！惟时有苗弗率，汝徂征。”<br/>　　禹乃会群后，誓于师曰；“济济有众，咸听朕命。蠢兹有苗，昏迷不恭，侮慢自贤，反道败德，君子在野，小人在位，民弃不保，天降之咎，肆予以尔众士，奉辞伐罪。尔尚一乃心力，其克有勋。”<br/>　　三旬，苗民逆命。益赞于禹曰：“惟德动天，无远弗届。满招损，谦受益，时乃天道。帝初于历山，往于田，日号泣于旻天，于父母，负罪引慝。祗载见瞽叟，夔夔斋栗，瞽亦允若。至諴感神，矧兹有苗。”<br/>　　禹拜昌言曰：“俞！”班师振旅。帝乃诞敷文德，舞干羽于两阶，七旬有苗格。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-28-415.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-28-417.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-28.html" action-type="chapterComment" class="comment"><i></i>尚书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《北堂书钞》正文_●北堂书钞卷第一百一十六　　武功部四_虞世南作品 - 维普阅读网</title>
+<meta name="keywords" content="北堂书钞,北堂书钞原文,北堂书钞阅读,●北堂书钞卷第一百一十六　　武功部四全文,虞世南作品" />
+<meta name="description" content="北堂书钞原文阅读,●北堂书钞卷第一百一十六　　武功部四全文在线阅读,虞世南作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-999-9722.html";
+var nextpage="novel-read-999-9724.html";
+var indexpage = "novel-chapter-999.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-999.html">北堂书钞</a></strong>
+<strong><a href="novel-chapter-999.html">北堂书钞目录</a></strong>
+<span>●北堂书钞卷第一百一十六　　武功部四</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-999-9722.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>●北堂书钞卷第一百一十六　　武功部四</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=虞世南&amp;searchsubmit=yes"  target="_blank">虞世南</a><span class="divide">|</span>发布时间：2014-11-20 21:09:04<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　隋祕书郎虞世南撰南海孔广陶校註谋策五　　　　　　　　号令六<br/><br/>　　○谋策五<br/><br/>　　谋謨為剑戟策略為旌旗「陈思王征蜀论云今将以谋謨為剑戟策略為旌旗师徒不援藉力天师○今案陈本俞本同百三家征蜀论策上有以字师徒二句未收本钞剑篇亦引上二句谋謨作謨谋策略作仁义」<br/><br/>　　上略伐智下略伐势「孙子兵法云非文无以平治非武无以治乱善用兵者有三略焉上略伐智中略伐义下略伐势○今案陈本俞本同」武之善经「左传云见可而进知难而退武之善经也○今案左传宣十二年退字下有军之善政也兼弱攻昧二句陈俞本已照增入独军字作武」军之善谋「左传云秦公送公子雍赵盾曰我若受秦秦则宾也不受寇也既不受而又缓师秦将生心先人有夺人之心军之善谋也逐寇如追逃军之善政也○王石华校遁改盾今案左传文七年受下有矣字又作复陈俞本并同」<br/><br/>　　始如处女后如脱兔「孙子兵法云始如处女敌人开户后如脱兔敌不及拒注曰处女示弱脱兔疾也○王石华校柱改敌桓改拒今案平津馆本孙子九地第一疾上有往字陈俞本亦然」不动犹山难知如阴「孙子兵法云夫变者其疾如风其徐如林侵掠如火不动如山难知如阴也○今案平津馆本孙子军争篇及陈俞本并同本钞侵下脱掠字今并据本钞论兵篇引补」<br/><br/>　　动如雷雩住如岳立「桓谭新论云动如雷震住如岳立攻如奔电取如疾风前轻后重内实外虚也○王石华校政改攻今案问经堂本新论及严辑全后汉文十三据书钞引同」<br/><br/>　　徒之如振鞭去之如绝絃「兵法云见利徒之如振鞭见不利去之如绝絃○今案陈俞本并同」猛兽之攫匿其爪「淮南子曰猛兽之攫匿其爪虎豹不外其牙而噬犬不见其齿故用兵前冥而后明○今案淮南子兵略训及陈本俞本牙作爪而噬句脱犬字其字王氏读书杂志曾引此旧钞以正近本淮南之失」<br/><br/>　　飞鸟之鷙俛其首「淮南子云飞鸟之鷙也俛其首故用兵之道示之以弱而乘之以强木○洪氏校补示之以三字今案陈俞本并同而明刻淮南子兵略训驁误击」剋敌出奇「周礼司勋云战功曰多郑玄云剋敌出奇若韩信陈平是也○今案周礼疏卷三十同陈俞本勋下有职字玄下有注字功误攻」善出奇者无穷如天地「孙子兵法云具如上说也○今案平津馆本孙小兵势篇及陈本同俞本标目及注均有窜改且不及陈本矣」潜设神策若响之应声「桓彦范集云善行兵者因敌為资故兵法从敌之意如示其形其利路潜设神策使若响之应声○今案陈本同本钞论兵篇引亦同」近而示之远远而示之近「孙子兵法云兵者诡道也故能而示之不能用而示之不用近而示之远远而示之近攻其无备出其不意此势不得传也○今案本钞论兵篇引及平津本孙子始计篇此势句作此兵家之胜不可先传也餘同」<br/><br/>　　出奇无穷「孙子兵法云善出奇者无穷如天地不竭如江海奇正相生循环无端○今案平津馆本孙子兵势篇同陈俞本均脱此条」守其所不攻「孙子兵法云守而必固者守其所不攻也故善守者敌不知其所攻○王石华校删善守句增入善攻一层非是今案此见平津馆本孙子虚实篇」潜谋龙变应机虎发「傅玄述画讚云杨阜云君搆潜以龙变应事机而虎发山西二郡获安者君之动也○今案已详本钞将帅篇」秦穆以女乐开地「韩子云秦穆公以女乐二人遗戎王戎王大悦日以听乐终岁不迁穆公举兵伐之开地千里○今案韩子十过篇二人作二八是也陈俞本仍作二人」智伯以大钟取国「吕氏春秋云智伯将伐厹繇之国山嶮无道乃遗以大鐘方车二轨厹繇开道而迎之因其道取其国也○王石华校以本钞繇误丝因改作由今案吕氏春秋慎大览篇厹误夙同韩非子说林下篇载此事厹繇作仇由」<br/><br/>　　越王避怒蛙「尹文子越王将报吴王欲人之勇路逢怒蛙迴车避之后战民皆不避汤火遂灭吴○今案棠荫馆本尹文子大道上篇迴车四字作而軾之后战作比及数年民下有临敌二字古吴陈仁锡本同又陈本俞本作民无长幼临敌餘同棠荫馆本」<br/><br/>　　秦王刻石牛「扬雄蜀王本纪云秦刻五石牛置金其后蜀人见以為牛便金蜀人即发卒于人令五丁拖牛成道致三牛于成都道乃通也○今案类聚九十四引扬雄蜀王本纪三牛作三枚严辑蜀惠王本纪亦作三枚」<br/><br/>　　范蠡蒸粟得地「史记云越与吴战於会稽不胜范蠡為吴所虏后吴放归越献粟十万斛范蠡尽蒸之以与吴言粟好具付民种种不生吴五年困饥越乃伐吴得其地也○洪氏校补献字道改地今案蒸粟得地事亦见王謨辑本吴越春秋卷五」<br/><br/>　　陈平画女开围「汉书云高祖北征至平城為单于所围七日士卒飢困陈平阴画好女以遗閼氏閼氏见女像妬之夜开西北角高祖散走得免○今案陈俞本见女五字作见而妬之餘同考汉书高帝纪则画女以下系见应劭注亦有异文」<br/><br/>　　书木以剋庞捐「史记云庞捐追孙臏量至暮当至马陵道狭而旁多险阻可伏兵乃斫大树而白书之曰庞捐死此树下於是令齐军善射者万弩夹道而伏期日暮见火举而俱发庞捐夜至树下见白书乃钻火烛之读书未毕齐军万弩俱发魏军大乱相失庞捐自知智穷兵败遂自刎曰遂成竖子之名齐因乘胜破其军虏魏公子申以归○王石华校烧改烛坚改竖今案近本史记孙吴列传量作度公子作太子嶮阻作阻隘本钞一百二十五弩篇引亦作量」<br/><br/>　　题树以禽张郃「汉末传云蜀丞相亮出军围祁山始以木牛运粮魏将司马宣王命张郃救祁山夏六月亮粮尽军还至干青封木门郃追之亮驻军削大树皮题曰张郃死此树下郃军士到毫预令伏兵夹道以数千弩司郃果见则弓弩俱发射郃而死○今案御二百九十一引汉表传祁山作祁连山餘同章逢之隋志考证谓汉表传即汉末传也又陈俞本军还作引去到上无士字俱作乱又脱以数千弩九字青封句俞作至木门道陈本脱」<br/><br/>　　范亡塞井「左传云晋楚将战楚晨压晋军而阵军吏患之范亡趋进曰塞井夷灶阵於军中而疏行首晋楚唯天所授何患焉○今案见左氏成十六传同陈俞本晋楚将战句均作晋楚遇於鄢陵」<br/><br/>　　孙臏减灶「史记云孙臏為齐将兵入魏退焉為十万灶明日為五万灶后為三庞捐曰吾故知齐卒怯也入吾境三日土卒亡者大半乃倍道追之败兵於马陵○今案陈俞本及史记孙吴列传无退焉二字境作地大半作过半」<br/><br/>　　廉范缚炬「续汉书范為云中太守匈奴大入塞范自率士卒拒之虏眾盛不敌乃令军士卒各交缚两炬三头爇火虏遥见火多谓汉兵救至待旦将退范令军中蒋会晨往赴之斩首数百级虏自此不敢复入云中○王石华校军改炬补爇字救字赴字今案御览四百四十九引范作范士下无卒字蓻作燃救作大百作于入作向无虏遥句餘同陈俞本不敌上有而范兵三字爇火下有营中星列四字范亦作范餘同本钞姚辑汪辑本续汉皆同不过节录有详略耳」<br/><br/>　　杨旋鼓灰「续汉书云灵帝时本杨旋為零陵太守猾贼相聚乃制马车数十乘以囊盛石灰於车中繫布索於马尾又為兵车专壳弓弩克日会战乃令马车居前顺风鼓灰不得视因以火烧布布然马惊奔突贼阵因使后军弓弩乱发作鼓鸣震群寇破散郡境以清○王石华校事举改车专拏尧改弩克今案姚辑续汉书旋作璇制作製壳弓作壳良克日作剋期作字作鉦无郡境句陈本猾贼上有是时苍梧桂阳六字囊上有排字郡境句上增注三句俞本无梟其二句餘同陈本汪辑本与诸本皆同亦节录各有详略耳」<br/><br/>　　火燧击象「左传云吴伐楚昭王使鍼尹固执燧象奔吴师杜预注曰火燧击象尾使赴吴师為之却也○今案见左传定四年為之却句今杜注作惊却之陈俞本亦然」繫火「晋中兴书云殷浩北伐江逌曰兵非不精而眾少於羌且壍栅甚固难与较力乃取数百鸡以长绳连之脚皆繫火一时駈放飞过壍并集羌营羌营皆燃因惊乱也○王石校补眾字连字严氏校惊因改因惊今案御览三百二十一引晋中兴书同陈俞本改注今晋书非也」<br/><br/>　　束刃牛角「史记云田单画牛為龙文东兵刃於其角夜衝败燕军也○今案见史记田单列传陈俞本增注太多」缚戟马头「王隐晋书云马隆子咸為成都王前锋王萌率□讨咸於市马咸运牢不可动胡乃使十骑与战□戟马头放令向咸又使数十骑各郟於放马马惊奔咸咸军即坏○今案陈本俞本各郟五字作各持兵随於后即坏句作咸遂败餘同」<br/><br/>　　起沙為城「曹瞒传云曹操与马超隔渭水為超骑衝突娄子伯说曰可起沙為城以水濯之○今案魏志武帝纪注引曹瞒傅同又范书献帝纪注引无隔渭二句陈俞本多增改」<br/><br/>　　缝革為舩「东观汉记云邓训為汉护羌校尉发六千人令长史任尚缝革為舡置之箄上以渡河掩击诸羌○今案聚珍本姚辑本东观记掩击下作多所斩获餘与原钞悉同又御览七百六十九引护上脱字尉下脱发六千九字餘同俞本发下有湟中二字收句脱掩诸二字陈本改注范书非是」<br/><br/>　　蒙马虎皮「左传云晋师陈於莘北婿臣蒙马以虎皮先犯陈蔡陈蔡奔楚右师溃○王石华校婿改婿今案近本左传僖二十八年及陈俞本亦作婿婿婿古今字」画牛龙文「史记云田单画牛為龙文束兵刃於其角夜衝败燕军也○今案见史记田单列传陈俞注见上」下马解鞌「汉书云李广尝从百餘骑出猎匈奴忽至甚恐广乃合士卒下马解鞌疑有伏兵乃散去○今案汉书五十四李广传无甚恐二字散作引陈本有增注」偃旗「赵云别传云云将数十人轻行出值曹公扬兵大出云為前锋所击方战其大眾至遂前突其阵且鬬且却曹公军散已复合云陷敌还趣围将张翼被疮云复驰还曹公追围之张翼欲閇门距守云入营更大开门偃旗息鼓公疑云有伏兵引去○今案蜀志六赵云传注引别传十人作十骑翼被疮作著被创閇距作闭拒餘同陈本妄增一段俞本脱曹公军败至云入营数句餘同」<br/><br/>　　案同寝兵「九州春秋云曹公征吴孙权参军傅干諫曰且案甲寝兵则无思不服○今案魏志一武纪注引九州春秋秋下无传字据删餘同陈俞本均有增注」卧旗息鼓「蜀志诸葛亮屯阳平兵少力弱将士失色亮意气自若敕色中皆卧旗息鼓不得妄出晋帝疑有伏兵於是引军北趋○王石华校强改弱补意字补伏兵字今案此见蜀志诸葛亮传注引郭冲三事趋作趣餘同」<br/><br/>　　孙权迴舩受箭「魏略云孙权乘大舡来观军曹公使弓弩乱发箭著其舡舡偏重将覆权命迴舡复以一面受箭箭均舡平乃还○今案初学记引魏略命作因一作轻乃还作而去本钞一百三十七舟篇引脱命字陈俞本同本钞」<br/><br/>　　道济白服乘舆「宋拾遗云初檀道济伐匈奴大眾未集而為虏所围数重是时道济兵力甚寡军中大惧道济令士卒悉解甲勿动既而道济白服乘舆徐出向围以长策為所掸虏相与谋曰檀公令死居地即白服在军犹不惧此伏兵诱我遂不敢战○王石华校将改时尤改犹今案陈俞本掸作惮令死居地作今居死地餘同」<br/><br/>　　峦书使舆曳柴「左传云晋与楚战晋峦书偽遁使与曳柴而从之○今案左传僖二十八年及陈本俞本皆作峦枝」赤眉重车载土「谢后书赤眉阳败弃輜重走车皆载土以豆覆其上○今案陈本俞本阳作佯范书冯异传作阳姚辑本脱汪辑谢书邓禹传亦作佯餘与原钞悉同」弦高以餼牛退敌墨翟以縈带全城「张衡应閒曰弦高以餼牛退敌墨翟以縈带全城○洪氏校标目餘改餼金改全今案百三家本张衡集作牛餼陈本增注左传史记俞本改标左传皆非」曹劌视其辙乱「左传云曹劌曰大国难测也惧有伏焉吾视其辙乱望其旗靡故逐之○洪氏校輒改辙今案见左传庄十年本钞劌误剧亦据一百十八攻战篇引订」邢伯告有马声「左传云齐师夜遁邢伯告中行伯曰有班马之声齐师其遁杜预注曰夜遁不相见故鸣班马别之也○今案左传襄十八年注无马之二字陈俞本作班列」南风不竞楚必无功「左传云楚师伐郑甚雨及之楚师多冻役徒几晋人闻有楚师师旷曰不害吾骤歌北风又歌南风南风不竞多死声楚必无功○王石校驪改骤竟改竞今案见左氏襄十八年传陈本多冻讹作之冻」<br/><br/>　　城上有乌齐师其道「左传云叔向告晋侯曰城上有乌齐师其遁○今案见左传襄十八年」<br/><br/>　　○号令六<br/><br/>　　倚辕而令「韩子云吴起為魏西河之守秦有小亭临境吴起欲攻之乃倚一车辕於北门之外而令曰有能徒之南门之外者赐之上田宅有徒者赐之如令明旦欲攻亭若有先登之仕之国大夫赐之上田宅民争上攻亭一朝而拔之○王石华校以本钞民争误民事因删之非也今案此见韩子内储说上篇本钞攻战篇引亦作民争可以互证」<br/><br/>　　挈壶以令「周礼挈壶氏职云挈壶以令军井郑眾注曰挈壶以令军井為军穿井井成挈壶悬其上令军中士眾皆望见知此下有井壶所以盛饮故以壶表井也○今案见周礼夏官陈俞本兼注下二条」<br/><br/>　　挈轡合舍「周礼挈壶氏职云挈轡以令舍注云挈轡以令舍亦悬轡於所当舍之处使军中望见知当舍止於此轡所以驾舍故以轡表舍也○王石华校补挈壶氏职四字今案陈俞本注见上」<br/><br/>　　挈畚合粮「周礼又云挈畚以令粮郑眾注云挈畚以令粮亦悬畚於所当稟假之处令军望见知当稟假於此下也畚所以盛粮之器故以畚表稟○今案见上陈本此条下妄增六事之人子誓告汝一条俞本同陈俞本亦注」<br/><br/>　　友邦冢君咸听誓言「尚书太誓嗟我友邦冢君咸听誓言孔氏传曰同志為友言志同灭紂○今案泰誓上篇咸听句无言字咸作明孔传以下见孔正义引牧誓传」<br/><br/>　　西土有眾咸听朕言「尚书泰誓曰惟戊午王次于河朔群后以师毕会王乃徇师而誓曰呜呼西土有眾咸听朕言○王石华校氏改次问改徇今案尚书泰誓及陈俞本同」<br/><br/>　　格尔眾庶悉听朕言「尚书汤誓云王曰格尔眾庶悉听朕言孔安国传曰契始封商汤遂以為天下号也汤称王则比桀於一夫也○今案尚书汤誓同陈俞本传误注」<br/><br/>　　济济有眾咸听朕命「尚书大禹謨禹乃会群后誓于师曰济济有眾咸听朕命孔安国传曰会诸侯共伐有苗也○洪氏校补謨禹二字今案尚书大禹謨同陈俞本有苗下增注二句」<br/><br/>　　奉将天罚「尚书胤征云今予以尔有眾奉将天罚孔安国传云将行也奉王命行王诛谓煞湎淫之身立其贤子弟○今案尚书允征及陈俞本煞皆作杀」恭行天罚「尚书甘誓云今予惟恭行天之罚孔安国曰恭奉也言欲奉行天罚○今案标目作龚尚书甘誓作恭本钞小注亦作恭据订言欲奉句今孔传作言欲截绝之陈俞本并同今孔传」<br/><br/>　　致天之罚「尚书汤誓云尔尚辅子一人致天之罚予其大賚汝孔安国传云賚与也汝庶几辅成我我大与汝爵赏○今案陈俞本及阮本尚书孔传同」底天之罚「尚书泰誓曰以尔有眾底天之罚孔传曰用汝眾致天罚于紂也○王石华校应改底今案陈俞本同」我正惟扬「书泰誓云○今案见泰誓中篇陈俞本脱此条」<br/><br/>　　北堂书钞卷第一百一十六 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-999-9722.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-999-9724.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-999.html" action-type="chapterComment" class="comment"><i></i>北堂书钞章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

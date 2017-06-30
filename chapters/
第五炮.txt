@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《四十一炮》正文_第五炮_莫言作品 - 维普阅读网</title>
+<meta name="keywords" content="四十一炮,四十一炮原文,四十一炮阅读,第五炮全文,莫言作品" />
+<meta name="description" content="四十一炮原文阅读,第五炮全文在线阅读,莫言作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1412-26031.html";
+var nextpage="novel-read-1412-26033.html";
+var indexpage = "novel-chapter-1412.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1412.html">四十一炮</a></strong>
+<strong><a href="novel-chapter-1412.html">四十一炮目录</a></strong>
+<span>第五炮</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1412-26031.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>第五炮</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-23.html" target="blank">文学小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=莫言&amp;searchsubmit=yes"  target="_blank">莫言</a><span class="divide">|</span>发布时间：2015-06-23 22:23:02<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>第二卷<br/><br/>　　导读:屠户们进场之后，交易就开始了。他们围着牛转来转去，一时好像拿不定主意该买哪头；但只要有一个伸手抓住了某头牛的缰绳，所有的屠户就会在三秒钟内抓住牛的缰绳。闪电般地，所有的牛就统统找到了买主。<br/><br/>　　我的父亲是个聪明的人，他的智商绝对在老兰之上，他没学过物理但他知道阴电阳电，他没学过生理但他知道精子卵子，他没学过化学但他知道福尔马林液能杀菌防腐固定蛋白质并由此猜想到老兰往肉里注了福尔马林液。他如果想发财肯定能成为村子里的首富，对此我深信不疑。他是人中之龙，而人中之龙是不屑积攒家产的。人们见过松鼠、耗子之类的小野兽挖地洞储存粮食，谁见过兽中之王老虎挖地洞储存食物？老虎平时躺在山洞里睡觉，只有饿了才出来猎食；我父亲平时吃喝玩乐，只有饿了才出来赚钱。父亲不会像老兰他们那样白刀子进去红刀子出来地去赚流血的钱，父亲也不会像村子里那些莽汉子到火车站上去当装卸工赚流汗的钱，父亲用他的智慧赚钱。古代有个善于解牛的庖丁，如今有个善于估牛的我父。牛在庖丁眼里只是骨头与肉之类的堆积，牛在我父眼里同样是骨头与肉之类的堆积。庖丁仅仅目光如刀，我父不但目光如刀而且还目光如秤。也就是说，把一头活牛牵到我父面前，我父围绕着那牛转两圈，顶多也不超过三圈，偶尔还象征性地将手伸到牛的腋下抓两把，然后就可以响亮地报出这头牛的毛重与出肉率，其准确程度几乎可以与当今英格兰最大的肉牛屠宰公司里的电子肉牛估评仪相媲美，误差不会超过一公斤。起初人们还以为我父亲是信口开河，但经过几次试验之后，便不得不服气。我父亲的存在，使牛贩子与屠宰户之间的交易消除了盲目和侥幸，实现了基本公平。父亲的权威地位确立之后，便有牛贩子与屠宰户讨好他，希望能在估牛时占点便宜。但父亲是有远大目光的人，他决不会为了眼前的蝇头小利败坏自己的声誉，因为败坏了自己的声誉就等于砸了自己的饭碗。牛贩子提着烟酒送到我家，我父亲把烟酒扔到街上，然后站在土墙上破口大骂。屠宰户提着一只猪头送到我家，我父亲将猪头扔到大街上，然后站在土墙上破口大骂。牛贩子和屠宰户都说：罗通那人，是个二杆子，但公正无比。父亲刚正不阿的二杆子形象确立之后，人们对他的信任到了无以复加的程度，买卖双方争执不下的时候，就把目光投到他的脸上，说：咱们别争了，听罗通的吧！——好吧，听罗通的。老罗，你说吧！——我父亲神气活现地绕牛两圈，不看卖方也不看买方，双眼望着青天，报出毛重与出肉率后，一口喊出一个价格，便躲到一边抽烟去了。买卖双方伸出手，拍了一个响，好！成交！等交割完毕后，买卖双方都会走到我父面前，各抽出一张十元的票子，答谢他的劳动。有必要说明的是，我父亲进入牛市之前，也存在着一种老式的经纪人，他们多数都是些黑瘦的糟老头子，有的脑后还翘着一条小辫子，他们发明了袖筒里摸价钱的方法，给这一行当蒙上了一层神秘色彩。我父亲的出现，消除了交易的模糊性，也消除了交易过程中的黑暗现象，那些贼眉鼠目的经纪人被我父亲赶下了历史舞台。这是牲畜交易史上的巨大进步，大一点也可以说成是一场革命。我父亲的眼力不仅仅表现在估牛上，估猪估羊也同样在行，这就像一个技艺高超的木匠，不但能做桌子，同样能做凳子，好木匠还能做棺材，我父亲估骆驼也不会有问题。<br/><br/>　　讲到此处，我似乎听到五通神塑像后面传来若有若无的抽噎之声，难道她真的是野骡子姑姑？如果她真的是野骡子姑姑，她的容貌十年来没有变化？这不太可能，因此她不会是野骡子姑姑。但如果她不是野骡子姑姑，为什么我会对她产生这样的依恋之情？也许，她是野骡子姑姑的幽灵？传说中的鬼魂是没有影子的，可惜我刚才忘记了看看她有没有影子。天在下雨，阴沉黑暗，没有阳光，什么人都不会有影子，所以即便我刚才想到了也是白搭。她此刻在塑像后边干什么呢？她是不是在摸那匹人头马的屁股？十年前我就听人说过，有些女人，为了使自己的丈夫获得性能力，在神像前烧香跪拜后，还要转到后边，拍拍这匹漂亮雄伟的小公马的浑圆的屁股。我知道，在塑像后边，有堵墙壁，墙壁上有一扇小门，推开门，是一个幽暗的小房间，房间里没有窗户，大白天也要点灯才能看清屋子里的物件。屋子里有一张摇摇晃晃的木床，床上有一条蓝花粗布被子，一个用麦秆草捆扎成的枕头，枕头和被子上满是油腻。小屋里跳蚤很多，如果你光着身体进去，会听到兴奋的跳蚤撞击你的皮肤啪啪作响。你还能听到墙壁上的臭虫发出兴奋的尖叫。它们在喊叫：肉来了啊，肉来了。人吃猪狗牛羊的肉，跳蚤臭虫就吃人的肉，这就叫一物降一物，或者叫做冤冤相报。这个女子，管你是不是野骡子姑姑，我都要说：你出来吧，不要让那些可怕的小东西，咬烂了你丰腴的皮肉。你更不要去拍马的屁股。我对你产生了感情，希望你能来拍我的屁股。尽管我知道，如果你就是野骡子姑姑，我这种念头就是罪恶。但我无法克制自己的欲念。如果这个女子能够带我走，我不出家也罢，大和尚，我就不讲了吧，我的心已经乱了。大和尚似乎有偷心之术，这些话我只是在心中想想，他就好像都知道了似的。他用一声冷笑，暂时截断了我心中的欲念之丝。好。我接着说。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1412-26031.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1412-26033.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1412.html" action-type="chapterComment" class="comment"><i></i>四十一炮章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

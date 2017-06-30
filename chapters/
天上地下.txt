@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《伪自由书》正文_天上地下_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="伪自由书,伪自由书原文,伪自由书阅读,天上地下全文,鲁迅作品" />
+<meta name="description" content="伪自由书原文阅读,天上地下全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-550-7487.html";
+var nextpage="novel-read-550-7489.html";
+var indexpage = "novel-chapter-550.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-550.html">伪自由书</a></strong>
+<strong><a href="novel-chapter-550.html">伪自由书目录</a></strong>
+<span>天上地下</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-550-7487.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>天上地下</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-04 21:13:01<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>中国现在有两种炸，一种是炸进去，一种是炸进来。 <br/><br/>　　炸进去之一例曰：“日内除飞机往匪区轰炸外，无战事，三四两队，七日晨迄申，更番成队飞宜黄以西崇仁以南（２）掷百二十磅弹两三百枚，凡匪足资屏蔽处炸毁几平，使匪无从休养。……”（五月十日《申报》南昌专电） <br/><br/>　　炸进来之一例曰：“今晨六时，敌机炸蓟县，死民十余，又密云今遭敌轰四次（３），每次二架，投弹盈百，损害正详查中。……”（同日《大晚报》北平电） <br/><br/>　　应了这运会而生的，是上海小学生的买飞机，和北平小学生的挖地洞。（４）这也是对于“非安内无以攘外”或“安内急于攘外”的题目，做出来的两股好文章。（５）住在租界里的人们是有福的。但试闭目一想，想得广大一些，就会觉得内是官兵在天上，“共匪”和“匪化”了的百姓在地下，外是敌军在天上，没有“匪化”了的百姓在地下。“损害正详查中”，而太平之区，却造起了宝塔（６）。释迦（７）出世，一手指天，一手指地曰：“天上地下，惟我独尊！”此之谓也。 <br/><br/>　　但又试闭目一想，想得久远一些，可就遇着难题目了。假如炸进去慢，炸进来快，两种飞机遇着了，又怎么办呢？停止了“安内”，回转头来“迎头痛击”呢，还是仍然只管自己炸进去，一任他跟着炸进来，一前一后，同炸“匪区”，待到炸清了，然后再“攘”他们出去呢？……不过这只是讲笑话，事实是决不会弄到这地步的。即使弄到这地步，也没有什么难解决：外洋养病，名山拜佛（８），这就完结了。 <br/><br/>　　五月十六日。 <br/><br/>　　记得末尾的三句，原稿是：“外洋养病，背脊生疮，名山上拜佛，小便里有糖，这就完结了。” <br/><br/>　　十九夜补记。 <br/>　<br/>===============================================================<br/><br/>　　（１）本篇最初发表于一九三三年五月十九日《申报·自由谈》，署名干。 <br/><br/>　　（２）宜黄、崇仁，江西省的县名。宜黄以西崇仁以南是当时中央苏区军民反“围剿”斗争的前沿地区。 <br/><br/>　　（３）蓟县、密云，河北省的县名。一九三三年四月，日军进袭冀东滦河一带时，曾派机轰炸这些地方。 <br/><br/>　　（４）上海小学生的买飞机一九三三年初，国民党政府举办航空救国飞机捐，上海市预定征募二百万元。至五月初仅得半数，乃发动全市童子军于十二日起，在各交通要道及娱乐场所劝募购买“童子军号飞机”捐款三天。北平小学生的挖地洞，指一九三三年五月，北平各小学校长因日机时临上空，曾派代表赴社会局要求各校每日上午停课，挖防空洞。 <br/><br/>　　（５）据手稿，这里还有下面一段：“买飞机，将以‘安内’也，挖地洞，‘无以攘外’也。因为‘安内急于攘外’，故还须买飞机，而‘非安内无以攘外’，故必得挖地洞。” <br/><br/>　　（６）造起了宝塔一九三三年，国民党政客戴季陶邀广东中山大学在南京的师生七十余人，合抄孙中山的著作，盛铜盒中，外镶石匣，在中山陵附近建筑宝塔收藏。<br/><br/>　　（７）释迦即释迦牟尼（约前５６５—前４８６），佛教创始人。《瑞应本起经》卷上有关于他出生的记载：“四月八日夜，明星出时，化从右胁生。堕地即行七步，举右手住而言曰：‘天上天下，唯我为尊。’”（据三国时吴国支谦汉文译本） <br/><br/>　　（８）外洋养病，名山拜佛这是国民党政客因内讧下野或处境困难时惯用的脱身借口，如汪精卫曾以生背痈、患糖尿病等为由，“卧床休息”或“出国养病”；黄郛退居莫干山“读书学佛”；戴季陶自称信奉佛教，报上屡载他去名山诵经拜佛的消息。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-550-7487.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-550-7489.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-550.html" action-type="chapterComment" class="comment"><i></i>伪自由书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

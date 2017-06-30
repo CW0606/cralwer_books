@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《管子》正文_重令_管仲作品 - 维普阅读网</title>
+<meta name="keywords" content="管子,管子原文,管子阅读,重令全文,管仲作品" />
+<meta name="description" content="管子原文阅读,重令全文在线阅读,管仲作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-43-1129.html";
+var nextpage="novel-read-43-1131.html";
+var indexpage = "novel-chapter-43.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-43.html">管子</a></strong>
+<strong><a href="novel-chapter-43.html">管子目录</a></strong>
+<span>重令</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-43-1129.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>重令</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=管仲&amp;searchsubmit=yes"  target="_blank">管仲</a><span class="divide">|</span>发布时间：2014-07-24 20:49:58<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　凡君国之重器，莫重于令。令重则君尊，君尊则国安；令轻则君卑，君卑则国危。故安国在乎尊君，尊君在乎行令，行令在乎严罚。罚严令行，则百吏皆恐；罚不严，令不行，则百吏皆喜。故明君察于治民之本，本莫要于令。故曰：亏令者死，益令者死，不行令者死，留令者死，不从令者死。五者死而无赦，唯令是视。故曰：令重而下恐。<br/><br/>　　为上者不明，令出虽自上，而论可与不可者在下。夫倍上令以为威，则行恣于己以为私，百吏奚不喜之有？且夫令出虽自上，而论可与不可者在下，是威下系于民也。威下系于民，而求上之毋危，不可得也。令出而留者无罪，则是教民不敬也。令出而不行者毋罪，行之者有罪，是皆教民不听也。令出而论可与不可者在官，是威下分也。益损者毋罪，则是教民邪途也。如此，则巧佞之人，将以此成私为交；比周之人，将以此阿党取与；贪利之人，将以此收货聚财；懦弱之人，将以此阿贵事富便辟；伐矜之人，将以此买誉成名。故令一出，示民邪途五衢，而求上之毋危，下之毋乱，不可得也。<br/><br/>　　菽粟不足，末生不禁，民必有饥饿之色，而工以雕文刻镂相稚也，谓之逆。布帛不足，衣服毋度，民必有冻寒之伤，而女以美衣锦绣綦组相稚也，谓之逆。万乘藏兵之国，卒不能野战应敌，社稷必有危亡之患，而士以毋分役相稚也，谓之逆。爵人不论能，禄人不论功，则士无为行制死节，而群臣必通外请谒，取权道，行事便辟，以贵富为荣华以相稚也，谓之逆。<br/><br/>　　朝有经臣，国有经俗，民有经产。何谓朝之经臣？察身能而受官，不诬于上；谨于法令以治，不阿党；竭能尽力而不尚得，犯难离患而不辞死；受禄不过其功，服位不侈其能，不以毋实虚受者，朝之经臣也。何谓国之经俗？所好恶不违于上，所贵贱不逆于令；毋上拂之事，毋下比之说，毋侈泰之养，毋逾等之服；谨于乡里之行，而不逆于本朝之事者，国之经俗也。何谓民之经产？畜长树艺，务时殖谷，力农垦草，禁止末事者，民之经产也。故曰：朝不贵经臣，则便辟得进，毋功虚取；奸邪得行，毋能上通。国不服经俗，则臣下不顺，而上令难行。民不务经产，则仓廪空虚，财用不足。便辟得进，毋功虚取，奸邪得行，毋能上通，则大臣不和。臣下不顺，上令难行，则应难不捷。仓廪空虚，财用不足，则国毋以固守。三者见一焉，则敌国制之矣。<br/><br/>　　故国不虚重，兵不虚胜，民不虚用，令不虚行。凡国之重也，必待兵之胜也，而国乃重。凡兵之胜也，必待民之用也，而兵乃胜；凡民之用也，必待令之行也，而民乃用。凡令之行也、必待近者之胜也，而令乃行。故禁不胜于亲贵，罚不行于便辟，法禁不诛于严重，而害于疏远，庆赏不施于卑贱，二三而求令之必行，不可得也。能不通于官受，禄赏不当于功，号令逆于民心，动静诡于时变，有功不必赏，有罪不必诛，令焉不必行，禁焉不必止，在上位无以使下，而求民之必用，不可得也。将帅不严威，民心不专一，阵士不死制，卒士不轻敌，而求兵之必胜，不可得也。内守不能完，外攻不能服，野战不能制敌，侵伐不能威四邻，而求国之重，不可得也。德不加于弱小，威不信于强大，征伐不能服天下，而求霸诸侯，不可得也。威有与两立，兵有与分争，德不能怀远国，令不能一诸侯，而求王天下，不可得也。<br/><br/>　　地大国富，人众兵强，此霸王之本也，然而与危亡为邻矣。天道之数，人心之变。天道之数，至则反，盛则衰。人心之变，有余则骄，骄则缓怠。夫骄者，骄诸侯，骄诸侯者，诸侯失于外；缓怠者，民乱于内。诸侯失于外，民乱于内，天道也。此危亡之时也。若夫地虽大，而不并兼，不攘夺；人虽众，不缓怠，不傲下；国虽富，不侈泰，不纵欲；兵虽强，不轻侮诸侯，动众用兵必为天下政理，此正天下之本而霸王之主也。<br/><br/>　　凡先王治国之器三，攻而毁之者六。明王能胜其攻，故不益于三者，而自有国、正天下。乱王不能胜其攻，故亦不损于三者，而自有天下而亡。三器者何也？曰：号令也，斧钺也，禄赏也。六攻者何也？曰：亲也，贵也，货也，色也，巧佞也，玩好也。三器之用何也？曰：非号令毋以使下，非斧钺毋以威众，非禄赏毋以劝民。六攻之败何也？曰：虽不听，而可以得存者；虽犯禁，而可以得免者；虽毋功，而可以得富者。凡国有不听而可以得存者，则号令不足以使下；有犯禁而可以得免者，则斧钺不足以威众；有毋功而可以得富者，则禄赏不足以劝民。号令不足以使下，斧钺不足以威众，禄赏不足以劝民，若此，则民毋为自用。民毋为自用，则战不胜；战不胜，而守不固；守不固，则敌国制之矣。然则先王将若之何？曰，不为六者变更于号令，不为六者疑错于斧钺，不为六者益损于禄赏。若此，则远近一心；远近一心，则众寡同力；众寡同力；则战可以必胜，而守可以必固。非以并兼攘夺也，以为天下政治也，此正天下之道也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-43-1129.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-43-1131.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-43.html" action-type="chapterComment" class="comment"><i></i>管子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

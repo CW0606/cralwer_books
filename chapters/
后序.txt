@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《褚氏遗书》正文_后序_褚澄作品 - 维普阅读网</title>
+<meta name="keywords" content="褚氏遗书,褚氏遗书原文,褚氏遗书阅读,后序全文,褚澄作品" />
+<meta name="description" content="褚氏遗书原文阅读,后序全文在线阅读,褚澄作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-663-8466.html";
+var nextpage="novel-read-663-8468.html";
+var indexpage = "novel-chapter-663.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-663.html">褚氏遗书</a></strong>
+<strong><a href="novel-chapter-663.html">褚氏遗书目录</a></strong>
+<span>后序</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-663-8466.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>后序</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=褚澄&amp;searchsubmit=yes"  target="_blank">褚澄</a><span class="divide">|</span>发布时间：2014-10-20 20:28:47<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　庐州卫武生郑道出示南齐褚澄遗书几十篇。云：得之先世。故书中考之丁介跋尾，当是宋嘉泰初刘继先印本，字画完好如新，金读之既作而叹曰：“予少时曾于《宋史·艺文志》见有是书目，又见《三元延寿》、《居家必用》、《养生纂要》诸书引用其说，往来京师，尝偏阅书肆博坊蓄书之家，求其全本无所得，迄今三十余年，始获经目。噫！古书之罕见于世，奚独此哉。”<br/><br/>　　史称澄善医术以勤谨见知，没于永明元年。观是书立论精诣，所谓邃于医而慎于术者非耶，褚氏子孙以其书入石殉葬，为不柄计其用心勤矣。意澄平时所自爱重，子孙遵其垂殁之言而慎藏之欤，虽其遗墓不幸为盗所发，遗书则幸因盗以传也，自是萧广载其石，广子渊复以纳圹，释义堪录诸策，刘继先又以入梓，更三数人之手始克流布当时，盖自永明至嘉泰初，上下七百二十余年，至于今又几何年，所著之书，久埋而复见，已弃而获存，几绝而仅有，若有神物相之者。殆与汲冢之《周书》、昭陵之《义贴》、石室之《阴符》，经佛龛之古文、苑事相类。<br/><br/>　　欧阳子云：人之贤者传遂远，是固然矣。要之古今载籍，或传或否，皆不可必。人未必皆贤，言未必皆粹。高文钜册，或散佚无闻，片楮尺素，或珍袭可考。金石有不足恃，而或出于破冢败壁之间；子孙有不可托而偶得于牧竖、偷儿之手。闷于前或彰于后，盛行于一时，或烟没于万世，莫不有数存焉耳。而物之聚散显晦固有时哉，然而非圣之书不经之谈，迂僻怪诞于事，无益且不可以为训，使有识者见之，必以覆酱瓿制帷帐而投之水火也。今犹不免加灾于木，增垢于石，重为楮墨之费者何限，况乎书坊所刻，大率类家集以徼时名，褒程文以逐时好，日以浸广，求如萧广，冀之嗜古，良亦鲜矣，金于此尤所浩叹。<br/><br/>　　窃谓是书，形气血脉之说，明切简备，庶几可为卫生之助。其平脉篇有曰：澄生当后世传其言而已尔，初决其秘，发悟后人，澄盖以其所得笔之于书，与天下后世共之也。岂若俚俗，医师规规然，因病处方，随证著论，以觊幸于万一者可及哉。呜呼！疾固尼父所慎医，亦事亲者所当知，因是书得之难，而欲其传之广，且久必有同区区余意者矣众，斯文之不泯也。<br/><br/>　　正德丙寅春日西充马金谨序</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-663-8466.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-663-8468.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-663.html" action-type="chapterComment" class="comment"><i></i>褚氏遗书章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

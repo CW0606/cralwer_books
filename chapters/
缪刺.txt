@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《针灸甲乙经》正文_缪刺_皇甫谧作品 - 维普阅读网</title>
+<meta name="keywords" content="针灸甲乙经,针灸甲乙经原文,针灸甲乙经阅读,缪刺全文,皇甫谧作品" />
+<meta name="description" content="针灸甲乙经原文阅读,缪刺全文在线阅读,皇甫谧作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-518-6327.html";
+var nextpage="novel-read-518-6329.html";
+var indexpage = "novel-chapter-518.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-518.html">针灸甲乙经</a></strong>
+<strong><a href="novel-chapter-518.html">针灸甲乙经目录</a></strong>
+<span>缪刺</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-518-6327.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>缪刺</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=皇甫谧&amp;searchsubmit=yes"  target="_blank">皇甫谧</a><span class="divide">|</span>发布时间：2014-09-23 21:22:50<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>黄帝问曰：何谓缪刺？岐伯对曰：夫邪之客于形也，必先舍于皮毛，留而不去，入舍于络脉，留而不去，入舍于经脉，内连五脏，散于肠胃，阴阳俱感，五脏乃伤，此乃邪之从皮毛而入，极于五脏之次也。如此则治其经焉。<br/><br/>　　今邪客于皮毛，入舍于孙络，留而不去，闭塞不通，不得入经，溢于大络而生奇病焉。夫邪客大络者，左注右，右注左，上下左右，与经相干，而布于四末，其气无常处，不及于经俞，名曰缪刺。曰：以左取右，以右取左，其与巨刺何以别之？曰：邪客于经也，左盛则右病，右盛则左病，亦有易且移者，左痛未已而右脉先病，如此者，必巨刺之，必中其经，非络脉也。故络病者，其痛与经脉缪处，故曰缪刺。（巨刺者刺其经，缪刺者刺其络。）曰：缪刺取之何如？曰：邪客于足少阴之络，令人卒心痛，暴胀，胸胁支满。无积者，刺然谷之前出血，如食顷而已，左取右，右取左。病新发者，五日已。<br/><br/>　　邪客于手少阳（一作阴）之络，令人喉痹舌卷，口干心烦，臂外廉痛，手不及头。刺手中指（当作小指）次指爪甲上去端如韭叶，各一痏（音悔），壮者立已，老者有顷已，左取右，右取左，此新病，数日已。<br/><br/>　　邪客于足厥阴之络，令人卒疝暴痛。刺足大指爪甲上与肉交者各一痏，男子立已，女子有顷已，左取右，右取左。<br/><br/>　　邪客于足太阳之络，令人头项痛，肩痛。刺足小指爪甲上与肉交者各一痏，立已，不已刺外踝上三痏，左取右，右取左，如食顷已。<br/><br/>　　邪客于手阳明之络，令人气满胸中，喘急而支怯胸中热。刺手大指次指爪甲上去端如韭叶，各一痏，左取右，右取左，如食顷已。<br/><br/>　　邪客于臂掌之间，不得屈，刺其踝后，先以指按之，痛乃刺之。以月死生为数，月生一日一痏，二日二痏，十五日十五痏，十六日十四痏。<br/><br/>　　邪客于足阳跷之脉，令人目痛，从内眦始。刺外踝之下半寸所，各二痏，左取右，右取左，如行十里顷而已。<br/><br/>　　人有所堕坠，恶血留于内，腹中胀满，不得前后，先饮利药，此上伤厥阴之脉，下伤少阴之络。刺足内踝之下，然谷之前，血脉出血，刺跗上动脉。不已。刺三毛上各一痏，见血立已，左取右，右取左。善惊善悲不乐，刺如右方。<br/><br/>　　邪客于手阳明之络，令人耳聋，时不闻音，刺手大指次指爪甲上端如韭叶，各一痏，立闻。不已，刺中指爪甲上与肉交者，立闻。其不时闻者，不可刺也。耳中生风者，亦刺之如此数，右取左，左取右。<br/><br/>　　凡痹行往来无常处者，在分肉间痛而刺之，以月生死为数。用针者，随气盛衰，以为痏数，针过其日数则脱气，不及其日数则气不泻，左刺右，右刺左。病如故，复刺之如法，以月生死为数，月生一日一痏，二日二痏，渐多之，十五日十五痏，十六日十四痏，渐少之。<br/><br/>　　邪客于足阳明之络（《素问》作经，王冰云：以其脉左右交于面部，故举经脉之病，以明缪刺之类），令人鼽衄，上齿寒。刺足中指（《素问》注云：刺大指次指）爪甲上与肉交者，各一痏。左取右，右取左。<br/><br/>　　邪客于足少阳之络，令人胁痛不得息，咳而汗出。刺足小指（《素》有次指二字）爪甲上与肉交者各一痏，不得息立已，汗出立止，咳者温衣饮食，一日已，左刺右，右则左，病立已，不已，复刺如法。<br/><br/>　　邪客于足少阴之络，令人咽痛，不可内食，无故善怒，气上走贲上。刺足中央之络，各三痏，凡六刺立已，左刺右，右刺左。<br/><br/>　　邪客于足太阴之络，令人腰痛，引少腹控■〈月少〉，不可以仰息。刺其腰尻之解，两胂之上，是腰俞，以月死生为痏数，发针立已，左刺右，右刺左。<br/><br/>　　邪客于足太阳之络，令人拘挛背急引胁而痛，内引心而痛。刺之从项始数脊椎侠脊，疾按之应手而痛，刺入傍三痏，立已。<br/><br/>　　邪客于足少阳之络，令人留于枢中痛，髀不得气（一作髀不可举），刺枢中以毫针，寒则留针，以月死生为痏数立已。<br/><br/>　　诸经刺之，所过者不病，则缪刺之。耳聋刺手阳明，不已，刺其过脉出耳前者。齿龋刺手阳明立已，不已，刺其脉入齿中者立已。<br/><br/>　　邪客于五脏之间，其病也脉引而痛，时来时止，视其病脉，缪刺之于手足爪甲上，视其脉，出其血，间日一刺，一刺不已，五刺已。缪传引上齿，齿唇寒（《素》多一痛字），视其手背脉血者去之，刺足阳明中指爪甲上一痏，手大指次指爪甲上各一痏立已，左取右，右取左。嗌中肿，不能内唾，不能出唾者，缪刺然骨之前出血立已，左取右，右取左。（自溢肿至此二十九字，《素问》王冰注原在邪客足少阴络之下，今移在此。）<br/><br/>　　邪客于手足少阴、太阴（一作阳）、足阳明之络，此五络者，皆会于耳中，上络左角，五络俱竭，令人身脉皆动而形无知也，其状若尸，或曰尸厥。刺足大指内侧爪甲上去端如韭叶，后刺足心，后刺足中指爪甲上各有一痏，后刺手大指内侧爪甲上端如韭叶（《素问》又云后刺手心主者，非也），后刺手少阴锐骨之端各一痏，立已。不已，以竹筒吹其两耳中，剔其左角之发方寸，燔治，饮以美酒一杯，不能饮者，灌之立已。<br/><br/>　　凡刺之数，先视其经脉，切而循之，审其虚实而调之。不调者，经刺之；有痛而经不病者，缪刺之。目视其皮部有血络者，尽取之。此缪刺之数也。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-518-6327.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-518-6329.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-518.html" action-type="chapterComment" class="comment"><i></i>针灸甲乙经章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

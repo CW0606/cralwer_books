@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《聊斋志异》正文_卷十二 薛慰娘_蒲松龄作品 - 维普阅读网</title>
+<meta name="keywords" content="聊斋志异,聊斋志异原文,聊斋志异阅读,卷十二 薛慰娘全文,蒲松龄作品" />
+<meta name="description" content="聊斋志异原文阅读,卷十二 薛慰娘全文在线阅读,蒲松龄作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1254-23590.html";
+var nextpage="novel-read-1254-23592.html";
+var indexpage = "novel-chapter-1254.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1254.html">聊斋志异</a></strong>
+<strong><a href="novel-chapter-1254.html">聊斋志异目录</a></strong>
+<span>卷十二 薛慰娘</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1254-23590.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷十二 薛慰娘</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-18.html" target="blank">古典小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=蒲松龄&amp;searchsubmit=yes"  target="_blank">蒲松龄</a><span class="divide">|</span>发布时间：2015-04-03 20:48:18<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>丰玉桂，聊城儒生也。贫无生业。万历间，岁大祲，孑然南遁。及归，至沂而病。力疾行数里，至城南丛葬处，益惫，因傍冢卧。<br/><br/>　　忽如梦，至一村，有叟自门中出，邀生入。屋两楹，亦殊草草。室内一女子，年十六七，仪容慧雅。叟使瀹柏枝汤，以陶器供客。因诘生里居、年齿，既已，乃曰：“洪都姓李，平阳族。流寓此间，今三十二年矣。君志此门户，余家子孙如见探访，即烦指示之。老夫不敢忘义。义女慰娘，颇不丑，可配君子。三豚儿到日，即遣主盟。”生喜，拜曰：“犬马齿二十有二，尚少良配。惠以眷好，固佳；但何处得翁之家人而告诉也？”叟曰：“君但住北村中，相待月余，自有来者，止求不惮烦耳。”生恐其言不信，要之曰：“实告翁：仆故家徒四壁，恐后日不如所望，中道之弃，人所难堪。即无姻好，亦不敢不守季路之诺，即何妨质言之也？”叟笑曰：“君欲老夫旦旦耶？我稔知君贫。此订非专为君，慰娘孤而无依，相托已久，不忍听其流落，故以奉君子耳。何见疑！”即捉臂送生出，拱手阖扉而去。<br/><br/>　　生觉，则身卧冢边，日已将午。渐起，次且入村。村人见之皆惊，谓其已死道旁经日矣。顿悟叟即冢中人也，隐而不言，但求寄寓。村人恐其复死，莫敢留。村有秀才与同姓，闻之，趋诘家世，盖生缌服叔也。喜导至家，饵治之，数日寻愈。因述所遇，叔亦惊异，遂坐待以觇其变。居无何，果有官人至村，访父墓址，自言平阳进士李叔向。先是，其父李洪都，与同乡某甲行贾，死于沂，某因瘗诸丛葬处。既归，某亦死。是时翁三子皆幼。长伯仁，举进士，令淮南。数遣人寻父墓，迄无知者。次仲道，举孝廉。叔向最少，亦登第。于是亲求父骨，至沂遍访。是日至，村人皆莫识。生乃引至墓所，指示之。叔向未敢信，生为具陈所遇，叔向奇之。审视两坟相接，或言三年前有宦者，葬少妾于此。叔向恐误发他冢，生遂以所卧处示之。叔向命舁材其侧，始发冢。冢开，则见女尸，服妆黯败，而粉黛如生。<br/><br/>　　叔向知其误，骇极，莫知所为。而女已顿起，四顾曰：“三哥来耶？”叔向惊，就问之，则慰娘也。乃解衣蔽覆，舁归逆旅。急发旁冢，冀父复活。既发，则肤革犹存，抚之僵燥，悲哀不已。装敛入村，清醮七日；女亦缞绖若女。忽告叔向曰：“曩阿翁有黄金二锭，曾分一为妾作匳。妾以孤弱无藏所，仅以丝线絷腰，而未将去，兄得之否？”叔向不知，乃使生反求诸圹，果得之，一如女言。叔向仍以线志者分赠慰娘。暇乃审其家世。先是，女父薛寅侯无子，止生慰娘，甚钟爱之。女一日自金陵舅氏归，将媪问渡。操舟者乃金陵媒也。适有宦者，任满赴都，遣觅美妾，凡历数家，无当意者，将为扁舟诣广陵。忽遇女，隐生诡谋，急招附渡。媪素识之，遂与共济。中途，投毒食中，女、妪皆迷。推妪堕江；载女而返，以重金卖诸宦者。入门，嫡始知，怒甚。女又惘然，莫知为礼，遂挞楚而囚禁之。北渡三日，女方醒。婢言始末，女大泣。一夜，宿于沂，自经死，乃瘗诸乱冢中。女在墓，为群鬼所凌，李翁时呵护之，女乃父事翁。翁曰：“汝命合不死，当为择一快婿。”前生既见而出，反谓女曰：“此生品谊可托。待汝三兄至，为汝主婚。”一日曰：“汝可归候，汝三兄将来矣。”盖即发墓之日也。女于丧次，为叔向缅述之。叔向叹息良久，乃以慰娘为妹，俾从李姓。略买衣妆，遣归生。曰：“资斧无多，不能为妹子办妆。意将偕归，以慰母心，如何？”女亦欣然。<br/><br/>　　于是夫妻从叔向，辇柩并发。及归，母诘得其故，爱逾所生，馆诸别院。丧次，女哀悼过于儿孙。母益怜之，不令东归，嘱诸子为之买宅。适有冯氏卖宅，直六百金。仓猝未能取盈，暂收契券，约日交兑。及期，冯早至；适女亦从别院入省母，突见之，绝似当年操舟人。冯见亦惊。女趋过之。两兄亦以母小恙，俱集母所。女问：“厅前跮踱者为谁？”仲道曰：“几忘却，此必前日卖宅者也。”即起欲出。女止之，告以所疑，使诘难之。仲道诺而出，则冯已去，而巷南塾师薛先生在焉。因问：“何来？”曰：“昨夕冯某浼早登堂，一署券保。适途遇之，云偶有所忘，暂归便返，使仆坐以待之。”<br/><br/>　　少间，生及叔向皆至，遂相攀谈。慰娘以冯故，潜来屏后窥客，细视之，则其父也。突出，持抱大哭。翁惊涕曰：“吾儿何来！”众始知薛即寅侯也。仲道虽于街头常遇，初未悉其名字。至是共喜，为述前因，设酒相庆。因留信宿，自道行踪。盖失女后，妻以悲死，鳏居无依，故游学至此也。生约买宅后，迎与同居。翁次日往探，冯则举家遁去，乃知杀媪卖女者，即其人也。冯初至平阳，贸易成家；比年赌博，日就消乏，故货居宅，卖女之资，亦濒尽矣。慰娘得所，亦不甚仇之，但择日徙居，更不追其所往。李母馈遗不绝，一切日用皆供给之。<br/><br/>　　生遂家于平阳，但归试甚苦。幸是科举孝廉。慰娘富贵，每念媪为己死，思报其子。媪夫姓殷，一子名富，好博，贫无立锥。一日，博局争注，殴杀人命，亡归平阳，远投慰娘。生遂留之门下。研诘所杀姓名，盖即操舟冯某也。骇叹久之，因为道破，乃知冯即杀母仇人也。益喜，遂役生家。薛寅侯就养于婿，婿为买妇，生子女各一焉。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1254-23590.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1254-23592.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1254.html" action-type="chapterComment" class="comment"><i></i>聊斋志异章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

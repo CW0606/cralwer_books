@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《三闲集》正文_书籍和财色_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="三闲集,三闲集原文,三闲集阅读,书籍和财色全文,鲁迅作品" />
+<meta name="description" content="三闲集原文阅读,书籍和财色全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-549-7438.html";
+var nextpage="novel-read-549-7440.html";
+var indexpage = "novel-chapter-549.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-549.html">三闲集</a></strong>
+<strong><a href="novel-chapter-549.html">三闲集目录</a></strong>
+<span>书籍和财色</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-549-7438.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>书籍和财色</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-04 20:35:08<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　今年在上海所见，专以小孩子为对手的糖担，十有九带了赌博性了，用一个铜元，经一种手续，可有得到一个铜元以上的糖的希望。但专以学生为对手的书店，所给的希望却更其大，更其多——因为那对手是学生的缘故。 <br/><br/>　　书籍用实价，废去“码洋”的陋习，是始于北京的新潮社——北新书局〔２〕的，后来上海也多仿行，盖那时改革潮流正盛，以为买卖两方面，都是志在改进的人（书店之以介绍文化者自居，至今还时见于广告上），正不必先定虚价，再打折扣，玩些互相欺骗的把戏。然而将麻雀牌送给世界，且以此自豪的人民，对于这样简捷了当，没有意外之利的办法，是终于耐不下去的。于是老病出现了，先是小试其技：送画片。继而打折扣，自九折以至对折，但自然又不是旧法，因为总有一个定期和原因，或者因为学校开学，或者因为本店开张一年半的纪念之类。花色一点的还有赠丝袜，请吃冰淇淋，附送一只锦盒，内藏十件宝贝，价值不资。更加见得切实，然而确是惊人的，是定一年报或买几本书，便有得到“劝学奖金”一百元或“留学经费”二千元的希望。洋场上的“轮盘赌”〔３〕，付给赢家的钱，最多也不过每一元付了三十六元，真不如买书，那“希望”之大，远甚远甚。 <br/><br/>　　我们的古人有言，“书中自有黄金屋”，现在渐在实现了。但后一句，“书中自有颜如玉”〔４〕呢？ <br/><br/>　　日报所附送的画报上，不知为了什么缘故而登载的什么“女校高材生”和什么“女士在树下读书”的照相之类，且作别论，则买书一元，赠送裸体画片的勾当，是应该举为带着“颜如玉”气味的一例的了。在医学上，“妇人科”虽然设有专科，但在文艺上，“女作家”分为一类〔５〕却未免滥用了体质的差别，令人觉得有些特别的。但最露骨的是张竞生〔６〕博士所开的“美的书店”，曾经对面呆站着两个年青脸白的女店员，给买主可以问她“《第三种水》出了没有？”等类，一举两得，有玉有书。可惜“美的书店”竟遭禁止。张博士也改弦易辙，去译《卢骚忏悔录》〔７〕，此道遂有中衰之叹了。 <br/><br/>　　书籍的销路如果再消沉下去，我想，最好是用女店员卖女作家的作品及照片，仍然抽彩，给买主又有得到“劝学”，“留学”的款子的希望。 <br/><br/>　　<br/><br/><br/>　　〔１〕本篇最初发表于一九三○年二月一日《萌芽月刊》第一卷第二期。 <br/><br/>　　〔２〕新潮社北京大学部分学生和教员组成的文化团体，主要成员有傅斯年、罗家伦、杨振声和周作人等。一九一八年底成立。一九一九年一月创办《新潮》月刊，次年八月起出版《新潮丛书》，一九二三年起出版《新潮社文艺丛书》。北新书局，一九二五年三月成立于北京，由原新潮社成员李小峰主持。当时主要出版新文艺书籍。<br/><br/>　　〔３〕“轮盘赌”欧洲赌场中的一种赌博方法，当时也盛行于上海租界。 <br/><br/>　　〔４〕“书中自有黄金屋”见相传为宋真宗（赵恒）所作的《劝学文》：“读，读，读！书中自有黄金屋；读，读，读！书中自有千锺粟；读，读，读！书中自有颜如玉。” <br/><br/>　　〔５〕“女作家”分为一类张若谷曾编辑《女作家杂志》，一九二九年九月由上海女作家杂志社出版。 <br/><br/>　　〔６〕张竞生广东饶平人，法国巴黎大学哲学博士，曾任北京大学教授。著有《美的人生观》、《美的社会组织法》等。一九二六年起在上海编辑《新文化》月刊，一九二七年开设美的书店（不久即被封闭），宣传色情文化。“第三种水”指女性性生活中的分泌物。张在所编《性史》一书中曾论及“第三种水”。 <br/><br/>　　〔７〕《忏悔录》卢梭于一七七八年写的自传体小说。张竞生曾翻译它的第一、二部分，一九二九年上海美的书店出版。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-549-7438.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-549-7440.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-549.html" action-type="chapterComment" class="comment"><i></i>三闲集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

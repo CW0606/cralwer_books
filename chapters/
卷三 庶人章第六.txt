@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孝经注疏》正文_卷三 庶人章第六_注 唐·李隆基，疏 宋·邢昺作品 - 维普阅读网</title>
+<meta name="keywords" content="孝经注疏,孝经注疏原文,孝经注疏阅读,卷三 庶人章第六全文,注 唐·李隆基，疏 宋·邢昺作品" />
+<meta name="description" content="孝经注疏原文阅读,卷三 庶人章第六全文在线阅读,注 唐·李隆基，疏 宋·邢昺作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1425-26374.html";
+var nextpage="novel-read-1425-26376.html";
+var indexpage = "novel-chapter-1425.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1425.html">孝经注疏</a></strong>
+<strong><a href="novel-chapter-1425.html">孝经注疏目录</a></strong>
+<span>卷三 庶人章第六</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1425-26374.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷三 庶人章第六</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=注 唐·李隆基，疏 宋·邢昺&amp;searchsubmit=yes"  target="_blank">注 唐·李隆基，疏 宋·邢昺</a><span class="divide">|</span>发布时间：2016-07-22 22:46:46<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p> [疏]正义曰：庶者，众也，谓天下众人也。皇侃云：“不言众民者，兼包府史之属，通谓之庶人也。”严植之以为士有员位，人无限极，故士以下皆为庶人。<br/><br/>　<br/><br/>　　“用天之道，春生、夏长、秋敛、冬藏，举事顺时，此用天道也。分地之利。分别五土，视其高下，各尽所宜，此分地利也。谨身节用，以养父母。身恭谨则远耻辱，用节省则免饥寒，公赋既充则私养不阙。此庶人之孝也。庶人为孝，唯此而已。<br/><br/>　　[疏]用天至孝也。<br/><br/>　　○正义曰：夫子上述士之行孝已毕，次明庶人之行孝也。言庶人服田力穑，当须用天之四时生成之道也，分地五土所宜之利，谨慎其身，节省其用，以供养其父母，此则庶人之孝也。《援神契》云“庶人行孝曰畜”，以畜养为义，言能躬耕力农，以畜其德，而养其亲也。<br/>　　○注春生至道也。<br/>　　○正义曰：云“春生、夏长、秋敛、冬藏”者，此依郑注也。《尔雅·释天》云：“春为发生，夏为长毓，秋为收成，冬为安宁。”安宁即藏闭之义也。云“举事顺时，此用天之道也”者，谓举农亩之事，顺四时之气，春生则耕种，夏长则耕苗，秋收则穫刈，冬藏则入廪也。<br/>　　○注分别至利也。正义曰：云“分别五土，视其高下”者，此依郑注也。案《周礼·大司徒》云：“五土：一曰山林、二曰川泽、三曰丘陵、四曰坟衍、五曰原隰。”谓庶人须能分别，视此五土之高下，随所宜而播种之，则《职方氏》所谓青州其穀宜稻麦、雍州其穀宜黍稷之类是也。云“各尽其所宜，此分地利也”者，此依孔传也。刘炫云：“黍稷生於陆，菰稻生於水。”<br/>　　○注身恭至不阙。<br/>　　○正义曰：云“身恭谨则远耻辱”者，《论语》曰：“恭近於礼，远耻辱也。”云“用节省则免饥寒”者，“用”谓庶人衣服、饮食、丧祭之用，当须节省。《礼记》曰：“食节事时。”又曰：“庶人无故不食珍，及三年之耕，必有一年之食：九年耕，必有三年之食。以三十年之通，虽有凶旱水溢，民无菜色。”是免饥寒也。云“公赋既充则私养不阙”者，“赋”者自上税下之名也。谓常省节财用，公家赋税充足，而私养父母不阙乏也。《孟子》曰“周人百亩而彻，其实皆什一也”，刘熙注云：“家耕百亩，彻取十亩以为赋也。”又云：“公事毕然后敢治私事。”是也，<br/>　　○注庶人至而已。<br/>　　○正义曰：此依魏注也。案天子、诸侯、卿大夫、士皆言“盖”，而庶人独言“此”，注释言“此”之意也。谓天子至士，孝行广大，其章略述宏纲，所以言“盖”也。庶人用天分地，谨身节用，其孝行已尽，故曰“此”，言惟此而已。《庶人》不引《诗》者，义尽於此，无赘词也。<br/>　<br/><br/>　　故自天子至於庶人，孝无终始，而患不及者，未之有也。始自天子，终於庶人，尊卑虽殊，孝道同致，而患不能及者，未之有也。言无此理，故曰未有。<br/><br/>　　[疏]故自至有也。<br/><br/>　　○正义曰：夫子述天子、诸侯、卿大夫、士、庶人行孝毕，於此总结之，则有五等。尊卑虽殊，至於奉亲，其道不别，故从天子已下至於庶人，其孝道则无终始贵贱之异也。或有自患已身不能及於孝，未之有也。自古及今，未有此理，盖是勉人行孝之辞也。<br/>　　○注始自至未有。<br/>　　○正义曰：云“始自天子，终於庶人”者，谓五章以天子为始，庶人为终也。云“尊卑虽殊，孝道同致”者，谓天子庶人尊卑虽别，至於行孝，其道不殊。天子须爱亲敬亲，诸侯须不骄不溢，卿大夫於言行无择，士须资亲事君，庶人谨身节用，各因心而行之斯至，岂藉创物之智、扛鼎之力？若率强之，无不及也。云“而患不能及者，未之有也”者，此谓人无贵贱尊卑，行孝之道同致，若各率其己分，则皆能养亲。言患不及於孝者未有也。说孝道包含之义广大，塞乎天地，横乎四海。经言“孝无终始”，谓难备终始，但不致毁伤，立身行道，安其亲、忠於君，一事可称，则行成名立，不必终始皆备也。此言行孝甚易，无不及之理，故非孝道不终始致必反之患也。云“言无此理，故曰未有”者，此释“未之有”之意也。谢万以为无终始，恒患不及，未之有者，少贱之辞也。刘瓛云：“礼不下庶人。若言我贱而患行孝不及己者，未之有也。”此但得忧不及之理，而失於叹少贱之义也。郑曰：“诸家皆以为患及身，今注以为自患不及，将有说乎？”答曰：“案《说文》云：‘患，忧也。’《广雅》曰：‘患，恶也。’又，若案注说，释‘不及’之义凡有四焉，大意皆谓有患贵贱行孝无及之忧，非以患为祸也。”经传之称患者多矣：《论语》“不患人之不己知”，又曰“不患无位”，又曰“不患寡而患不均”；《左传》曰“宣子患之”：皆是忧恶之辞也。惟《苍颉篇》谓患为祸，孔、郑、韦、王之学引之以释此经，故皇侃曰：“无始有终，谓改悟之善，恶祸何必及之？”则无始之言，已成空设也。《礼·祭义》：“曾子说孝曰：‘众之本教曰孝，其行曰养。养可能也，敬为难。敬可能也，安为难。安可能也，卒为难。父母既没，慎行其身，不遗父母恶名，可谓能终矣。’”夫以曾参行孝，亲承圣人之意，至於能终孝道，尚以为难，则寡能无识，固非所企也。今为行孝不终，祸患必及。此人偏执，讵谓经通？郑曰：“《书》云：‘天道福善祸淫。’”又曰：“惠迪吉，从逆凶，惟影响，斯则必有灾祸，何得称无也？”答曰：“来问指淫凶悖慝之伦，经言戒不终善美之辈。”《论语》曰：“今之孝者，是谓能养。曾子曰：‘参，直养者也，安能为孝乎？’”又此章云：“以养父母，此庶人之孝也。”傥有能养而不能终，只可未为具美，无宜即同淫慝也。古今凡庸，讵识孝道？但使能养，安知始终？若今皆及於灾，便是比屋可贻祸矣。而当朝通识者以为郑注非误，故谢万云：“言为人无终始者，谓孝行有终始也。患不及者，谓用心忧不足也。能行如此之善，曾子所以称难，故郑注云：‘善未有也。’”谛详此义，将谓不然。何者？孔圣垂文，包於上下，尽力随分，宁限高卑？则因心而行，无不及也。如依谢万之说，此则常情所昧矣。子夏曰：“有始有卒者，其惟圣人乎？”若施化惟待圣人，千载方期一遇，加於百姓，刑於四海，乃为虚说者与！《制旨》曰：“嗟乎！孝之为大，若天之不可逃也，地之不可远也。朕穷五孝之说，人无贵贱，行无终始，未有不由此道而能立其身者。然则圣人之德，岂云远乎？我欲之而斯至，何患不及於己者哉！”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1425-26374.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1425-26376.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1425.html" action-type="chapterComment" class="comment"><i></i>孝经注疏章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

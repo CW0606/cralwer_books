@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《集外集拾遗》正文_《游仙窟》序言_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="集外集拾遗,集外集拾遗原文,集外集拾遗阅读,《游仙窟》序言全文,鲁迅作品" />
+<meta name="description" content="集外集拾遗原文阅读,《游仙窟》序言全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-541-6981.html";
+var nextpage="novel-read-541-6983.html";
+var indexpage = "novel-chapter-541.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-541.html">集外集拾遗</a></strong>
+<strong><a href="novel-chapter-541.html">集外集拾遗目录</a></strong>
+<span>《游仙窟》序言</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-541-6981.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>《游仙窟》序言</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-30 19:50:14<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>《游仙窟》今惟日本有之，是旧钞本，藏于昌平学（２）；题宁州襄乐县尉张文成作。文成者，张族鸟（３）之字；题署著字，古人亦常有，如晋常璩撰《华阳国志》（４），其一卷亦云常道将集矣。张族鸟，深州陆浑人；两《唐书》（５）皆附见《张荐传》，云以调露初登进士第，为岐王府参军，屡试皆甲科，大有文誉，调长安尉迁鸿胪丞。证圣中，天官刘奇（６）以为御史；性躁卞，傥荡无检，姚崇（７）尤恶之；开元初，御史李全交劾族鸟讪短时政，贬岭南，旋得内徙，终司门员外郎。《顺宗实录》（８）亦谓族鸟博学工文词，七登文学科（９）。《大唐新语》（１０）则云，后转洛阳尉，故有《咏燕诗》（１１），其末章云，“变石身犹重，衔泥力尚微，从来赴甲第，两起一双飞。”时人无不讽咏。《唐书》虽称其文下笔立成，大行一时，后进莫不传记，日本新罗（１２）使至，必出金宝购之，而又訾为浮艳少理致，论著亦率诋诮芜秽。族鸟书之传于今者，尚有《朝野佥载》及《龙筋凤髓判》（１３），诚亦多诋诮浮艳之辞。《游仙窟》为传奇，又多俳调，故史志皆不载；清杨守敬作《日本访书志》（１４），始著于录，而贬之一如《唐书》之言。日本则初颇珍秘，以为异书；尝有注，似亦唐时人作。河世宁曾取其中之诗十余首入《全唐诗逸》（１５），鲍氏刊之《知不足斋丛书》（１６）中；今矛尘（１７）将具印之，而全文始复归华土。不特当时之习俗如酬对舞咏，时语如目兼目舌*"*"（１８），可资博识；即其始以骈俪之语作传奇，前于陈球之《燕山外史》（１９）者千载，亦为治文学史者所不能废矣。 <br/>　　中华民国十六年七月七日，鲁迅识。 <br/>　　　　　　　 <br/>　　（１）　本篇最初以手迹制版印入一九二九年二月北新书局出版的《游仙窟》。 <br/>　　《游仙窟》，传奇小说，唐代张族鸟作。唐宪宗元和年间流入日本，国内久已失传。章廷谦据日本保存的通行本《游仙窟》、醍醐寺本《游仙窟》以及流传于朝鲜的另一日本刻本重新校订，标点出版。 <br/>　　（２）　昌平学　江户幕府一六三○年开办的以儒学为主的学校；一八六八年明治政府接收，改组为“昌平学校”，一八七○年关闭。地址在江户汤岛。 <br/>　　（３）　张族鸟（约６６０—７４０）　深州陆泽（今河北深县）人。按文中作“陆浑”，误。 <br/>　　（４）　常璩　字道将，蜀郡江原（今四川崇庆）人，晋代史学家。《华阳国志》，十二卷，附录一卷，是一部记述我国西南地区历史事迹的书。 <br/>　　（５）　两《唐书》　即《旧唐书》和《新唐书》。《旧唐书》，后晋刘癲等撰，共二百卷。《新唐书》，宋代宋祁、欧阳修等撰，共二二五卷。《张荐传》，见《旧唐书》卷一四九、《新唐书》卷一六一。张荐是张族鸟的孙子。 <br/>　　（６）　刘奇　滑州胙（今河南延津）人。《新唐书·刘政会传》！按巫悠妫�な僦*为天官侍郎，荐族鸟、司马槲�嗖煊�贰薄Ｌ旃伲武则天时改吏部为天官。 <br/>　　（７）　姚崇（６５０—７２１）　本名元崇，唐代陕州硖石（今河南陕县）人。睿宗、玄宗时任宰相。 <br/>　　（８）　《顺宗实录》　唐代韩愈等撰，共五卷。（９）　文学科　唐代临时设置的制科的一种，由皇帝主试。名目很多，应试者可以重复参加考试。张族鸟曾参加“下笔成章”、“才高位下”、“词标文苑”等考试。 <br/>　　（１０）　《大唐新语》　笔记，唐代刘肃撰，共十三卷。张族鸟事见该书第八卷。 <br/>　　（１１）　《咏燕诗》　张族鸟作，全诗已佚，现仅存《大唐新语》所引四句。 <br/>　　（１２）　新罗　古国名，位于朝鲜半岛的东南部。（１３）　《朝野佥载》　笔记，共六卷，记载隋唐两代朝野遗闻传说。《龙筋凤髓判》，判牍书，共四卷。收录判决司法案件的骈俪体文牍。 <br/>　　（１４）　杨守敬（１８３９—１９１５）　字惺吾，湖北宜都人，地理学家、版本学家。《日本访书志》，共十六卷，是他任清朝驻日本公使馆馆员时，调查国内已失传而日本尚有留存的古书的著作。其中录有《游仙窟》，并加按语说：“男女姓氏，并同《会真记》，而情事稍疏，以骈俪之辞，写猥亵之状，真所谓傥荡无检，文成浮艳者”。（１５）　河世宁　字子静，日本人。曾任昌平学学员长。《全唐诗逸》，共三卷，辑录流传于日本而《全唐诗》中遗漏的诗作百余首。内收《游仙窟》中的诗十九首。每首下分别署名张文成和《游仙窟》中的人物崔十娘、崔五娘、香儿等。 <br/>　　（１６）　鲍氏　鲍廷博（１７２８—１８１４），字以文，清代安徽歙县人。《知不足斋丛书》，是他于乾隆四十一年（１７７６）辑印的一部丛书，共三十集，一百九十七种。其中根据《全唐诗逸》录有《游仙窟》中的诗十九首。 <br/>　　（１７）　矛尘　即章廷谦，笔名川岛，浙江绍兴人。《语丝》撰稿人之一。 <br/>　　（１８）　目兼目舌　眼皮低垂；，羞涩的样子。都是唐代俗语。（１９）　陈球　字蕴斋，清代浙江秀水（今嘉兴）人。《燕山外史》，共八卷，是他用骈体文写成的一部言情小说，约成书于嘉庆十五年（１８１０）。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-541-6981.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-541-6983.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-541.html" action-type="chapterComment" class="comment"><i></i>集外集拾遗章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

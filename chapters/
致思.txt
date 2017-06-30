@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孔子家语》正文_致思_王肃作品 - 维普阅读网</title>
+<meta name="keywords" content="孔子家语,孔子家语原文,孔子家语阅读,致思全文,王肃作品" />
+<meta name="description" content="孔子家语原文阅读,致思全文在线阅读,王肃作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-349-5173.html";
+var nextpage="novel-read-349-5175.html";
+var indexpage = "novel-chapter-349.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-349.html">孔子家语</a></strong>
+<strong><a href="novel-chapter-349.html">孔子家语目录</a></strong>
+<span>致思</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-349-5173.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>致思</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王肃&amp;searchsubmit=yes"  target="_blank">王肃</a><span class="divide">|</span>发布时间：2014-09-05 21:40:29<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>孔子北游于农山，子路子贡颜渊侍侧。孔子四望，喟然而叹曰：“于斯致思，无所不至矣。言思无所不至二三子各言尔志，吾将择焉。子路进曰：“由愿得白羽若月，赤羽若日，钟鼓之音，上震于天，旍旗缤纷，下蟠于地，蟠委由当一队而敌之，必也攘地千里，攘却搴旗执聝，搴取也取敌之旍旗职截耳也以效获也唯由能之，使二子者从我焉。”夫子曰：“勇哉。”子贡复进曰：“赐愿使齐楚合战于漭瀁之野，漭瀁广大之类两垒相望，尘埃相接，挺刃交兵，赐着缟衣白冠，兵凶事故白冠服也陈说其间，推论利害，释国之患，唯赐能之，使夫二子者从我焉。”夫子曰：“辩哉。”颜回退而不对。孔子曰：“回来，汝奚独无愿乎？”颜回对曰：“文武之事，则二子者，既言之矣，回何云焉。”孔子曰：“虽然，各言尔志也，小子言之。”对曰：“回闻熏莸不同器而藏，熏香莸臭尧桀不共国而治，以其类异也，回愿得明王圣主辅相之，敷其五教，敷布也五教父义母慈兄友弟恭子孝也导之以礼乐，使民城郭不修，沟池不越，言无踰越沟池铸剑戟以为农器，放牛马于原薮，广平曰原泽无水曰薮也室家无离旷之思，千岁无战斗之患，则由无所施其勇，而赐无所用其辩矣。”夫子凛然曰：“美哉！德也。”子路抗手而对曰：“夫子何选焉？”孔子曰：“不伤财，不害民，不繁词，则颜氏之子有矣。”<br/>　　鲁有俭啬者，瓦鬲煮食，瓦釜食之，自谓其美，盛之土型之器，瓦甂以进孔子。孔子受之，欢然而悦，如受大牢之馈。牛羊豕馈馈也子路曰：“瓦甂，陋器也，煮食，薄膳也，夫子何喜之如此乎？”子曰：“夫好谏者思其君，食美者念其亲。吾非以馔具之为厚，以其食厚而我思焉。”孔子之楚，而有渔者，而献鱼焉，孔子不受。渔者曰：“天暑市远，无所鬻也，思虑弃之粪壤，不如献之君子，故敢以进焉。”于是夫子再拜受之，使弟子扫地将以享祭。门人曰：“彼将弃之，而夫子以祭之，何也？”孔子曰：“吾闻诸惜其腐●，而欲以务施者，仁人之偶也，恶有受仁人之馈，而无祭者乎？”<br/>　　季羔为卫之士师，狱官刖人之足，俄而卫有蒯聩之乱，初卫灵公太子蒯聩得罪出奔晋灵公卒立其子辄蒯聩自晋袭卫时子羔子路并位于卫也季羔逃之，走郭门，刖者守门焉。谓季羔曰：“彼有●。”季羔曰：“君子不踰。”又曰：“彼有窦。”季羔曰：“君子不隧。”隧从窦出又曰：“于此有室。”季羔乃入焉。既而追者罢，季羔将去，谓刖者：“吾不能亏主之法而亲刖子之足矣，今吾在难，此正子之报怨之时，而逃我者三，何故哉？”刖者曰：“断足固我之罪，无可奈何，曩者君治臣以法令，先人后臣，欲臣之免也，臣知狱决罪定，临当论刑，君愀然不乐，见君颜色，臣又知之，君岂私臣哉？天生君子，其道固然，此臣之所以悦君也。”孔子闻之曰：“善哉为吏，其用法一也。思仁恕则树德，加严暴则树怨，公以行之，其子羔乎。”<br/>　　孔子曰：“季孙之赐我粟千钟也，而交益亲，得季孙千钟之粟以施与众而交益亲自南宫敬叔之乘我车也，而道加行。孔子欲见老聃而西观周敬叔言于鲁君给孔子车马问礼于老子孔子历观郊庙自周而还弟子四方来习也故道虽贵，必有时而后重，有势而后行，微夫二子之贶财，则丘之道，殆将废矣。”<br/>　　孔子曰：“王者有似乎春秋，正其本而万物皆正文王以王季为父，以太任为母，以太姒为妃，以武王周公为子，以太颠闳天为臣，其本美矣。武王正其身以正其国，正其国以正天下，伐无道，刑有罪，一动而天下正，其事成矣。春秋致其时而万物皆及，王者致其道而万民皆治，周公载己行化，载亦行矣言行已以行化其身正不令而行也而天下顺之，其诚至矣。”<br/>　　曾子曰：“入是国也，言信于群臣，而留可也；见忠于卿大夫，则仕可也；泽施于百姓，则富可也。”孔子曰：“参之言此可谓善安身矣。”子路为蒲宰，为水备，与其民修沟渎，以民之劳烦苦也，人与之一箪食箪笥一壶浆。孔子闻之，使子贡止之。子路忿不悅，？見孔子，曰：“由也以暴雨将至，恐有水灾，故与民修沟洫以备之，而民多匮饿者，是以箪食壶浆而与之。夫子使赐止之，是夫子止由之行仁也。夫子以仁教而禁其行，由不受也。”孔子曰：“汝以民为饿也，何不白于君，发仓廪以赈之，而私以尔食馈之，是汝明君之无惠，而见己之德美矣。汝速已则可，不则汝之见罪必矣。”<br/>　　子路问于孔子曰：“管仲之为人何如？”子曰：“仁也。”得仁道也子路曰：“昔管仲说襄公，公不受，是不辩也；欲立公子纠而不能，是不智也；齐襄立无常鲍叔牙曰君使民慢乱将作矣奉公子小白出奔莒公孙无知杀襄公管夷吾召忽奉公子纠奔鲁齐人杀无知鲁伐齐纳子纠小白自莒先入是为桓公公乃杀子纠召忽死之也家残于齐，而无忧色，是不慈也；桎梏而居槛车，无惭心，是无丑也；言无耻恶之心事所射之君，是不贞也；召忽死之，管仲不死，是不忠也。仁人之道，固若是乎？”孔子曰：“管仲说襄公，襄公不受，公之闇也；欲立子纠而不能，不遇时也；家残于齐而无忧色，是知权命也；桎梏而无惭心，自裁审也；事所射之君，通于变也；不死子纠，量轻重也。夫子纠未成君，管仲未成臣，管仲才度义，管仲不死束缚，而立功名，未可非也。召忽虽死，过与取仁，未足多也。”<br/>　　孔子适齐，中路闻哭者之声，其音甚哀。孔子谓其仆曰：“此哭哀则哀矣，然非丧者之哀矣。”驱而前，少进，见有异人焉，拥镰带素，哭者不哀。孔子下车，追而问曰：“子何人也？”对曰：“吾丘吾子也。”曰：“子今非丧之所，奚哭之悲也？”丘吾子曰：“吾有三失，晚而自觉，悔之何及。”曰：“三失可得闻乎？愿子告吾，无隐也。”丘吾子曰：“吾少时好学，周遍天下，后还丧吾亲，是一失也；长事齐君，君骄奢失士，臣节不遂，是二失也；吾平生厚交，而今皆离绝，是三失也。夫樹欲靜而風不停，子欲養而親不待，？而不來者年也，不可再见者亲也，请从此辞，遂投水而死。”孔子曰：“小子识之，斯足为戒矣。自是弟子辞归养亲者十有三。”<br/>　　孔子谓伯鱼曰：“鲤乎，吾闻可以与人终日不倦者，其唯学焉。其容体不足观也，其勇力不足惮也，其先祖不足称也，其族姓不足道也。终而有大名，以显闻四方，流声后裔者，岂非学之效也。故君子不可以不学。其容不可以不饬，不饬无类，无类失亲，类宜为貌不在饬故无貌不得言不饬无类也礼貌矜庄然后亲爱可久故曰无类失亲也失亲不忠，情不相亲则无忠诚不忠失礼，礼以忠信为本失礼不立。非礼则无以立夫远而有光者，饬也；近而愈明者，学也。譬之污池，水潦注焉，雚苇生焉，虽或以观之，孰知其源乎。”源泉源也水潦注于池而生雚苇观者谁知其非源泉乎以言学者虽从外入及其用之人谁知其非从此出也者乎子路见于孔子曰：“负重涉远，不择地而休，家贫亲老，不择禄而仕。昔者由也，事二亲之时，常食藜藿之实，为亲负米百里之外。亲殁之后，南游于楚，从车百乘，积粟万钟，累茵而坐，列鼎而食，愿欲食藜藿，为亲负米，不可复得也。枯鱼衔索，几何不蠹，二亲之寿，忽若过隙。”孔子曰：“由也事亲，可谓生事尽力，死事尽思者也。”<br/>　　孔子之郯，郯國名也少昊之後吾之本縣也郯子達禮孔子故？諮问焉遭程子于涂，倾盖而语，倾盖驻车终日，甚相亲。顾谓子路曰：“取束帛以赠先生。”赠送子路屑然对曰：“由闻之士不中间见，女嫁无媒，君子不以交礼也。”中间谓始介也有间，又顾谓子路。子路又对如初。孔子曰：“由，诗不云乎：‘有美一人，清扬宛兮，邂逅相遇，适我愿兮。’清扬眉目之间也宛然美也幽期而会令愿也今程子，天下贤士也，于斯不赠，则终身弗能见也，小子行之。”<br/>　　孔子自卫反鲁，息驾于河梁而观焉。河水无梁庄周书说孔子于闾梁言事者通渭水为河也有悬水三十仞，八尺曰仞悬二十四丈者也圜流九十里，圜流回流也水深急则然鱼鳖不能导，鼋鼍不能居。道行有一丈夫方将厉之，厉渡孔子使人并涯止之曰：“此悬水三十仞，圜流九十里，鱼鳖鼋鼍不能居也，意者难可济也。”丈夫不以措意，遂渡而出。孔子问之，曰：“子乎有道术乎，所以能入而出者，何也？”丈夫对曰：“始吾之入也，先以忠信，及吾之出也，又从以忠信，忠信措吾躯于波流，而吾不敢以用私，所以能入而复出也。”孔子谓弟子曰：“二三子识之，水且犹可以忠信成身亲之，而况于人乎！”<br/>　　孔子将行，雨而无盖。门人曰：“商也有之。”子夏名也孔子曰：“商之为人也，甚？于财，？啬甚也吾闻与人交，推其长者，违其短者故能久也。”楚王渡江，江中有物大如斗，圆而赤，直触王舟，舟人取之，王大怪之，遍问群臣，莫之能识。王使使聘于鲁，问于孔子。子曰：“此所谓萍实者也，萍水草也可剖而食也，吉祥也，唯霸者为能获焉。”使者反，王遂食之，大美。久之使来以告鲁大夫，大夫因子游问曰：“夫子何以知其然乎？”曰：“吾昔之郑，过乎陈之野，闻童谣曰：‘楚王渡江得萍实，大如斗，赤如日，剖而食之甜如蜜。’此是楚王之应也。吾是以知之。”　　子贡问于孔子曰：“死者有知乎？将无知乎？”子曰：“吾欲言死之有知，将恐孝子顺孙妨生以送死；吾欲言死之无知，将恐不孝之子弃其亲而不葬。赐不欲知死者有知与无知，非今之急，后自知之。”<br/>　　子贡问治民于孔子。子曰：“懔懔焉若持腐索之扞马。”懔懔戒惧之貌扞马突马子贡曰：“何其畏也？”孔子曰：“夫通达御皆人也，以道导之，则吾畜也；不以道导之，则吾雠也。如之何其无畏也。”<br/>　　鲁国之法，赎人臣妾于诸侯者，皆取金于府，子贡赎之，辞而不取金。孔子闻之曰：“赐失之矣。夫圣人之举事也，可以移风易俗，而教导可以施之于百姓，非独适身之行也，今鲁国富者寡而贫者众，赎人受金则为不廉，则何以相赎乎？自今以后，鲁人不复赎人于诸侯。”<br/>　　子路治蒲，请见于孔子曰：“由愿受教于夫子。”子曰：“蒲其如何？”对曰：“邑多壮士，又难治也。”子曰：“然，吾语尔，恭而敬，可以摄勇；宽而正，可以怀强；爱而恕，可以容困；言爱恕者能容困穷温而断，可以抑奸。如此而加之，则正不难矣。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-349-5173.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-349-5175.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-349.html" action-type="chapterComment" class="comment"><i></i>孔子家语章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

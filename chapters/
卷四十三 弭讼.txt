@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《抱朴子》正文_卷四十三 弭讼_葛洪作品 - 维普阅读网</title>
+<meta name="keywords" content="抱朴子,抱朴子原文,抱朴子阅读,卷四十三 弭讼全文,葛洪作品" />
+<meta name="description" content="抱朴子原文阅读,卷四十三 弭讼全文在线阅读,葛洪作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-504-5862.html";
+var nextpage="novel-read-504-5864.html";
+var indexpage = "novel-chapter-504.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-504.html">抱朴子</a></strong>
+<strong><a href="novel-chapter-504.html">抱朴子目录</a></strong>
+<span>卷四十三 弭讼</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-504-5862.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>卷四十三 弭讼</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=葛洪&amp;searchsubmit=yes"  target="_blank">葛洪</a><span class="divide">|</span>发布时间：2014-09-20 22:57:52<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>姑子刘君士由之论曰：“人纲始於夫妇，判合拟乎二仪。是故大婚之礼，古人所重，将合二姓之好，以承祖宗之基。主人拜迎於门，听命於庙，玄纁贽币，亲御授绥，婿有三年之丧，致命女氏，女氏许诺而不敢改。大丧既没，请命於婿，婿有辞焉，然後乃嫁。所以崇敬让也。岂有先讼後婿之谓乎？<br/>　　而末世轻慢，伤化败俗，举不修义，许而弗与，讼阋秽辱，烦塞官曹。今可使诸争婚者，未及同牢，皆听义绝，而倍还酒礼，归其币帛。其尝已再离者，一倍裨娉。其三绝者，再倍裨娉。如此，离者不生讼心，贪吝者无利重受，乃王治要术，不易之永法也。”<br/>　　抱朴子答曰：“刘君悯德让之凌替，疾民争之损化，虽速我讼，室家不足，用和之贵，将遂沦胥。创谠言以拾世遗，建嘉谋以拯流遁，纷哗之俗，将以此而易，无耻之风，将由此而移。弥纶情伪，固难间矣。诚经国之永法，至益之笃论也。<br/>　　洪以不敏，不识至理，造次承问，窃有疑焉。夫婚媾之结，义无逼迫，彼则简择而求，此则可意乃许，轻诺後悔，罪在女氏，食言弃信，与夺任情，严防峻制，未之能弭。今猥恣之，唯责裨娉倍贫者所惮也，丰於财者，则适其愿矣。後所许者，或能富殖，助其裨娉，必所甘心。然则先家拱默，不得有言，原情论之，能无怨叹乎？<br/>　　夫不伏之人，视死犹归，血刃之祸，於是将起。今苟惜其辞讼之小丑，而构其难忍之大恨，所谓爱其僦览之烦，忘其凋殒之酷也。夫买物於市者，或加价而夺之，则鲜忍而不忿然矣，况乎见夺待告之妻哉！此法遂用者，将使结婚者，虽纳敬亲迎，犹抱有见夺之虑。何者？刘君之论，以同牢为断，固也。<br/>　　尔则女氏虽受币积年，恒挟在意之威，恃可数夺，必惰於择婿，婿小不得意，便得改悔，结雠带祸，莫此之甚矣。曩人画法，虑关终始，杜渐防萌，思之良精，而不关恣夺之路，断以报板之制者，殆有决乎？<br/>　　傥令女有国色，倾城绝伦，而值豪右权臣之徒，目玩冶容，心忘礼度，资累千金，情无所吝。十倍还娉，犹所不惮，况但一乎？华氏不难於杀孔父而取其妻，楚人为子迎妇，以其美而自纳之。以此论之，岂惜倾竭居产以助女氏还前家之直哉！小人轻薄，睚眦成怨，又喜委衰逐盛，蹋冷趋热，此法之行，则必多夺贫贱而与富贵者矣。不审吾君，何方以防弊乎！<br/>　　或曰：可使女氏受娉无丰约，皆以即日报板，後皆使时人署姓名於别板，必十人已上，必备远行及死亡。又令女之父兄若伯叔，答婿家书，必手书一纸，若有变悔而证据明者，女氏父母兄弟，皆加刑罪。如此，庶於无讼者乎！</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-504-5862.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-504-5864.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-504.html" action-type="chapterComment" class="comment"><i></i>抱朴子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

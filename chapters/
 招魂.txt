@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《楚辞》正文_ 招魂_屈原作品 - 维普阅读网</title>
+<meta name="keywords" content="楚辞,楚辞原文,楚辞阅读, 招魂全文,屈原作品" />
+<meta name="description" content="楚辞原文阅读, 招魂全文在线阅读,屈原作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-257-4133.html";
+var nextpage="novel-read-257-4135.html";
+var indexpage = "novel-chapter-257.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-257.html">楚辞</a></strong>
+<strong><a href="novel-chapter-257.html">楚辞目录</a></strong>
+<span> 招魂</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-257-4133.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong> 招魂</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=屈原&amp;searchsubmit=yes"  target="_blank">屈原</a><span class="divide">|</span>发布时间：2014-08-27 20:37:50<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>朕幼清以廉洁兮，身服义而未沫。<br/>主此盛德兮，牵于俗而芜秽。<br/>上无所考此盛德兮，长离殃而愁苦。<br/>帝告巫阳曰：“有人在下，我欲辅之。<br/>魂魄离散，汝筮予之。”<br/>巫阳对曰：“掌梦！<br/>上帝其难从；若必筮予之，<br/>恐后之谢，不能复用。”<br/>巫阳焉乃下招曰：<br/><br/>魂兮归来！去君之恒干，<br/>何为四方些？舍君之乐处，<br/>而离彼不祥些！<br/><br/>魂兮归来！东方不可以讬些。<br/>长人千仞，惟魂是索些。<br/>十日代出，流金铄石些。<br/>彼皆习之，魂往必释些。<br/>归来兮！不可以讬些。<br/><br/>魂兮归来！南方不可以止些。<br/>雕题黑齿，得人肉以祀，以其骨为醢些。<br/>蝮蛇蓁蓁，封狐千里些。<br/>雄虺九首，往来倏忽，吞人以益其心些。<br/>归来兮！不可久淫些。<br/><br/>魂兮归来！西方之害，流沙千里些。<br/>旋入雷渊，爢散而不可止些。<br/>幸而得脱，其外旷宇些。<br/>赤蚁若象，玄蜂若壶些。<br/>五谷不生，丛菅是食些。<br/>其土烂人，求水无所得些。<br/>彷徉无所倚，广大无所极些。<br/>归来兮！恐自遗贼些。<br/><br/>魂兮归来！北方不可以止些。<br/>增冰峨峨，飞雪千里些。<br/>归来兮！不可以久些。<br/><br/>魂兮归来！君无上天些。<br/>虎豹九关，啄害下人些。<br/>一夫九首，拔木九千些。<br/>豺狼从目，往来侁侁些。<br/>悬人以嬉，投之深渊些。<br/>致命于帝，然后得瞑些。<br/>归来！往恐危身些。<br/><br/>魂兮归来！君无下此幽都些。<br/>土伯九约，其角觺觺些。<br/>敦脄血拇，逐人伂駓駓些。<br/>参目虎首，其身若牛些。<br/>此皆甘人，归来！恐自遗灾些。<br/><br/>魂兮归来！入修门些。<br/>工祝招君，背行先些。<br/>秦篝齐缕，郑绵络些。<br/>招具该备，永啸呼些。<br/><br/>魂兮归来！反故居些。<br/>天地四方，多贼奸些。<br/>像设君室，静闲安些。<br/>高堂邃宇，槛层轩些。<br/>层台累榭，临高山些。<br/>网户朱缀，刻方连些。<br/>冬有穾厦，夏室寒些。<br/>川谷径复，流潺湲些。<br/>光风转蕙，氾崇兰些。<br/>经堂入奥，朱尘筵些。<br/>砥室翠翘，挂曲琼些。<br/>翡翠珠被，烂齐光些。<br/>蒻阿拂壁，罗帱张些。<br/>纂组绮缟，结琦璜些。<br/>室中之观，多珍怪些。<br/>兰膏明烛，华容备些。<br/>二八侍宿，射递代些。<br/>九侯淑女，多迅众些。<br/>盛鬋不同制，实满宫些。<br/>容态好比，顺弥代些。<br/>弱颜固植，謇其有意些。<br/>姱容修态，絚洞房些。<br/>蛾眉曼睩，目腾光些。<br/>靡颜腻理，遗视矊些。<br/>离榭修幕，侍君之闲些。<br/>悲帷翠帐，饰高堂些。<br/>红壁沙版，玄玉梁些。<br/>仰观刻桷，画龙蛇些。<br/>坐堂伏槛，临曲池些。<br/>芙蓉始发，杂芰荷些。<br/>紫茎屏风，文缘波些。<br/>文异豹饰，侍陂陁些。<br/>轩辌既低，步骑罗些。<br/>兰薄户树，琼木篱些。<br/>魂兮归来！何远为些？<br/><br/>室家遂宗，食多方些。<br/>稻粢穱麦，挐黄梁些。<br/>大苦醎酸，辛甘行些。<br/>肥牛之腱，臑若芳些。<br/>和酸若苦，陈吴羹些。<br/>胹鳖炮羔，有柘浆些。<br/>鹄酸臇凫，煎鸿鸧些。<br/>露鸡臛蠵，厉而不爽些。<br/>粔籹蜜饵，有餦餭些。<br/>瑶浆蜜勺，实羽觞些。<br/>挫糟冻饮，酎清凉些。<br/>华酌既陈，有琼浆些。<br/>归来反故室，敬而无妨些。<br/>肴羞未通，女乐罗些。<br/>敶钟按鼓，造新歌些。<br/>《涉江》《采菱》，发《扬荷》些。<br/>美人既醉，朱颜酡些。<br/>嬉光眇视，目曾波些。<br/>被文服纤，丽而不奇些。<br/>长发曼鬋，艳陆离些。<br/>二八齐容，起郑舞些。<br/>衽若交竿，抚案下些。<br/>竽瑟狂会，搷鸣鼓些。<br/>宫庭震惊，发&lt;激楚&gt;些。<br/>吴歈蔡讴，奏大吕些。<br/>士女杂坐，乱而不分些。<br/>放敶组缨，班其相纷些。<br/>郑卫妖玩，来杂陈些。<br/>《激楚》之结，独秀先些。<br/>菎蔽象棋，有六簙些。<br/>分曹并进，遒相迫些。<br/>成枭而牟，呼五白些。<br/>晋制犀比，费白日些。<br/>铿钟摇簴，揳梓瑟些。<br/>娱酒不废，沈日夜些。<br/>兰膏明烛，华灯错些。<br/>结撰至思，兰芳假些。<br/>人有所极，同心赋些。<br/>酎饮尽欢，乐先故些。<br/>魂兮归来！反故居些。<br/><br/>乱曰：<br/>献岁发春兮，汨吾南征。<br/>菉蘋齐叶兮，白芷生。<br/>路贯庐江兮，左长薄。<br/>倚沼畦瀛兮，遥望博。<br/>青骊结驷兮，齐千乘。<br/>悬火延起兮，玄颜烝。<br/>步及骤处兮，诱骋先。<br/>抑骛若通兮，引车右还。<br/>与王趋梦兮，课后先。<br/>君王亲发兮，惮青兕。<br/>朱明承夜兮，时不可以淹。<br/>皋兰被径兮，斯路渐。<br/>湛湛江水兮，上有枫。<br/>目极千里兮，伤春心。<br/>魂兮归来，哀江南！</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-257-4133.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-257-4135.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-257.html" action-type="chapterComment" class="comment"><i></i>楚辞章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《暗算》正文_序曲（4）_麦家作品 - 维普阅读网</title>
+<meta name="keywords" content="暗算,暗算原文,暗算阅读,序曲（4）全文,麦家作品" />
+<meta name="description" content="暗算原文阅读,序曲（4）全文在线阅读,麦家作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-1245-22596.html";
+var nextpage="novel-read-1245-22598.html";
+var indexpage = "novel-chapter-1245.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-1245.html">暗算</a></strong>
+<strong><a href="novel-chapter-1245.html">暗算目录</a></strong>
+<span>序曲（4）</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-1245-22596.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>序曲（4）</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-23.html" target="blank">文学小说</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=麦家&amp;searchsubmit=yes"  target="_blank">麦家</a><span class="divide">|</span>发布时间：2015-03-25 22:06:35<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>本书讲述的是特别单位701的故事。<br/><br/>　　“7”是个奇怪的数字，它的气质也许是黑的。黑色肯定不是个美丽的颜色，但肯定也不是世俗之色。它是一种沉重，一种隐秘，一种冲击，一种气愤，一种独立，一种神秘，一点玄想。据我所知，世界上很多国家的一些担负着某些特殊使命的组织似乎都跟“7”有关，如英国的皇家七处，前东德的七局，法国总统的第七顾问，前苏联的克格勃系统的第七研究所，日本的731部队，美国的第七舰队等。说到中国，就是特别单位701，这是我国仿效前苏联克格勃第七研究所而组建的一个情报机构，其性质和任务都是“特别的”，下面有三个“特别的”的业务局：<br/><br/>　　侦听局<br/><br/>　　破译局<br/><br/>　　行动局<br/><br/>　　侦听局主要是负责技术侦听，破译局主要是搞密码破译，行动局当然就是行动，就是走出去搞谍报。侦听，就是听天外之音，无声之音，秘密之音；破译，就是解密，就是要释读天书，看懂无字之书；谍报，就是乔装打扮，深入虎穴，迎风而战。在系统内部，一般把搞侦听的人都称为“听风者”，搞密码破译的人叫做“看风者”，搞谍报的叫做“捕风者”。说到底，搞情报的人都是一群与风打交道的人，只是不同的部门，打交道的方式不同而已。<br/><br/>　　我的两位神秘乡党，其中一位是当时701的一号首长，姓钱，人们当面都喊他叫钱院长，背后则称钱老板；另一位是行动局的一名资深谍报人员，姓吕，早年曾在南京从事过我党地下工作，人称“老地瓜”，就是老地下的意思。两位都是“解放牌”的革命人物，年届花甲，在701，算得上是硕果仅存者。在以后的时间里，我与两位乡党关系渐深，使我有机会慢慢地演变成701的特殊客人，可以上山去“走一走”。<br/><br/>　　山叫五指山，顾名思义，可以想见山的大致构造，像五个手指一样伸在大地上。自然有四条山沟。第一条山沟离县城最近，大约只有二三公里山路，出得山来，就是该县城关镇，一个依山傍山的小山城。这条山沟也是最宽敞的，701的家属院便建在此，院子里有医院、学校、商店、餐馆、招待所、运动场地等，几乎是一个小社会，里面的人员也是相对比较繁杂，进出也是不难的。我后来因为要写这本书，经常来采访，来了往往要在招待所住上几天，几回下来这里有很多人都认识我，因为我老戴墨镜（我自23岁起，右眼被一种叫强光敏感症的病纠缠，在正常的白炽灯光下都要戴墨镜保护），人都喊我叫墨镜记者。<br/><br/>　　后面三条山沟是越来越狭小，就进出的难度言也是越来越大。我曾有幸三次去过第二条山沟，第三条山沟去过两次，而第四条，也就是最里面的山沟，一次都没去过。据说，那里是破译局的地盘，也是整个山上最秘密的地方。行动局是在第二条山沟里的右边，左边是培训中心，是个副局级单位；两个单位如一对翅膀一样依山而扎，呈扇形张开，但左边的扇形明显要比右边大。据说，行动局平时没几个人，他们的人大多“出门在外”。<br/><br/>　　第三条山沟里也有两个单位，一是侦听局，二是701机关，两个单位的分布不同于行动局与培训中心——面对面，相对而立，而是分一前一后，前为701机关，后为侦听局，中间地带属双方共享，都为公用设施，如球场、食堂、卫生所等。<br/><br/>　　因为无乡民进得了山，山上的一切无人糟蹋，年复一年地，现在山上树木郁郁葱葱，鸟兽成群结队，驱车前往，路上经常可以看到飞禽走兽出没。路都是盘山公路，发黑的沥青路面，看上去挺不错的，只是过于狭窄，弯道又多，很考司机的手艺。据说，山体里还有直通的隧道，可以在几个单位之间快速来回。我第二次去侦听局时，曾提议钱院长是不是可以让我走一回隧道，老头子看我一眼，未予理睬，好像我这个要求有点过分了。<br/><br/>　　也许吧。<br/><br/>　　不过，说真的，在我与包括院长在内的701人的接触过程中，我明显感觉到，他们对我的心态是比较复杂的，表面上是害怕我接近他们，骨子里又似乎希望我接近。很难想象，如果只有害怕，我这本书将如何完成。肯定完成不了的。<br/><br/>　　好在还有“希望”。<br/><br/>　　当然，更好在每年还有“解密日”这个特殊的日子。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-1245-22596.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-1245-22598.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-1245.html" action-type="chapterComment" class="comment"><i></i>暗算章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

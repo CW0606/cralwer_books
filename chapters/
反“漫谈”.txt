@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《而已集》正文_反“漫谈”_鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="而已集,而已集原文,而已集阅读,反“漫谈”全文,鲁迅作品" />
+<meta name="description" content="而已集原文阅读,反“漫谈”全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-533-6689.html";
+var nextpage="novel-read-533-6691.html";
+var indexpage = "novel-chapter-533.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-533.html">而已集</a></strong>
+<strong><a href="novel-chapter-533.html">而已集目录</a></strong>
+<span>反“漫谈”</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-533-6689.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>反“漫谈”</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-09-28 20:44:17<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>我一向对于《语丝》没有恭维过，今天熬不住要说几句了：的确可爱。真是《语丝》之所以为《语丝》。<br/>　　像我似的“世故的老人”（2）是已经不行，有时不敢说，有时不愿说，有时不肯说，有时以为无须说。有此工夫，不如吃点心。但《语丝》上却总有人出来发迂论，如《教育漫谈》（3），对教育当局去谈教育，即其一也。<br/>　　“不可与言而与之言”，即是“知其不可为而为之”（4），一定要有这种人，世界才不寂寞。这一点，我是佩服的。但也许因为“世故”作怪罢，不知怎地佩服中总带一些腹诽，还夹几分伤惨。徐先生是我的熟人，所以再三思维，终于决定贡献一点意见。这一种学识，乃是我身做十多年官僚，目睹一打以上总长，这才陆续地获得，轻易是不肯说的。<br/>　　对“教育当局”谈教育的根本误点，是在将这四个字的力点看错了：以为他要来办“教育”。其实不然，大抵是来做“当局”的。<br/>　　这可以用过去的事实证明。因为重在“当局”，所以——<br/>　　一　学校的会计员，可以做教育总长。<br/>　　二　教育总长，可以忽而化为内务总长。<br/>　　三　司法，海军总长，可以兼任教育总长。<br/>　　曾经有一位总长，听说，他的出来就职，是因为某公司要来立案，表决时可以多一个赞成者，所以再作冯妇（5）的。但也有人来和他谈教育。我有时真想将这老实人一把抓出来，即刻勒令他回家陪太太喝茶去。<br/>　　所以：教育当局，十之九是意在“当局”，但有些是意并不在“当局”。<br/>　　这时候，也许有人要问：那么，他为什么有举动呢？<br/>　　我于是勃然大怒道：这就是他在“当局”呀！说得露骨一点，就是“做官”！不然，为什么叫“做”？<br/>　　我得到这一种彻底的学识，也不是容易事，所以难免有一点学者的高傲态度，请徐先生恕之。以下是略述我所以得到这学识的历史——<br/>　　我所目睹的一打以上的总长之中，有两位是喜欢属员上条陈的。于是听话的属员，便纷纷大上其条陈。久而久之，全如石沉大海。我那时还没有现在这么聪明，心里疑惑：莫非这许多条陈一无可取，还是他没有工夫看呢？但回想起来，我“上去”（这是专门术语，小官进去见大官也）的时候，确是常见他正在危坐看条陈；谈话之间，也常听到“我还要看条陈去”，“我昨天晚上看条陈”等类的话。那究竟是怎么一回事呢？<br/>　　有一天，我正从他的条陈桌旁走开，跨出门槛，不知怎的忽蒙圣灵启示，恍然大悟了——<br/>　　哦！原来他的“做官课程表”上，有一项是“看条陈”的。<br/>　　因为要“看”，所以要“条陈”。为什么要“看条陈”？就是“做官”之一部分。如此而已。还有另外的奢望，是我自己的胡涂！<br/>　　“于我来了一道光”，从此以后，我自己觉得颇聪明，近于老官僚了。后来终于被“孤桐先生”革掉，那是另外一回事。<br/>　　“看条陈”和“办教育”，事同一例，都应该只照字面解，倘再有以上或更深的希望或要求，不是书呆子，就是不安分。<br/>　　我还要附加一句警告：倘遇漂亮点的当局，恐怕连“看漫谈”也可以算作他的一种“做”——其名曰“留心教育”——<br/>　　但和“教育”还是没有关系的。<br/>　　九月四日。<br/><br/>　　　　　　　　　 ----------------------------------<br/><br/>　　（1）本篇最初发表于一九二七年十月八日《语丝》周刊第一五二期。<br/>　　（2）“世故的老人”　高长虹谩骂作者的话。<br/>　　（3）《教育漫谈》　原题《教育漫语》，徐祖正（当时北京大学教授）作，载于一九二七年八月十三日、二十日《语丝》第一四四、一四五两期。一九二七年八月，把持北洋政府的奉系军阀张作霖，为了加强对教育界的控制，强行把北京九所国立学校合并为“京师大学”，引起教育界的不满。徐祖正的文章是对这件事发表的议论。<br/>　　（4）“不可与言而与之言”　语见《论语·卫灵公》，是孔丘的话。“知其不可为而为之”，语见《论语·宪问》，是孔丘同时人评论他的话。<br/>　　（5）再作冯妇　《孟子·尽心》：“晋人有冯妇者，善搏虎，卒为善士。则之野，有众逐虎，虎负嵎，莫之敢撄；望见冯妇，趋而迎之。冯妇攘臂下车，众皆悦之；其为士者笑之。”后人称重操旧业为“再作冯妇”，就是根据这个故事。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-533-6689.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-533-6691.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-533.html" action-type="chapterComment" class="comment"><i></i>而已集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

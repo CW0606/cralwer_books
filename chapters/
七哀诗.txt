@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《七哀诗》正文_七哀诗_曹植作品 - 维普阅读网</title>
+<meta name="keywords" content="七哀诗,七哀诗原文,七哀诗阅读,七哀诗全文,曹植作品" />
+<meta name="description" content="七哀诗原文阅读,七哀诗全文在线阅读,曹植作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-499.html";
+var nextpage="novel-chapter-499.html";
+var indexpage = "novel-chapter-499.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-499.html">七哀诗</a></strong>
+<strong><a href="novel-chapter-499.html">七哀诗目录</a></strong>
+<span>七哀诗</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-499.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>七哀诗</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=曹植&amp;searchsubmit=yes"  target="_blank">曹植</a><span class="divide">|</span>发布时间：2014-09-18 20:50:56<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/><br/>　　明月照高楼，流光正徘徊。<br/><br/>　　上有愁思妇，悲叹有余哀。<br/><br/>　　借问叹者谁？云是宕子妻。<br/><br/>　　君行逾十年，孤妾常独栖。<br/><br/>　　君若清路尘，妾若浊水泥。<br/><br/>　　浮沉各异势，会合何时谐？<br/><br/>　　愿为西南风，长逝入君怀。<br/><br/>　　君怀良不开，贱妾当何依？<br/><br/>【注释】<br/><br/>①本篇是闺怨诗，也可能借此“讽君”。<br/>②“清”字形容路上尘，“浊”字　形容水中泥。 二者本是一物，“浮”的就清了，“沉”的就浊了， 比喻夫扫（或兄弟骨肉）本是一体，如今地位（势）不同了。<br/>③逝：往。 <br/><br/>【赏析】<br/><br/>　　这首诗借一个思妇对丈夫的思念和怨根，曲折地吐露了诗人在政治上遭受　打击之后的怨愤心情。诗人自比“宕子妻”，以思妇被遗弃的不幸遭遇来比喻　自己在政治上被排挤的境况，以思妇与丈夫的离异来比喻他和身为皇帝的曹丕　之间的生疏“甚于路人”、“殊于胡越”。诗人有感于兄弟之间“浮沉异势，　不相亲与”，进一步以“清路尘”与“浊水泥”来比喻二人境况悬殊。“愿为　西南风，长逝人君怀”，暗吐出思君报国的衷肠；而“君怀良不开，贱妾当何　依”，则对曹丕的绝情寡义表示愤慨，流露出无限凄惶之感。全诗处处从思妇　的哀怨着笔，句句暗寓诗人的遭际，诗情与寓意浑然无间，意旨含蓄，笔致深　婉，确有“情兼雅怨”的特点。<br/>　　　这首诗的起句与结尾都相当精妙。起句既写实景，又渲染出凄清冷寂的气　氛，笼罩全诗。月照高楼之时，正是相思最切之际，那徘徊徜徉的月光勾起思　妇的缕缕哀思——曹植所创造的“明月”、“高楼”、“思妇”这一组意象，　被后代诗人反复运用来表达闺怨。诗歌结尾，思妇的思念就象那缕飘逝的轻风，　“君怀良不开”，她到哪里去寻找归宿呢？结尾的这缕轻风与开首的那道月光　共同构成了一种幽寂清冷的境界。<br/>　　曹植的诗歌，一般皆以建安为界，分为前后两个时期。前期的曹植正值年少气盛之际，以洋溢的才华令人侧目外，更因此受尽了父亲疼爱。曹操对这个「每见进难问，应声而对」的儿子，是「特见宠爱」 的。於是这个时期的曹植，过的是富贵无忧的公子哥儿的生活，诗歌里也就充满著少年人的雄心壮志及趾高气扬的意味，＜白马篇＞可作代表。而本来凭著出色的天赋与才华，曹植极有可能继承其父的霸业，只可惜他「任性而行，不自雕励，饮酒不节」，终於渐渐使曹操对他丧失信心。相反的，曹植的同父异母的兄长曹丕却自重自持，虽然才华光芒皆稍逊其弟，但曹操考量「文帝御之以术，矫情自饰，宫人左右并为之说，故遂定为嗣」（＜三国志＞）。<br/><br/>　　曹操的逝世，是一代风云的终结，同时也是曹植生命中的转捩点。曹丕继位以后，对这个一度曾是王位准继承者的弟弟十分防备。他不只把曹植分封至京城以外，使他远离政治权力中心，甚至还设了「监国使者」，以防其弟图谋不轨，威胁本身的地位。人们耳熟能详的＜七步诗＞：「煮豆燃豆箕，豆在釜中泣。本是同根生，相煎何太急？」，说的正是曹植在曹丕的胁迫下，所作的一首哀泣骨肉相残的诗歌。这首诗歌真正的渊源不可考究，流传的版本亦有不同，出於曹植之手的可能性也很低，可是从这首诗里，还是得以见出曹丕兄弟间相互争斗猜忌确属事实。<br/><br/>　　曹植满腔抱负无处施展，而手足胞兄对自己处处防范，不禁令曹植心灰意懒。被压制受监视的结果，令他后期所作诗歌多倾向於感伤哀怨一类，而以弃妇自比更是其诗歌的特色之一。除了这首＜七哀＞，其他如＜浮萍篇＞、＜杂诗＞等诗里皆有怨妇形象的运用。怨妇形象的运用，可以追溯至《诗经》。《诗经》里的女性有两种形象，一是窈窕贤淑的美女如＜关雎＞；另一类则是现实中的弃妇，例如＜卫风．氓＞。到了楚辞，女子常常是一种美好的象徵，用来代指美好的品性又或是借喻君主。此后的《古诗十九首》里，怨妇的形象更是运用得很普遍，如＜行行重行行＞、＜青青河畔草＞等，但这里面的思妇怨妇以写实居多。而发展到建安时期，诗文里的女子形象则是真实的弃妇形象与用作托讽的象喻两者兼而有之。曹植这首＜七哀＞里的弃妇，就是用作象喻的。<br/><br/>　　曹植一直是有政治野心、期盼成就丰功事业的，他在＜与杨德祖书＞中就说：「吾虽薄德，位为藩侯，犹应庶几戮力上国，流惠下民，建永世之业，流金石之功，岂徒以翰墨为勋绩、辞赋为君子哉！」。这种致君为国的理想，不仅是曹植个人的志向，同时也是当时整个时代的风气反映。建安时代时局动荡不安，曹操的雄才豪、英伟气势，在当时的建安文士间形成了巨大的影响，带动了一股求取建功立业的风潮。曹植就是如此深受乃父与整个时代风潮的薰染，汲汲渴望能「名编壮士籍」、「捐躯赴国难」（＜白马篇＞）。<br/><br/>　　可是抱著成就功名期盼的臣子，如果不能获得君主的赏识任用，那便全无施展才能抱负之机，没有办法实现自我的价值。这样的君臣关系，就彷佛那个时代全心托靠男性的女子，一朝被夫君离弃，那就是没了依傍的怨妇，失去生存的价值以及生命的重心。曹植此时已自知功名无望，於是将满腔哀怨寄托在和他具备相同情感的怨妇的愁苦里。<br/><br/>　　刘履评＜七哀诗＞道「子建与文帝同母骨肉，今乃浮沉异势，不相亲与，故特以孤妾自喻，而切切哀虑也」 。此话实在总括了＜七哀＞此诗的内容思想。七哀，李冶《古今注》谓人有七情，今哀戚太盛，喜、怒、乐、哀、恶、欲皆无，唯有一哀，故谓之七哀 。这样阐释<br/>七哀题旨的旨意，可说非常确切合适。七情失其六，唯余一哀，这份哀伤弥漫整体，本来应有七情之别如今同为一哀，十分突显了哀伤之厚重。《文选》就将本篇归入哀伤一类，而本诗的确是笼罩在浓浓的哀戚伤痛里。<br/><br/>　　＜七哀＞开头两句用的是托物起兴的手法。明月在中国诗歌传统里，往往起著触发怀想相思的作用 ，比如李白的「举头望明月，低头思故乡」。月光月夜，常常会撩起诗人绵绵不尽的思绪，勾起心中思念怪挂怀的人或事。所以当皎洁的明月照著高楼，清澄的月光如徘徊不止的流水轻轻晃动著，伫立在高楼上登高望远的思妇，在月光的沐浴下伤叹著无尽哀愁。曹植接著采用自问自答的形式，牵引出怨妇幽幽地叙述悲苦的身世，这同时也是曹植牵动了对自己崎岖境遇的感慨。从明月撩动心事到引述内心苦闷，曹植写得流畅自然，不著痕迹，难怪能成为「建安绝唱」 。丈夫外行已经超过十年了，为妻的常常形只影单的一人独处。夫妻本来像尘和泥那般共同一体，如今丈夫却像路上的轻尘，自己则成了水中的浊泥。轻尘浮空飞扬，浊泥却深沉水底，一浮一沉地位迥不相同，什麼时候才能重会和好？曹植於此自比「浊水泥」的弃妇，那麼「清路尘」指的自然是曹丕曹睿了。曹丕继位后不再顾念手足之情，疏远甚至防范著自己的亲弟。曹睿称王时，曹植多次上表上书自试，终究无法获得任用。所以曹植用了浊泥和清尘的远离相互映照，衬托出和兄长侄子形势两异的遥远距离。<br/><br/>　　曹植是多麼盼望著骨肉相谐和好，多麼期盼能在曹丕曹睿身旁效力献功。所以他说但愿能化作一阵西南风，随风重投丈夫，也就是兄长侄子的怀抱。可是丈夫的怀抱若是不开展，曹丕曹睿始终防我疑我，那麼做妻子的我又要依靠谁呢？曹植我「戮力上国，流惠下民，建永世之业，流金石之功」的抱负又如何得能实现呢？<br/><br/>　　人们往往能在外在环境的压迫困窘而激发出潜在的力量，曹植就是。当他意气风发、开朗无忧的时候，只能写些骑马射箭、山明水秀的，到皮不到肉的诗文，大部分没什麼深刻内涵，对后世影响不深。真正为人称道的，反而是后来落魄时迸发出来的火花。当政治上的失意，带给曹植罹难漂泊的愁苦，无所事事的曹植将全副精力、将积累在心中的满腔愤慨一并倾泻出来。所以刘勰才会以「思王以势窘溢价」 ，而司马迁才会认为好的文章「大抵圣贤发愤之所为作也」。<br/><br/>　　而若从亚里斯多德《诗学》的观点来看，悲剧往往能在人的精神上产生一种冲洗的作用，故能给观众得到精神的愉悦和满足。所以曹氏父子中对后世影响最深的，不是领起一代风云的君王曹操曹丕，而是落寞失意的曹植。因为古今有多少文人皆自负具王佐才之能，但往往时势不予而身世飘零，结果反倒以文采著世。这些人的命运和曹植是十分相似的，故他们对曹植多怀抱著同情和认同。这也是为什麼曹植受人推崇之因。王夫之认为曹植的诗是「与人以阶梯」的，而曹丕则是「绝人攀跻」的（《姜斋诗话》），亦是出於这个理由。曹植诗里的哀伤具有一种普遍性，是大多数人所共有的人生经历，因此能引起人们的共鸣。<br/><br/>　　魏晋南北朝是个文人自行自觉的时代，曹丕的反省在於对文体的辨析，而曹植的醒觉，则表现在中国语言文字特色的反省和把握上。 在曹植的诗作里，已逐渐注意诗歌的对偶、铺排和雕饰。＜七哀＞用韵谐和，间用清尘、浊泥作为浮沉异势的两相比照，使得全诗的情感愈加曲折凄婉、含蓄意深。既有《诗经》哀而不伤的庄雅，同时也保留了《古诗十九首》温丽悲远的情调 ，这正是钟嵘《诗品》称其「情兼雅怨」之因。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-499.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-499.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-499.html" action-type="chapterComment" class="comment"><i></i>七哀诗章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

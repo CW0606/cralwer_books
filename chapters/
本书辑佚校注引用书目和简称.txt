@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《东观汉记校注》正文_本书辑佚校注引用书目和简称_刘珍作品 - 维普阅读网</title>
+<meta name="keywords" content="东观汉记校注,东观汉记校注原文,东观汉记校注阅读,本书辑佚校注引用书目和简称全文,刘珍作品" />
+<meta name="description" content="东观汉记校注原文阅读,本书辑佚校注引用书目和简称全文在线阅读,刘珍作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-252-4003.html";
+var nextpage="novel-chapter-252.html";
+var indexpage = "novel-chapter-252.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-252.html">东观汉记校注</a></strong>
+<strong><a href="novel-chapter-252.html">东观汉记校注目录</a></strong>
+<span>本书辑佚校注引用书目和简称</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-252-4003.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>本书辑佚校注引用书目和简称</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=刘珍&amp;searchsubmit=yes"  target="_blank">刘珍</a><span class="divide">|</span>发布时间：2014-08-26 20:40:40<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>东观汉记　简称姚本　清姚之駰辑　柏筠书屋后汉书补逸本东观汉记　简称聚珍本　清乾隆四库全书馆馆臣辑　武英殿聚珍本易　中华书局出版十三经注疏本尚书　中华书局出版十三经注疏本诗　中华书局出版十三经注疏本诗义会通　吴闓生撰　中华书局出版周礼　中华书局出版十三经注疏本礼记　中华书局出版十三经注疏本春秋左传　中华书局出版十三经注疏本春秋公羊传　中华书局出版十三经注疏本论语　中华书局出版十三经注疏本孝经　中华书局出版十三经注疏本尔雅　中华书局出版十三经注疏本说文解字　简称说文　汉许慎撰　中华书局影印本方言　汉扬雄撰　科学出版社出版周祖谟校本释名　汉刘熙撰　经训堂丛书毕元疏证本匡谬正俗　唐颜师古撰　清光绪三年湖北崇文书局刻本广韵　宋陈彭年等撰　中华书局出版周祖谟校本史记　汉司马迁撰　中华书局标点校勘本汉书　汉班固撰　中华书局标点校勘本后汉书　南朝宋范晔撰　中华书局标点校勘本后汉书补注　清惠栋撰　粤雅堂丛书本后汉书辨疑　清钱大昭撰　广雅书局丛书本后汉书集解　清王先谦撰　商务印书馆国学基本丛书本后汉书　吴谢承撰　清汪文台七家后汉书辑本后汉书　晋薛莹撰　清汪文台七家后汉书辑本续汉书　晋司马彪撰　清汪文台七家后汉书辑本续汉书八志　晋司马彪撰　中华书局标点校勘本后汉书　晋华峤撰　清汪文台七家后汉书辑本后汉书　晋谢沉撰　清汪文台七家后汉书辑本后汉书　晋袁山松撰　清汪文台七家后汉书辑本汉记　晋张璠撰　清汪文台七家后汉书辑本后汉纪　晋袁宏撰　清光绪述古堂刻本补后汉书年表　宋熊方撰　收入中华书局出版后汉书三国志补表三十种中<br/><br/>　　三国志　晋陈寿撰　中华书局标点校勘本宋书　南朝梁沉约撰　中华书局标点校勘本隋书　唐魏徵等撰　中华书局标点校勘本资治通鑑　简称通鑑　宋司马光撰　中华书局标点校勘本逸周书　抱经堂校定本国语　上海古籍出版社排印本列子　中华书局出版杨伯峻集释本吕氏春秋　学林出版社出版陈奇猷校释本淮南子　汉刘安撰　清光绪浙江书局刻本新书　汉贾谊撰　广汉魏丛书本新序　汉刘向撰　四部丛刊本说苑　汉刘向撰　四部丛刊本列女传　汉刘向撰　四部丛刊本白虎通义　汉班固撰　皇清经解续编陈立疏证本论衡　汉王充撰　商务印书馆出版黄晖校释本独断　汉蔡邕撰　四部丛刊本风俗通义　汉应劭撰　天津人民出版社出版吴树平校释本汉官仪　汉应劭撰　平津馆丛书本蔡中郎文集　汉蔡邕撰　四部丛刊本拾遗记　符秦王嘉撰　古今逸史本高士传　晋皇甫谧撰　四部备要本华阳国志　晋常璩撰　四部丛刊本古今注　晋崔豹撰　丛书集成本世说新语　南朝宋刘义庆撰　中华书局出版余嘉锡笺疏本文选　南朝梁萧统编　中华书局影印胡克家本水经注　北魏郦道元撰　台湾中华书局出版杨熊合撰水经注疏本洛阳伽蓝记　北魏杨衒之撰　古典文学出版社出版范祥雍校注本齐民要术　北魏贾思勰撰　农业出版社出版缪启愉校释本新论　北齐刘昼撰　汉魏丛书本史通　唐刘知几撰　上海古籍出版社出版王煦华标点校勘清浦起龙注本<br/><br/>　　稽瑞　唐刘赓撰　后知不足斋丛书本岁华纪丽　唐韩鄂撰　学津讨原本史略　宋高似孙撰　四明丛书本太平环宇记　宋乐史撰　四库全书本急就篇补注　宋王应麟撰　玉海本姓氏急就篇　宋王应麟撰　玉海本通鑑地理通释　宋王应麟撰　玉海本汉艺文志考证　宋王应麟撰　玉海本汉制考　宋王应麟撰　玉海本学斋佔毕　宋史绳祖撰　百川学海本学林　宋王观国撰　武英殿聚珍本杜工部草堂诗笺　宋鲁訔编　蔡梦弼会笺　古逸丛书本东汉会要　宋徐天麟撰　上海古籍出版社排印本汉鼓吹铙歌曲句解　清庄述祖撰　珍埶宧遗书本天禄识馀　清高士奇撰　说铃本一切经音义　唐玄应　海山仙馆丛书本华严经音义　唐慧苑撰　守山阁丛书本玉烛宝典　隋杜台卿撰　古逸丛书本编珠　隋杜公瞻撰　四库全书本北堂书钞　简称书钞　唐虞世南撰　清万卷堂刻孔广陶校注本　对以下各本亦曾引校：<br/><br/>　　明陈禹谟刻本　徐氏明抄本（北京图书馆藏）　路子复藏明抄本（北京大学图书馆藏）五川居士藏明抄本（北京图书馆藏）　傅增湘藏明抄本（重庆图书馆藏）　严可均藏明黑格抄本（上海图书馆藏）　姚觐元集福怀俭斋活字本（北京图书馆藏）　清四录堂抄本（北京大学图书馆藏）　蒋光焴清抄本（北京图书馆藏）<br/><br/>　　艺文类聚　简称类聚　唐欧阳询等撰　上海古籍出版社出版初学记　唐徐坚等撰　中华书局排印本白孔六帖　简称六帖　唐白居易、宋孔传撰　明嘉靖刻本（北京图书馆藏）<br/><br/>　　太平御览　简称御览　宋李昉等撰　中华书局影印宋本事类赋　宋吴淑撰　冀勤、马蓉、王秀梅点校稿本　即将由中华书局出版<br/><br/>　　事物纪原　宋高承撰　惜阴轩丛书本书叙指南　宋任广撰　惜阴轩丛书本海录碎事　宋叶廷珪撰　明卓显卿校刻本（北京图书馆藏）锦绣万花谷　简称万花谷　宋佚名撰　明刻本（北京图书馆藏）事文类聚　宋祝穆撰　清乾隆积秀堂刻本记纂渊海　宋潘自牧撰　明万曆七年刻本（北京图书馆藏）山堂先生群书考索　宋章如愚撰　元刻本（北京大学图书馆藏）古今合璧事类备要　简称合璧事类　宋谢维新撰　明嘉靖刻本（北京大学图书馆藏）<br/><br/>　　玉海　宋王应麟撰　清光绪十年成都志古堂刻本翰苑新书　宋佚名撰　铁琴铜剑楼影抄本（北京图书馆藏）晏元献公类要　宋晏殊辑　抄本（北京图书馆藏）重刊增广分门类林杂说　金王寿朋撰　影大定本（北京图书馆藏）永乐大典　中华书局影印本唐类函　明俞安期编　四库全书本（北京图书馆藏）续编珠　清高士奇撰　四库全书本（北京图书馆藏）鸣沙石室古籍丛残　罗振玉辑　民国六年上虞罗氏影印本笺注倭名类聚抄　狩谷棭斋撰　明治十六年活字刷印本四库全书考证　清王太岳等撰　丛书集成本四库提要辨证　余嘉锡撰　中华书局出版金石录　宋赵明诚撰　四库全书本隶释　宋洪适撰　四库全书本隶续　宋洪适撰　四库全书本希古楼金石萃编　刘承干辑　吴兴刘氏希古楼刻本<br/><br/>　　金石录　宋赵明诚撰　四库全书本隶释　宋洪适撰　四库全书本隶续　宋洪适撰　四库全书本希古楼金石萃编　刘承干辑　吴兴刘氏希古楼刻本 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-252-4003.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-252.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-252.html" action-type="chapterComment" class="comment"><i></i>东观汉记校注章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

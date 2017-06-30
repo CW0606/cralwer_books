@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《灵枢》正文_玉版第六十_黄帝作品 - 维普阅读网</title>
+<meta name="keywords" content="灵枢,灵枢原文,灵枢阅读,玉版第六十全文,黄帝作品" />
+<meta name="description" content="灵枢原文阅读,玉版第六十全文在线阅读,黄帝作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-268-4719.html";
+var nextpage="novel-read-268-4721.html";
+var indexpage = "novel-chapter-268.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-268.html">灵枢</a></strong>
+<strong><a href="novel-chapter-268.html">灵枢目录</a></strong>
+<span>玉版第六十</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-268-4719.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>玉版第六十</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=黄帝&amp;searchsubmit=yes"  target="_blank">黄帝</a><span class="divide">|</span>发布时间：2014-08-30 22:23:20<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>黄帝曰：余以小针为细物也，夫子乃言上合之于天，下合之于地，中合之于人，余以为过针之意矣，愿闻其故。岐伯曰：何物大于天乎？夫大于针者，惟五兵者焉。五兵者，死之备也，非生之具。且夫人者，天地之镇也，其不可不参乎？夫治民者，亦唯针焉。夫针之与五兵，其孰小乎？<br/>　　　 黄帝曰：病之生时，有喜怒不测，饮食不节，阴气不足，阳气有余，营气不行，乃发为痈疽。阴阳不通，两热相搏，乃化为脓，小针能取之乎？岐伯曰：圣人不能使化者，为之，邪不可留也。放两军相当，旗帜相望，白刃陈于中野者，此非一日之谋也。能使其民，令行禁止，士卒无白刃之难者，非一日之教也，须臾之得也。夫至使身被痈疽之病，脓血之聚者，不亦离道远乎。夫痈疽之生，脓血之成也，不从天下，不从地出，积微之所生也。故圣人自治于未有形也，愚者遭其已成也。黄帝曰：其已形，不予遭，脓已成，不予见，为之奈何？岐伯曰：脓已成，十死一生，故圣人弗使已成，而明为良方，着之竹帛，使能者踵而传之后世，无有终时者，为其不予遭也。黄帝曰：其已有脓血而后遭乎，不导之以小针治乎？岐伯曰：以小治小者其功小，以大治大者多害，故其已成脓血者，其唯砭石铍锋之所取也。<br/>　　　 黄帝曰：多害者其不可全乎？岐伯曰：其在逆顺焉。黄帝曰：愿闻逆顺。岐伯曰：已为伤者，其白眼青、黑眼小，是一逆也；内药而呕者，是二逆也；腹痛渴甚，是三逆也；肩项中不便，是四逆也；音嘶色脱，是五逆也。除此五者为顺矣。<br/>　　　 黄帝曰：请病皆有逆顺，可得闻乎？岐伯曰：腹胀，身热，脉大，是一逆也；腹鸣而满，四肢清，泄，其脉大，是二逆也；衄血不止，脉大，是三逆也；咳且溲血脱形，其脉小劲，是四逆也；咳，脱形身热，脉小以疾，是谓五逆也。如是者，不过十五日而死矣。其腹大胀，四末清，脱形，泄甚，是一逆也；腹胀便血，其脉大，时绝，是二逆也；咳，溲血，形肉脱，脉搏，是三逆也；呕血，胸满引背，脉小而疾，是四逆也；咳呕腹胀，且飧泄，其脉绝，是五逆也。如是者，不及一时而死矣。工不察此者而刺之，是谓逆治。<br/>　　　 黄帝曰：夫子之言针甚骏，以配天地，上数天文，下度地纪，内别五藏，外次六府，经脉二十八会，尽有周纪，能杀生人，不能起死者，子能反之乎？岐伯曰：能杀生人，不能起死者也。黄帝曰：余闻之则为不仁，然愿闻其道，弗行于人。岐伯曰：是明道也，其必然也。其如刀剑之可以杀人，如饮酒使人醉也，虽勿诊，犹可知矣。黄帝曰：愿卒闻之。岐伯曰：人之所受气者，谷也。谷之所注者，胃也。胃者，水谷气血之海也。海之所行云气者，天下也。胃之所出气血者，经隧也。经隧者，五藏六府之大络也，迎而夺之而已矣。黄帝曰：上下有数乎？岐伯曰：迎之五里，中道而止，五至而已，五往而藏之气尽矣。故五五二十五，而竭其输矣，此所谓夺其天气者也，非能绝其命而倾其寿者也。黄帝曰：愿卒闻之。岐伯曰：窥门而刺之者，死于家中；入门而刺之者，死于堂上。黄帝曰：善乎方！明哉道！请着之玉版，以为重宝，传之后世，以为刺禁，令民勿敢犯也。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-268-4719.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-268-4721.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-268.html" action-type="chapterComment" class="comment"><i></i>灵枢章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

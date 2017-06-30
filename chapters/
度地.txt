@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《管子》正文_度地_管仲作品 - 维普阅读网</title>
+<meta name="keywords" content="管子,管子原文,管子阅读,度地全文,管仲作品" />
+<meta name="description" content="管子原文阅读,度地全文在线阅读,管仲作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-43-1171.html";
+var nextpage="novel-read-43-1173.html";
+var indexpage = "novel-chapter-43.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-43.html">管子</a></strong>
+<strong><a href="novel-chapter-43.html">管子目录</a></strong>
+<span>度地</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-43-1171.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>度地</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=管仲&amp;searchsubmit=yes"  target="_blank">管仲</a><span class="divide">|</span>发布时间：2014-07-24 21:00:34<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　昔者，桓公问管仲曰：“寡人请问度地形而为国者，其何如而可？”管仲对曰：“夷吾之所闻，能为霸王者，盖天子圣人也。故圣人之处国者，必于不倾之地，而择地形之肥饶者。乡山，左右经水若泽。内为落渠之写，因大川而注焉。乃以其天材、地之所生，利养其人，以育六畜。天下之人，皆归其德而惠其义。乃别制断之，州者谓之术，不满术者谓之里。故百家为里，里十为术，术十为州，州十为都，都十为霸国。不如霸国者，国也。以奉天子，天子有万诸侯也，其中有公侯伯子男焉。天子中而处，此谓因天之固，归地之利。内为之城，城外为之郭，郭外为之土阆，地高则沟之，下则堤之，命之曰金城。树以荆棘，上相穑著者，所以为固也。岁修增而毋已，时修增而毋已，福及孙子，此谓人命万世无穷之利，人君之葆守也。臣服之以尽忠于君，君体有之以临天下，故能为天下之民先也。此宰之任，则臣之义也。故善为国者，必先除其五害，人乃终身无患害而孝慈焉。”<br/><br/>　　桓公曰：“愿闻五害之说。”管仲对曰：“水，一害也；旱，一害也；风雾雹霜，一害也；厉，一害也；虫，一害也。此谓五害。五害之属，水最为大。五害已除，人乃可治。”桓公曰，“愿闻水害。”管仲对曰：“水有大小，又有远近。水之出于山，而流入于海者，命曰经水；水别于他水，入于大水及海者，命曰枝水；山之沟，一有水一毋水者，命曰谷水；水之出于他水沟，流于大水及海者，命曰川水；出地而不流者，命曰渊水。此五水者，因其利而往之可也，因而扼之可也，而不久常有危殆矣。”桓公曰：“水可扼而使东西南北及高乎？”管仲对曰：“可。夫水之性，以高走下则疾，至于�石；而下向高，即留而不行，故高其上。领瓴之，尺有十分之三，里满四十九者，水可走也。乃迂其道而远之，以势行之。水之性，行至曲必留退，满则后推前，地下则平行，地高即控，杜曲则捣毁。杜曲激则跃，跃则倚，倚则环，环则中，中则涵，涵则塞，塞则移，移则控，控则水妄行；水妄行则伤人，伤人则困，困则轻法，轻法则难治，难治则不孝，不孝则不臣矣。故五害之属，伤杀之类，祸福同矣。知备此五者，人君天地矣。”<br/><br/>　　桓公曰：“请问备五害之道？”管子对曰：“请除五害之说，以水为始。请为置水官，令习水者为吏：大夫、大夫佐各一人，率部校长、官佐各财足。乃取水左右各一人，使为都匠水工。令之行水道、城郭、堤川、沟池、官府、寺舍及州中，当缮治者，给卒财足。令曰：常以秋岁末之时，阅其民，案家人比地，定什伍口数，别男女大小。其不为用者辄免之，有锢病不可作者疾之，可省作者半事之。并行以定甲士，当被兵之数，上其都。都以临下，视有余不足之处，辄下水官。水官亦以甲士当被兵之数，与三老、里有司、伍长行里，因父母案行。阅具备水之器，以冬无事之时。笼、臿、板、筑，各什六，土车什一，雨輂什二。食器两具，人有之，铜藏里中，以给丧器。后常令水官吏与都匠，因三老、里有司、伍长案行之。常以朔日始，出具阅之，取完坚，补弊久，去苦恶。常以冬少事之时，令甲士以更次益薪，积之水旁。州大夫将之，唯毋后时。其积薪也，以事之已；其作土也，以事未起。天地和调，日有长久，以此观之，其利百倍。故常以毋事具器，有事用之，水常可制，而使毋败。此谓素有备而豫具者也。”<br/><br/>　　桓公曰：“当何时作之？”管子曰：“春三月，天地乾燥，水纠列之时也。山川涸落，天气下，地气上，万物交通。故事已，新事未起，草木荑生可食。寒暑调，日夜分，分之后，夜日益短，昼日益长。利以作土功之事，土乃益刚。令甲士作堤大水之旁，大其下，小其上，随水而行。地有不生草者，必为之囊。大者为之堤，小者为之防，夹水四道，禾稼不伤。岁埤增之，树以荆棘，以固其地，杂之以柏杨，以备决水。民得其饶，是谓流膏，令下贫守之，往往而为界，可以毋败。当夏三月，天地气壮，大暑至，万物荣华，利以疾�杀草薉，使令不欲扰，命曰不长。不利作土功之事，放农焉，利皆耗十分之五，土功不成。当秋三月，山川百泉踊，下雨降，山水出，海路距，雨露属，天地凑汐。利以疾作，收敛毋留，一日把，百日餔。民毋男女，皆行于野。不利作土功之事，濡湿日生，土弱难成。利耗什分之六，土工之事亦不立。当冬三月，天地闭藏，暑雨止，大寒起，万物实熟。利以填塞空郄，缮边城，涂郭术，平度量，正权衡，虚牢狱，实廥仓，君修乐，与神明相望。凡一年之事毕矣，举有功，赏贤，罚有罪，迁有司之吏而第之。不利作土工之事，利耗什分之七，土刚不立。昼日益短，而夜日益长，利以作室，不利以作堂。四时以得，四害皆服。”<br/><br/>　　桓公曰：“寡人悖，不知四害之服奈何？”管仲对曰：“冬作土功，发地藏，则夏多暴雨，秋霖不止。春不收枯骨朽脊，伐枯木而去之，则夏旱至矣。夏有大露原烟，噎下百草，人采食之伤人。人多疾病而不止、民乃恐殆。君令五官之吏，与三老、里有司、伍长行里顺之，令之家起火为温，其田及宫中皆盖井，毋令毒下及食器，将饮伤人。有下虫伤禾稼。凡天灾害之下也，君子谨避之，故不八九死也。大寒、大暑、大风、大雨，其至不时者，此谓四刑。或遇以死，或遇以生，君子避之，是亦伤人。故吏者所以教顺也，三老、里有司、伍长者，所以为率也。五者已具，民无愿者，愿其毕也：故常以冬日顺三老、里有司、伍长，以冬赏罚，使各应其赏而服其罚。五者不可害，则君之法犯矣。此示民而易见，故民不比也。”<br/><br/>　　桓公曰：“凡一年之中十二月，作土功，有时则为之，非其时而败，将何以待之？”管仲对曰：“常令水官之吏，冬时行堤防，可治者章而上之都。都以春少事作之。已作之后，常案行。堤有毁作，大雨，各葆其所，可治者趣治，以徒隶给。大雨，堤防可衣者衣之。冲水，可据者据之。终岁以毋败为固。此谓备之常时，祸何从来？所以然者，独水蒙壤，自塞而行者，江河之谓也。岁高其堤，所以不没也。春冬取土于中，秋夏取土于外，浊水入之不能为败。”桓公曰：“善。仲父之语寡人毕矣，然则寡人何事乎哉？亟为寡人教侧臣。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-43-1171.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-43-1173.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-43.html" action-type="chapterComment" class="comment"><i></i>管子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

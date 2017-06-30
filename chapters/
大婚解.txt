@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《孔子家语》正文_大婚解_王肃作品 - 维普阅读网</title>
+<meta name="keywords" content="孔子家语,孔子家语原文,孔子家语阅读,大婚解全文,王肃作品" />
+<meta name="description" content="孔子家语原文阅读,大婚解全文在线阅读,王肃作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-349-5169.html";
+var nextpage="novel-read-349-5171.html";
+var indexpage = "novel-chapter-349.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-349.html">孔子家语</a></strong>
+<strong><a href="novel-chapter-349.html">孔子家语目录</a></strong>
+<span>大婚解</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-349-5169.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>大婚解</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=王肃&amp;searchsubmit=yes"  target="_blank">王肃</a><span class="divide">|</span>发布时间：2014-09-05 21:36:25<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>孔子侍坐于哀公。公问曰：“敢问人道孰为大？”孔子愀然作色而对曰：“君及此言也，百姓之惠也，固臣敢无辞而对。人道，政为大。夫政者，正也。君为正，则百姓从而正矣。君之所为，百姓之所从。君不为正，百姓何所从乎！”公曰：“敢问为政如之何？”孔子对曰：“夫妇别、男女亲、君臣信，三者正，则庶物从之。”公曰：“寡人虽无能也，愿知所以行三者之道，可得闻乎？”孔子对曰：“古之政爱人为大，所以治。爱人礼为大，所以治。礼，敬为大。敬之至矣，大婚为大。大婚至矣，冕而亲迎，亲迎者，敬之也。是故君子兴敬为亲，舍敬则是遗亲也。弗亲弗敬，弗尊也。爱与敬，其政之本与。”公曰：“寡人愿有言也。然冕而亲迎，不已重乎？”孔子愀然作色而对曰：“合二姓之好，以继先圣之后，以为天下宗庙社稷之主，君何谓已重焉”？鲁周公之后得郊天故言以为天下之主也公曰：“寡人实固，鄙陋不固安得闻此言乎！寡人欲问，不能为辞，请少进。”孔子曰：“天地不合，万物不生，大婚，万世之嗣也，君何谓已重焉？”孔子遂言曰：“内以治宗庙之礼，足以配天地之神，言宗庙天地神之次出以治直言之礼，以立上下之敬，夫妇正则始可以治正言礼矣身正然可以正人者也物耻、则足以振之，耻事不知礼足以振救之国耻、足以兴之，耻国不知足以兴起者也故为政先乎礼，礼其政之本与。”孔子遂言曰：“昔三代明王，必敬妻子也，盖有道焉。妻也者，亲之主也，子也者，亲之后也，敢不敬与。是故君子无不敬，敬也者，敬身为大。身也者，亲之支也，敢不敬与。不敬其身，是伤其亲。伤其亲，是伤本也。伤其本，则支从之而亡。三者，百姓之象也。言百姓之所法而行身以及身，子以及子，妃以及妃，君以修此三者，则大化忾乎天下矣。气满昔太王之道也，太王出亦姜女入亦姜女国无鳏民爱其身以及人之身爱其子以及人之子故曰太王之道如此国家顺矣。”公曰：“敢问何谓敬身？”孔子对曰：“君子过言则民作辞，过行则民作则，言不过辞，动不过则，百姓恭敬以从命，若是，则可谓能敬其身，则能成其亲矣。”公曰：“何谓成其亲？”孔子对曰：“君子者也，人之成名也，百姓与名，谓之君子，则是成其亲，为君而为其子也。”孔子遂言曰：“爱政而不能爱人，则不能成其身。不能成其身，则不能安其土。不能安其土，则不能乐天。”天道也公曰：“敢问何能成身？”孔子对曰：“夫其行已不过乎物，谓之成身，不过乎，合天道也。”公曰：“君子何贵乎天道也？”孔子曰：“贵其不已也。如日月东西相从而不已也，是天道也。不闭而能久，不闭常通而能久言无极是天道也。无为而物成，是天道也。已成而明之，是天道也。”公曰：“寡人且愚●，言惷愚●暗也幸烦子之于心。”欲烦孔子议识其心所能行也孔子蹴然避席而对曰：“仁人不过乎物，孝子不过乎亲。是故仁人之事亲也如事天，事天如事亲，此谓孝子成身。”公曰：“寡人既闻如此言，无如后罪何？”孔子对曰：“君子及此言，是臣之福也。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-349-5169.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-349-5171.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-349.html" action-type="chapterComment" class="comment"><i></i>孔子家语章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

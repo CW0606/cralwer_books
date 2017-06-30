@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《答客难》正文_答客难_东方朔作品 - 维普阅读网</title>
+<meta name="keywords" content="答客难,答客难原文,答客难阅读,答客难全文,东方朔作品" />
+<meta name="description" content="答客难原文阅读,答客难全文在线阅读,东方朔作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-291.html";
+var nextpage="novel-chapter-291.html";
+var indexpage = "novel-chapter-291.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-291.html">答客难</a></strong>
+<strong><a href="novel-chapter-291.html">答客难目录</a></strong>
+<span>答客难</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-291.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>答客难</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-19.html" target="blank">古代诗词</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=东方朔&amp;searchsubmit=yes"  target="_blank">东方朔</a><span class="divide">|</span>发布时间：2014-09-01 21:08:04<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>【原文】<br/><br/>　　客难东方朔曰：“苏秦、张仪一当万乘之主，而身都卿相之位，泽及后世。今子大夫修先王之术，慕圣人之义，讽诵书百家之言，不可胜记，著于竹帛；唇腐齿落，服膺而不可释，好学乐道之效，明白甚矣；自以为智能海内无双，则可谓博闻辩智矣。然悉力尽忠，以事圣帝，旷日持久，积数十年，官不过侍郎，位不过执戟。意者尚有遗行邪？同胞之徒，无所容居，其故何也？”<br/><br/>　　东方先生喟然长息，仰而应之曰：“是故非子之所能备。彼一时也，此一时也，岂可同哉？夫苏秦、张仪之时，周室大坏，诸侯不朝，力政争权，相擒以兵，并为十二国，未有雌雄。得士者强，失士者亡，故说得行焉。身处尊位，珍宝充内，外有仓麋，泽及后世，子孙长享。今则不然：圣帝德流，天下震慑，诸侯宾服，连四海之外以为带，安于覆盂；天下平均，合为一家，动发举事，犹运之掌，贤与不肖何以异哉？遵天之道，顺地之理，物无不得其所；故绥之则安，动之则苦；尊之则为将，卑之则为虏；抗之则在青云之上，抑之则在深渊之下；用之则为虎，不用则为鼠；虽欲尽节效情，安知前后？夫天地之大，士民之众，竭精驰说，并进辐凑者，不可胜数；悉力慕之，困于衣食，或失门户。使苏秦、张仪与仆并生于今之世，曾不得掌故，安敢望侍郎乎！传曰：‘天下无害，虽有圣人，无所施才；上下和同，虽有贤者，无所立功。’故曰：时异事异。<br/><br/>　　“虽然，安可以不务修身乎哉！《诗》曰：‘鼓钟于宫，声闻于外。’‘鹤鸣九皋，声闻于天’。苟能修身，何患不荣！太公体行仁义，七十有二，乃设用于文武，得信厥说。封于齐，七百岁而不绝。此士所以日夜孳孳，修学敏行，而不敢怠也。譬若鹡鸰，飞且鸣矣。传曰：‘天不为人之恶寒而辍其冬，地不为人之恶险而辍其广，君子不为小人之匈匈而易其行。’‘天有常度，地有常形，君子有常行；君子道其常，小人计其功。”诗云：‘礼义之不愆，何恤人之言？’水至清则无鱼，人至察则无徒；冕而前旒，所以蔽明；黈纩充耳，所以塞聪。明有所不见，聪有所不闻，举大德，赦小过，无求备于一人之义也。枉而直之，使自得之；优而柔之，使自求之；揆而度之，使自索之。盖圣人之教化如此，欲其自得之；自得之，则敏且广矣。<br/><br/>　　“今世之处士，时虽不用，块然无徒，廓然独居；上观许山，下察接舆；计同范蠡，忠合子胥；天下和平，与义相扶，寡偶少徒，固其宜也。子何疑于予哉？若大燕之用乐毅，秦之任李斯，郦食其之下齐，说行如流，曲从如环；所欲必得，功若丘山；海内定，国家安；是遇其时者也，子又何怪之邪？语曰：‘以管窥天，以蠡测海，以筵撞钟，’岂能通其条贯，考其文理，发其音声哉？犹是观之，譬由鼱鼩之袭狗，孤豚之咋虎，至则靡耳，何功之有？今以下愚而非处士，虽欲勿困，固不得已，此适足以明其不知权变，而终惑于大道也。”<br/><br/>　　【译文】<br/><br/>　　有人诘难东方朔道：“苏秦、张仪一旦遇上万乘之主，就能身居卿相之位，泽及后世。如今你修习先王之术，仰慕圣人之义，诵读《诗经》.《尚书》.诸子百家的典籍，不可胜数。甚至将它们写于竹帛上.以致唇腐齿落，烂熟于胸而不能忘怀。好学乐道的效果，是很明显的了；自以为才智海内无双，可谓博闻强辩了。然而尽心竭力.旷日持久地侍奉圣明的君主，结果却是官不过侍郎，位不过执戟（按：韩信谢绝项羽派来的说客时说：“臣事项王，官不过郎中，位不过执戟），恐怕还是品德上有不足之处吧？连同胞兄弟都无处容身，这是何缘故呢？”东方朔喟然长叹，仰面回应道：“这不是你能完全理解的啊。此一时，彼一时也，岂能一概而论呢？想那苏秦.张仪所处的时代，周室衰微，诸侯不朝，争权夺利，兵革相战，兼并为十二国，难分雌雄。得士者强，失士者亡，所以游说之风大行于世。他们身处尊位，内充珍宝，外有粮仓，泽及后世，子孙长享。如今则不然：圣主德泽流布，天下震慑，诸侯宾服。四海相连如同腰带，天下安稳得像倒扣的痰盂。一举一动尽在掌握，贤与不贤如何区分呢？遵天之道，顺地之理，万物皆得其所。所以抚慰他就安宁，折腾他就痛苦。尊崇他可以为将领，贬斥他可以为俘虏。提拔他可在青云之上，抑制他则在深泉之下。任用他可为老虎，不用他则为老鼠。虽然做臣子的想尽忠效力，但又怎知道进退得宜呢？天地之大，士民众多，竭尽全力去游说的人就像车轮的辐条齐聚车轴一样，多得不可胜数，被衣食所困，找不到晋身之阶。即使苏秦.张仪与我并存于当世，也当不上掌故那样的小吏，还敢期望成为侍郎吗？所以说时异事异呀。<br/><br/>　　虽然如此，又怎么可以不加强自身的修养呢？《诗经》上说：“室内鸣钟，声闻于外，鹤鸣于高地，声闻于天。如果真能修身，何患不荣耀！姜子牙践行仁义，七十二岁见用于文、武二王，终于得以实践他的学说，受封于齐，七百年不绝于祀。这就是士人日夜孜孜不倦，勉力而行不敢懈怠的原因呀。就好像那鹡鸰鸟，边飞翔边鸣叫。《左传》中说：上天不会因为人们害怕寒冷而使冬天消失，大地不会因为人们厌恶险峻而停止其广大。君子不会因为小人的喧嚣而改变自己的品行。天有常度，地有常形，君子有常行。君子走正道，小人谋私利。《诗经》说：礼义上没有过失，何必在乎人们议论呢？所以说：水至清则无鱼，人至察则无徒。冠冕前有玉旒，是用来遮蔽视线，丝棉塞耳，是为了减弱听觉。视力敏锐却有所不见，听力灵敏却有所不闻。扬大德，赦小过，不要对人求全责备。弯曲的再直起，但应让他自己去得到。宽舒进而柔和，但应让他自己去求取。揆情度理，应该让他自己去摸索。大概圣人的教化就是如此，想要自己通过努力得到它；得到后，则会聪敏而广大。<br/><br/>　　当今之贤士，才高无友，寂然独居。上观许由，下视接舆，谋似范蠡，忠类子胥。天下太平之时，与义相符，寡合少友，是理所应当的事情，您对我又有什么可怀疑的呢？至于燕用乐毅为将，秦任李斯为相，郦食其说降齐王，游说如流水，纳谏如转环，所欲必得，功如高山，海内稳定，国家安宁，这是他们遇上了好时势呀。您又何必感到奇怪呢？俗话说，如果以管窥天，以瓢量海，以草撞钟，又怎么能通晓规律、考究原理、发出音响呢？由是观之，就像耗子袭击狗，小猪咬老虎，只会失败，能有什么功效呢？现在就凭你这样愚钝的人来非难我，要想不受窘，那是不可能的。这足以说明不知通权达变的人终究不能明白真理呀。”</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-291.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-chapter-291.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-291.html" action-type="chapterComment" class="comment"><i></i>答客难章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

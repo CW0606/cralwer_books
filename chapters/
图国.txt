@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《吴子》正文_图国_吴起作品 - 维普阅读网</title>
+<meta name="keywords" content="吴子,吴子原文,吴子阅读,图国全文,吴起作品" />
+<meta name="description" content="吴子原文阅读,图国全文在线阅读,吴起作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-chapter-42.html";
+var nextpage="novel-read-42-1110.html";
+var indexpage = "novel-chapter-42.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-42.html">吴子</a></strong>
+<strong><a href="novel-chapter-42.html">吴子目录</a></strong>
+<span>图国</span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-chapter-42.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>图国</strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-17.html" target="blank">古典名著</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=吴起&amp;searchsubmit=yes"  target="_blank">吴起</a><span class="divide">|</span>发布时间：2014-07-24 20:36:07<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　吴起儒服，以兵机见魏文侯。文侯曰：“寡人不好军旅之事。”起曰：“臣以见占隐，以往察来，主君何言与心违？今君四时，使斩离皮革，掩以朱漆，画以丹青，炼以犀象，冬日衣之则不温，夏日衣之则不凉。为长戟二丈四尺，短戟一丈二尺。革车掩户，缦轮笼毂，观之于目则不丽，乘之于国则不轻，不识主君安用此也？若以备进战退守，而不求能用者，譬犹伏鸡之搏狸，乳犬之犯虎，虽有斗心，随之死矣。昔承桑氏之君，修德废武，以灭其国。有扈氏之君，恃众好勇，以丧其社稷。明主鉴兹，必内修文德，外治武备。故当敌而不进，无逮于义矣。僵尸而哀之，无逮于仁矣。”<br/>　　于是文侯身自布席，夫人捧觞，醮吴起于庙，立为大将崇西河。与诸侯大战七十六，全胜六十四，馀则钧解。辟土四面，拓地千里，皆起之功也。<br/>　　吴子曰：“昔之图国家者，必先教百姓而亲万民。有四不和：不和于国，不可以出军；不和于军，不可以出陈；不和于陈，不可以进战；不和于战，不可以决胜。是以道之主，将用其民，先和而造大事。不敢信其私谋，必告于祖庙，启于元龟，参之天时，吉乃后举。民知爱其命，惜其死，若此之至，而与之临难，则士以进死为荣，退生为辱矣。”<br/>　　吴子曰：“夫道者，所以反本复始；义者，所以行事立功；谋者，所以违害就利；要者，所以保业守成。若行不合道，举不合义，而处大居贵，患必及之。是以圣人绥之以道，理之以义，动之以礼，抚之以仁。此四德者，修之则兴，废之则衰。故成汤讨桀而夏民喜说，周武伐纣而殷人不非；举顺天人，故能然矣。”<br/>　　吴子曰；“凡制国治军，必教之以礼，励之以义，使有耻也。夫人有耻，在大，足以战；在小，跳以守矣。然战胜易，守胜难。故曰：‘天下战国，五胜者祸，四胜者弊，三胜者霸，二胜者王，一胜者帝。’是以数胜得天下者稀，以亡者众。”<br/>　　吴子曰：“凡兵之所起者有五：一曰争名，二曰争利，三曰积德恶，四曰内乱，五曰因饥。其名又有五：一曰义兵，二曰强兵，三曰刚兵，四曰暴兵，五曰逆兵。禁暴救乱曰义，恃众以伐曰强，因怒兴师曰刚，弃礼贪利曰暴，国乱人疲，举事动众曰逆。五者之数，各有其道：义必以礼服，强必以谦服，刚必以辞服，暴必以诈服，逆必以权服。”<br/>　　武侯问曰：“愿闻治兵、料人、固国之道。”起对曰：“古之明王，必谨君臣之礼，饰上下之仪，安集吏民，顺俗而教，简募良材，以备不虞。昔齐桓募士五万，以霸诸侯。晋文召为前行四万，以获其志。秦缪置陷陈三万，以服邻敌。故强国之君，必料其民。民有胆勇气力者，聚为一卒。乐以进战效力以显其忠勇者，聚为一卒。能逾高超远轻足善走者，聚为一卒。王臣失位而欲见功于上者，聚为一卒。弃城去守，欲除其丑者，聚为一卒。此五者军之练锐也。有此三千人，内出可以决围，外入可以屠城矣。”<br/>　　武侯曰：“愿闻陈必定，守必固，战必胜之道。”起对曰：“立见且可，岂直闻乎！君能使贤者居上，不肖者处下，则陈已定矣。民安其田宅，亲其有司，则守已固矣。百姓皆是吾君而非邻国，则战已胜矣。”<br/>　　武侯尝谋事，群臣莫能及，罢朝而有喜色。起进曰：“昔楚庄王尝谋事，群臣莫能及，罢朝而有忧色。申公问曰：‘君有忧色，何也？’曰：‘寡人闻之，也不绝圣，国不乏贤，能得其师者五，能得其友者霸。今寡人不才，而群臣莫及者，楚国其殆矣。’此楚庄王之所忧，而君说之，臣窃惧矣。”于是武侯有惭色。</p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-chapter-42.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-42-1110.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-42.html" action-type="chapterComment" class="comment"><i></i>吴子章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+

@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>《文序跋集》正文_《饥馑》译者附记 _鲁迅作品 - 维普阅读网</title>
+<meta name="keywords" content="文序跋集,文序跋集原文,文序跋集阅读,《饥馑》译者附记 全文,鲁迅作品" />
+<meta name="description" content="文序跋集原文阅读,《饥馑》译者附记 全文在线阅读,鲁迅作品,维普阅读网" />
+
+<link href="style/style.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=gbk">
+<!-- [if lte IE 8]>
+<meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1" />
+<![endif]-->
+
+<script type="text/javascript" charset="gbk">
+var _Profile = {
+id: "",
+type: "basic",
+name: "",
+site: "ruochu"
+}
+var _inlineCodes = [];
+    var _inlineRun = function(fn){
+    	_inlineCodes.push(fn);
+    };
+</script>
+
+<!-- debug mod -->
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/base.css" />
+<link rel="stylesheet" href="http://img.vipreading.com/_res/r_css/chapter.css" />
+<SCRIPT language=javascript>
+document.onkeydown = pageEvent;
+var prevpage="novel-read-619-7828.html";
+var nextpage="novel-read-619-7830.html";
+var indexpage = "novel-chapter-619.html";
+function pageEvent(evt){
+evt = evt ||window.event;
+var key=evt.which||evt.keyCode;
+if (key == 37) location = prevpage
+if (key == 39) location = nextpage
+if (key == 13) location = indexpage;
+};
+</SCRIPT> 
+
+</head>
+<body class="chapter">
+<div class="header">
+<div class="top">
+<div class="inner">
+<span class="logo">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-small-logo.png" width="43" height="44" alt="维普阅读网" /></a>
+</span>
+<ul class="nav">
+<li class="home active"><a href="/" title="维普阅读网"><span></span></a></li>
+<li class="rank "><a href="/novel-list-0-0-0-0-0-4-0-1.html" title="排行榜"><span></span></a></li>
+<li class="stack "><a href="/novel-list-0-0-0-0-0-0-0-1.html" title="书库"><span></span></a></li>
+<li class="forum "><a href="/forum.php" title="论坛"><span></span></a></li>
+<li class="mobile "><a href="#" title="手机版"><span></span></a></li>	
+</ul>
+<div class="search">
+<form method="post" action="/pdnovel.php?mod=search&amp;searchsubmit=yes" target="_blank">
+<input name="srchtxt" class="text" autocomplete="off" data-ph-color="#71efe7" data-ph-toggle="true" style="color: rgb(113, 239, 231);">
+<button type="submit" class="submit" title="搜索"></button>
+</form>
+</div>
+</div>
+</div>
+<div class="bottom">
+<div class="inner">
+<div class="accounts">
+
+</div>
+<div class="breadcrumb">
+<i class="icon"></i>
+<strong><a href="novel-view-619.html">文序跋集</a></strong>
+<strong><a href="novel-chapter-619.html">文序跋集目录</a></strong>
+<span>《饥馑》译者附记 </span>
+</div>
+</div>
+</div>
+</div>
+<div class="wrap">
+<div class="container">
+<div class="c-center">
+<div id="main">
+<div class="read-setting">
+<span></span>
+<a href="javascript:;" class="ok button-small button-green"></a>
+<a href="javascript:;" class="cancel button-small button-grey">忽略</a>
+</div>
+<div class="mod mod-page first-page" id="chapter177988" >				
+
+<div class="bd">
+<a href="novel-read-619-7828.html" class="previou" data-chapter-id="177977" title="上一章"><i class="icon"></i></a>
+<h1 id="chapter_title_177988"><strong>《饥馑》译者附记 </strong></h1>
+<p class="info">
+分类：<a class="cate" href="/novel-list-22.html" target="blank">文学作品</a><span class="divide">|</span>作者：<a class="name" href="/pdnovel.php?mod=search&amp;ac=author&amp;srchtxt=鲁迅&amp;searchsubmit=yes"  target="_blank">鲁迅</a><span class="divide">|</span>发布时间：2014-10-13 21:57:29<span class="divide">|</span></p>
+<div class="page-body">
+<div class="page-content">
+<p>　　萨尔蒂珂夫（Michail　Saltykov　1826—1889）是六十年代俄国改革期（2）的所谓“倾向派作家”（Tendenzios）（3）的一人，因为那作品富于社会批评的要素，主题又太与他本国的社会相密切，所以被绍介到外国的就很少。但我们看俄国文学的历史底论著的时候，却常常看见“锡且特林”（Sichedrin）（4）的名字，这是他的笔名。<br/>　　他初期的作品中。有名的是《外省故事》（5），专写亚历山大二世（6）改革前的俄国社会的缺点；这《饥馑》，却是后期作品《某市的历史》（7）之一，描写的是改革以后的情状，从日本新潮社《海外文学新选》第二十编八杉贞利（8）译的《请愿人》里重译出来的，但作者的锋利的笔尖，深刻的观察，却还可以窥见。后来波兰作家显克微支的《炭画》（9），还颇与这一篇的命意有类似之处；十九世纪末他本国的阿尔志跋绥夫的短篇小说，也有结构极其相近的东西，但其中的百姓，却已经不是“古尔波夫”（10）市民那样的人物了。<br/><br/>==========================================================================<br/><br/>　　 　本篇连同《饥馑》的译文，最初发表于一九三四年十月《译文》月刊第一卷第二期，署名许遐。<br/>　　萨尔蒂珂夫，笔名谢德林（M．E．CNUYR]TJAIGHPF，1826—1889），俄国讽刺作家及批评家，曾因抨击沙皇专制制度被流放几达八年。著有长篇小说《戈罗夫略夫老爷们》、《一个城市的历史》等。《饥馑》，又译《饥饿城》，是《一个城市的历史》中的一篇。<br/>　　（2）　六十年代俄国改革期　一八六一年二月十九日（公历三月三日），沙皇亚历山大二世在农民反封建斗争和革命民主主义运动的压力下，颁布法令，宣布废除农奴制。<br/>　　（3）　“倾向派作家”　一八四八年萨尔蒂珂夫发表中篇小说《莫名其妙的事》，被沙皇政府认为“含有危害甚大的思想倾向”和“扰乱社会治安之思想”，判处流放。后即指他和涅克拉索夫、车尔尼雪夫斯基、杜布洛留波夫等反对沙皇专制和农奴制度的革命民主主义作家为“倾向派作家”。<br/>　　（4）　“锡且特林”　通译谢德林。<br/>　　（5）　《外省故事》　今译《外省散记》，发表于一八五六年。<br/>　　（6）　亚历山大二世（EUI]XNFGHQ　Ⅱ，1818—1881）　俄国沙皇。一八五五年即位，后在彼得堡被民粹派的秘密团体民意党人炸死。<br/>　　（7）　《某市的历史》　即《一个城市的历史》，萨尔蒂珂夫后期著名的讽刺长篇小说之一。<br/>　　（8）　八杉贞利（1876—1966）　日本的俄语学者，东京外语大学教授。一九四六年创立“日本俄罗斯文学会”，担任会长。<br/>　　（9）　《炭画》　波兰作家显克微支作的中篇小说。有周作人译本，一九一四年四月北京文明书局出版。<br/>　　（10）　“古尔波夫”　俄语MU<br/>　　HTJ的音译，“愚人”的意思。小说《一个城市的历史》是假讬“古尔波夫市”的历史以讽刺现实。 </p></div>
+</div>
+</div>
+<div class="ft">
+<div class="ft-bd">
+<div class="control">
+<span class="divide">|</span>
+<a href="novel-read-619-7828.html" action-type="upordown" control-type="good" class="good"><i></i>[← 快捷键 ] 上一章</a>
+<a href="novel-read-619-7830.html" action-type="upordown" control-type="bad" class="bad"><i></i>下一章 [ 快捷键 →]</a>
+<span>
+<a href="novel-chapter-619.html" action-type="chapterComment" class="comment"><i></i>文序跋集章节目录(<em class="num">0</em>)</a>
+
+</span>
+</div>
+</div>
+</div>
+</div> 
+<div class="footer">
+<div class="copy center">
+<table width="100%" class="fixed-table">
+<tr>
+<td width="70">
+<a href="/"><img src="http://img.vipreading.com/_assets/r-foot-logo.png" width="56" height="56" alt="维普阅读网" /></a>
+</td>
+<td>
+<div class="column-2">
+<div class="left" style="padding-top:10px;">
+<p>
+<span><a href="/" target="blank">维普阅读网</a>所收录的<a href="/" target="blank"><strong>文学作品</strong></a>、<a href="/" target="blank"><strong>文学名著</strong></a>属</span><span>免费阅读的作品，供广大书友免费在线阅读，</span><span>不收取书友们任何费用。
+</span>
+
+</p>
+<p>
+<em>维普阅读网所有文学作品均来自于互联网，如您发现侵权、违法、存在不和谐内容，请联系本站，我们将尽快进行删除处理!</em>
+&nbsp;&nbsp;&nbsp;&nbsp;客服邮箱：kefu@vipreading.com
+</p>
+</div>
+<div class="right ar">
+<p>
+<a href="/">联系我们</a>
+<a href="/sitemap.xml">sitemap</a><script>
+window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"2","bdPos":"right","bdTop":"100"},"image":{"viewList":["qzone","tsina","tqq","renren","weixin"],"viewText":"分享到：","viewSize":"16"},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+</p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</body>
+
+<!-- vipreading.com Baidu tongji analytics -->
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F217da1e5b7b56324f049684bda525bb6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</html>
+
